@@ -1,4 +1,4 @@
-Token ID,Token,Lemma,GSMS,Farsi Token,Farsi Lemma,POS FAR,BN Synset,Correct? ,Synonyms?,BN Gloss,Token ID FAR,Annotator notes,Farsi Lemma - BN Synset,Farsi Lemma - BN Gloss,English Lemma - WN Synsets,English Lemma - WN Glosses,English Lemma - BN Synsets,English Lemma - BN Glosses
+Token ID,Token,Lemma,GSMS,Farsi Token,Farsi Lemma,POS FAR,BN Synset,Correct?,Synonyms?,BN Gloss,Token ID FAR,Annotator notes,Farsi Lemma - BN Synset,Farsi Lemma - BN Gloss,English Lemma - WN Synsets,English Lemma - WN Glosses,English Lemma - BN Synsets,English Lemma - BN Glosses
 d001.s001.t001,This,,X,این,این,DET,n/a,,,n/a,d001.s001.t001,,,,,,,
 d001.s001.t002,document,document,N,سند,سند,NOUN,bn:00028015n,1,,Writing that provides information (especially information of an official nature),d001.s001.t002,,,,,,,
 d001.s001.t003,is,be,V,است,است,VERB,n/a,,,n/a,d001.s001.t012,,,,,,,

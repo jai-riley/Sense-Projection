@@ -123,7 +123,31 @@ def evaluate(gold_sentences, pred_sentences):
     print(
         f"F1 Score: {f1 / len(gold_sentences.keys()):.2f}\nPrecision: {p / len(gold_sentences.keys()):.2f} \nRecall: {r / len(gold_sentences.keys()):.2f}")
 
+def get_column(csv_file,row_val, second =None):
+    listt = []
+    with open(csv_file, 'r', newline='', encoding="utf-8-sig") as file:
+        reader = csv.DictReader(file)
+        for row in reader:
 
-gold_sentences = read_csv_file("out_senses.csv")
-pred_sentences = read_csv_file("out_senses_farsi_GOLD.csv")
-evaluate(gold_sentences, pred_sentences)
+            if row[row_val]:
+                if second:
+                    if row[second]:
+                        listt.append(int(row[row_val]))
+                else:
+                    listt.append(int(row[row_val]))
+    return listt
+
+def evaluate_manual(silver,gold):
+    l1 = get_column(silver,"Correct?")
+    l2 = get_column(gold, "Add Annotation","BN Synset")
+    print(sum(l1)/len(l1))
+    print(sum(l1)/(len(l1)+len(l2)))
+    return
+
+
+evaluate_manual("../data/farsi_silver.csv","../data/farsi_gold.csv")
+
+#
+# gold_sentences = read_csv_file("out_senses.csv")
+# pred_sentences = read_csv_file("out_senses_farsi_GOLD.csv")
+# evaluate(gold_sentences, pred_sentences)
