@@ -1,0 +1,11 @@
+ services:
+  amuse-large-multilingual-cpu:1.2.0:
+    command:
+    - "amuse-large-multilingual-cpu:1.2.0\r\n"
+    container_name: amuse-large-multilingual
+    environment:
+      LANGUAGES: "EN ES HI FA AR AF ID"
+    image: \
+    ports:
+    - "12345:80"
+version: '3'
