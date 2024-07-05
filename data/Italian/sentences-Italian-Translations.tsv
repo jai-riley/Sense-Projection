@@ -71,7 +71,7 @@ i002.s031	We can use plus(), times() and everything which has its operator.	Poss
 i002.s032	kalgebra's console is useful as a calculator.	La console di Kalgebra è utile come calcolatrice.
 i002.s033	There you have a list of the declared variables.	Lì hai un elenco delle variabili dichiarate.
 i002.s034	By double clicking on them you will see a dialog that lets you change their values (just a way to trick the log).	Facendo doppio clic su di essi vedrai una finestra di dialogo che ti consentirà di modificare i loro valori (solo un modo per ingannare il registro).
-i002.s035	"Every time you enter an expression, the "" ans "" variable value will be changed to the last result."	Ogni volta che inserisci un&#39;espressione, il valore della variabile &quot; ans &quot; verrà modificato nell&#39;ultimo risultato.
+i002.s035	Every time you enter an expression, the " ans " variable value will be changed to the last result.	Ogni volta che inserisci un&#39;espressione, il valore della variabile &quot; ans &quot; verrà modificato nell&#39;ultimo risultato.
 i002.s036	Ctrl N New Window	Ctrl N Nuova finestra
 i002.s037	Flushes the log.	Svuota il registro.
 i002.s038	Ctrl L Load Script	Ctrl L Carica script
