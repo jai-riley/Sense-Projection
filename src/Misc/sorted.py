@@ -1,8 +1,8 @@
 import pandas as pd
 
 # Load the TSV file
-input_file = '/Users/jairiley/Desktop/Research/Sense-Projection/src/main/res/results/tokens_aligned-Italian.tsv'
-output_file = '/Users/jairiley/Desktop/Research/Sense-Projection/src/main/res/results/tokens_aligned-Italian_sorted.tsv'
+input_file = '../../data/Italian/tokens_aligned-Italian.tsv'
+output_file = '../../data/Italian/tokens_aligned-Italian_sorted.tsv'
 
 # Read the TSV file into a DataFrame
 df = pd.read_csv(input_file, sep='\t')

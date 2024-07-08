@@ -1,140 +1,134 @@
-ID	Sentence
-es001.s001	En el presente documento se resume el Informe Público Europeo de Evaluación ( EPAR ) .
-es001.s002	En él se explica cómo el Comité de Medicamentos de Uso Humano ( CHMP ) ha evaluado los estudios realizados con el medicamento a fin de emitir unas recomendaciones sobre su uso .
-es001.s003	Si desea más información sobre su enfermedad o el tratamiento de la misma , le aconsejamos que lea el prospecto ( incluido en el EPAR ) o pregunte a su médico o su farmacéutico .
-es001.s004	Si desea más información sobre el fundamento en el que se han basado las recomendaciones del CHMP , le aconsejamos que lea el Debate Científico ( también incluido en el EPAR ) .
-es001.s005	¿Qué es Alimta ?
-es001.s006	Alimta es un polvo con el que se prepara una solución para perfusión ( goteo en vena ) .
-es001.s007	Contiene el principio activo pemetrexed .
-es001.s008	¿Para qué se utiliza Alimta ?
-es001.s009	Alimta está indicado para el tratamiento de dos tipos de cáncer : mesotelioma pleural ( cáncer del revestimiento de los pulmones causado generalmente por la exposición al amianto ) .
-es001.s010	Alimta se administra en combinación con cisplatino ( otro medicamento contra el cáncer ) cuando el tumor « no es resecable » ( no puede extirparse sólo mediante cirugía ) y es « maligno » ( se ha extendido , o es probable que se extienda fácilmente , a otras partes del cuerpo ) , en pacientes que no han recibido quimioterapia ( medicamentos contra el cáncer ) previamente , cáncer de pulmón « no microcítico » avanzado o metastásico que no afecte a las células « escamosas » .
-es001.s011	Alimta se utiliza en combinación con cisplatino en pacientes que no han sido tratados previamente y en monoterapia en pacientes que han sido tratado previamente con otros tipos de quimioterapia .
-es001.s012	Este medicamento sólo podrá dispensarse con receta médica .
-es001.s013	¿Cómo se usa Alimta ?
-es001.s014	Alimta sólo debe administrarse bajo la supervisión de un médico cualificado en el uso de quimioterapia contra el cáncer .
-es001.s015	La dosis recomendada de Alimta es de 500 mg por metro cuadrado de superficie corporal ( calculada a partir de la estatura y el peso del paciente ) .
-es001.s016	Se administra una vez cada tres semanas por perfusión intravenosa durante 10 minutos .
-es001.s017	Con el fin de reducir los efectos secundarios , los pacientes deben recibir un corticosteroide y ácido fólico ( un tipo de vitamina ) , así como inyecciones de vitamina B12 durante el tratamiento con Alimta .
-es001.s018	Cuando Alimta se utiliza conjuntamente con cisplatino , hay que administrar además un medicamento « antiemético » ( para evitar los vómitos ) y líquidos ( para evitar la deshidratación ) antes o después de la dosis de cisplatino .
-es001.s019	Será necesario retrasar o suspender el tratamiento , o reducir la dosis , en pacientes que presenten alteraciones en los recuentos sanguíneos o determinados efectos secundarios .
-es001.s020	No se recomienda administrar Alimta a pacientes con problemas renales moderados o graves .
-es001.s021	Si desea más información , consulte el Resumen de las Características del Producto , que también forma parte del EPAR .
-es001.s022	¿Cómo actúa Alimta ?
-es001.s023	El principio activo de Alimta , el pemetrexed , es un medicamento citotóxico ( un medicamento que destruye las células que están en fase de división , como las cancerosas ) que pertenece al grupo de los « antimetabolitos » .
-es001.s024	En el organismo , el pemetrexed se convierte en una forma activa que bloquea la actividad de las enzimas que participan en la producción de « nucleótidos » ( elementos esenciales del ADN y el ARN , el material genético de las células ) .
-es001.s025	¿Qué tipo de estudios se han realizado con Alimta ?
-es001.s026	Por lo que se refiere al tratamiento del mesotelioma pleural maligno , Alimta ha sido evaluado en un estudio principal realizado en 456 pacientes que no habían recibido quimioterapia anteriormente .
-es001.s027	Se compararon los efectos de Alimta en combinación con cisplatino con los efectos del cisplatino administrado en solitario .
-es001.s028	En cuanto al tratamiento del cáncer de pulmón no microcítico , se compararon los efectos de Alimta con los del docetaxel ( otro medicamento contra el cáncer ) en un estudio realizado en 571 pacientes con enfermedad localmente avanzada o metastásica que habían recibido quimioterapia previamente .
-es001.s029	Alimta también se comparó con gemcitabina ( otro medicamento contra el cáncer ) , ambos en combinación con cisplatino , en un estudio con 1.725 pacientes que no habían recibido quimioterapia contra el cáncer de pulmón previamente .
-es001.s030	En los tres estudios , el criterio principal de valoración de la eficacia fue el tiempo de supervivencia de los pacientes .
-es001.s031	¿Qué beneficio ha demostrado tener Alimta durante los estudios ?
-es001.s032	Alimta prolongó el tiempo de supervivencia de los pacientes con mesotelioma pleural maligno .
-es001.s033	Los pacientes que recibieron Alimta y cisplatino sobrevivieron una media de 12,1 meses , mientras que la supervivencia de los enfermos tratados sólo con cisplatino fue de 9,3 meses .
-es001.s034	En el tratamiento de pacientes con cáncer de pulmón no microcítico , Alimta fue tan efectivo como los medicamentos de comparación .
-es001.s035	En los pacientes que habían recibido quimioterapia previamente , el tiempo medio de supervivencia fue de 8,3 meses con Alimta frente a 7,9 meses con docetaxel .
-es001.s036	En pacientes que no habían recibido previamente quimioterapia , el tiempo medio de supervivencia fue de 10,3 meses en ambos grupos .
-es001.s037	No obstante , los pacientes de ambos estudios cuyo cáncer no afectaba a las células escamosas presentaban un mayor tiempo de supervivencia cuando recibían Alimta que cuando recibían el medicamento de comparación .
-es001.s038	Por el contrario , los pacientes cuyo cáncer estaba afectando a las células escamosas presentaron tiempos de supervivencia más breve si se les trataba con Alimta .
-es002.s001	kalgebra es una calculadora matemática basada en el lenguaje de marcado MathML .
-es002.s002	Hoy en día es capaz de realizar operaciones simples ( aritméticas y lógicas ) usando MathML y de representarlas en gráficas de dos y tres dimensiones .
-es002.s003	No es necesario conocer MathML para usar kalgebra .
-es002.s004	kalgebra es una calculadora gráfica basada en MathML .
-es002.s005	Aunque en un principio estuvo orientado a MathML , actualmente puede ser usado por cualquier persona , aunque posea pocos conocimientos matemáticos .
-es002.s006	Aquí se muestra una captura de la ventana principal de kalgebra .
-es002.s007	Ventana principal de kalgebra
-es002.s008	La ventana principal de kalgebra consta de cuatro pestañas : Consola , Gráfica 2D , Gráfica 3D y Diccionario .
-es002.s009	Bajo estas pestañas encontrará un campo de entrada donde podrá introducir sus funciones o realizar sus cálculos .
-es002.s010	Para entender cómo funciona , conviene comprender que lo que introducimos está siendo convertido a MathML , aunque no es necesario conocer MathML .
-es002.s011	He basado la sintaxis en el sentido común , por lo que debería ser asequible para todos .
-es002.s012	He tenido también en cuenta las sintaxis de Maxima y Maple , por lo que es muy similar a estas .
-es002.s013	+ - * / : suma , resta , multiplicación y división .
-es002.s014	^ , ** : potencia , puede usar cualquiera de las dos formas .
-es002.s015	Asimismo , puede usar los caracteres unicode ² .
-es002.s016	Las potencias son también una forma de expresar raíces .
-es002.s017	-gt : Permite especificar la variable limitada en una función .
-es002.s018	( ) : se usa para especificar una prioridad mayor .
-es002.s019	abc(parámetros) : Cuando el analizador sintáctico encuentra una función , comprueba si « abc » es un operador .
-es002.s020	Si lo es , lo trata como un operador si no lo es , lo trata como una función de usuario .
-es002.s021	: = : Se usa para definir el valor de una variable .
-es002.s022	? : definición de condiciones en funciones definidas a trozos ( « piecewise » ) .
-es002.s023	Permite definir operaciones condicionales en kalgebra .
-es002.s024	Cuando introducimos la condición antes del símbolo « ? » , kalgebra utiliza esta condición solo si es verdadera en cambio , si encuentra un símbolo « ? » sin ninguna condición , toma en cuenta el último caso .
-es002.s025	{ } : Puede usarse para definir un contenedor .
-es002.s026	Es muy útil a la hora de trabajar con funciones definidas a trozos .
-es002.s027	Ahora puede preguntarme por qué debería el usuario preocuparse por MathML .
-es002.s028	La respuesta es fácil . Con esto podremos realizar operaciones con funciones como cos() , sin() ( o cualquier otra función trigonométrica ) , sum() o product() .
-es002.s029	No importa el tipo de función que sea .
-es002.s030	Podremos usar plus() , times() y cualquier cosa a la que le corresponda un operador .
-es002.s031	La consola de kalgebra es tan útil como una calculadora .
-es002.s032	Aquí tiene una lista de las variables declaradas .
-es002.s033	Si pulsa dos veces sobre una de ellas , le aparecerá un diálogo con el que podrá cambiar su valor ( es una forma de engañar al registro ) .
-es002.s034	Cada vez que introduzca una expresión , el valor de la variable « ans » cambiará para reproducir el último resultado .
-es002.s035	Ctrl N Nuevo
-es002.s036	Refresca el registro .
-es002.s037	Ctrl L Cargar un guión
-es002.s038	Ejecuta las instrucciones en una archivo de forma secuencial .
-es002.s039	Es útil si lo que desea es definir una biblioteca o reanudar un trabajo anterior .
-es002.s040	Ctrl G Guardar el guión
-es002.s041	Guarda las intrucciones que ha introducido desde que comenzó la sesión , con lo que podrá reutilizarlas .
-es002.s042	Genera un archivo de texto que podrá corregir usando cualquier editor de texto , por ejemplo Kate .
-es002.s043	Ctrl S Guardar el registro
-es002.s044	Guarda el registro con todos los resultados en un archivo HTML que podrá imprimir o publicar .
-es002.s045	Ctrl Q Salir
-es002.s046	Cierra el programa .
-es002.s047	Para añadir un gráfica 2D en kalgebra , lo que tiene que hacer es ir a la pestaña Gráfica 2D y aquí pulsar la pestaña Añadir , que le permitirá añadir una nueva función .
-es002.s048	A continuación tendrá dirigirse al cuadro de texto de entrada , donde podrá introducir su función .
-es002.s049	Si quiere usar una función f(x) típica , no es necesario que la especifique .
-es002.s050	Después de haber introducido la función , pulse el botón Aceptar para dibujar la gráfica en la ventana principal .
-es002.s051	Es posible dibujar varias gráficas en la misma vista .
-es002.s052	Para esto use simplemente el botón Añadir cuando se encuentre en el modo Lista .
-es002.s053	Puede ajustar el color de cada gráfica .
-es002.s054	Puede configurar cada gráfico con su propio color.
-es003.s001	La Fundación ha intervenido recientemente en la organización de una conferencia sobre este decisivo reto .
-es003.s002	Asistieron más de 100 participantes en representación de los principales grupos de interés , los cuales discutieron cuestiones tales como el papel de los principales agentes , entre ellos , las autoridades públicas , los interlocutores sociales y las organizaciones comunitarias y de voluntarios , además de los propios usuarios .
-es003.s003	Se llegó a la conclusión de que es necesario adoptar un enfoque más global que tenga en cuenta que los usuarios no se sirven de esos servicios de forma aislada , sino como parte de su vida cotidiana .
-es003.s004	Se tomó nota también de la diversidad de funciones que desempeñan estos servicios
-es003.s005	La Fundación organizó , junto con la Comisión Europea , el Ministerio español de Asuntos Sociales y la Comunidad Autónoma de Galicia , una conferencia europea sobre el tema " Exclusión social : Un gran reto para los servicios públicos de protección social " .
-es003.s006	La Fundación publicó recientemente en el marco del proyecto EPOC un estudio comparativo en el que se evalúa hasta qué punto la participación directa puede humanizar el trabajo e incrementar al mismo tiempo la rentabilidad .
-es003.s007	El estudio se basa en 195 entrevistas personales con altos responsables de los interlocutores sociales , en su calidad de representantes de importantes organizaciones nacionales de 15 países europeos .
-es003.s008	La industria del metal y el sector bancario se incluyeron también en atención a su importancia .
-es003.s009	Los principales oradores en la conferencia sobre exclusión socialfueron ( de izquierda a derecha ) Cristina Louro , Dirección General de Empleo , Relaciones Laborales y Asuntos Sociales de la Comisión Europea Fernando Gomes , Comité de las Regiones Barbara Weiler , diputada al Parlamento Europeo José María Gil-Robles Gil-Delgado , Vicepresidente , Parlamento Europeo , John Carroll Comité Económico y Social
-es003.s010	En cada informe nacional se incluyen las 25 o 30 iniciativas que mejor reflejan prácticas y políticas de mejora de la contratación , la formación y el desarrollo profesional de los trabajadores mayores en el lugar de trabajo y a nivel de la comunidad .
-es003.s011	Se seleccionaron dos o tres iniciativas por cada país , para que fueran objeto de un estudio de caso detallado .
-es003.s012	En estos estudios de caso se han analizado el contexto de esas iniciativas y sus repercusiones en las pautas de empleo y en las organizaciones , y se han evaluado las ventajas y problemas derivados de las mismas .
-es003.s013	Se han realizado además visitas y entrevistas a miembros clave del personal .
-es003.s014	Estos estudios nacionales constituirán la liase de un informe europeo en el que se resumirán las prácticas generales .
-es003.s015	El informe y un repertorio de iniciativas se publicarán en 1996 , y servirán de telón de fondo a una conferencia que se celebrará el próximo otoño .
-es003.s016	La Fundación se propone documentar las características de los obstáculos relacionados con la edad en materia de contratación y formación , y analizar sus causas .
-es003.s017	Está examinando asimismo los puntos de vista de los interlocutores sociales , prestando especial atención a las propuestas para eliminar dichos obstáculos .
-es003.s018	En tercer lugar , el proyecto documenta y evalúa las iniciativas de los sectores público y privado para combatir estas limitaciones , especialmente en relación con los trabajadores mayores .
-es003.s019	El proyecto , que busca alternativas a la jubilación anticipada y al despido , se ocupa ante todo de la retención , la reintegración y la reconversión profesional de los trabajadores mayores .
-es003.s020	Estudia asimismo liasta qué punto influyen el sexo y la raza de los trabajadores en la discriminación por razón de la edad .
-es003.s021	El proyecto tiene en cuenta , por otra paite , las iniciativas para luchar contra esta clase de discriminación en las zonas rurales y en las pequeñas y medianas empresas .
-es003.s022	Siete Estados miembros se incluyen en el proyecto : Alemania , Bélgica , Francia , Grecia , Italia , Países Bajos y Reino Unido .
-es003.s023	El proyecto abarca siete Estados miembros: Bélgica, Francia, Alemania, Grecia, Italia, Países Bajos y Reino Unido.
-es004.s001	Resumen del EPAR para el público general
-es004.s002	En el presente documento se resume el Informe Público Europeo de Evaluación , y se explica cómo la evaluación del Comité de Medicamentos de Uso Veterinario ( CVMP ) , efectuada a partir de los estudios existentes , ha llevado a las recomendaciones sobre las condiciones de uso del medicamento .
-es004.s003	¿Qué es Cerenia ?
-es004.s004	Cerenia contiene el principio activo maropitant y se presenta en forma de comprimidos o de solución inyectables .
-es004.s005	Los comprimidos son de color naranja claro y tienen una ranura en ambas caras , lo que permite dividirlos por la mitad .
-es004.s006	Cada comprimido va marcado con el logo Pfizer en una cara y las letras MPT y la cantidad de maropitant en la otra .
-es004.s007	¿Para qué se utiliza Cerenia ?
-es004.s008	Cerenia es un antiemético ( ataja los vómitos ) .
-es004.s009	Se utiliza en perros para la prevención de los vómitos , por ejemplo los causados por la quimioterapia ( fármacos utilizados para el tratamiento del cáncer , algunos de los cuales producen vómitos ) .
-es004.s010	Combinado con otras medidas complementarias , como otros tratamientos veterinarios o una dieta especial , Cerenia se utiliza también como tratamiento del vómito ( como inyección o como inyección seguida de comprimidos ) .
-es004.s011	A estos efectos , Cerenia se puede administrar durante un período de hasta cinco días .
-es004.s012	¿Cómo actúa Cerenia ?
-es004.s013	Cerenia bloquea los receptores de neurocinina 1 ( NK1 ) en el sistema nervioso central .
-es004.s014	¿Qué tipo de estudios se han realizado sobre Cerenia ?
-es004.s015	Se han realizado una gran cantidad de estudios con Cerenia en perros de laboratorio y en perros pacientes de clínicas veterinarias de varios países europeos y de EE.UU.
-es004.s016	¿Qué beneficios ha demostrado Cerenia durante dichos estudios ?
-es004.s017	Los resultados de los estudios demostraron que Cerenia fue más eficaz que el placebo : se observaron menos vómitos en los perros que recibieron el medicamento que en los perros que recibieron placebo , bien como tratamiento , bien como prevención del vómito .
-es004.s018	El tratamiento de un perro con vómitos debe iniciarse en forma inyectable puesto que los animales con vómitos podrían no retener el comprimido ( podrían vomitar el comprimido intacto ) .
-es004.s019	Para la continuación del tratamiento , el propietario puede administrar el medicamento al animal en forma de comprimidos .
-es004.s020	El tratamiento del vómito debe realizarse siempre en asociación con otras medidas de apoyo u otros tratamientos veterinarios para combatir también la causa subyacente del vómito .
-es004.s021	¿Cuáles son los efectos secundarios de Cerenia ?
-es004.s022	En general , Cerenia fue bien tolerado cuando se administró diariamente a dosis de hasta 5 veces la dosis recomendada durante un período de tiempo prolongado ( hasta 3 veces la duración máxima recomendada del tratamiento ) .
-es004.s023	¿Qué precauciones debe adoptar la persona que administre el medicamento o esté en contacto con el animal ?
-es004.s024	Cerenia no presenta ningún riesgo especial para el ser humano .
+ID	English	Spanish
+d001.s001	This document is a summary of the European Public Assessment Report ( EPAR ) .	En el presente documento se resume el Informe Público Europeo de Evaluación ( EPAR ) .
+d001.s002	It explains how the Committee for Medicinal Products for Human Use ( CHMP ) assessed the studies performed, to reach their recommendations on how to use the medicine .	En él se explica cómo el Comité de Medicamentos de Uso Humano ( CHMP ) ha evaluado los estudios realizados con el medicamento a fin de emitir unas recomendaciones sobre su uso .
+d001.s003	If you need more information about your medical condition or your treatment, read the Package Leaflet ( also part of the EPAR ) or contact your doctor or pharmacist .	Si desea más información sobre su enfermedad o el tratamiento de la misma , le aconsejamos que lea el prospecto ( incluido en el EPAR ) o pregunte a su médico o su farmacéutico .
+d001.s004	If you want more information on the basis of the CHMP recommendations, read the Scientific Discussion ( also part of the EPAR ) .	Si desea más información sobre el fundamento en el que se han basado las recomendaciones del CHMP , le aconsejamos que lea el Debate Científico ( también incluido en el EPAR ) .
+d001.s005	What is Alimta ?	¿Qué es Alimta ?
+d001.s006	Alimta is a powder that is made up into a solution for infusion ( drip into a vein ) .	Alimta es un polvo con el que se prepara una solución para perfusión ( goteo en vena ) .
+d001.s007	It contains the active substance pemetrexed .	Contiene el principio activo pemetrexed .
+d001.s008	What is Alimta used for ?	¿Para qué se utiliza Alimta ?
+d001.s009	Alimta is used to treat two types of cancer: pleural mesothelioma ( cancer of the lining of the lungs that is usually caused by exposure to asbestos ) .	Alimta está indicado para el tratamiento de dos tipos de cáncer : mesotelioma pleural ( cáncer del revestimiento de los pulmones causado generalmente por la exposición al amianto ) .
+d001.s010	Alimta is used together with cisplatin ( another anticancer medicine ) when the cancer is unresectable ( cannot be removed by surgery alone ) and malignant ( has spread , or is likely to spread easily , to other parts of the body ) , in patients who have not received chemotherapy ( medicines for cancer ) before advanced or metastatic non-small cell lung cancer that is not affecting the squamous cells . 	Alimta se administra en combinación con cisplatino ( otro medicamento contra el cáncer ) cuando el tumor « no es resecable » ( no puede extirparse sólo mediante cirugía ) y es « maligno » ( se ha extendido , o es probable que se extienda fácilmente , a otras partes del cuerpo ) , en pacientes que no han recibido quimioterapia ( medicamentos contra el cáncer ) previamente , cáncer de pulmón « no microcítico » avanzado o metastásico que no afecte a las células « escamosas » .
+d001.s011	Alimta is used in combination with cisplatin in patients who have not been treated before, and on its own in patients who have received another type of chemotherapy in the past.	Alimta se utiliza en combinación con cisplatino en pacientes que no han sido tratados previamente y en monoterapia en pacientes que han sido tratado previamente con otros tipos de quimioterapia .
+d001.s012	The medicine can only be obtained with a prescription.	Este medicamento sólo podrá dispensarse con receta médica .
+d001.s013	How is Alimta used?	¿Cómo se usa Alimta ?
+d001.s014	Alimta should only be given under the supervision of a doctor who is qualified in the use of anticancer chemotherapy.	Alimta sólo debe administrarse bajo la supervisión de un médico cualificado en el uso de quimioterapia contra el cáncer .
+d001.s015	The recommended dose of Alimta is 500 mg per square metre of body surface area (calculated using the patient's height and weight).	La dosis recomendada de Alimta es de 500 mg por metro cuadrado de superficie corporal ( calculada a partir de la estatura y el peso del paciente ) .
+d001.s016	It is given once every three weeks as an intravenous infusion lasting 10 minutes.	Se administra una vez cada tres semanas por perfusión intravenosa durante 10 minutos .
+d001.s017	To reduce side effects, patients should take a corticosteroid and folic acid (a type of vitamin), and receive injections of vitamin B12 during treatment with Alimta.	Con el fin de reducir los efectos secundarios , los pacientes deben recibir un corticosteroide y ácido fólico ( un tipo de vitamina ) , así como inyecciones de vitamina B12 durante el tratamiento con Alimta .
+d001.s018	When Alimta is given with cisplatin, an anti-emetic medicine (to prevent vomiting) and fluids (to prevent dehydration) should also be given before or after the cisplatin dose.	Cuando Alimta se utiliza conjuntamente con cisplatino , hay que administrar además un medicamento « antiemético » ( para evitar los vómitos ) y líquidos ( para evitar la deshidratación ) antes o después de la dosis de cisplatino .
+d001.s019	Treatment should be delayed or discontinued, or the dose reduced, in patients whose blood counts are abnormal or who have certain other side effects.	Será necesario retrasar o suspender el tratamiento , o reducir la dosis , en pacientes que presenten alteraciones en los recuentos sanguíneos o determinados efectos secundarios .
+d001.s020	Alimta is not recommended for use in patients with moderate or severe kidney problems.	No se recomienda administrar Alimta a pacientes con problemas renales moderados o graves .
+d001.s021	For more information, see the Summary of Product Characteristics (also part of the EPAR).	Si desea más información , consulte el Resumen de las Características del Producto , que también forma parte del EPAR .
+d001.s022	How does Alimta work?	¿Cómo actúa Alimta ?
+d001.s023	The active substance in Alimta, pemetrexed, is a cytotoxic medicine (a medicine that kills cells that are dividing, such as cancer cells), which belongs to the group antimetabolites.	El principio activo de Alimta , el pemetrexed , es un medicamento citotóxico ( un medicamento que destruye las células que están en fase de división , como las cancerosas ) que pertenece al grupo de los « antimetabolitos » .
+d001.s024	In the body, pemetrexed is converted into an active form that blocks the activity of the enzymes that are involved in producing nucleotides (the building blocks of DNA and RNA, the genetic material of cells).	En el organismo , el pemetrexed se convierte en una forma activa que bloquea la actividad de las enzimas que participan en la producción de « nucleótidos » ( elementos esenciales del ADN y el ARN , el material genético de las células ) .
+d001.s025	How has Alimta been studied?	¿Qué tipo de estudios se han realizado con Alimta ?
+d001.s026	For the treatment of malignant pleural mesothelioma, Alimta has been studied in one main study in 456 patients who had not received chemotherapy for their disease before.	Por lo que se refiere al tratamiento del mesotelioma pleural maligno , Alimta ha sido evaluado en un estudio principal realizado en 456 pacientes que no habían recibido quimioterapia anteriormente .
+d001.s027	The effects of Alimta in combination with cisplatin were compared with those of cisplatin alone.	Se compararon los efectos de Alimta en combinación con cisplatino con los efectos del cisplatino administrado en solitario .
+d001.s028	For the treatment of non-small cell lung cancer, the effects of Alimta were compared with those of docetaxel (another anticancer medicine) in one study involving 571 patients with locally advanced or metastatic disease who had received chemotherapy in the past.	En cuanto al tratamiento del cáncer de pulmón no microcítico , se compararon los efectos de Alimta con los del docetaxel ( otro medicamento contra el cáncer ) en un estudio realizado en 571 pacientes con enfermedad localmente avanzada o metastásica que habían recibido quimioterapia previamente .
+d001.s029	Alimta was also compared with gemcitabine (another anticancer medicine), both in combination with cisplatin, in a study involving 1,725 patients who had not received chemotherapy for lung cancer in the past.	Alimta también se comparó con gemcitabina ( otro medicamento contra el cáncer ) , ambos en combinación con cisplatino , en un estudio con 1.725 pacientes que no habían recibido quimioterapia contra el cáncer de pulmón previamente .
+d001.s030	In all three studies, the main measure of effectiveness was how long the patients survived.	En los tres estudios , el criterio principal de valoración de la eficacia fue el tiempo de supervivencia de los pacientes .
+d001.s031	What benefit has Alimta shown during the studies?	¿Qué beneficio ha demostrado tener Alimta durante los estudios ?
+d001.s032	Alimta increased the survival time of patients with malignant pleural mesothelioma.	Alimta prolongó el tiempo de supervivencia de los pacientes con mesotelioma pleural maligno .
+d001.s033	Patients receiving Alimta and cisplatin survived for an average of 12.1 months, compared with 9.3 months in those receiving cisplatin alone.	Los pacientes que recibieron Alimta y cisplatino sobrevivieron una media de 12,1 meses , mientras que la supervivencia de los enfermos tratados sólo con cisplatino fue de 9,3 meses .
+d001.s034	In the treatment of patients with non-small cell lung cancer, Alimta was as effective as the comparators.	En el tratamiento de pacientes con cáncer de pulmón no microcítico , Alimta fue tan efectivo como los medicamentos de comparación .
+d001.s035	In patients who had received chemotherapy in the past, the average survival time was 8.3 months with Alimta, compared with 7.9 months with docetaxel.	En los pacientes que habían recibido quimioterapia previamente , el tiempo medio de supervivencia fue de 8,3 meses con Alimta frente a 7,9 meses con docetaxel .
+d001.s036	In patients who had not received chemotherapy in the past, the average survival time was 10.3 months in both groups.	En pacientes que no habían recibido previamente quimioterapia , el tiempo medio de supervivencia fue de 10,3 meses en ambos grupos .
+d001.s037	However, in both studies, patients whose cancer was not affecting squamous cells had longer survival times if they received Alimta than if they received the comparator.	No obstante , los pacientes de ambos estudios cuyo cáncer no afectaba a las células escamosas presentaban un mayor tiempo de supervivencia cuando recibían Alimta que cuando recibían el medicamento de comparación .
+d002.s001	kalgebra is a mathematical calculator based on content markup MathML language.	kalgebra es una calculadora matemática basada en el lenguaje de marcado MathML .
+d002.s002	Nowadays it is capable to make simple MathML operations (arithmetic and logical) and to representate 2D and 3D graphs.	Hoy en día es capaz de realizar operaciones simples ( aritméticas y lógicas ) usando MathML y de representarlas en gráficas de dos y tres dimensiones .
+d002.s003	It is actually not necessary to know MathML to use kalgebra.	No es necesario conocer MathML para usar kalgebra .
+d002.s004	kalgebra is a MathML based graph calculator.	kalgebra es una calculadora gráfica basada en MathML .
+d002.s005	Although it was initially MathML oriented it can now be used by everyone with little mathematical knowledge.	Aunque en un principio estuvo orientado a MathML , actualmente puede ser usado por cualquier persona , aunque posea pocos conocimientos matemáticos .
+d002.s006	Here's a screenshot of kalgebra main window	Aquí se muestra una captura de la ventana principal de kalgebra .
+d002.s007	kalgebra main window	Ventana principal de kalgebra
+d002.s008	kalgebra main window consists in a Console tab, a 2D Graph tab, a 3D Graph tab and a Dictionary tab.	La ventana principal de kalgebra consta de cuatro pestañas : Consola , Gráfica 2D , Gráfica 3D y Diccionario .
+d002.s009	Below these tabs you will find an input field to type your functions or do your calculations.	Bajo estas pestañas encontrará un campo de entrada donde podrá introducir sus funciones o realizar sus cálculos .
+d002.s010	If we want to understand how it works, the best thing we can do is to realize that our input is being converted into MathML although it is not necessary to know MathML.	Para entender cómo funciona , conviene comprender que lo que introducimos está siendo convertido a MathML , aunque no es necesario conocer MathML .
+d002.s011	I have based the syntax basically on common sense, it should not be hard for anyone.	He basado la sintaxis en el sentido común , por lo que debería ser asequible para todos .
+d002.s012	I've looked closely to maxima and maple's syntax so they look very similar.	He tenido también en cuenta las sintaxis de Maxima y Maple , por lo que es muy similar a estas .
+d002.s013	#ERROR!	+ - * / : suma , resta , multiplicación y división .
+d002.s014	^, **: Power, you can use them both.	^ , ** : potencia , puede usar cualquiera de las dos formas .
+d002.s015	Also it is possible to use the unicode² characters.	Asimismo , puede usar los caracteres unicode ² .
+d002.s016	Powers are one way to make roots too.	Las potencias son también una forma de expresar raíces .
+d002.s017	-gt: It's the way to specify the bounded variable in a function.	-gt : Permite especificar la variable limitada en una función .
+d002.s018	(): It is used to specify a higher priority.	( ) : se usa para especificar una prioridad mayor .
+d002.s019	abc(params): When the parser finds a function, it checks if abc is an operator.	abc(parámetros) : Cuando el analizador sintáctico encuentra una función , comprueba si « abc » es un operador .
+d002.s020	If it is, it will be treated as an operator, if it is not, it will be treated as a user function.	Si lo es , lo trata como un operador si no lo es , lo trata como una función de usuario .
+d002.s021	:=: It is used to define a variable value.	: = : Se usa para definir el valor de una variable .
+d002.s022	?: Piecewise condition definition.	? : definición de condiciones en funciones definidas a trozos ( « piecewise » ) .
+d002.s023	Piecewise is the way we can define conditional operations in kalgebra.	Permite definir operaciones condicionales en kalgebra .
+d002.s024	If we introduce the condition before the? it will use this condition only if it is true, if it finds a? without any condition, it will enter in the last instance.	Cuando introducimos la condición antes del símbolo « ? » , kalgebra utiliza esta condición solo si es verdadera en cambio , si encuentra un símbolo « ? » sin ninguna condición , toma en cuenta el último caso .
+d002.s025	{}: MathML container.	{ } : Puede usarse para definir un contenedor .
+d002.s026	It can be used to define a container.	Es muy útil a la hora de trabajar con funciones definidas a trozos .
+d002.s027	Now you could ask me, why should the user mind about MathML?	Ahora puede preguntarme por qué debería el usuario preocuparse por MathML .
+d002.s028	That's easy. With this, we can operate with functions like cos(), sin(), any other trigonometric functions, sum() or product().	La respuesta es fácil . Con esto podremos realizar operaciones con funciones como cos() , sin() ( o cualquier otra función trigonométrica ) , sum() o product() .
+d002.s029	It does not matter what kind it is.	No importa el tipo de función que sea .
+d002.s030	We can use plus(), times() and everything which has its operator.	Podremos usar plus() , times() y cualquier cosa a la que le corresponda un operador .
+d002.s031	kalgebra's console is useful as a calculator.	La consola de kalgebra es tan útil como una calculadora .
+d002.s032	There you have a list of the declared variables.	Aquí tiene una lista de las variables declaradas .
+d002.s033	By double clicking on them you will see a dialog that lets you change their values (just a way to trick the log).	Si pulsa dos veces sobre una de ellas , le aparecerá un diálogo con el que podrá cambiar su valor ( es una forma de engañar al registro ) .
+d002.s034	Every time you enter an expression, the " ans " variable value will be changed to the last result.	Cada vez que introduzca una expresión , el valor de la variable « ans » cambiará para reproducir el último resultado .
+d002.s035	Ctrl N New Window	Ctrl N Nuevo
+d002.s036	Flushes the log.	Refresca el registro .
+d002.s037	Ctrl L Load Script	Ctrl L Cargar un guión
+d002.s038	Executes the instructions in a file sequentially.	Ejecuta las instrucciones en una archivo de forma secuencial .
+d002.s039	Nice if you want to define some libraries or resume some previous work.	Es útil si lo que desea es definir una biblioteca o reanudar un trabajo anterior .
+d002.s040	Ctrl G Save Script	Ctrl G Guardar el guión
+d002.s041	Saves the instructions you have typed since the session began to be able to reuse.	Guarda las intrucciones que ha introducido desde que comenzó la sesión , con lo que podrá reutilizarlas .
+d002.s042	Generates text files so it should be easy to fix using any text editor, like Kate.	Genera un archivo de texto que podrá corregir usando cualquier editor de texto , por ejemplo Kate .
+d002.s043	Ctrl S Save Log	Ctrl S Guardar el registro
+d002.s044	Saves the log with all results into an HTML file to be able to print or publish.	Guarda el registro con todos los resultados en un archivo HTML que podrá imprimir o publicar .
+d002.s045	Ctrl Q Quit	Ctrl Q Salir
+d002.s046	Shuts the program down.	Cierra el programa .
+d002.s047	To add a new 2D graph on kalgebra, what you have to do is to go to the 2D Graph tab and click in the Add tab to add the new function.	Para añadir un gráfica 2D en kalgebra , lo que tiene que hacer es ir a la pestaña Gráfica 2D y aquí pulsar la pestaña Añadir , que le permitirá añadir una nueva función .
+d002.s048	Then your focus will go to an input text box where you can type your function.	A continuación tendrá dirigirse al cuadro de texto de entrada , donde podrá introducir su función .
+d002.s049	If you want to use a typical f(x) function it is not necessary to specify it.	Si quiere usar una función f(x) típica , no es necesario que la especifique .
+d002.s050	If you have entered the function click on the OK button to display the graph in the main window.	Después de haber introducido la función , pulse el botón Aceptar para dibujar la gráfica en la ventana principal .
+d002.s051	You can set several graphs on the same view.	Es posible dibujar varias gráficas en la misma vista .
+d002.s052	The Foundation has recently been involved in organising a conference which dealt with this critical challenge.	Para esto use simplemente el botón Añadir cuando se encuentre en el modo Lista .
+d003.s002	Over 100 participants from the main interest groups attended and debated issues such as the role of key actors including public authorities, social partners, voluntary and community organisations as well as service users.	Asistieron más de 100 participantes en representación de los principales grupos de interés , los cuales discutieron cuestiones tales como el papel de los principales agentes , entre ellos , las autoridades públicas , los interlocutores sociales y las organizaciones comunitarias y de voluntarios , además de los propios usuarios .
+d003.s003	There were relatively few cases reported of attempts to involve users in service planning but their involvement in service provision was found to be more common.	Se llegó a la conclusión de que es necesario adoptar un enfoque más global que tenga en cuenta que los usuarios no se sirven de esos servicios de forma aislada , sino como parte de su vida cotidiana .
+d003.s004	Note was also taken of the variety of different roles played by public welfare	Se tomó nota también de la diversidad de funciones que desempeñan estos servicios
+d003.s005	The Foundation organised, together with the European Commission, the Spanish Ministry of Social Affairs and the Galician regional government, a European conference on social exclusion: a major challenge for public welfare services.	La Fundación organizó , junto con la Comisión Europea , el Ministerio español de Asuntos Sociales y la Comunidad Autónoma de Galicia , una conferencia europea sobre el tema " Exclusión social : Un gran reto para los servicios públicos de protección social " .
+d003.s006	The Foundation recently published a comparative study as part of the EPOC project which assesses the extent to which direct participation can humanise work while increasing profitability.	La Fundación publicó recientemente en el marco del proyecto EPOC un estudio comparativo en el que se evalúa hasta qué punto la participación directa puede humanizar el trabajo e incrementar al mismo tiempo la rentabilidad .
+d003.s007	The study is based on 195 personal interviews with senior officials of the social partners as representatives of national level peak organisations in fifteen European countries.	El estudio se basa en 195 entrevistas personales con altos responsables de los interlocutores sociales , en su calidad de representantes de importantes organizaciones nacionales de 15 países europeos .
+d003.s008	As important industrial sectors, the metal industry and the banking sector were also included.	La industria del metal y el sector bancario se incluyeron también en atención a su importancia .
+d003.s009	Key speakers at the social exclusion conference were (left to right) Cristina Louro, Employment, Industrial Relations and Social Affairs Directorate, European Commission Fernando Gomes, a high degree of Committee of the Regions Barbara Weiler, Member of the European Parliament José Maria Gil-Robles, Vice-President, European Parliament and John Carroll, Economic and Social Committee.	Los principales oradores en la conferencia sobre exclusión socialfueron ( de izquierda a derecha ) Cristina Louro , Dirección General de Empleo , Relaciones Laborales y Asuntos Sociales de la Comisión Europea Fernando Gomes , Comité de las Regiones Barbara Weiler , diputada al Parlamento Europeo José María Gil-Robles Gil-Delgado , Vicepresidente , Parlamento Europeo , John Carroll Comité Económico y Social
+d003.s010	Case Studies Each national report contains a portfolio of between 25 and 30 initiatives which best present policies and practices to improve the recruitment, training and development of ageing workers in both the work place and the community.	En cada informe nacional se incluyen las 25 o 30 iniciativas que mejor reflejan prácticas y políticas de mejora de la contratación , la formación y el desarrollo profesional de los trabajadores mayores en el lugar de trabajo y a nivel de la comunidad .
+d003.s011	For each country, two or three initiatives have been selected for further in depth case study.	Se seleccionaron dos o tres iniciativas por cada país , para que fueran objeto de un estudio de caso detallado .
+d003.s012	These case studies analysed the background of the initiatives, their impact on employment patterns and work organisations and assessed the benefits and problems of the initiative.	En estos estudios de caso se han analizado el contexto de esas iniciativas y sus repercusiones en las pautas de empleo y en las organizaciones , y se han evaluado las ventajas y problemas derivados de las mismas .
+d003.s013	Visits and interviews with key personnel were also undertaken.	Se han realizado además visitas y entrevistas a miembros clave del personal .
+d003.s014	These national studies will form the basis of a European report which synthesises overall practices.	Estos estudios nacionales constituirán la liase de un informe europeo en el que se resumirán las prácticas generales .
+d003.s015	The report and a case book of initiatives will be published in 1996 and provide the backdrop for a conference to be staged in Autumn, 1996.	El informe y un repertorio de iniciativas se publicarán en 1996 , y servirán de telón de fondo a una conferencia que se celebrará el próximo otoño .
+d003.s016	The Foundation aims to document the characteristics of age barriers in job recruitment and training and to analyse their causes.	La Fundación se propone documentar las características de los obstáculos relacionados con la edad en materia de contratación y formación , y analizar sus causas .
+d003.s017	The perspectives of the social partners is also being examined, with particular attention paid to proposals for removing age barriers.	Está examinando asimismo los puntos de vista de los interlocutores sociales , prestando especial atención a las propuestas para eliminar dichos obstáculos .
+d003.s018	Thirdly, the project documents and assesses initiatives, in both the public and private sectors which combat age barriers, especially for older workers.	En tercer lugar , el proyecto documenta y evalúa las iniciativas de los sectores público y privado para combatir estas limitaciones , especialmente en relación con los trabajadores mayores .
+d003.s019	Seeking alternatives to early retirement and redundancy, the project is primarily concerned with the retention, reintegration and retraining of older workers.	El proyecto , que busca alternativas a la jubilación anticipada y al despido , se ocupa ante todo de la retención , la reintegración y la reconversión profesional de los trabajadores mayores .
+d003.s020	The gender and ethnic backgrounds of workers and how these relate to age discrimination are examined.	Estudia asimismo liasta qué punto influyen el sexo y la raza de los trabajadores en la discriminación por razón de la edad .
+d003.s021	The project also considers initiatives to combat age discrimination in rural areas and in small and medium sized enterprises.	El proyecto tiene en cuenta , por otra paite , las iniciativas para luchar contra esta clase de discriminación en las zonas rurales y en las pequeñas y medianas empresas .
+d004.s001	This document is a summary of the European Public Assessment Report.	Resumen del EPAR para el público general
+d004.s002	It explains how the Committee for Medicinal Products for Veterinary Use (CVMP) assessed the studies performed, to reach their recommendations on how to use the medicine.	En el presente documento se resume el Informe Público Europeo de Evaluación , y se explica cómo la evaluación del Comité de Medicamentos de Uso Veterinario ( CVMP ) , efectuada a partir de los estudios existentes , ha llevado a las recomendaciones sobre las condiciones de uso del medicamento .
+d004.s003	What is Cerenia?	¿Qué es Cerenia ?
+d004.s004	Cerenia contains the active substance maropitant and is available as tablet or as solution for injection.	Cerenia contiene el principio activo maropitant y se presenta en forma de comprimidos o de solución inyectables .
+d004.s005	The tablets are pale-orange and have a score line on both sides so that they can be halved.	Los comprimidos son de color naranja claro y tienen una ranura en ambas caras , lo que permite dividirlos por la mitad .
+d004.s006	Each tablet is marked with the Pfizer logo on one side and with the letters MPT and the quantity of maropitant on the other side.	Cada comprimido va marcado con el logo Pfizer en una cara y las letras MPT y la cantidad de maropitant en la otra .
+d004.s007	What is Cerenia used for?	¿Para qué se utiliza Cerenia ?
+d004.s008	Cerenia is an anti-emetic, this means that it stops vomiting.	Cerenia es un antiemético ( ataja los vómitos ) .
+d004.s009	It is used in dogs to prevent vomiting such as vomiting caused by chemotherapy (medicines used for the treatment of cancer, some of which are known to cause vomiting).	Se utiliza en perros para la prevención de los vómitos , por ejemplo los causados por la quimioterapia ( fármacos utilizados para el tratamiento del cáncer , algunos de los cuales producen vómitos ) .
+d004.s010	In combination with supportive measures such as other veterinary treatment or a special diet, Cerenia can also be used in the treatment of vomiting (either as injection or as injection followed by tablets).	Combinado con otras medidas complementarias , como otros tratamientos veterinarios o una dieta especial , Cerenia se utiliza también como tratamiento del vómito ( como inyección o como inyección seguida de comprimidos ) .
+d004.s011	For these purposes, Cerenia can be given for up to five days	A estos efectos , Cerenia se puede administrar durante un período de hasta cinco días .
+d004.s012	How does Cerenia work?	¿Cómo actúa Cerenia ?
+d004.s013	Cerenia blocks a neurokinin 1 (NK1) receptor, which acts in the central nervous system.	Cerenia bloquea los receptores de neurocinina 1 ( NK1 ) en el sistema nervioso central .
+d004.s014	How has Cerenia been studied?	¿Qué tipo de estudios se han realizado sobre Cerenia ?
+d004.s015	A large number of studies with Cerenia were carried out either in laboratory dogs or in animal patients at veterinary practises in several European countries and in the USA.	Se han realizado una gran cantidad de estudios con Cerenia en perros de laboratorio y en perros pacientes de clínicas veterinarias de varios países europeos y de EE.UU.
+d004.s016	What benefit has Cerenia shown during the studies?	¿Qué beneficios ha demostrado Cerenia durante dichos estudios ?
+d004.s017	The results of the studies showed that Cerenia was more effective than the placebo: less vomiting was seen in dogs that received the medicine than in dogs that received a placebo, both in the treatment or in the prevention of vomiting.	Los resultados de los estudios demostraron que Cerenia fue más eficaz que el placebo : se observaron menos vómitos en los perros que recibieron el medicamento que en los perros que recibieron placebo , bien como tratamiento , bien como prevención del vómito .
+d004.s018	The treatment of a vomiting dog should be started with the injection, since vomiting animals might not be able to keep a tablet down (as they might throw the intact tablet up again).	El tratamiento de un perro con vómitos debe iniciarse en forma inyectable puesto que los animales con vómitos podrían no retener el comprimido ( podrían vomitar el comprimido intacto ) .
+d004.s019	For follow-up treatment, the animal owner can administer the tablets to the dog.	Para la continuación del tratamiento , el propietario puede administrar el medicamento al animal en forma de comprimidos .
+d004.s020	Also, the treatment of vomiting should only be together with other supportive measure or other veterinary therapy while addressing the underlying causes of the vomiting.	El tratamiento del vómito debe realizarse siempre en asociación con otras medidas de apoyo u otros tratamientos veterinarios para combatir también la causa subyacente del vómito .
+d004.s021	What is the risk associated with Cerenia?	¿Cuáles son los efectos secundarios de Cerenia ?
+d004.s022	Cerenia was generally well tolerated when administered daily at dosages up to 5 times the recommended doses for an extended period of time (up to 3 times the recommended maximum duration of treatment).	En general , Cerenia fue bien tolerado cuando se administró diariamente a dosis de hasta 5 veces la dosis recomendada durante un período de tiempo prolongado ( hasta 3 veces la duración máxima recomendada del tratamiento ) .
+d004.s023	What are the precautions for the person who gives the medicine or comes into contact with the animal?	¿Qué precauciones debe adoptar la persona que administre el medicamento o esté en contacto con el animal ?
+d004.s024	Cerenia does not represent a particular risk for people.	Cerenia no presenta ningún riesgo especial para el ser humano .
