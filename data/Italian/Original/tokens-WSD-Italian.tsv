@@ -1,0 +1,2708 @@
+Token ID	Token	POS	Lemma	BN Synset
+d001.s001.t000	questo	DET	questo	
+d001.s001.t001	documento	NOUN	documento	bn:00028015n
+d001.s001.t002	è	AUX	essere	
+d001.s001.t003	la	DET	il	
+d001.s001.t004	sintesi	NOUN	sintesi	bn:00075142n
+d001.s001.t005	di	ADP	di	
+d001.s001.t006	una	DET	uno	
+d001.s001.t007	relazione	NOUN	relazione	bn:00067181n
+d001.s001.t008	pubblica	ADJ	pubblico	bn:00109211a
+d001.s001.t009	di	ADP	di	
+d001.s001.t010	valutazione	NOUN	valutazione	bn:00031973n
+d001.s001.t011	europea	ADJ	europeo	bn:00102440a
+d001.s001.t012	(	PUNCT	(	
+d001.s001.t013	epar	NOUN	epar	bn:00010392n
+d001.s001.t014	)	PUNCT	)	
+d001.s001.t015	.	PUNCT	.	
+d001.s002.t000	l	DET	l	
+d001.s002.t001	epar	NOUN	epar	bn:00067181n
+d001.s002.t002	descrive	VERB	descrivere	bn:00082233v
+d001.s002.t003	il	DET	il	
+d001.s002.t004	modo	NOUN	modo	bn:00033729n
+d001.s002.t005	in	ADP	in	
+d001.s002.t006	cui	PRON	cui	
+d001.s002.t007	il	DET	il	
+d001.s002.t008	comitato	NOUN	comitato	bn:00021015n
+d001.s002.t009	per	ADP	per	
+d001.s002.t010	i	DET	il	
+d001.s002.t011	medicinali	NOUN	medicinale	bn:00054128n
+d001.s002.t012	per	ADP	per	
+d001.s002.t013	uso	NOUN	uso	bn:00030627n
+d001.s002.t014	umano	ADJ	umano	bn:00104386a
+d001.s002.t015	(	PUNCT	(	
+d001.s002.t016	chmp	VERB	chmp	bn:00092823v
+d001.s002.t017	)	PUNCT	)	
+d001.s002.t018	ha	AUX	avere	
+d001.s002.t019	valutato	VERB	valutare	bn:00082720v
+d001.s002.t020	gli	DET	il	
+d001.s002.t021	studi	NOUN	studio	bn:00074790n
+d001.s002.t022	scientifici	ADJ	scientifico	bn:00110176a
+d001.s002.t023	effettuati	ADJ	effettuato	bn:00096397a
+d001.s002.t024	e	CCONJ	e	
+d001.s002.t025	ha	AUX	avere	
+d001.s002.t026	formulato	VERB	formulare	bn:00082799v
+d001.s002.t027	le	DET	il	
+d001.s002.t028	raccomandazioni	NOUN	raccomandazione	bn:00066562n
+d001.s002.t029	su	ADP	su	
+d001.s002.t030	come	SCONJ	come	
+d001.s002.t031	usare	VERB	usare	bn:00089140v
+d001.s002.t032	il	DET	il	
+d001.s002.t033	medicinale	NOUN	medicinale	bn:00054128n
+d001.s002.t034	.	PUNCT	.	
+d001.s003.t000	per	ADP	per	
+d001.s003.t001	maggiori	ADJ	maggiore	bn:00103782a
+d001.s003.t002	informazioni	NOUN	informazione	bn:00046698n
+d001.s003.t003	riguardanti	VERB	riguardare	bn:00083240v
+d001.s003.t004	le	DET	il	
+d001.s003.t005	proprie	DET	proprio	
+d001.s003.t006	condizioni	NOUN	condizione	bn:00021644n
+d001.s003.t007	di	ADP	di	
+d001.s003.t008	salute	NOUN	salute	bn:00043358n
+d001.s003.t009	o	CCONJ	o	
+d001.s003.t010	la	DET	il	
+d001.s003.t011	terapia	NOUN	terapia	bn:00076843n
+d001.s003.t012	,	PUNCT	,	
+d001.s003.t013	leggere	VERB	leggere	bn:00092424v
+d001.s003.t014	il	DET	il	
+d001.s003.t015	foglio	NOUN	foglio	bn:00062308n
+d001.s003.t016	illustrativo	ADJ	illustrativo	bn:00102587a
+d001.s003.t017	(	PUNCT	(	
+d001.s003.t018	allegato	VERB	allegare	bn:00087593v
+d001.s003.t019	all	ADP	all	
+d001.s003.t020	epar	X	epar	
+d001.s003.t021	)	PUNCT	)	
+d001.s003.t022	oppure	CCONJ	oppure	
+d001.s003.t023	consultare	VERB	consultare	bn:00085574v
+d001.s003.t024	il	DET	il	
+d001.s003.t025	medico	NOUN	medico	bn:00027976n
+d001.s003.t026	o	CCONJ	o	
+d001.s003.t027	il	DET	il	
+d001.s003.t028	farmacista	NOUN	farmacista	bn:00004992n
+d001.s003.t029	.	PUNCT	.	
+d001.s004.t000	per	ADP	per	
+d001.s004.t001	maggiori	ADJ	maggiore	bn:00103782a
+d001.s004.t002	informazioni	NOUN	informazione	bn:00046698n
+d001.s004.t003	riguardo	ADP	riguardo	
+d001.s004.t004	alle	DET	a il	
+d001.s004.t005	motivazioni	NOUN	motivazione	bn:00048673n
+d001.s004.t006	delle	ADP	di il	
+d001.s004.t007	raccomandazioni	NOUN	raccomandazione	bn:00066562n
+d001.s004.t008	del	ADP	di il	
+d001.s004.t009	chmp	NOUN	chmp	bn:00041942n
+d001.s004.t010	,	PUNCT	,	
+d001.s004.t011	leggere	VERB	leggere	bn:00092424v
+d001.s004.t012	la	DET	il	
+d001.s004.t013	discussione	NOUN	discussione	bn:00027523n
+d001.s004.t014	scientifica	ADJ	scientifico	bn:00110176a
+d001.s004.t015	(	PUNCT	(	
+d001.s004.t016	anch	NOUN	anch	bn:00046209n
+d001.s004.t017	essa	PRON	esso	
+d001.s004.t018	allegato	VERB	allegare	bn:00087593v
+d001.s004.t019	all	ADP	all	
+d001.s004.t020	epar	X	epar	
+d001.s004.t021	)	PUNCT	)	
+d001.s004.t022	.	PUNCT	.	
+d001.s005.t000	che	SCONJ	che	
+d001.s005.t001	cos	PRON	cos	
+d001.s005.t002	è	AUX	essere	
+d001.s005.t003	alimta	ADJ	alimta	bn:00097350a
+d001.s005.t004	?	PUNCT	?	
+d001.s006.t000	alimta	NOUN	alimta	bn:00076647n
+d001.s006.t001	è	AUX	essere	
+d001.s006.t002	una	DET	uno	
+d001.s006.t003	polvere	NOUN	polvere	bn:00063926n
+d001.s006.t004	da	ADP	da	
+d001.s006.t005	ricostituire	VERB	ricostituire	bn:00092532v
+d001.s006.t006	in	ADP	in	
+d001.s006.t007	soluzione	NOUN	soluzione	bn:00072760n
+d001.s006.t008	per	ADP	per	
+d001.s006.t009	infusione	NOUN	infusione	bn:00043783n
+d001.s006.t010	(	PUNCT	(	
+d001.s006.t011	iniezione	NOUN	iniezione	bn:00046787n
+d001.s006.t012	goccia	VERB	goccio	bn:00028709n
+d001.s006.t013	a	ADP	a	
+d001.s006.t014	goccia	NOUN	goccia	bn:00066052n
+d001.s006.t015	in	ADP	in	
+d001.s006.t016	vena	NOUN	vena	bn:00079681n
+d001.s006.t017	)	PUNCT	)	
+d001.s006.t018	.	PUNCT	.	
+d001.s007.t000	contiene	VERB	contenere	bn:00085499v
+d001.s007.t001	il	DET	il	
+d001.s007.t002	principio	NOUN	principio	bn:00064429n
+d001.s007.t003	attivo	ADJ	attivo	bn:00109075a
+d001.s007.t004	pemetrexed	NOUN	pemetrexed	bn:00054535n
+d001.s007.t005	.	PUNCT	.	
+d001.s008.t000	per	ADP	per	
+d001.s008.t001	che	DET	che	
+d001.s008.t002	cosa	NOUN	cosa	bn:00076924n
+d001.s008.t003	si	PRON	si	
+d001.s008.t004	usa	VERB	usare	bn:00082705v
+d001.s008.t005	alimta	PROPN	alimta	
+d001.s008.t006	?	PUNCT	?	
+d001.s009.t000	alimta	NOUN	alimta	bn:00076647n
+d001.s009.t001	è	AUX	essere	
+d001.s009.t002	indicato	VERB	indicare	bn:00089682v
+d001.s009.t003	nel	ADP	in il	
+d001.s009.t004	trattamento	NOUN	trattamento	bn:00047235n
+d001.s009.t005	di	ADP	di	
+d001.s009.t006	due	NUM	due	
+d001.s009.t007	tipi	NOUN	tipo	bn:00078798n
+d001.s009.t008	di	ADP	di	
+d001.s009.t009	tumore	NOUN	tumore	bn:00057267n
+d001.s009.t010	:	PUNCT	:	
+d001.s009.t011	il	DET	il	
+d001.s009.t012	mesotelioma	PROPN	mesotelioma	
+d001.s009.t013	pleurico	ADJ	pleurico	bn:00108692a
+d001.s009.t014	(	PUNCT	(	
+d001.s009.t015	tumore	NOUN	tumore	bn:00057267n
+d001.s009.t016	della	ADP	di il	
+d001.s009.t017	membrana	NOUN	membrana	bn:00054285n
+d001.s009.t018	che	PRON	che	
+d001.s009.t019	riveste	VERB	riverre	bn:00090616v
+d001.s009.t020	i	DET	il	
+d001.s009.t021	polmoni	NOUN	polmone	bn:00052341n
+d001.s009.t022	,	PUNCT	,	
+d001.s009.t023	generalmente	ADV	generalmente	bn:00114778r
+d001.s009.t024	provocato	VERB	provocare	bn:00084699v
+d001.s009.t025	dall	ADP	dall	
+d001.s009.t026	esposizione	NOUN	esposizione	bn:00032225n
+d001.s009.t027	all	ADP	all	
+d001.s009.t028	amianto	NOUN	amianto	bn:00006236n
+d001.s009.t029	)	PUNCT	)	
+d001.s009.t030	.	PUNCT	.	
+d001.s010.t000	alimta	NOUN	alimta	bn:00041942n
+d001.s010.t001	è	AUX	essere	
+d001.s010.t002	utilizzato	VERB	utilizzare	bn:00082705v
+d001.s010.t003	in	ADP	in	
+d001.s010.t004	combinazione	NOUN	combinazione	bn:00020872n
+d001.s010.t005	con	ADP	con	
+d001.s010.t006	cisplatino	NOUN	cisplatino	bn:00028512n
+d001.s010.t007	(	PUNCT	(	
+d001.s010.t008	un	DET	uno	
+d001.s010.t009	altro	ADJ	altro	bn:00108011a
+d001.s010.t010	farmaco	NOUN	farmaco	bn:00054128n
+d001.s010.t011	antitumorale	ADJ	antitumorale	bn:00004698n
+d001.s010.t012	)	PUNCT	)	
+d001.s010.t013	quando	SCONJ	quando	
+d001.s010.t014	il	DET	il	
+d001.s010.t015	tumore	NOUN	tumore	bn:00057267n
+d001.s010.t016	non	ADV	non	bn:00116360r
+d001.s010.t017	è	AUX	essere	
+d001.s010.t018	asportabile	ADJ	asportabile	bn:00101262a
+d001.s010.t019	(	PUNCT	(	
+d001.s010.t020	non	ADV	non	bn:00116360r
+d001.s010.t021	può	AUX	potere	
+d001.s010.t022	essere	AUX	essere	
+d001.s010.t023	asportato	VERB	asportare	bn:00092783v
+d001.s010.t024	con	ADP	con	
+d001.s010.t025	il	DET	il	
+d001.s010.t026	solo	ADJ	solo	bn:00096869a
+d001.s010.t027	intervento	NOUN	intervento	bn:00059129n
+d001.s010.t028	chirurgico	ADJ	chirurgico	bn:00111516a
+d001.s010.t029	)	PUNCT	)	
+d001.s010.t030	ed	CCONJ	e	
+d001.s010.t031	è	AUX	essere	
+d001.s010.t032	maligno	ADJ	maligno	bn:00107640a
+d001.s010.t033	(	PUNCT	(	
+d001.s010.t034	si	PRON	si	
+d001.s010.t035	è	AUX	essere	
+d001.s010.t036	diffuso	VERB	diffudere	bn:00082489v
+d001.s010.t037	,	PUNCT	,	
+d001.s010.t038	o	CCONJ	o	
+d001.s010.t039	è	AUX	essere	
+d001.s010.t040	probabile	ADJ	probabile	bn:00105982a
+d001.s010.t041	si	PRON	si	
+d001.s010.t042	diffonda	VERB	diffondare	bn:00086806v
+d001.s010.t043	facilmente	ADV	facilmente	bn:00115155r
+d001.s010.t044	,	PUNCT	,	
+d001.s010.t045	ad	ADP	a	
+d001.s010.t046	altre	ADJ	altro	bn:00108011a
+d001.s010.t047	parti	NOUN	parte	bn:00021395n
+d001.s010.t048	del	ADP	di il	
+d001.s010.t049	corpo	NOUN	corpo	bn:00011744n
+d001.s010.t050	)	PUNCT	)	
+d001.s010.t051	,	PUNCT	,	
+d001.s010.t052	in	ADP	in	
+d001.s010.t053	pazienti	NOUN	paziente	bn:00061017n
+d001.s010.t054	che	PRON	che	
+d001.s010.t055	non	ADV	non	bn:00116360r
+d001.s010.t056	 	SPACE	 	
+d001.s010.t057	sono	AUX	essere	
+d001.s010.t058	stati	AUX	essere	
+d001.s010.t059	sottoposti	VERB	sottoporre	bn:00087888v
+d001.s010.t060	in	ADP	in	
+d001.s010.t061	precedenza	NOUN	precedenza	bn:00064072n
+d001.s010.t062	a	ADP	a	
+d001.s010.t063	chemioterapia	NOUN	chemioterapia	bn:00018141n
+d001.s010.t064	il	DET	il	
+d001.s010.t065	carcinoma	ADJ	carcinomo	bn:00099255a
+d001.s010.t066	polmonare	NOUN	polmonare	bn:00108724a
+d001.s010.t067	non	ADV	non	bn:00116360r
+d001.s010.t068	a	ADP	a	
+d001.s010.t069	piccole	ADJ	piccolo	bn:00106058a
+d001.s010.t070	cellule	NOUN	cellula	bn:00017027n
+d001.s010.t071	in	ADP	in	
+d001.s010.t072	stadio	NOUN	stadio	bn:00025966n
+d001.s010.t073	avanzato	ADJ	avanzato	bn:00096528a
+d001.s010.t074	o	CCONJ	o	
+d001.s010.t075	metastatico	ADJ	metastatico	bn:00106664a
+d001.s010.t076	che	PRON	che	
+d001.s010.t077	non	ADV	non	bn:00116360r
+d001.s010.t078	interessa	VERB	interessare	bn:00083240v
+d001.s010.t079	le	DET	il	
+d001.s010.t080	cellule	NOUN	cellula	bn:00017027n
+d001.s010.t081	squamose	ADJ	squamoso	bn:00104467a
+d001.s010.t082	.	PUNCT	.	
+d001.s011.t000	alimta	NOUN	alimta	bn:00041942n
+d001.s011.t001	è	AUX	essere	
+d001.s011.t002	usato	VERB	usare	bn:00082705v
+d001.s011.t003	in	ADP	in	
+d001.s011.t004	associazione	NOUN	associazione	bn:00006539n
+d001.s011.t005	con	ADP	con	
+d001.s011.t006	cisplatino	NOUN	cisplatino	bn:00028512n
+d001.s011.t007	in	ADP	in	
+d001.s011.t008	pazienti	NOUN	paziente	bn:00061017n
+d001.s011.t009	non	ADV	non	bn:00116360r
+d001.s011.t010	trattati	VERB	trattato	bn:00078126n
+d001.s011.t011	in	ADP	in	
+d001.s011.t012	passato	NOUN	passato	bn:00060928n
+d001.s011.t013	e	CCONJ	e	
+d001.s011.t014	da	ADP	da	
+d001.s011.t015	solo	ADV	solo	bn:00114235r
+d001.s011.t016	in	ADP	in	
+d001.s011.t017	pazienti	NOUN	paziente	bn:00061017n
+d001.s011.t018	che	CCONJ	che	
+d001.s011.t019	in	ADP	in	
+d001.s011.t020	passato	NOUN	passato	bn:00060928n
+d001.s011.t021	sono	AUX	essere	
+d001.s011.t022	stati	AUX	essere	
+d001.s011.t023	sottoposti	VERB	sottoporre	bn:00087888v
+d001.s011.t024	ad	ADP	a	
+d001.s011.t025	un	DET	uno	
+d001.s011.t026	altro	ADJ	altro	bn:00097165a
+d001.s011.t027	tipo	NOUN	tipo	bn:00078798n
+d001.s011.t028	di	ADP	di	
+d001.s011.t029	chemioterapia	NOUN	chemioterapia	bn:00018141n
+d001.s011.t030	.	PUNCT	.	
+d001.s012.t000	il	DET	il	
+d001.s012.t001	medicinale	NOUN	medicinale	bn:00054128n
+d001.s012.t002	può	AUX	potere	
+d001.s012.t003	essere	AUX	essere	
+d001.s012.t004	ottenuto	VERB	ottenere	bn:00091124v
+d001.s012.t005	soltanto	ADV	soltanto	bn:00114234r
+d001.s012.t006	con	ADP	con	
+d001.s012.t007	prescrizione	NOUN	prescrizione	bn:00031708n
+d001.s012.t008	medica	ADJ	medico	bn:00106555a
+d001.s012.t009	.	PUNCT	.	
+d001.s013.t000	come	ADV	come	bn:00114354r
+d001.s013.t001	si	PRON	si	
+d001.s013.t002	usa	VERB	usare	bn:00082705v
+d001.s013.t003	alimta	PROPN	alimta	
+d001.s013.t004	?	PUNCT	?	
+d001.s014.t000	alimta	NOUN	alimta	bn:00041942n
+d001.s014.t001	deve	AUX	dovere	
+d001.s014.t002	essere	AUX	essere	
+d001.s014.t003	somministrato	VERB	somministrare	bn:00082365v
+d001.s014.t004	solamente	ADV	solamente	bn:00114234r
+d001.s014.t005	sotto	ADP	sotto	
+d001.s014.t006	la	DET	il	
+d001.s014.t007	supervisione	NOUN	supervisione	bn:00059908n
+d001.s014.t008	di	ADP	di	
+d001.s014.t009	un	DET	uno	
+d001.s014.t010	medico	NOUN	medico	bn:00027976n
+d001.s014.t011	qualificato	ADJ	qualificato	bn:00096445a
+d001.s014.t012	per	ADP	per	
+d001.s014.t013	l	DET	l	
+d001.s014.t014	uso	NOUN	uso	bn:00030627n
+d001.s014.t015	della	ADP	di il	
+d001.s014.t016	chemioterapia	NOUN	chemioterapia	bn:00018141n
+d001.s014.t017	antitumorale	ADJ	antitumorale	bn:00004698n
+d001.s014.t018	.	PUNCT	.	
+d001.s015.t000	la	DET	il	
+d001.s015.t001	dose	ADJ	doso	bn:00099148a
+d001.s015.t002	raccomandata	NOUN	raccomandare	bn:00082418v
+d001.s015.t003	di	ADP	di	
+d001.s015.t004	alimta	NOUN	alimta	bn:00026482n
+d001.s015.t005	è	AUX	essere	
+d001.s015.t006	di	ADP	di	
+d001.s015.t007	500	NUM	500	
+d001.s015.t008	mg	NOUN	mgo	bn:00054701n
+d001.s015.t009	per	ADP	per	
+d001.s015.t010	metro	NOUN	metro	bn:00052501n
+d001.s015.t011	quadrato	ADJ	quadrato	bn:00111084a
+d001.s015.t012	di	ADP	di	
+d001.s015.t013	superficie	NOUN	superficie	bn:00075374n
+d001.s015.t014	corporea	ADJ	corporeo	bn:00098648a
+d001.s015.t015	(	PUNCT	(	
+d001.s015.t016	calcolata	VERB	calcolare	bn:00084373v
+d001.s015.t017	utilizzando	VERB	utilizzare	bn:00082705v
+d001.s015.t018	l	DET	l	
+d001.s015.t019	altezza	NOUN	altezza	bn:00043544n
+d001.s015.t020	e	CCONJ	e	
+d001.s015.t021	il	DET	il	
+d001.s015.t022	peso	NOUN	peso	bn:00080831n
+d001.s015.t023	del	ADP	di il	
+d001.s015.t024	paziente	NOUN	paziente	bn:00061017n
+d001.s015.t025	)	PUNCT	)	
+d001.s015.t026	da	ADP	da	
+d001.s015.t027	somministrare	VERB	somministrare	bn:00082365v
+d001.s015.t028	per	ADP	per	
+d001.s015.t029	infusione	NOUN	infusione	bn:00043783n
+d001.s015.t030	endovenosa	ADJ	endovenoso	bn:00102230a
+d001.s015.t031	in	ADP	in	
+d001.s015.t032	10	NUM	10	
+d001.s015.t033	minuti	NOUN	minuto	bn:00055094n
+d001.s015.t034	una	DET	uno	
+d001.s015.t035	volta	NOUN	volta	bn:00019848n
+d001.s015.t036	ogni	DET	ogni	
+d001.s015.t037	tre	NUM	tre	
+d001.s015.t038	settimane	NOUN	settimana	bn:00043484n
+d001.s015.t039	.	PUNCT	.	
+d001.s016.t000	per	ADP	per	
+d001.s016.t001	ridurre	VERB	ridurre	bn:00084079v
+d001.s016.t002	gli	DET	il	
+d001.s016.t003	effetti	NOUN	effetto	bn:00029874n
+d001.s016.t004	indesiderati	ADJ	indesiderato	bn:00108485a
+d001.s016.t005	,	PUNCT	,	
+d001.s016.t006	i	DET	il	
+d001.s016.t007	pazienti	NOUN	paziente	bn:00061017n
+d001.s016.t008	devono	AUX	dovere	
+d001.s016.t009	assumere	VERB	assumere	bn:00085689v
+d001.s016.t010	un	DET	uno	
+d001.s016.t011	corticosteroide	NOUN	corticosteroide	bn:00001507n
+d001.s016.t012	e	CCONJ	e	
+d001.s016.t013	acido	NOUN	acido	bn:00000903n
+d001.s016.t014	folico	ADJ	folico	bn:00099251a
+d001.s016.t015	(	PUNCT	(	
+d001.s016.t016	un	DET	uno	
+d001.s016.t017	tipo	NOUN	tipo	bn:00078798n
+d001.s016.t018	di	ADP	di	
+d001.s016.t019	vitamina	NOUN	vitamina	bn:00080147n
+d001.s016.t020	)	PUNCT	)	
+d001.s016.t021	e	CCONJ	e	
+d001.s016.t022	ricevere	VERB	ricevere	bn:00089246v
+d001.s016.t023	iniezioni	NOUN	iniezione	bn:00046787n
+d001.s016.t024	di	ADP	di	
+d001.s016.t025	vitamina	NOUN	vitamina	bn:00080147n
+d001.s016.t026	b12	VERB	b12	bn:00082530v
+d001.s016.t027	durante	ADP	durante	
+d001.s016.t028	il	DET	il	
+d001.s016.t029	trattamento	NOUN	trattamento	bn:00047235n
+d001.s016.t030	con	ADP	con	
+d001.s016.t031	alimta	NOUN	alimta	bn:00041942n
+d001.s016.t032	.	PUNCT	.	
+d001.s017.t000	quando	SCONJ	quando	
+d001.s017.t001	alimta	NOUN	alimta	bn:00015995n
+d001.s017.t002	è	AUX	essere	
+d001.s017.t003	somministrato	VERB	somministrare	bn:00082365v
+d001.s017.t004	con	ADP	con	
+d001.s017.t005	cisplatino	NOUN	cisplatino	bn:00028512n
+d001.s017.t006	,	PUNCT	,	
+d001.s017.t007	i	DET	il	
+d001.s017.t008	pazienti	NOUN	paziente	bn:00061017n
+d001.s017.t009	devono	AUX	dovere	
+d001.s017.t010	assumere	VERB	assumere	bn:00085689v
+d001.s017.t011	un	DET	uno	
+d001.s017.t012	farmaco	NOUN	farmaco	bn:00054128n
+d001.s017.t013	antiemetico	ADJ	antiemetico	bn:00004656n
+d001.s017.t014	(	PUNCT	(	
+d001.s017.t015	per	ADP	per	
+d001.s017.t016	prevenire	VERB	prevenire	bn:00088454v
+d001.s017.t017	il	DET	il	
+d001.s017.t018	vomito	NOUN	vomito	bn:00027565n
+d001.s017.t019	)	PUNCT	)	
+d001.s017.t020	e	CCONJ	e	
+d001.s017.t021	ricevere	VERB	ricevere	bn:00089246v
+d001.s017.t022	un	DET	uno	
+d001.s017.t023	adeguata	ADJ	adeguato	bn:00096449a
+d001.s017.t024	idratazione	NOUN	idratazione	bn:00045347n
+d001.s017.t025	(	PUNCT	(	
+d001.s017.t026	per	ADP	per	
+d001.s017.t027	prevenire	VERB	prevenire	bn:00088454v
+d001.s017.t028	la	DET	il	
+d001.s017.t029	disidratazione	NOUN	disidratazione	bn:00025983n
+d001.s017.t030	)	PUNCT	)	
+d001.s017.t031	prima	ADV	prima	bn:00114512r
+d001.s017.t032	o	CCONJ	o	
+d001.s017.t033	dopo	ADP	dopo	
+d001.s017.t034	l	DET	l	
+d001.s017.t035	assunzione	NOUN	assunzione	bn:00022107n
+d001.s017.t036	di	ADP	di	
+d001.s017.t037	cisplatino	NOUN	cisplatino	bn:00051760n
+d001.s017.t038	.	PUNCT	.	
+d001.s018.t000	il	DET	il	
+d001.s018.t001	trattamento	NOUN	trattamento	bn:00047235n
+d001.s018.t002	deve	AUX	dovere	
+d001.s018.t003	essere	AUX	essere	
+d001.s018.t004	posticipato	VERB	posticipare	bn:00086459v
+d001.s018.t005	o	CCONJ	o	
+d001.s018.t006	interrotto	VERB	interrompere	bn:00083900v
+d001.s018.t007	,	PUNCT	,	
+d001.s018.t008	o	CCONJ	o	
+d001.s018.t009	la	DET	il	
+d001.s018.t010	dose	NOUN	dose	bn:00028320n
+d001.s018.t011	deve	AUX	dovere	
+d001.s018.t012	essere	AUX	essere	
+d001.s018.t013	ridotta	VERB	ridurre	bn:00084079v
+d001.s018.t014	,	PUNCT	,	
+d001.s018.t015	nei	ADP	in il	
+d001.s018.t016	pazienti	NOUN	paziente	bn:00061017n
+d001.s018.t017	con	ADP	con	
+d001.s018.t018	alterazioni	NOUN	alterazione	bn:00003125n
+d001.s018.t019	nelle	ADP	in il	
+d001.s018.t020	conte	NOUN	conta	bn:00023140n
+d001.s018.t021	ematiche	ADJ	ematico	bn:00103861a
+d001.s018.t022	o	CCONJ	o	
+d001.s018.t023	che	PRON	che	
+d001.s018.t024	riportano	VERB	riportare	bn:00082233v
+d001.s018.t025	altri	ADJ	altro	bn:00108011a
+d001.s018.t026	effetti	NOUN	effetto	bn:00029874n
+d001.s018.t027	indesiderati	ADJ	indesiderato	bn:00102500a
+d001.s018.t028	.	PUNCT	.	
+d001.s019.t000	l	DET	L	
+d001.s019.t001	impiego	NOUN	impiego	bn:00030627n
+d001.s019.t002	di	ADP	di	
+d001.s019.t003	alimta	NOUN	alimta	bn:00076752n
+d001.s019.t004	è	AUX	essere	
+d001.s019.t005	sconsigliato	VERB	sconsigliare	bn:00086154v
+d001.s019.t006	nei	ADP	in il	
+d001.s019.t007	pazienti	NOUN	paziente	bn:00061017n
+d001.s019.t008	con	ADP	con	
+d001.s019.t009	insufficienza	NOUN	insufficienza	bn:00025914n
+d001.s019.t010	renale	ADJ	renale	bn:00107226a
+d001.s019.t011	grave	ADJ	grave	bn:00100896a
+d001.s019.t012	o	CCONJ	o	
+d001.s019.t013	moderata	ADJ	moderato	bn:00106826a
+d001.s019.t014	.	PUNCT	.	
+d001.s020.t000	per	ADP	per	
+d001.s020.t001	maggiori	ADJ	maggiore	bn:00103782a
+d001.s020.t002	informazioni	NOUN	informazione	bn:00046698n
+d001.s020.t003	,	PUNCT	,	
+d001.s020.t004	si	PRON	si	
+d001.s020.t005	rimanda	VERB	rimandare	bn:00086459v
+d001.s020.t006	al	ADP	a il	
+d001.s020.t007	riassunto	NOUN	riassunto	bn:00000489n
+d001.s020.t008	delle	ADP	di il	
+d001.s020.t009	caratteristiche	NOUN	caratteristica	bn:00017747n
+d001.s020.t010	del	ADP	di il	
+d001.s020.t011	prodotto	NOUN	prodotto	bn:00054416n
+d001.s020.t012	,	PUNCT	,	
+d001.s020.t013	anch	VERB	anch	bn:00083181v
+d001.s020.t014	esso	PRON	esso	
+d001.s020.t015	allegato	VERB	allegare	bn:00087593v
+d001.s020.t016	all	ADP	all	
+d001.s020.t017	epar	PROPN	epar	
+d001.s020.t018	.	PUNCT	.	
+d001.s021.t000	come	SCONJ	come	
+d001.s021.t001	agisce	VERB	agire	bn:00082286v
+d001.s021.t002	alimta	PROPN	alimta	
+d001.s021.t003	?	PUNCT	?	
+d001.s022.t000	il	DET	il	
+d001.s022.t001	principio	NOUN	principio	bn:00064429n
+d001.s022.t002	attivo	ADJ	attivo	bn:00096387a
+d001.s022.t003	di	ADP	di	
+d001.s022.t004	alimta	NOUN	alimta	bn:00076647n
+d001.s022.t005	,	PUNCT	,	
+d001.s022.t006	pemetrexed	NOUN	pemetrexed	bn:00054535n
+d001.s022.t007	,	PUNCT	,	
+d001.s022.t008	è	AUX	essere	
+d001.s022.t009	un	DET	uno	
+d001.s022.t010	medicinale	NOUN	medicinale	bn:00054128n
+d001.s022.t011	citotossico	ADJ	citotossico	bn:00100866a
+d001.s022.t012	(	PUNCT	(	
+d001.s022.t013	medicinale	ADJ	medicinale	bn:00106556a
+d001.s022.t014	che	PRON	che	
+d001.s022.t015	uccide	VERB	uccidere	bn:00084236v
+d001.s022.t016	le	DET	il	
+d001.s022.t017	cellule	NOUN	cellula	bn:00017027n
+d001.s022.t018	in	ADP	in	
+d001.s022.t019	attiva	ADJ	attivo	bn:00096386a
+d001.s022.t020	divisione	NOUN	divisione	bn:00027913n
+d001.s022.t021	,	PUNCT	,	
+d001.s022.t022	come	ADP	come	
+d001.s022.t023	le	DET	il	
+d001.s022.t024	cellule	NOUN	cellula	bn:00017027n
+d001.s022.t025	tumorali	ADJ	tumorale	bn:00107222a
+d001.s022.t026	)	PUNCT	)	
+d001.s022.t027	,	PUNCT	,	
+d001.s022.t028	che	PRON	che	
+d001.s022.t029	appartiene	VERB	appartenere	bn:00083388v
+d001.s022.t030	al	ADP	a il	
+d001.s022.t031	gruppo	NOUN	gruppo	bn:00041942n
+d001.s022.t032	degli	ADP	di il	
+d001.s022.t033	antimetaboliti	NOUN	antimetabolito	bn:00078269n
+d001.s022.t034	.	PUNCT	.	
+d001.s023.t000	nell	ADP	nell	
+d001.s023.t001	organismo	NOUN	organismo	bn:00009677n
+d001.s023.t002	,	PUNCT	,	
+d001.s023.t003	pemetrexed	NOUN	pemetrexed	bn:00054535n
+d001.s023.t004	viene	AUX	venire	
+d001.s023.t005	trasformato	VERB	trasformare	bn:00085761v
+d001.s023.t006	in	ADP	in	
+d001.s023.t007	una	DET	uno	
+d001.s023.t008	forma	NOUN	forma	bn:00035907n
+d001.s023.t009	attiva	ADJ	attivo	bn:00096387a
+d001.s023.t010	che	PRON	che	
+d001.s023.t011	blocca	VERB	bloccare	bn:00083622v
+d001.s023.t012	l	DET	l	
+d001.s023.t013	attività	NOUN	attività	bn:00001128n
+d001.s023.t014	degli	ADP	di il	
+d001.s023.t015	enzimi	ADJ	enzimo	bn:00102295a
+d001.s023.t016	coinvolti	NOUN	coinvolto	bn:00105394a
+d001.s023.t017	nella	ADP	in il	
+d001.s023.t018	produzione	NOUN	produzione	bn:00064590n
+d001.s023.t019	dei	ADP	di il	
+d001.s023.t020	nucleotidi	NOUN	nucleotide	bn:00008788n
+d001.s023.t021	(	PUNCT	(	
+d001.s023.t022	gli	DET	il	
+d001.s023.t023	elementi	NOUN	elemento	bn:00018105n
+d001.s023.t024	costitutivi	ADJ	costitutivo	bn:00100333a
+d001.s023.t025	di	ADP	di	
+d001.s023.t026	dna	PROPN	dna	
+d001.s023.t027	e	CCONJ	e	
+d001.s023.t028	rna	PROPN	rnare	
+d001.s023.t029	,	PUNCT	,	
+d001.s023.t030	il	DET	il	
+d001.s023.t031	materiale	NOUN	materiale	bn:00053801n
+d001.s023.t032	genetico	ADJ	genetico	bn:00103522a
+d001.s023.t033	delle	ADP	di il	
+d001.s023.t034	cellule	NOUN	cellula	bn:00017027n
+d001.s023.t035	)	PUNCT	)	
+d001.s023.t036	.	PUNCT	.	
+d001.s024.t000	quali	DET	quale	
+d001.s024.t001	studi	NOUN	studio	bn:00074790n
+d001.s024.t002	sono	AUX	essere	
+d001.s024.t003	stati	AUX	essere	
+d001.s024.t004	effettuati	VERB	effettuare	bn:00082225v
+d001.s024.t005	su	ADP	su	
+d001.s024.t006	alimta	NOUN	alimta	bn:00046516n
+d001.s024.t007	?	PUNCT	?	
+d001.s025.t000	per	ADP	per	
+d001.s025.t001	il	DET	il	
+d001.s025.t002	trattamento	NOUN	trattamento	bn:00047235n
+d001.s025.t003	del	ADP	di il	
+d001.s025.t004	mesotelioma	PROPN	mesotelioma	
+d001.s025.t005	pleurico	ADJ	pleurico	bn:00108692a
+d001.s025.t006	maligno	NOUN	maligno	bn:00040646n
+d001.s025.t007	,	PUNCT	,	
+d001.s025.t008	alimta	NOUN	alimta	bn:00049573n
+d001.s025.t009	è	AUX	essere	
+d001.s025.t010	stato	AUX	essere	
+d001.s025.t011	esaminato	VERB	esaminare	bn:00082596v
+d001.s025.t012	nell	ADP	nell	
+d001.s025.t013	ambito	NOUN	ambito	bn:00003268n
+d001.s025.t014	di	ADP	di	
+d001.s025.t015	uno	DET	uno	
+d001.s025.t016	studio	NOUN	studio	bn:00074790n
+d001.s025.t017	principale	ADJ	principale	bn:00099598a
+d001.s025.t018	condotto	VERB	condurre	bn:00084593v
+d001.s025.t019	su	ADP	su	
+d001.s025.t020	456	NUM	456	
+d001.s025.t021	pazienti	NOUN	paziente	bn:00061017n
+d001.s025.t022	che	PRON	che	
+d001.s025.t023	non	ADV	non	bn:00116360r
+d001.s025.t024	erano	AUX	essere	
+d001.s025.t025	stati	AUX	essere	
+d001.s025.t026	sottoposti	VERB	sottoporre	bn:00087888v
+d001.s025.t027	a	ADP	a	
+d001.s025.t028	chemioterapia	NOUN	chemioterapia	bn:00018141n
+d001.s025.t029	in	ADP	in	
+d001.s025.t030	precedenza	NOUN	precedenza	bn:00064072n
+d001.s025.t031	.	PUNCT	.	
+d001.s026.t000	gli	DET	il	
+d001.s026.t001	effetti	NOUN	effetto	bn:00021961n
+d001.s026.t002	di	ADP	di	
+d001.s026.t003	alimta	NOUN	alimta	bn:00041942n
+d001.s026.t004	somministrato	VERB	somministrare	bn:00082365v
+d001.s026.t005	in	ADP	in	
+d001.s026.t006	combinazione	NOUN	combinazione	bn:00020872n
+d001.s026.t007	con	ADP	con	
+d001.s026.t008	cisplatino	NOUN	cisplatino	bn:00028512n
+d001.s026.t009	sono	AUX	essere	
+d001.s026.t010	stati	AUX	essere	
+d001.s026.t011	confrontati	VERB	confrontare	bn:00085450v
+d001.s026.t012	con	ADP	con	
+d001.s026.t013	quelli	PRON	quello	
+d001.s026.t014	di	ADP	di	
+d001.s026.t015	cisplatino	NOUN	cisplatino	bn:00028512n
+d001.s026.t016	in	ADP	in	
+d001.s026.t017	monoterapia	NOUN	monoterapia	bn:00006679n
+d001.s026.t018	.	PUNCT	.	
+d001.s027.t000	per	ADP	per	
+d001.s027.t001	il	DET	il	
+d001.s027.t002	trattamento	NOUN	trattamento	bn:00047235n
+d001.s027.t003	del	ADP	di il	
+d001.s027.t004	carcinoma	PROPN	carcinoma	
+d001.s027.t005	polmonare	NOUN	polmonare	bn:00108724a
+d001.s027.t006	non	ADV	non	bn:00116360r
+d001.s027.t007	a	ADP	a	
+d001.s027.t008	piccole	ADJ	piccolo	bn:00106058a
+d001.s027.t009	cellule	NOUN	cellula	bn:00017027n
+d001.s027.t010	,	PUNCT	,	
+d001.s027.t011	gli	DET	il	
+d001.s027.t012	effetti	NOUN	effetto	bn:00021961n
+d001.s027.t013	di	ADP	di	
+d001.s027.t014	alimta	NOUN	alimta	bn:00042696n
+d001.s027.t015	sono	AUX	essere	
+d001.s027.t016	stati	AUX	essere	
+d001.s027.t017	confrontati	VERB	confrontare	bn:00085450v
+d001.s027.t018	con	ADP	con	
+d001.s027.t019	quelli	PRON	quello	
+d001.s027.t020	di	ADP	di	
+d001.s027.t021	docetaxel	NOUN	docetaxel	bn:00045469n
+d001.s027.t022	(	PUNCT	(	
+d001.s027.t023	un	DET	uno	
+d001.s027.t024	altro	ADJ	altro	bn:00097165a
+d001.s027.t025	farmaco	NOUN	farmaco	bn:00054128n
+d001.s027.t026	antitumorale	ADJ	antitumorale	bn:00004698n
+d001.s027.t027	)	PUNCT	)	
+d001.s027.t028	in	ADP	in	
+d001.s027.t029	uno	DET	uno	
+d001.s027.t030	studio	NOUN	studio	bn:00074790n
+d001.s027.t031	condotto	VERB	condurre	bn:00084593v
+d001.s027.t032	su	ADP	su	
+d001.s027.t033	571	NUM	571	
+d001.s027.t034	pazienti	NOUN	paziente	bn:00061017n
+d001.s027.t035	con	ADP	con	
+d001.s027.t036	tumore	NOUN	tumore	bn:00057267n
+d001.s027.t037	in	ADP	in	
+d001.s027.t038	fase	NOUN	fase	bn:00025966n
+d001.s027.t039	avanzata	ADJ	avanzato	bn:00096528a
+d001.s027.t040	o	CCONJ	o	
+d001.s027.t041	metastatica	ADJ	metastatico	bn:00106664a
+d001.s027.t042	,	PUNCT	,	
+d001.s027.t043	già	ADV	già	bn:00114245r
+d001.s027.t044	sottoposti	VERB	sottoporre	bn:00087888v
+d001.s027.t045	in	ADP	in	
+d001.s027.t046	precedenza	NOUN	precedenza	bn:00064072n
+d001.s027.t047	a	ADP	a	
+d001.s027.t048	chemioterapia	NOUN	chemioterapia	bn:00018141n
+d001.s027.t049	.	PUNCT	.	
+d001.s028.t000	alimta	NOUN	alimta	bn:00054841n
+d001.s028.t001	è	AUX	essere	
+d001.s028.t002	stato	AUX	essere	
+d001.s028.t003	anche	ADV	anche	bn:00114246r
+d001.s028.t004	confrontato	VERB	confrontare	bn:00085450v
+d001.s028.t005	con	ADP	con	
+d001.s028.t006	gemcitabina	NOUN	gemcitabina	bn:00006975n
+d001.s028.t007	(	PUNCT	(	
+d001.s028.t008	altro	ADJ	altro	bn:00097165a
+d001.s028.t009	medicinale	NOUN	medicinale	bn:00054128n
+d001.s028.t010	antitumorale	ADJ	antitumorale	bn:00004698n
+d001.s028.t011	)	PUNCT	)	
+d001.s028.t012	,	PUNCT	,	
+d001.s028.t013	entrambi	PRON	entrambi	
+d001.s028.t014	in	ADP	in	
+d001.s028.t015	associazione	NOUN	associazione	bn:00006539n
+d001.s028.t016	con	ADP	con	
+d001.s028.t017	cisplatino	NOUN	cisplatino	bn:00028512n
+d001.s028.t018	,	PUNCT	,	
+d001.s028.t019	in	ADP	in	
+d001.s028.t020	uno	DET	uno	
+d001.s028.t021	studio	NOUN	studio	bn:00074790n
+d001.s028.t022	su	ADP	su	
+d001.s028.t023	1.725	NUM	1.725	
+d001.s028.t024	pazienti	NOUN	paziente	bn:00061017n
+d001.s028.t025	che	PRON	che	
+d001.s028.t026	in	ADP	in	
+d001.s028.t027	passato	NOUN	passato	bn:00060928n
+d001.s028.t028	non	ADV	non	bn:00116360r
+d001.s028.t029	erano	AUX	essere	
+d001.s028.t030	mai	ADV	mai	bn:00115253r
+d001.s028.t031	stati	AUX	essere	
+d001.s028.t032	sottoposti	VERB	sottoporre	bn:00087888v
+d001.s028.t033	a	ADP	a	
+d001.s028.t034	chemioterapia	NOUN	chemioterapia	bn:00018141n
+d001.s028.t035	per	ADP	per	
+d001.s028.t036	tumore	NOUN	tumore	bn:00057267n
+d001.s028.t037	polmonare	ADJ	polmonare	bn:00108724a
+d001.s028.t038	.	PUNCT	.	
+d001.s029.t000	in	ADP	in	
+d001.s029.t001	tutti	PRON	tutto	
+d001.s029.t002	e	CCONJ	e	
+d001.s029.t003	tre	NUM	tre	
+d001.s029.t004	gli	DET	il	
+d001.s029.t005	studi	NOUN	studio	bn:00074790n
+d001.s029.t006	,	PUNCT	,	
+d001.s029.t007	il	DET	il	
+d001.s029.t008	principale	ADJ	principale	bn:00099598a
+d001.s029.t009	indicatore	NOUN	indicatore	bn:00063246n
+d001.s029.t010	dell	PRON	dell	
+d001.s029.t011	efficacia	NOUN	efficacia	bn:00029888n
+d001.s029.t012	era	AUX	essere	
+d001.s029.t013	il	DET	il	
+d001.s029.t014	tempo	NOUN	tempo	bn:00077267n
+d001.s029.t015	di	ADP	di	
+d001.s029.t016	sopravvivenza	NOUN	sopravvivenza	bn:00030811n
+d001.s029.t017	dei	ADP	di il	
+d001.s029.t018	pazienti	NOUN	paziente	bn:00061017n
+d001.s029.t019	.	PUNCT	.	
+d001.s030.t000	quali	DET	quale	
+d001.s030.t001	benefici	NOUN	beneficio	bn:00009905n
+d001.s030.t002	ha	AUX	avere	
+d001.s030.t003	mostrato	VERB	mostrare	bn:00086557v
+d001.s030.t004	alimta	NOUN	alimta	bn:00046516n
+d001.s030.t005	nel	ADP	in il	
+d001.s030.t006	corso	NOUN	corso	bn:00023285n
+d001.s030.t007	degli	ADP	di il	
+d001.s030.t008	studi	NOUN	studio	bn:00074791n
+d001.s030.t009	?	PUNCT	?	
+d001.s031.t000	alimta	NOUN	alimta	bn:00076647n
+d001.s031.t001	ha	AUX	avere	
+d001.s031.t002	aumentato	VERB	aumentare	bn:00089667v
+d001.s031.t003	il	DET	il	
+d001.s031.t004	tempo	NOUN	tempo	bn:00077267n
+d001.s031.t005	di	ADP	di	
+d001.s031.t006	sopravvivenza	NOUN	sopravvivenza	bn:00030811n
+d001.s031.t007	dei	ADP	di il	
+d001.s031.t008	pazienti	NOUN	paziente	bn:00061017n
+d001.s031.t009	affetti	ADJ	affetto	bn:00104538a
+d001.s031.t010	da	ADP	da	
+d001.s031.t011	mesotelioma	PROPN	mesotelioma	
+d001.s031.t012	pleurico	ADJ	pleurico	bn:00108692a
+d001.s031.t013	maligno	NOUN	maligno	bn:00040646n
+d001.s031.t014	.	PUNCT	.	
+d001.s032.t000	i	DET	il	
+d001.s032.t001	soggetti	NOUN	soggetto	bn:00016407n
+d001.s032.t002	a	ADP	a	
+d001.s032.t003	cui	PRON	cui	
+d001.s032.t004	è	AUX	essere	
+d001.s032.t005	stato	AUX	essere	
+d001.s032.t006	somministrato	VERB	somministrare	bn:00082365v
+d001.s032.t007	alimta	NOUN	alimta	bn:00041942n
+d001.s032.t008	in	ADP	in	
+d001.s032.t009	combinazione	NOUN	combinazione	bn:00020872n
+d001.s032.t010	con	ADP	con	
+d001.s032.t011	cisplatino	NOUN	cisplatino	bn:00028512n
+d001.s032.t012	sono	AUX	essere	
+d001.s032.t013	sopravvissuti	VERB	sopravvivere	bn:00087617v
+d001.s032.t014	in	ADP	in	
+d001.s032.t015	media	ADJ	medio	bn:00097854a
+d001.s032.t016	12,1	NUM	12,1	
+d001.s032.t017	mesi	NOUN	mese	bn:00055794n
+d001.s032.t018	,	PUNCT	,	
+d001.s032.t019	rispetto	ADV	rispetto	bn:00066865n
+d001.s032.t020	ai	DET	a il	
+d001.s032.t021	9,3	NUM	9,3	
+d001.s032.t022	mesi	NOUN	mese	bn:00055794n
+d001.s032.t023	dei	ADP	di il	
+d001.s032.t024	pazienti	NOUN	paziente	bn:00061017n
+d001.s032.t025	che	PRON	che	
+d001.s032.t026	hanno	AUX	avere	
+d001.s032.t027	assunto	VERB	assumere	bn:00085689v
+d001.s032.t028	cisplatino	VERB	cisplatare	bn:00083281v
+d001.s032.t029	in	ADP	in	
+d001.s032.t030	monoterapia	NOUN	monoterapia	bn:00044773n
+d001.s032.t031	.	PUNCT	.	
+d001.s033.t000	nel	ADP	in il	
+d001.s033.t001	trattamento	NOUN	trattamento	bn:00047235n
+d001.s033.t002	dei	ADP	di il	
+d001.s033.t003	pazienti	NOUN	paziente	bn:00061017n
+d001.s033.t004	con	ADP	con	
+d001.s033.t005	carcinoma	ADJ	carcinomo	bn:00099255a
+d001.s033.t006	polmonare	NOUN	polmonare	bn:00108724a
+d001.s033.t007	non	ADV	non	bn:00116360r
+d001.s033.t008	a	ADP	a	
+d001.s033.t009	piccole	ADJ	piccolo	bn:00106058a
+d001.s033.t010	cellule	NOUN	cellula	bn:00017027n
+d001.s033.t011	,	PUNCT	,	
+d001.s033.t012	alimta	NOUN	alimta	bn:00049573n
+d001.s033.t013	si	PRON	si	
+d001.s033.t014	è	AUX	essere	
+d001.s033.t015	rivelato	VERB	rivelare	bn:00092109v
+d001.s033.t016	tanto	ADV	tanto	bn:00114354r
+d001.s033.t017	efficace	ADJ	efficace	bn:00102040a
+d001.s033.t018	quanto	ADP	quanto	
+d001.s033.t019	i	DET	il	
+d001.s033.t020	comparatori	NOUN	comparatore	bn:00046478n
+d001.s033.t021	.	PUNCT	.	
+d001.s034.t000	nei	ADP	in il	
+d001.s034.t001	pazienti	NOUN	paziente	bn:00061017n
+d001.s034.t002	che	CCONJ	che	
+d001.s034.t003	in	ADP	in	
+d001.s034.t004	passato	NOUN	passato	bn:00060927n
+d001.s034.t005	erano	AUX	essere	
+d001.s034.t006	stati	AUX	essere	
+d001.s034.t007	sottoposti	VERB	sottoporre	bn:00087888v
+d001.s034.t008	a	ADP	a	
+d001.s034.t009	chemioterapia	NOUN	chemioterapia	bn:00018141n
+d001.s034.t010	,	PUNCT	,	
+d001.s034.t011	il	DET	il	
+d001.s034.t012	tempo	NOUN	tempo	bn:00077267n
+d001.s034.t013	di	ADP	di	
+d001.s034.t014	sopravvivenza	NOUN	sopravvivenza	bn:00030811n
+d001.s034.t015	medio	ADJ	medio	bn:00097854a
+d001.s034.t016	è	AUX	essere	
+d001.s034.t017	stato	AUX	essere	
+d001.s034.t018	di	ADP	di	
+d001.s034.t019	8,3	NUM	8,3	
+d001.s034.t020	mesi	NOUN	mese	bn:00055794n
+d001.s034.t021	con	ADP	con	
+d001.s034.t022	alimta	NOUN	alimta	bn:00041942n
+d001.s034.t023	,	PUNCT	,	
+d001.s034.t024	contro	ADP	contro	
+d001.s034.t025	7,9	NUM	7,9	
+d001.s034.t026	con	ADP	con	
+d001.s034.t027	docetaxel	NOUN	docetaxel	bn:00075118n
+d001.s034.t028	.	PUNCT	.	
+d001.s035.t000	nei	ADP	in il	
+d001.s035.t001	pazienti	NOUN	paziente	bn:00061017n
+d001.s035.t002	che	CCONJ	che	
+d001.s035.t003	in	ADP	in	
+d001.s035.t004	passato	NOUN	passato	bn:00060928n
+d001.s035.t005	non	ADV	non	bn:00116360r
+d001.s035.t006	erano	AUX	essere	
+d001.s035.t007	stati	AUX	essere	
+d001.s035.t008	sottoposti	VERB	sottoporre	bn:00087888v
+d001.s035.t009	a	ADP	a	
+d001.s035.t010	chemioterapia	NOUN	chemioterapia	bn:00018141n
+d001.s035.t011	,	PUNCT	,	
+d001.s035.t012	il	DET	il	
+d001.s035.t013	tempo	NOUN	tempo	bn:00077267n
+d001.s035.t014	di	ADP	di	
+d001.s035.t015	sopravvivenza	NOUN	sopravvivenza	bn:00030811n
+d001.s035.t016	medio	ADJ	medio	bn:00097854a
+d001.s035.t017	è	AUX	essere	
+d001.s035.t018	stato	AUX	essere	
+d001.s035.t019	di	ADP	di	
+d001.s035.t020	10,3	NUM	10,3	
+d001.s035.t021	mesi	NOUN	mese	bn:00055794n
+d001.s035.t022	in	ADP	in	
+d001.s035.t023	entrambi	DET	entrambi	
+d001.s035.t024	i	DET	il	
+d001.s035.t025	gruppi	NOUN	gruppo	bn:00041942n
+d001.s035.t026	.	PUNCT	.	
+d001.s036.t000	tuttavia	ADV	tuttavia	bn:00114216r
+d001.s036.t001	,	PUNCT	,	
+d001.s036.t002	in	ADP	in	
+d001.s036.t003	entrambi	DET	entrambi	
+d001.s036.t004	gli	DET	il	
+d001.s036.t005	studi	NOUN	studio	bn:00074790n
+d001.s036.t006	i	DET	il	
+d001.s036.t007	pazienti	NOUN	paziente	bn:00061017n
+d001.s036.t008	il	DET	il	
+d001.s036.t009	cui	DET	cui	
+d001.s036.t010	tumore	NOUN	tumore	bn:00057267n
+d001.s036.t011	non	ADV	non	bn:00116360r
+d001.s036.t012	interessava	VERB	interessare	bn:00083240v
+d001.s036.t013	cellule	NOUN	cellula	bn:00017027n
+d001.s036.t014	squamose	ADJ	squamoso	bn:00104467a
+d001.s036.t015	hanno	AUX	avere	
+d001.s036.t016	riportato	VERB	riportare	bn:00082233v
+d001.s036.t017	tempi	NOUN	tempo	bn:00077267n
+d001.s036.t018	di	ADP	di	
+d001.s036.t019	sopravvivenza	NOUN	sopravvivenza	bn:00030811n
+d001.s036.t020	più	ADV	più	bn:00116284r
+d001.s036.t021	lunghi	ADJ	lungo	bn:00106124a
+d001.s036.t022	se	SCONJ	se	
+d001.s036.t023	trattati	VERB	trattare	bn:00084532v
+d001.s036.t024	con	ADP	con	
+d001.s036.t025	alimta	NOUN	alimta	bn:00041942n
+d001.s036.t026	che	PRON	che	
+d001.s036.t027	se	SCONJ	se	
+d001.s036.t028	trattati	VERB	trattare	bn:00087116v
+d001.s036.t029	con	ADP	con	
+d001.s036.t030	il	DET	il	
+d001.s036.t031	comparatore	NOUN	comparatore	bn:00046478n
+d001.s036.t032	.	PUNCT	.	
+d001.s037.t000	invece	ADV	invece	bn:00114248r
+d001.s037.t001	,	PUNCT	,	
+d001.s037.t002	i	DET	il	
+d001.s037.t003	pazienti	NOUN	paziente	bn:00061017n
+d001.s037.t004	il	DET	il	
+d001.s037.t005	cui	DET	cui	
+d001.s037.t006	tumore	NOUN	tumore	bn:00057267n
+d001.s037.t007	interessava	VERB	interessare	bn:00083240v
+d001.s037.t008	cellule	NOUN	cellula	bn:00017027n
+d001.s037.t009	squamose	ADJ	squamoso	bn:00104467a
+d001.s037.t010	hanno	AUX	avere	
+d001.s037.t011	riportato	VERB	riportare	bn:00082233v
+d001.s037.t012	tempi	NOUN	tempo	bn:00077267n
+d001.s037.t013	di	ADP	di	
+d001.s037.t014	sopravvivenza	NOUN	sopravvivenza	bn:00030811n
+d001.s037.t015	più	ADV	più	bn:00116284r
+d001.s037.t016	brevi	ADJ	breve	bn:00098854a
+d001.s037.t017	se	SCONJ	se	
+d001.s037.t018	trattati	VERB	trattare	bn:00084532v
+d001.s037.t019	con	ADP	con	
+d001.s037.t020	alimta	NOUN	alimta	bn:00041942n
+d001.s037.t021	.	PUNCT	.	
+d002.s001.t000	kalgebra	PROPN	Kalgebra	
+d002.s001.t001	è	AUX	essere	
+d002.s001.t002	una	DET	uno	
+d002.s001.t003	calcolatrice	ADJ	calcolatrice	bn:00014687n
+d002.s001.t004	matematica	NOUN	matematica	bn:00053823n
+d002.s001.t005	basata	ADJ	basato	bn:00100305a
+d002.s001.t006	sul	ADP	su il	
+d002.s001.t007	linguaggio	NOUN	linguaggio	bn:00049910n
+d002.s001.t008	mathml	ADJ	mathml	bn:00106488a
+d002.s001.t009	.	PUNCT	.	
+d002.s002.t000	può	AUX	potere	
+d002.s002.t001	eseguire	VERB	eseguire	bn:00087823v
+d002.s002.t002	semplici	ADJ	semplice	bn:00110649a
+d002.s002.t003	operazioni	NOUN	operazione	bn:00053826n
+d002.s002.t004	(	PUNCT	(	
+d002.s002.t005	aritmetiche	ADJ	aritmetico	bn:00097495a
+d002.s002.t006	e	CCONJ	e	
+d002.s002.t007	logiche	ADJ	logico	bn:00106117a
+d002.s002.t008	)	PUNCT	)	
+d002.s002.t009	in	ADP	in	
+d002.s002.t010	mathml	NOUN	mathml	bn:00046516n
+d002.s002.t011	e	CCONJ	e	
+d002.s002.t012	può	AUX	potere	
+d002.s002.t013	rappresentare	VERB	rappresentare	bn:00086611v
+d002.s002.t014	grafici	NOUN	grafico	bn:00041412n
+d002.s002.t015	2d	NUM	2do	
+d002.s002.t016	e	CCONJ	e	
+d002.s002.t017	3d	VERB	3d	bn:00095976a
+d002.s002.t018	.	PUNCT	.	
+d002.s003.t000	non	ADV	non	bn:00116360r
+d002.s003.t001	è	AUX	essere	
+d002.s003.t002	necessario	ADJ	necessario	bn:00107182a
+d002.s003.t003	conoscere	VERB	conoscere	bn:00090141v
+d002.s003.t004	mathml	NOUN	mathml	bn:00046516n
+d002.s003.t005	per	ADP	per	
+d002.s003.t006	usare	VERB	usare	bn:00082705v
+d002.s003.t007	kalgebra	PROPN	Kalgebra	
+d002.s003.t008	.	PUNCT	.	
+d002.s004.t000	kalgebra	PROPN	Kalgebra	
+d002.s004.t001	è	AUX	essere	
+d002.s004.t002	una	DET	uno	
+d002.s004.t003	calcolatrice	NOUN	calcolatrice	bn:00014687n
+d002.s004.t004	grafica	ADJ	grafico	bn:00103741a
+d002.s004.t005	basata	VERB	basare	bn:00083141v
+d002.s004.t006	sul	ADP	su il	
+d002.s004.t007	linguaggio	NOUN	linguaggio	bn:00049910n
+d002.s004.t008	mathml	ADJ	mathml	bn:00096772a
+d002.s004.t009	.	PUNCT	.	
+d002.s005.t000	anche	ADV	anche	bn:00114246r
+d002.s005.t001	se	SCONJ	se	
+d002.s005.t002	inizialmente	ADV	inizialmente	bn:00114055r
+d002.s005.t003	era	AUX	essere	
+d002.s005.t004	orientata	VERB	orientare	bn:00082489v
+d002.s005.t005	all	ADP	all	
+d002.s005.t006	'	PUNCT	'	
+d002.s005.t007	uso	NOUN	uso	bn:00030627n
+d002.s005.t008	usando	VERB	usare	bn:00082705v
+d002.s005.t009	mathml	ADJ	mathml	bn:00104971a
+d002.s005.t010	,	PUNCT	,	
+d002.s005.t011	può	AUX	potere	
+d002.s005.t012	essere	AUX	essere	
+d002.s005.t013	usata	VERB	usare	bn:00082705v
+d002.s005.t014	da	ADP	da	
+d002.s005.t015	chiunque	PRON	chiunque	
+d002.s005.t016	con	ADP	con	
+d002.s005.t017	un	DET	uno	
+d002.s005.t018	minimo	NOUN	minimo	bn:00052194n
+d002.s005.t019	di	ADP	di	
+d002.s005.t020	conoscenza	NOUN	conoscenza	bn:00020452n
+d002.s005.t021	matematica	NOUN	matematica	bn:00053823n
+d002.s005.t022	.	PUNCT	.	
+d002.s006.t000	immagine	NOUN	immagine	bn:00045772n
+d002.s006.t001	della	ADP	di il	
+d002.s006.t002	finestra	NOUN	finestra	bn:00081287n
+d002.s006.t003	principale	ADJ	principale	bn:00099598a
+d002.s006.t004	di	ADP	di	
+d002.s006.t005	kalgebra	PROPN	Kalgebra	
+d002.s007.t000	finestra	NOUN	finestrare	bn:00062297n
+d002.s007.t001	principale	ADJ	principale	bn:00099598a
+d002.s007.t002	di	ADP	di	
+d002.s007.t003	kalgebra	PROPN	Kalgebra	
+d002.s008.t000	la	DET	il	
+d002.s008.t001	finestra	NOUN	finestra	bn:00081285n
+d002.s008.t002	principale	ADJ	principale	bn:00099598a
+d002.s008.t003	di	ADP	di	
+d002.s008.t004	kalgebra	PROPN	Kalgebra	
+d002.s008.t005	è	AUX	essere	
+d002.s008.t006	composta	VERB	comporre	bn:00085487v
+d002.s008.t007	da	ADP	da	
+d002.s008.t008	una	DET	uno	
+d002.s008.t009	scheda	NOUN	scheda	bn:00015922n
+d002.s008.t010	console	ADJ	console	bn:00022002n
+d002.s008.t011	,	PUNCT	,	
+d002.s008.t012	una	DET	uno	
+d002.s008.t013	scheda	NOUN	scheda	bn:00015922n
+d002.s008.t014	2d	ADJ	2d	bn:00108654a
+d002.s008.t015	,	PUNCT	,	
+d002.s008.t016	una	DET	uno	
+d002.s008.t017	scheda	NOUN	scheda	bn:00015922n
+d002.s008.t018	3d	ADJ	3d	bn:00095976a
+d002.s008.t019	e	CCONJ	e	
+d002.s008.t020	una	DET	uno	
+d002.s008.t021	scheda	NOUN	scheda	bn:00015922n
+d002.s008.t022	dizionario	ADJ	dizionario	bn:00026967n
+d002.s008.t023	.	PUNCT	.	
+d002.s009.t000	sotto	ADP	sotto	
+d002.s009.t001	queste	DET	questo	
+d002.s009.t002	schede	NOUN	scheda	bn:00028327n
+d002.s009.t003	si	PRON	si	
+d002.s009.t004	trova	VERB	trovare	bn:00084231v
+d002.s009.t005	un	DET	uno	
+d002.s009.t006	campo	NOUN	campo	bn:00034269n
+d002.s009.t007	di	ADP	di	
+d002.s009.t008	inserimento	NOUN	inserimento	bn:00046887n
+d002.s009.t009	per	ADP	per	
+d002.s009.t010	scrivere	VERB	scrivere	bn:00085489v
+d002.s009.t011	le	DET	il	
+d002.s009.t012	funzioni	NOUN	funzione	bn:00036821n
+d002.s009.t013	o	CCONJ	o	
+d002.s009.t014	fare	VERB	fare	bn:00094730v
+d002.s009.t015	calcoli	ADJ	calcolo	bn:00014689n
+d002.s009.t016	.	PUNCT	.	
+d002.s010.t000	se	SCONJ	se	
+d002.s010.t001	vogliamo	AUX	volere	
+d002.s010.t002	capire	VERB	capire	bn:00095375v
+d002.s010.t003	come	SCONJ	come	
+d002.s010.t004	funziona	VERB	funzionare	bn:00088629v
+d002.s010.t005	,	PUNCT	,	
+d002.s010.t006	la	DET	il	
+d002.s010.t007	cosa	NOUN	cosa	bn:00076925n
+d002.s010.t008	migliore	ADJ	migliore	bn:00098274a
+d002.s010.t009	da	ADP	da	
+d002.s010.t010	fare	VERB	fare	bn:00087106v
+d002.s010.t011	è	AUX	essere	
+d002.s010.t012	comprendere	VERB	comprendere	bn:00095375v
+d002.s010.t013	che	SCONJ	che	
+d002.s010.t014	ciò	PRON	ciò	
+d002.s010.t015	che	PRON	che	
+d002.s010.t016	viene	AUX	venire	
+d002.s010.t017	inserito	VERB	inserire	bn:00087679v
+d002.s010.t018	è	AUX	essere	
+d002.s010.t019	convertito	VERB	convertire	bn:00085761v
+d002.s010.t020	in	ADP	in	
+d002.s010.t021	mathml	NOUN	mathml	bn:00053825n
+d002.s010.t022	,	PUNCT	,	
+d002.s010.t023	anche	ADV	anche	bn:00114246r
+d002.s010.t024	se	SCONJ	se	
+d002.s010.t025	non	ADV	non	bn:00116360r
+d002.s010.t026	è	AUX	essere	
+d002.s010.t027	necessario	ADJ	necessario	bn:00107182a
+d002.s010.t028	conoscere	VERB	conoscere	bn:00090141v
+d002.s010.t029	mathml	NOUN	mathml	bn:00053825n
+d002.s010.t030	.	PUNCT	.	
+d002.s011.t000	ho	AUX	avere	
+d002.s011.t001	basato	VERB	basare	bn:00083141v
+d002.s011.t002	la	DET	il	
+d002.s011.t003	sintassi	NOUN	sintassi	bn:00062118n
+d002.s011.t004	praticamente	ADV	praticamente	bn:00116668r
+d002.s011.t005	sul	ADP	su il	
+d002.s011.t006	senso	NOUN	senso	bn:00001714n
+d002.s011.t007	comune	ADJ	comune	bn:00100090a
+d002.s011.t008	,	PUNCT	,	
+d002.s011.t009	e	CCONJ	e	
+d002.s011.t010	non	ADV	non	bn:00116360r
+d002.s011.t011	dovrebbe	AUX	dovere	
+d002.s011.t012	essere	AUX	essere	
+d002.s011.t013	difficile	ADJ	difficile	bn:00101358a
+d002.s011.t014	.	PUNCT	.	
+d002.s012.t000	ho	AUX	avere	
+d002.s012.t001	dato	VERB	dare	bn:00088814v
+d002.s012.t002	un	DET	uno	
+d002.s012.t003	'	PUNCT	'	
+d002.s012.t004	occhiata	NOUN	occhiare	bn:00011276n
+d002.s012.t005	alla	ADP	a il	
+d002.s012.t006	sintassi	NOUN	sintasso	bn:00075644n
+d002.s012.t007	di	ADP	di	
+d002.s012.t008	maxima	NOUN	maxima	bn:00046516n
+d002.s012.t009	e	CCONJ	e	
+d002.s012.t010	di	ADP	di	
+d002.s012.t011	maple	VERB	maple	bn:00082743v
+d002.s012.t012	,	PUNCT	,	
+d002.s012.t013	in	ADP	in	
+d002.s012.t014	modo	NOUN	modo	bn:00033729n
+d002.s012.t015	da	ADP	da	
+d002.s012.t016	esserne	VERB	essere ne	bn:00083181v
+d002.s012.t017	abbastanza	ADV	abbastanza	bn:00115216r
+d002.s012.t018	simile	ADJ	simile	bn:00110647a
+d002.s012.t019	.	PUNCT	.	
+d002.s013.t000	+	SYM	+	
+d002.s013.t001	-	PUNCT	-	
+d002.s013.t002	*	NOUN	*	bn:00000119n
+d002.s013.t003	/	PUNCT	/	
+d002.s013.t004	:	PUNCT	:	
+d002.s013.t005	addizione	NOUN	addizione	bn:00001296n
+d002.s013.t006	,	PUNCT	,	
+d002.s013.t007	sottrazione	NOUN	sottrazione	bn:00025802n
+d002.s013.t008	,	PUNCT	,	
+d002.s013.t009	moltiplicazione	NOUN	moltiplicazione	bn:00056300n
+d002.s013.t010	e	CCONJ	e	
+d002.s013.t011	divisione	NOUN	divisione	bn:00027919n
+d002.s013.t012	.	PUNCT	.	
+d002.s014.t000	^	SPACE	^	
+d002.s014.t001	,	PUNCT	,	
+d002.s014.t002	*	PUNCT	*	
+d002.s014.t003	*	PUNCT	*	
+d002.s014.t004	:	PUNCT	:	
+d002.s014.t005	elevamento	NOUN	elevamento	bn:00030328n
+d002.s014.t006	a	ADP	a	
+d002.s014.t007	potenza	NOUN	potenza	bn:00030820n
+d002.s014.t008	,	PUNCT	,	
+d002.s014.t009	puoi	AUX	potere	
+d002.s014.t010	usare	VERB	usare	bn:00082705v
+d002.s014.t011	entrambi	PRON	entrambi	
+d002.s014.t012	.	PUNCT	.	
+d002.s015.t000	è	AUX	essere	
+d002.s015.t001	anche	ADV	anche	bn:00114246r
+d002.s015.t002	possibile	ADJ	possibile	bn:00108829a
+d002.s015.t003	usare	VERB	usare	bn:00082705v
+d002.s015.t004	il	DET	il	
+d002.s015.t005	carattere	NOUN	carattere	bn:00017752n
+d002.s015.t006	unicode	ADJ	unicode	bn:00101725a
+d002.s015.t007	²	NUM	²	
+d002.s015.t008	.	PUNCT	.	
+d002.s016.t000	con	ADP	con	
+d002.s016.t001	gli	DET	il	
+d002.s016.t002	elevamenti	NOUN	elevamere	bn:00054019n
+d002.s016.t003	a	ADP	a	
+d002.s016.t004	potenza	NOUN	potenza	bn:00030820n
+d002.s016.t005	è	AUX	essere	
+d002.s016.t006	anche	ADV	anche	bn:00114246r
+d002.s016.t007	possibile	ADJ	possibile	bn:00108829a
+d002.s016.t008	effettuare	VERB	effettuare	bn:00084595v
+d002.s016.t009	radici	NOUN	radice	bn:00068249n
+d002.s017.t000	-gt	PUNCT	-gt	
+d002.s017.t001	:	PUNCT	:	
+d002.s017.t002	è	AUX	essere	
+d002.s017.t003	il	DET	il	
+d002.s017.t004	modo	NOUN	modo	bn:00033729n
+d002.s017.t005	di	ADP	di	
+d002.s017.t006	specificare	VERB	specificare	bn:00086464v
+d002.s017.t007	la	DET	il	
+d002.s017.t008	variabile	NOUN	variabile	bn:00079583n
+d002.s017.t009	vincolata	VERB	vincolata	bn:00082534v
+d002.s017.t010	in	ADP	in	
+d002.s017.t011	una	DET	uno	
+d002.s017.t012	funzione	NOUN	funzione	bn:00036821n
+d002.s017.t013	.	PUNCT	.	
+d002.s018.t000	(	PUNCT	(	
+d002.s018.t001	)	PUNCT	)	
+d002.s018.t002	:	PUNCT	:	
+d002.s018.t003	usato	VERB	usare	bn:00082705v
+d002.s018.t004	per	ADP	per	
+d002.s018.t005	specificare	VERB	specificare	bn:00086464v
+d002.s018.t006	una	DET	uno	
+d002.s018.t007	priorità	NOUN	priorità	bn:00064072n
+d002.s018.t008	più	ADV	più	bn:00116284r
+d002.s018.t009	alta	ADJ	alto	bn:00104162a
+d002.s018.t010	.	PUNCT	.	
+d002.s019.t000	abc(parametri	NOUN	abc(parametro	bn:00005677n
+d002.s019.t001	)	PUNCT	)	
+d002.s019.t002	:	PUNCT	:	
+d002.s019.t003	quando	SCONJ	quando	
+d002.s019.t004	l	DET	L	
+d002.s019.t005	'	PUNCT	'	
+d002.s019.t006	analizzatore	NOUN	analizzatore	bn:00003792n
+d002.s019.t007	trova	VERB	trovare	bn:00084231v
+d002.s019.t008	una	DET	uno	
+d002.s019.t009	funzione	NOUN	funzione	bn:00036821n
+d002.s019.t010	,	PUNCT	,	
+d002.s019.t011	controlla	VERB	controllare	bn:00084848v
+d002.s019.t012	se	SCONJ	se	
+d002.s019.t013	«	PUNCT	«	
+d002.s019.t014	abc	PROPN	Abc	
+d002.s019.t015	»	PUNCT	»	
+d002.s019.t016	è	AUX	essere	
+d002.s019.t017	un	DET	uno	
+d002.s019.t018	operatore	NOUN	operatore	bn:00059141n
+d002.s019.t019	.	PUNCT	.	
+d002.s020.t000	se	PRON	se	
+d002.s020.t001	lo	PRON	lo	
+d002.s020.t002	è	AUX	essere	
+d002.s020.t003	,	PUNCT	,	
+d002.s020.t004	sarà	AUX	essere	
+d002.s020.t005	trattato	VERB	trattare	bn:00087116v
+d002.s020.t006	come	ADP	come	
+d002.s020.t007	un	DET	uno	
+d002.s020.t008	operatore	NOUN	operatore	bn:00059141n
+d002.s020.t009	se	SCONJ	se	
+d002.s020.t010	non	ADV	non	bn:00116360r
+d002.s020.t011	lo	PRON	lo	
+d002.s020.t012	è	AUX	essere	
+d002.s020.t013	,	PUNCT	,	
+d002.s020.t014	sarà	AUX	essere	
+d002.s020.t015	trattato	VERB	trattare	bn:00087116v
+d002.s020.t016	come	ADP	come	
+d002.s020.t017	una	DET	uno	
+d002.s020.t018	funzione	NOUN	funzione	bn:00036821n
+d002.s020.t019	utente	ADJ	utente	bn:00079373n
+d002.s020.t020	.	PUNCT	.	
+d002.s021.t000	:	PUNCT	:	
+d002.s021.t001	#	PROPN	#	
+d002.s021.t002	error	PROPN	error	
+d002.s021.t003	!	PUNCT	!	
+d002.s021.t004	:	PUNCT	:	
+d002.s021.t005	usata	VERB	usare	bn:00082705v
+d002.s021.t006	per	ADP	per	
+d002.s021.t007	definire	VERB	definire	bn:00086466v
+d002.s021.t008	il	DET	il	
+d002.s021.t009	valore	NOUN	valore	bn:00079508n
+d002.s021.t010	di	ADP	di	
+d002.s021.t011	una	DET	uno	
+d002.s021.t012	variabile	NOUN	variabile	bn:00005604n
+d002.s021.t013	.	PUNCT	.	
+d002.s022.t000	?	PUNCT	?	
+d002.s022.t001	:	PUNCT	:	
+d002.s022.t002	definizione	NOUN	definizione	bn:00025928n
+d002.s022.t003	di	ADP	di	
+d002.s022.t004	condizione	NOUN	condizione	bn:00021644n
+d002.s022.t005	definita	VERB	definire	bn:00086464v
+d002.s022.t006	a	ADP	a	
+d002.s022.t007	tratti	NOUN	tratto	bn:00061605n
+d002.s022.t008	.	PUNCT	.	
+d002.s023.t000	una	DET	uno	
+d002.s023.t001	definizione	NOUN	definizione	bn:00025928n
+d002.s023.t002	a	ADP	a	
+d002.s023.t003	tratti	NOUN	tratto	bn:00051289n
+d002.s023.t004	è	AUX	essere	
+d002.s023.t005	il	DET	il	
+d002.s023.t006	modo	NOUN	modo	bn:00033729n
+d002.s023.t007	in	ADP	in	
+d002.s023.t008	cui	PRON	cui	
+d002.s023.t009	possiamo	AUX	potere	
+d002.s023.t010	definire	VERB	definire	bn:00086465v
+d002.s023.t011	operazioni	NOUN	operazione	bn:00053826n
+d002.s023.t012	condizionali	ADJ	condizionale	bn:00100214a
+d002.s023.t013	in	ADP	in	
+d002.s023.t014	kalgebra	PROPN	Kalgebra	
+d002.s023.t015	.	PUNCT	.	
+d002.s024.t000	se	SCONJ	se	
+d002.s024.t001	introduciamo	VERB	introducire	bn:00087802v
+d002.s024.t002	la	DET	il	
+d002.s024.t003	condizione	NOUN	condizione	bn:00021645n
+d002.s024.t004	prima	ADV	prima	bn:00114512r
+d002.s024.t005	del	DET	di il	
+d002.s024.t006	«	PUNCT	«	
+d002.s024.t007	?	PUNCT	?	
+d002.s024.t008	»	PUNCT	»	
+d002.s024.t009	,	PUNCT	,	
+d002.s024.t010	questa	DET	questo	
+d002.s024.t011	condizione	NOUN	condizione	bn:00021645n
+d002.s024.t012	sarà	AUX	essere	
+d002.s024.t013	usata	VERB	usare	bn:00082705v
+d002.s024.t014	solo	ADV	solo	bn:00114234r
+d002.s024.t015	se	SCONJ	se	
+d002.s024.t016	è	AUX	essere	
+d002.s024.t017	vera	ADJ	vero	bn:00112146a
+d002.s024.t018	se	SCONJ	se	
+d002.s024.t019	viene	AUX	venire	
+d002.s024.t020	trovato	VERB	trovare	bn:00084231v
+d002.s024.t021	un	DET	uno	
+d002.s024.t022	«	PUNCT	«	
+d002.s024.t023	?	PUNCT	?	
+d002.s024.t024	»	PUNCT	»	
+d002.s024.t025	senza	ADP	senza	
+d002.s024.t026	condizione	NOUN	condizione	bn:00021645n
+d002.s024.t027	,	PUNCT	,	
+d002.s024.t028	verrà	AUX	venire	
+d002.s024.t029	usato	VERB	usare	bn:00082705v
+d002.s024.t030	come	ADP	come	
+d002.s024.t031	ultima	ADJ	ultimo	bn:00105740a
+d002.s024.t032	alternativa	NOUN	alternativa	bn:00003132n
+d002.s024.t033	.	PUNCT	.	
+d002.s025.t000	utile	ADJ	utile	bn:00113455a
+d002.s025.t001	principalmente	ADV	principalmente	bn:00114714r
+d002.s025.t002	per	ADP	per	
+d002.s025.t003	le	DET	il	
+d002.s025.t004	funzioni	NOUN	funzione	bn:00036822n
+d002.s025.t005	definite	VERB	definire	bn:00086465v
+d002.s025.t006	a	ADP	a	
+d002.s025.t007	tratti	NOUN	tratto	bn:00051289n
+d002.s025.t008	.	PUNCT	.	
+d002.s026.t000	adesso	ADV	adesso	bn:00116381r
+d002.s026.t001	potresti	AUX	potresti	
+d002.s026.t002	chiedermi	VERB	chiedere mi	bn:00086798v
+d002.s026.t003	:	PUNCT	:	
+d002.s026.t004	perché	SCONJ	perché	
+d002.s026.t005	l	DET	L	
+d002.s026.t006	'	DET	'	
+d002.s026.t007	utente	NOUN	utente	bn:00079373n
+d002.s026.t008	dovrebbe	AUX	dovere	
+d002.s026.t009	conoscere	VERB	conoscere	bn:00090141v
+d002.s026.t010	mathml	PROPN	mathml	
+d002.s026.t011	?	PUNCT	?	
+d002.s026.t012	semplice	ADJ	semplice	bn:00102111a
+d002.s026.t013	:	PUNCT	:	
+d002.s026.t014	con	ADP	con	
+d002.s026.t015	il	DET	il	
+d002.s026.t016	mathml	NOUN	mathml	bn:00046516n
+d002.s026.t017	possiamo	AUX	potere	
+d002.s026.t018	operare	VERB	operare	bn:00090621v
+d002.s026.t019	con	ADP	con	
+d002.s026.t020	funzioni	NOUN	funzione	bn:00036821n
+d002.s026.t021	come	ADP	come	
+d002.s026.t022	cos	X	cos	
+d002.s026.t023	(	PUNCT	(	
+d002.s026.t024	)	PUNCT	)	
+d002.s026.t025	,	PUNCT	,	
+d002.s026.t026	sin	ADV	sino	bn:00117250r
+d002.s026.t027	(	PUNCT	(	
+d002.s026.t028	)	PUNCT	)	
+d002.s026.t029	(	PUNCT	(	
+d002.s026.t030	e	CCONJ	e	
+d002.s026.t031	qualsiasi	DET	qualsiasi	
+d002.s026.t032	altra	ADJ	altro	bn:00108011a
+d002.s026.t033	funzione	NOUN	funzione	bn:00036821n
+d002.s026.t034	trigonometrica	ADJ	trigonometrico	bn:00112111a
+d002.s026.t035	)	PUNCT	)	
+d002.s026.t036	,	PUNCT	,	
+d002.s026.t037	sum	ADV	sum	bn:00114130r
+d002.s026.t038	(	PUNCT	(	
+d002.s026.t039	)	PUNCT	)	
+d002.s026.t040	o	CCONJ	o	
+d002.s026.t041	product	NOUN	product	bn:00053827n
+d002.s026.t042	(	PUNCT	(	
+d002.s026.t043	)	PUNCT	)	
+d002.s026.t044	.	PUNCT	.	
+d002.s027.t000	non	ADV	non	bn:00116360r
+d002.s027.t001	importa	VERB	importare	bn:00083240v
+d002.s027.t002	che	SCONJ	che	
+d002.s027.t003	tipo	NOUN	tipo	bn:00078798n
+d002.s027.t004	di	ADP	di	
+d002.s027.t005	funzione	NOUN	funzione	bn:00036822n
+d002.s027.t006	sia	AUX	essere	
+d002.s027.t007	.	PUNCT	.	
+d002.s028.t000	possiamo	AUX	potere	
+d002.s028.t001	usare	VERB	usare	bn:00082705v
+d002.s028.t002	plus	NOUN	plus	bn:00055233n
+d002.s028.t003	(	PUNCT	(	
+d002.s028.t004	)	PUNCT	)	
+d002.s028.t005	,	PUNCT	,	
+d002.s028.t006	times	PROPN	Times	
+d002.s028.t007	(	PUNCT	(	
+d002.s028.t008	)	PUNCT	)	
+d002.s028.t009	e	CCONJ	e	
+d002.s028.t010	qualunque	DET	qualunque	
+d002.s028.t011	cosa	NOUN	cosa	bn:00076924n
+d002.s028.t012	che	PRON	che	
+d002.s028.t013	ha	VERB	avere	bn:00089240v
+d002.s028.t014	un	DET	uno	
+d002.s028.t015	operatore	NOUN	operatore	bn:00059141n
+d002.s028.t016	.	PUNCT	.	
+d002.s029.t000	la	DET	il	
+d002.s029.t001	console	NOUN	console	bn:00022002n
+d002.s029.t002	di	ADP	di	
+d002.s029.t003	kalgebra	PROPN	Kalgebra	
+d002.s029.t004	è	AUX	essere	
+d002.s029.t005	utile	ADJ	utile	bn:00113455a
+d002.s029.t006	come	ADP	come	
+d002.s029.t007	calcolatrice	NOUN	calcolatrice	bn:00014687n
+d002.s029.t008	.	PUNCT	.	
+d002.s030.t000	c	PRON	c	
+d002.s030.t001	è	AUX	essere	
+d002.s030.t002	una	DET	uno	
+d002.s030.t003	lista	NOUN	lista	bn:00051508n
+d002.s030.t004	delle	ADP	di il	
+d002.s030.t005	variabili	NOUN	variabile	bn:00005604n
+d002.s030.t006	dichiarate	ADJ	dichiarato	bn:00100607a
+d002.s030.t007	.	PUNCT	.	
+d002.s031.t000	facendo	VERB	fare	bn:00094730v
+d002.s031.t001	doppio	ADJ	doppio	bn:00101723a
+d002.s031.t002	clic	NOUN	clic	bn:00019758n
+d002.s031.t003	su	ADP	su	
+d002.s031.t004	ognuna	PRON	ognuna	
+d002.s031.t005	di	ADP	di	
+d002.s031.t006	esse	PRON	esso	
+d002.s031.t007	puoi	AUX	potere	
+d002.s031.t008	vedere	VERB	vedere	bn:00093430v
+d002.s031.t009	una	DET	uno	
+d002.s031.t010	finestra	NOUN	finestra	bn:00081285n
+d002.s031.t011	di	ADP	di	
+d002.s031.t012	dialogo	NOUN	dialogo	bn:00026834n
+d002.s031.t013	che	PRON	che	
+d002.s031.t014	ti	PRON	ti	
+d002.s031.t015	permette	VERB	permettere	bn:00087587v
+d002.s031.t016	di	ADP	di	
+d002.s031.t017	modificarne	VERB	modificare ne	bn:00084785v
+d002.s031.t018	il	DET	il	
+d002.s031.t019	valore	NOUN	valore	bn:00079508n
+d002.s031.t020	(	PUNCT	(	
+d002.s031.t021	un	DET	uno	
+d002.s031.t022	modo	NOUN	modo	bn:00001965n
+d002.s031.t023	per	ADP	per	
+d002.s031.t024	ingannare	VERB	ingannare	bn:00083458v
+d002.s031.t025	il	DET	il	
+d002.s031.t026	log	NOUN	log	bn:00051833n
+d002.s031.t027	)	PUNCT	)	
+d002.s031.t028	.	PUNCT	.	
+d002.s032.t000	ogni	DET	ogni	
+d002.s032.t001	volta	NOUN	volta	bn:00019848n
+d002.s032.t002	che	SCONJ	che	
+d002.s032.t003	inserisci	VERB	inseriscare	bn:00089662v
+d002.s032.t004	un	DET	uno	
+d002.s032.t005	'	PUNCT	'	
+d002.s032.t006	espressione	NOUN	espressione	bn:00032395n
+d002.s032.t007	,	PUNCT	,	
+d002.s032.t008	il	DET	il	
+d002.s032.t009	valore	NOUN	valore	bn:00079508n
+d002.s032.t010	della	ADP	di il	
+d002.s032.t011	variabile	NOUN	variabile	bn:00079583n
+d002.s032.t012	«	PUNCT	«	
+d002.s032.t013	ans	PROPN	ans	
+d002.s032.t014	»	PUNCT	»	
+d002.s032.t015	sarà	AUX	essere	
+d002.s032.t016	modificato	VERB	modificare	bn:00090884v
+d002.s032.t017	all	ADP	all	
+d002.s032.t018	'	PUNCT	'	
+d002.s032.t019	ultimo	ADJ	ultimo	bn:00105740a
+d002.s032.t020	risultato	NOUN	risultato	bn:00004452n
+d002.s032.t021	.	PUNCT	.	
+d002.s033.t000	ctrl	VERB	ctrl	bn:00084978v
+d002.s033.t001	n	ADP	n	
+d002.s033.t002	nuovo	ADJ	nuovo	bn:00107267a
+d002.s034.t000	pulisce	VERB	pulire	bn:00091821v
+d002.s034.t001	la	DET	il	
+d002.s034.t002	console	NOUN	console	bn:00022002n
+d002.s034.t003	.	PUNCT	.	
+d002.s035.t000	ctrl	VERB	ctrl	bn:00086634v
+d002.s035.t001	c	PRON	c	
+d002.s035.t002	carica	ADJ	carico	bn:00106096a
+d002.s035.t003	script	VERB	script	bn:00012062n
+d002.s036.t000	esegue	VERB	eseguire	bn:00087823v
+d002.s036.t001	le	DET	il	
+d002.s036.t002	istruzioni	NOUN	istruzione	bn:00020945n
+d002.s036.t003	presenti	ADJ	presente	bn:00108978a
+d002.s036.t004	in	ADP	in	
+d002.s036.t005	un	DET	uno	
+d002.s036.t006	file	NOUN	file	bn:00025320n
+d002.s036.t007	.	PUNCT	.	
+d002.s037.t000	un	DET	uno	
+d002.s037.t001	buon	ADJ	buono	bn:00103672a
+d002.s037.t002	metodo	NOUN	metodo	bn:00054625n
+d002.s037.t003	per	ADP	per	
+d002.s037.t004	creare	VERB	creare	bn:00086008v
+d002.s037.t005	""""	PUNCT	""""	
+d002.s037.t006	librerie	NOUN	libreria	bn:00050968n
+d002.s037.t007	""""	PUNCT	""""	
+d002.s037.t008	o	CCONJ	o	
+d002.s037.t009	riprendere	VERB	riprendere	bn:00092413v
+d002.s037.t010	un	DET	uno	
+d002.s037.t011	lavoro	NOUN	lavoro	bn:00062309n
+d002.s037.t012	interrotto	VERB	interrompere	bn:00083900v
+d002.s037.t013	in	ADP	in	
+d002.s037.t014	precedenza	NOUN	precedenza	bn:00064072n
+d002.s037.t015	.	PUNCT	.	
+d002.s038.t000	ctrl	VERB	ctrl	bn:00086634v
+d002.s038.t001	s	PROPN	s	
+d002.s038.t002	salva	ADJ	salvo	bn:00110271a
+d002.s038.t003	script	VERB	script	bn:00012062n
+d002.s039.t000	salva	ADJ	salvo	bn:00110270a
+d002.s039.t001	le	DET	il	
+d002.s039.t002	istruzioni	NOUN	istruzione	bn:00020945n
+d002.s039.t003	eseguite	VERB	eseguire	bn:00087823v
+d002.s039.t004	dall	ADP	dall	
+d002.s039.t005	'	PUNCT	'	
+d002.s039.t006	inizio	NOUN	inizio	bn:00073989n
+d002.s039.t007	della	ADP	di il	
+d002.s039.t008	sessione	NOUN	sessione	bn:00070690n
+d002.s039.t009	in	ADP	in	
+d002.s039.t010	modo	NOUN	modo	bn:00033729n
+d002.s039.t011	da	ADP	da	
+d002.s039.t012	poterle	VERB	potere le	bn:00087174v
+d002.s039.t013	riusare	VERB	riusare	bn:00092558v
+d002.s039.t014	.	PUNCT	.	
+d002.s040.t000	genera	VERB	generare	bn:00084080v
+d002.s040.t001	file	ADJ	file	bn:00025320n
+d002.s040.t002	di	ADP	di	
+d002.s040.t003	testo	NOUN	testo	bn:00076732n
+d002.s040.t004	semplice	ADJ	semplice	bn:00110649a
+d002.s040.t005	,	PUNCT	,	
+d002.s040.t006	quindi	ADV	quindi	bn:00115635r
+d002.s040.t007	è	AUX	essere	
+d002.s040.t008	possibile	ADJ	possibile	bn:00108829a
+d002.s040.t009	modificarli	VERB	modificare li	bn:00085794v
+d002.s040.t010	usando	VERB	usare	bn:00082705v
+d002.s040.t011	un	DET	uno	
+d002.s040.t012	qualsiasi	DET	qualsiasi	
+d002.s040.t013	editor	NOUN	editor	bn:00029775n
+d002.s040.t014	di	ADP	di	
+d002.s040.t015	testo	NOUN	testo	bn:00076732n
+d002.s040.t016	(	PUNCT	(	
+d002.s040.t017	come	ADP	come	
+d002.s040.t018	kate	NOUN	kate	bn:00067181n
+d002.s040.t019	)	PUNCT	)	
+d002.s040.t020	.	PUNCT	.	
+d002.s041.t000	ctrl	VERB	ctrl	bn:00086634v
+d002.s041.t001	l	DET	L	
+d002.s041.t002	salva	ADJ	salva	bn:00068382n
+d002.s041.t003	log	NOUN	log	bn:00051833n
+d002.s042.t000	salva	ADJ	salvo	bn:00110270a
+d002.s042.t001	il	DET	il	
+d002.s042.t002	log	NOUN	log	bn:00051833n
+d002.s042.t003	e	CCONJ	e	
+d002.s042.t004	tutti	DET	tutto	
+d002.s042.t005	i	DET	il	
+d002.s042.t006	risultati	NOUN	risultato	bn:00000724n
+d002.s042.t007	su	ADP	su	
+d002.s042.t008	file	NOUN	fila	bn:00051290n
+d002.s042.t009	html	VERB	Html	bn:00045087n
+d002.s042.t010	che	PRON	che	
+d002.s042.t011	può	AUX	potere	
+d002.s042.t012	essere	AUX	essere	
+d002.s042.t013	stampato	VERB	stampare	bn:00092023v
+d002.s042.t014	o	CCONJ	o	
+d002.s042.t015	pubblicato	VERB	pubblicare	bn:00092023v
+d002.s042.t016	.	PUNCT	.	
+d002.s043.t000	ctrl	VERB	ctrl	bn:00086634v
+d002.s043.t001	q	CCONJ	q	
+d002.s043.t002	esci	VERB	esci	bn:00083426v
+d002.s044.t000	chiude	VERB	chiudere	bn:00085162v
+d002.s044.t001	il	DET	il	
+d002.s044.t002	programma	NOUN	programma	bn:00013235n
+d002.s044.t003	.	PUNCT	.	
+d002.s045.t000	per	ADP	per	
+d002.s045.t001	aggiungere	VERB	aggiungere	bn:00082317v
+d002.s045.t002	un	DET	uno	
+d002.s045.t003	nuovo	ADJ	nuovo	bn:00107267a
+d002.s045.t004	grafico	NOUN	grafico	bn:00041412n
+d002.s045.t005	2d	ADJ	2d	bn:00108654a
+d002.s045.t006	in	ADP	in	
+d002.s045.t007	kalgebra	PROPN	Kalgebra	
+d002.s045.t008	,	PUNCT	,	
+d002.s045.t009	devi	AUX	dovere	
+d002.s045.t010	andare	VERB	andare	bn:00088912v
+d002.s045.t011	nella	ADP	in il	
+d002.s045.t012	scheda	NOUN	scheda	bn:00015922n
+d002.s045.t013	grafico	ADJ	grafico	bn:00103741a
+d002.s045.t014	2d	ADJ	2d	bn:00108654a
+d002.s045.t015	e	CCONJ	e	
+d002.s045.t016	fare	VERB	fare	bn:00087106v
+d002.s045.t017	clic	NOUN	clic	bn:00019758n
+d002.s045.t018	sulla	ADP	su il	
+d002.s045.t019	scheda	NOUN	scheda	bn:00015922n
+d002.s045.t020	aggiungi	ADJ	aggiungio	bn:00096385a
+d002.s045.t021	per	ADP	per	
+d002.s045.t022	aggiungere	VERB	aggiungere	bn:00082317v
+d002.s045.t023	una	DET	uno	
+d002.s045.t024	nuova	ADJ	nuovo	bn:00107267a
+d002.s045.t025	funzione	NOUN	funzione	bn:00036821n
+d002.s045.t026	.	PUNCT	.	
+d002.s046.t000	sarà	AUX	essere	
+d002.s046.t001	quindi	ADV	quindi	bn:00114281r
+d002.s046.t002	attivata	VERB	attivare	bn:00082306v
+d002.s046.t003	la	DET	il	
+d002.s046.t004	casella	NOUN	casella	bn:00073714n
+d002.s046.t005	di	ADP	di	
+d002.s046.t006	testo	NOUN	testo	bn:00076732n
+d002.s046.t007	dove	ADV	dove	bn:00080991n
+d002.s046.t008	puoi	AUX	potere	
+d002.s046.t009	scrivere	VERB	scrivere	bn:00085489v
+d002.s046.t010	la	DET	il	
+d002.s046.t011	funzione	NOUN	funzione	bn:00036821n
+d002.s046.t012	.	PUNCT	.	
+d002.s047.t000	se	SCONJ	se	
+d002.s047.t001	vuoi	AUX	volere	
+d002.s047.t002	usare	VERB	usare	bn:00082705v
+d002.s047.t003	una	DET	uno	
+d002.s047.t004	tipica	ADJ	tipico	bn:00112216a
+d002.s047.t005	funzione	NOUN	funzione	bn:00036821n
+d002.s047.t006	f(x	NOUN	f(x	bn:00007530n
+d002.s047.t007	)	PUNCT	)	
+d002.s047.t008	non	ADV	non	bn:00116360r
+d002.s047.t009	è	AUX	essere	
+d002.s047.t010	necessario	ADJ	necessario	bn:00107182a
+d002.s047.t011	specificarla	VERB	specificare lo	bn:00088816v
+d002.s047.t012	.	PUNCT	.	
+d002.s048.t000	quando	SCONJ	quando	
+d002.s048.t001	hai	AUX	avere	
+d002.s048.t002	inserito	VERB	inserire	bn:00087681v
+d002.s048.t003	la	DET	il	
+d002.s048.t004	funzione	NOUN	funzione	bn:00036821n
+d002.s048.t005	premi	ADJ	premio	bn:00007497n
+d002.s048.t006	ok	X	ok	
+d002.s048.t007	per	ADP	per	
+d002.s048.t008	visualizzare	VERB	visualizzare	bn:00095547v
+d002.s048.t009	il	DET	il	
+d002.s048.t010	grafico	NOUN	grafico	bn:00041412n
+d002.s048.t011	nella	ADP	in il	
+d002.s048.t012	finestra	NOUN	finestra	bn:00081285n
+d002.s048.t013	principale	ADJ	principale	bn:00099598a
+d002.s048.t014	.	PUNCT	.	
+d002.s049.t000	puoi	AUX	potere	
+d002.s049.t001	avere	VERB	avere	bn:00089240v
+d002.s049.t002	più	ADV	più	bn:00116290r
+d002.s049.t003	grafici	ADJ	grafico	bn:00103741a
+d002.s049.t004	nella	ADP	in il	
+d002.s049.t005	stessa	ADJ	stesso	bn:00110075a
+d002.s049.t006	vista	NOUN	vista	bn:00006384n
+d002.s049.t007	.	PUNCT	.	
+d002.s050.t000	usa	VERB	usare	bn:00082705v
+d002.s050.t001	il	DET	il	
+d002.s050.t002	pulsante	NOUN	pulsante	bn:00014306n
+d002.s050.t003	aggiungi	ADJ	aggiungi	bn:00107267a
+d002.s050.t004	in	ADP	in	
+d002.s050.t005	modalità	NOUN	modalità	bn:00033729n
+d002.s050.t006	«	PUNCT	«	
+d002.s050.t007	lista	NOUN	lista	bn:00051508n
+d002.s050.t008	»	PUNCT	»	
+d002.s050.t009	.	PUNCT	.	
+d002.s051.t000	puoi	AUX	potere	
+d002.s051.t001	impostare	VERB	impostare	bn:00087732v
+d002.s051.t002	un	DET	uno	
+d002.s051.t003	diverso	ADJ	diverso	bn:00101628a
+d002.s051.t004	colore	NOUN	colore	bn:00020726n
+d002.s051.t005	per	ADP	per	
+d002.s051.t006	ogni	DET	ogni	
+d002.s051.t007	grafico	NOUN	grafico	bn:00017904n
+d002.s051.t008	.	PUNCT	.	
+d003.s001.t000	recentemente	ADV	recentemente	bn:00116085r
+d003.s001.t001	la	DET	il	
+d003.s001.t002	fondazione	NOUN	fondazione	bn:00036064n
+d003.s001.t003	ha	AUX	avere	
+d003.s001.t004	partecipato	VERB	partecipare	bn:00091451v
+d003.s001.t005	all	ADP	all	
+d003.s001.t006	'	PUNCT	'	
+d003.s001.t007	organizzazione	NOUN	organizzazione	bn:00059480n
+d003.s001.t008	di	ADP	di	
+d003.s001.t009	una	DET	uno	
+d003.s001.t010	conferenza	NOUN	conferenza	bn:00021721n
+d003.s001.t011	che	PRON	che	
+d003.s001.t012	ha	AUX	avere	
+d003.s001.t013	affrontato	VERB	affrontare	bn:00082339v
+d003.s001.t014	questa	DET	questo	
+d003.s001.t015	sfida	NOUN	sfida	bn:00017557n
+d003.s001.t016	critica	ADJ	critico	bn:00100673a
+d003.s001.t017	.	PUNCT	.	
+d003.s002.t000	hanno	AUX	avere	
+d003.s002.t001	partecipato	VERB	partecipare	bn:00091451v
+d003.s002.t002	oltre	ADV	oltre	bn:00115329r
+d003.s002.t003	100	NUM	100	
+d003.s002.t004	esponenti	NOUN	esponente	bn:00047203n
+d003.s002.t005	delle	ADP	di il	
+d003.s002.t006	principali	ADJ	principale	bn:00099598a
+d003.s002.t007	categorie	NOUN	categoria	bn:00064607n
+d003.s002.t008	interessate	ADJ	interessato	bn:00100197a
+d003.s002.t009	,	PUNCT	,	
+d003.s002.t010	i	DET	il	
+d003.s002.t011	quali	PRON	quale	
+d003.s002.t012	hanno	AUX	avere	
+d003.s002.t013	discusso	VERB	discutere	bn:00086942v
+d003.s002.t014	fra	ADP	fra	
+d003.s002.t015	l	DET	L	
+d003.s002.t016	'	PUNCT	'	
+d003.s002.t017	altro	PRON	altro	
+d003.s002.t018	del	ADP	di il	
+d003.s002.t019	ruolo	NOUN	ruolo	bn:00036823n
+d003.s002.t020	degli	ADP	di il	
+d003.s002.t021	attori	NOUN	attore	bn:00001177n
+d003.s002.t022	chiave	NOUN	chiave	bn:00048986n
+d003.s002.t023	quali	DET	quale	
+d003.s002.t024	pubbliche	ADJ	pubblico	bn:00109211a
+d003.s002.t025	autorità	NOUN	autorità	bn:00007299n
+d003.s002.t026	,	PUNCT	,	
+d003.s002.t027	parti	NOUN	parte	bn:00060834n
+d003.s002.t028	sociali	ADJ	sociale	bn:00110842a
+d003.s002.t029	,	PUNCT	,	
+d003.s002.t030	organizzazioni	NOUN	organizzazione	bn:00059480n
+d003.s002.t031	di	ADP	di	
+d003.s002.t032	volontariato	NOUN	volontariato	bn:00005138n
+d003.s002.t033	e	CCONJ	e	
+d003.s002.t034	locali	ADJ	locale	bn:00106108a
+d003.s002.t035	nonché	CCONJ	nonché	
+d003.s002.t036	utenti	NOUN	utente	bn:00079373n
+d003.s002.t037	dei	ADP	di il	
+d003.s002.t038	servizi	NOUN	servizio	bn:00070653n
+d003.s002.t039	.	PUNCT	.	
+d003.s003.t000	si	PRON	si	
+d003.s003.t001	è	AUX	essere	
+d003.s003.t002	anche	ADV	anche	bn:00114246r
+d003.s003.t003	preso	VERB	prendere	bn:00087106v
+d003.s003.t004	atto	NOUN	atto	bn:00001077n
+d003.s003.t005	della	ADP	di il	
+d003.s003.t006	gamma	NOUN	gamma	bn:00003268n
+d003.s003.t007	di	ADP	di	
+d003.s003.t008	aioli	NOUN	aiole	bn:00002155n
+d003.s003.t009	diversi	DET	diverso	
+d003.s003.t010	svolti	ADJ	svolto	bn:00102774a
+d003.s004.t000	unitamente	ADV	unitamente	bn:00117321r
+d003.s004.t001	alla	ADP	a il	
+d003.s004.t002	commissione	NOUN	commissione	bn:00021015n
+d003.s004.t003	europea	ADJ	europeo	bn:00102440a
+d003.s004.t004	,	PUNCT	,	
+d003.s004.t005	al	ADP	a il	
+d003.s004.t006	ministero	NOUN	ministero	bn:00055180n
+d003.s004.t007	degli	ADP	di il	
+d003.s004.t008	affari	NOUN	affare	bn:00008569n
+d003.s004.t009	sociali	ADJ	sociale	bn:00110842a
+d003.s004.t010	spagnolo	ADJ	spagnolo	bn:00110978a
+d003.s004.t011	e	CCONJ	e	
+d003.s004.t012	al	ADP	a il	
+d003.s004.t013	governo	NOUN	governo	bn:00007299n
+d003.s004.t014	regionale	ADJ	regionale	bn:00109623a
+d003.s004.t015	della	ADP	di il	
+d003.s004.t016	galizia	NOUN	galizia	bn:00037072n
+d003.s004.t017	,	PUNCT	,	
+d003.s004.t018	la	DET	il	
+d003.s004.t019	fondazione	NOUN	fondazione	bn:00036064n
+d003.s004.t020	ha	AUX	avere	
+d003.s004.t021	organizzato	VERB	organizzare	bn:00082778v
+d003.s004.t022	una	DET	uno	
+d003.s004.t023	conferenza	NOUN	conferenza	bn:00021721n
+d003.s004.t024	europea	ADJ	europeo	bn:00102440a
+d003.s004.t025	sul	ADP	su il	
+d003.s004.t026	tema	NOUN	tema	bn:00074900n
+d003.s004.t027	esclusione	NOUN	esclusione	bn:00030015n
+d003.s004.t028	sociale	ADJ	sociale	bn:00110842a
+d003.s004.t029	:	PUNCT	:	
+d003.s004.t030	una	DET	uno	
+d003.s004.t031	grande	ADJ	grande	bn:00103779a
+d003.s004.t032	sfida	NOUN	sfida	bn:00017557n
+d003.s004.t033	per	ADP	per	
+d003.s004.t034	i	DET	il	
+d003.s004.t035	servizi	NOUN	servizio	bn:00070653n
+d003.s004.t036	pubblici	ADJ	pubblico	bn:00109211a
+d003.s004.t037	di	ADP	di	
+d003.s004.t038	assistenza	NOUN	assistenza	bn:00002155n
+d003.s004.t039	.	PUNCT	.	
+d003.s005.t000	recentemente	ADV	recentemente	bn:00116085r
+d003.s005.t001	la	DET	il	
+d003.s005.t002	fondazione	NOUN	fondazione	bn:00036064n
+d003.s005.t003	ha	AUX	avere	
+d003.s005.t004	pubblicato	VERB	pubblicare	bn:00092023v
+d003.s005.t005	,	PUNCT	,	
+d003.s005.t006	nel	ADP	in il	
+d003.s005.t007	quadro	NOUN	quadro	bn:00014537n
+d003.s005.t008	del	ADP	di il	
+d003.s005.t009	progetto	NOUN	progetto	bn:00049573n
+d003.s005.t010	epoc	ADJ	epoc	bn:00102332a
+d003.s005.t011	,	PUNCT	,	
+d003.s005.t012	uno	DET	uno	
+d003.s005.t013	studio	NOUN	studio	bn:00067181n
+d003.s005.t014	comparativo	ADJ	comparativo	bn:00100121a
+d003.s005.t015	che	PRON	che	
+d003.s005.t016	valuta	VERB	valutare	bn:00082720v
+d003.s005.t017	la	DET	il	
+d003.s005.t018	misura	NOUN	misura	bn:00003603n
+d003.s005.t019	in	ADP	in	
+d003.s005.t020	cui	PRON	cui	
+d003.s005.t021	la	DET	il	
+d003.s005.t022	partecipazione	NOUN	partecipazione	bn:00030844n
+d003.s005.t023	diretta	ADJ	diretto	bn:00101412a
+d003.s005.t024	può	AUX	potere	
+d003.s005.t025	umanizzare	VERB	umanizzare	bn:00093755v
+d003.s005.t026	il	DET	il	
+d003.s005.t027	lavoro	NOUN	lavoro	bn:00081568n
+d003.s005.t028	migliorando	VERB	migliorare	bn:00082573v
+d003.s005.t029	allo	ADP	a il	
+d003.s005.t030	stesso	ADJ	stesso	bn:00110076a
+d003.s005.t031	tempo	NOUN	tempo	bn:00077267n
+d003.s005.t032	la	DET	il	
+d003.s005.t033	redditività	NOUN	redditività	bn:00037027n
+d003.s005.t034	.	PUNCT	.	
+d003.s006.t000	lo	DET	il	
+d003.s006.t001	studio	NOUN	studio	bn:00074790n
+d003.s006.t002	si	PRON	si	
+d003.s006.t003	basa	VERB	basare	bn:00083141v
+d003.s006.t004	su	ADP	su	
+d003.s006.t005	195	NUM	195	
+d003.s006.t006	interviste	NOUN	intervista	bn:00047238n
+d003.s006.t007	personali	ADJ	personale	bn:00108488a
+d003.s006.t008	con	ADP	con	
+d003.s006.t009	alti	ADJ	alto	bn:00111630a
+d003.s006.t010	dirigenti	NOUN	dirigente	bn:00032179n
+d003.s006.t011	delle	ADP	di il	
+d003.s006.t012	parti	NOUN	parte	bn:00060834n
+d003.s006.t013	sociali	ADJ	sociale	bn:00110842a
+d003.s006.t014	,	PUNCT	,	
+d003.s006.t015	in	ADP	in	
+d003.s006.t016	rappresentanza	NOUN	rappresentanza	bn:00001964n
+d003.s006.t017	delle	ADP	di il	
+d003.s006.t018	principali	ADJ	principale	bn:00099598a
+d003.s006.t019	organizzazioni	NOUN	organizzazione	bn:00059480n
+d003.s006.t020	nazionali	ADJ	nazionale	bn:00101680a
+d003.s006.t021	di	ADP	di	
+d003.s006.t022	quindici	NUM	quindici	
+d003.s006.t023	paesi	NOUN	paese	bn:00023236n
+d003.s006.t024	europei	ADJ	europeo	bn:00102440a
+d003.s006.t025	.	PUNCT	.	
+d003.s007.t000	quali	DET	quale	
+d003.s007.t001	settori	NOUN	settore	bn:00070206n
+d003.s007.t002	industriali	ADJ	industriale	bn:00104995a
+d003.s007.t003	di	ADP	di	
+d003.s007.t004	rilievo	NOUN	rilievo	bn:00000639n
+d003.s007.t005	,	PUNCT	,	
+d003.s007.t006	sono	AUX	essere	
+d003.s007.t007	stati	AUX	essere	
+d003.s007.t008	inclusi	VERB	includere	bn:00089662v
+d003.s007.t009	anche	ADV	anche	bn:00114246r
+d003.s007.t010	l	DET	L	
+d003.s007.t011	'	PUNCT	'	
+d003.s007.t012	industria	NOUN	industria	bn:00046575n
+d003.s007.t013	metallurgica	ADJ	metallurgico	bn:00106654a
+d003.s007.t014	e	CCONJ	e	
+d003.s007.t015	il	DET	il	
+d003.s007.t016	settore	NOUN	settore	bn:00070206n
+d003.s007.t017	bancario	ADJ	bancario	bn:00008379n
+d003.s007.t018	.	PUNCT	.	
+d003.s008.t000	i	DET	il	
+d003.s008.t001	principali	ADJ	principale	bn:00099598a
+d003.s008.t002	oratori	NOUN	oratore	bn:00059275n
+d003.s008.t003	in	ADP	in	
+d003.s008.t004	occasione	NOUN	occasione	bn:00048587n
+d003.s008.t005	della	ADP	di il	
+d003.s008.t006	conferenza	NOUN	conferenza	bn:00021721n
+d003.s008.t007	sull	ADJ	sull	bn:00103624a
+d003.s008.t008	'	PUNCT	'	
+d003.s008.t009	esclusione	NOUN	esclusione	bn:00030015n
+d003.s008.t010	sociale	ADJ	sociale	bn:00110842a
+d003.s008.t011	(	PUNCT	(	
+d003.s008.t012	da	ADP	da	
+d003.s008.t013	sinistra	NOUN	sinistra	bn:00050521n
+d003.s008.t014	a	ADP	a	
+d003.s008.t015	destra	NOUN	destra	bn:00067808n
+d003.s008.t016	)	PUNCT	)	
+d003.s008.t017	:	PUNCT	:	
+d003.s008.t018	cristina	NOUN	cristina	bn:00061364n
+d003.s008.t019	louro	ADJ	louro	bn:00110076a
+d003.s008.t020	,	PUNCT	,	
+d003.s008.t021	direzione	NOUN	direzione	bn:00053116n
+d003.s008.t022	generale	ADJ	generale	bn:00103507a
+d003.s008.t023	per	ADP	per	
+d003.s008.t024	l	DET	L	
+d003.s008.t025	'	PUNCT	'	
+d003.s008.t026	occupazione	NOUN	occupazione	bn:00014138n
+d003.s008.t027	,	PUNCT	,	
+d003.s008.t028	le	DET	il	
+d003.s008.t029	relazioni	NOUN	relazione	bn:00067002n
+d003.s008.t030	industriali	ADJ	industriale	bn:00104995a
+d003.s008.t031	e	CCONJ	e	
+d003.s008.t032	gli	DET	il	
+d003.s008.t033	affari	NOUN	affare	bn:00008569n
+d003.s008.t034	sociali	ADJ	sociale	bn:00110842a
+d003.s008.t035	,	PUNCT	,	
+d003.s008.t036	commissione	NOUN	commissione	bn:00021015n
+d003.s008.t037	europea	ADJ	europeo	bn:00102440a
+d003.s008.t038	fernando	VERB	fernare	bn:00083340v
+d003.s008.t039	gomes	PROPN	Gomes	
+d003.s008.t040	,	PUNCT	,	
+d003.s008.t041	comitato	NOUN	comitare	bn:00041942n
+d003.s008.t042	delle	ADP	di il	
+d003.s008.t043	regioni	NOUN	regione	bn:00027810n
+d003.s008.t044	barbara	PROPN	Barbara	
+d003.s008.t045	weiler	PROPN	weiler	
+d003.s008.t046	,	PUNCT	,	
+d003.s008.t047	deputato	NOUN	deputato	bn:00026025n
+d003.s008.t048	al	ADP	a il	
+d003.s008.t049	par	NOUN	par	bn:00060521n
+d003.s008.t050	lamento	NOUN	lamento	bn:00022792n
+d003.s008.t051	europeo	ADJ	europeo	bn:00102440a
+d003.s008.t052	josé	NOUN	José	bn:00070168n
+d003.s008.t053	maría	NOUN	maría	bn:00010712n
+d003.s008.t054	gil	ADJ	gil	bn:00103803a
+d003.s008.t055	-	PUNCT	-	
+d003.s008.t056	robles	PROPN	robles	
+d003.s008.t057	gil	X	gil	
+d003.s008.t058	-	PUNCT	-	
+d003.s008.t059	delgado	NOUN	delgado	bn:00046516n
+d003.s008.t060	,	PUNCT	,	
+d003.s008.t061	vicepresidente	NOUN	vicepresidente	bn:00079435n
+d003.s008.t062	del	ADP	di il	
+d003.s008.t063	parlamento	NOUN	parlamento	bn:00060708n
+d003.s008.t064	europeo	ADJ	europeo	bn:00102440a
+d003.s008.t065	john	PROPN	John	
+d003.s008.t066	cairoti	NOUN	cairoto	bn:00046516n
+d003.s008.t067	,	PUNCT	,	
+d003.s008.t068	comitato	NOUN	comitato	bn:00021015n
+d003.s008.t069	economico	ADJ	economico	bn:00102001a
+d003.s008.t070	e	CCONJ	e	
+d003.s008.t071	sociale	ADJ	sociale	bn:00110842a
+d003.s008.t072	.	PUNCT	.	
+d003.s009.t000	studi	NOUN	studio	bn:00074790n
+d003.s009.t001	di	ADP	di	
+d003.s009.t002	casi	NOUN	caso	bn:00016401n
+d003.s009.t003	ogni	DET	ogni	
+d003.s009.t004	rapporto	NOUN	rapporto	bn:00067181n
+d003.s009.t005	nazionale	ADJ	nazionale	bn:00107136a
+d003.s009.t006	contiene	VERB	contenere	bn:00085499v
+d003.s009.t007	una	DET	uno	
+d003.s009.t008	serie	NOUN	serie	bn:00070609n
+d003.s009.t009	di	ADP	di	
+d003.s009.t010	25	NUM	25	
+d003.s009.t011	-	PUNCT	-	
+d003.s009.t012	30	NUM	30	
+d003.s009.t013	iniziative	NOUN	iniziativa	bn:00031009n
+d003.s009.t014	,	PUNCT	,	
+d003.s009.t015	selezionate	VERB	selezionare	bn:00084931v
+d003.s009.t016	fra	ADP	fra	
+d003.s009.t017	quelle	PRON	quello	
+d003.s009.t018	più	ADV	più	bn:00116284r
+d003.s009.t019	idonee	ADJ	idoneo	bn:00096549a
+d003.s009.t020	ad	ADP	a	
+d003.s009.t021	illustrare	VERB	illustrare	bn:00087826v
+d003.s009.t022	politiche	NOUN	politica	bn:00063330n
+d003.s009.t023	e	CCONJ	e	
+d003.s009.t024	prassi	ADJ	prassi	bn:00063989n
+d003.s009.t025	volte	NOUN	volta	bn:00019848n
+d003.s009.t026	a	ADP	a	
+d003.s009.t027	migliorare	VERB	migliorare	bn:00082573v
+d003.s009.t028	l	DET	L	
+d003.s009.t029	'	PUNCT	'	
+d003.s009.t030	assunzione	NOUN	assunzione	bn:00030626n
+d003.s009.t031	,	PUNCT	,	
+d003.s009.t032	la	DET	il	
+d003.s009.t033	formazione	NOUN	formazione	bn:00041853n
+d003.s009.t034	e	CCONJ	e	
+d003.s009.t035	lo	DET	il	
+d003.s009.t036	sviluppo	NOUN	sviluppo	bn:00026696n
+d003.s009.t037	dei	ADP	di il	
+d003.s009.t038	lavoratori	NOUN	lavoratore	bn:00064681n
+d003.s009.t039	anziani	ADJ	anziano	bn:00096644a
+d003.s009.t040	nell	ADP	nell	
+d003.s009.t041	'	PUNCT	'	
+d003.s009.t042	azienda	NOUN	azienda	bn:00021286n
+d003.s009.t043	e	CCONJ	e	
+d003.s009.t044	nella	ADP	in il	
+d003.s009.t045	comunità	NOUN	comunità	bn:00021248n
+d003.s009.t046	.	PUNCT	.	
+d003.s010.t000	per	ADP	per	
+d003.s010.t001	ciascun	DET	ciascuno	
+d003.s010.t002	paese	NOUN	paese	bn:00023236n
+d003.s010.t003	due	NUM	due	
+d003.s010.t004	o	CCONJ	o	
+d003.s010.t005	tre	NUM	tre	
+d003.s010.t006	iniziative	NOUN	iniziativa	bn:00031009n
+d003.s010.t007	sono	AUX	essere	
+d003.s010.t008	state	AUX	essere	
+d003.s010.t009	ulteriormente	ADV	ulteriormente	bn:00115329r
+d003.s010.t010	selezionate	VERB	selezionare	bn:00084931v
+d003.s010.t011	in	ADP	in	
+d003.s010.t012	vista	NOUN	vista	bn:00059169n
+d003.s010.t013	di	ADP	di	
+d003.s010.t014	uno	DET	uno	
+d003.s010.t015	studio	NOUN	studio	bn:00074790n
+d003.s010.t016	di	ADP	di	
+d003.s010.t017	caso	NOUN	caso	bn:00016401n
+d003.s010.t018	più	ADV	più	bn:00116284r
+d003.s010.t019	approfondito	ADJ	approfondito	bn:00100204a
+d003.s010.t020	.	PUNCT	.	
+d003.s011.t000	questi	DET	questo	
+d003.s011.t001	studi	NOUN	studio	bn:00074790n
+d003.s011.t002	hanno	AUX	avere	
+d003.s011.t003	analizzato	VERB	analizzare	bn:00082596v
+d003.s011.t004	il	DET	il	
+d003.s011.t005	contesto	NOUN	contesto	bn:00019219n
+d003.s011.t006	delle	ADP	di il	
+d003.s011.t007	iniziative	NOUN	iniziativa	bn:00031009n
+d003.s011.t008	e	CCONJ	e	
+d003.s011.t009	il	DET	il	
+d003.s011.t010	loro	DET	loro	
+d003.s011.t011	impatto	NOUN	impatto	bn:00046065n
+d003.s011.t012	sui	ADP	su il	
+d003.s011.t013	modelli	NOUN	modello	bn:00061054n
+d003.s011.t014	occupazionali	ADJ	occupazionale	bn:00107714a
+d003.s011.t015	e	CCONJ	e	
+d003.s011.t016	sulle	ADP	su il	
+d003.s011.t017	organizzazioni	NOUN	organizzazione	bn:00059480n
+d003.s011.t018	del	ADP	di il	
+d003.s011.t019	lavoro	NOUN	lavoro	bn:00030616n
+d003.s011.t020	,	PUNCT	,	
+d003.s011.t021	valutando	VERB	valutare	bn:00082720v
+d003.s011.t022	inoltre	ADV	inoltre	bn:00114134r
+d003.s011.t023	i	DET	il	
+d003.s011.t024	vantaggi	NOUN	vantaggio	bn:00001559n
+d003.s011.t025	e	CCONJ	e	
+d003.s011.t026	i	DET	il	
+d003.s011.t027	problemi	NOUN	problema	bn:00064526n
+d003.s011.t028	dell	ADP	dell	
+d003.s011.t029	'	PUNCT	'	
+d003.s011.t030	iniziativa	NOUN	iniziativa	bn:00031009n
+d003.s011.t031	.	PUNCT	.	
+d003.s012.t000	hanno	AUX	avere	
+d003.s012.t001	anche	ADV	anche	bn:00114246r
+d003.s012.t002	avuto	VERB	avere	bn:00089240v
+d003.s012.t003	luogo	NOUN	luogo	bn:00062699n
+d003.s012.t004	visite	ADJ	visito	bn:00102807a
+d003.s012.t005	e	CCONJ	e	
+d003.s012.t006	interviste	NOUN	intervista	bn:00007099n
+d003.s012.t007	con	ADP	con	
+d003.s012.t008	esponenti	NOUN	esponente	bn:00047203n
+d003.s012.t009	chiave	NOUN	chiave	bn:00048986n
+d003.s012.t010	del	ADP	di il	
+d003.s012.t011	personale	NOUN	personale	bn:00035770n
+d003.s012.t012	.	PUNCT	.	
+d003.s013.t000	gli	DET	il	
+d003.s013.t001	studi	NOUN	studio	bn:00074790n
+d003.s013.t002	nazionali	ADJ	nazionale	bn:00107137a
+d003.s013.t003	sfoceranno	VERB	sfocare	bn:00083584v
+d003.s013.t004	in	ADP	in	
+d003.s013.t005	un	DET	uno	
+d003.s013.t006	rapporto	NOUN	rapporto	bn:00067181n
+d003.s013.t007	europeo	ADJ	europeo	bn:00102440a
+d003.s013.t008	che	PRON	che	
+d003.s013.t009	sintetizzerà	VERB	sintetizzare	bn:00092916v
+d003.s013.t010	le	DET	il	
+d003.s013.t011	prassi	NOUN	prassi	bn:00063989n
+d003.s013.t012	più	ADV	più	bn:00116290r
+d003.s013.t013	comuni	ADJ	comune	bn:00100090a
+d003.s013.t014	.	PUNCT	.	
+d003.s014.t000	questo	DET	questo	
+d003.s014.t001	rapporto	NOUN	rapporto	bn:00067181n
+d003.s014.t002	e	CCONJ	e	
+d003.s014.t003	una	DET	uno	
+d003.s014.t004	raccolta	NOUN	raccolta	bn:00000777n
+d003.s014.t005	di	ADP	di	
+d003.s014.t006	iniziative	NOUN	iniziativa	bn:00034797n
+d003.s014.t007	saranno	AUX	essere	
+d003.s014.t008	pubblicati	VERB	pubblicare	bn:00092023v
+d003.s014.t009	nel	ADP	in il	
+d003.s014.t010	1996	NUM	1996	
+d003.s014.t011	e	CCONJ	e	
+d003.s014.t012	costituiranno	VERB	costituari	bn:00083187v
+d003.s014.t013	la	DET	il	
+d003.s014.t014	base	NOUN	base	bn:00008786n
+d003.s014.t015	di	ADP	di	
+d003.s014.t016	una	DET	uno	
+d003.s014.t017	conferenza	NOUN	conferenza	bn:00021721n
+d003.s014.t018	prevista	VERB	prevedere	bn:00084375v
+d003.s014.t019	per	ADP	per	
+d003.s014.t020	l	DET	L	
+d003.s014.t021	'	DET	'	
+d003.s014.t022	autunno	NOUN	autunno	bn:00007406n
+d003.s014.t023	dello	ADP	di il	
+d003.s014.t024	stesso	ADJ	stesso	bn:00110075a
+d003.s014.t025	anno	NOUN	anno	bn:00078738n
+d003.s014.t026	.	PUNCT	.	
+d003.s015.t000	la	DET	il	
+d003.s015.t001	fondazione	NOUN	fondazione	bn:00036064n
+d003.s015.t002	intende	VERB	intendere	bn:00089804v
+d003.s015.t003	documentare	VERB	documentare	bn:00087137v
+d003.s015.t004	le	DET	il	
+d003.s015.t005	caratteristiche	NOUN	caratteristica	bn:00017761n
+d003.s015.t006	delle	ADP	di il	
+d003.s015.t007	barriere	NOUN	barriera	bn:00008714n
+d003.s015.t008	inerenti	ADJ	inerente	bn:00096456a
+d003.s015.t009	all	ADP	all	
+d003.s015.t010	'	PUNCT	'	
+d003.s015.t011	età	NOUN	età	bn:00001938n
+d003.s015.t012	a	ADP	a	
+d003.s015.t013	livello	NOUN	livello	bn:00025965n
+d003.s015.t014	di	ADP	di	
+d003.s015.t015	assunzione	NOUN	assunzione	bn:00030626n
+d003.s015.t016	e	CCONJ	e	
+d003.s015.t017	formazione	NOUN	formazione	bn:00041853n
+d003.s015.t018	e	CCONJ	e	
+d003.s015.t019	analizzarne	VERB	analizzare ne	bn:00087236v
+d003.s015.t020	le	DET	il	
+d003.s015.t021	cause	NOUN	causa	bn:00066443n
+d003.s015.t022	.	PUNCT	.	
+d003.s016.t000	vengono	AUX	venire	
+d003.s016.t001	esaminati	VERB	esaminare	bn:00082596v
+d003.s016.t002	anche	ADV	anche	bn:00114246r
+d003.s016.t003	i	DET	il	
+d003.s016.t004	punti	NOUN	punto	bn:00046942n
+d003.s016.t005	di	ADP	di	
+d003.s016.t006	vista	NOUN	vista	bn:00059169n
+d003.s016.t007	delle	ADP	di il	
+d003.s016.t008	parti	NOUN	parte	bn:00060834n
+d003.s016.t009	sociali	ADJ	sociale	bn:00110842a
+d003.s016.t010	,	PUNCT	,	
+d003.s016.t011	dedicando	VERB	dedicare	bn:00085427v
+d003.s016.t012	un	DET	uno	
+d003.s016.t013	'	PUNCT	'	
+d003.s016.t014	attenzione	NOUN	attenzione	bn:00007020n
+d003.s016.t015	particolare	ADJ	particolare	bn:00108295a
+d003.s016.t016	alle	ADP	a il	
+d003.s016.t017	proposte	NOUN	proposta	bn:00064776n
+d003.s016.t018	volte	VERB	volta	bn:00019848n
+d003.s016.t019	ad	ADP	a	
+d003.s016.t020	eliminare	VERB	eliminare	bn:00087115v
+d003.s016.t021	le	DET	il	
+d003.s016.t022	barriere	NOUN	barriera	bn:00008714n
+d003.s016.t023	inerenti	ADJ	inerente	bn:00102066a
+d003.s016.t024	all	ADP	all	
+d003.s016.t025	'	PUNCT	'	
+d003.s016.t026	età	NOUN	età	bn:00001938n
+d003.s016.t027	.	PUNCT	.	
+d003.s017.t000	in	ADP	in	
+d003.s017.t001	terzo	ADJ	terzo	bn:00096000a
+d003.s017.t002	luogo	NOUN	luogo	bn:00051760n
+d003.s017.t003	,	PUNCT	,	
+d003.s017.t004	il	DET	il	
+d003.s017.t005	progetto	NOUN	progetto	bn:00049573n
+d003.s017.t006	documenta	VERB	documentare	bn:00087137v
+d003.s017.t007	e	CCONJ	e	
+d003.s017.t008	valuta	NOUN	valutare	bn:00031973n
+d003.s017.t009	iniziative	NOUN	iniziativa	bn:00031009n
+d003.s017.t010	,	PUNCT	,	
+d003.s017.t011	pubbliche	ADJ	pubblico	bn:00109211a
+d003.s017.t012	e	CCONJ	e	
+d003.s017.t013	private	ADJ	privato	bn:00109026a
+d003.s017.t014	,	PUNCT	,	
+d003.s017.t015	volte	NOUN	volgere	bn:00067367n
+d003.s017.t016	a	ADP	a	
+d003.s017.t017	lottare	VERB	lottare	bn:00088159v
+d003.s017.t018	contro	ADP	contro	
+d003.s017.t019	le	DET	il	
+d003.s017.t020	barriere	NOUN	barriera	bn:00008714n
+d003.s017.t021	legate	VERB	legare	bn:00085623v
+d003.s017.t022	all	ADP	all	
+d003.s017.t023	'	PUNCT	'	
+d003.s017.t024	età	NOUN	età	bn:00001940n
+d003.s017.t025	,	PUNCT	,	
+d003.s017.t026	specialmente	ADV	specialmente	bn:00115235r
+d003.s017.t027	a	ADP	a	
+d003.s017.t028	favore	NOUN	favore	bn:00033835n
+d003.s017.t029	dei	ADP	di il	
+d003.s017.t030	lavoratori	NOUN	lavoratore	bn:00064681n
+d003.s017.t031	anziani	ADJ	anziano	bn:00096644a
+d003.s017.t032	.	PUNCT	.	
+d003.s018.t000	ricercando	VERB	ricercare	bn:00093452v
+d003.s018.t001	alternative	NOUN	alternativa	bn:00003132n
+d003.s018.t002	al	ADP	a il	
+d003.s018.t003	prepensionamento	NOUN	prepensionamento	bn:00058797n
+d003.s018.t004	e	CCONJ	e	
+d003.s018.t005	al	ADP	a il	
+d003.s018.t006	licenziamento	NOUN	licenziamento	bn:00027476n
+d003.s018.t007	,	PUNCT	,	
+d003.s018.t008	il	DET	il	
+d003.s018.t009	progetto	NOUN	progetto	bn:00049573n
+d003.s018.t010	si	PRON	si	
+d003.s018.t011	interessa	VERB	interessare	bn:00083240v
+d003.s018.t012	principalmente	ADV	principalmente	bn:00114714r
+d003.s018.t013	al	ADP	a il	
+d003.s018.t014	mantenimento	NOUN	mantenimento	bn:00044396n
+d003.s018.t015	,	PUNCT	,	
+d003.s018.t016	alla	ADP	a il	
+d003.s018.t017	reintegrazione	NOUN	reintegrazione	bn:00066979n
+d003.s018.t018	e	CCONJ	e	
+d003.s018.t019	alla	ADP	a il	
+d003.s018.t020	riqualificazione	NOUN	riqualificazione	bn:00059879n
+d003.s018.t021	dei	ADP	di il	
+d003.s018.t022	lavoratori	NOUN	lavoratore	bn:00064681n
+d003.s018.t023	anziani	ADJ	anziano	bn:00096644a
+d003.s018.t024	.	PUNCT	.	
+d003.s019.t000	sono	AUX	essere	
+d003.s019.t001	presi	VERB	prendere	bn:00087106v
+d003.s019.t002	in	ADP	in	
+d003.s019.t003	considerazione	NOUN	considerazione	bn:00021989n
+d003.s019.t004	il	DET	il	
+d003.s019.t005	sesso	NOUN	sesso	bn:00070773n
+d003.s019.t006	e	CCONJ	e	
+d003.s019.t007	l	DET	L	
+d003.s019.t008	'	DET	'	
+d003.s019.t009	appartenenza	NOUN	appartenenza	bn:00009814n
+d003.s019.t010	etnica	ADJ	etnico	bn:00100762a
+d003.s019.t011	dei	ADP	di il	
+d003.s019.t012	lavoratori	NOUN	lavoratore	bn:00081593n
+d003.s019.t013	,	PUNCT	,	
+d003.s019.t014	e	CCONJ	e	
+d003.s019.t015	la	DET	il	
+d003.s019.t016	loro	DET	loro	
+d003.s019.t017	correlazione	NOUN	correlazione	bn:00022856n
+d003.s019.t018	con	ADP	con	
+d003.s019.t019	la	DET	il	
+d003.s019.t020	discriminazione	NOUN	discriminazione	bn:00027538n
+d003.s019.t021	in	ADP	in	
+d003.s019.t022	base	NOUN	base	bn:00008870n
+d003.s019.t023	all	ADP	all	
+d003.s019.t024	'	PUNCT	'	
+d003.s019.t025	età	NOUN	età	bn:00001938n
+d003.s019.t026	.	PUNCT	.	
+d003.s020.t000	il	DET	il	
+d003.s020.t001	progetto	NOUN	progetto	bn:00049573n
+d003.s020.t002	esamina	VERB	esaminare	bn:00082596v
+d003.s020.t003	anche	ADV	anche	bn:00114246r
+d003.s020.t004	iniziative	NOUN	iniziativa	bn:00031009n
+d003.s020.t005	volte	VERB	volgere	bn:00082844v
+d003.s020.t006	a	ADP	a	
+d003.s020.t007	lottare	VERB	lottare	bn:00088159v
+d003.s020.t008	contro	ADP	contro	
+d003.s020.t009	la	DET	il	
+d003.s020.t010	discriminazione	NOUN	discriminazione	bn:00027538n
+d003.s020.t011	basata	ADJ	basato	bn:00106019a
+d003.s020.t012	sull	VERB	sull	bn:00083184v
+d003.s020.t013	'	PUNCT	'	
+d003.s020.t014	età	NOUN	età	bn:00001938n
+d003.s020.t015	nelle	ADP	in il	
+d003.s020.t016	zone	NOUN	zona	bn:00005513n
+d003.s020.t017	rurali	ADJ	rurale	bn:00109997a
+d003.s020.t018	e	CCONJ	e	
+d003.s020.t019	nelle	ADP	in il	
+d003.s020.t020	piccole	ADJ	piccolo	bn:00106058a
+d003.s020.t021	e	CCONJ	e	
+d003.s020.t022	medie	ADJ	medio	bn:00097855a
+d003.s020.t023	imprese	NOUN	impresa	bn:00031008n
+d003.s020.t024	.	PUNCT	.	
+d003.s021.t000	la	DET	il	
+d003.s021.t001	ricerca	NOUN	ricerca	bn:00067280n
+d003.s021.t002	ha	VERB	avere	bn:00088078v
+d003.s021.t003	per	ADP	per	
+d003.s021.t004	oggetto	NOUN	oggetto	bn:00002179n
+d003.s021.t005	sette	NUM	sette	
+d003.s021.t006	stati	NOUN	stato	bn:00023236n
+d003.s021.t007	membri	NOUN	membro	bn:00054276n
+d003.s021.t008	:	PUNCT	:	
+d003.s021.t009	belgio	PROPN	belgio	
+d003.s021.t010	,	PUNCT	,	
+d003.s021.t011	francia	PROPN	Francia	
+d003.s021.t012	,	PUNCT	,	
+d003.s021.t013	germania	PROPN	Germania	
+d003.s021.t014	,	PUNCT	,	
+d003.s021.t015	grecia	PROPN	Grecia	
+d003.s021.t016	,	PUNCT	,	
+d003.s021.t017	italia	PROPN	Italia	
+d003.s021.t018	,	PUNCT	,	
+d003.s021.t019	paesi	NOUN	paese	bn:00023235n
+d003.s021.t020	bassi	ADJ	basso	bn:00106208a
+d003.s021.t021	e	CCONJ	e	
+d003.s021.t022	regno	NOUN	regno	bn:00049169n
+d003.s021.t023	unito	PROPN	unito	
+d003.s021.t024	.	PUNCT	.	
+d004.s003.t000	che	SCONJ	che	
+d004.s003.t001	cos	PRON	cos	
+d004.s003.t002	è	AUX	essere	
+d004.s003.t003	cerenia	VERB	cerenia	bn:00083918v
+d004.s003.t004	?	PUNCT	?	
+d004.s004.t000	cerenia	NOUN	cerenia	bn:00059945n
+d004.s004.t001	contiene	VERB	contenere	bn:00085499v
+d004.s004.t002	il	DET	il	
+d004.s004.t003	principio	NOUN	principio	bn:00064429n
+d004.s004.t004	attivo	ADJ	attivo	bn:00096387a
+d004.s004.t005	maropitant	PROPN	maropitant	
+d004.s004.t006	ed	CCONJ	e	
+d004.s004.t007	è	AUX	essere	
+d004.s004.t008	disponibile	ADJ	disponibile	bn:00097846a
+d004.s004.t009	sotto	ADP	sotto	
+d004.s004.t010	forma	NOUN	forma	bn:00021751n
+d004.s004.t011	di	ADP	di	
+d004.s004.t012	compressa	NOUN	compressa	bn:00021435n
+d004.s004.t013	o	CCONJ	o	
+d004.s004.t014	di	ADP	di	
+d004.s004.t015	soluzione	NOUN	soluzione	bn:00072760n
+d004.s004.t016	iniettabile	ADJ	iniettabile	bn:00101836a
+d004.s004.t017	.	PUNCT	.	
+d004.s005.t000	le	DET	il	
+d004.s005.t001	compresse	NOUN	compressa	bn:00021435n
+d004.s005.t002	sono	AUX	essere	
+d004.s005.t003	di	ADP	di	
+d004.s005.t004	color	NOUN	color	bn:00020726n
+d004.s005.t005	arancione	ADJ	arancione	bn:00107945a
+d004.s005.t006	chiaro	ADJ	chiaro	bn:00105938a
+d004.s005.t007	e	CCONJ	e	
+d004.s005.t008	hanno	VERB	avere	bn:00088078v
+d004.s005.t009	una	DET	uno	
+d004.s005.t010	tacca	NOUN	tacca	bn:00039842n
+d004.s005.t011	su	ADP	su	
+d004.s005.t012	entrambi	DET	entrambi	
+d004.s005.t013	i	DET	il	
+d004.s005.t014	lati	NOUN	lato	bn:00032604n
+d004.s005.t015	,	PUNCT	,	
+d004.s005.t016	per	ADP	per	
+d004.s005.t017	facilitarne	VERB	facilitare ne	bn:00086154v
+d004.s005.t018	la	DET	il	
+d004.s005.t019	divisione	NOUN	divisione	bn:00027913n
+d004.s005.t020	in	ADP	in	
+d004.s005.t021	due	NUM	due	
+d004.s005.t022	metà	NOUN	metà	bn:00042601n
+d004.s005.t023	.	PUNCT	.	
+d004.s006.t000	ciascuna	DET	ciascuno	
+d004.s006.t001	compressa	NOUN	compressa	bn:00021435n
+d004.s006.t002	è	AUX	essere	
+d004.s006.t003	marcata	VERB	marcare	bn:00083881v
+d004.s006.t004	da	ADP	da	
+d004.s006.t005	un	DET	uno	
+d004.s006.t006	lato	NOUN	lato	bn:00032604n
+d004.s006.t007	con	ADP	con	
+d004.s006.t008	il	DET	il	
+d004.s006.t009	logo	NOUN	logo	bn:00051872n
+d004.s006.t010	pfizer	VERB	pfizer	bn:00084069v
+d004.s006.t011	e	CCONJ	e	
+d004.s006.t012	dall	ADP	dall	
+d004.s006.t013	altro	ADJ	altro	bn:00108011a
+d004.s006.t014	lato	NOUN	lato	bn:00032604n
+d004.s006.t015	con	ADP	con	
+d004.s006.t016	le	DET	il	
+d004.s006.t017	lettere	NOUN	lettera	bn:00003057n
+d004.s006.t018	mpt	NUM	mpt	
+d004.s006.t019	e	CCONJ	e	
+d004.s006.t020	con	ADP	con	
+d004.s006.t021	numeri	NOUN	numero	bn:00058287n
+d004.s006.t022	che	PRON	che	
+d004.s006.t023	indicano	VERB	indicare	bn:00086679v
+d004.s006.t024	la	DET	il	
+d004.s006.t025	quantità	NOUN	quantità	bn:00065552n
+d004.s006.t026	di	ADP	di	
+d004.s006.t027	maropitant	PROPN	maropitant	
+d004.s006.t028	.	PUNCT	.	
+d004.s007.t000	per	ADP	per	
+d004.s007.t001	che	DET	che	
+d004.s007.t002	cosa	NOUN	cosa	bn:00001734n
+d004.s007.t003	si	PRON	si	
+d004.s007.t004	usa	VERB	usare	bn:00082705v
+d004.s007.t005	cerenia	PROPN	cere en ia	
+d004.s007.t006	?	PUNCT	?	
+d004.s008.t000	cerenia	VERB	cerenia	bn:00085239v
+d004.s008.t001	è	AUX	essere	
+d004.s008.t002	un	DET	uno	
+d004.s008.t003	antiemetico	NOUN	antiemetico	bn:00004656n
+d004.s008.t004	,	PUNCT	,	
+d004.s008.t005	ossia	CCONJ	ossia	
+d004.s008.t006	un	DET	uno	
+d004.s008.t007	medicinale	NOUN	medicinale	bn:00054128n
+d004.s008.t008	che	PRON	che	
+d004.s008.t009	arresta	VERB	arrestare	bn:00082785v
+d004.s008.t010	il	DET	il	
+d004.s008.t011	vomito	NOUN	vomito	bn:00027565n
+d004.s008.t012	.	PUNCT	.	
+d004.s009.t000	è	AUX	essere	
+d004.s009.t001	usato	VERB	usare	bn:00082705v
+d004.s009.t002	nei	ADP	in il	
+d004.s009.t003	cani	NOUN	cane	bn:00015267n
+d004.s009.t004	per	ADP	per	
+d004.s009.t005	prevenire	VERB	prevenire	bn:00088454v
+d004.s009.t006	il	DET	il	
+d004.s009.t007	vomito	NOUN	vomito	bn:00027565n
+d004.s009.t008	causato	ADJ	causare	bn:00084699v
+d004.s009.t009	,	PUNCT	,	
+d004.s009.t010	per	ADP	per	
+d004.s009.t011	esempio	NOUN	esempio	bn:00032099n
+d004.s009.t012	,	PUNCT	,	
+d004.s009.t013	dalla	ADP	da il	
+d004.s009.t014	chemioterapia	NOUN	chemioterapia	bn:00018141n
+d004.s009.t015	(	PUNCT	(	
+d004.s009.t016	medicinali	NOUN	medicinale	bn:00054128n
+d004.s009.t017	usati	VERB	usare	bn:00082705v
+d004.s009.t018	per	ADP	per	
+d004.s009.t019	la	DET	il	
+d004.s009.t020	cura	NOUN	cura	bn:00047235n
+d004.s009.t021	del	ADP	di il	
+d004.s009.t022	cancro	NOUN	cancro	bn:00015180n
+d004.s009.t023	,	PUNCT	,	
+d004.s009.t024	alcuni	PRON	alcuno	
+d004.s009.t025	dei	ADP	di il	
+d004.s009.t026	quali	PRON	quale	
+d004.s009.t027	noti	ADJ	noto	bn:00105645a
+d004.s009.t028	per	ADP	per	
+d004.s009.t029	provocare	VERB	provocare	bn:00084418v
+d004.s009.t030	il	DET	il	
+d004.s009.t031	vomito	NOUN	vomito	bn:00027565n
+d004.s009.t032	)	PUNCT	)	
+d004.s009.t033	.	PUNCT	.	
+d004.s010.t000	in	ADP	in	
+d004.s010.t001	combinazione	NOUN	combinazione	bn:00020872n
+d004.s010.t002	con	ADP	con	
+d004.s010.t003	altre	ADJ	altro	bn:00108011a
+d004.s010.t004	misure	NOUN	misura	bn:00054018n
+d004.s010.t005	di	ADP	di	
+d004.s010.t006	supporto	NOUN	supporto	bn:00075330n
+d004.s010.t007	,	PUNCT	,	
+d004.s010.t008	per	ADP	per	
+d004.s010.t009	esempio	NOUN	esempio	bn:00032099n
+d004.s010.t010	altre	DET	altro	
+d004.s010.t011	terapie	NOUN	terapia	bn:00047235n
+d004.s010.t012	veterinarie	ADJ	veterinario	bn:00113583a
+d004.s010.t013	o	CCONJ	o	
+d004.s010.t014	una	DET	uno	
+d004.s010.t015	dieta	NOUN	dieta	bn:00027011n
+d004.s010.t016	speciale	ADJ	speciale	bn:00110995a
+d004.s010.t017	,	PUNCT	,	
+d004.s010.t018	cerenia	VERB	cerenia	bn:00082317v
+d004.s010.t019	può	AUX	potere	
+d004.s010.t020	anche	ADV	anche	bn:00114246r
+d004.s010.t021	essere	AUX	essere	
+d004.s010.t022	usato	VERB	usare	bn:00082705v
+d004.s010.t023	nel	ADP	in il	
+d004.s010.t024	trattamento	NOUN	trattamento	bn:00047235n
+d004.s010.t025	del	ADP	di il	
+d004.s010.t026	vomito	NOUN	vomito	bn:00027565n
+d004.s010.t027	(	PUNCT	(	
+d004.s010.t028	sia	CCONJ	sia	
+d004.s010.t029	come	ADP	come	
+d004.s010.t030	iniezione	NOUN	iniezione	bn:00046787n
+d004.s010.t031	che	PRON	che	
+d004.s010.t032	come	ADP	come	
+d004.s010.t033	iniezione	NOUN	iniezione	bn:00046787n
+d004.s010.t034	seguita	VERB	seguire	bn:00088424v
+d004.s010.t035	da	ADP	da	
+d004.s010.t036	compresse	NOUN	compresse	bn:00052222n
+d004.s010.t037	)	PUNCT	)	
+d004.s010.t038	.	PUNCT	.	
+d004.s011.t000	per	ADP	per	
+d004.s011.t001	tali	DET	tale	
+d004.s011.t002	scopi	NOUN	scopo	bn:00036822n
+d004.s011.t003	cerenia	ADJ	cerenio	bn:00097031a
+d004.s011.t004	può	AUX	potere	
+d004.s011.t005	essere	AUX	essere	
+d004.s011.t006	somministrato	VERB	somministrare	bn:00082365v
+d004.s011.t007	fino	ADV	fino	bn:00012405n
+d004.s011.t008	a	ADP	a	
+d004.s011.t009	un	DET	uno	
+d004.s011.t010	massimo	NOUN	massimo	bn:00053933n
+d004.s011.t011	di	ADP	di	
+d004.s011.t012	cinque	NUM	cinque	
+d004.s011.t013	giorni	NOUN	giorno	bn:00000086n
+d004.s011.t014	.	PUNCT	.	
+d004.s012.t000	come	SCONJ	come	
+d004.s012.t001	agisce	VERB	agire	bn:00082286v
+d004.s012.t002	cerenia	PROPN	cere en ia	
+d004.s012.t003	?	PUNCT	?	
+d004.s013.t000	cerenia	NOUN	cerenia	bn:00004952n
+d004.s013.t001	blocca	VERB	bloccare	bn:00083622v
+d004.s013.t002	un	DET	uno	
+d004.s013.t003	recettore	NOUN	recettore	bn:00066515n
+d004.s013.t004	della	ADP	di il	
+d004.s013.t005	neurochinina	NOUN	neurochinina	bn:00001507n
+d004.s013.t006	(	PUNCT	(	
+d004.s013.t007	nk1	NOUN	nk1	bn:00023425n
+d004.s013.t008	)	PUNCT	)	
+d004.s013.t009	che	PRON	che	
+d004.s013.t010	agisce	VERB	agire	bn:00082285v
+d004.s013.t011	a	ADP	a	
+d004.s013.t012	livello	NOUN	livello	bn:00025965n
+d004.s013.t013	del	ADP	di il	
+d004.s013.t014	sistema	NOUN	sistema	bn:00075762n
+d004.s013.t015	nervoso	ADJ	nervoso	bn:00097284a
+d004.s013.t016	centrale	ADJ	centrale	bn:00099441a
+d004.s013.t017	.	PUNCT	.	
+d004.s014.t000	come	ADV	come	bn:00114354r
+d004.s014.t001	è	AUX	essere	
+d004.s014.t002	stata	AUX	essere	
+d004.s014.t003	studiata	VERB	studiare	bn:00082596v
+d004.s014.t004	l	DET	l	
+d004.s014.t005	efficacia	NOUN	efficacia	bn:00029877n
+d004.s014.t006	di	ADP	di	
+d004.s014.t007	cerenia	NOUN	cerenia	bn:00017379n
+d004.s014.t008	?	PUNCT	?	
+d004.s015.t000	sono	AUX	essere	
+d004.s015.t001	stati	AUX	essere	
+d004.s015.t002	condotti	VERB	condurre	bn:00084593v
+d004.s015.t003	numerosi	DET	numeroso	
+d004.s015.t004	studi	NOUN	studio	bn:00074790n
+d004.s015.t005	con	ADP	con	
+d004.s015.t006	cerenia	NOUN	cerenia	bn:00018361n
+d004.s015.t007	,	PUNCT	,	
+d004.s015.t008	sia	CCONJ	sia	
+d004.s015.t009	su	ADP	su	
+d004.s015.t010	cani	NOUN	cane	bn:00015267n
+d004.s015.t011	da	ADP	da	
+d004.s015.t012	laboratorio	NOUN	laboratorio	bn:00049551n
+d004.s015.t013	sia	CCONJ	essere	
+d004.s015.t014	su	ADP	su	
+d004.s015.t015	animali	NOUN	animale	bn:00004222n
+d004.s015.t016	in	ADP	in	
+d004.s015.t017	cura	NOUN	cura	bn:00047235n
+d004.s015.t018	presso	ADP	presso	
+d004.s015.t019	studi	NOUN	studio	bn:00074790n
+d004.s015.t020	veterinari	ADJ	veterinario	bn:00113583a
+d004.s015.t021	di	ADP	di	
+d004.s015.t022	diversi	DET	diverso	
+d004.s015.t023	paesi	NOUN	paese	bn:00023235n
+d004.s015.t024	europei	ADJ	europeo	bn:00102440a
+d004.s015.t025	e	CCONJ	e	
+d004.s015.t026	negli	ADP	in il	
+d004.s015.t027	stati	PROPN	Stati	
+d004.s015.t028	uniti	PROPN	Uniti	
+d004.s015.t029	d	ADP	d	
+d004.s015.t030	america	PROPN	America	
+d004.s015.t031	.	PUNCT	.	
+d004.s016.t000	quali	DET	quale	
+d004.s016.t001	benefici	NOUN	beneficio	bn:00009905n
+d004.s016.t002	ha	AUX	avere	
+d004.s016.t003	mostrato	VERB	mostrare	bn:00084097v
+d004.s016.t004	cerenia	NOUN	cerenia	bn:00046516n
+d004.s016.t005	nel	ADP	in il	
+d004.s016.t006	corso	NOUN	corso	bn:00023285n
+d004.s016.t007	degli	ADP	di il	
+d004.s016.t008	studi	NOUN	studio	bn:00074790n
+d004.s016.t009	?	PUNCT	?	
+d004.s017.t000	dai	ADP	da il	
+d004.s017.t001	risultati	NOUN	risultato	bn:00021961n
+d004.s017.t002	degli	ADP	di il	
+d004.s017.t003	studi	NOUN	studio	bn:00074790n
+d004.s017.t004	è	AUX	essere	
+d004.s017.t005	emerso	VERB	emergere	bn:00087561v
+d004.s017.t006	che	SCONJ	che	
+d004.s017.t007	cerenia	VERB	cereniare	bn:00082317v
+d004.s017.t008	è	AUX	essere	
+d004.s017.t009	più	ADV	più	bn:00116284r
+d004.s017.t010	efficace	ADJ	efficace	bn:00102040a
+d004.s017.t011	del	ADP	di il	
+d004.s017.t012	placebo	NOUN	placebo	bn:00062717n
+d004.s017.t013	:	PUNCT	:	
+d004.s017.t014	nei	ADP	in il	
+d004.s017.t015	cani	NOUN	cane	bn:00015267n
+d004.s017.t016	trattati	ADJ	trattato	bn:00078126n
+d004.s017.t017	con	ADP	con	
+d004.s017.t018	il	DET	il	
+d004.s017.t019	medicinale	NOUN	medicinale	bn:00054128n
+d004.s017.t020	gli	DET	il	
+d004.s017.t021	attacchi	NOUN	attacco	bn:00006999n
+d004.s017.t022	di	ADP	di	
+d004.s017.t023	vomito	NOUN	vomito	bn:00027565n
+d004.s017.t024	sono	AUX	essere	
+d004.s017.t025	stati	AUX	essere	
+d004.s017.t026	meno	ADV	meno	bn:00116104r
+d004.s017.t027	frequenti	ADJ	frequente	bn:00103324a
+d004.s017.t028	rispetto	ADV	rispetto	bn:00066865n
+d004.s017.t029	agli	DET	a il	
+d004.s017.t030	animali	NOUN	animale	bn:00004222n
+d004.s017.t031	trattati	VERB	trattato	bn:00078126n
+d004.s017.t032	con	ADP	con	
+d004.s017.t033	il	DET	il	
+d004.s017.t034	placebo	NOUN	placebo	bn:00062717n
+d004.s017.t035	,	PUNCT	,	
+d004.s017.t036	sia	CCONJ	sia	
+d004.s017.t037	nel	ADP	in il	
+d004.s017.t038	trattamento	NOUN	trattamento	bn:00047235n
+d004.s017.t039	che	PRON	che	
+d004.s017.t040	nella	ADP	in il	
+d004.s017.t041	prevenzione	NOUN	prevenzione	bn:00008467n
+d004.s017.t042	del	ADP	di il	
+d004.s017.t043	vomito	NOUN	vomito	bn:00027565n
+d004.s017.t044	.	PUNCT	.	
+d004.s018.t000	il	DET	il	
+d004.s018.t001	trattamento	NOUN	trattamento	bn:00047235n
+d004.s018.t002	di	ADP	di	
+d004.s018.t003	un	DET	uno	
+d004.s018.t004	cane	NOUN	cane	bn:00015267n
+d004.s018.t005	con	ADP	con	
+d004.s018.t006	vomito	NOUN	vomito	bn:00027565n
+d004.s018.t007	deve	AUX	dovere	
+d004.s018.t008	iniziare	VERB	iniziare	bn:00083340v
+d004.s018.t009	con	ADP	con	
+d004.s018.t010	l	DET	l	
+d004.s018.t011	iniezione	NOUN	iniezione	bn:00046787n
+d004.s018.t012	,	PUNCT	,	
+d004.s018.t013	perché	SCONJ	perché	
+d004.s018.t014	gli	DET	il	
+d004.s018.t015	animali	NOUN	animale	bn:00004222n
+d004.s018.t016	con	ADP	con	
+d004.s018.t017	attacchi	NOUN	attacco	bn:00006999n
+d004.s018.t018	di	ADP	di	
+d004.s018.t019	vomito	NOUN	vomito	bn:00027565n
+d004.s018.t020	possono	AUX	potere	
+d004.s018.t021	non	ADV	non	bn:00116360r
+d004.s018.t022	essere	AUX	essere	
+d004.s018.t023	in	ADP	in	
+d004.s018.t024	grado	NOUN	grado	bn:00025966n
+d004.s018.t025	di	ADP	di	
+d004.s018.t026	trattenere	VERB	trattenere	bn:00089386v
+d004.s018.t027	la	DET	il	
+d004.s018.t028	compressa	NOUN	compressa	bn:00021435n
+d004.s018.t029	nell	PROPN	nell	
+d004.s018.t030	organismo	NOUN	organismo	bn:00009677n
+d004.s018.t031	(	PUNCT	(	
+d004.s018.t032	che	PRON	che	
+d004.s018.t033	può	AUX	potere	
+d004.s018.t034	essere	AUX	essere	
+d004.s018.t035	vomitata	VERB	vomitare	bn:00083115v
+d004.s018.t036	intatta	ADJ	intatto	bn:00102278a
+d004.s018.t037	)	PUNCT	)	
+d004.s018.t038	.	PUNCT	.	
+d004.s019.t000	per	ADP	per	
+d004.s019.t001	il	DET	il	
+d004.s019.t002	trattamento	NOUN	trattamento	bn:00047235n
+d004.s019.t003	di	ADP	di	
+d004.s019.t004	follow	NOUN	follow	bn:00032826n
+d004.s019.t005	-	NOUN	-	bn:00051760n
+d004.s019.t006	up	NOUN	up	bn:00048584n
+d004.s019.t007	,	PUNCT	,	
+d004.s019.t008	le	DET	il	
+d004.s019.t009	compresse	NOUN	compressa	bn:00052222n
+d004.s019.t010	possono	AUX	potere	
+d004.s019.t011	essere	AUX	essere	
+d004.s019.t012	somministrate	VERB	somministrare	bn:00082365v
+d004.s019.t013	dal	ADP	da il	
+d004.s019.t014	padrone	NOUN	padrone	bn:00059953n
+d004.s019.t015	del	ADP	di il	
+d004.s019.t016	cane	NOUN	cane	bn:00015267n
+d004.s019.t017	.	PUNCT	.	
+d004.s020.t000	inoltre	ADV	inoltre	bn:00115484r
+d004.s020.t001	,	PUNCT	,	
+d004.s020.t002	la	DET	il	
+d004.s020.t003	cura	NOUN	cura	bn:00047235n
+d004.s020.t004	del	ADP	di il	
+d004.s020.t005	vomito	NOUN	vomito	bn:00027565n
+d004.s020.t006	deve	AUX	dovere	
+d004.s020.t007	essere	AUX	essere	
+d004.s020.t008	associata	VERB	associare	bn:00082868v
+d004.s020.t009	ad	ADP	a	
+d004.s020.t010	altre	ADJ	altro	bn:00108011a
+d004.s020.t011	misure	NOUN	misura	bn:00054018n
+d004.s020.t012	di	ADP	di	
+d004.s020.t013	supporto	NOUN	supporto	bn:00075330n
+d004.s020.t014	o	CCONJ	o	
+d004.s020.t015	ad	ADP	a	
+d004.s020.t016	altre	ADJ	altro	bn:00108011a
+d004.s020.t017	terapie	NOUN	terapia	bn:00047235n
+d004.s020.t018	veterinarie	ADJ	veterinario	bn:00113583a
+d004.s020.t019	che	PRON	che	
+d004.s020.t020	intervengano	VERB	intervengano	bn:00083240v
+d004.s020.t021	sulle	ADP	su il	
+d004.s020.t022	cause	NOUN	causa	bn:00016850n
+d004.s020.t023	del	ADP	di il	
+d004.s020.t024	vomito	NOUN	vomito	bn:00027565n
+d004.s020.t025	.	PUNCT	.	
+d004.s021.t000	quali	PRON	quale	
+d004.s021.t001	sono	AUX	essere	
+d004.s021.t002	i	DET	il	
+d004.s021.t003	rischi	NOUN	rischio	bn:00030747n
+d004.s021.t004	associati	VERB	associare	bn:00082868v
+d004.s021.t005	a	ADP	a	
+d004.s021.t006	cerenia	NOUN	cerenia	bn:00036068n
+d004.s021.t007	?	PUNCT	?	
+d004.s022.t000	cerenia	NOUN	cerenia	bn:00076942n
+d004.s022.t001	è	AUX	essere	
+d004.s022.t002	generalmente	ADV	generalmente	bn:00114634r
+d004.s022.t003	ben	ADV	bene	bn:00115530r
+d004.s022.t004	tollerato	VERB	tollerare	bn:00094538v
+d004.s022.t005	se	SCONJ	se	
+d004.s022.t006	somministrato	VERB	somministrare	bn:00082365v
+d004.s022.t007	giornalmente	ADV	giornalmente	bn:00114917r
+d004.s022.t008	con	ADP	con	
+d004.s022.t009	dosi	NOUN	dose	bn:00028320n
+d004.s022.t010	fino	ADV	fino	bn:00012405n
+d004.s022.t011	a	ADP	a	
+d004.s022.t012	5	NUM	5	
+d004.s022.t013	volte	NOUN	volta	bn:00019848n
+d004.s022.t014	la	DET	il	
+d004.s022.t015	dose	ADJ	doso	bn:00106205a
+d004.s022.t016	raccomandata	VERB	raccomandare	bn:00082418v
+d004.s022.t017	per	ADP	per	
+d004.s022.t018	un	DET	uno	
+d004.s022.t019	lungo	ADJ	lungo	bn:00106124a
+d004.s022.t020	periodo	NOUN	periodo	bn:00061605n
+d004.s022.t021	di	ADP	di	
+d004.s022.t022	tempo	NOUN	tempo	bn:00077267n
+d004.s022.t023	(	PUNCT	(	
+d004.s022.t024	fino	ADV	fino	bn:00012405n
+d004.s022.t025	a	ADP	a	
+d004.s022.t026	3	NUM	3	
+d004.s022.t027	volte	NOUN	volta	bn:00019848n
+d004.s022.t028	la	DET	il	
+d004.s022.t029	durata	NOUN	durata	bn:00029170n
+d004.s022.t030	di	ADP	di	
+d004.s022.t031	trattamento	NOUN	trattamento	bn:00047235n
+d004.s022.t032	raccomandata	ADJ	raccomandato	bn:00097610a
+d004.s022.t033	)	PUNCT	)	
+d004.s022.t034	.	PUNCT	.	
+d004.s023.t000	quali	PRON	quale	
+d004.s023.t001	sono	AUX	essere	
+d004.s023.t002	le	DET	il	
+d004.s023.t003	precauzioni	NOUN	precauzione	bn:00042049n
+d004.s023.t004	che	PRON	che	
+d004.s023.t005	deve	AUX	dovere	
+d004.s023.t006	prendere	VERB	prendere	bn:00087106v
+d004.s023.t007	la	DET	il	
+d004.s023.t008	persona	NOUN	persona	bn:00046516n
+d004.s023.t009	che	PRON	che	
+d004.s023.t010	somministra	VERB	somministrare	bn:00082365v
+d004.s023.t011	il	DET	il	
+d004.s023.t012	medicinale	NOUN	medicinale	bn:00054128n
+d004.s023.t013	o	CCONJ	o	
+d004.s023.t014	entra	VERB	entrare	bn:00085363v
+d004.s023.t015	in	ADP	in	
+d004.s023.t016	contatto	NOUN	contatto	bn:00022112n
+d004.s023.t017	con	ADP	con	
+d004.s023.t018	l	DET	L	
+d004.s023.t019	animale	NOUN	animale	bn:00004222n
+d004.s023.t020	?	PUNCT	?	
+d004.s024.t000	cerenia	NOUN	cerenia	bn:00018361n
+d004.s024.t001	non	ADV	non	bn:00116360r
+d004.s024.t002	presenta	VERB	presentare	bn:00091868v
+d004.s024.t003	particolari	ADJ	particolare	bn:00102398a
+d004.s024.t004	rischi	NOUN	rischio	bn:00030747n
+d004.s024.t005	per	ADP	per	
+d004.s024.t006	l	DET	l	
+d004.s024.t007	uomo	NOUN	uomo	bn:00001533n
+d004.s024.t008	.	PUNCT	.	

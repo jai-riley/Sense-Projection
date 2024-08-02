@@ -1,0 +1,2660 @@
+Token ID	Token	Lemma	POS	Gold Senses	Silver Senses	Filtered Sense	Gold Gloss	Silver Gloss
+d001.s001.t001	Questo		X					
+d001.s001.t002	documento	documento	N	bn:00028015n	bn:00028015n	bn:00028015n		
+d001.s001.t003	è	essere	V					
+d001.s001.t004	la		X					
+d001.s001.t005	sintesi	sintesi	N	bn:00075142n	bn:00075142n	bn:00075142n		
+d001.s001.t006	di		X					
+d001.s001.t007	una		X					
+d001.s001.t008	relazione	relazione	N	bn:00067181n	bn:00067181n	bn:00067181n		
+d001.s001.t009	pubblica	pubblico	J	bn:00109211a	bn:00109211a	bn:00109211a		
+d001.s001.t010	di		X					
+d001.s001.t011	valutazione	valutazione	N	bn:00005120n	bn:00006502n	bn:00006502n	The classification of someone or something with respect to its worth	The act of judging or assessing a person or situation or event
+d001.s001.t012	europea	europeo	J	bn:00102440a	bn:00102440a	bn:00102440a		
+d001.s001.t013	(		X					
+d001.s001.t014	EPAR	epar	N					
+d001.s001.t015	)		X					
+d001.s001.t016	.		X					
+d001.s002.t001	L		X					
+d001.s002.t002	EPAR	epar	N					
+d001.s002.t003	descrive	descrivere	V	bn:00086612v	bn:00087869v			
+d001.s002.t004	il		X					
+d001.s002.t005	modo	modo	N	bn:00001965n				
+d001.s002.t006	in		X					
+d001.s002.t007	cui		X					
+d001.s002.t008	il		X					
+d001.s002.t009	comitato	comitato	N	bn:00302314n	bn:00302314n	bn:00302314n		
+d001.s002.t010	per		X					
+d001.s002.t011	i		X					
+d001.s002.t012	medicinali	medicinale	N	bn:00054128n	bn:00106556a	bn:00106556a	(medicine) something that treats or prevents or alleviates the symptoms of disease	Having the properties of medicine
+d001.s002.t013	per		X					
+d001.s002.t014	uso	uso	N	bn:00030627n	bn:00030627n	bn:00030627n		
+d001.s002.t015	umano	umano	J	bn:00104385a	bn:00104385a	bn:00104385a		
+d001.s002.t016	(		X					
+d001.s002.t017	CHMP	chmp	N	bn:00302314n	bn:00302314n	bn:00302314n		
+d001.s002.t018	)		X					
+d001.s002.t019	ha	avere	V					
+d001.s002.t020	valutato	valutare	V	bn:00082720v	bn:00082720v	bn:00082720v		
+d001.s002.t021	gli		X					
+d001.s002.t022	studi	studio	N	bn:00069678n	bn:00074790n	bn:00074790n	A method of investigation involving observation and theory to test scientific hypotheses	A detailed critical inspection
+d001.s002.t023	scientifici	scientifico	J	bn:00110175a				
+d001.s002.t024	effettuati	effettuare	V	bn:00082225v	bn:00087107v	bn:00087107v	Put in effect	Carry out or perform an action
+d001.s002.t025	e		X					
+d001.s002.t026	ha	avere	V					
+d001.s002.t027	formulato	formulare	V	bn:00082799v	bn:00082226v			
+d001.s002.t028	le		X					
+d001.s002.t029	raccomandazioni	raccomandazione	N	bn:00001592n	bn:00066562n	bn:00066562n	A proposal for an appropriate course of action	Something (as a course of action) that is recommended as advisable
+d001.s002.t030	su		X					
+d001.s002.t031	come		X					
+d001.s002.t032	usare	usare	V	bn:00082705v	bn:00082705v	bn:00082705v		
+d001.s002.t033	il		X					
+d001.s002.t034	medicinale	medicinale	N	bn:00054128n	bn:00054128n	bn:00054128n		
+d001.s002.t035	.		X					
+d001.s003.t001	Per		X					
+d001.s003.t002	maggiori	maggiore	J	bn:00104887a	bn:00106935a	bn:00106935a	Made greater in size or amount or degree	(comparative of `much' used with mass nouns) a quantifier meaning greater in size or amount or extent or degree
+d001.s003.t003	informazioni	informazione	N	bn:00046705n	bn:00025314n	bn:00025314n	Knowledge acquired through study or experience or instruction	A collection of facts from which conclusions may be drawn
+d001.s003.t004	riguardanti	riguardare	V	bn:00083240v				
+d001.s003.t005	le		X					
+d001.s003.t006	proprie	proprio	J	bn:00096707a				
+d001.s003.t007	condizioni	condizione	N	bn:00021644n	bn:00021648n	bn:00021648n	A state at a particular time	An illness, disease, or other medical problem
+d001.s003.t008	di		X					
+d001.s003.t009	salute	salute	N		bn:00106555a			
+d001.s003.t010	o		X					
+d001.s003.t011	la		X					
+d001.s003.t012	terapia	terapia	N	bn:00047235n	bn:00047235n	bn:00047235n		
+d001.s003.t013	,		X					
+d001.s003.t014	leggere	leggere	V	bn:00092424v	bn:00092424v	bn:00092424v		
+d001.s003.t015	il		X					
+d001.s003.t016	foglio	foglio	N	bn:02573503n				
+d001.s003.t017	illustrativo	illustrativo	J					
+d001.s003.t018	(		X					
+d001.s003.t019	allegato	allegare	V	bn:00082893v				
+d001.s003.t020	all		X					
+d001.s003.t021	EPAR	epar	N					
+d001.s003.t022	)		X					
+d001.s003.t023	oppure		X					
+d001.s003.t024	consultare	consultare	V	bn:00085574v	bn:00085696v			
+d001.s003.t025	il		X					
+d001.s003.t026	medico	medico	N	bn:00027976n	bn:00027976n	bn:00027976n		
+d001.s003.t027	o		X					
+d001.s003.t028	il		X					
+d001.s003.t029	farmacista	farmacista	N	bn:00004992n				
+d001.s003.t030	.		X					
+d001.s004.t001	Per		X					
+d001.s004.t002	maggiori	maggiore	J	bn:00104887a	bn:00106935a	bn:00106935a	Made greater in size or amount or degree	(comparative of `much' used with mass nouns) a quantifier meaning greater in size or amount or extent or degree
+d001.s004.t003	informazioni	informazione	N	bn:00046705n	bn:00025314n	bn:00025314n	Knowledge acquired through study or experience or instruction	A collection of facts from which conclusions may be drawn
+d001.s004.t004	riguardo	riguardo	N	bn:00066865n				
+d001.s004.t005	alle		X					
+d001.s004.t006	motivazioni	motivazione	N	bn:00048673n				
+d001.s004.t007	delle		X					
+d001.s004.t008	raccomandazioni	raccomandazione	N	bn:00001592n	bn:00066562n	bn:00066562n	A proposal for an appropriate course of action	Something (as a course of action) that is recommended as advisable
+d001.s004.t009	del		X					
+d001.s004.t010	CHMP	chmp	N	bn:00302314n	bn:00302314n	bn:00302314n		
+d001.s004.t011	,		X					
+d001.s004.t012	leggere	leggere	V	bn:00092424v	bn:00092424v	bn:00092424v		
+d001.s004.t013	la		X					
+d001.s004.t014	discussione	discussione	N	bn:00005601n	bn:00027523n	bn:00027523n	A discussion in which reasons are advanced for and against some proposition or proposal	An extended communication (often interactive) dealing with some particular topic
+d001.s004.t015	scientifica	scientifico	J	bn:00110175a	bn:00110175a	bn:00110175a		
+d001.s004.t016	(		X					
+d001.s004.t017	anch		X		bn:00114246r			
+d001.s004.t018	essa		X					
+d001.s004.t019	allegato	allegare	V	bn:00082893v				
+d001.s004.t020	all		X					
+d001.s004.t021	EPAR	epar	N					
+d001.s004.t022	)		X					
+d001.s004.t023	.		X					
+d001.s005.t001	Che		X					
+d001.s005.t002	cos	cosa	N	bn:00076924n				
+d001.s005.t003	è	essere	V					
+d001.s005.t004	Alimta	alimta	N	bn:00602447n	bn:00602447n	bn:00602447n		
+d001.s005.t005	?		X					
+d001.s006.t001	Alimta	alimta	N	bn:00602447n	bn:00602447n	bn:00602447n		
+d001.s006.t002	è	essere	V					
+d001.s006.t003	una		X					
+d001.s006.t004	polvere	polvere	N	bn:00029192n	bn:00063926n	bn:00063926n	Fine powdery material such as dry earth or pollen that can be blown about in the air	A solid substance in the form of tiny loose particles; a solid that has been pulverized
+d001.s006.t005	da		X					
+d001.s006.t006	ricostituire	ricostituire	V	bn:00092532v				
+d001.s006.t007	in		X					
+d001.s006.t008	soluzione	soluzione	N	bn:00072760n	bn:00072760n	bn:00072760n		
+d001.s006.t009	per		X					
+d001.s006.t010	infusione	infusione	N	bn:08927651n	bn:00046734n	bn:00046734n		
+d001.s006.t011	(		X					
+d001.s006.t012	iniezione	iniezione	N	bn:00046787n				
+d001.s006.t013	goccia	goccia	N	bn:00548470n				
+d001.s006.t014	a		X					
+d001.s006.t015	goccia	goccia	N	bn:00548470n				
+d001.s006.t016	in		X					
+d001.s006.t017	vena	vena	N	bn:00079681n	bn:00079681n	bn:00079681n		
+d001.s006.t018	)		X					
+d001.s006.t019	.		X					
+d001.s007.t001	Contiene	contenere	V	bn:00083225v	bn:00085499v	bn:00085499v	Contain or hold; have within	Include or contain; have as a component
+d001.s007.t002	il		X					
+d001.s007.t003	principio	principio	N	bn:00377649n	bn:00377649n			
+d001.s007.t004	attivo	attivo	J	bn:00096387a	bn:00074986n			
+d001.s007.t005	pemetrexed	pemetrexed	N	bn:00602447n	bn:00602447n	bn:00602447n		
+d001.s007.t006	.		X					
+d001.s008.t001	Per		X					
+d001.s008.t002	che		X					
+d001.s008.t003	cosa	cosa	N					
+d001.s008.t004	si		X					
+d001.s008.t005	usa	usare	V	bn:00082705v	bn:00082705v	bn:00082705v		
+d001.s008.t006	Alimta	alimta	N	bn:00602447n	bn:00602447n	bn:00602447n		
+d001.s008.t007	?		X					
+d001.s009.t001	Alimta	alimta	N	bn:00602447n	bn:00602447n	bn:00602447n		
+d001.s009.t002	è	essere	V					
+d001.s009.t003	indicato	indicare	V	bn:00089682v	bn:00082705v			
+d001.s009.t004	nel		X					
+d001.s009.t005	trattamento	trattamento	N	bn:00047235n	bn:00084532v			
+d001.s009.t006	di		X					
+d001.s009.t007	due	due	N	bn:00000075n				
+d001.s009.t008	tipi	tipo	N	bn:00035907n	bn:00078798n	bn:00078798n	A category of things distinguished by some common characteristic or quality	A subdivision of a particular kind of thing
+d001.s009.t009	di		X					
+d001.s009.t010	tumore	tumore	N	bn:00057267n	bn:00015180n			
+d001.s009.t011	:		X					
+d001.s009.t012	il		X					
+d001.s009.t013	mesotelioma	mesotelioma	N	bn:00054512n	bn:00054512n	bn:00054512n		
+d001.s009.t014	pleurico	pleurico	J	bn:00108692a	bn:00108692a	bn:00108692a		
+d001.s009.t015	(		X					
+d001.s009.t016	tumore	tumore	N	bn:00057267n	bn:00015180n			
+d001.s009.t017	della		X					
+d001.s009.t018	membrana	membrana	N	bn:00054285n				
+d001.s009.t019	che		X					
+d001.s009.t020	riveste	rivestire	V					
+d001.s009.t021	i		X					
+d001.s009.t022	polmoni	polmone	N	bn:00052341n				
+d001.s009.t023	,		X					
+d001.s009.t024	generalmente	generalmente	R	bn:00114778r	bn:00114778r	bn:00114778r		
+d001.s009.t025	provocato	provocare	V	bn:00084069v	bn:00084069v	bn:00084069v		
+d001.s009.t026	dall		X					
+d001.s009.t027	esposizione	esposizione	N	bn:00032375n	bn:00032379n	bn:00032379n	"Vulnerability to the elements; to the action of heat or cold or wind or rain or ""they died from exposure"";"	The state of being vulnerable or exposed
+d001.s009.t028	all		X					
+d001.s009.t029	amianto	amianto	N	bn:00006236n	bn:00006236n	bn:00006236n		
+d001.s009.t030	)		X					
+d001.s009.t031	.		X					
+d001.s010.t001	Alimta	alimta	N	bn:00602447n	bn:00602447n	bn:00602447n		
+d001.s010.t002	è	essere	V					
+d001.s010.t003	utilizzato	utilizzare	V	bn:00082705v	bn:00082705v	bn:00082705v		
+d001.s010.t004	in		X					
+d001.s010.t005	combinazione	combinazione	N	bn:00020872n	bn:00114766r			
+d001.s010.t006	con		X					
+d001.s010.t007	cisplatino	cisplatino	N	bn:00577781n	bn:00577781n			
+d001.s010.t008	(		X					
+d001.s010.t009	un		X					
+d001.s010.t010	altro	altro	J	bn:00097165a				
+d001.s010.t011	farmaco	farmaco	N	bn:00024461n	bn:00054128n	bn:00054128n	A medicine or therapy that cures disease or relieve pain	(medicine) something that treats or prevents or alleviates the symptoms of disease
+d001.s010.t012	antitumorale	antitumorale	J		bn:00054128n			
+d001.s010.t013	)		X					
+d001.s010.t014	quando		X					
+d001.s010.t015	il		X					
+d001.s010.t016	tumore	tumore	N	bn:00057267n	bn:00015180n			
+d001.s010.t017	non		X					
+d001.s010.t018	è	essere	V					
+d001.s010.t019	asportabile	asportabile	J	bn:00109675a	bn:00092783v			
+d001.s010.t020	(		X					
+d001.s010.t021	non		X					
+d001.s010.t022	può	potere	V					
+d001.s010.t023	essere	essere	V					
+d001.s010.t024	asportato	asportare	V	bn:00082144v				
+d001.s010.t025	con		X					
+d001.s010.t026	il		X					
+d001.s010.t027	solo	solo	J		bn:00096871a	bn:00096871a		
+d001.s010.t028	intervento	intervento	N	bn:00059129n	bn:00059129n	bn:00059129n		
+d001.s010.t029	chirurgico	chirurgico	J	bn:00107916a				
+d001.s010.t030	)		X					
+d001.s010.t031	ed		X					
+d001.s010.t032	è	essere	V					
+d001.s010.t033	maligno	maligno	J	bn:00106363a	bn:00106363a	bn:00106363a		
+d001.s010.t034	(		X					
+d001.s010.t035	si		X					
+d001.s010.t036	è	essere	V					
+d001.s010.t037	diffuso	diffondere	V	bn:00093332v	bn:00092083v	bn:00092083v	Strew or distribute over an area	Become distributed or widespread
+d001.s010.t038	,		X					
+d001.s010.t039	o		X					
+d001.s010.t040	è	essere	V					
+d001.s010.t041	probabile	probabile	J	bn:00105981a	bn:00105981a	bn:00105981a		
+d001.s010.t042	si		X					
+d001.s010.t043	diffonda	diffondere	V	bn:00093332v	bn:00092083v	bn:00092083v	Strew or distribute over an area	Become distributed or widespread
+d001.s010.t044	facilmente	facilmente	R	bn:00115155r	bn:00115155r	bn:00115155r		
+d001.s010.t045	,		X					
+d001.s010.t046	ad		X					
+d001.s010.t047	altre		X		bn:00108011a			
+d001.s010.t048	parti	parte	N	bn:00011769n	bn:00021395n	bn:00021395n	Any part of an organism such as an organ or extremity	Something determined in relation to something that includes it
+d001.s010.t049	del		X					
+d001.s010.t050	corpo	corpo	N	bn:00011744n	bn:00011744n	bn:00011744n		
+d001.s010.t051	)		X					
+d001.s010.t052	,		X					
+d001.s010.t053	in		X					
+d001.s010.t054	pazienti	paziente	N	bn:00061017n	bn:00061017n	bn:00061017n		
+d001.s010.t055	che		X					
+d001.s010.t056	non		X		bn:00116360r			
+d001.s010.t057	sono	essere	V					
+d001.s010.t058	stati	essere	V		bn:00087863v	bn:00087863v		
+d001.s010.t059	sottoposti	sottoporre	V					
+d001.s010.t060	in		X					
+d001.s010.t061	precedenza	precedenza	N	bn:00004489n				
+d001.s010.t062	a		X					
+d001.s010.t063	chemioterapia	chemioterapia	N	bn:00018141n	bn:00018141n	bn:00018141n		
+d001.s010.t064	il		X					
+d001.s010.t065	carcinoma	carcinoma	N	bn:00052343n				
+d001.s010.t066	polmonare	polmonare	J	bn:00108724a				
+d001.s010.t067	non		X					
+d001.s010.t068	a		X					
+d001.s010.t069	piccole	piccolo	J	bn:00106058a				
+d001.s010.t070	cellule	cellula	N	bn:00017027n	bn:00017027n	bn:00017027n		
+d001.s010.t071	in		X					
+d001.s010.t072	stadio	stadio	N	bn:00025966n				
+d001.s010.t073	avanzato	avanzato	J	bn:00096532a	bn:00096528a	bn:00096528a	Far along in time	Comparatively late in a course of development
+d001.s010.t074	o		X					
+d001.s010.t075	metastatico	metastatico	J	bn:00106664a	bn:00106664a	bn:00106664a		
+d001.s010.t076	che		X					
+d001.s010.t077	non		X		bn:00116360r			
+d001.s010.t078	interessa	interessare	V	bn:00083240v	bn:00082427v			
+d001.s010.t079	le		X					
+d001.s010.t080	cellule	cellula	N	bn:00073708n				
+d001.s010.t081	squamose	squamoso	J		bn:00073708n	bn:00073708n		
+d001.s010.t082	.		X					
+d001.s011.t001	Alimta	alimta	N	bn:00602447n	bn:00602447n	bn:00602447n		
+d001.s011.t002	è	essere	V					
+d001.s011.t003	usato	usare	V	bn:00082705v	bn:00082705v	bn:00082705v		
+d001.s011.t004	in		X					
+d001.s011.t005	associazione	associazione	N	bn:00006541n	bn:00020872n	bn:00020872n	The state of being connected together as in memory or imagination	A collection of things that have been combined; an assemblage of separate parts or qualities
+d001.s011.t006	con		X					
+d001.s011.t007	cisplatino	cisplatino	N	bn:00577781n	bn:00577781n			
+d001.s011.t008	in		X					
+d001.s011.t009	pazienti	paziente	N	bn:00061017n	bn:00061017n	bn:00061017n		
+d001.s011.t010	non		X		bn:00116360r			
+d001.s011.t011	trattati	trattare	V	bn:00084532v	bn:00084532v	bn:00084532v		
+d001.s011.t012	in		X					
+d001.s011.t013	passato	passato	N	bn:00060927n				
+d001.s011.t014	e		X					
+d001.s011.t015	da		X					
+d001.s011.t016	solo	solo	R	bn:00114234r				
+d001.s011.t017	in		X					
+d001.s011.t018	pazienti	paziente	N	bn:00061017n	bn:00061017n	bn:00061017n		
+d001.s011.t019	che		X					
+d001.s011.t020	in		X					
+d001.s011.t021	passato	passato	N	bn:00060927n	bn:00060927n	bn:00060927n		
+d001.s011.t022	sono	essere	V					
+d001.s011.t023	stati	essere	V					
+d001.s011.t024	sottoposti	sottoporre	V		bn:00087863v			
+d001.s011.t025	ad		X					
+d001.s011.t026	un		X					
+d001.s011.t027	altro	altro	J	bn:00097165a				
+d001.s011.t028	tipo	tipo	N	bn:00035907n	bn:00078798n	bn:00078798n	A category of things distinguished by some common characteristic or quality	A subdivision of a particular kind of thing
+d001.s011.t029	di		X					
+d001.s011.t030	chemioterapia	chemioterapia	N	bn:00018141n	bn:00018141n	bn:00018141n		
+d001.s011.t031	.		X					
+d001.s012.t001	Il		X					
+d001.s012.t002	medicinale	medicinale	N	bn:00054128n	bn:00054128n	bn:00054128n		
+d001.s012.t003	può	potere	V					
+d001.s012.t004	essere	essere	V					
+d001.s012.t005	ottenuto	ottenere	V	bn:00082276v				
+d001.s012.t006	soltanto	soltanto	R	bn:00114234r	bn:00116450r	bn:00116450r	Without any others being included or involved	Never except when
+d001.s012.t007	con		X					
+d001.s012.t008	prescrizione	prescrizione	N	bn:08939907n	bn:00064195n	bn:00064195n		
+d001.s012.t009	medica	medico	J					
+d001.s012.t010	.		X					
+d001.s013.t001	Come		X					
+d001.s013.t002	si		X					
+d001.s013.t003	usa	usare	V	bn:00082705v	bn:00082705v	bn:00082705v		
+d001.s013.t004	Alimta	alimta	N	bn:00602447n	bn:00602447n	bn:00602447n		
+d001.s013.t005	?		X					
+d001.s014.t001	Alimta	alimta	N	bn:00602447n	bn:00602447n	bn:00602447n		
+d001.s014.t002	deve	dovere	V					
+d001.s014.t003	essere	essere	V					
+d001.s014.t004	somministrato	somministrare	V	bn:00082365v	bn:00088826v	bn:00088826v	Give or apply (medications)	Give (as medicine)
+d001.s014.t005	solamente	solamente	R	bn:00114234r	bn:00116450r	bn:00116450r	Without any others being included or involved	Never except when
+d001.s014.t006	sotto		X					
+d001.s014.t007	la		X					
+d001.s014.t008	supervisione	supervisione	N	bn:00059908n	bn:00059908n	bn:00059908n		
+d001.s014.t009	di		X					
+d001.s014.t010	un		X					
+d001.s014.t011	medico	medico	N	bn:00027976n	bn:00027976n	bn:00027976n		
+d001.s014.t012	qualificato	qualificato	J	bn:00110711a				
+d001.s014.t013	per		X					
+d001.s014.t014	l		X					
+d001.s014.t015	uso	uso	N	bn:00030627n	bn:00030627n	bn:00030627n		
+d001.s014.t016	della		X					
+d001.s014.t017	chemioterapia	chemioterapia	N	bn:00018141n	bn:00018141n	bn:00018141n		
+d001.s014.t018	antitumorale	antitumorale	J		bn:00097220a			
+d001.s014.t019	.		X					
+d001.s015.t001	La		X					
+d001.s015.t002	dose	dose	N	bn:00028320n	bn:00028320n	bn:00028320n		
+d001.s015.t003	raccomandata	raccomandata	N					
+d001.s015.t004	di		X					
+d001.s015.t005	Alimta	alimta	N	bn:00602447n	bn:00602447n	bn:00602447n		
+d001.s015.t006	è	essere	V					
+d001.s015.t007	di		X					
+d001.s015.t008	500		X					
+d001.s015.t009	mg	mg	N	bn:00054701n	bn:00054701n	bn:00054701n		
+d001.s015.t010	per		X					
+d001.s015.t011	metro	metro	N	bn:00017102n	bn:00052501n	bn:00052501n	A centare is 1/100th of an are	The basic unit of length adopted under the Systeme International d'Unites (approximately 1.094 yards)
+d001.s015.t012	quadrato	quadrato	N		bn:00017102n	bn:00017102n		
+d001.s015.t013	di		X					
+d001.s015.t014	superficie	superficie	N	bn:03551355n	bn:00005518n	bn:00005518n	In physiology and medicine, the body surface area is the measured or calculated surface area of a human body.	The extent of a 2-dimensional surface enclosed within a boundary
+d001.s015.t015	corporea	corporeo	J	bn:00098649a	bn:00005518n			
+d001.s015.t016	(		X					
+d001.s015.t017	calcolata	calcolare	V	bn:00084373v	bn:00084373v	bn:00084373v		
+d001.s015.t018	utilizzando	utilizzare	V	bn:00082705v	bn:00082705v	bn:00082705v		
+d001.s015.t019	l		X					
+d001.s015.t020	altezza	altezza	N	bn:00043544n	bn:00043545n	bn:00043545n	The vertical dimension of extension; distance from the base of something to the top	(of a standing person) the distance from head to foot
+d001.s015.t021	e		X					
+d001.s015.t022	il		X					
+d001.s015.t023	peso	peso	N	bn:00080831n	bn:00080831n	bn:00080831n		
+d001.s015.t024	del		X					
+d001.s015.t025	paziente	paziente	N	bn:00061017n	bn:00061017n	bn:00061017n		
+d001.s015.t026	)		X					
+d001.s015.t027	da		X					
+d001.s015.t028	somministrare	somministrare	V	bn:00082365v				
+d001.s015.t029	per		X					
+d001.s015.t030	infusione	infusione	N	bn:00047280n				
+d001.s015.t031	endovenosa	endovenoso	J	bn:00102230a				
+d001.s015.t032	in		X					
+d001.s015.t033	10		X					
+d001.s015.t034	minuti	minuto	N	bn:00055094n				
+d001.s015.t035	una		X					
+d001.s015.t036	volta	volta	N	bn:00019848n				
+d001.s015.t037	ogni	ogni	J	bn:00102466a				
+d001.s015.t038	tre	tre	J	bn:00095975a				
+d001.s015.t039	settimane	settimana	N	bn:00043484n				
+d001.s015.t040	.		X					
+d001.s016.t001	Per		X					
+d001.s016.t002	ridurre	ridurre	V	bn:00084079v	bn:00084079v	bn:00084079v		
+d001.s016.t003	gli		X					
+d001.s016.t004	effetti	effetto	N	bn:00021961n	bn:00029874n	bn:00029874n	A phenomenon that follows and is caused by some previous phenomenon	A symptom caused by an illness or a drug
+d001.s016.t005	indesiderati	indesiderato	J		bn:00071445n			
+d001.s016.t006	,		X					
+d001.s016.t007	i		X					
+d001.s016.t008	pazienti	paziente	N	bn:00061017n	bn:00061017n	bn:00061017n		
+d001.s016.t009	devono	dovere	V					
+d001.s016.t010	assumere	assumere	V	bn:00085689v	bn:00085689v	bn:00085689v		
+d001.s016.t011	un		X					
+d001.s016.t012	corticosteroide	corticosteroide	N	bn:00001507n	bn:00001507n	bn:00001507n		
+d001.s016.t013	e		X					
+d001.s016.t014	acido	acido	N	bn:00035585n	bn:00000902n	bn:00000902n	A B vitamin that is essential for cell growth and reproduction	Any of various water-soluble compounds having a sour taste and capable of turning litmus red and reacting with a base to form a salt
+d001.s016.t015	folico	folico	J		bn:00035585n			
+d001.s016.t016	(		X					
+d001.s016.t017	un		X					
+d001.s016.t018	tipo	tipo	N	bn:00035907n	bn:00078798n	bn:00078798n	A category of things distinguished by some common characteristic or quality	A subdivision of a particular kind of thing
+d001.s016.t019	di		X					
+d001.s016.t020	vitamina	vitamina	N	bn:00080147n	bn:00080147n	bn:00080147n		
+d001.s016.t021	)		X					
+d001.s016.t022	e		X					
+d001.s016.t023	ricevere	ricevere	V	bn:00089246v				
+d001.s016.t024	iniezioni	iniezione	N	bn:00046787n	bn:00046785n	bn:00046785n	The act of putting a liquid into the body by means of a syringe	Any solution that is injected (as into the skin)
+d001.s016.t025	di		X					
+d001.s016.t026	vitamina	vitamina	N	bn:00004712n	bn:00004712n	bn:00004712n		
+d001.s016.t027	B12	b12	N					
+d001.s016.t028	durante		X					
+d001.s016.t029	il		X					
+d001.s016.t030	trattamento	trattamento	N	bn:00047235n	bn:00047235n	bn:00047235n		
+d001.s016.t031	con		X					
+d001.s016.t032	Alimta	alimta	N	bn:00602447n	bn:00602447n	bn:00602447n		
+d001.s016.t033	.		X					
+d001.s017.t001	Quando	quando	R					
+d001.s017.t002	Alimta	alimta	N	bn:00602447n	bn:00602447n	bn:00602447n		
+d001.s017.t003	è	essere	V					
+d001.s017.t004	somministrato	somministrare	V	bn:00082365v	bn:00088826v	bn:00088826v	Give or apply (medications)	Give (as medicine)
+d001.s017.t005	con		X					
+d001.s017.t006	cisplatino	cisplatino	N	bn:00577781n	bn:00577781n			
+d001.s017.t007	,		X					
+d001.s017.t008	i		X					
+d001.s017.t009	pazienti	paziente	N	bn:00061017n				
+d001.s017.t010	devono	dovere	V					
+d001.s017.t011	assumere	assumere	V	bn:00085689v	bn:00114246r			
+d001.s017.t012	un		X					
+d001.s017.t013	farmaco	farmaco	N	bn:00004656n	bn:00054128n	bn:00054128n	A drug that prevents or alleviates nausea and vomiting	(medicine) something that treats or prevents or alleviates the symptoms of disease
+d001.s017.t014	antiemetico	antiemetico	N	bn:00004656n				
+d001.s017.t015	(		X					
+d001.s017.t016	per		X					
+d001.s017.t017	prevenire	prevenire	V	bn:00082954v	bn:00088454v	bn:00088454v	Prevent the occurrence of; prevent from happening	Keep from happening or arising; make impossible
+d001.s017.t018	il		X					
+d001.s017.t019	vomito	vomito	N	bn:00027565n				
+d001.s017.t020	)		X					
+d001.s017.t021	e		X					
+d001.s017.t022	ricevere	ricevere	V	bn:00089246v	bn:00088826v			
+d001.s017.t023	un		X					
+d001.s017.t024	adeguata	adeguato	J	bn:00096446a				
+d001.s017.t025	idratazione	idratazione	N	bn:00045347n	bn:00035426n			
+d001.s017.t026	(		X					
+d001.s017.t027	per		X					
+d001.s017.t028	prevenire	prevenire	V	bn:00082954v	bn:00088454v	bn:00088454v	Prevent the occurrence of; prevent from happening	Keep from happening or arising; make impossible
+d001.s017.t029	la		X					
+d001.s017.t030	disidratazione	disidratazione	N	bn:00025982n				
+d001.s017.t031	)		X					
+d001.s017.t032	prima	prima	R	bn:00114185r	bn:00114512r	bn:00114512r	Ahead of time; in anticipation	Earlier in time; previously
+d001.s017.t033	o		X					
+d001.s017.t034	dopo	dopo	R	bn:00114165r	bn:00114165r	bn:00114165r		
+d001.s017.t035	l		X					
+d001.s017.t036	assunzione	assunzione	N	bn:00022107n	bn:00028320n			
+d001.s017.t037	di		X					
+d001.s017.t038	cisplatino	cisplatino	N	bn:00577781n	bn:00577781n			
+d001.s017.t039	.		X					
+d001.s018.t001	Il		X					
+d001.s018.t002	trattamento	trattamento	N	bn:00047235n	bn:00047235n	bn:00047235n		
+d001.s018.t003	deve	dovere	V					
+d001.s018.t004	essere	essere	V					
+d001.s018.t005	posticipato	posticipare	V	bn:00086459v	bn:00086514v	bn:00086514v	Hold back to a later time	Cause to be slowed down or delayed
+d001.s018.t006	o		X					
+d001.s018.t007	interrotto	interrompere	V	bn:00082149v	bn:00083908v	bn:00083908v	Terminate before completion	Prevent completion
+d001.s018.t008	,		X					
+d001.s018.t009	o		X					
+d001.s018.t010	la		X					
+d001.s018.t011	dose	dose	N	bn:00028320n	bn:00028320n	bn:00028320n		
+d001.s018.t012	deve	dovere	V					
+d001.s018.t013	essere	essere	V					
+d001.s018.t014	ridotta	ridurre	V	bn:00084079v	bn:00084079v	bn:00084079v		
+d001.s018.t015	,		X					
+d001.s018.t016	nei		X					
+d001.s018.t017	pazienti	paziente	N	bn:00061017n	bn:00061017n	bn:00061017n		
+d001.s018.t018	con		X					
+d001.s018.t019	alterazioni	alterazione	N	bn:00017653n	bn:00096158a			
+d001.s018.t020	nelle		X					
+d001.s018.t021	conte	conta	N					
+d001.s018.t022	ematiche	ematico	J	bn:00103861a				
+d001.s018.t023	o		X					
+d001.s018.t024	che		X					
+d001.s018.t025	riportano	riportare	V	bn:00082233v	bn:00088745v			
+d001.s018.t026	altri		X		bn:00108011a			
+d001.s018.t027	effetti	effetto	N	bn:00021961n	bn:00029874n	bn:00029874n	A phenomenon that follows and is caused by some previous phenomenon	A symptom caused by an illness or a drug
+d001.s018.t028	indesiderati	indesiderato	J					
+d001.s018.t029	.		X					
+d001.s019.t001	L		X					
+d001.s019.t002	impiego	impiego	N	bn:00030627n	bn:00030627n	bn:00030627n		
+d001.s019.t003	di		X					
+d001.s019.t004	Alimta	alimta	N	bn:00602447n	bn:00602447n	bn:00602447n		
+d001.s019.t005	è	essere	V					
+d001.s019.t006	sconsigliato	sconsigliare	J		bn:00082418v			
+d001.s019.t007	nei		X					
+d001.s019.t008	pazienti	paziente	N	bn:00061017n	bn:00061017n	bn:00061017n		
+d001.s019.t009	con		X					
+d001.s019.t010	insufficienza	insufficienza	N	bn:00067102n	bn:00048242n			
+d001.s019.t011	renale	renale	J		bn:00049083n	bn:00049083n		
+d001.s019.t012	grave	grave	J	bn:00100896a	bn:00110473a	bn:00110473a	Causing fear or anxiety by threatening great harm	Very bad in degree or extent
+d001.s019.t013	o		X					
+d001.s019.t014	moderata	moderato	J	bn:00106826a	bn:00106826a	bn:00106826a		
+d001.s019.t015	.		X					
+d001.s020.t001	Per		X					
+d001.s020.t002	maggiori	maggiore	J	bn:00104887a	bn:00106935a	bn:00106935a	Made greater in size or amount or degree	(comparative of `much' used with mass nouns) a quantifier meaning greater in size or amount or extent or degree
+d001.s020.t003	informazioni	informazione	N	bn:00046705n	bn:00025314n	bn:00025314n	Knowledge acquired through study or experience or instruction	A collection of facts from which conclusions may be drawn
+d001.s020.t004	,		X					
+d001.s020.t005	si		X					
+d001.s020.t006	rimanda	rimandare	V		bn:00087787v			
+d001.s020.t007	al		X					
+d001.s020.t008	Riassunto	riassunto	N	bn:00000398n	bn:02075673n	bn:02075673n	A shortened version of a written work	the defining information document for medicinal products used in the European Union
+d001.s020.t009	delle		X					
+d001.s020.t010	caratteristiche	caratteristica	N	bn:00017747n				
+d001.s020.t011	del		X					
+d001.s020.t012	prodotto	prodotto	N	bn:00064584n	bn:00064584n	bn:00064584n		
+d001.s020.t013	,		X					
+d001.s020.t014	anch		X		bn:00114246r			
+d001.s020.t015	esso		X					
+d001.s020.t016	allegato	allegare	V	bn:00082893v				
+d001.s020.t017	all		X					
+d001.s020.t018	EPAR	epar	N					
+d001.s020.t019	.		X					
+d001.s021.t001	Come		X					
+d001.s021.t002	agisce	agire	V	bn:00082285v				
+d001.s021.t003	Alimta	alimta	N	bn:00602447n	bn:00602447n	bn:00602447n		
+d001.s021.t004	?		X					
+d001.s022.t001	Il		X					
+d001.s022.t002	principio	principio	N	bn:00377649n	bn:00074986n			
+d001.s022.t003	attivo	attivo	J	bn:00096387a	bn:00377649n	bn:00377649n	Exerting influence or producing a change or effect	An active ingredient is the ingredient in a pharmaceutical drug or pesticide that is biologically active.
+d001.s022.t004	di		X					
+d001.s022.t005	Alimta	alimta	N	bn:00602447n	bn:00602447n	bn:00602447n		
+d001.s022.t006	,		X					
+d001.s022.t007	pemetrexed	pemetrexed	N	bn:00602447n	bn:00602447n	bn:00602447n		
+d001.s022.t008	,		X					
+d001.s022.t009	è	essere	V					
+d001.s022.t010	un		X					
+d001.s022.t011	medicinale	medicinale	N	bn:00054128n	bn:00054128n	bn:00054128n		
+d001.s022.t012	citotossico	citotossico	J	bn:00100866a	bn:00100866a	bn:00100866a		
+d001.s022.t013	(		X					
+d001.s022.t014	medicinale	medicinale	N	bn:00054128n	bn:00054128n	bn:00054128n		
+d001.s022.t015	che		X					
+d001.s022.t016	uccide	uccidere	V	bn:00090098v	bn:00090098v	bn:00090098v		
+d001.s022.t017	le		X					
+d001.s022.t018	cellule	cellula	N	bn:00017027n				
+d001.s022.t019	in		X					
+d001.s022.t020	attiva	attivo	J	bn:00096387a				
+d001.s022.t021	divisione	divisione	N	bn:00027913n	bn:00087100v			
+d001.s022.t022	,		X					
+d001.s022.t023	come		X					
+d001.s022.t024	le		X					
+d001.s022.t025	cellule	cellula	N	bn:00015187n				
+d001.s022.t026	tumorali	tumorale	J	bn:00107222a	bn:00015187n			
+d001.s022.t027	)		X					
+d001.s022.t028	,		X					
+d001.s022.t029	che		X					
+d001.s022.t030	appartiene	appartenere	V	bn:00083391v	bn:00083389v	bn:00083389v	Be a part or adjunct	Be rightly classified in a class or category
+d001.s022.t031	al		X					
+d001.s022.t032	gruppo	gruppo	N	bn:00041942n	bn:00018111n	bn:00018111n	Any number of entities (members) considered as a unit	(chemistry) two or more atoms bound together as a single unit and forming part of a molecule
+d001.s022.t033	degli		X					
+d001.s022.t034	antimetaboliti	antimetaboliti	N	bn:00004691n	bn:00004691n	bn:00004691n		
+d001.s022.t035	.		X					
+d001.s023.t001	Nell		X					
+d001.s023.t002	organismo	organismo	N	bn:00009677n	bn:00011744n	bn:00011744n	A living thing that has (or can develop) the ability to act or function independently	The entire structure of an organism (an animal, plant, or human being)
+d001.s023.t003	,		X					
+d001.s023.t004	pemetrexed	pemetrexed	N	bn:00602447n	bn:00602447n	bn:00602447n		
+d001.s023.t005	viene	venire	V					
+d001.s023.t006	trasformato	trasformare	V	bn:00085761v	bn:00085761v	bn:00085761v		
+d001.s023.t007	in		X					
+d001.s023.t008	una		X					
+d001.s023.t009	forma	forma	N	bn:00035913n	bn:00035913n	bn:00035913n		
+d001.s023.t010	attiva	attivo	J	bn:00096387a	bn:00096382a	bn:00096382a	Exerting influence or producing a change or effect	Tending to become more severe or wider in scope
+d001.s023.t011	che		X					
+d001.s023.t012	blocca	bloccare	V	bn:00083622v	bn:00083623v	bn:00083623v	Hinder or prevent the progress or accomplishment of	Stop from happening or developing
+d001.s023.t013	l		X					
+d001.s023.t014	attività	attività	N	bn:00001173n	bn:00001130n	bn:00001130n	An organic process that takes place in the body	A process existing in or produced by nature (rather than by the intent of human beings)
+d001.s023.t015	degli		X					
+d001.s023.t016	enzimi	enzima	N	bn:00031085n	bn:00031085n	bn:00031085n		
+d001.s023.t017	coinvolti	coinvolgere	V	bn:00082428v	bn:00089893v	bn:00089893v	Connect closely and often incriminatingly	Engage as a participant
+d001.s023.t018	nella		X					
+d001.s023.t019	produzione	produzione	N	bn:00064590n	bn:00084082v			
+d001.s023.t020	dei		X					
+d001.s023.t021	nucleotidi	nucleotidi	N	bn:00008788n	bn:00008788n			
+d001.s023.t022	(		X					
+d001.s023.t023	gli		X					
+d001.s023.t024	elementi	elemento	N	bn:00021396n				
+d001.s023.t025	costitutivi	costitutivo	J					
+d001.s023.t026	di		X					
+d001.s023.t027	DNA	dna	N	bn:00026301n	bn:01432393n	bn:01432393n		
+d001.s023.t028	e		X					
+d001.s023.t029	RNA	rna	N	bn:00067714n	bn:00067714n	bn:00067714n		
+d001.s023.t030	,		X					
+d001.s023.t031	il		X					
+d001.s023.t032	materiale	materiale	N	bn:00037738n	bn:00053801n	bn:00053801n	The ordering of genes in a haploid set of chromosomes of a particular organism; the full DNA sequence of an organism	The tangible substance that goes into the makeup of a physical object
+d001.s023.t033	genetico	genetico	J	bn:00103522a	bn:00037738n	bn:00037738n	Of or relating to or produced by or being a gene	The ordering of genes in a haploid set of chromosomes of a particular organism; the full DNA sequence of an organism
+d001.s023.t034	delle		X					
+d001.s023.t035	cellule	cellula	N	bn:00017027n	bn:00017027n	bn:00017027n		
+d001.s023.t036	)		X					
+d001.s023.t037	.		X					
+d001.s024.t001	Quali		X					
+d001.s024.t002	studi	studio	N	bn:00049573n				
+d001.s024.t003	sono	essere	V					
+d001.s024.t004	stati	essere	V					
+d001.s024.t005	effettuati	effettuare	V	bn:00082225v				
+d001.s024.t006	su		X					
+d001.s024.t007	Alimta	alimta	N	bn:00602447n	bn:00602447n	bn:00602447n		
+d001.s024.t008	?		X					
+d001.s025.t001	Per		X					
+d001.s025.t002	il		X					
+d001.s025.t003	trattamento	trattamento	N	bn:00047235n	bn:00047235n	bn:00047235n		
+d001.s025.t004	del		X					
+d001.s025.t005	mesotelioma	mesotelioma	N	bn:00054512n	bn:00054512n	bn:00054512n		
+d001.s025.t006	pleurico	pleurico	J	bn:00108692a	bn:00108692a	bn:00108692a		
+d001.s025.t007	maligno	maligno	J	bn:00106363a	bn:00054512n	bn:00054512n	Dangerous to health; characterized by progressive and uncontrolled growth (especially of a tumor)	A form of carcinoma of the mesothelium lining lungs or abdomen or heart; usually associated with exposure to asbestos dust
+d001.s025.t008	,		X					
+d001.s025.t009	Alimta	alimta	N	bn:00602447n	bn:00602447n	bn:00602447n		
+d001.s025.t010	è	essere	V					
+d001.s025.t011	stato	essere	V					
+d001.s025.t012	esaminato	esaminare	V	bn:00082596v	bn:00082596v	bn:00082596v		
+d001.s025.t013	nell		X					
+d001.s025.t014	ambito	ambito	N	bn:00003268n				
+d001.s025.t015	di		X					
+d001.s025.t016	uno		X					
+d001.s025.t017	studio	studio	N	bn:00049573n	bn:00074790n	bn:00074790n	Any piece of work that is undertaken or attempted	A detailed critical inspection
+d001.s025.t018	principale	principale	J	bn:00099598a	bn:00099598a	bn:00099598a		
+d001.s025.t019	condotto	condurre	V	bn:00091177v				
+d001.s025.t020	su		X					
+d001.s025.t021	456		X					
+d001.s025.t022	pazienti	paziente	N	bn:00061017n	bn:00061017n	bn:00061017n		
+d001.s025.t023	che		X					
+d001.s025.t024	non		X		bn:00116360r			
+d001.s025.t025	erano	essere	V					
+d001.s025.t026	stati	essere	V					
+d001.s025.t027	sottoposti	sottoporre	V		bn:00087863v			
+d001.s025.t028	a		X					
+d001.s025.t029	chemioterapia	chemioterapia	N	bn:00018141n	bn:00018141n	bn:00018141n		
+d001.s025.t030	in		X					
+d001.s025.t031	precedenza	precedenza	N	bn:00004489n	bn:00114512r			
+d001.s025.t032	.		X					
+d001.s026.t001	Gli		X					
+d001.s026.t002	effetti	effetto	N	bn:00021961n	bn:00029874n	bn:00029874n	A phenomenon that follows and is caused by some previous phenomenon	A symptom caused by an illness or a drug
+d001.s026.t003	di		X					
+d001.s026.t004	Alimta	alimta	N	bn:00602447n	bn:00602447n	bn:00602447n		
+d001.s026.t005	somministrato	somministrare	V	bn:00082365v				
+d001.s026.t006	in		X					
+d001.s026.t007	combinazione	combinazione	N	bn:00020872n	bn:00020872n	bn:00020872n		
+d001.s026.t008	con		X					
+d001.s026.t009	cisplatino	cisplatino	N	bn:00577781n	bn:00577781n			
+d001.s026.t010	sono	essere	V					
+d001.s026.t011	stati	essere	V					
+d001.s026.t012	confrontati	confrontare	V	bn:00085450v	bn:00085450v	bn:00085450v		
+d001.s026.t013	con		X					
+d001.s026.t014	quelli		X					
+d001.s026.t015	di		X					
+d001.s026.t016	cisplatino	cisplatino	N	bn:00577781n	bn:00577781n			
+d001.s026.t017	in		X					
+d001.s026.t018	monoterapia	monoterapia	N	bn:08892031n	bn:00114234r			
+d001.s026.t019	.		X					
+d001.s027.t001	Per		X					
+d001.s027.t002	il		X					
+d001.s027.t003	trattamento	trattamento	N	bn:00047235n	bn:00047235n	bn:00047235n		
+d001.s027.t004	del		X					
+d001.s027.t005	carcinoma	carcinoma	N	bn:00052343n				
+d001.s027.t006	polmonare	polmonare	J	bn:00108724a	bn:00052343n			
+d001.s027.t007	non		X					
+d001.s027.t008	a		X					
+d001.s027.t009	piccole	piccolo	J	bn:00106058a				
+d001.s027.t010	cellule	cellula	N	bn:00017027n	bn:00017027n	bn:00017027n		
+d001.s027.t011	,		X					
+d001.s027.t012	gli		X					
+d001.s027.t013	effetti	effetto	N	bn:00021961n	bn:00029874n	bn:00029874n	A phenomenon that follows and is caused by some previous phenomenon	A symptom caused by an illness or a drug
+d001.s027.t014	di		X					
+d001.s027.t015	Alimta	alimta	N	bn:00602447n	bn:00602447n	bn:00602447n		
+d001.s027.t016	sono	essere	V					
+d001.s027.t017	stati	essere	V					
+d001.s027.t018	confrontati	confrontare	V	bn:00085450v	bn:00085450v	bn:00085450v		
+d001.s027.t019	con		X					
+d001.s027.t020	quelli		X					
+d001.s027.t021	di		X					
+d001.s027.t022	docetaxel	docetaxel	N	bn:01537207n	bn:01537207n	bn:01537207n		
+d001.s027.t023	(		X					
+d001.s027.t024	un		X					
+d001.s027.t025	altro	altro	J	bn:00097165a				
+d001.s027.t026	farmaco	farmaco	N	bn:00024461n	bn:00054128n	bn:00054128n	A medicine or therapy that cures disease or relieve pain	(medicine) something that treats or prevents or alleviates the symptoms of disease
+d001.s027.t027	antitumorale	antitumorale	J		bn:00097220a			
+d001.s027.t028	)		X					
+d001.s027.t029	in		X					
+d001.s027.t030	uno		X					
+d001.s027.t031	studio	studio	N	bn:00049573n	bn:00074790n	bn:00074790n	Any piece of work that is undertaken or attempted	A detailed critical inspection
+d001.s027.t032	condotto	condurre	V	bn:00091177v	bn:00089893v			
+d001.s027.t033	su		X					
+d001.s027.t034	571		X					
+d001.s027.t035	pazienti	paziente	N	bn:00061017n	bn:00061017n	bn:00061017n		
+d001.s027.t036	con		X					
+d001.s027.t037	tumore	tumore	N	bn:00057267n	bn:00027546n			
+d001.s027.t038	in		X					
+d001.s027.t039	fase	fase	N	bn:00025966n				
+d001.s027.t040	avanzata	avanzato	J	bn:00096532a	bn:00096528a	bn:00096528a	Far along in time	Comparatively late in a course of development
+d001.s027.t041	o		X					
+d001.s027.t042	metastatica	metastatico	J	bn:00106664a	bn:00054585n	bn:00054585n	Relating to or affected by metastasis	The spreading of a disease (especially cancer) to another part of the body
+d001.s027.t043	,		X					
+d001.s027.t044	già		X					
+d001.s027.t045	sottoposti	sottoporre	V		bn:00087863v			
+d001.s027.t046	in		X					
+d001.s027.t047	precedenza	precedenza	N	bn:00004489n	bn:00060927n			
+d001.s027.t048	a		X					
+d001.s027.t049	chemioterapia	chemioterapia	N	bn:00018141n	bn:00018141n	bn:00018141n		
+d001.s027.t050	.		X					
+d001.s028.t001	Alimta	alimta	N	bn:00602447n	bn:00602447n	bn:00602447n		
+d001.s028.t002	è	essere	V					
+d001.s028.t003	stato	essere	V					
+d001.s028.t004	anche		X		bn:00114246r			
+d001.s028.t005	confrontato	confrontare	V	bn:00085450v	bn:00085450v	bn:00085450v		
+d001.s028.t006	con		X					
+d001.s028.t007	gemcitabina	gemcitabina	N	bn:00848690n	bn:00848690n			
+d001.s028.t008	(		X					
+d001.s028.t009	altro		X					
+d001.s028.t010	medicinale	medicinale	N	bn:00054128n	bn:00054128n	bn:00054128n		
+d001.s028.t011	antitumorale	antitumorale	J		bn:00097220a			
+d001.s028.t012	)		X					
+d001.s028.t013	,		X					
+d001.s028.t014	entrambi	entrambi	J					
+d001.s028.t015	in		X					
+d001.s028.t016	associazione	associazione	N	bn:00006541n	bn:00020872n	bn:00020872n	The state of being connected together as in memory or imagination	A collection of things that have been combined; an assemblage of separate parts or qualities
+d001.s028.t017	con		X					
+d001.s028.t018	cisplatino	cisplatino	N	bn:00577781n	bn:00577781n			
+d001.s028.t019	,		X					
+d001.s028.t020	in		X					
+d001.s028.t021	uno		X					
+d001.s028.t022	studio	studio	N	bn:00049573n	bn:00074790n	bn:00074790n	Any piece of work that is undertaken or attempted	A detailed critical inspection
+d001.s028.t023	su		X					
+d001.s028.t024	1.725		X					
+d001.s028.t025	pazienti	paziente	N	bn:00061017n	bn:00061017n	bn:00061017n		
+d001.s028.t026	che		X					
+d001.s028.t027	in		X					
+d001.s028.t028	passato	passato	N	bn:00060927n	bn:00060927n	bn:00060927n		
+d001.s028.t029	non		X		bn:00116360r			
+d001.s028.t030	erano	essere	V					
+d001.s028.t031	mai		X					
+d001.s028.t032	stati	essere	V					
+d001.s028.t033	sottoposti	sottoporre	V		bn:00087863v			
+d001.s028.t034	a		X					
+d001.s028.t035	chemioterapia	chemioterapia	N	bn:00018141n	bn:00018141n	bn:00018141n		
+d001.s028.t036	per		X					
+d001.s028.t037	tumore	tumore	N	bn:00052343n	bn:00015180n			
+d001.s028.t038	polmonare	polmonare	J	bn:00108724a	bn:00052343n			
+d001.s028.t039	.		X					
+d001.s029.t001	In		X					
+d001.s029.t002	tutti	tutto	J	bn:00096798a				
+d001.s029.t003	e		X					
+d001.s029.t004	tre	tre	J	bn:00095975a				
+d001.s029.t005	gli		X					
+d001.s029.t006	studi	studio	N	bn:00049573n	bn:00067181n	bn:00067181n	Any piece of work that is undertaken or attempted	A written document describing the findings of some individual or group
+d001.s029.t007	,		X					
+d001.s029.t008	il		X					
+d001.s029.t009	principale	principale	J	bn:00099598a	bn:00099598a	bn:00099598a		
+d001.s029.t010	indicatore	indicatore	N		bn:00054019n			
+d001.s029.t011	dell		X					
+d001.s029.t012	efficacia	efficacia	N	bn:00029876n				
+d001.s029.t013	era	essere	V					
+d001.s029.t014	il		X					
+d001.s029.t015	tempo	tempo	N	bn:00077268n				
+d001.s029.t016	di		X					
+d001.s029.t017	sopravvivenza	sopravvivenza	N	bn:00030811n	bn:00085382v			
+d001.s029.t018	dei		X					
+d001.s029.t019	pazienti	paziente	N	bn:00061017n	bn:00061017n	bn:00061017n		
+d001.s029.t020	.		X					
+d001.s030.t001	Quali		X					
+d001.s030.t002	benefici	beneficio	N	bn:00009905n	bn:00037022n	bn:00037022n	Something that aids or promotes well-being	The advantageous quality of being beneficial
+d001.s030.t003	ha	avere	V					
+d001.s030.t004	mostrato	mostrare	V	bn:00086567v	bn:00086567v	bn:00086567v		
+d001.s030.t005	Alimta	alimta	N	bn:00602447n	bn:00602447n	bn:00602447n		
+d001.s030.t006	nel		X					
+d001.s030.t007	corso	corso	N					
+d001.s030.t008	degli		X					
+d001.s030.t009	studi	studio	N	bn:00049573n	bn:00074790n	bn:00074790n	Any piece of work that is undertaken or attempted	A detailed critical inspection
+d001.s030.t010	?		X					
+d001.s031.t001	Alimta	alimta	N	bn:00602447n	bn:00602447n	bn:00602447n		
+d001.s031.t002	ha	avere	V					
+d001.s031.t003	aumentato	aumentare	V	bn:00092332v	bn:00089667v	bn:00089667v	Raise the level or amount of something	Make bigger or more
+d001.s031.t004	il		X					
+d001.s031.t005	tempo	tempo	N	bn:00077268n	bn:00077268n	bn:00077268n		
+d001.s031.t006	di		X					
+d001.s031.t007	sopravvivenza	sopravvivenza	N	bn:00030811n	bn:00030811n	bn:00030811n		
+d001.s031.t008	dei		X					
+d001.s031.t009	pazienti	paziente	N	bn:00061017n	bn:00061017n	bn:00061017n		
+d001.s031.t010	affetti	affetto	J	bn:00104538a				
+d001.s031.t011	da		X					
+d001.s031.t012	mesotelioma	mesotelioma	N	bn:00054512n	bn:00054512n	bn:00054512n		
+d001.s031.t013	pleurico	pleurico	J	bn:00108692a	bn:00108692a	bn:00108692a		
+d001.s031.t014	maligno	maligno	J	bn:00106363a	bn:00054512n	bn:00054512n	Dangerous to health; characterized by progressive and uncontrolled growth (especially of a tumor)	A form of carcinoma of the mesothelium lining lungs or abdomen or heart; usually associated with exposure to asbestos dust
+d001.s031.t015	.		X					
+d001.s032.t001	I		X					
+d001.s032.t002	soggetti	soggetto	N					
+d001.s032.t003	a		X					
+d001.s032.t004	cui		X					
+d001.s032.t005	è	essere	V					
+d001.s032.t006	stato	essere	V		bn:00087863v	bn:00087863v		
+d001.s032.t007	somministrato	somministrare	V	bn:00082365v				
+d001.s032.t008	Alimta	alimta	N	bn:00602447n	bn:00602447n	bn:00602447n		
+d001.s032.t009	in		X					
+d001.s032.t010	combinazione	combinazione	N	bn:00020872n	bn:00114235r			
+d001.s032.t011	con		X					
+d001.s032.t012	cisplatino	cisplatino	N	bn:00577781n	bn:00577781n			
+d001.s032.t013	sono	essere	V					
+d001.s032.t014	sopravvissuti	sopravvivere	V	bn:00085382v				
+d001.s032.t015	in		X					
+d001.s032.t016	media	media	N	bn:00054001n	bn:00054001n	bn:00054001n		
+d001.s032.t017	12,1		X					
+d001.s032.t018	mesi	mese	N	bn:00014710n	bn:00055794n	bn:00055794n	One of the twelve divisions of the calendar year	A time unit of approximately 30 days
+d001.s032.t019	,		X					
+d001.s032.t020	rispetto	rispetto	N	bn:00066865n	bn:00085450v			
+d001.s032.t021	ai		X					
+d001.s032.t022	9,3		X					
+d001.s032.t023	mesi	mese	N	bn:00014710n	bn:00055794n	bn:00055794n	One of the twelve divisions of the calendar year	A time unit of approximately 30 days
+d001.s032.t024	dei		X					
+d001.s032.t025	pazienti	paziente	N	bn:00061017n				
+d001.s032.t026	che		X					
+d001.s032.t027	hanno	avere	V					
+d001.s032.t028	assunto	assumere	V	bn:00085689v				
+d001.s032.t029	cisplatino	cisplatino	N	bn:00577781n	bn:00577781n			
+d001.s032.t030	in		X					
+d001.s032.t031	monoterapia	monoterapia	N	bn:08892031n				
+d001.s032.t032	.		X					
+d001.s033.t001	Nel		X					
+d001.s033.t002	trattamento	trattamento	N	bn:00047235n	bn:00047235n	bn:00047235n		
+d001.s033.t003	dei		X					
+d001.s033.t004	pazienti	paziente	N	bn:00061017n	bn:00061017n	bn:00061017n		
+d001.s033.t005	con		X					
+d001.s033.t006	carcinoma	carcinoma	N	bn:00052343n	bn:00015180n	bn:00015180n	Carcinoma of the lungs; one of the commonest forms of cancer	Any malignant growth or tumor caused by abnormal and uncontrolled cell division; it may spread to other parts of the body through the lymphatic system or the blood stream
+d001.s033.t007	polmonare	polmonare	J	bn:00108724a	bn:00052343n			
+d001.s033.t008	non		X					
+d001.s033.t009	a		X					
+d001.s033.t010	piccole	piccolo	J	bn:00106058a				
+d001.s033.t011	cellule	cellula	N	bn:00017027n	bn:00017027n	bn:00017027n		
+d001.s033.t012	,		X					
+d001.s033.t013	Alimta	alimta	N	bn:00602447n	bn:00602447n	bn:00602447n		
+d001.s033.t014	si		X					
+d001.s033.t015	è	essere	V					
+d001.s033.t016	rivelato	rivelare	V	bn:00092109v				
+d001.s033.t017	tanto		X		bn:00114354r			
+d001.s033.t018	efficace	efficace	J	bn:00102038a	bn:00102038a	bn:00102038a		
+d001.s033.t019	quanto		X		bn:00114354r			
+d001.s033.t020	i		X					
+d001.s033.t021	comparatori	comparatore	N					
+d001.s033.t022	.		X					
+d001.s034.t001	Nei		X					
+d001.s034.t002	pazienti	paziente	N	bn:00061017n	bn:00061017n	bn:00061017n		
+d001.s034.t003	che		X					
+d001.s034.t004	in		X					
+d001.s034.t005	passato	passato	N	bn:00060927n	bn:00060927n	bn:00060927n		
+d001.s034.t006	erano	essere	V					
+d001.s034.t007	stati	essere	V					
+d001.s034.t008	sottoposti	sottoporre	V		bn:00055794n			
+d001.s034.t009	a		X					
+d001.s034.t010	chemioterapia	chemioterapia	N	bn:00018141n	bn:00018141n	bn:00018141n		
+d001.s034.t011	,		X					
+d001.s034.t012	il		X					
+d001.s034.t013	tempo	tempo	N	bn:00077268n	bn:00077268n	bn:00077268n		
+d001.s034.t014	di		X					
+d001.s034.t015	sopravvivenza	sopravvivenza	N	bn:00030811n	bn:00030811n	bn:00030811n		
+d001.s034.t016	medio	medio	J	bn:00097854a	bn:00097854a	bn:00097854a		
+d001.s034.t017	è	essere	V					
+d001.s034.t018	stato	essere	V					
+d001.s034.t019	di		X					
+d001.s034.t020	8,3		X					
+d001.s034.t021	mesi	mese	N	bn:00014710n	bn:00055794n	bn:00055794n	One of the twelve divisions of the calendar year	A time unit of approximately 30 days
+d001.s034.t022	con		X					
+d001.s034.t023	Alimta	alimta	N	bn:00602447n	bn:00602447n	bn:00602447n		
+d001.s034.t024	,		X					
+d001.s034.t025	contro		X		bn:00085450v			
+d001.s034.t026	7,9		X					
+d001.s034.t027	con		X					
+d001.s034.t028	docetaxel	docetaxel	N	bn:01537207n	bn:01537207n	bn:01537207n		
+d001.s034.t029	.		X					
+d001.s035.t001	Nei		X					
+d001.s035.t002	pazienti	paziente	N	bn:00061017n	bn:00061017n	bn:00061017n		
+d001.s035.t003	che		X					
+d001.s035.t004	in		X					
+d001.s035.t005	passato	passato	N	bn:00060927n	bn:00060927n	bn:00060927n		
+d001.s035.t006	non		X		bn:00116360r			
+d001.s035.t007	erano	essere	V					
+d001.s035.t008	stati	essere	V		bn:00087863v	bn:00087863v		
+d001.s035.t009	sottoposti	sottoporre	V					
+d001.s035.t010	a		X					
+d001.s035.t011	chemioterapia	chemioterapia	N	bn:00018141n	bn:00018141n	bn:00018141n		
+d001.s035.t012	,		X					
+d001.s035.t013	il		X					
+d001.s035.t014	tempo	tempo	N	bn:00077268n	bn:00077268n	bn:00077268n		
+d001.s035.t015	di		X					
+d001.s035.t016	sopravvivenza	sopravvivenza	N	bn:00030811n	bn:00030811n	bn:00030811n		
+d001.s035.t017	medio	medio	J	bn:00097854a	bn:00097854a	bn:00097854a		
+d001.s035.t018	è	essere	V					
+d001.s035.t019	stato	essere	V					
+d001.s035.t020	di		X					
+d001.s035.t021	10,3		X					
+d001.s035.t022	mesi	mese	N	bn:00014710n	bn:00055794n	bn:00055794n	One of the twelve divisions of the calendar year	A time unit of approximately 30 days
+d001.s035.t023	in		X					
+d001.s035.t024	entrambi	entrambi	J					
+d001.s035.t025	i		X					
+d001.s035.t026	gruppi	gruppo	N	bn:00041942n	bn:00041942n	bn:00041942n		
+d001.s035.t027	.		X					
+d001.s036.t001	Tuttavia	tuttavia	R	bn:00115696r	bn:00114627r	bn:00114627r	By contrast; on the other hand	(contrastive) from another point of view
+d001.s036.t002	,		X					
+d001.s036.t003	in		X					
+d001.s036.t004	entrambi	entrambi	J					
+d001.s036.t005	gli		X					
+d001.s036.t006	studi	studio	N	bn:00049573n	bn:00074790n	bn:00074790n	Any piece of work that is undertaken or attempted	A detailed critical inspection
+d001.s036.t007	i		X					
+d001.s036.t008	pazienti	paziente	N	bn:00061017n	bn:00061017n	bn:00061017n		
+d001.s036.t009	il		X					
+d001.s036.t010	cui		X					
+d001.s036.t011	tumore	tumore	N	bn:00057267n	bn:00015180n			
+d001.s036.t012	non		X		bn:00116360r			
+d001.s036.t013	interessava	interessare	V	bn:00083240v				
+d001.s036.t014	cellule	cellula	N	bn:00073708n				
+d001.s036.t015	squamose	squamoso	J		bn:00073708n	bn:00073708n		
+d001.s036.t016	hanno	avere	V		bn:00088078v	bn:00088078v		
+d001.s036.t017	riportato	riportare	V	bn:00082233v				
+d001.s036.t018	tempi	tempo	N	bn:00077268n	bn:00077268n	bn:00077268n		
+d001.s036.t019	di		X					
+d001.s036.t020	sopravvivenza	sopravvivenza	N	bn:00030811n	bn:00030811n	bn:00030811n		
+d001.s036.t021	più		X					
+d001.s036.t022	lunghi	lungo	J	bn:00106124a	bn:00106124a	bn:00106124a		
+d001.s036.t023	se		X					
+d001.s036.t024	trattati	trattare	V	bn:00084532v				
+d001.s036.t025	con		X					
+d001.s036.t026	Alimta	alimta	N	bn:00602447n	bn:00602447n	bn:00602447n		
+d001.s036.t027	che		X					
+d001.s036.t028	se		X					
+d001.s036.t029	trattati	trattare	V	bn:00084532v				
+d001.s036.t030	con		X					
+d001.s036.t031	il		X					
+d001.s036.t032	comparatore	comparatore	N					
+d001.s036.t033	.		X					
+d001.s037.t001	Invece	invece	R	bn:00115972r	bn:00022261n			
+d001.s037.t002	,		X					
+d001.s037.t003	i		X					
+d001.s037.t004	pazienti	paziente	N	bn:00061017n	bn:00061017n	bn:00061017n		
+d001.s037.t005	il		X					
+d001.s037.t006	cui		X					
+d001.s037.t007	tumore	tumore	N	bn:00057267n	bn:00015180n			
+d001.s037.t008	interessava	interessare	V	bn:00083240v				
+d001.s037.t009	cellule	cellula	N	bn:00073708n	bn:00017027n	bn:00017027n	An epithelial cell that is flat like a plate and form a single layer of epithelial tissue	(biology) the basic structural and functional unit of all organisms; they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals
+d001.s037.t010	squamose	squamoso	J		bn:00073708n	bn:00073708n		
+d001.s037.t011	hanno	avere	V		bn:00088078v	bn:00088078v		
+d001.s037.t012	riportato	riportare	V	bn:00082233v				
+d001.s037.t013	tempi	tempo	N	bn:00077268n	bn:00077268n	bn:00077268n		
+d001.s037.t014	di		X					
+d001.s037.t015	sopravvivenza	sopravvivenza	N	bn:00030811n	bn:00030811n	bn:00030811n		
+d001.s037.t016	più		X					
+d001.s037.t017	brevi	breve	J	bn:00110561a				
+d001.s037.t018	se		X					
+d001.s037.t019	trattati	trattare	V	bn:00084532v				
+d001.s037.t020	con		X					
+d001.s037.t021	Alimta	alimta	N	bn:00602447n	bn:00602447n	bn:00602447n		
+d001.s037.t022	.		X					
+d002.s001.t001	kalgebra	kalgebra	N	bn:08534138n	bn:08534138n	bn:08534138n		
+d002.s001.t002	è	essere	V					
+d002.s001.t003	una		X					
+d002.s001.t004	calcolatrice	calcolatrice	N	bn:03099895n	bn:00946167n	bn:00946167n		
+d002.s001.t005	matematica	matematico	J	bn:00106488a	bn:00106488a	bn:00106488a		
+d002.s001.t006	basata	basare	V	bn:00083141v	bn:00083141v	bn:00083141v		
+d002.s001.t007	sul		X					
+d002.s001.t008	linguaggio	linguaggio	N	bn:00048027n	bn:00213650n	bn:00213650n	Specialized technical terminology characteristic of a particular subject	In logic, mathematics, computer science, and linguistics, a formal language consists of words whose letters are taken from an alphabet and are well-formed according to a specific set of rules.
+d002.s001.t009	MathML	mathml	N	bn:03313895n	bn:03313895n	bn:03313895n		
+d002.s001.t010	.		X					
+d002.s002.t001	Può	potere	V		bn:00099215a			
+d002.s002.t002	eseguire	eseguire	V	bn:00082225v	bn:00090557v	bn:00090557v	Put in effect	Perform or carry out
+d002.s002.t003	semplici	semplice	J	bn:00101973a	bn:00102111a	bn:00102111a	Posing no difficulty; requiring little effort	Easy and not involved or complicated
+d002.s002.t004	operazioni	operazione	N	bn:00053826n				
+d002.s002.t005	(		X					
+d002.s002.t006	aritmetiche	aritmetico	J	bn:00097495a	bn:00097495a	bn:00097495a		
+d002.s002.t007	e		X					
+d002.s002.t008	logiche	logico	J	bn:00106117a				
+d002.s002.t009	)		X					
+d002.s002.t010	in		X					
+d002.s002.t011	MathML	mathml	N	bn:03313895n	bn:03313895n	bn:03313895n		
+d002.s002.t012	e		X					
+d002.s002.t013	può	potere	V					
+d002.s002.t014	rappresentare	rappresentare	V	bn:00086611v				
+d002.s002.t015	grafici	grafico	N	bn:00017904n	bn:00041412n	bn:00041412n	A visual display of information	A visual representation of the relations between certain quantities plotted with reference to a set of axes
+d002.s002.t016	2D	2d	N	bn:00780722n				
+d002.s002.t017	e		X					
+d002.s002.t018	3D	3d	N	bn:01656647n	bn:03647100n	bn:03647100n		
+d002.s002.t019	.		X					
+d002.s003.t001	Non	non	R	bn:00116360r	bn:00116360r	bn:00116360r		
+d002.s003.t002	è	essere	V					
+d002.s003.t003	necessario	necessario	J	bn:00104964a	bn:00107182a	bn:00107182a	Not to be dispensed with; essential	Absolutely essential
+d002.s003.t004	conoscere	conoscere	V	bn:00090141v	bn:00085261v	bn:00085261v	Know how to do or perform something	Be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about
+d002.s003.t005	MathML	mathml	N	bn:03313895n	bn:03313895n	bn:03313895n		
+d002.s003.t006	per		X					
+d002.s003.t007	usare	usare	V	bn:00082705v	bn:00082705v	bn:00082705v		
+d002.s003.t008	kalgebra	kalgebra	N	bn:08534138n	bn:08534138n	bn:08534138n		
+d002.s003.t009	.		X					
+d002.s004.t001	kalgebra	kalgebra	N	bn:08534138n	bn:08534138n	bn:08534138n		
+d002.s004.t002	è	essere	V					
+d002.s004.t003	una		X					
+d002.s004.t004	calcolatrice	calcolatrice	N	bn:02710162n	bn:00946167n	bn:00946167n		
+d002.s004.t005	grafica	grafico	J					
+d002.s004.t006	basata	basare	V	bn:00083141v	bn:00083141v	bn:00083141v		
+d002.s004.t007	sul		X					
+d002.s004.t008	linguaggio	linguaggio	N	bn:00048027n				
+d002.s004.t009	MathML	mathml	N	bn:03313895n	bn:03313895n	bn:03313895n		
+d002.s004.t010	.		X					
+d002.s005.t001	Anche		X					
+d002.s005.t002	se		X					
+d002.s005.t003	inizialmente	inizialmente	R	bn:00114055r	bn:00114055r	bn:00114055r		
+d002.s005.t004	era	essere	V					
+d002.s005.t005	orientata	orientare	V	bn:00082489v	bn:00091201v	bn:00091201v	Intend (something) to move towards a certain goal	Adjust to a specific need or market
+d002.s005.t006	all'		X					
+d002.s005.t007	uso	uso	N	bn:00030627n				
+d002.s005.t008	usando	usare	V	bn:00082705v				
+d002.s005.t009	MathML	mathml	N	bn:03313895n	bn:03313895n	bn:03313895n		
+d002.s005.t010	,		X					
+d002.s005.t011	può	potere	V					
+d002.s005.t012	essere	essere	V					
+d002.s005.t013	usata	usare	V	bn:00082705v	bn:00082705v	bn:00082705v		
+d002.s005.t014	da		X					
+d002.s005.t015	chiunque		X					
+d002.s005.t016	con		X					
+d002.s005.t017	un		X					
+d002.s005.t018	minimo	minimo	N	bn:00052194n	bn:00106058a	bn:00106058a	The smallest possible quantity	Limited or below average in number or quantity or magnitude or extent
+d002.s005.t019	di		X					
+d002.s005.t020	conoscenza	conoscenza	N	bn:00007498n	bn:00020452n	bn:00020452n	Having knowledge of	The psychological result of perception and learning and reasoning
+d002.s005.t021	matematica	matematico	J	bn:00106488a	bn:00106488a	bn:00106488a		
+d002.s005.t022	.		X					
+d002.s006.t001	Immagine	immagine	N	bn:00045772n	bn:00115639r			
+d002.s006.t002	della		X					
+d002.s006.t003	finestra	finestra	N	bn:00081292n	bn:00081292n	bn:00081292n		
+d002.s006.t004	principale	principale	J	bn:00099598a	bn:01157212n			
+d002.s006.t005	di		X					
+d002.s006.t006	kalgebra	kalgebra	N	bn:08534138n	bn:08534138n	bn:08534138n		
+d002.s007.t001	Finestra	finestra	N	bn:00081292n	bn:00081292n	bn:00081292n		
+d002.s007.t002	principale	principale	J	bn:00099598a	bn:00099598a	bn:00099598a		
+d002.s007.t003	di		X					
+d002.s007.t004	kalgebra	kalgebra	N	bn:08534138n	bn:08534138n	bn:08534138n		
+d002.s008.t001	La		X					
+d002.s008.t002	finestra	finestra	N	bn:00081292n	bn:00081292n	bn:00081292n		
+d002.s008.t003	principale	principale	J	bn:00099598a	bn:00099598a	bn:00099598a		
+d002.s008.t004	di		X					
+d002.s008.t005	kalgebra	kalgebra	N	bn:08534138n	bn:08534138n	bn:08534138n		
+d002.s008.t006	è	essere	V					
+d002.s008.t007	composta	comporre	V	bn:00085487v				
+d002.s008.t008	da		X					
+d002.s008.t009	una		X					
+d002.s008.t010	scheda	scheda	N	bn:00120018n	bn:00120018n	bn:00120018n		
+d002.s008.t011	Console	console	N	bn:00019751n	bn:00020949n	bn:00020949n	A user interface in which you type commands instead of choosing them from a menu or selecting an icon	Commands that a user types in order to run an application
+d002.s008.t012	,		X					
+d002.s008.t013	una		X					
+d002.s008.t014	scheda	scheda	N	bn:00120018n	bn:00120018n	bn:00120018n		
+d002.s008.t015	2D	2d	N	bn:00780722n				
+d002.s008.t016	,		X					
+d002.s008.t017	una		X					
+d002.s008.t018	scheda	scheda	N	bn:00120018n	bn:00120018n	bn:00120018n		
+d002.s008.t019	3D	3d	N	bn:01656647n	bn:03647100n	bn:03647100n		
+d002.s008.t020	e		X					
+d002.s008.t021	una		X					
+d002.s008.t022	scheda	scheda	N	bn:00120018n	bn:00120018n	bn:00120018n		
+d002.s008.t023	Dizionario	dizionario	N	bn:00026967n	bn:00026967n	bn:00026967n		
+d002.s008.t024	.		X					
+d002.s009.t001	Sotto		X		bn:00114401r			
+d002.s009.t002	queste		X					
+d002.s009.t003	schede	scheda	N	bn:00120018n	bn:00120018n	bn:00120018n		
+d002.s009.t004	si		X					
+d002.s009.t005	trova	trovare	V	bn:00088204v	bn:00086708v	bn:00086708v	Come upon after searching; find the location of something that was missed or lost	Discover or determine the existence, presence, or fact of
+d002.s009.t006	un		X					
+d002.s009.t007	campo	campo	N	bn:00034274n	bn:00034274n	bn:00034274n		
+d002.s009.t008	di		X					
+d002.s009.t009	inserimento	inserimento	N		bn:00046850n			
+d002.s009.t010	per		X					
+d002.s009.t011	scrivere	scrivere	V	bn:00093281v	bn:00095295v	bn:00095295v	Record data on a computer	Write by means of a keyboard with types
+d002.s009.t012	le		X					
+d002.s009.t013	funzioni	funzione	N	bn:00036821n				
+d002.s009.t014	o		X					
+d002.s009.t015	fare	fare	V	bn:00085334v	bn:00087107v	bn:00087107v	Proceed or get along	Carry out or perform an action
+d002.s009.t016	calcoli	calcolo	N	bn:00014688n	bn:00014688n	bn:00014688n		
+d002.s009.t017	.		X					
+d002.s010.t001	Se		X					
+d002.s010.t002	vogliamo	volere	V	bn:00086682v	bn:00086682v	bn:00086682v		
+d002.s010.t003	capire	capire	V	bn:00082727v	bn:00092443v	bn:00092443v	Get the meaning of something	Perceive (an idea or situation) mentally
+d002.s010.t004	come		X					
+d002.s010.t005	funziona	funzionare	V	bn:00088629v	bn:00088629v	bn:00088629v		
+d002.s010.t006	,		X					
+d002.s010.t007	la		X					
+d002.s010.t008	cosa	cosa	N	bn:00076919n	bn:00076919n	bn:00076919n		
+d002.s010.t009	migliore	migliore	J	bn:00098274a	bn:00098274a			
+d002.s010.t010	da		X					
+d002.s010.t011	fare	fare	V	bn:00085334v	bn:00087107v	bn:00087107v	Proceed or get along	Carry out or perform an action
+d002.s010.t012	è	essere	V					
+d002.s010.t013	comprendere	comprendere	V	bn:00082727v	bn:00082472v	bn:00082472v	Get the meaning of something	Be fully aware or cognizant of
+d002.s010.t014	che		X					
+d002.s010.t015	ciò		X					
+d002.s010.t016	che		X					
+d002.s010.t017	viene	venire	V					
+d002.s010.t018	inserito	inserire	V	bn:00087594v	bn:00046850n			
+d002.s010.t019	è	essere	V					
+d002.s010.t020	convertito	convertire	V	bn:00084772v	bn:00084772v	bn:00084772v		
+d002.s010.t021	in		X					
+d002.s010.t022	MathML	mathml	N	bn:03313895n	bn:03313895n	bn:03313895n		
+d002.s010.t023	,		X					
+d002.s010.t024	anche		X					
+d002.s010.t025	se		X					
+d002.s010.t026	non		X		bn:00116360r			
+d002.s010.t027	è	essere	V					
+d002.s010.t028	necessario	necessario	J	bn:00104964a	bn:00107182a	bn:00107182a	Not to be dispensed with; essential	Absolutely essential
+d002.s010.t029	conoscere	conoscere	V	bn:00090141v	bn:00085261v	bn:00085261v	Know how to do or perform something	Be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about
+d002.s010.t030	MathML	mathml	N	bn:03313895n	bn:03313895n	bn:03313895n		
+d002.s010.t031	.		X					
+d002.s011.t001	Ho	avere	V					
+d002.s011.t002	basato	basare	V	bn:00083141v	bn:00083141v	bn:00083141v		
+d002.s011.t003	la		X					
+d002.s011.t004	sintassi	sintassi	N	bn:02561609n	bn:02561609n	bn:02561609n		
+d002.s011.t005	praticamente	praticamente	R	bn:00116297r	bn:00114508r	bn:00114508r	(degree adverb used before a noun phrase) for all practical purposes but not completely	In essence; at bottom or by one's (or its) very nature
+d002.s011.t006	sul		X					
+d002.s011.t007	senso	senso	N	bn:00021164n	bn:00021164n	bn:00021164n		
+d002.s011.t008	comune	comune	J	bn:00100090a	bn:00021164n	bn:00021164n	Belonging to or participated in by a community as a whole; public	Sound practical judgment
+d002.s011.t009	,		X					
+d002.s011.t010	e		X					
+d002.s011.t011	non		X		bn:00116360r			
+d002.s011.t012	dovrebbe	dovere	V					
+d002.s011.t013	essere	essere	V					
+d002.s011.t014	difficile	difficile	J	bn:00101358a	bn:00101358a	bn:00101358a		
+d002.s011.t015	.		X					
+d002.s012.t001	Ho	avere	V					
+d002.s012.t002	dato	dare	V	bn:00088817v	bn:00090448v			
+d002.s012.t003	un'		X					
+d002.s012.t004	occhiata	occhiata	N	bn:00023260n				
+d002.s012.t005	alla		X					
+d002.s012.t006	sintassi	sintassi	N	bn:02561609n	bn:02561609n	bn:02561609n		
+d002.s012.t007	di		X					
+d002.s012.t008	Maxima	maxima	N	bn:03857246n	bn:03857246n	bn:03857246n		
+d002.s012.t009	e		X					
+d002.s012.t010	di		X					
+d002.s012.t011	Maple	maple	N	bn:03668936n				
+d002.s012.t012	,		X					
+d002.s012.t013	in		X		bn:00114748r			
+d002.s012.t014	modo	modo	N	bn:00001965n				
+d002.s012.t015	da		X					
+d002.s012.t016	esserne	essere	V					
+d002.s012.t017	abbastanza	abbastanza	R	bn:00115313r	bn:00116789r	bn:00116789r	To a moderately sufficient extent or degree	Used as intensifiers; `real' is sometimes used informally for `really'; `rattling' is informal
+d002.s012.t018	simile	simile	J	bn:00096782a	bn:00096782a	bn:00096782a		
+d002.s012.t019	.		X					
+d002.s013.t001	+		X					
+d002.s013.t002	-		X					
+d002.s013.t003	*		X					
+d002.s013.t004	/		X					
+d002.s013.t005	:		X					
+d002.s013.t006	addizione	addizione	N	bn:00001296n	bn:00001296n	bn:00001296n		
+d002.s013.t007	,		X					
+d002.s013.t008	sottrazione	sottrazione	N	bn:00055233n	bn:00055233n	bn:00055233n		
+d002.s013.t009	,		X					
+d002.s013.t010	moltiplicazione	moltiplicazione	N	bn:00056300n	bn:00056300n	bn:00056300n		
+d002.s013.t011	e		X					
+d002.s013.t012	divisione	divisione	N	bn:00027919n	bn:00027919n	bn:00027919n		
+d002.s013.t013	.		X					
+d002.s014.t001	^	^	X					
+d002.s014.t002	,		X					
+d002.s014.t003	**	**	X					
+d002.s014.t004	:		X					
+d002.s014.t005	elevamento	elevamento	N	bn:00032362n				
+d002.s014.t006	a		X					
+d002.s014.t007	potenza	potenza	N	bn:00032355n	bn:00032355n	bn:00032355n		
+d002.s014.t008	,		X					
+d002.s014.t009	puoi	potere	V					
+d002.s014.t010	usare	usare	V	bn:00082705v	bn:00082705v	bn:00082705v		
+d002.s014.t011	entrambi	entrambi	J					
+d002.s014.t012	.		X					
+d002.s015.t001	È	essere	V					
+d002.s015.t002	anche		X		bn:00114246r			
+d002.s015.t003	possibile	possibile	J	bn:00108829a	bn:00108829a	bn:00108829a		
+d002.s015.t004	usare	usare	V	bn:00082705v	bn:00082705v	bn:00082705v		
+d002.s015.t005	il		X					
+d002.s015.t006	carattere	carattere	N		bn:09438926n	bn:09438926n		
+d002.s015.t007	Unicode	unicode	N	bn:02529895n	bn:02529895n	bn:02529895n		
+d002.s015.t008	²		X					
+d002.s015.t009	.		X					
+d002.s016.t001	Con		X					
+d002.s016.t002	gli		X					
+d002.s016.t003	elevamenti	elevamento	N	bn:00032362n				
+d002.s016.t004	a		X					
+d002.s016.t005	potenza	potenza	N	bn:00032355n				
+d002.s016.t006	è	essere	V					
+d002.s016.t007	anche		X					
+d002.s016.t008	possibile	possibile	J	bn:00108829a				
+d002.s016.t009	effettuare	effettuare	V	bn:00082225v	bn:00090557v	bn:00090557v	Put in effect	Perform or carry out
+d002.s016.t010	radici	radice	N	bn:00068247n				
+d002.s017.t001	-gt		X					
+d002.s017.t002	:		X					
+d002.s017.t003	È	essere	V					
+d002.s017.t004	il		X		bn:00001965n			
+d002.s017.t005	modo	modo	N	bn:00001965n	bn:00001965n	bn:00001965n		
+d002.s017.t006	di		X					
+d002.s017.t007	specificare	specificare	V	bn:00086464v	bn:00086468v	bn:00086468v	Determine the essential quality of	Decide upon or fix definitely
+d002.s017.t008	la		X					
+d002.s017.t009	variabile	variabile	N	bn:00079583n	bn:00079583n	bn:00079583n		
+d002.s017.t010	vincolata	vincolare	V					
+d002.s017.t011	in		X					
+d002.s017.t012	una		X					
+d002.s017.t013	funzione	funzione	N	bn:00036821n	bn:00036821n	bn:00036821n		
+d002.s017.t014	.		X					
+d002.s018.t001	(		X					
+d002.s018.t002	)		X					
+d002.s018.t003	:		X					
+d002.s018.t004	usato	usare	V	bn:00082705v	bn:00082705v	bn:00082705v		
+d002.s018.t005	per		X					
+d002.s018.t006	specificare	specificare	V	bn:00086464v	bn:00086468v	bn:00086468v	Determine the essential quality of	Decide upon or fix definitely
+d002.s018.t007	una		X					
+d002.s018.t008	priorità	priorità	N	bn:00064072n	bn:00004489n	bn:00004489n	Status established in order of importance or urgency	Preceding in time
+d002.s018.t009	più		X					
+d002.s018.t010	alta	alto	J	bn:00104162a	bn:00104162a	bn:00104162a		
+d002.s018.t011	.		X					
+d002.s019.t001	abc(parametri)		X					
+d002.s019.t002	:		X					
+d002.s019.t003	Quando		X					
+d002.s019.t004	l'		X					
+d002.s019.t005	analizzatore	analizzatore	N	bn:00003792n	bn:00060753n			
+d002.s019.t006	trova	trovare	V	bn:00088204v	bn:00082811v	bn:00082811v	Come upon after searching; find the location of something that was missed or lost	Establish after a calculation, investigation, experiment, survey, or study
+d002.s019.t007	una		X					
+d002.s019.t008	funzione	funzione	N	bn:00036821n	bn:00036821n	bn:00036821n		
+d002.s019.t009	,		X					
+d002.s019.t010	controlla	controllare	V	bn:00082812v				
+d002.s019.t011	se		X					
+d002.s019.t012	«		X					
+d002.s019.t013	abc		X					
+d002.s019.t014	»		X					
+d002.s019.t015	è	essere	V					
+d002.s019.t016	un		X					
+d002.s019.t017	operatore	operatore	N	bn:00059141n	bn:00059141n	bn:00059141n		
+d002.s019.t018	.		X					
+d002.s020.t001	Se		X					
+d002.s020.t002	lo		X					
+d002.s020.t003	è	essere	V					
+d002.s020.t004	,		X					
+d002.s020.t005	sarà	essere	V					
+d002.s020.t006	trattato	trattare	V	bn:00087116v	bn:00095141v	bn:00095141v	Interact in a certain way	Regard or consider in a specific way
+d002.s020.t007	come		X					
+d002.s020.t008	un		X					
+d002.s020.t009	operatore	operatore	N	bn:00059141n	bn:00059141n	bn:00059141n		
+d002.s020.t010	se		X					
+d002.s020.t011	non		X		bn:00116360r			
+d002.s020.t012	lo		X					
+d002.s020.t013	è	essere	V					
+d002.s020.t014	,		X					
+d002.s020.t015	sarà	essere	V					
+d002.s020.t016	trattato	trattare	V	bn:00087116v	bn:00095141v	bn:00095141v	Interact in a certain way	Regard or consider in a specific way
+d002.s020.t017	come		X					
+d002.s020.t018	una		X					
+d002.s020.t019	funzione	funzione	N	bn:00036821n	bn:00036821n	bn:00036821n		
+d002.s020.t020	utente	utente	N	bn:00079373n	bn:00079373n	bn:00079373n		
+d002.s020.t021	.		X					
+d002.s021.t001	:		X					
+d002.s021.t002	#ERROR!		X					
+d002.s021.t003	:		X					
+d002.s021.t004	Usata	usare	V	bn:00082705v	bn:00082705v	bn:00082705v		
+d002.s021.t005	per		X					
+d002.s021.t006	definire	definire	V	bn:00086466v	bn:00086468v	bn:00086468v	Determine the nature of	Decide upon or fix definitely
+d002.s021.t007	il		X					
+d002.s021.t008	valore	valore	N	bn:00079508n	bn:00079508n	bn:00079508n		
+d002.s021.t009	di		X					
+d002.s021.t010	una		X					
+d002.s021.t011	variabile	variabile	N	bn:00079583n				
+d002.s021.t012	.		X					
+d002.s022.t001	?		X					
+d002.s022.t002	:		X					
+d002.s022.t003	Definizione	definizione	N	bn:00025928n	bn:03132721n			
+d002.s022.t004	di		X					
+d002.s022.t005	condizione	condizione	N	bn:00021645n	bn:00021645n	bn:00021645n		
+d002.s022.t006	definita	definire	V	bn:00086466v	bn:00025928n			
+d002.s022.t007	a		X	bn:03132721n				
+d002.s022.t008	tratti	tratto	N					
+d002.s022.t009	.		X					
+d002.s023.t001	Una		X					
+d002.s023.t002	definizione	definizione	N	bn:00025928n				
+d002.s023.t003	""""		X					
+d002.s023.t004	a		X	bn:03132721n				
+d002.s023.t005	tratti	tratto	N					
+d002.s023.t006	""""		X					
+d002.s023.t007	è	essere	V					
+d002.s023.t008	il		X		bn:00001965n			
+d002.s023.t009	modo	modo	N	bn:00001965n	bn:00001965n	bn:00001965n		
+d002.s023.t010	in		X					
+d002.s023.t011	cui		X					
+d002.s023.t012	possiamo	potere	V					
+d002.s023.t013	definire	definire	V	bn:00086466v	bn:00086468v	bn:00086468v	Determine the nature of	Decide upon or fix definitely
+d002.s023.t014	operazioni	operazione	N	bn:00053826n				
+d002.s023.t015	condizionali	condizionale	J	bn:00100214a				
+d002.s023.t016	in		X					
+d002.s023.t017	kalgebra	kalgebra	N	bn:08534138n	bn:08534138n	bn:08534138n		
+d002.s023.t018	.		X					
+d002.s024.t001	Se		X					
+d002.s024.t002	introduciamo	introdurre	V	bn:00087594v	bn:00087681v	bn:00087681v	Introduce	Put or introduce into something
+d002.s024.t003	la		X					
+d002.s024.t004	condizione	condizione	N	bn:00019220n	bn:00021645n	bn:00021645n	Information that should be kept in mind when making a decision	An assumption on which rests the validity or effect of something else
+d002.s024.t005	prima	primo	J	bn:00103006a				
+d002.s024.t006	del		X					
+d002.s024.t007	«		X					
+d002.s024.t008	?		X		bn:00047210n			
+d002.s024.t009	»		X					
+d002.s024.t010	,		X					
+d002.s024.t011	questa		X					
+d002.s024.t012	condizione	condizione	N	bn:00019220n	bn:00021645n	bn:00021645n	Information that should be kept in mind when making a decision	An assumption on which rests the validity or effect of something else
+d002.s024.t013	sarà	essere	V					
+d002.s024.t014	usata	usare	V	bn:00082705v	bn:00082705v	bn:00082705v		
+d002.s024.t015	solo		X		bn:00116450r			
+d002.s024.t016	se		X					
+d002.s024.t017	è	essere	V					
+d002.s024.t018	vera	vero	J	bn:00112146a	bn:00112146a	bn:00112146a		
+d002.s024.t019	se		X					
+d002.s024.t020	viene	venire	V					
+d002.s024.t021	trovato	trovare	V	bn:00088204v				
+d002.s024.t022	un		X					
+d002.s024.t023	«		X					
+d002.s024.t024	?		X		bn:00047210n			
+d002.s024.t025	»		X					
+d002.s024.t026	senza		X					
+d002.s024.t027	condizione	condizione	N	bn:00019220n	bn:00021645n	bn:00021645n	Information that should be kept in mind when making a decision	An assumption on which rests the validity or effect of something else
+d002.s024.t028	,		X					
+d002.s024.t029	verrà	venire	V					
+d002.s024.t030	usato	usare	V	bn:00082705v	bn:00085363v			
+d002.s024.t031	come		X					
+d002.s024.t032	ultima	ultimo	J	bn:00105740a	bn:00102969a	bn:00102969a	Coming after all others in time or space or degree or being the only one remaining	Conclusive in a process or progression
+d002.s024.t033	alternativa	alternativa	N	bn:00003132n	bn:00016401n			
+d002.s024.t034	.		X					
+d002.s025.t001	Utile	utile	N		bn:00113455a	bn:00113455a		
+d002.s025.t002	principalmente	principalmente	R	bn:00114714r				
+d002.s025.t003	per		X					
+d002.s025.t004	le		X					
+d002.s025.t005	funzioni	funzione	N	bn:00036821n	bn:00095812v	bn:00095812v	(mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associated with an element of another set (the range of the function)	Exert oneself by doing mental or physical work for a purpose or out of necessity
+d002.s025.t006	definite	definire	V	bn:00086466v				
+d002.s025.t007	a		X	bn:03132721n				
+d002.s025.t008	tratti	tratto	N		bn:03132721n			
+d002.s025.t009	.		X					
+d002.s026.t001	Adesso	adesso	R	bn:00114424r				
+d002.s026.t002	potresti	potere	V					
+d002.s026.t003	chiedermi	chiedere	V	bn:00082817v				
+d002.s026.t004	:		X					
+d002.s026.t005	perché		X					
+d002.s026.t006	l'		X					
+d002.s026.t007	utente	utente	N	bn:00022095n				
+d002.s026.t008	dovrebbe	dovere	V					
+d002.s026.t009	conoscere	conoscere	V	bn:00090141v				
+d002.s026.t010	MathML	mathml	N	bn:03313895n				
+d002.s026.t011	?		X					
+d002.s026.t012	Semplice	semplice	J	bn:00101973a				
+d002.s026.t013	:		X					
+d002.s026.t014	con		X					
+d002.s026.t015	il		X					
+d002.s026.t016	MathML	mathml	N	bn:03313895n				
+d002.s026.t017	possiamo	potere	V					
+d002.s026.t018	operare	operare	V	bn:00088629v	bn:00085744v	bn:00085744v	Perform as expected when applied	Handle and cause to function
+d002.s026.t019	con		X					
+d002.s026.t020	funzioni	funzione	N	bn:00036821n				
+d002.s026.t021	come		X					
+d002.s026.t022	cos()	cos	N	bn:00022956n	bn:00022956n	bn:00022956n		
+d002.s026.t023	,		X					
+d002.s026.t024	sin()	sin	N	bn:00071709n				
+d002.s026.t025	(		X					
+d002.s026.t026	e		X					
+d002.s026.t027	qualsiasi	qualsiasi	J	bn:00097285a				
+d002.s026.t028	altra		X		bn:00108011a			
+d002.s026.t029	funzione	funzione	N	bn:00019189n	bn:00036821n	bn:00036821n	Function of an angle expressed as a ratio of the length of the sides of right-angled triangle containing the angle	(mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associated with an element of another set (the range of the function)
+d002.s026.t030	trigonometrica	trigonometrico	J	bn:00112111a	bn:00112111a	bn:00112111a		
+d002.s026.t031	)		X					
+d002.s026.t032	,		X					
+d002.s026.t033	sum()	sum	N	bn:00001296n				
+d002.s026.t034	o		X					
+d002.s026.t035	product()	product	N	bn:00053827n	bn:00053827n	bn:00053827n		
+d002.s026.t036	.		X					
+d002.s027.t001	Non		X					
+d002.s027.t002	importa	importare	V	bn:00085860v	bn:00085860v	bn:00085860v		
+d002.s027.t003	che		X					
+d002.s027.t004	tipo	tipo	N	bn:00035907n	bn:00035907n	bn:00035907n		
+d002.s027.t005	di		X					
+d002.s027.t006	funzione	funzione	N	bn:00036821n				
+d002.s027.t007	sia	essere	V					
+d002.s027.t008	.		X					
+d002.s028.t001	Possiamo	potere	V					
+d002.s028.t002	usare	usare	V	bn:00082705v	bn:00082705v	bn:00082705v		
+d002.s028.t003	plus()	plus	N	bn:00001296n	bn:00001296n	bn:00001296n		
+d002.s028.t004	,		X					
+d002.s028.t005	times()	times	N	bn:00056300n	bn:00056300n	bn:00056300n		
+d002.s028.t006	e		X					
+d002.s028.t007	qualunque	qualunque	J					
+d002.s028.t008	cosa	cosa	N	bn:00076924n				
+d002.s028.t009	che		X					
+d002.s028.t010	ha	avere	V	bn:00088078v	bn:00088078v	bn:00088078v		
+d002.s028.t011	un		X					
+d002.s028.t012	operatore	operatore	N	bn:00059141n	bn:00059141n	bn:00059141n		
+d002.s028.t013	.		X					
+d002.s029.t001	La		X					
+d002.s029.t002	console	console	N	bn:00019751n				
+d002.s029.t003	di		X					
+d002.s029.t004	kalgebra	kalgebra	N	bn:08534138n	bn:08534138n	bn:08534138n		
+d002.s029.t005	è	essere	V					
+d002.s029.t006	utile	utile	J	bn:00104094a	bn:00113455a	bn:00113455a	Providing assistance or serving a useful function	Being of use or service
+d002.s029.t007	come		X					
+d002.s029.t008	calcolatrice	calcolatrice	N	bn:03099895n	bn:00946167n	bn:00946167n		
+d002.s029.t009	.		X					
+d002.s030.t001	C		X		bn:00114427r			
+d002.s030.t002	è	essere	V					
+d002.s030.t003	una		X					
+d002.s030.t004	lista	lista	N	bn:00051508n	bn:00051508n	bn:00051508n		
+d002.s030.t005	delle		X					
+d002.s030.t006	variabili	variabile	N	bn:00079583n	bn:00079583n	bn:00079583n		
+d002.s030.t007	dichiarate	dichiarare	V					
+d002.s030.t008	.		X					
+d002.s031.t001	Facendo	fare	V	bn:00625364n				
+d002.s031.t002	doppio	doppio	J	bn:00625364n				
+d002.s031.t003	clic	clic	N					
+d002.s031.t004	su		X					
+d002.s031.t005	ognuna		X					
+d002.s031.t006	di		X					
+d002.s031.t007	esse		X					
+d002.s031.t008	puoi	potere	V					
+d002.s031.t009	vedere	vedere	V	bn:00084662v	bn:00084662v	bn:00084662v		
+d002.s031.t010	una		X					
+d002.s031.t011	finestra	finestra	N	bn:00026837n				
+d002.s031.t012	di		X					
+d002.s031.t013	dialogo	dialogo	N					
+d002.s031.t014	che		X					
+d002.s031.t015	ti		X					
+d002.s031.t016	permette	permettere	V	bn:00082536v	bn:00082536v	bn:00082536v		
+d002.s031.t017	di		X					
+d002.s031.t018	modificarne	modificare	V	bn:00082553v	bn:00082553v	bn:00082553v		
+d002.s031.t019	il		X					
+d002.s031.t020	valore	valore	N	bn:00079508n	bn:00079508n	bn:00079508n		
+d002.s031.t021	(		X					
+d002.s031.t022	un		X					
+d002.s031.t023	modo	modo	N	bn:00001965n	bn:00001965n	bn:00001965n		
+d002.s031.t024	per		X					
+d002.s031.t025	ingannare	ingannare	V		bn:00088310v	bn:00088310v		
+d002.s031.t026	il		X					
+d002.s031.t027	log	log	N	bn:03986055n	bn:00051831n	bn:00051831n		
+d002.s031.t028	)		X					
+d002.s031.t029	.		X					
+d002.s032.t001	Ogni	ogni	J	bn:00096798a				
+d002.s032.t002	volta	volta	N	bn:00019848n	bn:00019848n	bn:00019848n		
+d002.s032.t003	che		X					
+d002.s032.t004	inserisci	inserire	V	bn:00087594v	bn:00087679v	bn:00087679v	Introduce	Make a record of; set down in permanent form
+d002.s032.t005	un'		X					
+d002.s032.t006	espressione	espressione	N	bn:00032395n	bn:00032395n	bn:00032395n		
+d002.s032.t007	,		X					
+d002.s032.t008	il		X					
+d002.s032.t009	valore	valore	N	bn:00079508n	bn:00079508n	bn:00079508n		
+d002.s032.t010	della		X					
+d002.s032.t011	variabile	variabile	N	bn:00079583n	bn:00079583n	bn:00079583n		
+d002.s032.t012	«		X					
+d002.s032.t013	ans		X					
+d002.s032.t014	»		X					
+d002.s032.t015	sarà	essere	V					
+d002.s032.t016	modificato	modificare	V	bn:00082553v	bn:00082553v	bn:00082553v		
+d002.s032.t017	all'		X					
+d002.s032.t018	ultimo	ultimo	J	bn:00105739a	bn:00105739a	bn:00105739a		
+d002.s032.t019	risultato	risultato	N	bn:00034520n	bn:00034520n	bn:00034520n		
+d002.s032.t020	.		X					
+d002.s033.t001	Ctrl	ctrl	N	bn:00020947n	bn:00020947n	bn:00020947n		
+d002.s033.t002	N	n	N	bn:00056688n	bn:00056688n	bn:00056688n		
+d002.s033.t003	Nuovo	nuovo	N		bn:00081292n			
+d002.s034.t001	Pulisce	pulire	V	bn:00085059v				
+d002.s034.t002	la		X					
+d002.s034.t003	console	console	N	bn:00019751n				
+d002.s034.t004	.		X					
+d002.s035.t001	Ctrl	ctrl	N	bn:00020947n	bn:00020947n	bn:00020947n		
+d002.s035.t002	C	c	N	bn:00014379n	bn:00049538n			
+d002.s035.t003	Carica	caricare	V	bn:00090416v	bn:00090416v	bn:00090416v		
+d002.s035.t004	script	script	N	bn:03932262n				
+d002.s036.t001	Esegue	eseguire	V	bn:00082225v	bn:00082225v	bn:00082225v		
+d002.s036.t002	le		X					
+d002.s036.t003	istruzioni	istruzione	N	bn:00020945n	bn:00020945n	bn:00020945n		
+d002.s036.t004	presenti	presente	J	bn:00108978a	bn:00114819r			
+d002.s036.t005	in		X					
+d002.s036.t006	un		X					
+d002.s036.t007	file	file	N	bn:00021475n	bn:00021475n	bn:00021475n		
+d002.s036.t008	.		X					
+d002.s037.t001	Un		X					
+d002.s037.t002	buon	buono	J	bn:00100490a	bn:00107292a	bn:00107292a	Free from error; especially conforming to fact or truth	Pleasant or pleasing or agreeable in nature or appearance
+d002.s037.t003	metodo	metodo	N	bn:00054625n				
+d002.s037.t004	per		X					
+d002.s037.t005	creare	creare	V	bn:00086009v				
+d002.s037.t006	""""		X					
+d002.s037.t007	librerie	libreria	N	bn:00050969n	bn:00050969n	bn:00050969n		
+d002.s037.t008	""""		X					
+d002.s037.t009	o		X					
+d002.s037.t010	riprendere	riprendere	V	bn:00092413v	bn:00092413v	bn:00092413v		
+d002.s037.t011	un		X					
+d002.s037.t012	lavoro	lavoro	N	bn:00049573n	bn:00081568n	bn:00081568n	Any piece of work that is undertaken or attempted	Activity directed toward making or doing something
+d002.s037.t013	interrotto	interrompere	V	bn:00082149v				
+d002.s037.t014	in		X					
+d002.s037.t015	precedenza	precedenza	N	bn:00004489n	bn:00107791a			
+d002.s037.t016	.		X					
+d002.s038.t001	Ctrl	ctrl	N	bn:00020947n	bn:00020947n	bn:00020947n		
+d002.s038.t002	S	s	N	bn:00068673n	bn:00036962n			
+d002.s038.t003	Salva	salvare	V		bn:00093281v	bn:00093281v		
+d002.s038.t004	script	script	N	bn:03932262n				
+d002.s039.t001	Salva	salvare	V		bn:00093281v	bn:00093281v		
+d002.s039.t002	le		X					
+d002.s039.t003	istruzioni	istruzione	N	bn:00020945n	bn:00020945n	bn:00020945n		
+d002.s039.t004	eseguite	eseguire	V	bn:00082225v	bn:00095295v			
+d002.s039.t005	dall'		X					
+d002.s039.t006	inizio	inizio	N	bn:00046275n	bn:00083344v	bn:00083344v	An event that is a beginning; a first part or stage of subsequent events	Be the first item or point, constitute the beginning or start, come first in a series
+d002.s039.t007	della		X					
+d002.s039.t008	sessione	sessione	N	bn:03751534n	bn:03751534n	bn:03751534n		
+d002.s039.t009	in		X					
+d002.s039.t010	modo	modo	N	bn:00001965n				
+d002.s039.t011	da		X					
+d002.s039.t012	poterle	potere	V		bn:00096151a			
+d002.s039.t013	riusare	riusare	V	bn:00092558v	bn:00092558v	bn:00092558v		
+d002.s039.t014	.		X					
+d002.s040.t001	Genera	generare	V	bn:00084080v	bn:00084080v	bn:00084080v		
+d002.s040.t002	file	file	N	bn:00028018n	bn:00021475n	bn:00021475n	(computer science) a computer file that contains text (and possibly formatting instructions) using seven-bit ASCII characters	(computer science) a file maintained in computer-readable form
+d002.s040.t003	di		X					
+d002.s040.t004	testo	testo	N	bn:01848600n	bn:00028018n	bn:00028018n	In computing, plain text is a loose term for data that represent only characters of readable material but not its graphical representation nor other objects.	(computer science) a computer file that contains text (and possibly formatting instructions) using seven-bit ASCII characters
+d002.s040.t005	semplice	semplice	J	bn:00101973a	bn:00101973a	bn:00101973a		
+d002.s040.t006	,		X					
+d002.s040.t007	quindi		X					
+d002.s040.t008	è	essere	V					
+d002.s040.t009	possibile	possibile	J	bn:00108829a				
+d002.s040.t010	modificarli	modificare	V	bn:00082553v	bn:00084308v			
+d002.s040.t011	usando	usare	V	bn:00082705v	bn:00082705v	bn:00082705v		
+d002.s040.t012	un		X					
+d002.s040.t013	qualsiasi	qualsiasi	J	bn:00097285a				
+d002.s040.t014	editor	editor	N	bn:00076736n	bn:00029775n	bn:00029775n	(computer science) an application that can be used to create and view and edit text files	(computer science) a program designed to perform such editorial functions as rearrangement or modification or deletion of data
+d002.s040.t015	di		X					
+d002.s040.t016	testo	testo	N	bn:00076732n	bn:00076736n	bn:00076736n	The words of something written	(computer science) an application that can be used to create and view and edit text files
+d002.s040.t017	(		X					
+d002.s040.t018	come		X					
+d002.s040.t019	Kate	kate	N	bn:03628723n	bn:03628723n	bn:03628723n		
+d002.s040.t020	)		X					
+d002.s040.t021	.		X					
+d002.s041.t001	Ctrl	ctrl	N	bn:00020947n	bn:00020947n	bn:00020947n		
+d002.s041.t002	L	l	N	bn:00049538n	bn:00068673n			
+d002.s041.t003	Salva	salvare	V		bn:00093281v	bn:00093281v		
+d002.s041.t004	log	log	N	bn:03986055n	bn:00051831n	bn:00051831n		
+d002.s042.t001	Salva	salvare	V		bn:00093281v	bn:00093281v		
+d002.s042.t002	il		X					
+d002.s042.t003	log	log	N	bn:03986055n	bn:00051831n	bn:00051831n		
+d002.s042.t004	e		X					
+d002.s042.t005	tutti		X					
+d002.s042.t006	i		X					
+d002.s042.t007	risultati	risultato	N	bn:00034520n	bn:00034520n	bn:00034520n		
+d002.s042.t008	su		X					
+d002.s042.t009	file	file	N	bn:00021475n				
+d002.s042.t010	HTML	html	N	bn:00045087n	bn:00045087n	bn:00045087n		
+d002.s042.t011	che		X					
+d002.s042.t012	può	potere	V		bn:00096151a			
+d002.s042.t013	essere	essere	V					
+d002.s042.t014	stampato	stampare	V	bn:00092023v	bn:00089639v	bn:00089639v	Put into print	Reproduce by printing
+d002.s042.t015	o		X					
+d002.s042.t016	pubblicato	pubblicare	V		bn:00084099v	bn:00084099v		
+d002.s042.t017	.		X					
+d002.s043.t001	Ctrl	ctrl	N	bn:00020947n	bn:00020947n	bn:00020947n		
+d002.s043.t002	Q	q	N	bn:00065472n	bn:00065472n	bn:00065472n		
+d002.s043.t003	Esci	uscire	V	bn:00084710v	bn:00084710v	bn:00084710v		
+d002.s044.t001	Chiude	chiudere	V	bn:00085170v				
+d002.s044.t002	il		X					
+d002.s044.t003	programma	programma	N	bn:00021492n	bn:00021492n	bn:00021492n		
+d002.s044.t004	.		X					
+d002.s045.t001	Per		X					
+d002.s045.t002	aggiungere	aggiungere	V	bn:00082317v	bn:00082317v	bn:00082317v		
+d002.s045.t003	un		X					
+d002.s045.t004	nuovo	nuovo	J	bn:00103328a	bn:00107267a	bn:00107267a	Original and of a kind not seen before	Not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered
+d002.s045.t005	grafico	grafico	N	bn:00017904n	bn:00041412n	bn:00041412n	A visual display of information	A visual representation of the relations between certain quantities plotted with reference to a set of axes
+d002.s045.t006	2D	2d	N	bn:00780722n				
+d002.s045.t007	in		X					
+d002.s045.t008	kalgebra	kalgebra	N	bn:08534138n	bn:08534138n	bn:08534138n		
+d002.s045.t009	,		X					
+d002.s045.t010	devi	dovere	V					
+d002.s045.t011	andare	andare	V	bn:00088913v	bn:00088912v	bn:00088912v	Follow a procedure or take a course	Change location; move, travel, or proceed, also metaphorically
+d002.s045.t012	nella		X					
+d002.s045.t013	scheda	scheda	N	bn:00120018n	bn:00120018n	bn:00120018n		
+d002.s045.t014	Grafico	grafico	N	bn:00017904n	bn:00041412n	bn:00041412n	A visual display of information	A visual representation of the relations between certain quantities plotted with reference to a set of axes
+d002.s045.t015	2D	2d	N	bn:00780722n				
+d002.s045.t016	e		X					
+d002.s045.t017	fare	fare	V					
+d002.s045.t018	clic	clic	N					
+d002.s045.t019	sulla		X					
+d002.s045.t020	scheda	scheda	N	bn:00120018n	bn:00120018n	bn:00120018n		
+d002.s045.t021	Aggiungi	aggiungere	N		bn:00082317v	bn:00082317v		
+d002.s045.t022	per		X					
+d002.s045.t023	aggiungere	aggiungere	V	bn:00082317v	bn:00082317v	bn:00082317v		
+d002.s045.t024	una		X					
+d002.s045.t025	nuova	nuovo	J	bn:00103328a	bn:00107267a	bn:00107267a	Original and of a kind not seen before	Not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered
+d002.s045.t026	funzione	funzione	N	bn:00036821n	bn:00036821n	bn:00036821n		
+d002.s045.t027	.		X					
+d002.s046.t001	Sarà	essere	V					
+d002.s046.t002	quindi		X		bn:00114281r			
+d002.s046.t003	attivata	attivare	V	bn:00082306v	bn:00046850n			
+d002.s046.t004	la		X					
+d002.s046.t005	casella	casella	N	bn:03113401n	bn:00012528n	bn:00012528n	A text box, text field or text entry box is a control element of a graphical user interface, that should enable the user to input text information to be used by a program.	A rectangular drawing
+d002.s046.t006	di		X					
+d002.s046.t007	testo	testo	N	bn:00076732n	bn:03113401n	bn:03113401n	The words of something written	A text box, text field or text entry box is a control element of a graphical user interface, that should enable the user to input text information to be used by a program.
+d002.s046.t008	dove		X					
+d002.s046.t009	puoi	potere	V					
+d002.s046.t010	scrivere	scrivere	V	bn:00093281v	bn:00095295v	bn:00095295v	Record data on a computer	Write by means of a keyboard with types
+d002.s046.t011	la		X					
+d002.s046.t012	funzione	funzione	N	bn:00036821n	bn:00036821n	bn:00036821n		
+d002.s046.t013	.		X					
+d002.s047.t001	Se		X					
+d002.s047.t002	vuoi	volere	V	bn:00086682v	bn:00086682v	bn:00086682v		
+d002.s047.t003	usare	usare	V	bn:00082705v	bn:00082705v	bn:00082705v		
+d002.s047.t004	una		X					
+d002.s047.t005	tipica	tipico	J	bn:00112216a	bn:00112217a	bn:00112217a	Exhibiting the qualities or characteristics that identify a group or kind or category	Conforming to a type
+d002.s047.t006	funzione	funzione	N	bn:00036821n				
+d002.s047.t007	f(x)	f(x)	N	bn:00036821n	bn:00036821n	bn:00036821n		
+d002.s047.t008	non		X		bn:00116360r			
+d002.s047.t009	è	essere	V					
+d002.s047.t010	necessario	necessario	J	bn:00104964a	bn:00107182a	bn:00107182a	Not to be dispensed with; essential	Absolutely essential
+d002.s047.t011	specificarla	specificare	V	bn:00086464v	bn:00086468v	bn:00086468v	Determine the essential quality of	Decide upon or fix definitely
+d002.s047.t012	.		X					
+d002.s048.t001	Quando		X					
+d002.s048.t002	hai	avere	V					
+d002.s048.t003	inserito	inserire	V	bn:00087594v				
+d002.s048.t004	la		X					
+d002.s048.t005	funzione	funzione	N	bn:00036821n	bn:00036821n	bn:00036821n		
+d002.s048.t006	premi	premere	V	bn:00091986v				
+d002.s048.t007	OK	ok	N	bn:00058395n	bn:00096817a	bn:00096817a	An endorsement	Being satisfactory or in satisfactory condition
+d002.s048.t008	per		X					
+d002.s048.t009	visualizzare	visualizzare	V	bn:00087013v	bn:00087013v	bn:00087013v		
+d002.s048.t010	il		X					
+d002.s048.t011	grafico	grafico	N	bn:00017904n	bn:00041412n	bn:00041412n	A visual display of information	A visual representation of the relations between certain quantities plotted with reference to a set of axes
+d002.s048.t012	nella		X					
+d002.s048.t013	finestra	finestra	N	bn:00081292n	bn:00081292n	bn:00081292n		
+d002.s048.t014	principale	principale	J	bn:00099598a	bn:00099598a	bn:00099598a		
+d002.s048.t015	.		X					
+d002.s049.t001	Puoi	potere	V					
+d002.s049.t002	avere	avere	V	bn:00088078v	bn:00090224v			
+d002.s049.t003	più		X		bn:00110469a			
+d002.s049.t004	grafici	grafico	N	bn:00017904n	bn:00041412n	bn:00041412n	A visual display of information	A visual representation of the relations between certain quantities plotted with reference to a set of axes
+d002.s049.t005	nella		X					
+d002.s049.t006	stessa	stesso	J	bn:00104506a	bn:00110075a	bn:00110075a	Being the exact same one; not any other	Same in identity
+d002.s049.t007	vista	vista	N		bn:00079985n	bn:00079985n		
+d002.s049.t008	.		X					
+d002.s050.t001	Usa	usare	V	bn:00082705v	bn:00082705v	bn:00082705v		
+d002.s050.t002	il		X					
+d002.s050.t003	pulsante	pulsante	N	bn:03843242n	bn:03843242n	bn:03843242n		
+d002.s050.t004	Aggiungi	aggiungere	N		bn:00082317v	bn:00082317v		
+d002.s050.t005	in		X					
+d002.s050.t006	modalità	modalità	N	bn:01622345n	bn:00055444n	bn:00055444n	In user interface design, a mode is a distinct setting within a computer program or any physical machine interface, in which the same user input will produce perceived results different from those that it would in other settings.	A particular functioning condition or arrangement
+d002.s050.t007	«		X					
+d002.s050.t008	lista	lista	N	bn:00051508n	bn:00051508n	bn:00051508n		
+d002.s050.t009	»		X					
+d002.s050.t010	.		X					
+d002.s051.t001	Puoi	potere	V					
+d002.s051.t002	impostare	impostare	V	bn:00093518v	bn:00090224v	bn:00090224v	Put into a certain state; cause to be in a certain state	Put into a certain place or abstract location
+d002.s051.t003	un		X					
+d002.s051.t004	diverso	diverso	J	bn:00101348a				
+d002.s051.t005	colore	colore	N	bn:00020726n	bn:00020726n	bn:00020726n		
+d002.s051.t006	per		X					
+d002.s051.t007	ogni	ogni	J	bn:00096798a				
+d002.s051.t008	grafico	grafico	N	bn:00017904n	bn:00041412n	bn:00041412n	A visual display of information	A visual representation of the relations between certain quantities plotted with reference to a set of axes
+d002.s051.t009	.		X					
+d003.s001.t001	Recentemente	recentemente	R	bn:00116085r	bn:00116085r	bn:00116085r		
+d003.s001.t002	la		X					
+d003.s001.t003	Fondazione	fondazione	N	bn:00031641n	bn:00036064n	bn:00036064n	An organization founded and united for a specific purpose	An institution supported by an endowment
+d003.s001.t004	ha	avere	V					
+d003.s001.t005	partecipato	partecipare	V	bn:00082907v	bn:00089893v			
+d003.s001.t006	all'		X					
+d003.s001.t007	organizzazione	organizzazione	N	bn:00059483n				
+d003.s001.t008	di		X					
+d003.s001.t009	una		X					
+d003.s001.t010	conferenza	conferenza	N	bn:00021721n	bn:00021721n	bn:00021721n		
+d003.s001.t011	che		X					
+d003.s001.t012	ha	avere	V					
+d003.s001.t013	affrontato	affrontare	V	bn:00085596v	bn:00084527v	bn:00084527v	Deal with (something unpleasant) head on	Be in charge of, act on, or dispose of
+d003.s001.t014	questa		X					
+d003.s001.t015	sfida	sfida	N	bn:00017557n	bn:00017557n	bn:00017557n		
+d003.s001.t016	critica	critico	J		bn:00100676a	bn:00100676a		
+d003.s001.t017	.		X					
+d003.s002.t001	Hanno	avere	V					
+d003.s002.t002	partecipato	partecipare	V	bn:00082907v	bn:00060798n			
+d003.s002.t003	oltre		X					
+d003.s002.t004	100		X					
+d003.s002.t005	esponenti	esponente	N	bn:00047203n				
+d003.s002.t006	delle		X					
+d003.s002.t007	principali	principale	J	bn:00099598a	bn:00099598a	bn:00099598a		
+d003.s002.t008	categorie	categoria	N	bn:00016734n	bn:00072536n			
+d003.s002.t009	interessate	interessato	J	bn:00100197a	bn:00047082n			
+d003.s002.t010	,		X					
+d003.s002.t011	i		X					
+d003.s002.t012	quali		X					
+d003.s002.t013	hanno	avere	V		bn:00082907v			
+d003.s002.t014	discusso	discutere	V	bn:00086342v	bn:00086341v	bn:00086341v	Discuss the pros and cons of an issue	Argue with one another
+d003.s002.t015	fra		X					
+d003.s002.t016	l'		X					
+d003.s002.t017	altro	altro	N					
+d003.s002.t018	del		X					
+d003.s002.t019	ruolo	ruolo	N	bn:00036822n	bn:00036823n	bn:00036823n	What something is used for	The actions and activities assigned to or required or expected of a person or group
+d003.s002.t020	degli		X					
+d003.s002.t021	attori	attore	N	bn:00001177n				
+d003.s002.t022	chiave	chiave	N	bn:00048986n	bn:00099258a	bn:00099258a	Something crucial for explaining	Serving as an essential component
+d003.s002.t023	quali	quale	R		bn:00089660v			
+d003.s002.t024	pubbliche	pubblico	J	bn:00109211a	bn:02575022n	bn:02575022n	Not private; open to or concerning the people as a whole	Příspěvková organizace je jednou z forem veřejného ústavu, právnickou osobou veřejného práva zřízenou k plnění úkolů ve veřejném zájmu.
+d003.s002.t025	autorità	autorità	N	bn:00001961n	bn:00001961n	bn:00001961n		
+d003.s002.t026	,		X					
+d003.s002.t027	parti	parte	N	bn:01623772n				
+d003.s002.t028	sociali	sociale	J	bn:00110842a	bn:01623772n	bn:01623772n	Relating to human society and its members	Social partners are groups that cooperate in working relationships to achieve a mutually agreed-upon goal, typically for the benefit of all involved groups.
+d003.s002.t029	,		X					
+d003.s002.t030	organizzazioni	organizzazione	N	bn:00006539n	bn:00001423n	bn:00001423n	A formal organization of people or groups of people	The persons (or committees or departments etc.) who make up a body for the purpose of administering something
+d003.s002.t031	di		X					
+d003.s002.t032	volontariato	volontariato	N	bn:02438777n	bn:00113672a			
+d003.s002.t033	e		X					
+d003.s002.t034	locali	locale	N		bn:03240655n			
+d003.s002.t035	nonché		X		bn:00114246r			
+d003.s002.t036	utenti	utente	N	bn:00022095n	bn:00079373n	bn:00079373n	A person who uses goods or services	A person who makes use of a thing; someone who uses or employs something
+d003.s002.t037	dei		X					
+d003.s002.t038	servizi	servizio	N	bn:00070651n	bn:00070651n	bn:00070651n		
+d003.s002.t039	.		X					
+d003.s003.t001	Si		X					
+d003.s003.t002	è	essere	V					
+d003.s003.t003	anche		X		bn:00114246r			
+d003.s003.t004	preso	prendere	V	bn:00082206v				
+d003.s003.t005	atto	atto	N		bn:00058145n			
+d003.s003.t006	della		X					
+d003.s003.t007	gamma	gamma	N	bn:00066141n	bn:00027862n			
+d003.s003.t008	di		X					
+d003.s003.t009	aioli	aioli	N		bn:00009905n			
+d003.s003.t010	diversi	diverso	J	bn:00101347a	bn:00101350a	bn:00101350a	Unlike in nature or quality or form or degree	Marked by dissimilarity
+d003.s003.t011	svolti	svolto	J		bn:00091709v			
+d003.s004.t001	Unitamente	unitamente	R	bn:00117321r	bn:00115794r	bn:00115794r	With cooperation and interchange	With a common plan
+d003.s004.t002	alla		X					
+d003.s004.t003	Commissione	commissione	N	bn:03895618n	bn:00021015n	bn:00021015n	The European Commission is the executive of the European Union.	A special group delegated to consider some matter
+d003.s004.t004	europea	europeo	J	bn:00102440a	bn:03895618n	bn:03895618n	Of or relating to or characteristic of Europe or the people of Europe	The European Commission is the executive of the European Union.
+d003.s004.t005	,		X					
+d003.s004.t006	al		X					
+d003.s004.t007	Ministero	ministero	N	bn:00055180n	bn:00055180n	bn:00055180n		
+d003.s004.t008	degli		X					
+d003.s004.t009	affari	affare	N	bn:00072552n	bn:00001739n			
+d003.s004.t010	sociali	sociale	J	bn:00110842a	bn:00110842a	bn:00110842a		
+d003.s004.t011	spagnolo	spagnolo	J	bn:00110978a	bn:00110978a	bn:00110978a		
+d003.s004.t012	e		X					
+d003.s004.t013	al		X					
+d003.s004.t014	governo	governo	N	bn:00001430n	bn:00007299n	bn:00007299n	A district defined for administrative purposes	The organization that is the governing authority of a political unit
+d003.s004.t015	regionale	regionale	J	bn:00109624a	bn:00001430n	bn:00001430n	Related or limited to a particular region	A district defined for administrative purposes
+d003.s004.t016	della		X					
+d003.s004.t017	Galizia	galizia	N	bn:00037072n				
+d003.s004.t018	,		X					
+d003.s004.t019	la		X					
+d003.s004.t020	Fondazione	fondazione	N	bn:00031641n	bn:00036064n	bn:00036064n	An organization founded and united for a specific purpose	An institution supported by an endowment
+d003.s004.t021	ha	avere	V					
+d003.s004.t022	organizzato	organizzare	V	bn:00082778v				
+d003.s004.t023	una		X					
+d003.s004.t024	conferenza	conferenza	N	bn:00021721n	bn:00021721n	bn:00021721n		
+d003.s004.t025	europea	europeo	J	bn:00102440a	bn:00102440a	bn:00102440a		
+d003.s004.t026	sul		X					
+d003.s004.t027	tema	tema	N	bn:00043267n				
+d003.s004.t028	Esclusione	esclusione	N	bn:00053403n	bn:00032152n	bn:00032152n	The social process of becoming or being made marginal (especially as a group within the larger society)	The state of being excluded
+d003.s004.t029	sociale	sociale	J	bn:00110842a	bn:00053403n	bn:00053403n	Relating to human society and its members	The social process of becoming or being made marginal (especially as a group within the larger society)
+d003.s004.t030	:		X					
+d003.s004.t031	una		X					
+d003.s004.t032	grande	grande	J	bn:00103780a	bn:00106332a	bn:00106332a	Of major significance or importance	Of greater importance or stature or rank
+d003.s004.t033	sfida	sfida	N	bn:00017557n	bn:00017557n	bn:00017557n		
+d003.s004.t034	per		X					
+d003.s004.t035	i		X					
+d003.s004.t036	servizi	servizi	N	bn:00070651n	bn:00070651n			
+d003.s004.t037	pubblici	pubblico	J	bn:00109211a	bn:00065083n	bn:00065083n	Not private; open to or concerning the people as a whole	Governmental provision of economic assistance to persons in need
+d003.s004.t038	di		X					
+d003.s004.t039	assistenza	assistenza	N	bn:00002155n				
+d003.s004.t040	.		X					
+d003.s005.t001	Recentemente	recentemente	R	bn:00116085r	bn:00116085r	bn:00116085r		
+d003.s005.t002	la		X					
+d003.s005.t003	Fondazione	fondazione	N	bn:00031641n	bn:00036064n	bn:00036064n	An organization founded and united for a specific purpose	An institution supported by an endowment
+d003.s005.t004	ha	avere	V					
+d003.s005.t005	pubblicato	pubblicare	V	bn:00084099v	bn:00084099v			
+d003.s005.t006	,		X					
+d003.s005.t007	nel		X					
+d003.s005.t008	quadro	quadro	N	bn:00071869n	bn:00027912n			
+d003.s005.t009	del		X					
+d003.s005.t010	progetto	progetto	N	bn:00062759n	bn:00064665n	bn:00064665n	A series of steps to be carried out or goals to be accomplished	A planned undertaking
+d003.s005.t011	EPOC	epoc	N					
+d003.s005.t012	,		X					
+d003.s005.t013	uno		X					
+d003.s005.t014	studio	studio	N	bn:00049573n	bn:00067181n	bn:00067181n	Any piece of work that is undertaken or attempted	A written document describing the findings of some individual or group
+d003.s005.t015	comparativo	comparativo	J	bn:00100121a	bn:00100121a	bn:00100121a		
+d003.s005.t016	che		X					
+d003.s005.t017	valuta	valutare	V	bn:00087763v				
+d003.s005.t018	la		X					
+d003.s005.t019	misura	misura	N	bn:00032425n	bn:00032425n	bn:00032425n		
+d003.s005.t020	in		X					
+d003.s005.t021	cui		X					
+d003.s005.t022	la		X					
+d003.s005.t023	partecipazione	partecipazione	N	bn:00030844n	bn:00030844n	bn:00030844n		
+d003.s005.t024	diretta	diretto	J	bn:00101412a	bn:00101412a	bn:00101412a		
+d003.s005.t025	può	potere	V					
+d003.s005.t026	umanizzare	umanizzare	V		bn:00089511v			
+d003.s005.t027	il		X					
+d003.s005.t028	lavoro	lavoro	N	bn:00014138n	bn:00014138n	bn:00014138n		
+d003.s005.t029	migliorando	migliorare	V	bn:00082573v	bn:00089667v			
+d003.s005.t030	allo		X					
+d003.s005.t031	stesso	stesso	J	bn:00104506a				
+d003.s005.t032	tempo	tempo	N	bn:00077269n				
+d003.s005.t033	la		X					
+d003.s005.t034	redditività	redditività	N	bn:00037027n	bn:00037027n	bn:00037027n		
+d003.s005.t035	.		X					
+d003.s006.t001	Lo		X					
+d003.s006.t002	studio	studio	N	bn:00049573n	bn:00074790n	bn:00074790n	Any piece of work that is undertaken or attempted	A detailed critical inspection
+d003.s006.t003	si		X					
+d003.s006.t004	basa	basare	V	bn:00083141v	bn:00083141v	bn:00083141v		
+d003.s006.t005	su		X					
+d003.s006.t006	195		X					
+d003.s006.t007	interviste	intervista	N	bn:00047238n	bn:00047238n	bn:00047238n		
+d003.s006.t008	personali	personale	J	bn:00108488a	bn:00108489a	bn:00108489a	Concerning or affecting a particular person or his or her private life and personality	Particular to a given individual
+d003.s006.t009	con		X					
+d003.s006.t010	alti	alto	J		bn:00110401a			
+d003.s006.t011	dirigenti	dirigente	N	bn:00014158n	bn:00036837n			
+d003.s006.t012	delle		X					
+d003.s006.t013	parti	parte	N	bn:01623772n				
+d003.s006.t014	sociali	sociale	J	bn:00110842a	bn:00110842a	bn:00110842a		
+d003.s006.t015	,		X					
+d003.s006.t016	in		X					
+d003.s006.t017	rappresentanza	rappresentanza	N	bn:00001964n	bn:00047203n			
+d003.s006.t018	delle		X					
+d003.s006.t019	principali	principale	J	bn:00099598a				
+d003.s006.t020	organizzazioni	organizzazione	N	bn:00059480n	bn:00001423n	bn:00001423n	A group of people who work together	The persons (or committees or departments etc.) who make up a body for the purpose of administering something
+d003.s006.t021	nazionali	nazionale	J	bn:00107136a	bn:00107136a	bn:00107136a		
+d003.s006.t022	di		X					
+d003.s006.t023	quindici	quindici	J	bn:00095923a	bn:00095923a	bn:00095923a		
+d003.s006.t024	paesi	paese	N	bn:00031903n	bn:00011771n	bn:00011771n	Any one of the countries occupying the European continent	(sports) the chief official (as in boxing or American football) who is expected to ensure fair play
+d003.s006.t025	europei	europeo	J	bn:00102440a	bn:00102440a	bn:00102440a		
+d003.s006.t026	.		X					
+d003.s007.t001	Quali		X		bn:00104680a			
+d003.s007.t002	settori	settore	N	bn:00663898n				
+d003.s007.t003	industriali	industriale	J	bn:00104995a	bn:00046576n	bn:00046576n	Of or relating to or resulting from industry	The organized action of making of goods and services for sale
+d003.s007.t004	di		X					
+d003.s007.t005	rilievo	rilievo	N	bn:00000639n				
+d003.s007.t006	,		X					
+d003.s007.t007	sono	essere	V					
+d003.s007.t008	stati	essere	V					
+d003.s007.t009	inclusi	includere	V	bn:00089660v	bn:00089660v	bn:00089660v		
+d003.s007.t010	anche		X		bn:00114246r			
+d003.s007.t011	l'		X					
+d003.s007.t012	industria	industria	N	bn:00054564n	bn:00046575n	bn:00046575n	The science and technology of metals	The people or companies engaged in a particular kind of commercial enterprise
+d003.s007.t013	metallurgica	metallurgico	J	bn:00106654a	bn:00054567n			
+d003.s007.t014	e		X					
+d003.s007.t015	il		X					
+d003.s007.t016	settore	settore	N	bn:00008415n	bn:00070206n	bn:00070206n	Banks collectively	A social group that forms part of the society or the economy
+d003.s007.t017	bancario	bancario	N					
+d003.s007.t018	.		X					
+d003.s008.t001	I		X					
+d003.s008.t002	principali	principale	J	bn:00099598a				
+d003.s008.t003	oratori	oratore	N	bn:00059275n				
+d003.s008.t004	in		X					
+d003.s008.t005	occasione	occasione	N	bn:00019218n				
+d003.s008.t006	della		X					
+d003.s008.t007	conferenza	conferenza	N	bn:00021721n	bn:00021721n	bn:00021721n		
+d003.s008.t008	sull'		X					
+d003.s008.t009	esclusione	esclusione	N	bn:00053403n	bn:00032152n	bn:00032152n	The social process of becoming or being made marginal (especially as a group within the larger society)	The state of being excluded
+d003.s008.t010	sociale	sociale	J	bn:00110842a	bn:00053403n	bn:00053403n	Relating to human society and its members	The social process of becoming or being made marginal (especially as a group within the larger society)
+d003.s008.t011	(		X					
+d003.s008.t012	da		X					
+d003.s008.t013	sinistra	sinistra	N	bn:00050521n	bn:00050521n	bn:00050521n		
+d003.s008.t014	a		X					
+d003.s008.t015	destra	destra	N	bn:00067808n	bn:00067808n	bn:00067808n		
+d003.s008.t016	)		X					
+d003.s008.t017	:		X					
+d003.s008.t018	Cristina	cristina	N					
+d003.s008.t019	louro	louro	N					
+d003.s008.t020	,		X					
+d003.s008.t021	Direzione	direzione	N	bn:00011651n	bn:00011651n	bn:00011651n		
+d003.s008.t022	generale	generale	J		bn:00001738n			
+d003.s008.t023	per		X					
+d003.s008.t024	l'		X					
+d003.s008.t025	Occupazione	occupazione	N	bn:00030616n	bn:00030625n	bn:00030625n	The state of being employed or having a job	The occupation for which you are paid
+d003.s008.t026	,		X					
+d003.s008.t027	le		X					
+d003.s008.t028	relazioni	relazione	N	bn:01869079n				
+d003.s008.t029	industriali	industriale	J	bn:00104995a	bn:01869079n	bn:01869079n	Of or relating to or resulting from industry	Industrial relations or employment relations is the multidisciplinary academic field that studies the employment relationship; that is, the complex interrelations between employers and employees, labor/trade unions, employer organizations and the state.
+d003.s008.t030	e		X					
+d003.s008.t031	gli		X					
+d003.s008.t032	affari	affare	N	bn:00072552n				
+d003.s008.t033	sociali	sociale	J	bn:00110842a	bn:00072552n	bn:00072552n	Relating to human society and its members	An organized activity to improve the condition of disadvantaged people in society
+d003.s008.t034	,		X					
+d003.s008.t035	Commissione	commissione	N	bn:03895618n	bn:00021015n	bn:00021015n	The European Commission is the executive of the European Union.	A special group delegated to consider some matter
+d003.s008.t036	europea	europeo	J	bn:00102440a	bn:03895618n	bn:03895618n	Of or relating to or characteristic of Europe or the people of Europe	The European Commission is the executive of the European Union.
+d003.s008.t037	Fernando	fernando	N					
+d003.s008.t038	Gomes	gomes	N					
+d003.s008.t039	,		X					
+d003.s008.t040	Comitato	comitato	N	bn:00893206n	bn:00893206n	bn:00893206n		
+d003.s008.t041	delle		X					
+d003.s008.t042	regioni	regione	N	bn:00060767n	bn:03359468n	bn:03359468n	The extended spatial location of something	The European Union created a Committee of the Regions to represent Regions of Europe as the layer of EU government administration directly below the nation-state level.
+d003.s008.t043	Barbara	barbaro	N	bn:01019664n	bn:01019664n			
+d003.s008.t044	Weiler	weiler	N					
+d003.s008.t045	,		X					
+d003.s008.t046	deputato	deputato	N	bn:00026427n	bn:01941871n			
+d003.s008.t047	al		X					
+d003.s008.t048	Parlamento	parlamento	N	bn:03855948n	bn:00060708n	bn:00060708n	The European Parliament is one of two legislative bodies of the European Union and one of its seven institutions.	A legislative assembly in certain countries
+d003.s008.t049	europeo	europeo	J	bn:00102440a	bn:03855948n	bn:03855948n	Of or relating to or characteristic of Europe or the people of Europe	The European Parliament is one of two legislative bodies of the European Union and one of its seven institutions.
+d003.s008.t050	José	josé	N	bn:03742029n	bn:03742029n	bn:03742029n		
+d003.s008.t051	María	maría	N					
+d003.s008.t052	Gil-Robles	gil-robles	N					
+d003.s008.t053	Gil-Delgado	gil-delgado	N					
+d003.s008.t054	,		X					
+d003.s008.t055	vicepresidente	vicepresidente	N	bn:00079435n				
+d003.s008.t056	del		X					
+d003.s008.t057	Parlamento	parlamento	N	bn:03855948n	bn:00060708n	bn:00060708n	The European Parliament is one of two legislative bodies of the European Union and one of its seven institutions.	A legislative assembly in certain countries
+d003.s008.t058	europeo	europeo	J	bn:00102440a	bn:03855948n	bn:03855948n	Of or relating to or characteristic of Europe or the people of Europe	The European Parliament is one of two legislative bodies of the European Union and one of its seven institutions.
+d003.s008.t059	John	john	N					
+d003.s008.t060	Cairoti	cairoti	N					
+d003.s008.t061	,		X					
+d003.s008.t062	Comitato	comitato	N	bn:00893211n	bn:00021015n	bn:00021015n	The European Economic and Social Committee is a consultative body of the European Union established in 1958.	A special group delegated to consider some matter
+d003.s008.t063	economico	economico	J	bn:00102001a	bn:00893211n	bn:00893211n	Of or relating to an economy, the system of production and management of material wealth	The European Economic and Social Committee is a consultative body of the European Union established in 1958.
+d003.s008.t064	e		X					
+d003.s008.t065	sociale	sociale	J	bn:00110842a	bn:00110842a	bn:00110842a		
+d003.s008.t066	.		X					
+d003.s009.t001	Studi	studio	N	bn:02395950n	bn:00074790n	bn:00074790n	A case study is an in-depth, detailed examination of a particular case within a real-world context.	A detailed critical inspection
+d003.s009.t002	di		X					
+d003.s009.t003	casi	caso	N	bn:00016401n	bn:00016433n	bn:00016433n	An occurrence of something	A careful study of some social unit (as a corporation or division within a corporation) that attempts to determine what factors led to its success or failure
+d003.s009.t004	Ogni	ogni	J	bn:00096798a				
+d003.s009.t005	rapporto	rapporto	N	bn:00067181n	bn:00067181n	bn:00067181n		
+d003.s009.t006	nazionale	nazionale	J	bn:00107136a	bn:00107136a	bn:00107136a		
+d003.s009.t007	contiene	contenere	V	bn:00085499v				
+d003.s009.t008	una		X					
+d003.s009.t009	serie	serie	N	bn:00070575n	bn:00063673n			
+d003.s009.t010	di		X					
+d003.s009.t011	25-30		X					
+d003.s009.t012	iniziative	iniziativa	N	bn:00026116n				
+d003.s009.t013	,		X					
+d003.s009.t014	selezionate	selezionare	V	bn:00084931v				
+d003.s009.t015	fra		X					
+d003.s009.t016	quelle		X					
+d003.s009.t017	più		X					
+d003.s009.t018	idonee	idoneo	J	bn:00102123a				
+d003.s009.t019	ad		X					
+d003.s009.t020	illustrare	illustrare	V	bn:00087826v	bn:00090234v			
+d003.s009.t021	politiche	politico	J		bn:00063329n			
+d003.s009.t022	e		X					
+d003.s009.t023	prassi	prassi	N	bn:00063989n	bn:00061054n	bn:00061054n	Translating an idea into action	A customary way of operation or behavior
+d003.s009.t024	volte	volto	J					
+d003.s009.t025	a		X					
+d003.s009.t026	migliorare	migliorare	V	bn:00082573v	bn:00082573v	bn:00082573v		
+d003.s009.t027	l'		X					
+d003.s009.t028	assunzione	assunzione	N	bn:00030626n	bn:00030933n	bn:00030933n	The act of giving someone a job	The act of getting recruits; enlisting people for the army (or for a job or a cause etc.)
+d003.s009.t029	,		X					
+d003.s009.t030	la		X					
+d003.s009.t031	formazione	formazione	N	bn:00026980n	bn:01253664n	bn:01253664n	The activities of educating or instructing; activities that impart knowledge or skill	Training and development involve improving the effectiveness of organizations and the individuals and teams within them.
+d003.s009.t032	e		X					
+d003.s009.t033	lo		X					
+d003.s009.t034	sviluppo	sviluppo	N	bn:00026695n	bn:00026695n	bn:00026695n		
+d003.s009.t035	dei		X					
+d003.s009.t036	lavoratori	lavoratore	N	bn:00064681n	bn:00081593n	bn:00081593n	A member of the working class (not necessarily employed)	A person who works at a specific occupation
+d003.s009.t037	anziani	anziano	J	bn:00096644a	bn:00082449v			
+d003.s009.t038	nell'		X					
+d003.s009.t039	azienda	azienda	N	bn:00021286n	bn:00051760n			
+d003.s009.t040	e		X					
+d003.s009.t041	nella		X					
+d003.s009.t042	comunità	comunità	N	bn:00021248n	bn:00021248n	bn:00021248n		
+d003.s009.t043	.		X					
+d003.s010.t001	Per		X					
+d003.s010.t002	ciascun		X					
+d003.s010.t003	paese	paese	N	bn:00011771n	bn:00011771n	bn:00011771n		
+d003.s010.t004	due	due	J	bn:00095950a				
+d003.s010.t005	o		X					
+d003.s010.t006	tre	tre	J	bn:00095975a				
+d003.s010.t007	iniziative	iniziativa	N	bn:00026116n				
+d003.s010.t008	sono	essere	V					
+d003.s010.t009	state	essere	V					
+d003.s010.t010	ulteriormente	ulteriormente	R	bn:00115329r	bn:00102794a	bn:00102794a	To or at a greater extent or degree or a more advanced stage (`further' is used more often than `farther' in this abstract sense)	More distant in especially degree
+d003.s010.t011	selezionate	selezionare	V	bn:00084931v	bn:00084931v	bn:00084931v		
+d003.s010.t012	in		X					
+d003.s010.t013	vista	vista	N					
+d003.s010.t014	di		X					
+d003.s010.t015	uno		X					
+d003.s010.t016	studio	studio	N	bn:02395950n	bn:00074790n	bn:00074790n	A case study is an in-depth, detailed examination of a particular case within a real-world context.	A detailed critical inspection
+d003.s010.t017	di		X					
+d003.s010.t018	caso	caso	N	bn:00016401n	bn:00016433n	bn:00016433n	An occurrence of something	A careful study of some social unit (as a corporation or division within a corporation) that attempts to determine what factors led to its success or failure
+d003.s010.t019	più		X					
+d003.s010.t020	approfondito	approfondire	V	bn:00086833v				
+d003.s010.t021	.		X					
+d003.s011.t001	Questi		X					
+d003.s011.t002	studi	studio	N	bn:00049573n	bn:00074790n	bn:00074790n	Any piece of work that is undertaken or attempted	A detailed critical inspection
+d003.s011.t003	hanno	avere	V					
+d003.s011.t004	analizzato	analizzare	V	bn:00082596v	bn:00082596v	bn:00082596v		
+d003.s011.t005	il		X					
+d003.s011.t006	contesto	contesto	N	bn:00019219n	bn:00007783n	bn:00007783n	The set of facts or circumstances that surround a situation or event	Information that is essential to understanding a situation or problem
+d003.s011.t007	delle		X					
+d003.s011.t008	iniziative	iniziativa	N	bn:00026116n	bn:00034797n	bn:00034797n	A move or step or maneuver in political or diplomatic affairs	The first of a series of actions
+d003.s011.t009	e		X					
+d003.s011.t010	il		X					
+d003.s011.t011	loro		X					
+d003.s011.t012	impatto	impatto	N	bn:00046065n	bn:00030709n	bn:00030709n	A forceful consequence; a strong effect	Influencing strongly
+d003.s011.t013	sui		X					
+d003.s011.t014	modelli	modello	N	bn:00032100n				
+d003.s011.t015	occupazionali	occupazionale	J	bn:00107714a	bn:00030626n			
+d003.s011.t016	e		X					
+d003.s011.t017	sulle		X					
+d003.s011.t018	organizzazioni	organizzazione	N	bn:00013379n	bn:00001423n	bn:00001423n	An organization of employees formed to bargain with the employer	The persons (or committees or departments etc.) who make up a body for the purpose of administering something
+d003.s011.t019	del		X					
+d003.s011.t020	lavoro	lavoro	N	bn:00014138n	bn:00014138n	bn:00014138n		
+d003.s011.t021	,		X					
+d003.s011.t022	valutando	valutare	V	bn:00087763v	bn:00082720v	bn:00082720v	"Form a critical opinion of ""We shouldn't pass judgment on other people"""	Evaluate or estimate the nature, quality, ability, extent, or significance of
+d003.s011.t023	inoltre		X					
+d003.s011.t024	i		X					
+d003.s011.t025	vantaggi	vantaggio	N	bn:00037022n	bn:00037022n	bn:00037022n		
+d003.s011.t026	e		X					
+d003.s011.t027	i		X					
+d003.s011.t028	problemi	problema	N	bn:00064527n	bn:00048242n	bn:00048242n	A source of difficulty	A state of difficulty that needs to be resolved
+d003.s011.t029	dell'		X					
+d003.s011.t030	iniziativa	iniziativa	N	bn:00026116n	bn:00034797n	bn:00034797n	A move or step or maneuver in political or diplomatic affairs	The first of a series of actions
+d003.s011.t031	.		X					
+d003.s012.t001	Hanno	avere	V					
+d003.s012.t002	anche		X		bn:00114246r			
+d003.s012.t003	avuto	avere	V		bn:00082906v			
+d003.s012.t004	luogo	luogo	N					
+d003.s012.t005	visite	visita	N	bn:00080111n				
+d003.s012.t006	e		X					
+d003.s012.t007	interviste	intervista	N	bn:00047238n	bn:00047238n	bn:00047238n		
+d003.s012.t008	con		X					
+d003.s012.t009	esponenti	esponente	N	bn:00047203n	bn:00099258a			
+d003.s012.t010	chiave	chiave	N	bn:00048986n				
+d003.s012.t011	del		X					
+d003.s012.t012	personale	personale	N	bn:00042833n	bn:00035770n	bn:00035770n	The force of workers available	Group of people willing to obey orders
+d003.s012.t013	.		X					
+d003.s013.t001	Gli		X					
+d003.s013.t002	studi	studio	N	bn:00049573n	bn:00074790n	bn:00074790n	Any piece of work that is undertaken or attempted	A detailed critical inspection
+d003.s013.t003	nazionali	nazionale	J	bn:00107136a	bn:00107136a	bn:00107136a		
+d003.s013.t004	sfoceranno	sfociare	V					
+d003.s013.t005	in		X					
+d003.s013.t006	un		X					
+d003.s013.t007	rapporto	rapporto	N	bn:00067181n	bn:00067181n	bn:00067181n		
+d003.s013.t008	europeo	europeo	J	bn:00102440a	bn:00102440a	bn:00102440a		
+d003.s013.t009	che		X					
+d003.s013.t010	sintetizzerà	sintetizzare	V	bn:00082392v	bn:00094713v	bn:00094713v	Describe roughly or briefly or give the main points or summary of	Combine so as to form a more complex, product
+d003.s013.t011	le		X					
+d003.s013.t012	prassi	prassi	N	bn:00063989n	bn:00061054n	bn:00061054n	Translating an idea into action	A customary way of operation or behavior
+d003.s013.t013	più		X					
+d003.s013.t014	comuni	comune	N		bn:00108083a			
+d003.s013.t015	.		X					
+d003.s014.t001	Questo	questo	J					
+d003.s014.t002	rapporto	rapporto	N	bn:00067181n	bn:00067181n	bn:00067181n		
+d003.s014.t003	e		X					
+d003.s014.t004	una		X					
+d003.s014.t005	raccolta	raccolta	N	bn:00000777n	bn:00012059n			
+d003.s014.t006	di		X					
+d003.s014.t007	iniziative	iniziativa	N	bn:00026116n	bn:00034797n	bn:00034797n	A move or step or maneuver in political or diplomatic affairs	The first of a series of actions
+d003.s014.t008	saranno	essere	V					
+d003.s014.t009	pubblicati	pubblicare	V	bn:00084099v	bn:00084099v	bn:00084099v		
+d003.s014.t010	nel		X					
+d003.s014.t011	1996		X					
+d003.s014.t012	e		X					
+d003.s014.t013	costituiranno	costituire	V	bn:00083187v	bn:00084692v			
+d003.s014.t014	la		X					
+d003.s014.t015	base	base	N	bn:00008786n				
+d003.s014.t016	di		X					
+d003.s014.t017	una		X					
+d003.s014.t018	conferenza	conferenza	N	bn:00021721n	bn:00021721n	bn:00021721n		
+d003.s014.t019	prevista	prevedere	V	bn:00082668v				
+d003.s014.t020	per		X					
+d003.s014.t021	l'		X					
+d003.s014.t022	autunno	autunno	N	bn:00007406n	bn:00007406n	bn:00007406n		
+d003.s014.t023	dello		X					
+d003.s014.t024	stesso	stesso	J	bn:00104506a				
+d003.s014.t025	anno	anno	N	bn:00078738n				
+d003.s014.t026	.		X					
+d003.s015.t001	La		X					
+d003.s015.t002	Fondazione	fondazione	N	bn:00031641n	bn:00036064n	bn:00036064n	An organization founded and united for a specific purpose	An institution supported by an endowment
+d003.s015.t003	intende	intendere	V	bn:00089804v	bn:00082486v			
+d003.s015.t004	documentare	documentare	V	bn:00087137v	bn:00087137v	bn:00087137v		
+d003.s015.t005	le		X					
+d003.s015.t006	caratteristiche	caratteristica	N	bn:00017747n				
+d003.s015.t007	delle		X					
+d003.s015.t008	barriere	barriera	N	bn:00008714n	bn:00008714n	bn:00008714n		
+d003.s015.t009	inerenti	inerente	J					
+d003.s015.t010	all'		X					
+d003.s015.t011	età	età	N	bn:00001936n	bn:00001936n	bn:00001936n		
+d003.s015.t012	a		X					
+d003.s015.t013	livello	livello	N	bn:00041239n				
+d003.s015.t014	di		X					
+d003.s015.t015	assunzione	assunzione	N	bn:00030626n	bn:00030933n	bn:00030933n	The act of giving someone a job	The act of getting recruits; enlisting people for the army (or for a job or a cause etc.)
+d003.s015.t016	e		X					
+d003.s015.t017	formazione	formazione	N	bn:00026980n	bn:00041853n	bn:00041853n	The activities of educating or instructing; activities that impart knowledge or skill	Activity leading to skilled behavior
+d003.s015.t018	e		X					
+d003.s015.t019	analizzarne	analizzare	V	bn:00082596v	bn:00082596v	bn:00082596v		
+d003.s015.t020	le		X					
+d003.s015.t021	cause	causa	N	bn:00016850n	bn:00016850n	bn:00016850n		
+d003.s015.t022	.		X					
+d003.s016.t001	Vengono	venire	V					
+d003.s016.t002	esaminati	esaminare	V	bn:00082596v	bn:00082596v	bn:00082596v		
+d003.s016.t003	anche		X		bn:00114246r			
+d003.s016.t004	i		X					
+d003.s016.t005	punti	punto	N	bn:00063237n				
+d003.s016.t006	di		X					
+d003.s016.t007	vista	vista	N	bn:00045979n				
+d003.s016.t008	delle		X					
+d003.s016.t009	parti	parte	N	bn:01623772n				
+d003.s016.t010	sociali	sociale	J	bn:00110842a	bn:01623772n	bn:01623772n	Relating to human society and its members	Social partners are groups that cooperate in working relationships to achieve a mutually agreed-upon goal, typically for the benefit of all involved groups.
+d003.s016.t011	,		X					
+d003.s016.t012	dedicando	dedicare	V	bn:00085427v	bn:00086761v			
+d003.s016.t013	un'		X					
+d003.s016.t014	attenzione	attenzione	N	bn:00002157n	bn:00007020n	bn:00007020n	The work of providing treatment for or attending to someone or something	The process whereby a person concentrates on some features of the environment to the (relative) exclusion of others
+d003.s016.t015	particolare	particolare	J	bn:00102398a	bn:00102398a	bn:00102398a		
+d003.s016.t016	alle		X					
+d003.s016.t017	proposte	proposta	N	bn:00064624n	bn:00064776n	bn:00064776n	A proposal offered for acceptance or rejection	Something proposed (such as a plan or assumption)
+d003.s016.t018	volte	volto	J					
+d003.s016.t019	ad		X					
+d003.s016.t020	eliminare	eliminare	V	bn:00082643v	bn:00088783v	bn:00088783v	Cancel officially	Dispose of
+d003.s016.t021	le		X					
+d003.s016.t022	barriere	barriera	N	bn:00008714n	bn:00008714n	bn:00008714n		
+d003.s016.t023	inerenti	inerente	J					
+d003.s016.t024	all'		X					
+d003.s016.t025	età	età	N	bn:00001936n	bn:00001936n	bn:00001936n		
+d003.s016.t026	.		X					
+d003.s017.t001	In		X					
+d003.s017.t002	terzo	terzo	J	bn:00096000a				
+d003.s017.t003	luogo	luogo	N					
+d003.s017.t004	,		X					
+d003.s017.t005	il		X					
+d003.s017.t006	progetto	progetto	N	bn:00062759n	bn:00064665n	bn:00064665n	A series of steps to be carried out or goals to be accomplished	A planned undertaking
+d003.s017.t007	documenta	documentare	V	bn:00087137v				
+d003.s017.t008	e		X					
+d003.s017.t009	valuta	valutare	V	bn:00087763v				
+d003.s017.t010	iniziative	iniziativa	N	bn:00026116n	bn:00034797n	bn:00034797n	A move or step or maneuver in political or diplomatic affairs	The first of a series of actions
+d003.s017.t011	,		X					
+d003.s017.t012	pubbliche	pubblico	J	bn:00109211a	bn:00109211a	bn:00109211a		
+d003.s017.t013	e		X					
+d003.s017.t014	private	privato	J	bn:00109026a	bn:01861730n	bn:01861730n	Confined to particular persons or groups or providing privacy	The private sector is the part of the economy, sometimes referred to as the citizen sector, which is owned by private groups, usually as a means of establishment for profit or non profit, rather than being owned by the government.
+d003.s017.t015	,		X					
+d003.s017.t016	volte	volta	N					
+d003.s017.t017	a		X					
+d003.s017.t018	lottare	lottare	V	bn:00086455v	bn:00070206n			
+d003.s017.t019	contro		X					
+d003.s017.t020	le		X					
+d003.s017.t021	barriere	barriera	N	bn:00008714n	bn:00008714n	bn:00008714n		
+d003.s017.t022	legate	legare	V	bn:00082868v				
+d003.s017.t023	all'		X					
+d003.s017.t024	età	età	N	bn:00001936n	bn:00001936n	bn:00001936n		
+d003.s017.t025	,		X					
+d003.s017.t026	specialmente	specialmente	R	bn:00115235r	bn:00115235r	bn:00115235r		
+d003.s017.t027	a		X					
+d003.s017.t028	favore	favore	N	bn:00033835n				
+d003.s017.t029	dei		X					
+d003.s017.t030	lavoratori	lavoratore	N	bn:00064681n	bn:00081593n	bn:00081593n	A member of the working class (not necessarily employed)	A person who works at a specific occupation
+d003.s017.t031	anziani	anziano	J	bn:00096644a	bn:00096644a	bn:00096644a		
+d003.s017.t032	.		X					
+d003.s018.t001	Ricercando	ricercare	V	bn:00093452v	bn:00090460v	bn:00090460v	Try to get or reach	Try to locate or discover, or try to establish the existence of
+d003.s018.t002	alternative	alternativa	N	bn:00003132n				
+d003.s018.t003	al		X					
+d003.s018.t004	prepensionamento	prepensionamento	N	bn:08952119n	bn:00067456n			
+d003.s018.t005	e		X					
+d003.s018.t006	al		X					
+d003.s018.t007	licenziamento	licenziamento	N	bn:00027476n	bn:00066743n			
+d003.s018.t008	,		X					
+d003.s018.t009	il		X					
+d003.s018.t010	progetto	progetto	N	bn:00062759n	bn:00064665n	bn:00064665n	A series of steps to be carried out or goals to be accomplished	A planned undertaking
+d003.s018.t011	si		X					
+d003.s018.t012	interessa	interessare	V		bn:00083240v	bn:00083240v		
+d003.s018.t013	principalmente	principalmente	R	bn:00114714r	bn:00114714r	bn:00114714r		
+d003.s018.t014	al		X					
+d003.s018.t015	mantenimento	mantenimento	N	bn:00075330n	bn:00044396n	bn:00044396n	The activity of providing for or maintaining by supplying with money or necessities	The act of retaining something
+d003.s018.t016	,		X					
+d003.s018.t017	alla		X					
+d003.s018.t018	reintegrazione	reintegrazione	N	bn:00066979n				
+d003.s018.t019	e		X					
+d003.s018.t020	alla		X					
+d003.s018.t021	riqualificazione	riqualificazione	N	bn:00067463n	bn:00092953v			
+d003.s018.t022	dei		X					
+d003.s018.t023	lavoratori	lavoratore	N	bn:00047795n	bn:00081593n	bn:00081593n	Someone who works with their hands; someone engaged in manual labor	A person who works at a specific occupation
+d003.s018.t024	anziani	anziano	J	bn:00096644a	bn:00096644a	bn:00096644a		
+d003.s018.t025	.		X					
+d003.s019.t001	Sono	essere	V					
+d003.s019.t002	presi	prendere	V	bn:00082206v				
+d003.s019.t003	in		X					
+d003.s019.t004	considerazione	considerazione	N	bn:00019220n				
+d003.s019.t005	il		X					
+d003.s019.t006	sesso	sesso	N	bn:00037634n	bn:00037634n	bn:00037634n		
+d003.s019.t007	e		X					
+d003.s019.t008	l'		X					
+d003.s019.t009	appartenenza	appartenenza	N	bn:00054281n	bn:00007781n			
+d003.s019.t010	etnica	etnico	J	bn:00100762a	bn:00031722n	bn:00031722n	Denoting or deriving from or distinctive of the ways of living built up by a group of people	People of the same race or nationality who share a distinctive culture
+d003.s019.t011	dei		X					
+d003.s019.t012	lavoratori	lavoratore	N	bn:00047795n	bn:00081593n	bn:00081593n	Someone who works with their hands; someone engaged in manual labor	A person who works at a specific occupation
+d003.s019.t013	,		X					
+d003.s019.t014	e		X					
+d003.s019.t015	la		X					
+d003.s019.t016	loro		X					
+d003.s019.t017	correlazione	correlazione	N	bn:00022856n	bn:00082868v			
+d003.s019.t018	con		X					
+d003.s019.t019	la		X					
+d003.s019.t020	discriminazione	discriminazione	N	bn:00027538n	bn:00027538n	bn:00027538n		
+d003.s019.t021	in		X					
+d003.s019.t022	base	base	N	bn:00008786n				
+d003.s019.t023	all'		X					
+d003.s019.t024	età	età	N	bn:00001936n	bn:00001957n	bn:00001957n	How long something has existed	Discrimination against middle-aged and elderly people
+d003.s019.t025	.		X					
+d003.s020.t001	Il		X					
+d003.s020.t002	progetto	progetto	N	bn:00062759n	bn:00064665n	bn:00064665n	A series of steps to be carried out or goals to be accomplished	A planned undertaking
+d003.s020.t003	esamina	esaminare	V	bn:00082596v	bn:00085648v	bn:00085648v	Consider in detail and subject to an analysis in order to discover essential features or meaning	Give careful consideration to
+d003.s020.t004	anche		X		bn:00114246r			
+d003.s020.t005	iniziative	iniziativa	N	bn:00026116n				
+d003.s020.t006	volte	volto	J					
+d003.s020.t007	a		X					
+d003.s020.t008	lottare	lottare	V	bn:00086455v				
+d003.s020.t009	contro		X					
+d003.s020.t010	la		X					
+d003.s020.t011	discriminazione	discriminazione	N	bn:00027538n	bn:00027538n	bn:00027538n		
+d003.s020.t012	basata	basare	V	bn:00083141v				
+d003.s020.t013	sull'		X					
+d003.s020.t014	età	età	N	bn:00001936n	bn:00001957n	bn:00001957n	How long something has existed	Discrimination against middle-aged and elderly people
+d003.s020.t015	nelle		X					
+d003.s020.t016	zone	zona	N	bn:00005513n	bn:00005513n	bn:00005513n		
+d003.s020.t017	rurali	rurale	J	bn:00109997a	bn:00023237n	bn:00023237n	Living in or characteristic of farming or country life	An area outside of cities and towns
+d003.s020.t018	e		X					
+d003.s020.t019	nelle		X					
+d003.s020.t020	piccole	piccolo	J	bn:03169699n	bn:03169699n	bn:03169699n		
+d003.s020.t021	e		X					
+d003.s020.t022	medie	medio	J	bn:00097857a				
+d003.s020.t023	imprese	impresa	N	bn:00022811n				
+d003.s020.t024	.		X					
+d003.s021.t001	La		X					
+d003.s021.t002	ricerca	ricerca	N	bn:00067280n	bn:00064665n	bn:00064665n	Systematic investigation to establish facts	A planned undertaking
+d003.s021.t003	ha	avere	V	bn:00088078v				
+d003.s021.t004	per		X					
+d003.s021.t005	oggetto	oggetto	N	bn:00074900n	bn:00085497v			
+d003.s021.t006	sette	sette	J	bn:00096060a				
+d003.s021.t007	Stati	stati	N	bn:00208447n	bn:00011771n			
+d003.s021.t008	membri	membro	N	bn:00054277n	bn:02197666n	bn:02197666n	An organization that is a member of another organization (especially a state that belongs to a group of nations)	A member state is a state that is a member of an international organization or of a federation or confederation.
+d003.s021.t009	:		X					
+d003.s021.t010	Belgio	belgio	N	bn:00009714n	bn:00009714n	bn:00009714n		
+d003.s021.t011	,		X					
+d003.s021.t012	Francia	francia	N	bn:00036202n	bn:00036202n			
+d003.s021.t013	,		X					
+d003.s021.t014	Germania	germania	N	bn:00026684n	bn:00026684n	bn:00026684n		
+d003.s021.t015	,		X					
+d003.s021.t016	Grecia	grecia	N	bn:00030401n	bn:00030401n			
+d003.s021.t017	,		X					
+d003.s021.t018	Italia	italia	N	bn:00047705n	bn:00047705n	bn:00047705n		
+d003.s021.t019	,		X					
+d003.s021.t020	Paesi	paesi	N	bn:00044423n	bn:00049168n			
+d003.s021.t021	Bassi	basso	J					
+d003.s021.t022	e		X					
+d003.s021.t023	Regno	regno	N	bn:00013173n				
+d003.s021.t024	Unito	unito	J	bn:00112908a	bn:00013173n	bn:00013173n	Characterized by unity; being or joined into a single entity	A monarchy in northwestern Europe occupying most of the British Isles; divided into England and Scotland and Wales and Northern Ireland; `Great Britain' is often used loosely to refer to the United Kingdom
+d003.s021.t025	.		X					
+d004.s003.t001	Che		X					
+d004.s003.t002	cos	cosa	N					
+d004.s003.t003	è	essere	V					
+d004.s003.t004	Cerenia	cerenia	N	bn:00923812n	bn:00923812n	bn:00923812n		
+d004.s003.t005	?		X					
+d004.s004.t001	Cerenia	cerenia	N	bn:00923812n	bn:00923812n	bn:00923812n		
+d004.s004.t002	contiene	contenere	V	bn:00083225v	bn:00085499v	bn:00085499v	Contain or hold; have within	Include or contain; have as a component
+d004.s004.t003	il		X					
+d004.s004.t004	principio	principio	N	bn:00377649n	bn:00377649n			
+d004.s004.t005	attivo	attivo	J	bn:00096387a	bn:00074985n			
+d004.s004.t006	maropitant	maropitant	N	bn:00923812n	bn:00923812n	bn:00923812n		
+d004.s004.t007	ed		X					
+d004.s004.t008	è	essere	V					
+d004.s004.t009	disponibile	disponibile	J	bn:00097846a	bn:00097846a	bn:00097846a		
+d004.s004.t010	sotto		X					
+d004.s004.t011	forma	forma	N	bn:00005023n				
+d004.s004.t012	di		X					
+d004.s004.t013	compressa	compressa	N	bn:00052222n	bn:00052222n	bn:00052222n		
+d004.s004.t014	o		X					
+d004.s004.t015	di		X					
+d004.s004.t016	soluzione	soluzione	N	bn:00072760n	bn:00072760n	bn:00072760n		
+d004.s004.t017	iniettabile	iniettabile	J		bn:00046787n			
+d004.s004.t018	.		X					
+d004.s005.t001	Le		X					
+d004.s005.t002	compresse	compressa	N	bn:00052222n	bn:00052222n	bn:00052222n		
+d004.s005.t003	sono	essere	V					
+d004.s005.t004	di		X					
+d004.s005.t005	color	color	N					
+d004.s005.t006	arancione	arancione	J	bn:00107945a				
+d004.s005.t007	chiaro	chiaro	J	bn:00105938a				
+d004.s005.t008	e		X					
+d004.s005.t009	hanno	avere	V	bn:00088078v	bn:00088078v	bn:00088078v		
+d004.s005.t010	una		X					
+d004.s005.t011	tacca	tacca	N	bn:00026264n	bn:00023645n			
+d004.s005.t012	su		X					
+d004.s005.t013	entrambi	entrambi	J					
+d004.s005.t014	i		X					
+d004.s005.t015	lati	lato	N	bn:00071433n	bn:00032604n	bn:00032604n	Either the left or right half of a body	A surface forming part of the outside of an object
+d004.s005.t016	,		X					
+d004.s005.t017	per		X		bn:00117049r			
+d004.s005.t018	facilitarne	facilitare	V	bn:00082531v				
+d004.s005.t019	la		X					
+d004.s005.t020	divisione	divisione	N	bn:00027913n	bn:00089157v			
+d004.s005.t021	in		X					
+d004.s005.t022	due	due	J	bn:00095950a				
+d004.s005.t023	metà	metà	N	bn:00042601n				
+d004.s005.t024	.		X					
+d004.s006.t001	Ciascuna	ciascuno	R	bn:00114315r				
+d004.s006.t002	compressa	compressa	N	bn:00052222n	bn:00052222n	bn:00052222n		
+d004.s006.t003	è	essere	V					
+d004.s006.t004	marcata	marcare	V	bn:00090151v	bn:00090663v	bn:00090663v	Attach a tag or label to	Make small marks into the surface of
+d004.s006.t005	da		X					
+d004.s006.t006	un		X					
+d004.s006.t007	lato	lato	N	bn:00071433n	bn:00032604n	bn:00032604n	Either the left or right half of a body	A surface forming part of the outside of an object
+d004.s006.t008	con		X					
+d004.s006.t009	il		X					
+d004.s006.t010	logo	logo	N	bn:00051872n	bn:00051872n	bn:00051872n		
+d004.s006.t011	Pfizer	pfizer	N	bn:03463336n	bn:03463336n	bn:03463336n		
+d004.s006.t012	e		X					
+d004.s006.t013	dall	dall	N					
+d004.s006.t014	altro	altro	J	bn:00108011a	bn:00108011a	bn:00108011a		
+d004.s006.t015	lato	lato	N	bn:00071433n	bn:00032604n	bn:00032604n	Either the left or right half of a body	A surface forming part of the outside of an object
+d004.s006.t016	con		X					
+d004.s006.t017	le		X					
+d004.s006.t018	lettere	lettera	N	bn:00003057n	bn:00003057n	bn:00003057n		
+d004.s006.t019	MPT		X					
+d004.s006.t020	e		X					
+d004.s006.t021	con		X					
+d004.s006.t022	numeri	numero	N	bn:00034394n				
+d004.s006.t023	che		X					
+d004.s006.t024	indicano	indicare	V	bn:00086586v				
+d004.s006.t025	la		X					
+d004.s006.t026	quantità	quantità	N	bn:00003602n				
+d004.s006.t027	di		X					
+d004.s006.t028	maropitant	maropitant	N	bn:00923812n	bn:00923812n	bn:00923812n		
+d004.s006.t029	.		X					
+d004.s007.t001	Per		X					
+d004.s007.t002	che		X					
+d004.s007.t003	cosa	cosa	N	bn:00076924n				
+d004.s007.t004	si		X					
+d004.s007.t005	usa	usare	V	bn:00082705v	bn:00082705v	bn:00082705v		
+d004.s007.t006	Cerenia	cerenia	N	bn:00923812n	bn:00923812n	bn:00923812n		
+d004.s007.t007	?		X					
+d004.s008.t001	Cerenia	cerenia	N	bn:00923812n	bn:00923812n	bn:00923812n		
+d004.s008.t002	è	essere	V					
+d004.s008.t003	un		X					
+d004.s008.t004	antiemetico	antiemetico	N	bn:00004656n	bn:00004656n	bn:00004656n		
+d004.s008.t005	,		X					
+d004.s008.t006	ossia		X		bn:00089805v			
+d004.s008.t007	un		X					
+d004.s008.t008	medicinale	medicinale	N	bn:00054128n				
+d004.s008.t009	che		X					
+d004.s008.t010	arresta	arrestare	V	bn:00082787v	bn:00082787v	bn:00082787v		
+d004.s008.t011	il		X					
+d004.s008.t012	vomito	vomito	N	bn:00027565n				
+d004.s008.t013	.		X					
+d004.s009.t001	È	essere	V					
+d004.s009.t002	usato	usare	V	bn:00082705v	bn:00082705v	bn:00082705v		
+d004.s009.t003	nei		X					
+d004.s009.t004	cani	cane	N	bn:00008602n	bn:00015267n	bn:00015267n	Informal terms for dogs	A member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds
+d004.s009.t005	per		X					
+d004.s009.t006	prevenire	prevenire	V	bn:00082954v	bn:00088454v	bn:00088454v	Prevent the occurrence of; prevent from happening	Keep from happening or arising; make impossible
+d004.s009.t007	il		X					
+d004.s009.t008	vomito	vomito	N	bn:00027565n	bn:00083115v	bn:00083115v	The reflex act of ejecting the contents of the stomach through the mouth	Eject the contents of the stomach through the mouth
+d004.s009.t009	causato	causare	V	bn:00084699v	bn:00084069v	bn:00084069v	Give rise to; cause to happen or occur, not always intentionally	Cause to happen, occur or exist
+d004.s009.t010	,		X					
+d004.s009.t011	per		X					
+d004.s009.t012	esempio	esempio	N	bn:00032099n				
+d004.s009.t013	,		X					
+d004.s009.t014	dalla		X					
+d004.s009.t015	chemioterapia	chemioterapia	N	bn:00018141n	bn:00018141n	bn:00018141n		
+d004.s009.t016	(		X					
+d004.s009.t017	medicinali	medicinale	N	bn:00054128n	bn:00054128n	bn:00054128n		
+d004.s009.t018	usati	usato	J	bn:00082705v	bn:00082705v			
+d004.s009.t019	per		X					
+d004.s009.t020	la		X					
+d004.s009.t021	cura	cura	N	bn:00058966n	bn:01853831n	bn:01853831n	The branch of medicine concerned with the study and treatment of tumors	Cancer can be treated by surgery, chemotherapy, radiation therapy, hormonal therapy, targeted therapy and synthetic lethality, most commonly as a series of separate treatments.
+d004.s009.t022	del		X					
+d004.s009.t023	cancro	cancro	N	bn:00015180n	bn:00015180n	bn:00015180n		
+d004.s009.t024	,		X					
+d004.s009.t025	alcuni		X					
+d004.s009.t026	dei		X					
+d004.s009.t027	quali	quale	R					
+d004.s009.t028	noti	noto	J	bn:00105645a	bn:00090142v			
+d004.s009.t029	per		X					
+d004.s009.t030	provocare	provocare	V	bn:00084069v	bn:00084069v	bn:00084069v		
+d004.s009.t031	il		X					
+d004.s009.t032	vomito	vomito	N	bn:00027565n	bn:00083115v	bn:00083115v	The reflex act of ejecting the contents of the stomach through the mouth	Eject the contents of the stomach through the mouth
+d004.s009.t033	)		X					
+d004.s009.t034	.		X					
+d004.s010.t001	In		X					
+d004.s010.t002	combinazione	combinazione	N	bn:00020872n	bn:00020872n	bn:00020872n		
+d004.s010.t003	con		X					
+d004.s010.t004	altre		X					
+d004.s010.t005	misure	misura	N	bn:00054018n				
+d004.s010.t006	di		X					
+d004.s010.t007	supporto	supporto	N	bn:00075331n				
+d004.s010.t008	,		X					
+d004.s010.t009	per		X					
+d004.s010.t010	esempio	esempio	N	bn:00032099n				
+d004.s010.t011	altre	altro	J	bn:00108011a	bn:00108011a	bn:00108011a		
+d004.s010.t012	terapie	terapia	N	bn:00047235n	bn:00047235n	bn:00047235n		
+d004.s010.t013	veterinarie	veterinario	J	bn:00113583a	bn:00113583a	bn:00113583a		
+d004.s010.t014	o		X					
+d004.s010.t015	una		X					
+d004.s010.t016	dieta	dieta	N	bn:00027011n	bn:00027011n	bn:00027011n		
+d004.s010.t017	speciale	speciale	J	bn:00108295a	bn:00108295a	bn:00108295a		
+d004.s010.t018	,		X					
+d004.s010.t019	Cerenia	cerenia	N	bn:00923812n	bn:00923812n	bn:00923812n		
+d004.s010.t020	può	potere	V					
+d004.s010.t021	anche		X		bn:00114246r			
+d004.s010.t022	essere	essere	V					
+d004.s010.t023	usato	usare	V	bn:00082705v	bn:00082705v	bn:00082705v		
+d004.s010.t024	nel		X					
+d004.s010.t025	trattamento	trattamento	N	bn:00042823n	bn:00047235n	bn:00047235n	The management of someone or something	Care provided to improve a situation (especially medical procedures or applications that are intended to relieve illness or injury)
+d004.s010.t026	del		X					
+d004.s010.t027	vomito	vomito	N	bn:00027565n				
+d004.s010.t028	(		X					
+d004.s010.t029	sia		X					
+d004.s010.t030	come		X					
+d004.s010.t031	iniezione	iniezione	N	bn:00046787n	bn:00046787n	bn:00046787n		
+d004.s010.t032	che		X					
+d004.s010.t033	come		X					
+d004.s010.t034	iniezione	iniezione	N	bn:00046787n	bn:00046787n	bn:00046787n		
+d004.s010.t035	seguita	seguire	V	bn:00088422v	bn:00088425v	bn:00088425v	Be later in time	To bring something about at a later time than
+d004.s010.t036	da		X					
+d004.s010.t037	compresse	compressa	N	bn:00052222n	bn:00052222n	bn:00052222n		
+d004.s010.t038	)		X					
+d004.s010.t039	.		X					
+d004.s011.t001	Per		X					
+d004.s011.t002	tali		X					
+d004.s011.t003	scopi	scopo	N	bn:00002178n	bn:00002178n	bn:00002178n		
+d004.s011.t004	Cerenia	cerenia	N	bn:00923812n	bn:00923812n	bn:00923812n		
+d004.s011.t005	può	potere	V					
+d004.s011.t006	essere	essere	V					
+d004.s011.t007	somministrato	somministrare	V	bn:00082365v	bn:00088826v	bn:00088826v	Give or apply (medications)	Give (as medicine)
+d004.s011.t008	fino		X					
+d004.s011.t009	a		X					
+d004.s011.t010	un		X					
+d004.s011.t011	massimo	massimo	N	bn:00051250n				
+d004.s011.t012	di		X					
+d004.s011.t013	cinque	cinque	J	bn:00096027a				
+d004.s011.t014	giorni	giorno	N		bn:00025419n	bn:00025419n		
+d004.s011.t015	.		X					
+d004.s012.t001	Come		X					
+d004.s012.t002	agisce	agire	V	bn:00082285v				
+d004.s012.t003	Cerenia	cerenia	N	bn:00923812n	bn:00923812n	bn:00923812n		
+d004.s012.t004	?		X					
+d004.s013.t001	Cerenia	cerenia	N	bn:00923812n	bn:00923812n	bn:00923812n		
+d004.s013.t002	blocca	bloccare	V	bn:00083622v				
+d004.s013.t003	un		X					
+d004.s013.t004	recettore	recettore	N	bn:00066514n				
+d004.s013.t005	della		X					
+d004.s013.t006	neurochinina	neurochinina	N	bn:02560276n	bn:02560276n			
+d004.s013.t007	(		X					
+d004.s013.t008	NK1	nk1	N	bn:02560276n				
+d004.s013.t009	)		X					
+d004.s013.t010	che		X					
+d004.s013.t011	agisce	agire	V	bn:00082285v	bn:00082285v	bn:00082285v		
+d004.s013.t012	a		X					
+d004.s013.t013	livello	livello	N	bn:00041239n				
+d004.s013.t014	del		X					
+d004.s013.t015	sistema	sistema	N	bn:00017184n	bn:00075762n	bn:00075762n	The portion of the vertebrate nervous system consisting of the brain and spinal cord	A group of physiologically or anatomically related organs or parts
+d004.s013.t016	nervoso	nervoso	J	bn:00107232a	bn:00057341n	bn:00057341n	Of or relating to the nervous system	The sensory and control apparatus consisting of a network of nerve cells
+d004.s013.t017	centrale	centrale	J	bn:00099258a	bn:00017184n	bn:00017184n	Serving as an essential component	The portion of the vertebrate nervous system consisting of the brain and spinal cord
+d004.s013.t018	.		X					
+d004.s014.t001	Come		X					
+d004.s014.t002	è	essere	V					
+d004.s014.t003	stata	essere	V					
+d004.s014.t004	studiata	studiare	V	bn:00082596v	bn:00082596v	bn:00082596v		
+d004.s014.t005	l		X					
+d004.s014.t006	efficacia	efficacia	N	bn:00029876n				
+d004.s014.t007	di		X					
+d004.s014.t008	Cerenia	cerenia	N	bn:00923812n	bn:00923812n	bn:00923812n		
+d004.s014.t009	?		X					
+d004.s015.t001	Sono	essere	V					
+d004.s015.t002	stati	essere	V					
+d004.s015.t003	condotti	condurre	V	bn:00091177v	bn:00082225v	bn:00082225v	Direct or control; projects, businesses, etc.	Put in effect
+d004.s015.t004	numerosi	numeroso	J	bn:00105858a	bn:00009055n			
+d004.s015.t005	studi	studio	N	bn:00049573n	bn:00074790n	bn:00074790n	Any piece of work that is undertaken or attempted	A detailed critical inspection
+d004.s015.t006	con		X					
+d004.s015.t007	Cerenia	cerenia	N	bn:00923812n	bn:00923812n	bn:00923812n		
+d004.s015.t008	,		X					
+d004.s015.t009	sia		X					
+d004.s015.t010	su		X					
+d004.s015.t011	cani	cane	N	bn:00008602n	bn:00015267n	bn:00015267n	Informal terms for dogs	A member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds
+d004.s015.t012	da		X					
+d004.s015.t013	laboratorio	laboratorio	N	bn:00049551n	bn:00049551n	bn:00049551n		
+d004.s015.t014	sia		X					
+d004.s015.t015	su		X					
+d004.s015.t016	animali	animale	N	bn:00004222n				
+d004.s015.t017	in		X					
+d004.s015.t018	cura	cura	N	bn:00047235n	bn:00061017n			
+d004.s015.t019	presso		X					
+d004.s015.t020	studi	studio	N	bn:00049573n				
+d004.s015.t021	veterinari	veterinario	J	bn:00113583a	bn:00113583a	bn:00113583a		
+d004.s015.t022	di		X					
+d004.s015.t023	diversi	diverso	J	bn:00101347a	bn:00110469a	bn:00110469a	Unlike in nature or quality or form or degree	(used with count nouns) of an indefinite number more than 2 or 3 but not many
+d004.s015.t024	paesi	paese	N	bn:00031903n	bn:00011771n	bn:00011771n	Any one of the countries occupying the European continent	(sports) the chief official (as in boxing or American football) who is expected to ensure fair play
+d004.s015.t025	europei	europeo	J	bn:00102440a	bn:00031903n	bn:00031903n	Of or relating to or characteristic of Europe or the people of Europe	Any one of the countries occupying the European continent
+d004.s015.t026	e		X					
+d004.s015.t027	negli		X					
+d004.s015.t028	Stati	stato	N	bn:00003341n				
+d004.s015.t029	Uniti	unito	J	bn:00112908a				
+d004.s015.t030	d		X					
+d004.s015.t031	America	america	N	bn:00003341n	bn:00003341n			
+d004.s015.t032	.		X					
+d004.s016.t001	Quali		X					
+d004.s016.t002	benefici	beneficio	N	bn:00009905n	bn:00009905n	bn:00009905n		
+d004.s016.t003	ha	avere	V	bn:00088078v				
+d004.s016.t004	mostrato	mostrare	V	bn:00086567v	bn:00083245v	bn:00083245v	Establish the validity of something, as by an example, explanation or experiment	Provide evidence for
+d004.s016.t005	Cerenia	cerenia	N	bn:00923812n	bn:00923812n	bn:00923812n		
+d004.s016.t006	nel		X					
+d004.s016.t007	corso	corso	N					
+d004.s016.t008	degli		X					
+d004.s016.t009	studi	studio	N	bn:00049573n	bn:00074790n	bn:00074790n	Any piece of work that is undertaken or attempted	A detailed critical inspection
+d004.s016.t010	?		X					
+d004.s017.t001	Dai		X					
+d004.s017.t002	risultati	risultato	N	bn:00021961n	bn:00021961n	bn:00021961n		
+d004.s017.t003	degli		X					
+d004.s017.t004	studi	studio	N	bn:00049573n	bn:00074790n	bn:00074790n	Any piece of work that is undertaken or attempted	A detailed critical inspection
+d004.s017.t005	è	essere	V					
+d004.s017.t006	emerso	emergere	V	bn:00087562v	bn:00083245v			
+d004.s017.t007	che		X					
+d004.s017.t008	Cerenia	cerenia	N	bn:00923812n	bn:00923812n	bn:00923812n		
+d004.s017.t009	è	essere	V					
+d004.s017.t010	più		X		bn:00116284r			
+d004.s017.t011	efficace	efficace	J	bn:00102038a	bn:00102038a	bn:00102038a		
+d004.s017.t012	del		X					
+d004.s017.t013	placebo	placebo	N	bn:00062717n	bn:00062717n	bn:00062717n		
+d004.s017.t014	:		X					
+d004.s017.t015	nei		X					
+d004.s017.t016	cani	cane	N	bn:00008602n	bn:00015267n	bn:00015267n	Informal terms for dogs	A member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds
+d004.s017.t017	trattati	trattare	V	bn:00092032v	bn:00087863v			
+d004.s017.t018	con		X					
+d004.s017.t019	il		X					
+d004.s017.t020	medicinale	medicinale	N	bn:00054128n	bn:00054128n	bn:00054128n		
+d004.s017.t021	gli		X					
+d004.s017.t022	attacchi	attacco	N	bn:00006999n				
+d004.s017.t023	di		X					
+d004.s017.t024	vomito	vomito	N	bn:00027565n	bn:00027565n	bn:00027565n		
+d004.s017.t025	sono	essere	V					
+d004.s017.t026	stati	essere	V					
+d004.s017.t027	meno		X		bn:00105886a			
+d004.s017.t028	frequenti	frequente	J	bn:00103324a				
+d004.s017.t029	rispetto	rispetto	N	bn:00066865n				
+d004.s017.t030	agli		X					
+d004.s017.t031	animali	animale	N	bn:00004222n				
+d004.s017.t032	trattati	trattare	V	bn:00084532v	bn:00087863v			
+d004.s017.t033	con		X					
+d004.s017.t034	il		X					
+d004.s017.t035	placebo	placebo	N	bn:00062717n	bn:00062717n	bn:00062717n		
+d004.s017.t036	,		X					
+d004.s017.t037	sia		X					
+d004.s017.t038	nel		X					
+d004.s017.t039	trattamento	trattamento	N	bn:00042823n	bn:00047235n	bn:00047235n	The management of someone or something	Care provided to improve a situation (especially medical procedures or applications that are intended to relieve illness or injury)
+d004.s017.t040	che		X					
+d004.s017.t041	nella		X					
+d004.s017.t042	prevenzione	prevenzione	N	bn:00008467n	bn:00008467n	bn:00008467n		
+d004.s017.t043	del		X					
+d004.s017.t044	vomito	vomito	N	bn:00027565n	bn:00027565n	bn:00027565n		
+d004.s017.t045	.		X					
+d004.s018.t001	Il		X					
+d004.s018.t002	trattamento	trattamento	N	bn:00042823n	bn:00047235n	bn:00047235n	The management of someone or something	Care provided to improve a situation (especially medical procedures or applications that are intended to relieve illness or injury)
+d004.s018.t003	di		X					
+d004.s018.t004	un		X					
+d004.s018.t005	cane	cane	N	bn:00008602n	bn:00015267n	bn:00015267n	Informal terms for dogs	A member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds
+d004.s018.t006	con		X					
+d004.s018.t007	vomito	vomito	N	bn:00027565n				
+d004.s018.t008	deve	dovere	V					
+d004.s018.t009	iniziare	iniziare	V	bn:00083340v	bn:00083347v	bn:00083347v	Take the first step or steps in carrying out an action	Begin an event that is implied and limited by the nature or inherent function of the direct object
+d004.s018.t010	con		X					
+d004.s018.t011	l	l	X					
+d004.s018.t012	iniezione	iniezione	N	bn:00046787n				
+d004.s018.t013	,		X					
+d004.s018.t014	perché		X					
+d004.s018.t015	gli		X					
+d004.s018.t016	animali	animale	N	bn:00004222n	bn:00004222n	bn:00004222n		
+d004.s018.t017	con		X					
+d004.s018.t018	attacchi	attacco	N	bn:00006999n				
+d004.s018.t019	di		X					
+d004.s018.t020	vomito	vomito	N	bn:00027565n				
+d004.s018.t021	possono	potere	V					
+d004.s018.t022	non		X		bn:00116360r			
+d004.s018.t023	essere	essere	V					
+d004.s018.t024	in		X					
+d004.s018.t025	grado	grado	N		bn:00096151a	bn:00096151a		
+d004.s018.t026	di		X					
+d004.s018.t027	trattenere	trattenere	V	bn:00089400v				
+d004.s018.t028	la		X					
+d004.s018.t029	compressa	compressa	N	bn:00052222n	bn:00052222n	bn:00052222n		
+d004.s018.t030	nell		X					
+d004.s018.t031	organismo	organismo	N	bn:00009677n	bn:00102278a			
+d004.s018.t032	(		X					
+d004.s018.t033	che		X					
+d004.s018.t034	può	potere	V					
+d004.s018.t035	essere	essere	V					
+d004.s018.t036	vomitata	vomitare	V	bn:00083115v				
+d004.s018.t037	intatta	intatto	J					
+d004.s018.t038	)		X					
+d004.s018.t039	.		X					
+d004.s019.t001	Per		X					
+d004.s019.t002	il		X					
+d004.s019.t003	trattamento	trattamento	N	bn:00042823n	bn:00047235n	bn:00047235n	The management of someone or something	Care provided to improve a situation (especially medical procedures or applications that are intended to relieve illness or injury)
+d004.s019.t004	di		X					
+d004.s019.t005	follow-up	follow-up	N	bn:08981187n	bn:00035627n	bn:00035627n	Il termine inglese follow-up indica una fase di controllo continuo o periodico e programmato ; è utilizzato in particolare in campo sanitario, dove può essere tradotto con catamnesi.	An activity that continues something that has already begun or that repeats something that has already been done
+d004.s019.t006	,		X					
+d004.s019.t007	le		X					
+d004.s019.t008	compresse	compressa	N	bn:00052222n	bn:00052222n	bn:00052222n		
+d004.s019.t009	possono	potere	V					
+d004.s019.t010	essere	essere	V					
+d004.s019.t011	somministrate	somministrare	V	bn:00082365v	bn:00082365v	bn:00082365v		
+d004.s019.t012	dal		X					
+d004.s019.t013	padrone	padrone	N	bn:00059954n	bn:00059954n	bn:00059954n		
+d004.s019.t014	del		X					
+d004.s019.t015	cane	cane	N	bn:00008602n	bn:00015267n	bn:00015267n	Informal terms for dogs	A member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds
+d004.s019.t016	.		X					
+d004.s020.t001	Inoltre		X		bn:00114246r			
+d004.s020.t002	,		X					
+d004.s020.t003	la		X					
+d004.s020.t004	cura	cura	N	bn:00047235n	bn:00047235n	bn:00047235n		
+d004.s020.t005	del		X					
+d004.s020.t006	vomito	vomito	N	bn:00027565n	bn:00027565n	bn:00027565n		
+d004.s020.t007	deve	dovere	V					
+d004.s020.t008	essere	essere	V					
+d004.s020.t009	associata	associare	V	bn:00082868v	bn:00114766r			
+d004.s020.t010	ad		X					
+d004.s020.t011	altre		X		bn:00108011a			
+d004.s020.t012	misure	misura	N	bn:00054018n	bn:00054018n	bn:00054018n		
+d004.s020.t013	di		X					
+d004.s020.t014	supporto	supporto	N	bn:00075331n				
+d004.s020.t015	o		X					
+d004.s020.t016	ad		X					
+d004.s020.t017	altre		X		bn:00108011a			
+d004.s020.t018	terapie	terapia	N	bn:00047235n	bn:00076843n	bn:00076843n	Care provided to improve a situation (especially medical procedures or applications that are intended to relieve illness or injury)	(medicine) the act of caring for someone (as by medication or remedial training etc.)
+d004.s020.t019	veterinarie	veterinario	J	bn:00113583a	bn:00113583a	bn:00113583a		
+d004.s020.t020	che		X					
+d004.s020.t021	intervengano	intervenire	V	bn:00089817v				
+d004.s020.t022	sulle		X					
+d004.s020.t023	cause	causa	N	bn:00016850n	bn:00016850n	bn:00016850n		
+d004.s020.t024	del		X					
+d004.s020.t025	vomito	vomito	N	bn:00027565n	bn:00027565n	bn:00027565n		
+d004.s020.t026	.		X					
+d004.s021.t001	Quali		X					
+d004.s021.t002	sono	essere	V					
+d004.s021.t003	i		X					
+d004.s021.t004	rischi	rischio	N	bn:00030747n	bn:00030747n	bn:00030747n		
+d004.s021.t005	associati	associare	V	bn:00082868v	bn:00082868v	bn:00082868v		
+d004.s021.t006	a		X					
+d004.s021.t007	Cerenia	cerenia	N	bn:00923812n	bn:00923812n	bn:00923812n		
+d004.s021.t008	?		X					
+d004.s022.t001	Cerenia	cerenia	N	bn:00923812n	bn:00923812n	bn:00923812n		
+d004.s022.t002	è	essere	V					
+d004.s022.t003	generalmente	generalmente	R	bn:00114778r	bn:00114634r	bn:00114634r	Under normal conditions	Usually; as a rule
+d004.s022.t004	ben	bene	R	bn:00115530r	bn:00115530r	bn:00115530r		
+d004.s022.t005	tollerato	tollerare	V	bn:00082138v	bn:00095008v	bn:00095008v	Put up with something or somebody unpleasant	Have a tolerance for a poison or strong drug or pathogen or environmental condition
+d004.s022.t006	se		X					
+d004.s022.t007	somministrato	somministrare	V	bn:00082365v	bn:00082365v	bn:00082365v		
+d004.s022.t008	giornalmente	giornalmente	R	bn:00114917r	bn:00114917r	bn:00114917r		
+d004.s022.t009	con		X					
+d004.s022.t010	dosi	dose	N	bn:00028320n	bn:00028320n	bn:00028320n		
+d004.s022.t011	fino		X					
+d004.s022.t012	a		X					
+d004.s022.t013	5		X					
+d004.s022.t014	volte	volta	N	bn:00019848n	bn:00019848n	bn:00019848n		
+d004.s022.t015	la		X					
+d004.s022.t016	dose	dose	N	bn:00028320n	bn:00028320n	bn:00028320n		
+d004.s022.t017	raccomandata	raccomandare	V	bn:00082418v	bn:00082418v	bn:00082418v		
+d004.s022.t018	per		X					
+d004.s022.t019	un		X					
+d004.s022.t020	lungo	lungo	J	bn:00051929n	bn:00101795a	bn:00101795a	A period of time sufficient for factors to work themselves out	Relatively long in duration; tediously protracted
+d004.s022.t021	periodo	periodo	N	bn:00061605n	bn:00061605n	bn:00061605n		
+d004.s022.t022	di		X					
+d004.s022.t023	tempo	tempo	N	bn:00077268n	bn:00077267n	bn:00077267n	An indefinite period (usually marked by specific attributes or activities)	A period of time considered as a resource under your control and sufficient to accomplish something
+d004.s022.t024	(		X					
+d004.s022.t025	fino		X					
+d004.s022.t026	a		X					
+d004.s022.t027	3		X					
+d004.s022.t028	volte	volta	N	bn:00019848n	bn:00019848n	bn:00019848n		
+d004.s022.t029	la		X					
+d004.s022.t030	durata	durata	N	bn:00022191n	bn:00022191n	bn:00022191n		
+d004.s022.t031	di		X					
+d004.s022.t032	trattamento	trattamento	N	bn:00042823n	bn:00047235n	bn:00047235n	The management of someone or something	Care provided to improve a situation (especially medical procedures or applications that are intended to relieve illness or injury)
+d004.s022.t033	raccomandata	raccomandato	J					
+d004.s022.t034	)		X					
+d004.s022.t035	.		X					
+d004.s023.t001	Quali		X					
+d004.s023.t002	sono	essere	V					
+d004.s023.t003	le		X					
+d004.s023.t004	precauzioni	precauzione	N	bn:00016012n	bn:00042049n	bn:00042049n	Judiciousness in avoiding harm or danger	A precautionary measure warding off impending danger or damage or injury etc.
+d004.s023.t005	che		X					
+d004.s023.t006	deve	dovere	V					
+d004.s023.t007	prendere	prendere	V	bn:00082206v				
+d004.s023.t008	la		X					
+d004.s023.t009	persona	persona	N	bn:00046516n	bn:00046516n	bn:00046516n		
+d004.s023.t010	che		X					
+d004.s023.t011	somministra	somministrare	V	bn:00082365v	bn:00088826v	bn:00088826v	Give or apply (medications)	Give (as medicine)
+d004.s023.t012	il		X					
+d004.s023.t013	medicinale	medicinale	N	bn:00054128n	bn:00054128n	bn:00054128n		
+d004.s023.t014	o		X					
+d004.s023.t015	entra	entrare	V	bn:00085363v	bn:00085319v			
+d004.s023.t016	in		X					
+d004.s023.t017	contatto	contatto	N	bn:00022113n	bn:00022113n	bn:00022113n		
+d004.s023.t018	con		X					
+d004.s023.t019	l		X					
+d004.s023.t020	animale	animale	N	bn:00004222n	bn:00004222n	bn:00004222n		
+d004.s023.t021	?		X					
+d004.s024.t001	Cerenia	cerenia	N	bn:00923812n	bn:00923812n	bn:00923812n		
+d004.s024.t002	non		X		bn:00116360r			
+d004.s024.t003	presenta	presentare	V	bn:00091868v	bn:00083187v	bn:00083187v	Introduce	Form or compose
+d004.s024.t004	particolari	particolare	J	bn:00102398a	bn:00102398a	bn:00102398a		
+d004.s024.t005	rischi	rischio	N	bn:00030747n	bn:00030747n	bn:00030747n		
+d004.s024.t006	per		X					
+d004.s024.t007	l	l	X					
+d004.s024.t008	uomo	uomo	N	bn:00044576n	bn:00044382n	bn:00044382n	Any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage	The common people generally
+d004.s024.t009	.		X					

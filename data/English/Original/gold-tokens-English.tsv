@@ -1,0 +1,2526 @@
+Token ID	Token	Lemma	POS
+d001.s001.t001	This		X
+d001.s001.t002	document	document	N
+d001.s001.t003	is	be	V
+d001.s001.t004	a		X
+d001.s001.t005	summary	summary	N
+d001.s001.t006	of		X
+d001.s001.t007	the		X
+d001.s001.t008	European	european	J
+d001.s001.t009	Public	public	J
+d001.s001.t010	Assessment	assessment	N
+d001.s001.t011	Report	report	N
+d001.s001.t012	(		X
+d001.s001.t013	EPAR	epar	N
+d001.s001.t014	)		X
+d001.s001.t015	.		X
+d001.s002.t001	It		X
+d001.s002.t002	explains	explain	V
+d001.s002.t003	how		X
+d001.s002.t004	the		X
+d001.s002.t005	Committee	committee	N
+d001.s002.t006	for		X
+d001.s002.t007	Medicinal	medicinal	J
+d001.s002.t008	Products	product	N
+d001.s002.t009	for		X
+d001.s002.t010	Human	human	J
+d001.s002.t011	Use	use	N
+d001.s002.t012	(		X
+d001.s002.t013	CHMP	chmp	N
+d001.s002.t014	)		X
+d001.s002.t015	assessed	assess	V
+d001.s002.t016	the		X
+d001.s002.t017	studies	study	N
+d001.s002.t018	performed	perform	V
+d001.s002.t019	,		X
+d001.s002.t020	to		X
+d001.s002.t021	reach	reach	V
+d001.s002.t022	their		X
+d001.s002.t023	recommendations	recommendation	N
+d001.s002.t024	on		X
+d001.s002.t025	how		X
+d001.s002.t026	to		X
+d001.s002.t027	use	use	V
+d001.s002.t028	the		X
+d001.s002.t029	medicine	medicine	N
+d001.s002.t030	.		X
+d001.s003.t001	If		X
+d001.s003.t002	you		X
+d001.s003.t003	need	need	V
+d001.s003.t004	more	more	J
+d001.s003.t005	information	information	N
+d001.s003.t006	about		X
+d001.s003.t007	your		X
+d001.s003.t008	medical	medical	J
+d001.s003.t009	condition	condition	N
+d001.s003.t010	or		X
+d001.s003.t011	your		X
+d001.s003.t012	treatment	treatment	N
+d001.s003.t013	,		X
+d001.s003.t014	read	read	V
+d001.s003.t015	the		X
+d001.s003.t016	Package	package	N
+d001.s003.t017	Leaflet	leaflet	N
+d001.s003.t018	(		X
+d001.s003.t019	also	also	R
+d001.s003.t020	part	part	N
+d001.s003.t021	of		X
+d001.s003.t022	the		X
+d001.s003.t023	EPAR	epar	N
+d001.s003.t024	)		X
+d001.s003.t025	or		X
+d001.s003.t026	contact	contact	V
+d001.s003.t027	your		X
+d001.s003.t028	doctor	doctor	N
+d001.s003.t029	or		X
+d001.s003.t030	pharmacist	pharmacist	N
+d001.s003.t031	.		X
+d001.s004.t001	If		X
+d001.s004.t002	you		X
+d001.s004.t003	want	want	V
+d001.s004.t004	more	more	J
+d001.s004.t005	information	information	N
+d001.s004.t006	on		X
+d001.s004.t007	the		X
+d001.s004.t008	basis	basis	N
+d001.s004.t009	of		X
+d001.s004.t010	the		X
+d001.s004.t011	CHMP	chmp	N
+d001.s004.t012	recommendations	recommendation	N
+d001.s004.t013	,		X
+d001.s004.t014	read	read	V
+d001.s004.t015	the		X
+d001.s004.t016	Scientific	scientific	J
+d001.s004.t017	Discussion	discussion	N
+d001.s004.t018	(		X
+d001.s004.t019	also	also	R
+d001.s004.t020	part	part	N
+d001.s004.t021	of		X
+d001.s004.t022	the		X
+d001.s004.t023	EPAR	epar	N
+d001.s004.t024	)		X
+d001.s004.t025	.		X
+d001.s005.t001	What		X
+d001.s005.t002	is	be	V
+d001.s005.t003	Alimta	alimta	N
+d001.s005.t004	?		X
+d001.s006.t001	Alimta	alimta	N
+d001.s006.t002	is	be	V
+d001.s006.t003	a		X
+d001.s006.t004	powder	powder	N
+d001.s006.t005	that		X
+d001.s006.t006	is	be	V
+d001.s006.t007	made up	make up	V
+d001.s006.t008	into		X
+d001.s006.t009	a		X
+d001.s006.t010	solution	solution	N
+d001.s006.t011	for		X
+d001.s006.t012	infusion	infusion	N
+d001.s006.t013	(		X
+d001.s006.t014	drip	drip	V
+d001.s006.t015	into		X
+d001.s006.t016	a		X
+d001.s006.t017	vein	vein	N
+d001.s006.t018	)		X
+d001.s006.t019	.		X
+d001.s007.t001	It		X
+d001.s007.t002	contains	contain	V
+d001.s007.t003	the		X
+d001.s007.t004	active	active	J
+d001.s007.t005	substance	substance	N
+d001.s007.t006	pemetrexed	pemetrexed	N
+d001.s007.t007	.		X
+d001.s008.t001	What		X
+d001.s008.t002	is	be	V
+d001.s008.t003	Alimta	alimta	N
+d001.s008.t004	used	use	V
+d001.s008.t005	for		X
+d001.s008.t006	?		X
+d001.s009.t001	Alimta	alimta	N
+d001.s009.t002	is	be	V
+d001.s009.t003	used	use	V
+d001.s009.t004	to		X
+d001.s009.t005	treat	treat	V
+d001.s009.t006	two		X
+d001.s009.t007	types	type	N
+d001.s009.t008	of		X
+d001.s009.t009	cancer	cancer	N
+d001.s009.t010	:		X
+d001.s009.t011	pleural	pleural	J
+d001.s009.t012	mesothelioma	mesothelioma	N
+d001.s009.t013	(		X
+d001.s009.t014	cancer	cancer	N
+d001.s009.t015	of		X
+d001.s009.t016	the		X
+d001.s009.t017	lining	lining	N
+d001.s009.t018	of		X
+d001.s009.t019	the		X
+d001.s009.t020	lungs	lung	N
+d001.s009.t021	that		X
+d001.s009.t022	is	be	V
+d001.s009.t023	usually	usually	R
+d001.s009.t024	caused	cause	V
+d001.s009.t025	by		X
+d001.s009.t026	exposure	exposure	N
+d001.s009.t027	to		X
+d001.s009.t028	asbestos	asbestos	N
+d001.s009.t029	)		X
+d001.s009.t030	.		X
+d001.s010.t001	Alimta	alimta	N
+d001.s010.t002	is	be	V
+d001.s010.t003	used	use	V
+d001.s010.t004	together	together	R
+d001.s010.t005	with		X
+d001.s010.t006	cisplatin	cisplatin	N
+d001.s010.t007	(		X
+d001.s010.t008	another		X
+d001.s010.t009	anticancer	anticancer	J
+d001.s010.t010	medicine	medicine	N
+d001.s010.t011	)		X
+d001.s010.t012	when		X
+d001.s010.t013	the		X
+d001.s010.t014	cancer	cancer	N
+d001.s010.t015	is	be	V
+d001.s010.t016	unresectable	unresectable	J
+d001.s010.t017	(		X
+d001.s010.t018	cannot		X
+d001.s010.t019	be	be	V
+d001.s010.t020	removed	remove	V
+d001.s010.t021	by		X
+d001.s010.t022	surgery	surgery	N
+d001.s010.t023	alone	alone	J
+d001.s010.t024	)		X
+d001.s010.t025	and		X
+d001.s010.t026	malignant	malignant	J
+d001.s010.t027	(		X
+d001.s010.t028	has	have	V
+d001.s010.t029	spread	spread	V
+d001.s010.t030	,		X
+d001.s010.t031	or		X
+d001.s010.t032	is	be	V
+d001.s010.t033	likely	likely	J
+d001.s010.t034	to		X
+d001.s010.t035	spread	spread	V
+d001.s010.t036	easily	easily	R
+d001.s010.t037	,		X
+d001.s010.t038	to		X
+d001.s010.t039	other	other	J
+d001.s010.t040	parts	part	N
+d001.s010.t041	of		X
+d001.s010.t042	the		X
+d001.s010.t043	body	body	N
+d001.s010.t044	)		X
+d001.s010.t045	,		X
+d001.s010.t046	in		X
+d001.s010.t047	patients	patient	N
+d001.s010.t048	who		X
+d001.s010.t049	have	have	V
+d001.s010.t050	not	not	R
+d001.s010.t051	received	receive	V
+d001.s010.t052	chemotherapy	chemotherapy	N
+d001.s010.t053	(		X
+d001.s010.t054	medicines	medicine	N
+d001.s010.t055	for		X
+d001.s010.t056	cancer	cancer	N
+d001.s010.t057	)		X
+d001.s010.t058	before		X
+d001.s010.t059	advanced	advanced	J
+d001.s010.t060	or		X
+d001.s010.t061	metastatic	metastatic	J
+d001.s010.t062	non-small	non-small	J
+d001.s010.t063	cell	cell	N
+d001.s010.t064	lung	lung	N
+d001.s010.t065	cancer	cancer	N
+d001.s010.t066	that		X
+d001.s010.t067	is	be	V
+d001.s010.t068	not	not	R
+d001.s010.t069	affecting	affect	V
+d001.s010.t070	the		X
+d001.s010.t071	squamous	squamous	J
+d001.s010.t072	cells	cell	N
+d001.s010.t073	.		X
+d001.s011.t001	Alimta	alimta	N
+d001.s011.t002	is	be	V
+d001.s011.t003	used	use	V
+d001.s011.t004	in		X
+d001.s011.t005	combination	combination	N
+d001.s011.t006	with		X
+d001.s011.t007	cisplatin	cisplatin	N
+d001.s011.t008	in		X
+d001.s011.t009	patients	patient	N
+d001.s011.t010	who		X
+d001.s011.t011	have	have	V
+d001.s011.t012	not	not	R
+d001.s011.t013	been	be	V
+d001.s011.t014	treated	treat	V
+d001.s011.t015	before		X
+d001.s011.t016	,		X
+d001.s011.t017	and		X
+d001.s011.t018	on		X
+d001.s011.t019	its		X
+d001.s011.t020	own	own	J
+d001.s011.t021	in		X
+d001.s011.t022	patients	patient	N
+d001.s011.t023	who		X
+d001.s011.t024	have	have	V
+d001.s011.t025	received	receive	V
+d001.s011.t026	another		X
+d001.s011.t027	type	type	N
+d001.s011.t028	of		X
+d001.s011.t029	chemotherapy	chemotherapy	N
+d001.s011.t030	in		X
+d001.s011.t031	the		X
+d001.s011.t032	past	past	N
+d001.s011.t033	.		X
+d001.s012.t001	The		X
+d001.s012.t002	medicine	medicine	N
+d001.s012.t003	can		X
+d001.s012.t004	only	only	R
+d001.s012.t005	be	be	V
+d001.s012.t006	obtained	obtain	V
+d001.s012.t007	with		X
+d001.s012.t008	a		X
+d001.s012.t009	prescription	prescription	N
+d001.s012.t010	.		X
+d001.s013.t001	How		X
+d001.s013.t002	is	be	V
+d001.s013.t003	Alimta	alimta	N
+d001.s013.t004	used	use	V
+d001.s013.t005	?		X
+d001.s014.t001	Alimta	alimta	N
+d001.s014.t002	should		X
+d001.s014.t003	only	only	R
+d001.s014.t004	be	be	V
+d001.s014.t005	given	give	V
+d001.s014.t006	under		X
+d001.s014.t007	the		X
+d001.s014.t008	supervision	supervision	N
+d001.s014.t009	of		X
+d001.s014.t010	a		X
+d001.s014.t011	doctor	doctor	N
+d001.s014.t012	who		X
+d001.s014.t013	is	be	V
+d001.s014.t014	qualified	qualify	V
+d001.s014.t015	in		X
+d001.s014.t016	the		X
+d001.s014.t017	use	use	N
+d001.s014.t018	of		X
+d001.s014.t019	anticancer	anticancer	J
+d001.s014.t020	chemotherapy	chemotherapy	N
+d001.s014.t021	.		X
+d001.s015.t001	The		X
+d001.s015.t002	recommended	recommended	J
+d001.s015.t003	dose	dose	N
+d001.s015.t004	of		X
+d001.s015.t005	Alimta	alimta	N
+d001.s015.t006	is	be	V
+d001.s015.t007	500		X
+d001.s015.t008	mg	mg	N
+d001.s015.t009	per		X
+d001.s015.t010	square	square	J
+d001.s015.t011	metre	metre	N
+d001.s015.t012	of		X
+d001.s015.t013	body	body	N
+d001.s015.t014	surface	surface	N
+d001.s015.t015	area	area	N
+d001.s015.t016	(		X
+d001.s015.t017	calculated	calculate	V
+d001.s015.t018	using	use	V
+d001.s015.t019	the		X
+d001.s015.t020	patient	patient	N
+d001.s015.t021	s		X
+d001.s015.t022	height	height	N
+d001.s015.t023	and		X
+d001.s015.t024	weight	weight	N
+d001.s015.t025	)		X
+d001.s015.t026	.		X
+d001.s016.t001	To		X
+d001.s016.t002	reduce	reduce	V
+d001.s016.t003	side	side	J
+d001.s016.t004	effects	effect	N
+d001.s016.t005	,		X
+d001.s016.t006	patients	patient	N
+d001.s016.t007	should		X
+d001.s016.t008	take	take	V
+d001.s016.t009	a		X
+d001.s016.t010	corticosteroid	corticosteroid	N
+d001.s016.t011	and		X
+d001.s016.t012	folic	folic	J
+d001.s016.t013	acid	acid	N
+d001.s016.t014	(		X
+d001.s016.t015	a		X
+d001.s016.t016	type	type	N
+d001.s016.t017	of		X
+d001.s016.t018	vitamin	vitamin	N
+d001.s016.t019	)		X
+d001.s016.t020	,		X
+d001.s016.t021	and		X
+d001.s016.t022	receive	receive	V
+d001.s016.t023	injections	injection	N
+d001.s016.t024	of		X
+d001.s016.t025	vitamin	vitamin	N
+d001.s016.t026	B12	b12	N
+d001.s016.t027	during		X
+d001.s016.t028	treatment	treatment	N
+d001.s016.t029	with		X
+d001.s016.t030	Alimta	alimta	N
+d001.s016.t031	.		X
+d001.s017.t001	When		X
+d001.s017.t002	Alimta	alimta	N
+d001.s017.t003	is	be	V
+d001.s017.t004	given	give	V
+d001.s017.t005	with		X
+d001.s017.t006	cisplatin	cisplatin	N
+d001.s017.t007	,		X
+d001.s017.t008	an		X
+d001.s017.t009	anti-emetic	anti-emetic	J
+d001.s017.t010	medicine	medicine	N
+d001.s017.t011	(		X
+d001.s017.t012	to		X
+d001.s017.t013	prevent	prevent	V
+d001.s017.t014	vomiting	vomit	V
+d001.s017.t015	)		X
+d001.s017.t016	and		X
+d001.s017.t017	fluids	fluid	N
+d001.s017.t018	(		X
+d001.s017.t019	to		X
+d001.s017.t020	prevent	prevent	V
+d001.s017.t021	dehydration	dehydration	N
+d001.s017.t022	)		X
+d001.s017.t023	should		X
+d001.s017.t024	also	also	R
+d001.s017.t025	be	be	V
+d001.s017.t026	given	give	V
+d001.s017.t027	before	before	R
+d001.s017.t028	or		X
+d001.s017.t029	after	after	R
+d001.s017.t030	the		X
+d001.s017.t031	cisplatin	cisplatin	N
+d001.s017.t032	dose	dose	N
+d001.s017.t033	.		X
+d001.s018.t001	Treatment	treatment	N
+d001.s018.t002	should		X
+d001.s018.t003	be	be	V
+d001.s018.t004	delayed	delay	V
+d001.s018.t005	or		X
+d001.s018.t006	discontinued	discontinue	V
+d001.s018.t007	,		X
+d001.s018.t008	or		X
+d001.s018.t009	the		X
+d001.s018.t010	dose	dose	N
+d001.s018.t011	reduced	reduce	V
+d001.s018.t012	,		X
+d001.s018.t013	in		X
+d001.s018.t014	patients	patient	N
+d001.s018.t015	whose		X
+d001.s018.t016	blood	blood	N
+d001.s018.t017	counts	count	N
+d001.s018.t018	are	be	V
+d001.s018.t019	abnormal	abnormal	J
+d001.s018.t020	or		X
+d001.s018.t021	who		X
+d001.s018.t022	have	have	V
+d001.s018.t023	certain	certain	J
+d001.s018.t024	other	other	J
+d001.s018.t025	side	side	J
+d001.s018.t026	effects	effect	N
+d001.s018.t027	.		X
+d001.s019.t001	Alimta	alimta	N
+d001.s019.t002	is	be	V
+d001.s019.t003	not	not	R
+d001.s019.t004	recommended	recommend	V
+d001.s019.t005	for		X
+d001.s019.t006	use	use	N
+d001.s019.t007	in		X
+d001.s019.t008	patients	patient	N
+d001.s019.t009	with		X
+d001.s019.t010	moderate	moderate	J
+d001.s019.t011	or		X
+d001.s019.t012	severe	severe	J
+d001.s019.t013	kidney	kidney	N
+d001.s019.t014	problems	problem	N
+d001.s019.t015	.		X
+d001.s020.t001	For		X
+d001.s020.t002	more	more	J
+d001.s020.t003	information	information	N
+d001.s020.t004	,		X
+d001.s020.t005	see	see	V
+d001.s020.t006	the		X
+d001.s020.t007	Summary	summary	N
+d001.s020.t008	of		X
+d001.s020.t009	Product	product	N
+d001.s020.t010	Characteristics	characteristics	N
+d001.s020.t011	(		X
+d001.s020.t012	also	also	R
+d001.s020.t013	part	part	N
+d001.s020.t014	of		X
+d001.s020.t015	the		X
+d001.s020.t016	EPAR	epar	N
+d001.s020.t017	)		X
+d001.s020.t018	.		X
+d001.s021.t001	How		X
+d001.s021.t002	does	do	V
+d001.s021.t003	Alimta	alimta	N
+d001.s021.t004	work	work	N
+d001.s021.t005	?		X
+d001.s022.t001	The		X
+d001.s022.t002	active	active	J
+d001.s022.t003	substance	substance	N
+d001.s022.t004	in		X
+d001.s022.t005	Alimta	alimta	N
+d001.s022.t006	,		X
+d001.s022.t007	pemetrexed	pemetrexed	N
+d001.s022.t008	,		X
+d001.s022.t009	is	be	V
+d001.s022.t010	a		X
+d001.s022.t011	cytotoxic	cytotoxic	J
+d001.s022.t012	medicine	medicine	N
+d001.s022.t013	(		X
+d001.s022.t014	a		X
+d001.s022.t015	medicine	medicine	N
+d001.s022.t016	that		X
+d001.s022.t017	kills	kill	V
+d001.s022.t018	cells	cell	N
+d001.s022.t019	that		X
+d001.s022.t020	are	be	V
+d001.s022.t021	dividing	divide	V
+d001.s022.t022	,		X
+d001.s022.t023	such as	such as	R
+d001.s022.t024	cancer	cancer	N
+d001.s022.t025	cells	cell	N
+d001.s022.t026	)		X
+d001.s022.t027	,		X
+d001.s022.t028	which		X
+d001.s022.t029	belongs	belong	V
+d001.s022.t030	to		X
+d001.s022.t031	the		X
+d001.s022.t032	group	group	N
+d001.s022.t033	antimetabolites	antimetabolites	N
+d001.s022.t034	.		X
+d001.s023.t001	In		X
+d001.s023.t002	the		X
+d001.s023.t003	body	body	N
+d001.s023.t004	,		X
+d001.s023.t005	pemetrexed	pemetrexed	N
+d001.s023.t006	is	be	V
+d001.s023.t007	converted	convert	V
+d001.s023.t008	into		X
+d001.s023.t009	an		X
+d001.s023.t010	active	active	J
+d001.s023.t011	form	form	N
+d001.s023.t012	that		X
+d001.s023.t013	blocks	block	V
+d001.s023.t014	the		X
+d001.s023.t015	activity	activity	N
+d001.s023.t016	of		X
+d001.s023.t017	the		X
+d001.s023.t018	enzymes	enzyme	N
+d001.s023.t019	that		X
+d001.s023.t020	are	be	V
+d001.s023.t021	involved	involve	V
+d001.s023.t022	in		X
+d001.s023.t023	producing	produce	V
+d001.s023.t024	nucleotides	nucleotide	N
+d001.s023.t025	(		X
+d001.s023.t026	the		X
+d001.s023.t027	building blocks	building block	N
+d001.s023.t028	of		X
+d001.s023.t029	DNA	dna	N
+d001.s023.t030	and		X
+d001.s023.t031	RNA	rna	N
+d001.s023.t032	,		X
+d001.s023.t033	the		X
+d001.s023.t034	genetic	genetic	J
+d001.s023.t035	material	material	N
+d001.s023.t036	of		X
+d001.s023.t037	cells	cell	N
+d001.s023.t038	)		X
+d001.s023.t039	.		X
+d001.s024.t001	How		X
+d001.s024.t002	has	have	V
+d001.s024.t003	Alimta	alimta	N
+d001.s024.t004	been	be	V
+d001.s024.t005	studied	study	V
+d001.s024.t006	?		X
+d001.s025.t001	For		X
+d001.s025.t002	the		X
+d001.s025.t003	treatment	treatment	N
+d001.s025.t004	of		X
+d001.s025.t005	malignant	malignant	J
+d001.s025.t006	pleural	pleural	J
+d001.s025.t007	mesothelioma	mesothelioma	N
+d001.s025.t008	,		X
+d001.s025.t009	Alimta	alimta	N
+d001.s025.t010	has	have	V
+d001.s025.t011	been	be	V
+d001.s025.t012	studied	study	V
+d001.s025.t013	in		X
+d001.s025.t014	one		X
+d001.s025.t015	main	main	J
+d001.s025.t016	study	study	N
+d001.s025.t017	in		X
+d001.s025.t018	456		X
+d001.s025.t019	patients	patient	N
+d001.s025.t020	who		X
+d001.s025.t021	had	have	V
+d001.s025.t022	not	not	R
+d001.s025.t023	received	receive	V
+d001.s025.t024	chemotherapy	chemotherapy	N
+d001.s025.t025	for		X
+d001.s025.t026	their		X
+d001.s025.t027	disease	disease	N
+d001.s025.t028	before	before	R
+d001.s025.t029	.		X
+d001.s026.t001	The		X
+d001.s026.t002	effects	effect	N
+d001.s026.t003	of		X
+d001.s026.t004	Alimta	alimta	N
+d001.s026.t005	in		X
+d001.s026.t006	combination	combination	N
+d001.s026.t007	with		X
+d001.s026.t008	cisplatin	cisplatin	N
+d001.s026.t009	were	be	V
+d001.s026.t010	compared	compare	V
+d001.s026.t011	with		X
+d001.s026.t012	those		X
+d001.s026.t013	of		X
+d001.s026.t014	cisplatin	cisplatin	N
+d001.s026.t015	alone	alone	R
+d001.s026.t016	.		X
+d001.s027.t001	For		X
+d001.s027.t002	the		X
+d001.s027.t003	treatment	treatment	N
+d001.s027.t004	of		X
+d001.s027.t005	non-small	non-small	J
+d001.s027.t006	cell	cell	N
+d001.s027.t007	lung	lung	N
+d001.s027.t008	cancer	cancer	N
+d001.s027.t009	,		X
+d001.s027.t010	the		X
+d001.s027.t011	effects	effect	N
+d001.s027.t012	of		X
+d001.s027.t013	Alimta	alimta	N
+d001.s027.t014	were	be	V
+d001.s027.t015	compared	compare	V
+d001.s027.t016	with		X
+d001.s027.t017	those		X
+d001.s027.t018	of		X
+d001.s027.t019	docetaxel	docetaxel	N
+d001.s027.t020	(		X
+d001.s027.t021	another		X
+d001.s027.t022	anticancer	anticancer	J
+d001.s027.t023	medicine	medicine	N
+d001.s027.t024	)		X
+d001.s027.t025	in		X
+d001.s027.t026	one		X
+d001.s027.t027	study	study	N
+d001.s027.t028	involving	involve	V
+d001.s027.t029	571		X
+d001.s027.t030	patients	patient	N
+d001.s027.t031	with		X
+d001.s027.t032	locally	locally	R
+d001.s027.t033	advanced	advanced	J
+d001.s027.t034	or		X
+d001.s027.t035	metastatic	metastatic	J
+d001.s027.t036	disease	disease	N
+d001.s027.t037	who		X
+d001.s027.t038	had	have	V
+d001.s027.t039	received	receive	V
+d001.s027.t040	chemotherapy	chemotherapy	N
+d001.s027.t041	in		X
+d001.s027.t042	the		X
+d001.s027.t043	past	past	N
+d001.s027.t044	.		X
+d001.s028.t001	Alimta	alimta	N
+d001.s028.t002	was	be	V
+d001.s028.t003	also	also	R
+d001.s028.t004	compared	compare	V
+d001.s028.t005	with		X
+d001.s028.t006	gemcitabine	gemcitabine	N
+d001.s028.t007	(		X
+d001.s028.t008	another		X
+d001.s028.t009	anticancer	anticancer	J
+d001.s028.t010	medicine	medicine	N
+d001.s028.t011	)		X
+d001.s028.t012	,		X
+d001.s028.t013	both		X
+d001.s028.t014	in		X
+d001.s028.t015	combination	combination	N
+d001.s028.t016	with		X
+d001.s028.t017	cisplatin	cisplatin	N
+d001.s028.t018	,		X
+d001.s028.t019	in		X
+d001.s028.t020	a		X
+d001.s028.t021	study	study	N
+d001.s028.t022	involving	involve	V
+d001.s028.t023	1,725		X
+d001.s028.t024	patients	patient	N
+d001.s028.t025	who		X
+d001.s028.t026	had	have	V
+d001.s028.t027	not	not	R
+d001.s028.t028	received	receive	V
+d001.s028.t029	chemotherapy	chemotherapy	N
+d001.s028.t030	for		X
+d001.s028.t031	lung	lung	N
+d001.s028.t032	cancer	cancer	N
+d001.s028.t033	in		X
+d001.s028.t034	the		X
+d001.s028.t035	past	past	N
+d001.s028.t036	.		X
+d001.s029.t001	In		X
+d001.s029.t002	all		X
+d001.s029.t003	three		X
+d001.s029.t004	studies	study	N
+d001.s029.t005	,		X
+d001.s029.t006	the		X
+d001.s029.t007	main	main	J
+d001.s029.t008	measure	measure	N
+d001.s029.t009	of		X
+d001.s029.t010	effectiveness	effectiveness	N
+d001.s029.t011	was	be	V
+d001.s029.t012	how		X
+d001.s029.t013	long	long	R
+d001.s029.t014	the		X
+d001.s029.t015	patients	patient	N
+d001.s029.t016	survived	survive	V
+d001.s029.t017	.		X
+d001.s030.t001	What		X
+d001.s030.t002	benefit	benefit	N
+d001.s030.t003	has	have	V
+d001.s030.t004	Alimta	alimta	N
+d001.s030.t005	shown	show	V
+d001.s030.t006	during		X
+d001.s030.t007	the		X
+d001.s030.t008	studies	study	N
+d001.s030.t009	?		X
+d001.s031.t001	Alimta	alimta	N
+d001.s031.t002	increased	increase	V
+d001.s031.t003	the		X
+d001.s031.t004	survival	survival	N
+d001.s031.t005	time	time	N
+d001.s031.t006	of		X
+d001.s031.t007	patients	patient	N
+d001.s031.t008	with		X
+d001.s031.t009	malignant	malignant	J
+d001.s031.t010	pleural	pleural	J
+d001.s031.t011	mesothelioma	mesothelioma	N
+d001.s031.t012	.		X
+d001.s032.t001	Patients	patient	N
+d001.s032.t002	receiving	receive	V
+d001.s032.t003	Alimta	alimta	N
+d001.s032.t004	and		X
+d001.s032.t005	cisplatin	cisplatin	N
+d001.s032.t006	survived	survive	V
+d001.s032.t007	for		X
+d001.s032.t008	an		X
+d001.s032.t009	average	average	N
+d001.s032.t010	of		X
+d001.s032.t011	12.1		X
+d001.s032.t012	months	month	N
+d001.s032.t013	,		X
+d001.s032.t014	compared	compare	V
+d001.s032.t015	with		X
+d001.s032.t016	9.3		X
+d001.s032.t017	months	month	N
+d001.s032.t018	in		X
+d001.s032.t019	those		X
+d001.s032.t020	receiving	receive	V
+d001.s032.t021	cisplatin	cisplatin	N
+d001.s032.t022	alone	alone	R
+d001.s032.t023	.		X
+d001.s033.t001	In		X
+d001.s033.t002	the		X
+d001.s033.t003	treatment	treatment	N
+d001.s033.t004	of		X
+d001.s033.t005	patients	patient	N
+d001.s033.t006	with		X
+d001.s033.t007	non-small	non-small	J
+d001.s033.t008	cell	cell	N
+d001.s033.t009	lung	lung	N
+d001.s033.t010	cancer	cancer	N
+d001.s033.t011	,		X
+d001.s033.t012	Alimta	alimta	N
+d001.s033.t013	was	be	V
+d001.s033.t014	as	as	R
+d001.s033.t015	effective	effective	J
+d001.s033.t016	as	as	R
+d001.s033.t017	the		X
+d001.s033.t018	comparators	comparator	N
+d001.s033.t019	.		X
+d001.s034.t001	In		X
+d001.s034.t002	patients	patient	N
+d001.s034.t003	who		X
+d001.s034.t004	had	have	V
+d001.s034.t005	received	receive	V
+d001.s034.t006	chemotherapy	chemotherapy	N
+d001.s034.t007	in		X
+d001.s034.t008	the		X
+d001.s034.t009	past	past	N
+d001.s034.t010	,		X
+d001.s034.t011	the		X
+d001.s034.t012	average	average	J
+d001.s034.t013	survival	survival	N
+d001.s034.t014	time	time	N
+d001.s034.t015	was	be	V
+d001.s034.t016	8.3		X
+d001.s034.t017	months	month	N
+d001.s034.t018	with		X
+d001.s034.t019	Alimta	alimta	N
+d001.s034.t020	,		X
+d001.s034.t021	compared	compare	V
+d001.s034.t022	with		X
+d001.s034.t023	7.9		X
+d001.s034.t024	months	month	N
+d001.s034.t025	with		X
+d001.s034.t026	docetaxel	docetaxel	N
+d001.s034.t027	.		X
+d001.s035.t001	In		X
+d001.s035.t002	patients	patient	N
+d001.s035.t003	who		X
+d001.s035.t004	had	have	V
+d001.s035.t005	not	not	R
+d001.s035.t006	received	receive	V
+d001.s035.t007	chemotherapy	chemotherapy	N
+d001.s035.t008	in		X
+d001.s035.t009	the		X
+d001.s035.t010	past	past	N
+d001.s035.t011	,		X
+d001.s035.t012	the		X
+d001.s035.t013	average	average	J
+d001.s035.t014	survival	survival	N
+d001.s035.t015	time	time	N
+d001.s035.t016	was	be	V
+d001.s035.t017	10.3		X
+d001.s035.t018	months	month	N
+d001.s035.t019	in		X
+d001.s035.t020	both		X
+d001.s035.t021	groups	group	N
+d001.s035.t022	.		X
+d001.s036.t001	However	however	R
+d001.s036.t002	,		X
+d001.s036.t003	in		X
+d001.s036.t004	both		X
+d001.s036.t005	studies	study	N
+d001.s036.t006	,		X
+d001.s036.t007	patients	patient	N
+d001.s036.t008	whose		X
+d001.s036.t009	cancer	cancer	N
+d001.s036.t010	was	be	V
+d001.s036.t011	not	not	R
+d001.s036.t012	affecting	affect	V
+d001.s036.t013	squamous	squamous	J
+d001.s036.t014	cells	cell	N
+d001.s036.t015	had	have	V
+d001.s036.t016	longer	long	J
+d001.s036.t017	survival	survival	N
+d001.s036.t018	times	time	N
+d001.s036.t019	if		X
+d001.s036.t020	they		X
+d001.s036.t021	received	receive	V
+d001.s036.t022	Alimta	alimta	N
+d001.s036.t023	than		X
+d001.s036.t024	if		X
+d001.s036.t025	they		X
+d001.s036.t026	received	receive	V
+d001.s036.t027	the		X
+d001.s036.t028	comparator	comparator	N
+d001.s036.t029	.		X
+d001.s037.t001	In		X
+d001.s037.t002	contrast	contrast	N
+d001.s037.t003	,		X
+d001.s037.t004	patients	patient	N
+d001.s037.t005	whose		X
+d001.s037.t006	cancer	cancer	N
+d001.s037.t007	was	be	V
+d001.s037.t008	affecting	affect	V
+d001.s037.t009	squamous	squamous	J
+d001.s037.t010	cells	cell	N
+d001.s037.t011	had	have	V
+d001.s037.t012	shorter	short	J
+d001.s037.t013	survival	survival	N
+d001.s037.t014	times	time	N
+d001.s037.t015	if		X
+d001.s037.t016	they		X
+d001.s037.t017	received	receive	V
+d001.s037.t018	Alimta	alimta	N
+d001.s037.t019	.		X
+d002.s001.t001	kalgebra	kalgebra	N
+d002.s001.t002	is	be	V
+d002.s001.t003	a		X
+d002.s001.t004	mathematical	mathematical	J
+d002.s001.t005	calculator	calculator	N
+d002.s001.t006	based	base	V
+d002.s001.t007	on		X
+d002.s001.t008	content	content	J
+d002.s001.t009	markup	markup	N
+d002.s001.t010	MathML	mathml	N
+d002.s001.t011	language	language	N
+d002.s001.t012	.		X
+d002.s002.t001	Nowadays	nowadays	R
+d002.s002.t002	it		X
+d002.s002.t003	is	be	V
+d002.s002.t004	capable	capable	J
+d002.s002.t005	to		X
+d002.s002.t006	make	make	V
+d002.s002.t007	simple	simple	J
+d002.s002.t008	MathML	mathml	N
+d002.s002.t009	operations	operation	N
+d002.s002.t010	(		X
+d002.s002.t011	arithmetic	arithmetic	J
+d002.s002.t012	and		X
+d002.s002.t013	logical	logical	J
+d002.s002.t014	)		X
+d002.s002.t015	and		X
+d002.s002.t016	to		X
+d002.s002.t017	representate	representate	N
+d002.s002.t018	2D	2d	N
+d002.s002.t019	and		X
+d002.s002.t020	3D	3d	N
+d002.s002.t021	graphs	graph	N
+d002.s002.t022	.		X
+d002.s003.t001	It		X
+d002.s003.t002	is	be	V
+d002.s003.t003	actually	actually	R
+d002.s003.t004	not	not	R
+d002.s003.t005	necessary	necessary	J
+d002.s003.t006	to		X
+d002.s003.t007	know	know	V
+d002.s003.t008	MathML	mathml	N
+d002.s003.t009	to		X
+d002.s003.t010	use	use	V
+d002.s003.t011	kalgebra	kalgebra	N
+d002.s003.t012	.		X
+d002.s004.t001	kalgebra	kalgebra	N
+d002.s004.t002	is	be	V
+d002.s004.t003	a		X
+d002.s004.t004	MathML	mathml	N
+d002.s004.t005	based	base	V
+d002.s004.t006	graph	graph	N
+d002.s004.t007	calculator	calculator	N
+d002.s004.t008	.		X
+d002.s005.t001	Although		X
+d002.s005.t002	it		X
+d002.s005.t003	was	be	V
+d002.s005.t004	initially	initially	R
+d002.s005.t005	MathML	mathml	N
+d002.s005.t006	oriented	orient	V
+d002.s005.t007	it		X
+d002.s005.t008	can		X
+d002.s005.t009	now	now	R
+d002.s005.t010	be	be	V
+d002.s005.t011	used	use	V
+d002.s005.t012	by		X
+d002.s005.t013	everyone	everyone	N
+d002.s005.t014	with		X
+d002.s005.t015	little	little	J
+d002.s005.t016	mathematical	mathematical	J
+d002.s005.t017	knowledge	knowledge	N
+d002.s005.t018	.		X
+d002.s006.t001	Here	here	R
+d002.s006.t002	s	be	V
+d002.s006.t003	a		X
+d002.s006.t004	screenshot	screenshot	N
+d002.s006.t005	of		X
+d002.s006.t006	kalgebra	kalgebra	N
+d002.s006.t007	main	main	J
+d002.s006.t008	window	window	N
+d002.s007.t001	kalgebra	kalgebra	N
+d002.s007.t002	main	main	J
+d002.s007.t003	window	window	N
+d002.s008.t001	kalgebra	kalgebra	N
+d002.s008.t002	main	main	J
+d002.s008.t003	window	window	N
+d002.s008.t004	consists	consist	V
+d002.s008.t005	in		X
+d002.s008.t006	a		X
+d002.s008.t007	Console	console	N
+d002.s008.t008	tab	tab	N
+d002.s008.t009	,		X
+d002.s008.t010	a		X
+d002.s008.t011	2D	2d	N
+d002.s008.t012	Graph	graph	N
+d002.s008.t013	tab	tab	N
+d002.s008.t014	,		X
+d002.s008.t015	a		X
+d002.s008.t016	3D	3d	N
+d002.s008.t017	Graph	graph	N
+d002.s008.t018	tab	tab	N
+d002.s008.t019	and		X
+d002.s008.t020	a		X
+d002.s008.t021	Dictionary	dictionary	N
+d002.s008.t022	tab	tab	N
+d002.s008.t023	.		X
+d002.s009.t001	Below	below	R
+d002.s009.t002	these		X
+d002.s009.t003	tabs	tab	N
+d002.s009.t004	you		X
+d002.s009.t005	will		X
+d002.s009.t006	find	find	V
+d002.s009.t007	an		X
+d002.s009.t008	input	input	N
+d002.s009.t009	field	field	N
+d002.s009.t010	to		X
+d002.s009.t011	type	type	V
+d002.s009.t012	your		X
+d002.s009.t013	functions	function	N
+d002.s009.t014	or		X
+d002.s009.t015	do	do	V
+d002.s009.t016	your		X
+d002.s009.t017	calculations	calculation	N
+d002.s009.t018	.		X
+d002.s010.t001	If		X
+d002.s010.t002	we		X
+d002.s010.t003	want	want	V
+d002.s010.t004	to		X
+d002.s010.t005	understand	understand	V
+d002.s010.t006	how		X
+d002.s010.t007	it		X
+d002.s010.t008	works	work	V
+d002.s010.t009	,		X
+d002.s010.t010	the		X
+d002.s010.t011	best	good	J
+d002.s010.t012	thing	thing	N
+d002.s010.t013	we		X
+d002.s010.t014	can		X
+d002.s010.t015	do	do	V
+d002.s010.t016	is	be	V
+d002.s010.t017	to		X
+d002.s010.t018	realize	realize	V
+d002.s010.t019	that		X
+d002.s010.t020	our		X
+d002.s010.t021	input	input	N
+d002.s010.t022	is	be	V
+d002.s010.t023	being	be	V
+d002.s010.t024	converted	convert	V
+d002.s010.t025	into		X
+d002.s010.t026	MathML	mathml	N
+d002.s010.t027	although		X
+d002.s010.t028	it		X
+d002.s010.t029	is	be	V
+d002.s010.t030	not	not	R
+d002.s010.t031	necessary	necessary	J
+d002.s010.t032	to		X
+d002.s010.t033	know	know	V
+d002.s010.t034	MathML	mathml	N
+d002.s010.t035	.		X
+d002.s011.t001	I		X
+d002.s011.t002	have	have	V
+d002.s011.t003	based	base	V
+d002.s011.t004	the		X
+d002.s011.t005	syntax	syntax	N
+d002.s011.t006	basically	basically	R
+d002.s011.t007	on		X
+d002.s011.t008	common	common	J
+d002.s011.t009	sense	sense	N
+d002.s011.t010	,		X
+d002.s011.t011	it		X
+d002.s011.t012	should		X
+d002.s011.t013	not	not	R
+d002.s011.t014	be	be	V
+d002.s011.t015	hard	hard	J
+d002.s011.t016	for		X
+d002.s011.t017	anyone	anyone	N
+d002.s011.t018	.		X
+d002.s012.t001	I		X
+d002.s012.t002	ve	have	V
+d002.s012.t003	looked	look	V
+d002.s012.t004	closely	closely	R
+d002.s012.t005	to		X
+d002.s012.t006	maxima	maxima	N
+d002.s012.t007	and		X
+d002.s012.t008	maple	maple	N
+d002.s012.t009	s		X
+d002.s012.t010	syntax	syntax	N
+d002.s012.t011	so		X
+d002.s012.t012	they		X
+d002.s012.t013	look	look	V
+d002.s012.t014	very	very	R
+d002.s012.t015	similar	similar	J
+d002.s012.t016	.		X
+d002.s013.t001	+		X
+d002.s013.t002	-		X
+d002.s013.t003	*		X
+d002.s013.t004	/		X
+d002.s013.t005	:		X
+d002.s013.t006	Addition	addition	N
+d002.s013.t007	,		X
+d002.s013.t008	subtraction	subtraction	N
+d002.s013.t009	,		X
+d002.s013.t010	multiplication	multiplication	N
+d002.s013.t011	and		X
+d002.s013.t012	division	division	N
+d002.s013.t013	.		X
+d002.s014.t001	^		X
+d002.s014.t002	,		X
+d002.s014.t003	**		X
+d002.s014.t004	:		X
+d002.s014.t005	Power	power	N
+d002.s014.t006	,		X
+d002.s014.t007	you		X
+d002.s014.t008	can		X
+d002.s014.t009	use	use	V
+d002.s014.t010	them		X
+d002.s014.t011	both		X
+d002.s014.t012	.		X
+d002.s015.t001	Also	also	R
+d002.s015.t002	it		X
+d002.s015.t003	is	be	V
+d002.s015.t004	possible	possible	J
+d002.s015.t005	to		X
+d002.s015.t006	use	use	V
+d002.s015.t007	the		X
+d002.s015.t008	unicode	unicode	N
+d002.s015.t009	²		X
+d002.s015.t010	characters	character	N
+d002.s015.t011	.		X
+d002.s016.t001	Powers	power	N
+d002.s016.t002	are	be	V
+d002.s016.t003	one		X
+d002.s016.t004	way	way	N
+d002.s016.t005	to		X
+d002.s016.t006	make	make	V
+d002.s016.t007	roots	root	N
+d002.s016.t008	too	too	R
+d002.s016.t009	.		X
+d002.s017.t001	-gt	-gt	N
+d002.s017.t002	:		X
+d002.s017.t003	It		X
+d002.s017.t004	s	be	V
+d002.s017.t005	the		X
+d002.s017.t006	way	way	N
+d002.s017.t007	to		X
+d002.s017.t008	specify	specify	V
+d002.s017.t009	the		X
+d002.s017.t010	bounded	bound	V
+d002.s017.t011	variable	variable	N
+d002.s017.t012	in		X
+d002.s017.t013	a		X
+d002.s017.t014	function	function	N
+d002.s017.t015	.		X
+d002.s018.t001	(		X
+d002.s018.t002	)		X
+d002.s018.t003	:		X
+d002.s018.t004	It		X
+d002.s018.t005	is	be	V
+d002.s018.t006	used	use	V
+d002.s018.t007	to		X
+d002.s018.t008	specify	specify	V
+d002.s018.t009	a		X
+d002.s018.t010	higher	high	J
+d002.s018.t011	priority	priority	N
+d002.s018.t012	.		X
+d002.s019.t001	abc(params)		X
+d002.s019.t002	:		X
+d002.s019.t003	When		X
+d002.s019.t004	the		X
+d002.s019.t005	parser	parser	N
+d002.s019.t006	finds	find	V
+d002.s019.t007	a		X
+d002.s019.t008	function	function	N
+d002.s019.t009	,		X
+d002.s019.t010	it		X
+d002.s019.t011	checks	check	V
+d002.s019.t012	if		X
+d002.s019.t013	abc	abc	N
+d002.s019.t014	is	be	V
+d002.s019.t015	an		X
+d002.s019.t016	operator	operator	N
+d002.s019.t017	.		X
+d002.s020.t001	If		X
+d002.s020.t002	it		X
+d002.s020.t003	is	be	V
+d002.s020.t004	,		X
+d002.s020.t005	it		X
+d002.s020.t006	will		X
+d002.s020.t007	be	be	V
+d002.s020.t008	treated	treat	V
+d002.s020.t009	as		X
+d002.s020.t010	an		X
+d002.s020.t011	operator	operator	N
+d002.s020.t012	,		X
+d002.s020.t013	if		X
+d002.s020.t014	it		X
+d002.s020.t015	is	be	V
+d002.s020.t016	not	not	R
+d002.s020.t017	,		X
+d002.s020.t018	it		X
+d002.s020.t019	will		X
+d002.s020.t020	be	be	V
+d002.s020.t021	treated	treat	V
+d002.s020.t022	as		X
+d002.s020.t023	a		X
+d002.s020.t024	user	user	N
+d002.s020.t025	function	function	N
+d002.s020.t026	.		X
+d002.s021.t001	:		X
+d002.s021.t002	#ERROR!		X
+d002.s021.t003	:		X
+d002.s021.t004	It		X
+d002.s021.t005	is	be	V
+d002.s021.t006	used	use	V
+d002.s021.t007	to		X
+d002.s021.t008	define	define	V
+d002.s021.t009	a		X
+d002.s021.t010	variable	variable	J
+d002.s021.t011	value	value	N
+d002.s021.t012	.		X
+d002.s022.t001	?		X
+d002.s022.t002	:		X
+d002.s022.t003	Piecewise	piecewise	N
+d002.s022.t004	condition	condition	N
+d002.s022.t005	definition	definition	N
+d002.s022.t006	.		X
+d002.s023.t001	Piecewise	piecewise	N
+d002.s023.t002	is	be	V
+d002.s023.t003	the		X
+d002.s023.t004	way	way	N
+d002.s023.t005	we		X
+d002.s023.t006	can		X
+d002.s023.t007	define	define	V
+d002.s023.t008	conditional	conditional	J
+d002.s023.t009	operations	operation	N
+d002.s023.t010	in		X
+d002.s023.t011	kalgebra	kalgebra	N
+d002.s023.t012	.		X
+d002.s024.t001	If		X
+d002.s024.t002	we		X
+d002.s024.t003	introduce	introduce	V
+d002.s024.t004	the		X
+d002.s024.t005	condition	condition	N
+d002.s024.t006	before		X
+d002.s024.t007	the		X
+d002.s024.t008	?	?	N
+d002.s024.t009	it		X
+d002.s024.t010	will		X
+d002.s024.t011	use	use	V
+d002.s024.t012	this		X
+d002.s024.t013	condition	condition	N
+d002.s024.t014	only	only	R
+d002.s024.t015	if		X
+d002.s024.t016	it		X
+d002.s024.t017	is	be	V
+d002.s024.t018	TRUE	TRUE	J
+d002.s024.t019	,		X
+d002.s024.t020	if		X
+d002.s024.t021	it		X
+d002.s024.t022	finds	find	V
+d002.s024.t023	a		X
+d002.s024.t024	?	?	N
+d002.s024.t025	without		X
+d002.s024.t026	any		X
+d002.s024.t027	condition	condition	N
+d002.s024.t028	,		X
+d002.s024.t029	it		X
+d002.s024.t030	will		X
+d002.s024.t031	enter	enter	V
+d002.s024.t032	in		X
+d002.s024.t033	the		X
+d002.s024.t034	last	last	J
+d002.s024.t035	instance	instance	N
+d002.s024.t036	.		X
+d002.s025.t001	Mainly	mainly	R
+d002.s025.t002	useful	useful	J
+d002.s025.t003	for		X
+d002.s025.t004	working	work	V
+d002.s025.t005	with		X
+d002.s025.t006	piecewise	piecewise	N
+d002.s025.t007	.		X
+d002.s026.t001	That		X
+d002.s026.t002	s	be	V
+d002.s026.t003	easy	easy	J
+d002.s026.t004	.		X
+d002.s026.t005	With		X
+d002.s026.t006	this		X
+d002.s026.t007	,		X
+d002.s026.t008	we		X
+d002.s026.t009	can		X
+d002.s026.t010	operate	operate	V
+d002.s026.t011	with		X
+d002.s026.t012	functions	function	N
+d002.s026.t013	like		X
+d002.s026.t014	cos()	cos	N
+d002.s026.t015	,		X
+d002.s026.t016	sin()	sin	N
+d002.s026.t017	,		X
+d002.s026.t018	any		X
+d002.s026.t019	other	other	J
+d002.s026.t020	trigonometric	trigonometric	J
+d002.s026.t021	functions	function	N
+d002.s026.t022	,		X
+d002.s026.t023	sum()	sum	N
+d002.s026.t024	or		X
+d002.s026.t025	product()	product	N
+d002.s026.t026	.		X
+d002.s027.t001	It		X
+d002.s027.t002	does	do	V
+d002.s027.t003	not	not	R
+d002.s027.t004	matter	matter	V
+d002.s027.t005	what		X
+d002.s027.t006	kind	kind	N
+d002.s027.t007	it		X
+d002.s027.t008	is	be	V
+d002.s027.t009	.		X
+d002.s028.t001	We		X
+d002.s028.t002	can		X
+d002.s028.t003	use	use	V
+d002.s028.t004	plus()	plus	N
+d002.s028.t005	,		X
+d002.s028.t006	times()	times	N
+d002.s028.t007	and		X
+d002.s028.t008	everything	everything	N
+d002.s028.t009	which		X
+d002.s028.t010	has	have	V
+d002.s028.t011	its		X
+d002.s028.t012	operator	operator	N
+d002.s028.t013	.		X
+d002.s029.t001	kalgebra	kalgebra	N
+d002.s029.t002	s	be	V
+d002.s029.t003	console	console	V
+d002.s029.t004	is	be	V
+d002.s029.t005	useful	useful	J
+d002.s029.t006	as		X
+d002.s029.t007	a		X
+d002.s029.t008	calculator	calculator	N
+d002.s029.t009	.		X
+d002.s030.t001	There	there	R
+d002.s030.t002	you		X
+d002.s030.t003	have	have	V
+d002.s030.t004	a		X
+d002.s030.t005	list	list	N
+d002.s030.t006	of		X
+d002.s030.t007	the		X
+d002.s030.t008	declared	declare	V
+d002.s030.t009	variables	variable	N
+d002.s030.t010	.		X
+d002.s031.t001	By		X
+d002.s031.t002	double	double	R
+d002.s031.t003	clicking	click	V
+d002.s031.t004	on		X
+d002.s031.t005	them		X
+d002.s031.t006	you		X
+d002.s031.t007	will		X
+d002.s031.t008	see	see	V
+d002.s031.t009	a		X
+d002.s031.t010	dialog	dialog	N
+d002.s031.t011	that		X
+d002.s031.t012	lets	let	V
+d002.s031.t013	you		X
+d002.s031.t014	change	change	V
+d002.s031.t015	their		X
+d002.s031.t016	values	value	N
+d002.s031.t017	(		X
+d002.s031.t018	just	just	R
+d002.s031.t019	a		X
+d002.s031.t020	way	way	N
+d002.s031.t021	to		X
+d002.s031.t022	trick	trick	V
+d002.s031.t023	the		X
+d002.s031.t024	log	log	N
+d002.s031.t025	)		X
+d002.s031.t026	.		X
+d002.s032.t001	Every		X
+d002.s032.t002	time	time	N
+d002.s032.t003	you		X
+d002.s032.t004	enter	enter	V
+d002.s032.t005	an		X
+d002.s032.t006	expression	expression	N
+d002.s032.t007	,		X
+d002.s032.t008	the		X
+d002.s032.t009	"		X
+d002.s032.t010	ans	ans	J
+d002.s032.t011	"		X
+d002.s032.t012	variable	variable	N
+d002.s032.t013	value	value	N
+d002.s032.t014	will		X
+d002.s032.t015	be	be	V
+d002.s032.t016	changed	change	V
+d002.s032.t017	to		X
+d002.s032.t018	the		X
+d002.s032.t019	last	last	J
+d002.s032.t020	result	result	N
+d002.s032.t021	.		X
+d002.s033.t001	Ctrl	ctrl	N
+d002.s033.t002	N	n	N
+d002.s033.t003	New	new	J
+d002.s033.t004	Window	window	N
+d002.s034.t001	Flushes	flush	V
+d002.s034.t002	the		X
+d002.s034.t003	log	log	N
+d002.s034.t004	.		X
+d002.s035.t001	Ctrl	ctrl	N
+d002.s035.t002	L	l	N
+d002.s035.t003	Load	load	V
+d002.s035.t004	Script	script	N
+d002.s036.t001	Executes	execute	V
+d002.s036.t002	the		X
+d002.s036.t003	instructions	instruction	N
+d002.s036.t004	in		X
+d002.s036.t005	a		X
+d002.s036.t006	file	file	N
+d002.s036.t007	sequentially	sequentially	R
+d002.s036.t008	.		X
+d002.s037.t001	Nice	nice	J
+d002.s037.t002	if		X
+d002.s037.t003	you		X
+d002.s037.t004	want	want	V
+d002.s037.t005	to		X
+d002.s037.t006	define	define	V
+d002.s037.t007	some		X
+d002.s037.t008	libraries	library	N
+d002.s037.t009	or		X
+d002.s037.t010	resume	resume	V
+d002.s037.t011	some		X
+d002.s037.t012	previous	previous	J
+d002.s037.t013	work	work	N
+d002.s037.t014	.		X
+d002.s038.t001	Ctrl	ctrl	N
+d002.s038.t002	G	g	N
+d002.s038.t003	Save	save	V
+d002.s038.t004	Script	script	N
+d002.s039.t001	Saves	save	V
+d002.s039.t002	the		X
+d002.s039.t003	instructions	instruction	N
+d002.s039.t004	you		X
+d002.s039.t005	have	have	V
+d002.s039.t006	typed	type	V
+d002.s039.t007	since		X
+d002.s039.t008	the		X
+d002.s039.t009	session	session	N
+d002.s039.t010	began	begin	V
+d002.s039.t011	to		X
+d002.s039.t012	be	be	V
+d002.s039.t013	able	able	J
+d002.s039.t014	to		X
+d002.s039.t015	reuse	reuse	V
+d002.s039.t016	.		X
+d002.s040.t001	Generates	generate	V
+d002.s040.t002	text	text	N
+d002.s040.t003	files	file	N
+d002.s040.t004	so		X
+d002.s040.t005	it		X
+d002.s040.t006	should		X
+d002.s040.t007	be	be	V
+d002.s040.t008	easy	easy	J
+d002.s040.t009	to		X
+d002.s040.t010	fix	fix	V
+d002.s040.t011	using	use	V
+d002.s040.t012	any		X
+d002.s040.t013	text	text	N
+d002.s040.t014	editor	editor	N
+d002.s040.t015	,		X
+d002.s040.t016	like		X
+d002.s040.t017	Kate	kate	N
+d002.s040.t018	.		X
+d002.s041.t001	Ctrl	ctrl	N
+d002.s041.t002	S	s	N
+d002.s041.t003	Save	save	V
+d002.s041.t004	Log	log	N
+d002.s042.t001	Saves	save	V
+d002.s042.t002	the		X
+d002.s042.t003	log	log	N
+d002.s042.t004	with		X
+d002.s042.t005	all		X
+d002.s042.t006	results	result	N
+d002.s042.t007	into		X
+d002.s042.t008	an		X
+d002.s042.t009	HTML	html	N
+d002.s042.t010	file	file	V
+d002.s042.t011	to		X
+d002.s042.t012	be	be	V
+d002.s042.t013	able	able	J
+d002.s042.t014	to		X
+d002.s042.t015	print	print	V
+d002.s042.t016	or		X
+d002.s042.t017	publish	publish	V
+d002.s042.t018	.		X
+d002.s043.t001	Ctrl	ctrl	N
+d002.s043.t002	Q	q	N
+d002.s043.t003	Quit	quit	V
+d002.s044.t001	Shuts	shut	V
+d002.s044.t002	the		X
+d002.s044.t003	program	program	N
+d002.s044.t004	down	down	R
+d002.s044.t005	.		X
+d002.s045.t001	To		X
+d002.s045.t002	add	add	V
+d002.s045.t003	a		X
+d002.s045.t004	new	new	J
+d002.s045.t005	2D	2d	N
+d002.s045.t006	graph	graph	N
+d002.s045.t007	on		X
+d002.s045.t008	kalgebra	kalgebra	N
+d002.s045.t009	,		X
+d002.s045.t010	what		X
+d002.s045.t011	you		X
+d002.s045.t012	have	have	V
+d002.s045.t013	to		X
+d002.s045.t014	do	do	V
+d002.s045.t015	is	be	V
+d002.s045.t016	to		X
+d002.s045.t017	go	go	V
+d002.s045.t018	to		X
+d002.s045.t019	the		X
+d002.s045.t020	2D	2d	N
+d002.s045.t021	Graph	graph	N
+d002.s045.t022	tab	tab	N
+d002.s045.t023	and		X
+d002.s045.t024	click	click	N
+d002.s045.t025	in		X
+d002.s045.t026	the		X
+d002.s045.t027	Add	add	V
+d002.s045.t028	tab	tab	N
+d002.s045.t029	to		X
+d002.s045.t030	add	add	V
+d002.s045.t031	the		X
+d002.s045.t032	new	new	J
+d002.s045.t033	function	function	N
+d002.s045.t034	.		X
+d002.s046.t001	Then	then	R
+d002.s046.t002	your		X
+d002.s046.t003	focus	focus	N
+d002.s046.t004	will		X
+d002.s046.t005	go	go	V
+d002.s046.t006	to		X
+d002.s046.t007	an		X
+d002.s046.t008	input	input	N
+d002.s046.t009	text	text	N
+d002.s046.t010	box	box	N
+d002.s046.t011	where		X
+d002.s046.t012	you		X
+d002.s046.t013	can		X
+d002.s046.t014	type	type	V
+d002.s046.t015	your		X
+d002.s046.t016	function	function	N
+d002.s046.t017	.		X
+d002.s047.t001	If		X
+d002.s047.t002	you		X
+d002.s047.t003	want	want	V
+d002.s047.t004	to		X
+d002.s047.t005	use	use	V
+d002.s047.t006	a		X
+d002.s047.t007	typical	typical	J
+d002.s047.t008	f(x)	f(x)	N
+d002.s047.t009	function	function	V
+d002.s047.t010	it		X
+d002.s047.t011	is	be	V
+d002.s047.t012	not	not	R
+d002.s047.t013	necessary	necessary	J
+d002.s047.t014	to		X
+d002.s047.t015	specify	specify	V
+d002.s047.t016	it		X
+d002.s047.t017	.		X
+d002.s048.t001	If		X
+d002.s048.t002	you		X
+d002.s048.t003	have	have	V
+d002.s048.t004	entered	enter	V
+d002.s048.t005	the		X
+d002.s048.t006	function	function	N
+d002.s048.t007	click	click	N
+d002.s048.t008	on		X
+d002.s048.t009	the		X
+d002.s048.t010	OK	ok	J
+d002.s048.t011	button	button	N
+d002.s048.t012	to		X
+d002.s048.t013	display	display	V
+d002.s048.t014	the		X
+d002.s048.t015	graph	graph	N
+d002.s048.t016	in		X
+d002.s048.t017	the		X
+d002.s048.t018	main	main	J
+d002.s048.t019	window	window	N
+d002.s048.t020	.		X
+d002.s049.t001	You		X
+d002.s049.t002	can		X
+d002.s049.t003	set	set	V
+d002.s049.t004	several	several	J
+d002.s049.t005	graphs	graph	N
+d002.s049.t006	on		X
+d002.s049.t007	the		X
+d002.s049.t008	same	same	J
+d002.s049.t009	view	view	N
+d002.s049.t010	.		X
+d002.s050.t001	Just	just	R
+d002.s050.t002	use	use	V
+d002.s050.t003	the		X
+d002.s050.t004	Add	add	V
+d002.s050.t005	button	button	N
+d002.s050.t006	when		X
+d002.s050.t007	you		X
+d002.s050.t008	are	be	V
+d002.s050.t009	in		X
+d002.s050.t010	List	list	N
+d002.s050.t011	mode	mode	N
+d002.s050.t012	.		X
+d002.s051.t001	You		X
+d002.s051.t002	can		X
+d002.s051.t003	set	set	V
+d002.s051.t004	each		X
+d002.s051.t005	graph	graph	N
+d002.s051.t006	its		X
+d002.s051.t007	own	own	J
+d002.s051.t008	color	color	N
+d002.s051.t009	.		X
+d003.s001.t001	The		X
+d003.s001.t002	Foundation	foundation	N
+d003.s001.t003	has	have	V
+d003.s001.t004	recently	recently	R
+d003.s001.t005	been	be	V
+d003.s001.t006	involved	involve	V
+d003.s001.t007	in		X
+d003.s001.t008	organising	organise	V
+d003.s001.t009	a		X
+d003.s001.t010	conference	conference	N
+d003.s001.t011	which		X
+d003.s001.t012	dealt	deal	V
+d003.s001.t013	with		X
+d003.s001.t014	this		X
+d003.s001.t015	critical	critical	J
+d003.s001.t016	challenge	challenge	N
+d003.s001.t017	.		X
+d003.s002.t001	Over		X
+d003.s002.t002	100		X
+d003.s002.t003	participants	participant	N
+d003.s002.t004	from		X
+d003.s002.t005	the		X
+d003.s002.t006	main	main	J
+d003.s002.t007	interest	interest	N
+d003.s002.t008	groups	group	N
+d003.s002.t009	attended	attend	V
+d003.s002.t010	and		X
+d003.s002.t011	debated	debate	V
+d003.s002.t012	issues	issue	N
+d003.s002.t013	such	such	R
+d003.s002.t014	as	as	R
+d003.s002.t015	the		X
+d003.s002.t016	role	role	N
+d003.s002.t017	of		X
+d003.s002.t018	key	key	J
+d003.s002.t019	actors	actor	N
+d003.s002.t020	including	include	V
+d003.s002.t021	public	public	J
+d003.s002.t022	authorities	authority	N
+d003.s002.t023	,		X
+d003.s002.t024	social	social	J
+d003.s002.t025	partners	partner	N
+d003.s002.t026	,		X
+d003.s002.t027	voluntary	voluntary	J
+d003.s002.t028	and		X
+d003.s002.t029	community	community	N
+d003.s002.t030	organisations	organisation	N
+d003.s002.t031	as	as	R
+d003.s002.t032	well	well	R
+d003.s002.t033	as		X
+d003.s002.t034	service	service	N
+d003.s002.t035	users	user	N
+d003.s002.t036	.		X
+d003.s003.t001	Note	note	N
+d003.s003.t002	was	be	V
+d003.s003.t003	also	also	R
+d003.s003.t004	taken	take	V
+d003.s003.t005	of		X
+d003.s003.t006	the		X
+d003.s003.t007	variety	variety	N
+d003.s003.t008	of		X
+d003.s003.t009	different	different	J
+d003.s003.t010	roles	role	N
+d003.s003.t011	played	play	V
+d003.s003.t012	by		X
+d003.s003.t013	public	public	J
+d003.s003.t014	welfare	welfare	N
+d003.s004.t001	The		X
+d003.s004.t002	Foundation	foundation	N
+d003.s004.t003	organised	organise	N
+d003.s004.t004	,		X
+d003.s004.t005	together	together	R
+d003.s004.t006	with		X
+d003.s004.t007	the		X
+d003.s004.t008	European	european	J
+d003.s004.t009	Commission	commission	N
+d003.s004.t010	,		X
+d003.s004.t011	the		X
+d003.s004.t012	Spanish	spanish	J
+d003.s004.t013	Ministry	ministry	N
+d003.s004.t014	of		X
+d003.s004.t015	Social	social	J
+d003.s004.t016	Affairs	affairs	N
+d003.s004.t017	and		X
+d003.s004.t018	the		X
+d003.s004.t019	Galician	galician	J
+d003.s004.t020	regional	regional	J
+d003.s004.t021	government	government	N
+d003.s004.t022	,		X
+d003.s004.t023	a		X
+d003.s004.t024	European	european	J
+d003.s004.t025	conference	conference	N
+d003.s004.t026	on		X
+d003.s004.t027	social	social	J
+d003.s004.t028	exclusion	exclusion	N
+d003.s004.t029	:		X
+d003.s004.t030	a		X
+d003.s004.t031	major	major	J
+d003.s004.t032	challenge	challenge	N
+d003.s004.t033	for		X
+d003.s004.t034	public	public	J
+d003.s004.t035	welfare	welfare	N
+d003.s004.t036	services	service	N
+d003.s004.t037	.		X
+d003.s005.t001	The		X
+d003.s005.t002	Foundation	foundation	N
+d003.s005.t003	recently	recently	R
+d003.s005.t004	published	publish	V
+d003.s005.t005	a		X
+d003.s005.t006	comparative	comparative	J
+d003.s005.t007	study	study	N
+d003.s005.t008	as		X
+d003.s005.t009	part	part	N
+d003.s005.t010	of		X
+d003.s005.t011	the		X
+d003.s005.t012	EPOC	epoc	N
+d003.s005.t013	project	project	N
+d003.s005.t014	which		X
+d003.s005.t015	assesses	assess	V
+d003.s005.t016	the		X
+d003.s005.t017	extent	extent	N
+d003.s005.t018	to		X
+d003.s005.t019	which		X
+d003.s005.t020	direct	direct	J
+d003.s005.t021	participation	participation	N
+d003.s005.t022	can		X
+d003.s005.t023	humanise	humanise	V
+d003.s005.t024	work	work	N
+d003.s005.t025	while		X
+d003.s005.t026	increasing	increase	V
+d003.s005.t027	profitability	profitability	N
+d003.s005.t028	.		X
+d003.s006.t001	The		X
+d003.s006.t002	study	study	N
+d003.s006.t003	is	be	V
+d003.s006.t004	based	base	V
+d003.s006.t005	on		X
+d003.s006.t006	195		X
+d003.s006.t007	personal	personal	J
+d003.s006.t008	interviews	interview	N
+d003.s006.t009	with		X
+d003.s006.t010	senior	senior	J
+d003.s006.t011	officials	official	N
+d003.s006.t012	of		X
+d003.s006.t013	the		X
+d003.s006.t014	social	social	J
+d003.s006.t015	partners	partner	N
+d003.s006.t016	as		X
+d003.s006.t017	representatives	representative	N
+d003.s006.t018	of		X
+d003.s006.t019	national	national	J
+d003.s006.t020	level	level	N
+d003.s006.t021	peak	peak	N
+d003.s006.t022	organisations	organisation	N
+d003.s006.t023	in		X
+d003.s006.t024	fifteen	fifteen	J
+d003.s006.t025	European	european	J
+d003.s006.t026	countries	country	N
+d003.s006.t027	.		X
+d003.s007.t001	As		X
+d003.s007.t002	important	important	J
+d003.s007.t003	industrial	industrial	J
+d003.s007.t004	sectors	sector	N
+d003.s007.t005	,		X
+d003.s007.t006	the		X
+d003.s007.t007	metal	metal	N
+d003.s007.t008	industry	industry	N
+d003.s007.t009	and		X
+d003.s007.t010	the		X
+d003.s007.t011	banking	banking	N
+d003.s007.t012	sector	sector	N
+d003.s007.t013	were	be	V
+d003.s007.t014	also	also	R
+d003.s007.t015	included	include	V
+d003.s007.t016	.		X
+d003.s008.t001	Key	key	N
+d003.s008.t002	speakers	speaker	N
+d003.s008.t003	at		X
+d003.s008.t004	the		X
+d003.s008.t005	social	social	J
+d003.s008.t006	exclusion	exclusion	N
+d003.s008.t007	conference	conference	N
+d003.s008.t008	were	be	V
+d003.s008.t009	(		X
+d003.s008.t010	left	left	N
+d003.s008.t011	to		X
+d003.s008.t012	right	right	N
+d003.s008.t013	)		X
+d003.s008.t014	Cristina	cristina	N
+d003.s008.t015	Louro	louro	N
+d003.s008.t016	,		X
+d003.s008.t017	Employment	employment	N
+d003.s008.t018	,		X
+d003.s008.t019	Industrial	industrial	J
+d003.s008.t020	Relations	relations	N
+d003.s008.t021	and		X
+d003.s008.t022	Social	social	J
+d003.s008.t023	Affairs	affair	N
+d003.s008.t024	Directorate	directorate	N
+d003.s008.t025	,		X
+d003.s008.t026	European	european	J
+d003.s008.t027	Commission	commission	N
+d003.s008.t028	Fernando	fernando	N
+d003.s008.t029	Gomes	gomes	N
+d003.s008.t030	,		X
+d003.s008.t031	a		X
+d003.s008.t032	high	high	J
+d003.s008.t033	degree	degree	N
+d003.s008.t034	of		X
+d003.s008.t035	Committee	committee	N
+d003.s008.t036	of		X
+d003.s008.t037	the		X
+d003.s008.t038	Regions	region	N
+d003.s008.t039	Barbara	barbara	N
+d003.s008.t040	Weiler	weiler	N
+d003.s008.t041	,		X
+d003.s008.t042	Member	member	N
+d003.s008.t043	of		X
+d003.s008.t044	the		X
+d003.s008.t045	European	european	J
+d003.s008.t046	Parliament	parliament	N
+d003.s008.t047	José	josé	N
+d003.s008.t048	Maria	Maria	N
+d003.s008.t049	Gil-Robles	gil-robles	N
+d003.s008.t050	,		X
+d003.s008.t051	Vice-President	vice-president	N
+d003.s008.t052	,		X
+d003.s008.t053	European	european	J
+d003.s008.t054	Parliament	parliament	N
+d003.s008.t055	and	and	N
+d003.s008.t056	John	john	N
+d003.s008.t057	Carroll	carroll	N
+d003.s008.t058	,		X
+d003.s008.t059	Economic	economic	J
+d003.s008.t060	and		X
+d003.s008.t061	Social	social	J
+d003.s008.t062	Committee	committee	N
+d003.s008.t063	.		X
+d003.s009.t001	Case	case	N
+d003.s009.t002	Studies	study	N
+d003.s009.t003	Each		X
+d003.s009.t004	national	national	J
+d003.s009.t005	report	report	N
+d003.s009.t006	contains	contain	V
+d003.s009.t007	a		X
+d003.s009.t008	portfolio	portfolio	N
+d003.s009.t009	of		X
+d003.s009.t010	between		X
+d003.s009.t011	25		X
+d003.s009.t012	and		X
+d003.s009.t013	30		X
+d003.s009.t014	initiatives	initiative	N
+d003.s009.t015	which		X
+d003.s009.t016	best	good	J
+d003.s009.t017	present	present	V
+d003.s009.t018	policies	policy	N
+d003.s009.t019	and		X
+d003.s009.t020	practices	practice	N
+d003.s009.t021	to		X
+d003.s009.t022	improve	improve	V
+d003.s009.t023	the		X
+d003.s009.t024	recruitment	recruitment	N
+d003.s009.t025	,		X
+d003.s009.t026	training	training	N
+d003.s009.t027	and		X
+d003.s009.t028	development	development	N
+d003.s009.t029	of		X
+d003.s009.t030	ageing	age	V
+d003.s009.t031	workers	worker	N
+d003.s009.t032	in		X
+d003.s009.t033	both		X
+d003.s009.t034	the		X
+d003.s009.t035	work	work	N
+d003.s009.t036	place	place	N
+d003.s009.t037	and		X
+d003.s009.t038	the		X
+d003.s009.t039	community	community	N
+d003.s009.t040	.		X
+d003.s010.t001	For		X
+d003.s010.t002	each		X
+d003.s010.t003	country	country	N
+d003.s010.t004	,		X
+d003.s010.t005	two		X
+d003.s010.t006	or		X
+d003.s010.t007	three		X
+d003.s010.t008	initiatives	initiative	N
+d003.s010.t009	have	have	V
+d003.s010.t010	been	be	V
+d003.s010.t011	selected	select	V
+d003.s010.t012	for		X
+d003.s010.t013	further	further	J
+d003.s010.t014	in		X
+d003.s010.t015	depth	depth	N
+d003.s010.t016	case	case	N
+d003.s010.t017	study	study	N
+d003.s010.t018	.		X
+d003.s011.t001	These		X
+d003.s011.t002	case	case	N
+d003.s011.t003	studies	study	N
+d003.s011.t004	analysed	analyse	V
+d003.s011.t005	the		X
+d003.s011.t006	background	background	N
+d003.s011.t007	of		X
+d003.s011.t008	the		X
+d003.s011.t009	initiatives	initiative	N
+d003.s011.t010	,		X
+d003.s011.t011	their		X
+d003.s011.t012	impact	impact	N
+d003.s011.t013	on		X
+d003.s011.t014	employment	employment	N
+d003.s011.t015	patterns	pattern	N
+d003.s011.t016	and		X
+d003.s011.t017	work	work	N
+d003.s011.t018	organisations	organisation	N
+d003.s011.t019	and		X
+d003.s011.t020	assessed	assess	V
+d003.s011.t021	the		X
+d003.s011.t022	benefits	benefit	N
+d003.s011.t023	and		X
+d003.s011.t024	problems	problem	N
+d003.s011.t025	of		X
+d003.s011.t026	the		X
+d003.s011.t027	initiative	initiative	N
+d003.s011.t028	.		X
+d003.s012.t001	Visits	visit	N
+d003.s012.t002	and		X
+d003.s012.t003	interviews	interview	N
+d003.s012.t004	with		X
+d003.s012.t005	key	key	J
+d003.s012.t006	personnel	personnel	N
+d003.s012.t007	were	be	V
+d003.s012.t008	also	also	R
+d003.s012.t009	undertaken	undertake	V
+d003.s012.t010	.		X
+d003.s013.t001	These		X
+d003.s013.t002	national	national	J
+d003.s013.t003	studies	study	N
+d003.s013.t004	will		X
+d003.s013.t005	form	form	V
+d003.s013.t006	the		X
+d003.s013.t007	basis	basis	N
+d003.s013.t008	of		X
+d003.s013.t009	a		X
+d003.s013.t010	European	european	J
+d003.s013.t011	report	report	N
+d003.s013.t012	which		X
+d003.s013.t013	synthesises	synthesise	V
+d003.s013.t014	overall	overall	J
+d003.s013.t015	practices	practice	N
+d003.s013.t016	.		X
+d003.s014.t001	The		X
+d003.s014.t002	report	report	N
+d003.s014.t003	and		X
+d003.s014.t004	a		X
+d003.s014.t005	case	case	N
+d003.s014.t006	book	book	N
+d003.s014.t007	of		X
+d003.s014.t008	initiatives	initiative	N
+d003.s014.t009	will		X
+d003.s014.t010	be	be	V
+d003.s014.t011	published	publish	V
+d003.s014.t012	in		X
+d003.s014.t013	1996		X
+d003.s014.t014	and		X
+d003.s014.t015	provide	provide	V
+d003.s014.t016	the		X
+d003.s014.t017	backdrop	backdrop	N
+d003.s014.t018	for		X
+d003.s014.t019	a		X
+d003.s014.t020	conference	conference	N
+d003.s014.t021	to		X
+d003.s014.t022	be	be	V
+d003.s014.t023	staged	stage	V
+d003.s014.t024	in		X
+d003.s014.t025	Autumn	autumn	N
+d003.s014.t026	,		X
+d003.s014.t027	1996		X
+d003.s014.t028	.		X
+d003.s015.t001	The		X
+d003.s015.t002	Foundation	foundation	N
+d003.s015.t003	aims	aim	V
+d003.s015.t004	to		X
+d003.s015.t005	document	document	V
+d003.s015.t006	the		X
+d003.s015.t007	characteristics	characteristic	N
+d003.s015.t008	of		X
+d003.s015.t009	age	age	N
+d003.s015.t010	barriers	barrier	N
+d003.s015.t011	in		X
+d003.s015.t012	job	job	N
+d003.s015.t013	recruitment	recruitment	N
+d003.s015.t014	and		X
+d003.s015.t015	training	training	N
+d003.s015.t016	and		X
+d003.s015.t017	to		X
+d003.s015.t018	analyse	analyse	V
+d003.s015.t019	their		X
+d003.s015.t020	causes	cause	N
+d003.s015.t021	.		X
+d003.s016.t001	The		X
+d003.s016.t002	perspectives	perspective	N
+d003.s016.t003	of		X
+d003.s016.t004	the		X
+d003.s016.t005	social	social	J
+d003.s016.t006	partners	partner	N
+d003.s016.t007	is	be	V
+d003.s016.t008	also	also	R
+d003.s016.t009	being	be	V
+d003.s016.t010	examined	examine	V
+d003.s016.t011	,		X
+d003.s016.t012	with		X
+d003.s016.t013	particular	particular	J
+d003.s016.t014	attention	attention	N
+d003.s016.t015	paid	pay	V
+d003.s016.t016	to		X
+d003.s016.t017	proposals	proposal	N
+d003.s016.t018	for		X
+d003.s016.t019	removing	remove	V
+d003.s016.t020	age	age	N
+d003.s016.t021	barriers	barrier	N
+d003.s016.t022	.		X
+d003.s017.t001	Thirdly	thirdly	R
+d003.s017.t002	,		X
+d003.s017.t003	the		X
+d003.s017.t004	project	project	N
+d003.s017.t005	documents	document	N
+d003.s017.t006	and		X
+d003.s017.t007	assesses	assess	V
+d003.s017.t008	initiatives	initiative	N
+d003.s017.t009	,		X
+d003.s017.t010	in		X
+d003.s017.t011	both		X
+d003.s017.t012	the		X
+d003.s017.t013	public	public	J
+d003.s017.t014	and		X
+d003.s017.t015	private	private	J
+d003.s017.t016	sectors	sector	N
+d003.s017.t017	which		X
+d003.s017.t018	combat	combat	N
+d003.s017.t019	age	age	N
+d003.s017.t020	barriers	barrier	N
+d003.s017.t021	,		X
+d003.s017.t022	especially	especially	R
+d003.s017.t023	for		X
+d003.s017.t024	older	old	J
+d003.s017.t025	workers	worker	N
+d003.s017.t026	.		X
+d003.s018.t001	Seeking	seek	V
+d003.s018.t002	alternatives	alternative	N
+d003.s018.t003	to		X
+d003.s018.t004	early	early	J
+d003.s018.t005	retirement	retirement	N
+d003.s018.t006	and		X
+d003.s018.t007	redundancy	redundancy	N
+d003.s018.t008	,		X
+d003.s018.t009	the		X
+d003.s018.t010	project	project	N
+d003.s018.t011	is	be	V
+d003.s018.t012	primarily	primarily	R
+d003.s018.t013	concerned	concern	V
+d003.s018.t014	with		X
+d003.s018.t015	the		X
+d003.s018.t016	retention	retention	N
+d003.s018.t017	,		X
+d003.s018.t018	reintegration	reintegrate	V
+d003.s018.t019	and		X
+d003.s018.t020	retraining	retrain	V
+d003.s018.t021	of		X
+d003.s018.t022	older	old	J
+d003.s018.t023	workers	worker	N
+d003.s018.t024	.		X
+d003.s019.t001	The		X
+d003.s019.t002	gender	gender	N
+d003.s019.t003	and		X
+d003.s019.t004	ethnic	ethnic	J
+d003.s019.t005	backgrounds	background	N
+d003.s019.t006	of		X
+d003.s019.t007	workers	worker	N
+d003.s019.t008	and		X
+d003.s019.t009	how		X
+d003.s019.t010	these		X
+d003.s019.t011	relate	relate	V
+d003.s019.t012	to		X
+d003.s019.t013	age	age	N
+d003.s019.t014	discrimination	discrimination	N
+d003.s019.t015	are	be	V
+d003.s019.t016	examined	examine	V
+d003.s019.t017	.		X
+d003.s020.t001	The		X
+d003.s020.t002	project	project	N
+d003.s020.t003	also	also	R
+d003.s020.t004	considers	consider	V
+d003.s020.t005	initiatives	initiative	N
+d003.s020.t006	to		X
+d003.s020.t007	combat	combat	V
+d003.s020.t008	age	age	N
+d003.s020.t009	discrimination	discrimination	N
+d003.s020.t010	in		X
+d003.s020.t011	rural	rural	J
+d003.s020.t012	areas	area	N
+d003.s020.t013	and		X
+d003.s020.t014	in		X
+d003.s020.t015	small	small	J
+d003.s020.t016	and		X
+d003.s020.t017	medium	medium	J
+d003.s020.t018	sized	sized	J
+d003.s020.t019	enterprises	enterprise	N
+d003.s020.t020	.		X
+d003.s021.t001	Seven		X
+d003.s021.t002	member	member	N
+d003.s021.t003	states	state	N
+d003.s021.t004	are	be	V
+d003.s021.t005	covered	cover	V
+d003.s021.t006	by		X
+d003.s021.t007	the		X
+d003.s021.t008	project	project	N
+d003.s021.t009	:		X
+d003.s021.t010	Belgium	belgium	N
+d003.s021.t011	,		X
+d003.s021.t012	France	france	N
+d003.s021.t013	,		X
+d003.s021.t014	Germany	germany	N
+d003.s021.t015	,		X
+d003.s021.t016	Greece	greece	N
+d003.s021.t017	,		X
+d003.s021.t018	Italy	italy	N
+d003.s021.t019	,		X
+d003.s021.t020	the		X
+d003.s021.t021	Netherlands	netherlands	N
+d003.s021.t022	and		X
+d003.s021.t023	the		X
+d003.s021.t024	United	united	J
+d003.s021.t025	Kingdom	kingdom	N
+d003.s021.t026	.		X
+d004.s003.t001	What		X
+d004.s003.t002	is	be	V
+d004.s003.t003	Cerenia	cerenia	N
+d004.s003.t004	?		X
+d004.s004.t001	Cerenia	cerenia	N
+d004.s004.t002	contains	contain	V
+d004.s004.t003	the		X
+d004.s004.t004	active	active	J
+d004.s004.t005	substance	substance	N
+d004.s004.t006	maropitant	maropitant	N
+d004.s004.t007	and		X
+d004.s004.t008	is	be	V
+d004.s004.t009	available	available	J
+d004.s004.t010	as		X
+d004.s004.t011	tablet	tablet	N
+d004.s004.t012	or		X
+d004.s004.t013	as		X
+d004.s004.t014	solution	solution	N
+d004.s004.t015	for		X
+d004.s004.t016	injection	injection	N
+d004.s004.t017	.		X
+d004.s005.t001	The		X
+d004.s005.t002	tablets	tablet	N
+d004.s005.t003	are	be	V
+d004.s005.t004	pale-orange	pale-orange	J
+d004.s005.t005	and		X
+d004.s005.t006	have	have	V
+d004.s005.t007	a		X
+d004.s005.t008	score	score	N
+d004.s005.t009	line	line	N
+d004.s005.t010	on		X
+d004.s005.t011	both		X
+d004.s005.t012	sides	side	N
+d004.s005.t013	so	so	R
+d004.s005.t014	that		X
+d004.s005.t015	they		X
+d004.s005.t016	can		X
+d004.s005.t017	be	be	V
+d004.s005.t018	halved	halve	V
+d004.s005.t019	.		X
+d004.s006.t001	Each		X
+d004.s006.t002	tablet	tablet	N
+d004.s006.t003	is	be	V
+d004.s006.t004	marked	mark	V
+d004.s006.t005	with		X
+d004.s006.t006	the		X
+d004.s006.t007	Pfizer	pfizer	N
+d004.s006.t008	logo	logo	N
+d004.s006.t009	on		X
+d004.s006.t010	one		X
+d004.s006.t011	side	side	N
+d004.s006.t012	and		X
+d004.s006.t013	with		X
+d004.s006.t014	the		X
+d004.s006.t015	letters	letter	N
+d004.s006.t016	MPT	mpt	N
+d004.s006.t017	and		X
+d004.s006.t018	the		X
+d004.s006.t019	quantity	quantity	N
+d004.s006.t020	of		X
+d004.s006.t021	maropitant	maropitant	N
+d004.s006.t022	on		X
+d004.s006.t023	the		X
+d004.s006.t024	other	other	J
+d004.s006.t025	side	side	N
+d004.s006.t026	.		X
+d004.s007.t001	What		X
+d004.s007.t002	is	be	V
+d004.s007.t003	Cerenia	cerenia	N
+d004.s007.t004	used	use	V
+d004.s007.t005	for		X
+d004.s007.t006	?		X
+d004.s008.t001	Cerenia	cerenia	N
+d004.s008.t002	is	be	V
+d004.s008.t003	an		X
+d004.s008.t004	anti-emetic	anti-emetic	N
+d004.s008.t005	,		X
+d004.s008.t006	this		X
+d004.s008.t007	means	mean	V
+d004.s008.t008	that		X
+d004.s008.t009	it		X
+d004.s008.t010	stops	stop	V
+d004.s008.t011	vomiting	vomit	V
+d004.s008.t012	.		X
+d004.s009.t001	It		X
+d004.s009.t002	is	be	V
+d004.s009.t003	used	use	V
+d004.s009.t004	in		X
+d004.s009.t005	dogs	dog	N
+d004.s009.t006	to		X
+d004.s009.t007	prevent	prevent	V
+d004.s009.t008	vomiting	vomit	V
+d004.s009.t009	such	such	J
+d004.s009.t010	as		X
+d004.s009.t011	vomiting	vomit	V
+d004.s009.t012	caused	cause	V
+d004.s009.t013	by		X
+d004.s009.t014	chemotherapy	chemotherapy	N
+d004.s009.t015	(		X
+d004.s009.t016	medicines	medicine	N
+d004.s009.t017	used	use	V
+d004.s009.t018	for		X
+d004.s009.t019	the		X
+d004.s009.t020	treatment	treatment	N
+d004.s009.t021	of		X
+d004.s009.t022	cancer	cancer	N
+d004.s009.t023	,		X
+d004.s009.t024	some		X
+d004.s009.t025	of		X
+d004.s009.t026	which		X
+d004.s009.t027	are	be	V
+d004.s009.t028	known	know	V
+d004.s009.t029	to		X
+d004.s009.t030	cause	cause	V
+d004.s009.t031	vomiting	vomit	V
+d004.s009.t032	)		X
+d004.s009.t033	.		X
+d004.s010.t001	In		X
+d004.s010.t002	combination	combination	N
+d004.s010.t003	with		X
+d004.s010.t004	supportive	supportive	J
+d004.s010.t005	measures	measure	N
+d004.s010.t006	such	such	J
+d004.s010.t007	as		X
+d004.s010.t008	other	other	J
+d004.s010.t009	veterinary	veterinary	J
+d004.s010.t010	treatment	treatment	N
+d004.s010.t011	or		X
+d004.s010.t012	a		X
+d004.s010.t013	special	special	J
+d004.s010.t014	diet	diet	N
+d004.s010.t015	,		X
+d004.s010.t016	Cerenia	cerenia	N
+d004.s010.t017	can		X
+d004.s010.t018	also	also	R
+d004.s010.t019	be	be	V
+d004.s010.t020	used	use	V
+d004.s010.t021	in		X
+d004.s010.t022	the		X
+d004.s010.t023	treatment	treatment	N
+d004.s010.t024	of		X
+d004.s010.t025	vomiting	vomiting	N
+d004.s010.t026	(		X
+d004.s010.t027	either		X
+d004.s010.t028	as		X
+d004.s010.t029	injection	injection	N
+d004.s010.t030	or		X
+d004.s010.t031	as		X
+d004.s010.t032	injection	injection	N
+d004.s010.t033	followed	follow	V
+d004.s010.t034	by		X
+d004.s010.t035	tablets	tablet	N
+d004.s010.t036	)		X
+d004.s010.t037	.		X
+d004.s011.t001	For		X
+d004.s011.t002	these		X
+d004.s011.t003	purposes	purpose	N
+d004.s011.t004	,		X
+d004.s011.t005	Cerenia	cerenia	N
+d004.s011.t006	can		X
+d004.s011.t007	be	be	V
+d004.s011.t008	given	give	V
+d004.s011.t009	for		X
+d004.s011.t010	up to	up to	J
+d004.s011.t011	five		X
+d004.s011.t012	days	day	N
+d004.s012.t001	How		X
+d004.s012.t002	does	do	V
+d004.s012.t003	Cerenia	cerenia	N
+d004.s012.t004	work	work	V
+d004.s012.t005	?		X
+d004.s013.t001	Cerenia	cerenia	N
+d004.s013.t002	blocks	block	V
+d004.s013.t003	a		X
+d004.s013.t004	neurokinin	neurokinin	N
+d004.s013.t005	1		X
+d004.s013.t006	(		X
+d004.s013.t007	NK1	nk1	N
+d004.s013.t008	)		X
+d004.s013.t009	receptor	receptor	N
+d004.s013.t010	,		X
+d004.s013.t011	which		X
+d004.s013.t012	acts	act	V
+d004.s013.t013	in		X
+d004.s013.t014	the		X
+d004.s013.t015	central	central	J
+d004.s013.t016	nervous	nervous	J
+d004.s013.t017	system	system	N
+d004.s013.t018	.		X
+d004.s014.t001	How		X
+d004.s014.t002	has	have	V
+d004.s014.t003	Cerenia	cerenia	N
+d004.s014.t004	been	be	V
+d004.s014.t005	studied	study	V
+d004.s014.t006	?		X
+d004.s015.t001	A		X
+d004.s015.t002	large	large	J
+d004.s015.t003	number	number	N
+d004.s015.t004	of		X
+d004.s015.t005	studies	study	N
+d004.s015.t006	with		X
+d004.s015.t007	Cerenia	cerenia	N
+d004.s015.t008	were	be	V
+d004.s015.t009	carried	carry	V
+d004.s015.t010	out	out	R
+d004.s015.t011	either	either	R
+d004.s015.t012	in		X
+d004.s015.t013	laboratory	laboratory	N
+d004.s015.t014	dogs	dog	N
+d004.s015.t015	or		X
+d004.s015.t016	in		X
+d004.s015.t017	animal	animal	J
+d004.s015.t018	patients	patient	N
+d004.s015.t019	at		X
+d004.s015.t020	veterinary	veterinary	J
+d004.s015.t021	practises	practise	V
+d004.s015.t022	in		X
+d004.s015.t023	several	several	J
+d004.s015.t024	European	european	J
+d004.s015.t025	countries	country	N
+d004.s015.t026	and		X
+d004.s015.t027	in		X
+d004.s015.t028	the		X
+d004.s015.t029	USA	usa	N
+d004.s015.t030	.		X
+d004.s016.t001	What		X
+d004.s016.t002	benefit	benefit	N
+d004.s016.t003	has	have	V
+d004.s016.t004	Cerenia	cerenia	N
+d004.s016.t005	shown	show	V
+d004.s016.t006	during		X
+d004.s016.t007	the		X
+d004.s016.t008	studies	study	N
+d004.s016.t009	?		X
+d004.s017.t001	The		X
+d004.s017.t002	results	result	N
+d004.s017.t003	of		X
+d004.s017.t004	the		X
+d004.s017.t005	studies	study	N
+d004.s017.t006	showed	show	V
+d004.s017.t007	that		X
+d004.s017.t008	Cerenia	cerenia	N
+d004.s017.t009	was	be	V
+d004.s017.t010	more	more	R
+d004.s017.t011	effective	effective	J
+d004.s017.t012	than		X
+d004.s017.t013	the		X
+d004.s017.t014	placebo	placebo	N
+d004.s017.t015	:		X
+d004.s017.t016	less	less	J
+d004.s017.t017	vomiting	vomiting	N
+d004.s017.t018	was	be	V
+d004.s017.t019	seen	see	V
+d004.s017.t020	in		X
+d004.s017.t021	dogs	dog	N
+d004.s017.t022	that		X
+d004.s017.t023	received	receive	V
+d004.s017.t024	the		X
+d004.s017.t025	medicine	medicine	N
+d004.s017.t026	than		X
+d004.s017.t027	in		X
+d004.s017.t028	dogs	dog	N
+d004.s017.t029	that		X
+d004.s017.t030	received	receive	V
+d004.s017.t031	a		X
+d004.s017.t032	placebo	placebo	N
+d004.s017.t033	,		X
+d004.s017.t034	both		X
+d004.s017.t035	in		X
+d004.s017.t036	the		X
+d004.s017.t037	treatment	treatment	N
+d004.s017.t038	or		X
+d004.s017.t039	in		X
+d004.s017.t040	the		X
+d004.s017.t041	prevention	prevention	N
+d004.s017.t042	of		X
+d004.s017.t043	vomiting	vomiting	N
+d004.s017.t044	.		X
+d004.s018.t001	The		X
+d004.s018.t002	treatment	treatment	N
+d004.s018.t003	of		X
+d004.s018.t004	a		X
+d004.s018.t005	vomiting	vomiting	N
+d004.s018.t006	dog	dog	N
+d004.s018.t007	should		X
+d004.s018.t008	be	be	V
+d004.s018.t009	started	start	V
+d004.s018.t010	with		X
+d004.s018.t011	the		X
+d004.s018.t012	injection	injection	N
+d004.s018.t013	,		X
+d004.s018.t014	since		X
+d004.s018.t015	vomiting	vomiting	N
+d004.s018.t016	animals	animal	N
+d004.s018.t017	might		X
+d004.s018.t018	not	not	R
+d004.s018.t019	be	be	V
+d004.s018.t020	able	able	J
+d004.s018.t021	to		X
+d004.s018.t022	keep	keep	V
+d004.s018.t023	a		X
+d004.s018.t024	tablet	tablet	N
+d004.s018.t025	down	down	R
+d004.s018.t026	(		X
+d004.s018.t027	as		X
+d004.s018.t028	they		X
+d004.s018.t029	might		X
+d004.s018.t030	throw	throw	V
+d004.s018.t031	the		X
+d004.s018.t032	intact	intact	J
+d004.s018.t033	tablet	tablet	N
+d004.s018.t034	up	up	R
+d004.s018.t035	again	again	R
+d004.s018.t036	)		X
+d004.s018.t037	.		X
+d004.s019.t001	For		X
+d004.s019.t002	follow-up	follow-up	N
+d004.s019.t003	treatment	treatment	N
+d004.s019.t004	,		X
+d004.s019.t005	the		X
+d004.s019.t006	animal	animal	J
+d004.s019.t007	owner	owner	N
+d004.s019.t008	can		X
+d004.s019.t009	administer	administer	V
+d004.s019.t010	the		X
+d004.s019.t011	tablets	tablet	N
+d004.s019.t012	to		X
+d004.s019.t013	the		X
+d004.s019.t014	dog	dog	N
+d004.s019.t015	.		X
+d004.s020.t001	Also	also	R
+d004.s020.t002	,		X
+d004.s020.t003	the		X
+d004.s020.t004	treatment	treatment	N
+d004.s020.t005	of		X
+d004.s020.t006	vomiting	vomiting	N
+d004.s020.t007	should		X
+d004.s020.t008	only	only	R
+d004.s020.t009	be	be	V
+d004.s020.t010	together	together	R
+d004.s020.t011	with		X
+d004.s020.t012	other	other	J
+d004.s020.t013	supportive	supportive	J
+d004.s020.t014	measure	measure	N
+d004.s020.t015	or		X
+d004.s020.t016	other	other	J
+d004.s020.t017	veterinary	veterinary	J
+d004.s020.t018	therapy	therapy	N
+d004.s020.t019	while		X
+d004.s020.t020	addressing	address	V
+d004.s020.t021	the		X
+d004.s020.t022	underlying	underlie	V
+d004.s020.t023	causes	cause	N
+d004.s020.t024	of		X
+d004.s020.t025	the		X
+d004.s020.t026	vomiting	vomiting	N
+d004.s020.t027	.		X
+d004.s021.t001	What		X
+d004.s021.t002	is	be	V
+d004.s021.t003	the		X
+d004.s021.t004	risk	risk	N
+d004.s021.t005	associated	associate	V
+d004.s021.t006	with		X
+d004.s021.t007	Cerenia	cerenia	N
+d004.s021.t008	?		X
+d004.s022.t001	Cerenia	cerenia	N
+d004.s022.t002	was	be	V
+d004.s022.t003	generally	generally	R
+d004.s022.t004	well	well	R
+d004.s022.t005	tolerated	tolerate	V
+d004.s022.t006	when		X
+d004.s022.t007	administered	administer	V
+d004.s022.t008	daily	daily	R
+d004.s022.t009	at		X
+d004.s022.t010	dosages	dosage	N
+d004.s022.t011	up	up	R
+d004.s022.t012	to		X
+d004.s022.t013	5		X
+d004.s022.t014	times	time	N
+d004.s022.t015	the		X
+d004.s022.t016	recommended	recommend	V
+d004.s022.t017	doses	dose	N
+d004.s022.t018	for		X
+d004.s022.t019	an		X
+d004.s022.t020	extended	extended	J
+d004.s022.t021	period	period	N
+d004.s022.t022	of		X
+d004.s022.t023	time	time	N
+d004.s022.t024	(		X
+d004.s022.t025	up	up	R
+d004.s022.t026	to		X
+d004.s022.t027	3		X
+d004.s022.t028	times	time	N
+d004.s022.t029	the		X
+d004.s022.t030	recommended	recommended	J
+d004.s022.t031	maximum	maximum	J
+d004.s022.t032	duration	duration	N
+d004.s022.t033	of		X
+d004.s022.t034	treatment	treatment	N
+d004.s022.t035	)		X
+d004.s022.t036	.		X
+d004.s023.t001	What		X
+d004.s023.t002	are	be	V
+d004.s023.t003	the		X
+d004.s023.t004	precautions	precaution	N
+d004.s023.t005	for		X
+d004.s023.t006	the		X
+d004.s023.t007	person	person	N
+d004.s023.t008	who		X
+d004.s023.t009	gives	give	V
+d004.s023.t010	the		X
+d004.s023.t011	medicine	medicine	N
+d004.s023.t012	or		X
+d004.s023.t013	comes	come	V
+d004.s023.t014	into		X
+d004.s023.t015	contact	contact	N
+d004.s023.t016	with		X
+d004.s023.t017	the		X
+d004.s023.t018	animal	animal	N
+d004.s023.t019	?		X
+d004.s024.t001	Cerenia	cerenia	N
+d004.s024.t002	does	do	V
+d004.s024.t003	not	not	R
+d004.s024.t004	represent	represent	V
+d004.s024.t005	a		X
+d004.s024.t006	particular	particular	J
+d004.s024.t007	risk	risk	N
+d004.s024.t008	for		X
+d004.s024.t009	people	people	N
+d004.s024.t010	.		X
