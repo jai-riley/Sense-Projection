@@ -1,6 +1,7 @@
 import csv
 
 def process_tsv(input_file, output_file):
+    count = 0
     with open(input_file, 'r', newline='', encoding='utf-8') as infile, \
         open(output_file, 'w', newline='', encoding='utf-8') as outfile:
 
@@ -8,15 +9,21 @@ def process_tsv(input_file, output_file):
         writer = csv.DictWriter(outfile, fieldnames=['Start', "Sense"], delimiter=' ')
         writer.writeheader()
         for row in reader:
-            token_id = row['Token ID']
-            bn_synset = row['BN Synset']
+            # print(row)
+            try:
+                token_id = row['\ufeffToken ID']
+            except:
+                token_id = row['Token ID']
 
+            bn_synset = row['BN Synset']
+            # print(str(token_id))
             if '➕' in token_id:
                 token_id = token_id.split('➕')
                 current_start = token_id[0]
             else:
                 current_start = token_id
             if bn_synset != "":
+
                 bn_synset = bn_synset.split(";")
                 d = {'Start': current_start, "Sense": bn_synset[0]}
                 # for x in range(len(bn_synset)):
@@ -24,7 +31,7 @@ def process_tsv(input_file, output_file):
 
                 writer.writerow(d)
 
-
+    print(count)
 
 def process_key(input_file, output_file):
     with open(input_file, 'r', newline='', encoding='utf-8') as infile, \

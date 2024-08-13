@@ -1,0 +1,1113 @@
+d000.s000.t000	document	documento	1-1
+d000.s000.t001	summary	sintesi	4-4
+d000.s000.t002	european	relazione	7-7
+d000.s000.t003	public	pubblico	8-8
+d000.s000.t004	assessment	valutazione	9-10
+d000.s000.t005	report	NONE
+d000.s001.t000	explain	descrivere	1-2
+d000.s001.t001	committee	comitato	4-8
+d000.s001.t002	medicinal	medicinale	6-11
+d000.s001.t003	product	NONE
+d000.s001.t004	human	umano	9-14
+d000.s001.t005	use	uso	10-13
+d000.s001.t006	assess	valutare	14-19
+d000.s001.t007	study	studio	16-21
+d000.s001.t008	perform	NONE
+d000.s001.t009	reach	NONE
+d000.s001.t010	recommendation	raccomandazione	22-28
+d000.s001.t011	use	usare	26-31
+d000.s001.t012	medicine	medicinale	28-33
+d000.s002.t000	need	riguardare	2-3
+d000.s002.t001	more	NONE
+d000.s002.t002	information	informazione	4-2
+d000.s002.t003	medical	NONE
+d000.s002.t004	condition	condizione	8-6
+d000.s002.t005	treatment	terapia	11-11
+d000.s002.t006	read	leggere	13-13
+d000.s002.t007	package	foglio	15-15
+d000.s002.t008	leaflet	illustrativo	16-16
+d000.s002.t009	also	NONE
+d000.s002.t010	part	allegare	19-18
+d000.s002.t011	contact	NONE
+d000.s002.t012	doctor	medico	27-25
+d000.s002.t013	pharmacist	farmacista	29-28
+d000.s003.t000	want	NONE
+d000.s003.t001	more	NONE
+d000.s003.t002	information	informazione	4-2
+d000.s003.t003	basis	NONE
+d000.s003.t004	recommendation	raccomandazione	11-7
+d000.s003.t005	read	leggere	13-11
+d000.s003.t006	scientific	scientifico	15-14
+d000.s003.t007	discussion	discussione	16-13
+d000.s003.t008	also	NONE
+d000.s003.t009	part	allegare	19-18
+d000.s005.t000	powder	polvere	3-3
+d000.s005.t001	make	essere	6-1
+d000.s005.t002	a	NONE
+d000.s005.t003	for	per	11-8
+d000.s005.t004	(	(	13-10
+d000.s005.t005	a	NONE
+d000.s006.t000	contain	contenere	1-0
+d000.s006.t001	active	attivo	3-3
+d000.s006.t002	substance	attivo	4-3
+d000.s007.t000	use	usare	3-4
+d000.s008.t000	use	NONE
+d000.s008.t001	treat	NONE
+d000.s008.t002	type	tipo	6-7
+d000.s008.t003	cancer	tumore	8-9
+d000.s008.t004	pleural	pleurico	10-13
+d000.s008.t005	mesothelioma	mesotelioma	11-12
+d000.s008.t006	cancer	tumore	13-15
+d000.s008.t007	lining	NONE
+d000.s008.t008	lung	polmone	19-21
+d000.s008.t009	usually	generalmente	22-23
+d000.s008.t010	cause	provocare	23-24
+d000.s008.t011	exposure	esposizione	25-26
+d000.s008.t012	asbestos	amianto	27-28
+d000.s009.t000	use	utilizzare	2-2
+d000.s009.t001	together	NONE
+d000.s009.t002	cisplatin	cisplatino	5-6
+d000.s009.t003	anticancer	antitumorale	8-11
+d000.s009.t004	medicine	farmaco	9-10
+d000.s009.t005	cancer	tumore	13-15
+d000.s009.t006	remove	asportare	19-23
+d000.s009.t007	surgery	intervento_chirurgico	21-27,28
+d000.s009.t008	alone	solo	22-26
+d000.s009.t009	malignant	maligno	25-32
+d000.s009.t010	spread	diffondere	28-36
+d000.s009.t011	likely	probabile	32-40
+d000.s009.t012	spread	diffondere	34-42
+d000.s009.t013	easily	facilmente	35-43
+d000.s009.t014	other	altro	38-9
+d000.s009.t015	part	parte	39-47
+d000.s009.t016	body	corpo	42-49
+d000.s009.t017	patient	paziente	46-53
+d000.s009.t018	not	non	49-55
+d000.s009.t019	receive	essere	50-1
+d000.s009.t020	chemotherapy	antitumorale	51-11
+d000.s009.t021	medicine	NONE
+d000.s009.t022	cancer	NONE
+d000.s009.t023	advanced	avanzato	58-72
+d000.s009.t024	metastatic	metastatico	60-74
+d000.s009.t025	non-small	carcinoma	61-64
+d000.s009.t026	cell	cellula	62-69
+d000.s009.t027	lung	polmonare	63-65
+d000.s009.t028	cancer	NONE
+d000.s009.t029	not	non	67-76
+d000.s009.t030	affect	interessare	68-77
+d000.s009.t031	squamous	squamoso	70-80
+d000.s009.t032	cell	cellula	71-79
+d000.s010.t000	use	usare	2-2
+d000.s010.t001	combination	associazione	4-4
+d000.s010.t002	cisplatin	cisplatino	6-6
+d000.s010.t003	patient	paziente	8-8
+d000.s010.t004	not	non	11-9
+d000.s010.t005	treat	trattare	13-10
+d000.s010.t006	patient	paziente	21-17
+d000.s010.t007	receive	essere	24-1
+d000.s010.t008	type	tipo	26-27
+d000.s010.t009	chemotherapy	chemioterapia	28-29
+d000.s010.t010	past	passato	31-12
+d000.s011.t000	medicine	medicinale	1-1
+d000.s011.t001	only	soltanto	3-5
+d000.s011.t002	obtain	ottenere	5-4
+d000.s011.t003	prescription	prescrizione	8-7
+d000.s012.t000	use	usare	3-2
+d000.s013.t000	only	solamente	2-4
+d000.s013.t001	give	somministrare	4-3
+d000.s013.t002	supervision	supervisione	7-7
+d000.s013.t003	doctor	medico	10-10
+d000.s013.t004	use	uso	16-14
+d000.s013.t005	anticancer	antitumorale	18-17
+d000.s013.t006	chemotherapy	chemioterapia	19-16
+d000.s014.t000	dose	dose	2-1
+d000.s014.t001	mg	mg	7-8
+d000.s014.t002	square	quadrato	9-11
+d000.s014.t003	metre	metro	10-10
+d000.s014.t004	body	NONE
+d000.s014.t005	surface	superficie	13-13
+d000.s014.t006	area	NONE
+d000.s014.t007	calculate	calcolare	16-16
+d000.s014.t008	use	utilizzare	17-17
+d000.s014.t009	patient	paziente	19-24
+d000.s014.t010	height	altezza	21-19
+d000.s014.t011	weight	peso	23-22
+d000.s014.t012	give	somministrare	28-27
+d000.s014.t013	once	volta	29-35
+d000.s014.t014	every	ogni	30-36
+d000.s014.t015	week	settimana	32-38
+d000.s014.t016	intravenous	endovenoso	35-30
+d000.s014.t017	infusion	infusione	36-29
+d000.s014.t018	last	NONE
+d000.s014.t019	minute	minuto	39-33
+d000.s015.t000	reduce	ridurre	1-1
+d000.s015.t001	side	NONE
+d000.s015.t002	effect	effetto	3-3
+d000.s015.t003	patient	paziente	5-7
+d000.s015.t004	take	assumere	7-9
+d000.s015.t005	corticosteroid	NONE
+d000.s015.t006	folic	corticosteroide	11-11
+d000.s015.t007	acid	acido	12-13
+d000.s015.t008	type	tipo	15-17
+d000.s015.t009	vitamin	vitamina	17-19
+d000.s015.t010	injection	iniezione	22-23
+d000.s015.t011	vitamin	vitamina	24-25
+d000.s015.t012	treatment	trattamento	27-29
+d000.s016.t000	give	somministrare	3-3
+d000.s016.t001	cisplatin	cisplatino	5-5
+d000.s016.t002	medicine	farmaco	9-12
+d000.s016.t003	prevent	prevenire	12-16
+d000.s016.t004	vomit	vomito	13-18
+d000.s016.t005	fluid	NONE
+d000.s016.t006	prevent	prevenire	19-27
+d000.s016.t007	dehydration	disidratazione	20-29
+d000.s016.t008	also	NONE
+d000.s016.t009	give	NONE
+d000.s016.t010	before	prima	26-31
+d000.s016.t011	after	dopo	28-33
+d000.s016.t012	cisplatin	cisplatino	30-37
+d000.s016.t013	dose	NONE
+d000.s017.t000	treatment	trattamento	0-1
+d000.s017.t001	delay	posticipare	3-4
+d000.s017.t002	discontinue	interrompere	5-6
+d000.s017.t003	dose	dose	9-10
+d000.s017.t004	reduce	ridurre	10-13
+d000.s017.t005	patient	paziente	13-16
+d000.s017.t006	blood	ematico	15-21
+d000.s017.t007	count	conta	16-20
+d000.s017.t008	abnormal	conta	18-20
+d000.s017.t009	have	dovere	21-2
+d000.s017.t010	certain	altri	22-25
+d000.s017.t011	other	NONE
+d000.s017.t012	side	NONE
+d000.s017.t013	effect	effetto	25-26
+d000.s018.t000	not	NONE
+d000.s018.t001	recommend	impiego	3-1
+d000.s018.t002	use	impiego	5-1
+d000.s018.t003	patient	paziente	7-7
+d000.s018.t004	moderate	moderato	9-13
+d000.s018.t005	severe	grave	11-11
+d000.s018.t006	kidney	renale	12-10
+d000.s018.t007	problem	moderato	13-13
+d000.s019.t000	more	NONE
+d000.s019.t001	information	informazione	2-2
+d000.s019.t002	see	rimandare	4-5
+d000.s019.t003	summary	riassunto	6-7
+d000.s019.t004	product	prodotto	8-11
+d000.s019.t005	also	NONE
+d000.s019.t006	part	anch	12-13
+d000.s021.t000	active	attivo	1-2
+d000.s021.t001	substance	attivo	2-2
+d000.s021.t002	cytotoxic	citotossico	10-11
+d000.s021.t003	medicine	medicinale	11-10
+d000.s021.t004	medicine	medicinale	14-13
+d000.s021.t005	kill	uccidere	16-15
+d000.s021.t006	cell	cellula	17-17
+d000.s021.t007	divide	NONE
+d000.s021.t008	as	come	23-22
+d000.s021.t009	cancer	NONE
+d000.s021.t010	which	che	28-28
+d000.s021.t011	the	degli	31-32
+d000.s021.t012	group	gruppo	32-31
+d000.s022.t000	body	organismo	2-1
+d000.s022.t001	pemetrexed	pemetrexed	4-3
+d000.s022.t002	convert	trasformare	6-5
+d000.s022.t003	active	attivo	9-9
+d000.s022.t004	form	forma	10-8
+d000.s022.t005	block	bloccare	12-11
+d000.s022.t006	activity	attività	14-13
+d000.s022.t007	enzyme	enzima	17-15
+d000.s022.t008	involve	coinvolgere	20-16
+d000.s022.t009	produce	NONE
+d000.s022.t010	nucleotide	nucleotidi	23-20
+d000.s022.t011	building	NONE
+d000.s022.t012	of	di	28-25
+d000.s022.t013	and	e	30-27
+d000.s022.t014	the	il	33-30
+d000.s022.t015	genetic	genetico	34-32
+d000.s022.t016	of	delle	36-33
+d000.s023.t000	study	studio	4-1
+d000.s024.t000	treatment	trattamento	2-2
+d000.s024.t001	malignant	maligno	4-6
+d000.s024.t002	pleural	pleurico	5-5
+d000.s024.t003	mesothelioma	mesotelioma	6-4
+d000.s024.t004	study	esaminare	11-11
+d000.s024.t005	main	principale	14-17
+d000.s024.t006	study	studio	15-16
+d000.s024.t007	patient	paziente	18-21
+d000.s024.t008	not	non	21-23
+d000.s024.t009	receive	essere	22-9
+d000.s024.t010	chemotherapy	chemioterapia	23-28
+d000.s024.t011	disease	precedenza	26-30
+d000.s024.t012	before	NONE
+d000.s025.t000	effect	effetto	1-1
+d000.s025.t001	combination	combinazione	5-6
+d000.s025.t002	cisplatin	cisplatino	7-8
+d000.s025.t003	compare	confrontare	9-11
+d000.s025.t004	cisplatin	cisplatino	13-15
+d000.s025.t005	alone	monoterapia	14-17
+d000.s026.t000	treatment	trattamento	2-2
+d000.s026.t001	non-small	carcinoma	4-4
+d000.s026.t002	cell	cellula	5-9
+d000.s026.t003	lung	polmonare	6-5
+d000.s026.t004	cancer	tumore	7-36
+d000.s026.t005	effect	effetto	10-12
+d000.s026.t006	compare	confrontare	14-17
+d000.s026.t007	docetaxel	docetaxel	18-21
+d000.s026.t008	anticancer	antitumorale	21-26
+d000.s026.t009	medicine	farmaco	22-25
+d000.s026.t010	study	studio	26-30
+d000.s026.t011	involve	NONE
+d000.s026.t012	patient	paziente	29-34
+d000.s026.t013	locally	NONE
+d000.s026.t014	advanced	avanzato	32-39
+d000.s026.t015	metastatic	metastatico	34-41
+d000.s026.t016	disease	precedenza	35-46
+d000.s026.t017	receive	essere	38-15
+d000.s026.t018	chemotherapy	antitumorale	39-26
+d000.s026.t019	past	chemioterapia	42-48
+d000.s027.t000	also	anche	2-3
+d000.s027.t001	compare	confrontare	3-4
+d000.s027.t002	gemcitabine	gemcitabina	5-6
+d000.s027.t003	anticancer	antitumorale	8-10
+d000.s027.t004	medicine	medicinale	9-9
+d000.s027.t005	combination	associazione	14-15
+d000.s027.t006	cisplatin	cisplatino	16-17
+d000.s027.t007	study	studio	20-21
+d000.s027.t008	involve	NONE
+d000.s027.t009	patient	paziente	23-24
+d000.s027.t010	not	non	26-28
+d000.s027.t011	receive	essere	27-1
+d000.s027.t012	chemotherapy	antitumorale	28-10
+d000.s027.t013	lung	polmonare	30-37
+d000.s027.t014	cancer	tumore	31-36
+d000.s027.t015	past	passato	34-27
+d000.s028.t000	study	studio	3-5
+d000.s028.t001	main	principale	6-8
+d000.s028.t002	measure	tempo	7-14
+d000.s028.t003	effectiveness	efficacia	9-11
+d000.s028.t004	long	tempo	12-14
+d000.s028.t005	patient	paziente	14-18
+d000.s028.t006	survive	NONE
+d000.s029.t000	benefit	beneficio	1-1
+d000.s029.t001	show	avere	4-2
+d000.s029.t002	study	studio	7-8
+d000.s030.t000	increase	aumentare	1-2
+d000.s030.t001	survival	sopravvivenza	3-6
+d000.s030.t002	time	tempo	4-4
+d000.s030.t003	patient	paziente	6-8
+d000.s030.t004	malignant	NONE
+d000.s030.t005	pleural	pleurico	9-12
+d000.s030.t006	mesothelioma	mesotelioma	10-11
+d000.s031.t000	patient	paziente	0-24
+d000.s031.t001	receive	essere	1-4
+d000.s031.t002	cisplatin	cisplatino	4-11
+d000.s031.t003	survive	sopravvivere	5-13
+d000.s031.t004	average	media	8-15
+d000.s031.t005	month	mese	11-17
+d000.s031.t006	compare	NONE
+d000.s031.t007	month	mese	16-22
+d000.s031.t008	cisplatin	cisplatino	20-28
+d000.s031.t009	alone	monoterapia	21-30
+d000.s032.t000	treatment	trattamento	2-1
+d000.s032.t001	patient	paziente	4-3
+d000.s032.t002	non-small	carcinoma	6-5
+d000.s032.t003	cell	cellula	7-10
+d000.s032.t004	lung	polmonare	8-6
+d000.s032.t005	cancer	NONE
+d000.s032.t006	as	rivelare	13-15
+d000.s032.t007	effective	efficace	14-17
+d000.s032.t008	as	quanto	15-18
+d000.s033.t000	patient	paziente	1-1
+d000.s033.t001	receive	essere	4-5
+d000.s033.t002	chemotherapy	chemioterapia	5-9
+d000.s033.t003	past	passato	8-4
+d000.s033.t004	average	medio	11-15
+d000.s033.t005	survival	sopravvivenza	12-14
+d000.s033.t006	time	tempo	13-12
+d000.s033.t007	month	mese	16-20
+d000.s033.t008	compare	NONE
+d000.s033.t009	month	NONE
+d000.s033.t010	docetaxel	docetaxel	25-27
+d000.s034.t000	patient	paziente	1-1
+d000.s034.t001	not	non	4-5
+d000.s034.t002	receive	essere	5-6
+d000.s034.t003	chemotherapy	chemioterapia	6-10
+d000.s034.t004	past	passato	9-4
+d000.s034.t005	average	medio	12-16
+d000.s034.t006	survival	sopravvivenza	13-15
+d000.s034.t007	time	tempo	14-13
+d000.s034.t008	month	mese	17-21
+d000.s034.t009	group	gruppo	20-25
+d000.s035.t000	however	tuttavia	0-0
+d000.s035.t001	study	studio	4-5
+d000.s035.t002	patient	paziente	6-7
+d000.s035.t003	cancer	tumore	8-10
+d000.s035.t004	not	non	10-11
+d000.s035.t005	affect	interessare	11-12
+d000.s035.t006	squamous	squamoso	12-14
+d000.s035.t007	cell	cellula	13-13
+d000.s035.t008	have	avere	14-15
+d000.s035.t009	long	lungo	15-21
+d000.s035.t010	survival	sopravvivenza	16-19
+d000.s035.t011	time	tempo	17-17
+d000.s036.t000	contrast	invece	1-0
+d000.s036.t001	patient	paziente	3-3
+d000.s036.t002	cancer	tumore	5-6
+d000.s036.t003	affect	interessare	7-7
+d000.s036.t004	squamous	squamoso	8-9
+d000.s036.t005	cell	cellula	9-8
+d000.s036.t006	have	avere	10-10
+d000.s036.t007	short	breve	11-16
+d000.s036.t008	survival	sopravvivenza	12-14
+d000.s036.t009	time	tempo	13-12
+d000.s036.t010	mathematical	matematico	22-26
+d000.s036.t011	calculator	calcolatrice	23-25
+d000.s036.t012	base	basare	24-27
+d000.s036.t013	markup	NONE
+d000.s036.t014	language	linguaggio	29-29
+d000.s037.t000	nowadays	eseguire	0-1
+d000.s037.t001	capable	NONE
+d000.s037.t002	make	NONE
+d000.s037.t003	simple	semplice	6-2
+d000.s037.t004	operation	operazione	8-3
+d000.s037.t005	arithmetic	aritmetico	10-5
+d000.s037.t006	3d	3d	19-17
+d000.s037.t007	graph	grafico	20-14
+d000.s038.t000	actually	NONE
+d000.s038.t001	not	non	3-0
+d000.s038.t002	necessary	necessario	4-2
+d000.s038.t003	know	conoscere	6-3
+d000.s038.t004	use	usare	9-6
+d000.s038.t005	base	basare	16-14
+d000.s038.t006	graph	grafico	17-13
+d000.s038.t007	calculator	calcolatrice	18-12
+d000.s039.t000	initially	inizialmente	3-2
+d000.s039.t001	orient	orientare	5-4
+d000.s039.t002	now	NONE
+d000.s039.t003	use	usare	10-12
+d000.s039.t004	little	minimo	14-17
+d000.s039.t005	mathematical	matematico	15-20
+d000.s039.t006	knowledge	conoscenza	16-19
+d000.s040.t000	here	immagine	0-0
+d000.s040.t001	screenshot	NONE
+d000.s040.t002	main	principale	6-7
+d000.s040.t003	window	finestra	7-6
+d000.s040.t004	main	principale	9-3
+d000.s040.t005	window	finestra	10-11
+d000.s040.t006	main	principale	12-12
+d000.s040.t007	window	finestra	13-2
+d000.s040.t008	consist	essere	14-15
+d000.s040.t009	console	console	17-20
+d000.s040.t010	tab	scheda	18-19
+d000.s040.t011	graph	NONE
+d000.s040.t012	tab	scheda	23-23
+d000.s040.t013	3d	3d	26-28
+d000.s040.t014	graph	NONE
+d000.s040.t015	tab	scheda	28-27
+d000.s040.t016	dictionary	dizionario	31-32
+d000.s040.t017	tab	scheda	32-31
+d000.s041.t000	below	sotto	0-0
+d000.s041.t001	tab	scheda	2-2
+d000.s041.t002	find	trovare	5-4
+d000.s041.t003	input	campo	7-6
+d000.s041.t004	field	campo	8-6
+d000.s041.t005	type	NONE
+d000.s041.t006	function	funzione	12-12
+d000.s041.t007	do	fare	14-14
+d000.s041.t008	calculation	calcolo	16-15
+d000.s042.t000	want	volere	2-1
+d000.s042.t001	understand	capire	4-2
+d000.s042.t002	work	funzionare	7-4
+d000.s042.t003	good	NONE
+d000.s042.t004	thing	cosa	11-7
+d000.s042.t005	do	fare	14-10
+d000.s042.t006	realize	comprendere	17-12
+d000.s042.t007	input	NONE
+d000.s042.t008	convert	convertire	23-19
+d000.s042.t009	not	non	29-25
+d000.s042.t010	necessary	necessario	30-27
+d000.s042.t011	know	conoscere	32-28
+d000.s043.t000	base	basare	2-1
+d000.s043.t001	syntax	sintassi	4-3
+d000.s043.t002	basically	praticamente	5-4
+d000.s043.t003	common	comune	7-7
+d000.s043.t004	sense	senso	8-6
+d000.s043.t005	not	non	12-10
+d000.s043.t006	hard	NONE
+d000.s043.t007	anyone	difficile	16-13
+d000.s044.t000	look	dare	2-1
+d000.s044.t001	closely	NONE
+d000.s044.t002	syntax	sintassi	9-5
+d000.s044.t003	look	NONE
+d000.s044.t004	very	NONE
+d000.s044.t005	similar	simile	14-17
+d000.s044.t006	addition	addizione	21-24
+d000.s044.t007	subtraction	sottrazione	23-26
+d000.s044.t008	multiplication	moltiplicazione	25-28
+d000.s044.t009	division	divisione	27-30
+d000.s044.t010	power	potenza	33-38
+d000.s044.t011	use	usare	37-41
+d000.s045.t000	also	anche	0-1
+d000.s045.t001	possible	possibile	3-2
+d000.s045.t002	use	usare	5-3
+d000.s045.t003	character	carattere	9-5
+d000.s046.t000	power	potenza	0-4
+d000.s046.t001	way	NONE
+d000.s046.t002	make	essere	5-5
+d000.s046.t003	root	radice	6-9
+d000.s046.t004	too	NONE
+d000.s046.t005	the	il	13-13
+d000.s046.t006	way	modo	14-14
+d000.s046.t007	specify	specificare	16-16
+d000.s046.t008	bound	NONE
+d000.s046.t009	variable	variabile	19-18
+d000.s046.t010	function	funzione	22-22
+d000.s046.t011	use	usare	29-27
+d000.s046.t012	specify	specificare	31-29
+d000.s046.t013	high	alto	33-33
+d000.s046.t014	priority	priorità	34-31
+d000.s046.t015	parser	NONE
+d000.s046.t016	find	trovare	41-40
+d000.s046.t017	function	funzione	43-42
+d000.s046.t018	check	controllare	46-44
+d000.s046.t019	operator	operatore	51-51
+d000.s047.t000	treat	trattare	7-5
+d000.s047.t001	operator	operatore	10-8
+d000.s047.t002	not	non	15-10
+d000.s047.t003	treat	trattare	20-15
+d000.s047.t004	user	utente	23-19
+d000.s047.t005	function	funzione	24-18
+d000.s047.t006	use	usare	31-24
+d000.s047.t007	define	definire	33-26
+d000.s047.t008	value	valore	36-28
+d000.s047.t009	piecewise	tratto	40-40
+d000.s047.t010	condition	condizione	41-37
+d000.s047.t011	definition	definizione	42-35
+d000.s048.t000	piecewise	definizione	0-1
+d000.s048.t001	the	NONE
+d000.s048.t002	way	modo	3-8
+d000.s048.t003	define	definire	6-12
+d000.s048.t004	conditional	condizionale	7-14
+d000.s048.t005	operation	operazione	8-13
+d000.s049.t000	introduce	introdurre	2-1
+d000.s049.t001	condition	condizione	4-3
+d000.s049.t002	?	?	7-7
+d000.s049.t003	use	usare	10-13
+d000.s049.t004	condition	condizione	12-11
+d000.s049.t005	only	essere	13-12
+d000.s049.t006	true	vero	17-17
+d000.s049.t007	find	trovare	21-20
+d000.s049.t008	?	?	23-23
+d000.s049.t009	condition	condizione	26-26
+d000.s049.t010	enter	NONE
+d000.s049.t011	last	ultimo	33-31
+d000.s049.t012	instance	NONE
+d000.s049.t013	container	contenitore	40-37
+d000.s049.t014	use	usare	45-42
+d000.s049.t015	define	definire	47-44
+d000.s049.t016	container	contenitore	49-46
+d000.s050.t000	mainly	principalmente	0-1
+d000.s050.t001	useful	utile	1-0
+d000.s050.t002	work	funzione	3-4
+d000.s050.t003	piecewise	tratto	5-7
+d000.s051.t000	now	adesso	0-0
+d000.s051.t001	ask	chiedere	3-2
+d000.s051.t002	user	utente	9-6
+d000.s051.t003	easy	semplice	16-11
+d000.s051.t004	operate	operare	23-17
+d000.s051.t005	function	funzione	25-19
+d000.s051.t006	cos	cos	27-21
+d000.s051.t007	sin	sin	29-23
+d000.s051.t008	other	NONE
+d000.s051.t009	trigonometric	trigonometrico	33-29
+d000.s051.t010	function	funzione	34-28
+d000.s051.t011	sum	NONE
+d000.s051.t012	product	NONE
+d000.s052.t000	not	non	2-0
+d000.s052.t001	matter	importare	3-1
+d000.s052.t002	kind	tipo	5-3
+d000.s053.t000	use	usare	2-1
+d000.s053.t001	plus	plus	3-2
+d000.s053.t002	times	times	5-4
+d000.s053.t003	have	avere	9-9
+d000.s053.t004	operator	operatore	11-11
+d000.s053.t005	useful	utile	17-18
+d000.s053.t006	calculator	calcolatrice	20-20
+d000.s054.t000	there	c	0-0
+d000.s054.t001	have	essere	2-1
+d000.s054.t002	list	lista	4-3
+d000.s054.t003	variable	variabile	8-5
+d000.s055.t000	see	vedere	7-8
+d000.s055.t001	let	fare	11-0
+d000.s055.t002	change	modificare	13-17
+d000.s055.t003	value	valore	15-19
+d000.s055.t004	just	il	17-18
+d000.s055.t005	way	modo	19-22
+d000.s055.t006	trick	ingannare	21-24
+d000.s055.t007	log	log	23-26
+d000.s056.t000	time	volta	1-1
+d000.s056.t001	enter	inserire	3-3
+d000.s056.t002	expression	espressione	5-5
+d000.s056.t003	variable	variabile	11-10
+d000.s056.t004	value	valore	12-8
+d000.s056.t005	change	modificare	15-15
+d000.s056.t006	last	ultimo	18-17
+d000.s056.t007	result	risultato	19-18
+d000.s057.t000	ctrl	ctrl	0-0
+d000.s057.t001	n	n	1-1
+d000.s057.t002	new	nuovo	2-2
+d000.s057.t003	window	NONE
+d000.s058.t000	log	console	2-2
+d000.s059.t000	ctrl	ctrl	0-0
+d000.s059.t001	l	c	1-1
+d000.s059.t002	load	caricare	2-2
+d000.s060.t000	execute	eseguire	0-0
+d000.s060.t001	instruction	istruzione	2-2
+d000.s060.t002	file	file	5-6
+d000.s060.t003	sequentially	file	6-6
+d000.s061.t000	nice	buono	0-1
+d000.s061.t001	want	creare	3-4
+d000.s061.t002	define	""""	5-5
+d000.s061.t003	library	libreria	7-6
+d000.s061.t004	resume	riprendere	9-9
+d000.s061.t005	previous	NONE
+d000.s061.t006	work	creare	12-4
+d000.s062.t000	ctrl	ctrl	0-0
+d000.s062.t001	g	s	1-1
+d000.s062.t002	save	salvare	2-2
+d000.s063.t000	save	salvare	0-0
+d000.s063.t001	instruction	istruzione	2-2
+d000.s063.t002	type	dall'	5-4
+d000.s063.t003	session	sessione	8-7
+d000.s063.t004	begin	NONE
+d000.s063.t005	able	potere	12-11
+d000.s063.t006	reuse	riusare	14-12
+d000.s064.t000	generate	generare	0-0
+d000.s064.t001	text	testo_semplice	1-3,4
+d000.s064.t002	file	file	2-1
+d000.s064.t003	easy	NONE
+d000.s064.t004	fix	NONE
+d000.s064.t005	use	usare	10-10
+d000.s064.t006	text	testo	12-15
+d000.s064.t007	editor	editor	13-13
+d000.s065.t000	ctrl	ctrl	0-0
+d000.s065.t001	s	l	1-1
+d000.s065.t002	save	salvare	2-2
+d000.s065.t003	log	log	3-3
+d000.s066.t000	save	salvare	0-0
+d000.s066.t001	log	log	2-2
+d000.s066.t002	result	risultato	5-6
+d000.s066.t003	html	html	8-9
+d000.s066.t004	able	potere	12-11
+d000.s066.t005	print	stampare	14-13
+d000.s066.t006	publish	pubblicare	16-15
+d000.s067.t000	ctrl	ctrl	0-0
+d000.s067.t001	q	q	1-1
+d000.s067.t002	quit	uscire	2-2
+d000.s068.t000	program	programma	2-2
+d000.s068.t001	down	programma	3-2
+d000.s069.t000	add	aggiungere	1-1
+d000.s069.t001	new	nuovo	3-3
+d000.s069.t002	graph	grafico	5-4
+d000.s069.t003	do	andare	13-10
+d000.s069.t004	go	fare	16-16
+d000.s069.t005	graph	grafico	20-13
+d000.s069.t006	tab	scheda	21-12
+d000.s069.t007	add	aggiungere	26-20
+d000.s069.t008	tab	scheda	27-19
+d000.s069.t009	add	aggiungere	29-22
+d000.s069.t010	new	nuovo	31-24
+d000.s069.t011	function	funzione	32-25
+d000.s070.t000	then	NONE
+d000.s070.t001	focus	quindi	2-1
+d000.s070.t002	go	essere	4-0
+d000.s070.t003	input	NONE
+d000.s070.t004	text	testo	8-6
+d000.s070.t005	box	casella	9-4
+d000.s070.t006	type	NONE
+d000.s070.t007	function	funzione	15-11
+d000.s071.t000	want	volere	2-1
+d000.s071.t001	use	usare	4-2
+d000.s071.t002	typical	tipico	6-4
+d000.s071.t003	f(x)	funzione	7-5
+d000.s071.t004	not	non	11-7
+d000.s071.t005	necessary	necessario	12-9
+d000.s071.t006	specify	specificare	14-10
+d000.s072.t000	enter	inserire	3-2
+d000.s072.t001	function	funzione	5-4
+d000.s072.t002	ok	ok	9-6
+d000.s072.t003	button	NONE
+d000.s072.t004	display	visualizzare	12-8
+d000.s072.t005	graph	grafico	14-10
+d000.s072.t006	main	principale	17-13
+d000.s072.t007	window	finestra	18-12
+d000.s073.t000	set	NONE
+d000.s073.t001	several	più	3-2
+d000.s073.t002	graph	grafico	4-3
+d000.s073.t003	same	stesso	7-5
+d000.s073.t004	view	vista	8-6
+d000.s074.t000	just	il	0-1
+d000.s074.t001	use	usare	1-0
+d000.s074.t002	add	aggiungere	3-3
+d000.s074.t003	button	pulsante	4-2
+d000.s074.t004	list	lista	9-7
+d000.s074.t005	mode	modalità	10-5
+d000.s075.t000	set	impostare	2-1
+d000.s075.t001	graph	grafico	4-7
+d000.s075.t002	color	colore	7-4
+d000.s076.t000	foundation	fondazione	1-2
+d000.s076.t001	recently	recentemente	3-0
+d000.s076.t002	involve	NONE
+d000.s076.t003	organise	organizzazione	7-6
+d000.s076.t004	conference	conferenza	9-9
+d000.s076.t005	deal	affrontare	11-12
+d000.s076.t006	critical	critico	14-15
+d000.s076.t007	challenge	sfida	15-14
+d000.s077.t000	participant	oltre	2-2
+d000.s077.t001	main	principale	5-6
+d000.s077.t002	interest	categoria	6-7
+d000.s077.t003	group	NONE
+d000.s077.t004	attend	partecipare	8-1
+d000.s077.t005	debate	discutere	10-13
+d000.s077.t006	issue	discutere	11-13
+d000.s077.t007	such	,	12-9
+d000.s077.t008	role	ruolo	15-18
+d000.s077.t009	key	chiave	17-21
+d000.s077.t010	actor	attore	18-20
+d000.s077.t011	include	NONE
+d000.s077.t012	public	pubblico	20-23
+d000.s077.t013	authority	autorità	21-24
+d000.s077.t014	social	sociale	23-27
+d000.s077.t015	voluntary	NONE
+d000.s077.t016	community	NONE
+d000.s077.t017	organisation	organizzazione	29-29
+d000.s077.t018	as	quale	30-22
+d000.s077.t019	service	servizio	33-37
+d000.s077.t020	user	utente	34-35
+d000.s078.t000	relatively	convenire	2-2
+d000.s078.t001	few	necessità	3-4
+d000.s078.t002	case	elemento	4-30
+d000.s078.t003	report	NONE
+d000.s078.t004	attempt	olistico	7-9
+d000.s078.t005	involve	NONE
+d000.s078.t006	user	utente	10-18
+d000.s078.t007	service	NONE
+d000.s078.t008	planning	impostazione	13-7
+d000.s078.t009	involvement	NONE
+d000.s078.t010	service	servizio	18-23
+d000.s078.t011	provision	NONE
+d000.s078.t012	find	NONE
+d000.s078.t013	more	NONE
+d000.s078.t014	common	quotidiano	25-34
+d000.s079.t000	note	si	0-0
+d000.s079.t001	also	anche	2-2
+d000.s079.t002	variety	atto	6-4
+d000.s079.t003	different	diverso	8-9
+d000.s079.t004	role	NONE
+d000.s079.t005	play	aioli	10-8
+d000.s079.t006	public	NONE
+d000.s079.t007	welfare	svolto	13-10
+d000.s080.t000	foundation	fondazione	1-19
+d000.s080.t001	together	unitamente	4-0
+d000.s080.t002	european	europeo	7-3
+d000.s080.t003	commission	commissione	8-2
+d000.s080.t004	spanish	NONE
+d000.s080.t005	ministry	ministero	12-6
+d000.s080.t006	social	sociale	14-9
+d000.s080.t007	affairs	affare	15-8
+d000.s080.t008	regional	regionale	19-14
+d000.s080.t009	government	governo	20-13
+d000.s080.t010	european	europeo	23-24
+d000.s080.t011	conference	conferenza	24-23
+d000.s080.t012	social	sociale	26-28
+d000.s080.t013	exclusion	esclusione	27-27
+d000.s080.t014	major	grande	30-31
+d000.s080.t015	challenge	sfida	31-32
+d000.s080.t016	public	pubblico	33-36
+d000.s080.t017	welfare	NONE
+d000.s080.t018	service	NONE
+d000.s081.t000	foundation	fondazione	1-2
+d000.s081.t001	recently	recentemente	2-0
+d000.s081.t002	publish	pubblicare	3-4
+d000.s081.t003	comparative	comparativo	5-14
+d000.s081.t004	study	studio	6-13
+d000.s081.t005	part	NONE
+d000.s081.t006	project	progetto	12-9
+d000.s081.t007	assess	valutare	14-16
+d000.s081.t008	extent	misura	16-18
+d000.s081.t009	direct	diretto	19-23
+d000.s081.t010	participation	partecipazione	20-22
+d000.s081.t011	humanise	migliorare	22-28
+d000.s081.t012	work	lavoro	23-27
+d000.s081.t013	increase	tempo	25-31
+d000.s081.t014	profitability	redditività	26-33
+d000.s082.t000	study	studio	1-1
+d000.s082.t001	base	basare	3-3
+d000.s082.t002	personal	personale	6-7
+d000.s082.t003	interview	intervista	7-6
+d000.s082.t004	senior	alto	9-9
+d000.s082.t005	official	dirigente	10-10
+d000.s082.t006	social	sociale	13-13
+d000.s082.t007	representative	rappresentanza	16-16
+d000.s082.t008	national	nazionale	18-20
+d000.s082.t009	level	NONE
+d000.s082.t010	organisation	organizzazione	21-19
+d000.s082.t011	fifteen	quindici	23-22
+d000.s082.t012	european	europeo	24-24
+d000.s082.t013	country	paese	25-23
+d000.s083.t000	important	settore	1-1
+d000.s083.t001	industrial	industriale	2-2
+d000.s083.t002	sector	settore	3-1
+d000.s083.t003	metal	NONE
+d000.s083.t004	industry	industria	7-11
+d000.s083.t005	banking	bancario	10-16
+d000.s083.t006	sector	settore	11-15
+d000.s083.t007	also	anche	13-9
+d000.s083.t008	include	includere	14-8
+d000.s084.t000	speaker	oratore	1-2
+d000.s084.t001	social	sociale	4-9
+d000.s084.t002	exclusion	esclusione	5-8
+d000.s084.t003	conference	conferenza	6-6
+d000.s084.t004	left	sinistra	9-12
+d000.s084.t005	right	destra	11-14
+d000.s084.t006	employment	occupazione	16-24
+d000.s084.t007	industrial	industriale	18-28
+d000.s084.t008	relations	NONE
+d000.s084.t009	social	sociale	21-32
+d000.s084.t010	affair	occasione	22-4
+d000.s084.t011	directorate	direzione	23-20
+d000.s084.t012	european	relazione	25-27
+d000.s084.t013	commission	commissione	26-34
+d000.s084.t014	high	NONE
+d000.s084.t015	committee	comitato	34-39
+d000.s084.t016	region	regione	37-41
+d000.s084.t017	member	NONE
+d000.s084.t018	european	europeo	44-48
+d000.s084.t019	parliament	parlamento	45-47
+d000.s084.t020	vice-president	vicepresidente	50-54
+d000.s084.t021	european	europeo	52-57
+d000.s084.t022	parliament	parlamento	53-56
+d000.s084.t023	economic	economico	58-62
+d000.s084.t024	social	sociale	60-64
+d000.s084.t025	committee	comitato	61-61
+d000.s085.t000	case	caso	0-2
+d000.s085.t001	study	studio	1-0
+d000.s085.t002	national	nazionale	3-5
+d000.s085.t003	report	rapporto	4-4
+d000.s085.t004	contain	contenere	5-6
+d000.s085.t005	portfolio	serie	7-8
+d000.s085.t006	initiative	iniziativa	13-11
+d000.s085.t007	present	NONE
+d000.s085.t008	policy	NONE
+d000.s085.t009	practice	prassi	19-22
+d000.s085.t010	improve	migliorare	21-25
+d000.s085.t011	recruitment	assunzione	23-27
+d000.s085.t012	training	formazione	25-30
+d000.s085.t013	development	sviluppo	27-33
+d000.s085.t014	age	anziano	29-36
+d000.s085.t015	worker	lavoratore	30-35
+d000.s085.t016	work	NONE
+d000.s085.t017	place	azienda	35-38
+d000.s085.t018	community	comunità	38-41
+d000.s086.t000	country	paese	2-2
+d000.s086.t001	initiative	iniziativa	7-6
+d000.s086.t002	select	selezionare	10-10
+d000.s086.t003	further	uno	12-14
+d000.s086.t004	depth	NONE
+d000.s086.t005	case	caso	15-17
+d000.s086.t006	study	studio	16-15
+d000.s087.t000	case	modello	1-13
+d000.s087.t001	study	studio	2-1
+d000.s087.t002	analyse	analizzare	3-3
+d000.s087.t003	background	contesto	5-5
+d000.s087.t004	initiative	iniziativa	8-7
+d000.s087.t005	impact	impatto	11-11
+d000.s087.t006	employment	NONE
+d000.s087.t007	pattern	NONE
+d000.s087.t008	work	lavoro	16-19
+d000.s087.t009	organisation	organizzazione	17-17
+d000.s087.t010	assess	valutare	19-21
+d000.s087.t011	benefit	vantaggio	21-24
+d000.s087.t012	problem	problema	23-27
+d000.s087.t013	initiative	iniziativa	26-29
+d000.s088.t000	visit	visita	0-4
+d000.s088.t001	interview	intervista	2-6
+d000.s088.t002	key	chiave	4-9
+d000.s088.t003	personnel	personale	5-11
+d000.s088.t004	also	NONE
+d000.s088.t005	undertake	personale	8-11
+d000.s089.t000	national	nazionale	1-2
+d000.s089.t001	study	studio	2-1
+d000.s089.t002	form	sfociare	4-3
+d000.s089.t003	basis	NONE
+d000.s089.t004	european	europeo	9-7
+d000.s089.t005	report	rapporto	10-6
+d000.s089.t006	synthesise	sintetizzare	12-9
+d000.s089.t007	overall	NONE
+d000.s089.t008	practice	prassi	14-11
+d000.s090.t000	report	rapporto	1-1
+d000.s090.t001	case	NONE
+d000.s090.t002	book	raccolta	5-4
+d000.s090.t003	initiative	iniziativa	7-6
+d000.s090.t004	publish	pubblicare	10-8
+d000.s090.t005	provide	prevedere	14-18
+d000.s090.t006	conference	conferenza	19-17
+d000.s090.t007	stage	autunno	22-21
+d000.s090.t008	autumn	autunno	24-21
+d000.s091.t000	foundation	fondazione	1-1
+d000.s091.t001	aim	intendere	2-2
+d000.s091.t002	document	documentare	4-3
+d000.s091.t003	characteristic	caratteristica	6-5
+d000.s091.t004	age	età	8-10
+d000.s091.t005	barrier	barriera	9-7
+d000.s091.t006	job	livello	11-12
+d000.s091.t007	recruitment	assunzione	12-14
+d000.s091.t008	training	formazione	14-16
+d000.s091.t009	analyse	analizzare	17-18
+d000.s091.t010	cause	causa	19-20
+d000.s092.t000	perspective	esaminare	1-1
+d000.s092.t001	social	sociale	4-9
+d000.s092.t002	also	anche	7-2
+d000.s092.t003	examine	esaminare	9-1
+d000.s092.t004	particular	particolare	12-14
+d000.s092.t005	attention	attenzione	13-13
+d000.s092.t006	pay	proposta	14-16
+d000.s092.t007	proposal	proposta	16-16
+d000.s092.t008	remove	eliminare	18-19
+d000.s092.t009	age	età	19-24
+d000.s092.t010	barrier	barriera	20-21
+d000.s093.t000	thirdly	terzo	0-1
+d000.s093.t001	project	progetto	3-5
+d000.s093.t002	assess	valutare	6-8
+d000.s093.t003	initiative	iniziativa	7-9
+d000.s093.t004	public	pubblico	12-11
+d000.s093.t005	private	privato	14-13
+d000.s093.t006	sector	NONE
+d000.s093.t007	age	età	18-23
+d000.s093.t008	barrier	barriera	19-20
+d000.s093.t009	especially	specialmente	21-25
+d000.s093.t010	old	anziano	23-30
+d000.s093.t011	worker	lavoratore	24-29
+d000.s094.t000	seek	ricercare	0-0
+d000.s094.t001	alternative	alternativa	1-1
+d000.s094.t002	early	NONE
+d000.s094.t003	retirement	al	4-5
+d000.s094.t004	redundancy	NONE
+d000.s094.t005	project	progetto	9-9
+d000.s094.t006	primarily	principalmente	11-12
+d000.s094.t007	concern	interessare	12-11
+d000.s094.t008	retention	mantenimento	15-14
+d000.s094.t009	reintegrate	NONE
+d000.s094.t010	retrain	riqualificazione	19-20
+d000.s094.t011	old	anziano	21-23
+d000.s094.t012	worker	lavoratore	22-22
+d000.s095.t000	gender	sesso	1-5
+d000.s095.t001	ethnic	etnico	3-9
+d000.s095.t002	background	NONE
+d000.s095.t003	worker	lavoratore	6-11
+d000.s095.t004	relate	correlazione	10-16
+d000.s095.t005	age	età	12-23
+d000.s095.t006	discrimination	discriminazione	13-19
+d000.s095.t007	examine	NONE
+d000.s096.t000	project	progetto	1-1
+d000.s096.t001	also	anche	2-3
+d000.s096.t002	consider	esaminare	3-2
+d000.s096.t003	initiative	iniziativa	4-4
+d000.s096.t004	age	età	7-13
+d000.s096.t005	discrimination	discriminazione	8-10
+d000.s096.t006	rural	zona_rurale	10-15,16
+d000.s096.t007	area	NONE
+d000.s096.t008	small	piccolo	14-19
+d000.s096.t009	enterprise	impresa	18-22
+d000.s097.t000	member	membro	1-7
+d000.s097.t001	state	paesi	2-19
+d000.s097.t002	cover	sette	4-5
+d000.s097.t003	project	ricerca	7-1
+d000.s097.t004	united	unito	23-23
+d000.s097.t005	kingdom	regno	24-22
+d000.s098.t000	document	documento	1-2
+d000.s098.t001	summary	sintesi	4-5
+d000.s098.t002	european	relazione	7-8
+d000.s098.t003	public	pubblico	8-11
+d000.s098.t004	assessment	valutazione	9-10
+d000.s098.t005	report	NONE
+d000.s098.t006	explain	NONE
+d000.s098.t007	committee	NONE
+d000.s098.t008	medicinal	NONE
+d000.s098.t009	product	NONE
+d000.s098.t010	veterinary	NONE
+d000.s098.t011	use	NONE
+d000.s098.t012	assess	NONE
+d000.s098.t013	study	NONE
+d000.s098.t014	perform	NONE
+d000.s098.t015	reach	essere	32-3
+d000.s098.t016	recommendation	NONE
+d000.s098.t017	use	NONE
+d000.s098.t018	medicine	NONE
+d000.s100.t000	contain	contenere	1-1
+d000.s100.t001	active	attivo	3-4
+d000.s100.t002	substance	attivo	4-4
+d000.s100.t003	maropitant	maropitant	5-5
+d000.s100.t004	available	disponibile	8-8
+d000.s100.t005	tablet	compressa	10-12
+d000.s100.t006	solution	soluzione	13-15
+d000.s100.t007	injection	iniettabile	15-16
+d000.s101.t000	tablet	compressa	1-1
+d000.s101.t001	have	avere	5-8
+d000.s101.t002	score	NONE
+d000.s101.t003	line	tacca	8-10
+d000.s101.t004	side	lato	11-14
+d000.s101.t005	so	,	12-15
+d000.s101.t006	halve	metà	17-22
+d000.s102.t000	tablet	compressa	1-1
+d000.s102.t001	mark	marcare	3-3
+d000.s102.t002	logo	logo	7-9
+d000.s102.t003	side	lato	10-14
+d000.s102.t004	letter	lettera	14-17
+d000.s102.t005	quantity	quantità	18-25
+d000.s102.t006	maropitant	maropitant	20-27
+d000.s102.t007	other	altro	23-13
+d000.s102.t008	side	lato	24-6
+d000.s103.t000	use	usare	3-4
+d000.s104.t000	anti-emetic	antiemetico	3-3
+d000.s104.t001	mean	NONE
+d000.s104.t002	stop	arrestare	9-9
+d000.s104.t003	vomit	vomito	10-11
+d000.s105.t000	use	usare	2-1
+d000.s105.t001	dog	cane	4-3
+d000.s105.t002	prevent	prevenire	6-5
+d000.s105.t003	vomit	vomito	7-7
+d000.s105.t004	vomit	NONE
+d000.s105.t005	cause	causare	11-8
+d000.s105.t006	chemotherapy	chemioterapia	13-14
+d000.s105.t007	medicine	medicinale	15-16
+d000.s105.t008	use	NONE
+d000.s105.t009	treatment	cura	19-20
+d000.s105.t010	cancer	cancro	21-22
+d000.s105.t011	know	NONE
+d000.s105.t012	cause	provocare	29-29
+d000.s105.t013	vomit	vomito	30-31
+d000.s106.t000	combination	combinazione	1-1
+d000.s106.t001	supportive	supporto	3-6
+d000.s106.t002	measure	misura	4-4
+d000.s106.t003	other	altro	7-10
+d000.s106.t004	veterinary	veterinario	8-12
+d000.s106.t005	treatment	terapia	9-11
+d000.s106.t006	special	speciale	12-16
+d000.s106.t007	diet	dieta	13-15
+d000.s106.t008	also	anche	17-20
+d000.s106.t009	use	usare	19-22
+d000.s106.t010	treatment	trattamento	22-24
+d000.s106.t011	vomiting	vomito	24-26
+d000.s106.t012	injection	iniezione	28-30
+d000.s106.t013	injection	iniezione	31-33
+d000.s106.t014	follow	essere	32-21
+d000.s106.t015	tablet	compressa	34-36
+d000.s107.t000	purpose	scopo	2-2
+d000.s107.t001	give	somministrare	7-6
+d000.s107.t002	five	giorno	11-13
+d000.s109.t000	block	bloccare	1-1
+d000.s109.t001	neurokinin	recettore	3-3
+d000.s109.t002	receptor	recettore	8-3
+d000.s109.t003	act	agire	11-10
+d000.s109.t004	central	centrale	14-16
+d000.s109.t005	nervous	nervoso	15-15
+d000.s109.t006	system	sistema	16-14
+d000.s110.t000	study	studiare	4-3
+d000.s111.t000	large	NONE
+d000.s111.t001	number	numeroso	2-3
+d000.s111.t002	study	studio	4-4
+d000.s111.t003	carry	condurre	8-2
+d000.s111.t004	laboratory	laboratorio	12-12
+d000.s111.t005	dog	cane	13-10
+d000.s111.t006	patient	NONE
+d000.s111.t007	veterinary	veterinario	19-20
+d000.s111.t008	several	diverso	22-22
+d000.s111.t009	european	europeo	23-24
+d000.s111.t010	country	paese	24-23
+d000.s112.t000	benefit	beneficio	1-1
+d000.s112.t001	show	avere	4-2
+d000.s112.t002	study	studio	7-8
+d000.s113.t000	result	risultato	1-1
+d000.s113.t001	study	studio	4-3
+d000.s113.t002	show	degli	5-2
+d000.s113.t003	more	NONE
+d000.s113.t004	effective	efficace	10-10
+d000.s113.t005	placebo	placebo	13-12
+d000.s113.t006	less	NONE
+d000.s113.t007	vomiting	vomito	16-23
+d000.s113.t008	see	NONE
+d000.s113.t009	dog	cane	20-15
+d000.s113.t010	receive	essere	22-4
+d000.s113.t011	medicine	medicinale	24-19
+d000.s113.t012	dog	NONE
+d000.s113.t013	receive	essere	29-8
+d000.s113.t014	placebo	placebo	31-34
+d000.s113.t015	treatment	trattamento	36-38
+d000.s113.t016	prevention	prevenzione	40-41
+d000.s113.t017	vomiting	vomito	42-43
+d000.s114.t000	treatment	trattamento	1-1
+d000.s114.t001	vomiting	vomito	4-6
+d000.s114.t002	dog	cane	5-4
+d000.s114.t003	start	iniziare	8-8
+d000.s114.t004	injection	iniezione	11-11
+d000.s114.t005	vomiting	vomito	14-19
+d000.s114.t006	animal	animale	15-15
+d000.s114.t007	not	non	17-21
+d000.s114.t008	able	grado	19-24
+d000.s114.t009	tablet	compressa	23-28
+d000.s114.t010	intact	intatto	31-36
+d000.s114.t011	tablet	NONE
+d000.s114.t012	again	intatto	34-36
+d000.s115.t000	follow-up	follow-up	1-4
+d000.s115.t001	treatment	trattamento	2-2
+d000.s115.t002	owner	padrone	6-12
+d000.s115.t003	administer	somministrare	8-10
+d000.s115.t004	tablet	compressa	10-7
+d000.s115.t005	dog	cane	13-14
+d000.s116.t000	also	NONE
+d000.s116.t001	treatment	cura	3-3
+d000.s116.t002	vomiting	vomito	5-5
+d000.s116.t003	only	NONE
+d000.s116.t004	together	NONE
+d000.s116.t005	other	altre	11-10
+d000.s116.t006	supportive	supporto	12-13
+d000.s116.t007	measure	misura	13-11
+d000.s116.t008	other	altre	15-16
+d000.s116.t009	veterinary	veterinario	16-18
+d000.s116.t010	therapy	terapia	17-17
+d000.s116.t011	address	NONE
+d000.s116.t012	underlie	intervenire	21-20
+d000.s116.t013	cause	causa	22-22
+d000.s116.t014	vomiting	vomito	25-24
+d000.s117.t000	risk	rischio	3-3
+d000.s117.t001	associate	associare	4-4
+d000.s118.t000	generally	generalmente	2-2
+d000.s118.t001	well	bene	3-3
+d000.s118.t002	tolerate	tollerare	4-4
+d000.s118.t003	administer	somministrare	6-6
+d000.s118.t004	daily	giornalmente	7-7
+d000.s118.t005	dosage	dose	9-9
+d000.s118.t006	time	volta	13-13
+d000.s118.t007	recommend	raccomandare	15-16
+d000.s118.t008	dose	dose	16-15
+d000.s118.t009	extended	lungo	19-19
+d000.s118.t010	period	periodo	20-20
+d000.s118.t011	time	tempo	22-22
+d000.s118.t012	time	volta	27-27
+d000.s118.t013	maximum	durata	30-29
+d000.s118.t014	duration	durata	31-29
+d000.s118.t015	treatment	trattamento	33-31
+d000.s119.t000	precaution	precauzione	3-3
+d000.s119.t001	person	persona	6-8
+d000.s119.t002	give	somministrare	8-10
+d000.s119.t003	medicine	medicinale	10-12
+d000.s119.t004	come	essere	12-1
+d000.s119.t005	contact	contatto	14-16
+d000.s119.t006	animal	animale	17-19
+d000.s120.t000	not	non	2-1
+d000.s120.t001	represent	presentare	3-2
+d000.s120.t002	particular	particolare	5-3
+d000.s120.t003	risk	rischio	6-4
+d000.s120.t004	people	uomo	8-7

@@ -19,24 +19,23 @@ def get_results(path_gold,path_silver):
             if silver_df['BN Synset'].iloc[x] == 'n/a':
                 c5 += 1
             # silver has sense
-            else:
-                c4 += 1
+            # else:
+            #     c4 += 1
         # gold has sense
         else:
-            senses_gold = gold_df['BN Synset'].iloc[x].split(";")
-            senses_silver = silver_df['BN Synset'].iloc[x].split(";")
             # silver has no sense
             if silver_df['BN Synset'].iloc[x] == 'n/a':
                 c3 += 1
             # silver has same sense
             else:
-                for x in senses_silver:
-                    if x in senses_gold:
-                        c1 += 1
-                    else:
-
-                        # silver has different sense
-                        c2 += 1
+                senses_gold = [y.strip() for y in gold_df['BN Synset'].iloc[x].split(";")]
+                senses_silver = [y.strip() for y in silver_df['BN Synset'].iloc[x].split(";")][0]
+                # for x in senses_silver:
+                if senses_silver in senses_gold:
+                    c1 += 1
+                else:
+                    # silver has different sense
+                    c2 += 1
 
     print(c1,c2,c3,c4,c5)
     # print(f"Accuracy: {(TP)/(FP+TP+FN_1+FN_2)}")
@@ -50,4 +49,4 @@ def get_results(path_gold,path_silver):
 
 
 language = "Spanish"
-get_results(f'../../data/{language}/New_Ids/new-gold-tokens-{language}-wSenses.tsv',f'../../data/{language}/New_Ids/{language}-carried-senses.tsv')
+get_results(f'../../data/{language}/New_Ids/gold-tokens-{language}-wSenses.tsv',f'../../data/{language}/New_Ids/{language}-carried-senses.tsv')

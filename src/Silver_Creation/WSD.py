@@ -39,10 +39,10 @@ def get_wsd(sentence,id,d):
 def read_csv_file(file_path):
     count = 0
     with open(file_path, encoding='utf-8') as csvfile:
-        reader = csv.DictReader(csvfile)
+        reader = csv.DictReader(csvfile,delimiter="\t")
         sentences = []
         for row in reader:
-            sentences.append({'ID': row['ID'], "Sentence":{'text': row['Farsi Translation'].lower(), 'lang': lang}})
+            sentences.append({'ID': row['Sentence ID'], "Sentence": {'text': row['Sentence'].lower(), 'lang': lang}})
             count += 1
             # print(f"Done row {count}")
     return sentences
@@ -53,9 +53,9 @@ headers = {
     'Accept': 'application/json',
     'Content-Type': 'application/json',
 }
-lang = "FA"
-language = "Farsi"
-sentences = read_csv_file(f"/Users/jairiley/Desktop/Research/Sense-Projection/data/{language}/sentences-{language}-Translations.csv")
+lang = "ZH"
+language = "Chinese"
+sentences = read_csv_file(f"/Users/jairiley/Desktop/Research/Sense-Projection/data/{language}/gold-sentences-{language}.tsv")
 # print(sentences)
 # df = pd.DataFrame(d)
 

@@ -32,9 +32,9 @@ def read_tsv_column_to_list(file_path, column_name,other_column):
         return []
     return items
 
-file_path = '/Users/jairiley/Desktop/Research/Sense-Projection/data/Spanish/aligned_2017/tokens-aligned-Spanish.tsv'
-column_name = 'Token ES'
-silver = read_tsv_column_to_list(file_path, "Lemma ES", column_name)
+file_path = '/Users/jairiley/Desktop/Research/Sense-Projection/data/Farsi/tokens-aligned-Farsi.tsv'
+column_name = 'Farsi Token'
+silver = read_tsv_column_to_list(file_path, "Farsi Lemma", column_name)
 column_name = 'Token'
 gold = read_tsv_column_to_list(file_path, 'Lemma',column_name)
 print(len(silver),len(gold))
@@ -69,7 +69,7 @@ for x in range(len(gold)):
 
                 # Run the curl command and capture the output
                 result = subprocess.run(
-                    f'curl http://api.panlex.org/v2/expr -d \'{{ "uid": "spa-000", "trans_expr": {trans_expr_value} }}\'',
+                    f'curl http://api.panlex.org/v2/expr -d \'{{ "uid": "pes-000", "trans_expr": {trans_expr_value} }}\'',
                     shell=True,
                     capture_output=True,
                     text=True
@@ -85,11 +85,17 @@ for x in range(len(gold)):
                 list_of_translations = []
                 for item in results:
                     list_of_translations.append(item['txt'])
-                if silver[x].lower() in list_of_translations or silver[x].lower() == txt_value:
+                if "➕" not in silver[x]:
+                    text = silver[x].lower()
+                else:
+                    text = " ".join(silver[x].split("➕"))
+                if text in list_of_translations or text == txt_value:
                     correct += 1
                 else:
                     incorrect += 1
-                    l.append([x,gold[x],silver[x]])
+                    print(gold[x],text)
+                    l.append([x,gold[x],text])
+
                 total += 1
         except:
 
@@ -104,12 +110,12 @@ for x in range(len(gold)):
 print(correct/total)
 
 df = pd.DataFrame(l, columns=['Row', 'Source','Target'])
-df.to_csv('../../data/Spanish/aligned_2017/problem-alignments-Spanish-PanLex.tsv', sep='\t', index=False)
+df.to_csv('/Users/jairiley/Desktop/Research/Sense-Projection/data/Farsi/problem-alignments-Farsi-Panlex.tsv', sep='\t', index=False)
 
 # Italian 85.5
-# Spanish 85.9
+# Italian 85.9
 
-# New Spanish
+# New Italian
 # 0.8503046127067014
 
 # New Italian
@@ -118,5 +124,7 @@ df.to_csv('../../data/Spanish/aligned_2017/problem-alignments-Spanish-PanLex.tsv
 # 2017 Italian
 # 0.8216123499142367
 
-# 2017 Spanish
+# 2017 Italian
 # 0.8221070811744386
+
+#New Spanish 0.8485742379547689

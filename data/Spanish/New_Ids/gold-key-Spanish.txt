@@ -81,8 +81,8 @@ d001.s010.t039 bn:00087063v
 d001.s010.t043 bn:00105981a bn:00105982a bn:00105984a                  
 d001.s010.t046 bn:00087063v                    
 d001.s010.t047 bn:00115155r bn:00115181r                   
-d001.s010.t051 bn:00027912n bn:00070193n wiki:segmento                  
-d001.s010.t051 bn:00011769n                    
+d001.s010.t051 bn:00027912n bn:00070193n wiki:segmento
+d001.s010.t051 bn:00011769n
 d001.s010.t053 bn:00003882n bn:00011744n wiki:cuerpo_(anatomía) wiki:cuerpo_humano                 
 d001.s010.t057 bn:00061017n wiki:paciente                   
 d001.s010.t059 bn:00116360r                    
@@ -91,9 +91,9 @@ d001.s010.t062 bn:00018141n wiki:quimioterapia
 d001.s010.t064 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
 d001.s010.t067 bn:00015180n wiki:cáncer                   
 d001.s010.t069 bn:00114297r bn:00114512r                   
-d001.s010.t071 bn:00015180n wiki:cáncer                   
-d001.s010.t071 bn:00052343n wiki:cáncer_de_pulmón                   
-d001.s010.t073 bn:00052341n wiki:pulmón                   
+d001.s010.t071 bn:00015180n wiki:cáncer
+d001.s010.t071 bn:00052343n wiki:cáncer_de_pulmón
+d001.s010.t073 bn:00052341n wiki:pulmón
 d001.s010.t076 bn:00054742n                    
 d001.s010.t078 bn:00096528a                    
 d001.s010.t080 bn:00054585n wiki:metástasis                   
@@ -116,9 +116,9 @@ d001.s011.t030 bn:00018141n wiki:quimioterapia
 d001.s012.t002 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
 d001.s012.t003 bn:00114234r                    
 d001.s012.t005 bn:00082365v                    
-d001.s012.t007 bn:00064195n bn:03877095n wiki:receta_de_cocina                  
-d001.s012.t007 bn:00031708n wiki:medicamento wiki:prescripción_(medicina)                  
-d001.s012.t008 bn:00106554a bn:00106555a                   
+d001.s012.t007 bn:00064195n bn:03877095n wiki:receta_de_cocina
+d001.s012.t007 bn:00031708n wiki:medicamento wiki:prescripción_(medicina)
+d001.s012.t008 bn:00106554a bn:00106555a
 d001.s013.t003 bn:00082705v                    
 d001.s014.t002 bn:00114234r                    
 d001.s014.t004 bn:00082365v                    
@@ -131,12 +131,12 @@ d001.s014.t019 bn:00015180n wiki:cáncer
 d001.s015.t002 bn:00028320n wiki:dosis                   
 d001.s015.t003 bn:00082418v                    
 d001.s015.t009 bn:00054701n wiki:órdenes_de_magnitud_(masa)                   
-d001.s015.t011 bn:00052501n wiki:metro                   
-d001.s015.t011 bn:00017102n wiki:metro_cuadrado                   
-d001.s015.t012 bn:00111084a                    
-d001.s015.t014 bn:00005518n bn:00075374n bn:08288117n wiki:superficie_(física) wiki:área wiki:área#área_de_superficies_curvas               
-d001.s015.t014 bn:03551355n wiki:área_de_superficie_corporal                   
-d001.s015.t015 bn:00098648a                    
+d001.s015.t011 bn:00052501n wiki:metro
+d001.s015.t011 bn:00017102n wiki:metro_cuadrado
+d001.s015.t012 bn:00111084a
+d001.s015.t014 bn:00005518n bn:00075374n bn:08288117n wiki:superficie_(física) wiki:área wiki:área#área_de_superficies_curvas
+d001.s015.t014 bn:03551355n wiki:área_de_superficie_corporal
+d001.s015.t015 bn:00098648a
 d001.s015.t017 bn:00084373v                    
 d001.s015.t020 bn:00043545n wiki:estatura                   
 d001.s015.t023 bn:00011779n bn:00080831n wiki:peso wiki:peso#el_peso_de_un_ser_humano                 
@@ -149,19 +149,19 @@ d001.s015.t037 bn:00102230a
 d001.s015.t040 bn:00055094n wiki:minuto                   
 d001.s016.t003 bn:00030721n                    
 d001.s016.t005 bn:00082125v bn:00084079v                   
-d001.s016.t007 bn:00021961n bn:00046065n                   
-d001.s016.t007 bn:00071445n bn:00450782n bn:00686074n wiki:reacción_adversa_a_medicamento                 
-d001.s016.t008 bn:00110247a bn:00110248a bn:00110249a                  
+d001.s016.t007 bn:00021961n bn:00046065n
+d001.s016.t007 bn:00071445n bn:00450782n bn:00686074n wiki:reacción_adversa_a_medicamento
+d001.s016.t008 bn:00110247a bn:00110248a bn:00110249a
 d001.s016.t011 bn:00061017n wiki:paciente                   
 d001.s016.t013 bn:00089246v                    
 d001.s016.t015 bn:00001507n wiki:corticosteroide                   
-d001.s016.t017 bn:00000902n wiki:ácido                   
-d001.s016.t017 bn:00035585n wiki:ácido_fólico                   
-d001.s016.t021 bn:00035907n bn:00073211n bn:00078798n bn:00078799n wiki:tipo_nomenclatural                
+d001.s016.t017 bn:00000902n wiki:ácido
+d001.s016.t017 bn:00035585n wiki:ácido_fólico
+d001.s016.t021 bn:00035907n bn:00073211n bn:00078798n bn:00078799n wiki:tipo_nomenclatural
 d001.s016.t023 bn:00080147n wiki:vitamina                   
 d001.s016.t027 bn:00046787n wiki:inyección_(medicina)                   
-d001.s016.t029 bn:00080147n wiki:vitamina                   
-d001.s016.t029 bn:00004712n wiki:cianocobalamina                   
+d001.s016.t029 bn:00080147n wiki:vitamina
+d001.s016.t029 bn:00004712n wiki:cianocobalamina
 d001.s016.t033 bn:00047235n bn:00076843n wiki:tratamiento_(medicina)                  
 d001.s017.t004 bn:00082705v bn:00089140v                   
 d001.s017.t005 bn:00114766r                    

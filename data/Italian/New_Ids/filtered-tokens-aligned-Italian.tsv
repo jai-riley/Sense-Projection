@@ -15,7 +15,7 @@ d001.s001.t013	EPAR	epar	N	n/a	d001.s001.t014	EPAR	epar	N	n/a
 d001.s001.t014	)		X	n/a	d001.s001.t015	)		X	n/a
 d001.s001.t015	.		X	n/a	d001.s001.t016	.		X	n/a
 d001.s002.t001	It		X	n/a					n/a
-d001.s002.t002	explains	explain	V	bn:00087869v;bn:00087870v;wn:explain%2:32:00::;wn:explain%2:32:01::;wn:explicate%2:32:00::	d001.s002.t003	descrive	descrivere	V	bn:00087869v;bn:00087870v;wn:explain%2:32:00::;wn:explain%2:32:01::;wn:explicate%2:32:00::
+d001.s002.t002	explains	explain	V	bn:00087869v;bn:00087870v;wn:explain%2:32:00::;wn:explain%2:32:01::;wn:explicate%2:32:00::	d001.s002.t003	descrive	descrivere	V	n/a
 d001.s002.t003	how		X	n/a	d001.s002.t005	modo	modo	N	n/a
 d001.s002.t004	the		X	n/a	d001.s002.t008	il		X	n/a
 d001.s002.t005	Committee	committee	N	bn:00021015n;wiki:committee;wn:commission%1:14:00::;wn:committee%1:14:00::					n/a
@@ -31,7 +31,7 @@ d001.s002.t014	)		X	n/a	d001.s002.t018	)		X	n/a
 d001.s002.t015	assessed	assess	V	bn:00082720v;wn:appraise%2:31:01::;wn:assess%2:31:00::;wn:evaluate%2:31:00::;wn:measure%2:31:01::;wn:valuate%2:31:00::;wn:value%2:31:00::	d001.s002.t020	valutato	valutare	V	bn:00082720v;wn:appraise%2:31:01::;wn:assess%2:31:00::;wn:evaluate%2:31:00::;wn:measure%2:31:01::;wn:valuate%2:31:00::;wn:value%2:31:00::
 d001.s002.t016	the		X	n/a	d001.s002.t021	gli		X	n/a
 d001.s002.t017	studies	study	N	bn:00074790n;wn:study%1:04:00::;wn:survey%1:04:02::	d001.s002.t022	studi	studio	N	bn:00074790n;wn:study%1:04:00::;wn:survey%1:04:02::
-d001.s002.t018	performed	perform	V	bn:00087107v;wn:do%2:36:01::;wn:execute%2:36:01::;wn:perform%2:36:00::	d001.s002.t024	effettuati	effettuare	V	bn:00087107v;wn:do%2:36:01::;wn:execute%2:36:01::;wn:perform%2:36:00::
+d001.s002.t018	performed	perform	V	bn:00087107v;wn:do%2:36:01::;wn:execute%2:36:01::;wn:perform%2:36:00::	d001.s002.t024	effettuati	effettuare	V	n/a
 d001.s002.t019	,		X	n/a					n/a
 d001.s002.t020	to		X	n/a					n/a
 d001.s002.t021	reach	reach	V	bn:00082226v;bn:00088789v;wn:accomplish%2:41:00::;wn:achieve%2:41:00::;wn:attain%2:41:00::;wn:get_to%2:38:02::;wn:make%2:38:02::;wn:progress_to%2:38:00::;wn:reach%2:38:06::;wn:reach%2:41:00::					n/a
@@ -47,7 +47,7 @@ d001.s002.t030	.		X	n/a	d001.s002.t035	.		X	n/a
 d001.s003.t001	If		X	n/a	d001.s003.t001	Per		X	n/a
 d001.s003.t002	you		X	n/a					n/a
 d001.s003.t003	need	need	V	bn:00091028v;bn:00091029v;wn:need%2:34:00::;wn:need%2:34:01::;wn:require%2:34:00::;wn:want%2:34:00::					n/a
-d001.s003.t004	more	more	J	bn:00106935a;wn:more%3:00:01::;wn:more_than%3:00:00::	d001.s003.t002	maggiori	maggiore	J	bn:00106935a;wn:more%3:00:01::;wn:more_than%3:00:00::
+d001.s003.t004	more	more	J	bn:00106935a;wn:more%3:00:01::;wn:more_than%3:00:00::	d001.s003.t002	maggiori	maggiore	J	n/a
 d001.s003.t005	information	information	N	bn:00025314n;bn:00046705n;wiki:data;wiki:information;wn:data%1:14:00::;wn:information%1:09:00::;wn:information%1:14:00::	d001.s003.t003	informazioni	informazione	N	bn:00025314n;bn:00046705n;wiki:data;wiki:information;wn:data%1:14:00::;wn:information%1:09:00::;wn:information%1:14:00::
 d001.s003.t006	about		X	n/a	d001.s003.t004	riguardanti	riguardare	V	n/a
 d001.s003.t007	your		X	n/a	d001.s003.t006	proprie	proprio	J	n/a
@@ -60,7 +60,7 @@ d001.s003.t013	,		X	n/a	d001.s003.t013	,		X	n/a
 d001.s003.t014	read	read	V	bn:00092424v;wn:read%2:31:00::	d001.s003.t014	leggere	leggere	V	bn:00092424v;wn:read%2:31:00::
 d001.s003.t015	the		X	n/a	d001.s003.t015	il		X	n/a
 d001.s003.t016	Package	package	N	bn:00013882n;bn:00060109n;wiki:packaging_and_labeling;wiki:parcel_(consignment);wn:bundle%1:14:00::;wn:package%1:06:00::;wn:package%1:14:00::;wn:packet%1:14:00::;wn:parcel%1:06:00::;wn:parcel%1:14:00::					n/a
-d001.s003.t017	Leaflet	leaflet	N	bn:00012133n;wiki:folded_leaflet;wiki:pamphlet;wn:booklet%1:10:00::;wn:brochure%1:10:00::;wn:folder%1:10:00::;wn:leaflet%1:10:00::;wn:pamphlet%1:10:01::	d001.s003.t016	foglio	foglio	N	bn:00012133n;wiki:folded_leaflet;wiki:pamphlet;wn:booklet%1:10:00::;wn:brochure%1:10:00::;wn:folder%1:10:00::;wn:leaflet%1:10:00::;wn:pamphlet%1:10:01::
+d001.s003.t017	Leaflet	leaflet	N	bn:00012133n;wiki:folded_leaflet;wiki:pamphlet;wn:booklet%1:10:00::;wn:brochure%1:10:00::;wn:folder%1:10:00::;wn:leaflet%1:10:00::;wn:pamphlet%1:10:01::	d001.s003.t016	foglio	foglio	N	n/a
 d001.s003.t018	(		X	n/a	d001.s003.t018	(		X	n/a
 d001.s003.t019	also	also	R	bn:00114246r;wn:also%4:02:00::;wn:as_well%4:02:01::;wn:besides%4:02:03::;wn:likewise%4:02:01::;wn:too%4:02:01::					n/a
 d001.s003.t020	part	part	N	bn:00021395n;bn:00027912n;wn:component%1:24:00::;wn:component_part%1:24:00::;wn:constituent%1:24:00::;wn:division%1:09:00::;wn:part%1:09:00::;wn:part%1:24:00::;wn:portion%1:24:00::;wn:section%1:09:00::					n/a
@@ -78,7 +78,7 @@ d001.s003.t031	.		X	n/a	d001.s003.t030	.		X	n/a
 d001.s004.t001	If		X	n/a	d001.s004.t001	Per		X	n/a
 d001.s004.t002	you		X	n/a					n/a
 d001.s004.t003	want	want	V	bn:00086682v;wn:desire%2:37:00::;wn:want%2:37:00::					n/a
-d001.s004.t004	more	more	J	bn:00106935a;wn:more%3:00:01::;wn:more_than%3:00:00::	d001.s004.t002	maggiori	maggiore	J	bn:00106935a;wn:more%3:00:01::;wn:more_than%3:00:00::
+d001.s004.t004	more	more	J	bn:00106935a;wn:more%3:00:01::;wn:more_than%3:00:00::	d001.s004.t002	maggiori	maggiore	J	n/a
 d001.s004.t005	information	information	N	bn:00025314n;bn:00046705n;wiki:data;wiki:information;wn:data%1:14:00::;wn:information%1:09:00::;wn:information%1:14:00::	d001.s004.t003	informazioni	informazione	N	bn:00025314n;bn:00046705n;wiki:data;wiki:information;wn:data%1:14:00::;wn:information%1:09:00::;wn:information%1:14:00::
 d001.s004.t006	on		X	n/a					n/a
 d001.s004.t007	the		X	n/a	d001.s004.t005	alle		X	n/a
@@ -126,7 +126,7 @@ d001.s006.t019	.		X	n/a	d001.s006.t019	.		X	n/a
 d001.s007.t001	It		X	n/a					n/a
 d001.s007.t002	contains	contain	V	bn:00085499v;wn:comprise%2:42:00::;wn:contain%2:42:00::;wn:incorporate%2:42:00::	d001.s007.t001	Contiene	contenere	V	bn:00085499v;wn:comprise%2:42:00::;wn:contain%2:42:00::;wn:incorporate%2:42:00::
 d001.s007.t003	the		X	n/a	d001.s007.t002	il		X	n/a
-d001.s007.t004	active	active	J	bn:00377649n;wiki:active_ingredient	d001.s007.t003	principio	principio	N	bn:00377649n;wiki:active_ingredient
+d001.s007.t004	active	active	J	bn:00377649n;wiki:active_ingredient	d001.s007.t003	principio	principio	N	n/a
 d001.s007.t005	substance	substance	N	bn:00074986n;bn:00074987n;wn:substance%1:03:01::;wn:substance%1:27:00::					n/a
 d001.s007.t006	pemetrexed	pemetrexed	N	n/a	d001.s007.t005	pemetrexed	pemetrexed	N	n/a
 d001.s007.t007	.		X	n/a	d001.s007.t006	.		X	n/a
@@ -138,24 +138,24 @@ d001.s008.t005	for		X	n/a	d001.s008.t001	Per		X	n/a
 d001.s008.t006	?		X	n/a	d001.s008.t007	?		X	n/a
 d001.s009.t001	Alimta	alimta	N	n/a	d001.s009.t001	Alimta	alimta	N	n/a
 d001.s009.t002	is	be	V	n/a	d001.s009.t002	è	essere	V	n/a
-d001.s009.t003	used	use	V	bn:00082705v;bn:00089140v;wn:apply%2:34:00::;wn:employ%2:34:00::;wn:habituate%2:34:00::;wn:use%2:34:01::;wn:use%2:34:02::;wn:utilise%2:34:00::;wn:utilize%2:34:00::	d001.s009.t003	indicato	indicare	V	bn:00082705v;bn:00089140v;wn:apply%2:34:00::;wn:employ%2:34:00::;wn:habituate%2:34:00::;wn:use%2:34:01::;wn:use%2:34:02::;wn:utilise%2:34:00::;wn:utilize%2:34:00::
+d001.s009.t003	used	use	V	bn:00082705v;bn:00089140v;wn:apply%2:34:00::;wn:employ%2:34:00::;wn:habituate%2:34:00::;wn:use%2:34:01::;wn:use%2:34:02::;wn:utilise%2:34:00::;wn:utilize%2:34:00::	d001.s009.t003	indicato	indicare	V	n/a
 d001.s009.t004	to		X	n/a	d001.s009.t004	nel		X	n/a
 d001.s009.t005	treat	treat	V	bn:00084532v;wn:care_for%2:29:00::;wn:treat%2:29:00::	d001.s009.t005	trattamento	trattamento	N	n/a
 d001.s009.t006	two		X	n/a	d001.s009.t007	due	due	N	n/a
 d001.s009.t007	types	type	N	bn:00078798n;wn:type%1:09:00::	d001.s009.t008	tipi	tipo	N	bn:00078798n;wn:type%1:09:00::
 d001.s009.t008	of		X	n/a	d001.s009.t009	di		X	n/a
-d001.s009.t009	cancer	cancer	N	bn:00015180n;wiki:cancer;wn:cancer%1:26:00::;wn:malignant_neoplastic_disease%1:26:00::	d001.s009.t010	tumore	tumore	N	bn:00015180n;wiki:cancer;wn:cancer%1:26:00::;wn:malignant_neoplastic_disease%1:26:00::
+d001.s009.t009	cancer	cancer	N	bn:00015180n;wiki:cancer;wn:cancer%1:26:00::;wn:malignant_neoplastic_disease%1:26:00::	d001.s009.t010	tumore	tumore	N	n/a
 d001.s009.t010	:		X	n/a	d001.s009.t011	:		X	n/a
 d001.s009.t011	pleural	pleural	J	bn:00108692a;wn:pleural%3:01:00::	d001.s009.t014	pleurico	pleurico	J	bn:00108692a;wn:pleural%3:01:00::
 d001.s009.t012	mesothelioma	mesothelioma	N	bn:00054512n;wiki:mesothelioma;wn:mesothelioma%1:26:00::	d001.s009.t013	mesotelioma	mesotelioma	N	bn:00054512n;wiki:mesothelioma;wn:mesothelioma%1:26:00::
 d001.s009.t013	(		X	n/a	d001.s009.t015	(		X	n/a
-d001.s009.t014	cancer	cancer	N	bn:00015180n;wiki:cancer;wn:cancer%1:26:00::;wn:malignant_neoplastic_disease%1:26:00::	d001.s009.t016	tumore	tumore	N	bn:00015180n;wiki:cancer;wn:cancer%1:26:00::;wn:malignant_neoplastic_disease%1:26:00::
+d001.s009.t014	cancer	cancer	N	bn:00015180n;wiki:cancer;wn:cancer%1:26:00::;wn:malignant_neoplastic_disease%1:26:00::	d001.s009.t016	tumore	tumore	N	n/a
 d001.s009.t015	of		X	n/a					n/a
 d001.s009.t016	the		X	n/a					n/a
 d001.s009.t017	lining	lining	N	bn:00051366n;wn:liner%1:06:02::;wn:lining%1:06:00::					n/a
 d001.s009.t018	of		X	n/a	d001.s009.t017	della		X	n/a
 d001.s009.t019	the		X	n/a					n/a
-d001.s009.t020	lungs	lung	N	bn:00052341n;wiki:lung;wn:lung%1:08:00::	d001.s009.t018➕d001.s009.t022	membrana➕polmoni	membrana	N	bn:00052341n;wiki:lung;wn:lung%1:08:00::
+d001.s009.t020	lungs	lung	N	bn:00052341n;wiki:lung;wn:lung%1:08:00::	d001.s009.t018➕d001.s009.t022	membrana➕polmoni	membrana	N	n/a
 d001.s009.t021	that		X	n/a	d001.s009.t019	che		X	n/a
 d001.s009.t022	is	be	V	n/a					n/a
 d001.s009.t023	usually	usually	R	bn:00114778r;wn:commonly%4:02:00::;wn:normally%4:02:00::;wn:ordinarily%4:02:00::;wn:unremarkably%4:02:00::;wn:usually%4:02:00::	d001.s009.t024	generalmente	generalmente	R	bn:00114778r;wn:commonly%4:02:00::;wn:normally%4:02:00::;wn:ordinarily%4:02:00::;wn:unremarkably%4:02:00::;wn:usually%4:02:00::
@@ -179,7 +179,7 @@ d001.s010.t010	medicine	medicine	N	bn:00054128n;bn:00061887n;wiki:pharmaceutical
 d001.s010.t011	)		X	n/a	d001.s010.t013	)		X	n/a
 d001.s010.t012	when		X	n/a	d001.s010.t014	quando		X	n/a
 d001.s010.t013	the		X	n/a	d001.s010.t015	il		X	n/a
-d001.s010.t014	cancer	cancer	N	bn:00015180n;wiki:cancer;wn:cancer%1:26:00::;wn:malignant_neoplastic_disease%1:26:00::	d001.s010.t016	tumore	tumore	N	bn:00015180n;wiki:cancer;wn:cancer%1:26:00::;wn:malignant_neoplastic_disease%1:26:00::
+d001.s010.t014	cancer	cancer	N	bn:00015180n;wiki:cancer;wn:cancer%1:26:00::;wn:malignant_neoplastic_disease%1:26:00::	d001.s010.t016	tumore	tumore	N	n/a
 d001.s010.t015	is	be	V	n/a	d001.s010.t018	è	essere	V	n/a
 d001.s010.t016	unresectable	unresectable	J	n/a	d001.s010.t019	asportabile	asportabile	J	n/a
 d001.s010.t017	(		X	n/a	d001.s010.t020	(		X	n/a
@@ -234,7 +234,7 @@ d001.s010.t065	cancer	cancer	N	bn:00015180n;wiki:cancer;wn:cancer%1:26:00::;wn:m
 d001.s010.t066	that		X	n/a	d001.s010.t076	che		X	n/a
 d001.s010.t067	is	be	V	n/a					n/a
 d001.s010.t068	not	not	R	bn:00116360r;wn:non%4:02:00::;wn:not%4:02:00::	d001.s010.t077	non		X	n/a
-d001.s010.t069	affecting	affect	V	bn:00082427v;wn:affect%2:29:00::	d001.s010.t078	interessa	interessare	V	bn:00082427v;wn:affect%2:29:00::
+d001.s010.t069	affecting	affect	V	bn:00082427v;wn:affect%2:29:00::	d001.s010.t078	interessa	interessare	V	n/a
 d001.s010.t070	the		X	n/a	d001.s010.t079	le		X	n/a
 d001.s010.t071	squamous	squamous	J	bn:00073708n;wiki:squamous_epithelial_cell;wn:squamous_cell%1:08:00::	d001.s010.t081	squamose	squamoso	J	n/a
 d001.s010.t072	cells	cell	N	bn:00017027n;wiki:cell_(biology);wn:cell%1:03:00::	d001.s010.t080	cellule	cellula	N	bn:00017027n;wiki:cell_(biology);wn:cell%1:03:00::
@@ -263,7 +263,7 @@ d001.s011.t021	in		X	n/a	d001.s011.t017	in		X	n/a
 d001.s011.t022	patients	patient	N	bn:00061017n;wiki:patient;wn:patient%1:18:00::	d001.s011.t018	pazienti	paziente	N	bn:00061017n;wiki:patient;wn:patient%1:18:00::
 d001.s011.t023	who		X	n/a	d001.s011.t019	che		X	n/a
 d001.s011.t024	have	have	V	n/a	d001.s011.t022	sono	essere	V	n/a
-d001.s011.t025	received	receive	V	bn:00087863v;wn:experience%2:39:00::;wn:get%2:39:00::;wn:have%2:39:06::;wn:receive%2:39:03::	d001.s011.t024	sottoposti	sottoporre	V	bn:00087863v;wn:experience%2:39:00::;wn:get%2:39:00::;wn:have%2:39:06::;wn:receive%2:39:03::
+d001.s011.t025	received	receive	V	bn:00087863v;wn:experience%2:39:00::;wn:get%2:39:00::;wn:have%2:39:06::;wn:receive%2:39:03::	d001.s011.t024	sottoposti	sottoporre	V	n/a
 d001.s011.t026	another		X	n/a	d001.s011.t027	altro	altro	J	n/a
 d001.s011.t027	type	type	N	bn:00078798n;wn:type%1:09:00::	d001.s011.t028	tipo	tipo	N	bn:00078798n;wn:type%1:09:00::
 d001.s011.t028	of		X	n/a	d001.s011.t029	di		X	n/a
@@ -291,7 +291,7 @@ d001.s014.t001	Alimta	alimta	N	n/a	d001.s014.t001	Alimta	alimta	N	n/a
 d001.s014.t002	should		X	n/a	d001.s014.t002	deve	dovere	V	n/a
 d001.s014.t003	only	only	R	bn:00116450r;wn:only%4:02:03::;wn:only_if%4:02:00::;wn:only_when%4:02:00::	d001.s014.t005	solamente	solamente	R	bn:00116450r;wn:only%4:02:03::;wn:only_if%4:02:00::;wn:only_when%4:02:00::
 d001.s014.t004	be	be	V	n/a	d001.s014.t003	essere	essere	V	n/a
-d001.s014.t005	given	give	V	bn:00088826v;wn:give%2:40:13::	d001.s014.t004	somministrato	somministrare	V	bn:00088826v;wn:give%2:40:13::
+d001.s014.t005	given	give	V	bn:00088826v;wn:give%2:40:13::	d001.s014.t004	somministrato	somministrare	V	n/a
 d001.s014.t006	under		X	n/a	d001.s014.t006	sotto		X	n/a
 d001.s014.t007	the		X	n/a	d001.s014.t007	la		X	n/a
 d001.s014.t008	supervision	supervision	N	bn:00059908n;wn:oversight%1:04:01::;wn:superintendence%1:04:00::;wn:supervising%1:04:00::;wn:supervision%1:04:00::	d001.s014.t008	supervisione	supervisione	N	bn:00059908n;wn:oversight%1:04:01::;wn:superintendence%1:04:00::;wn:supervising%1:04:00::;wn:supervision%1:04:00::
@@ -383,7 +383,7 @@ d001.s016.t031	.		X	n/a	d001.s016.t033	.		X	n/a
 d001.s017.t001	When		X	n/a	d001.s017.t001	Quando	quando	R	n/a
 d001.s017.t002	Alimta	alimta	N	n/a	d001.s017.t002	Alimta	alimta	N	n/a
 d001.s017.t003	is	be	V	n/a	d001.s017.t003	è	essere	V	n/a
-d001.s017.t004	given	give	V	bn:00088826v;wn:give%2:40:13::	d001.s017.t004	somministrato	somministrare	V	bn:00088826v;wn:give%2:40:13::
+d001.s017.t004	given	give	V	bn:00088826v;wn:give%2:40:13::	d001.s017.t004	somministrato	somministrare	V	n/a
 d001.s017.t005	with		X	n/a	d001.s017.t005	con		X	n/a
 d001.s017.t006	cisplatin	cisplatin	N	bn:00577781n;wiki:cisplatin	d001.s017.t006	cisplatino	cisplatino	N	bn:00577781n;wiki:cisplatin
 d001.s017.t007	,		X	n/a	d001.s017.t007	,		X	n/a
@@ -400,18 +400,18 @@ d001.s017.t017	fluids	fluid	N	bn:00035426n;bn:00035427n;wiki:fluid;wn:fluid%1:27
 d001.s017.t018	(		X	n/a					n/a
 d001.s017.t019	to		X	n/a					n/a
 d001.s017.t020	prevent	prevent	V	bn:00088454v;bn:00090033v;wn:forbid%2:41:03::;wn:foreclose%2:41:00::;wn:forestall%2:41:01::;wn:keep%2:41:01::;wn:preclude%2:41:00::;wn:prevent%2:41:00::;wn:prevent%2:41:01::					n/a
-d001.s017.t021	dehydration	dehydration	N	bn:00025983n;wn:dehydration%1:26:01::	d001.s017.t025➕d001.s017.t030	idratazione➕disidratazione	idratazione	N	bn:00025983n;wn:dehydration%1:26:01::
+d001.s017.t021	dehydration	dehydration	N	bn:00025983n;wn:dehydration%1:26:01::	d001.s017.t025➕d001.s017.t030	idratazione➕disidratazione	idratazione	N	n/a
 d001.s017.t022	)		X	n/a					n/a
 d001.s017.t023	should		X	n/a	d001.s017.t010	devono	dovere	V	n/a
 d001.s017.t024	also	also	R	bn:00114246r;wn:also%4:02:00::;wn:as_well%4:02:01::;wn:besides%4:02:03::;wn:likewise%4:02:01::;wn:too%4:02:01::					n/a
 d001.s017.t025	be	be	V	n/a	d001.s017.t011	assumere	assumere	V	n/a
-d001.s017.t026	given	give	V	bn:00088826v;wn:give%2:40:13::	d001.s017.t022	ricevere	ricevere	V	bn:00088826v;wn:give%2:40:13::
+d001.s017.t026	given	give	V	bn:00088826v;wn:give%2:40:13::	d001.s017.t022	ricevere	ricevere	V	n/a
 d001.s017.t027	before	before	R	bn:00114512r;wn:before%4:02:03::;wn:earlier%4:02:00::	d001.s017.t032	prima	prima	R	bn:00114512r;wn:before%4:02:03::;wn:earlier%4:02:00::
 d001.s017.t028	or		X	n/a	d001.s017.t033	o		X	n/a
 d001.s017.t029	after	after	R	bn:00114165r;wn:after%4:02:01::;wn:afterward%4:02:00::;wn:afterwards%4:02:00::;wn:later%4:02:01::;wn:later_on%4:02:00::;wn:subsequently%4:02:00::	d001.s017.t034	dopo	dopo	R	bn:00114165r;wn:after%4:02:01::;wn:afterward%4:02:00::;wn:afterwards%4:02:00::;wn:later%4:02:01::;wn:later_on%4:02:00::;wn:subsequently%4:02:00::
 d001.s017.t030	the		X	n/a	d001.s017.t029	la		X	n/a
 d001.s017.t031	cisplatin	cisplatin	N	bn:00577781n;wiki:cisplatin	d001.s017.t038	cisplatino	cisplatino	N	bn:00577781n;wiki:cisplatin
-d001.s017.t032	dose	dose	N	bn:00028320n;wiki:dose_(biochemistry);wn:dosage%1:06:00::;wn:dose%1:06:00::	d001.s017.t036	assunzione	assunzione	N	bn:00028320n;wiki:dose_(biochemistry);wn:dosage%1:06:00::;wn:dose%1:06:00::
+d001.s017.t032	dose	dose	N	bn:00028320n;wiki:dose_(biochemistry);wn:dosage%1:06:00::;wn:dose%1:06:00::	d001.s017.t036	assunzione	assunzione	N	n/a
 d001.s017.t033	.		X	n/a	d001.s017.t039	.		X	n/a
 d001.s018.t001	Treatment	treatment	N	bn:00047235n;wn:intervention%1:04:02::;wn:treatment%1:04:00::	d001.s018.t002	trattamento	trattamento	N	bn:00047235n;wn:intervention%1:04:02::;wn:treatment%1:04:00::
 d001.s018.t002	should		X	n/a	d001.s018.t003	deve	dovere	V	n/a
@@ -434,7 +434,7 @@ d001.s018.t018	are	be	V	n/a					n/a
 d001.s018.t019	abnormal	abnormal	J	bn:00096158a;bn:00096160a;wn:abnormal%3:00:00::;wn:abnormal%5:00:00:immoderate:00;wn:unnatural%3:00:03::	d001.s018.t019	alterazioni	alterazione	N	n/a
 d001.s018.t020	or		X	n/a	d001.s018.t023	o		X	n/a
 d001.s018.t021	who		X	n/a	d001.s018.t024	che		X	n/a
-d001.s018.t022	have	have	V	bn:00088745v;bn:00089245v;wn:get%2:29:11::;wn:have%2:29:02::;wn:have%2:29:05::;wn:suffer%2:29:01::;wn:sustain%2:29:00::	d001.s018.t025	riportano	riportare	V	bn:00088745v;bn:00089245v;wn:get%2:29:11::;wn:have%2:29:02::;wn:have%2:29:05::;wn:suffer%2:29:01::;wn:sustain%2:29:00::
+d001.s018.t022	have	have	V	bn:00088745v;bn:00089245v;wn:get%2:29:11::;wn:have%2:29:02::;wn:have%2:29:05::;wn:suffer%2:29:01::;wn:sustain%2:29:00::	d001.s018.t025	riportano	riportare	V	n/a
 d001.s018.t023	certain	certain	J	bn:00099474a;wn:certain%5:00:00:definite:00					n/a
 d001.s018.t024	other	other	J	bn:00108011a;wn:other%3:00:00::	d001.s018.t026	altri		X	n/a
 d001.s018.t025	side	side	J	bn:00071445n;wiki:side_effect;wn:side_effect%1:26:00::					n/a
@@ -456,7 +456,7 @@ d001.s019.t013	kidney	kidney	N	bn:00049083n;wiki:kidney;wn:kidney%1:08:00::	d001
 d001.s019.t014	problems	problem	N	bn:00048242n;bn:09482133n;wiki:problem;wn:job%1:26:00::;wn:problem%1:26:00::					n/a
 d001.s019.t015	.		X	n/a	d001.s019.t015	.		X	n/a
 d001.s020.t001	For		X	n/a	d001.s020.t001	Per		X	n/a
-d001.s020.t002	more	more	J	bn:00106935a;wn:more%3:00:01::;wn:more_than%3:00:00::	d001.s020.t002	maggiori	maggiore	J	bn:00106935a;wn:more%3:00:01::;wn:more_than%3:00:00::
+d001.s020.t002	more	more	J	bn:00106935a;wn:more%3:00:01::;wn:more_than%3:00:00::	d001.s020.t002	maggiori	maggiore	J	n/a
 d001.s020.t003	information	information	N	bn:00025314n;bn:00046705n;wiki:data;wiki:information;wn:data%1:14:00::;wn:information%1:09:00::;wn:information%1:14:00::	d001.s020.t003	informazioni	informazione	N	bn:00025314n;bn:00046705n;wiki:data;wiki:information;wn:data%1:14:00::;wn:information%1:09:00::;wn:information%1:14:00::
 d001.s020.t004	,		X	n/a	d001.s020.t004	,		X	n/a
 d001.s020.t005	see	see	V	bn:00087787v;wn:examine%2:39:00::;wn:see%2:39:13::					n/a
@@ -480,7 +480,7 @@ d001.s021.t004	work	work	N	n/a					n/a
 d001.s021.t005	?		X	n/a	d001.s021.t004	?		X	n/a
 d001.s022.t001	The		X	n/a	d001.s022.t001	Il		X	n/a
 d001.s022.t002	active	active	J	bn:00377649n;wiki:active_ingredient					n/a
-d001.s022.t003	substance	substance	N	bn:00074986n;bn:00074987n;wn:substance%1:03:01::;wn:substance%1:27:00::	d001.s022.t002	principio	principio	N	bn:00074986n;bn:00074987n;wn:substance%1:03:01::;wn:substance%1:27:00::
+d001.s022.t003	substance	substance	N	bn:00074986n;bn:00074987n;wn:substance%1:03:01::;wn:substance%1:27:00::	d001.s022.t002	principio	principio	N	n/a
 d001.s022.t004	in		X	n/a	d001.s022.t019	in		X	n/a
 d001.s022.t005	Alimta	alimta	N	n/a	d001.s022.t005	Alimta	alimta	N	n/a
 d001.s022.t006	,		X	n/a	d001.s022.t006	,		X	n/a
@@ -579,7 +579,7 @@ d001.s025.t019	patients	patient	N	bn:00061017n;wiki:patient;wn:patient%1:18:00::
 d001.s025.t020	who		X	n/a	d001.s025.t023	che		X	n/a
 d001.s025.t021	had	have	V	n/a	d001.s025.t025	erano	essere	V	n/a
 d001.s025.t022	not	not	R	bn:00116360r;wn:non%4:02:00::;wn:not%4:02:00::	d001.s025.t024	non		X	n/a
-d001.s025.t023	received	receive	V	bn:00087863v;wn:experience%2:39:00::;wn:get%2:39:00::;wn:have%2:39:06::;wn:receive%2:39:03::	d001.s025.t027	sottoposti	sottoporre	V	bn:00087863v;wn:experience%2:39:00::;wn:get%2:39:00::;wn:have%2:39:06::;wn:receive%2:39:03::
+d001.s025.t023	received	receive	V	bn:00087863v;wn:experience%2:39:00::;wn:get%2:39:00::;wn:have%2:39:06::;wn:receive%2:39:03::	d001.s025.t027	sottoposti	sottoporre	V	n/a
 d001.s025.t024	chemotherapy	chemotherapy	N	bn:00018141n;wiki:chemotherapy;wn:chemotherapy%1:04:00::	d001.s025.t029	chemioterapia	chemioterapia	N	bn:00018141n;wiki:chemotherapy;wn:chemotherapy%1:04:00::
 d001.s025.t025	for		X	n/a					n/a
 d001.s025.t026	their		X	n/a					n/a
@@ -609,7 +609,7 @@ d001.s027.t004	of		X	n/a					n/a
 d001.s027.t005	non-small	non-small	J	bn:03421664n;wiki:non-small-cell_lung_carcinoma	d001.s027.t007➕d001.s027.t009	non➕piccole		X➕J	n/a
 d001.s027.t006	cell	cell	N	bn:00017027n;wiki:cell_(biology);wn:cell%1:03:00::	d001.s027.t010	cellule	cellula	N	bn:00017027n;wiki:cell_(biology);wn:cell%1:03:00::
 d001.s027.t007	lung	lung	N	bn:00052343n;wiki:lung_cancer;wn:lung_cancer%1:26:00::					n/a
-d001.s027.t008	cancer	cancer	N	bn:00015180n;wiki:cancer;wn:cancer%1:26:00::;wn:malignant_neoplastic_disease%1:26:00::	d001.s027.t037	tumore	tumore	N	bn:00015180n;wiki:cancer;wn:cancer%1:26:00::;wn:malignant_neoplastic_disease%1:26:00::
+d001.s027.t008	cancer	cancer	N	bn:00015180n;wiki:cancer;wn:cancer%1:26:00::;wn:malignant_neoplastic_disease%1:26:00::	d001.s027.t037	tumore	tumore	N	n/a
 d001.s027.t009	,		X	n/a	d001.s027.t011	,		X	n/a
 d001.s027.t010	the		X	n/a	d001.s027.t012	gli		X	n/a
 d001.s027.t011	effects	effect	N	bn:00029874n;wn:effect%1:26:00::	d001.s027.t013	effetti	effetto	N	bn:00029874n;wn:effect%1:26:00::
@@ -629,7 +629,7 @@ d001.s027.t024	)		X	n/a	d001.s027.t028	)		X	n/a
 d001.s027.t025	in		X	n/a	d001.s027.t029	in		X	n/a
 d001.s027.t026	one		X	n/a	d001.s027.t030	uno		X	n/a
 d001.s027.t027	study	study	N	bn:00074790n;wn:study%1:04:00::;wn:survey%1:04:02::	d001.s027.t031	studio	studio	N	bn:00074790n;wn:study%1:04:00::;wn:survey%1:04:02::
-d001.s027.t028	involving	involve	V	bn:00089893v;wn:involve%2:42:04::	d001.s027.t032	condotto	condurre	V	bn:00089893v;wn:involve%2:42:04::
+d001.s027.t028	involving	involve	V	bn:00089893v;wn:involve%2:42:04::	d001.s027.t032	condotto	condurre	V	n/a
 d001.s027.t029	571		X	n/a	d001.s027.t034	571		X	n/a
 d001.s027.t030	patients	patient	N	bn:00061017n;wiki:patient;wn:patient%1:18:00::	d001.s027.t035	pazienti	paziente	N	bn:00061017n;wiki:patient;wn:patient%1:18:00::
 d001.s027.t031	with		X	n/a	d001.s027.t036	con		X	n/a
@@ -637,14 +637,14 @@ d001.s027.t032	locally	locally	R	bn:00116147r;wn:locally%4:02:01::;wn:topically%
 d001.s027.t033	advanced	advanced	J	bn:00096528a;wn:advanced%5:00:00:late:02	d001.s027.t040	avanzata	avanzato	J	bn:00096528a;wn:advanced%5:00:00:late:02
 d001.s027.t034	or		X	n/a	d001.s027.t041	o		X	n/a
 d001.s027.t035	metastatic	metastatic	J	bn:00054585n;wiki:metastasis;wn:metastasis%1:22:01::	d001.s027.t042	metastatica	metastatico	J	n/a
-d001.s027.t036	disease	disease	N	bn:00027546n;bn:00045952n;wiki:disease;wn:disease%1:26:00::;wn:illness%1:26:00::;wn:malady%1:26:00::;wn:sickness%1:26:00::;wn:unwellness%1:26:00::	d001.s027.t037	tumore	tumore	N	bn:00027546n;bn:00045952n;wiki:disease;wn:disease%1:26:00::;wn:illness%1:26:00::;wn:malady%1:26:00::;wn:sickness%1:26:00::;wn:unwellness%1:26:00::
+d001.s027.t036	disease	disease	N	bn:00027546n;bn:00045952n;wiki:disease;wn:disease%1:26:00::;wn:illness%1:26:00::;wn:malady%1:26:00::;wn:sickness%1:26:00::;wn:unwellness%1:26:00::	d001.s027.t037	tumore	tumore	N	n/a
 d001.s027.t037	who		X	n/a					n/a
 d001.s027.t038	had	have	V	n/a	d001.s027.t044	già		X	n/a
 d001.s027.t039	received	receive	V	bn:00087863v;wn:experience%2:39:00::;wn:get%2:39:00::;wn:have%2:39:06::;wn:receive%2:39:03::					n/a
 d001.s027.t040	chemotherapy	chemotherapy	N	bn:00018141n;wiki:chemotherapy;wn:chemotherapy%1:04:00::	d001.s027.t049	chemioterapia	chemioterapia	N	bn:00018141n;wiki:chemotherapy;wn:chemotherapy%1:04:00::
 d001.s027.t041	in		X	n/a	d001.s027.t038	in		X	n/a
 d001.s027.t042	the		X	n/a					n/a
-d001.s027.t043	past	past	N	bn:00060927n;bn:00060928n;wiki:past;wn:past%1:28:00::;wn:past%1:28:01::;wn:past_times%1:28:00::;wn:yesteryear%1:28:00::	d001.s027.t047	precedenza	precedenza	N	bn:00060927n;bn:00060928n;wiki:past;wn:past%1:28:00::;wn:past%1:28:01::;wn:past_times%1:28:00::;wn:yesteryear%1:28:00::
+d001.s027.t043	past	past	N	bn:00060927n;bn:00060928n;wiki:past;wn:past%1:28:00::;wn:past%1:28:01::;wn:past_times%1:28:00::;wn:yesteryear%1:28:00::	d001.s027.t047	precedenza	precedenza	N	n/a
 d001.s027.t044	.		X	n/a	d001.s027.t050	.		X	n/a
 d001.s028.t001	Alimta	alimta	N	n/a	d001.s028.t001	Alimta	alimta	N	n/a
 d001.s028.t002	was	be	V	n/a	d001.s028.t002	è	essere	V	n/a
@@ -673,11 +673,11 @@ d001.s028.t024	patients	patient	N	bn:00061017n;wiki:patient;wn:patient%1:18:00::
 d001.s028.t025	who		X	n/a	d001.s028.t026	che		X	n/a
 d001.s028.t026	had	have	V	n/a	d001.s028.t030	erano	essere	V	n/a
 d001.s028.t027	not	not	R	bn:00116360r;wn:non%4:02:00::;wn:not%4:02:00::	d001.s028.t029	non		X	n/a
-d001.s028.t028	received	receive	V	bn:00087863v;wn:experience%2:39:00::;wn:get%2:39:00::;wn:have%2:39:06::;wn:receive%2:39:03::	d001.s028.t033	sottoposti	sottoporre	V	bn:00087863v;wn:experience%2:39:00::;wn:get%2:39:00::;wn:have%2:39:06::;wn:receive%2:39:03::
+d001.s028.t028	received	receive	V	bn:00087863v;wn:experience%2:39:00::;wn:get%2:39:00::;wn:have%2:39:06::;wn:receive%2:39:03::	d001.s028.t033	sottoposti	sottoporre	V	n/a
 d001.s028.t029	chemotherapy	chemotherapy	N	bn:00018141n;wiki:chemotherapy;wn:chemotherapy%1:04:00::	d001.s028.t035	chemioterapia	chemioterapia	N	bn:00018141n;wiki:chemotherapy;wn:chemotherapy%1:04:00::
 d001.s028.t030	for		X	n/a	d001.s028.t036	per		X	n/a
 d001.s028.t031	lung	lung	N	bn:00052343n;wiki:lung_cancer;wn:lung_cancer%1:26:00::	d001.s028.t038	polmonare	polmonare	J	n/a
-d001.s028.t032	cancer	cancer	N	bn:00015180n;wiki:cancer;wn:cancer%1:26:00::;wn:malignant_neoplastic_disease%1:26:00::	d001.s028.t037	tumore	tumore	N	bn:00015180n;wiki:cancer;wn:cancer%1:26:00::;wn:malignant_neoplastic_disease%1:26:00::
+d001.s028.t032	cancer	cancer	N	bn:00015180n;wiki:cancer;wn:cancer%1:26:00::;wn:malignant_neoplastic_disease%1:26:00::	d001.s028.t037	tumore	tumore	N	n/a
 d001.s028.t033	in		X	n/a	d001.s028.t027	in		X	n/a
 d001.s028.t034	the		X	n/a					n/a
 d001.s028.t035	past	past	N	bn:00060927n;bn:00060928n;wiki:past;wn:past%1:28:00::;wn:past%1:28:01::;wn:past_times%1:28:00::;wn:yesteryear%1:28:00::	d001.s028.t028	passato	passato	N	bn:00060927n;bn:00060928n;wiki:past;wn:past%1:28:00::;wn:past%1:28:01::;wn:past_times%1:28:00::;wn:yesteryear%1:28:00::
@@ -689,7 +689,7 @@ d001.s029.t004	studies	study	N	bn:00067181n;bn:00074790n;wiki:report;wn:report%1
 d001.s029.t005	,		X	n/a	d001.s029.t007	,		X	n/a
 d001.s029.t006	the		X	n/a	d001.s029.t008	il		X	n/a
 d001.s029.t007	main	main	J	bn:00099598a;wn:chief%5:00:02:important:00;wn:main%5:00:00:important:00;wn:master%5:00:00:important:00;wn:primary%5:00:00:important:00;wn:principal%5:00:00:important:00	d001.s029.t009	principale	principale	J	bn:00099598a;wn:chief%5:00:02:important:00;wn:main%5:00:00:important:00;wn:master%5:00:00:important:00;wn:primary%5:00:00:important:00;wn:principal%5:00:00:important:00
-d001.s029.t008	measure	measure	N	bn:00054019n;wiki:measurement;wn:measure%1:04:00::;wn:measurement%1:04:00::;wn:measuring%1:04:00::;wn:mensuration%1:04:00::	d001.s029.t010	indicatore	indicatore	N	bn:00054019n;wiki:measurement;wn:measure%1:04:00::;wn:measurement%1:04:00::;wn:measuring%1:04:00::;wn:mensuration%1:04:00::
+d001.s029.t008	measure	measure	N	bn:00054019n;wiki:measurement;wn:measure%1:04:00::;wn:measurement%1:04:00::;wn:measuring%1:04:00::;wn:mensuration%1:04:00::	d001.s029.t010	indicatore	indicatore	N	n/a
 d001.s029.t009	of		X	n/a	d001.s029.t016	di		X	n/a
 d001.s029.t010	effectiveness	effectiveness	N	bn:00029876n;bn:00029877n;wiki:effectiveness;wn:effectiveness%1:07:00::;wn:effectiveness%1:07:01::;wn:effectivity%1:07:00::;wn:effectuality%1:07:00::;wn:effectualness%1:07:00::;wn:potency%1:07:00::;wn:strength%1:07:08::	d001.s029.t012	efficacia	efficacia	N	bn:00029876n;bn:00029877n;wiki:effectiveness;wn:effectiveness%1:07:00::;wn:effectiveness%1:07:01::;wn:effectivity%1:07:00::;wn:effectuality%1:07:00::;wn:effectualness%1:07:00::;wn:potency%1:07:00::;wn:strength%1:07:08::
 d001.s029.t011	was	be	V	n/a	d001.s029.t013	era	essere	V	n/a
@@ -725,7 +725,7 @@ d001.s032.t002	receiving	receive	V	bn:00087863v;wn:experience%2:39:00::;wn:get%2
 d001.s032.t003	Alimta	alimta	N	n/a	d001.s032.t008	Alimta	alimta	N	n/a
 d001.s032.t004	and		X	n/a	d001.s032.t009	in		X	n/a
 d001.s032.t005	cisplatin	cisplatin	N	bn:00577781n;wiki:cisplatin	d001.s032.t012	cisplatino	cisplatino	N	bn:00577781n;wiki:cisplatin
-d001.s032.t006	survived	survive	V	bn:00085382v;bn:00087617v;wn:come_through%2:42:00::;wn:endure%2:42:00::;wn:go%2:42:14::;wn:hold_out%2:42:00::;wn:hold_up%2:42:00::;wn:last%2:42:01::;wn:live%2:42:04::;wn:live_on%2:42:00::;wn:make_it%2:42:00::;wn:pull_round%2:42:00::;wn:pull_through%2:42:00::;wn:survive%2:42:01::;wn:survive%2:42:02::	d001.s032.t013➕d001.s032.t014	sono➕sopravvissuti	essere	V	bn:00085382v;bn:00087617v;wn:come_through%2:42:00::;wn:endure%2:42:00::;wn:go%2:42:14::;wn:hold_out%2:42:00::;wn:hold_up%2:42:00::;wn:last%2:42:01::;wn:live%2:42:04::;wn:live_on%2:42:00::;wn:make_it%2:42:00::;wn:pull_round%2:42:00::;wn:pull_through%2:42:00::;wn:survive%2:42:01::;wn:survive%2:42:02::
+d001.s032.t006	survived	survive	V	bn:00085382v;bn:00087617v;wn:come_through%2:42:00::;wn:endure%2:42:00::;wn:go%2:42:14::;wn:hold_out%2:42:00::;wn:hold_up%2:42:00::;wn:last%2:42:01::;wn:live%2:42:04::;wn:live_on%2:42:00::;wn:make_it%2:42:00::;wn:pull_round%2:42:00::;wn:pull_through%2:42:00::;wn:survive%2:42:01::;wn:survive%2:42:02::	d001.s032.t013➕d001.s032.t014	sono➕sopravvissuti	essere	V	n/a
 d001.s032.t007	for		X	n/a					n/a
 d001.s032.t008	an		X	n/a					n/a
 d001.s032.t009	average	average	N	bn:00054001n;wiki:mean;wn:mean%1:09:00::;wn:mean_value%1:09:00::	d001.s032.t016	media	media	N	bn:00054001n;wiki:mean;wn:mean%1:09:00::;wn:mean_value%1:09:00::
@@ -766,7 +766,7 @@ d001.s034.t001	In		X	n/a	d001.s034.t001	Nei		X	n/a
 d001.s034.t002	patients	patient	N	bn:00061017n;wiki:patient;wn:patient%1:18:00::	d001.s034.t002	pazienti	paziente	N	bn:00061017n;wiki:patient;wn:patient%1:18:00::
 d001.s034.t003	who		X	n/a	d001.s034.t003	che		X	n/a
 d001.s034.t004	had	have	V	n/a	d001.s034.t006	erano	essere	V	n/a
-d001.s034.t005	received	receive	V	bn:00087863v;wn:experience%2:39:00::;wn:get%2:39:00::;wn:have%2:39:06::;wn:receive%2:39:03::	d001.s034.t008	sottoposti	sottoporre	V	bn:00087863v;wn:experience%2:39:00::;wn:get%2:39:00::;wn:have%2:39:06::;wn:receive%2:39:03::
+d001.s034.t005	received	receive	V	bn:00087863v;wn:experience%2:39:00::;wn:get%2:39:00::;wn:have%2:39:06::;wn:receive%2:39:03::	d001.s034.t008	sottoposti	sottoporre	V	n/a
 d001.s034.t006	chemotherapy	chemotherapy	N	bn:00018141n;wiki:chemotherapy;wn:chemotherapy%1:04:00::	d001.s034.t010	chemioterapia	chemioterapia	N	bn:00018141n;wiki:chemotherapy;wn:chemotherapy%1:04:00::
 d001.s034.t007	in		X	n/a	d001.s034.t004	in		X	n/a
 d001.s034.t008	the		X	n/a					n/a
@@ -819,10 +819,10 @@ d001.s036.t005	studies	study	N	bn:00074790n;wn:study%1:04:00::;wn:survey%1:04:02
 d001.s036.t006	,		X	n/a					n/a
 d001.s036.t007	patients	patient	N	bn:00061017n;wiki:patient;wn:patient%1:18:00::	d001.s036.t008	pazienti	paziente	N	bn:00061017n;wiki:patient;wn:patient%1:18:00::
 d001.s036.t008	whose		X	n/a	d001.s036.t010	cui		X	n/a
-d001.s036.t009	cancer	cancer	N	bn:00015180n;wiki:cancer;wn:cancer%1:26:00::;wn:malignant_neoplastic_disease%1:26:00::	d001.s036.t011	tumore	tumore	N	bn:00015180n;wiki:cancer;wn:cancer%1:26:00::;wn:malignant_neoplastic_disease%1:26:00::
+d001.s036.t009	cancer	cancer	N	bn:00015180n;wiki:cancer;wn:cancer%1:26:00::;wn:malignant_neoplastic_disease%1:26:00::	d001.s036.t011	tumore	tumore	N	n/a
 d001.s036.t010	was	be	V	n/a	d001.s036.t013	interessava	interessare	V	n/a
 d001.s036.t011	not	not	R	bn:00116360r;wn:non%4:02:00::;wn:not%4:02:00::	d001.s036.t012	non		X	n/a
-d001.s036.t012	affecting	affect	V	bn:00082427v;wn:affect%2:29:00::	d001.s036.t013	interessava	interessare	V	bn:00082427v;wn:affect%2:29:00::
+d001.s036.t012	affecting	affect	V	bn:00082427v;wn:affect%2:29:00::	d001.s036.t013	interessava	interessare	V	n/a
 d001.s036.t013	squamous	squamous	J	bn:00073708n;wiki:squamous_epithelial_cell;wn:squamous_cell%1:08:00::	d001.s036.t015	squamose	squamoso	J	n/a
 d001.s036.t014	cells	cell	N	bn:00017027n;wiki:cell_(biology);wn:cell%1:03:00::	d001.s036.t014	cellule	cellula	N	bn:00017027n;wiki:cell_(biology);wn:cell%1:03:00::
 d001.s036.t015	had	have	V	bn:00088078v;bn:00088745v;wn:feature%2:42:00::;wn:get%2:29:11::;wn:have%2:29:05::;wn:have%2:42:00::;wn:suffer%2:29:01::;wn:sustain%2:29:00::	d001.s036.t016	hanno	avere	V	bn:00088078v;bn:00088745v;wn:feature%2:42:00::;wn:get%2:29:11::;wn:have%2:29:05::;wn:have%2:42:00::;wn:suffer%2:29:01::;wn:sustain%2:29:00::
@@ -845,9 +845,9 @@ d001.s037.t002	contrast	contrast	N	bn:00022261n;wn:contrast%1:24:00::;wn:direct_
 d001.s037.t003	,		X	n/a	d001.s037.t002	,		X	n/a
 d001.s037.t004	patients	patient	N	bn:00061017n;wiki:patient;wn:patient%1:18:00::	d001.s037.t004	pazienti	paziente	N	bn:00061017n;wiki:patient;wn:patient%1:18:00::
 d001.s037.t005	whose		X	n/a	d001.s037.t006	cui		X	n/a
-d001.s037.t006	cancer	cancer	N	bn:00015180n;wiki:cancer;wn:cancer%1:26:00::;wn:malignant_neoplastic_disease%1:26:00::	d001.s037.t007	tumore	tumore	N	bn:00015180n;wiki:cancer;wn:cancer%1:26:00::;wn:malignant_neoplastic_disease%1:26:00::
+d001.s037.t006	cancer	cancer	N	bn:00015180n;wiki:cancer;wn:cancer%1:26:00::;wn:malignant_neoplastic_disease%1:26:00::	d001.s037.t007	tumore	tumore	N	n/a
 d001.s037.t007	was	be	V	n/a	d001.s037.t008	interessava	interessare	V	n/a
-d001.s037.t008	affecting	affect	V	bn:00082427v;wn:affect%2:29:00::	d001.s037.t008	interessava	interessare	V	bn:00082427v;wn:affect%2:29:00::
+d001.s037.t008	affecting	affect	V	bn:00082427v;wn:affect%2:29:00::	d001.s037.t008	interessava	interessare	V	n/a
 d001.s037.t009	squamous	squamous	J	bn:00073708n;wiki:squamous_epithelial_cell;wn:squamous_cell%1:08:00::	d001.s037.t010	squamose	squamoso	J	n/a
 d001.s037.t010	cells	cell	N	bn:00017027n;wiki:cell_(biology);wn:cell%1:03:00::	d001.s037.t009	cellule	cellula	N	bn:00017027n;wiki:cell_(biology);wn:cell%1:03:00::
 d001.s037.t011	had	have	V	bn:00088078v;bn:00088745v;wn:feature%2:42:00::;wn:get%2:29:11::;wn:have%2:29:05::;wn:have%2:42:00::;wn:suffer%2:29:01::;wn:sustain%2:29:00::	d001.s037.t011	hanno	avere	V	bn:00088078v;bn:00088745v;wn:feature%2:42:00::;wn:get%2:29:11::;wn:have%2:29:05::;wn:have%2:42:00::;wn:suffer%2:29:01::;wn:sustain%2:29:00::
@@ -876,7 +876,7 @@ d001.s038.t002	it		X	n/a					n/a
 d001.s038.t003	is	be	V	n/a	d001.s038.t013	può	potere	V	n/a
 d001.s038.t004	capable	capable	J	bn:00099215a;wn:capable%3:00:00::					n/a
 d001.s038.t005	to		X	n/a					n/a
-d001.s038.t006	make	make	V	bn:00090557v;wn:make%2:36:12::	d001.s038.t002	eseguire	eseguire	V	bn:00090557v;wn:make%2:36:12::
+d001.s038.t006	make	make	V	bn:00090557v;wn:make%2:36:12::	d001.s038.t002	eseguire	eseguire	V	n/a
 d001.s038.t007	simple	simple	J	bn:00102111a;wn:elementary%5:00:00:easy:01;wn:simple%5:00:00:easy:01;wn:uncomplicated%5:00:00:easy:01;wn:unproblematic%5:00:00:easy:01	d001.s038.t003	semplici	semplice	J	bn:00102111a;wn:elementary%5:00:00:easy:01;wn:simple%5:00:00:easy:01;wn:uncomplicated%5:00:00:easy:01;wn:unproblematic%5:00:00:easy:01
 d001.s038.t008	MathML	mathml	N	n/a	d001.s038.t011	MathML	mathml	N	n/a
 d001.s038.t009	operations	operation	N	bn:00053826n;wiki:operation_(mathematics);wn:mathematical_operation%1:04:00::;wn:mathematical_process%1:04:00::;wn:operation%1:04:01::	d001.s038.t004	operazioni	operazione	N	bn:00053826n;wiki:operation_(mathematics);wn:mathematical_operation%1:04:00::;wn:mathematical_process%1:04:00::;wn:operation%1:04:01::
@@ -934,7 +934,7 @@ d001.s040.t018	.		X	n/a	d001.s040.t022	.		X	n/a
 d001.s041.t001	Here	here	R	bn:00115639r;wn:here%4:02:00::					n/a
 d001.s041.t002	's	be	V	n/a					n/a
 d001.s041.t003	a		X	n/a					n/a
-d001.s041.t004	screenshot	screenshot	N	bn:01157212n;wiki:screenshot	d001.s041.t001	Immagine	immagine	N	bn:01157212n;wiki:screenshot
+d001.s041.t004	screenshot	screenshot	N	bn:01157212n;wiki:screenshot	d001.s041.t001	Immagine	immagine	N	n/a
 d001.s041.t005	of		X	n/a	d001.s041.t009	di		X	n/a
 d001.s041.t006	kalgebra	kalgebra	N	n/a	d001.s041.t006	kalgebra	kalgebra	N	n/a
 d001.s041.t007	main	main	J	bn:00099598a;wn:chief%5:00:02:important:00;wn:main%5:00:00:important:00;wn:master%5:00:00:important:00;wn:primary%5:00:00:important:00;wn:principal%5:00:00:important:00	d001.s041.t004	principale	principale	J	bn:00099598a;wn:chief%5:00:02:important:00;wn:main%5:00:00:important:00;wn:master%5:00:00:important:00;wn:primary%5:00:00:important:00;wn:principal%5:00:00:important:00
@@ -945,7 +945,7 @@ d001.s041.t011	window	window	N	bn:00081292n;wiki:window_(computing);wn:window%1:
 d001.s041.t012	kalgebra	kalgebra	N	n/a	d001.s041.t015	kalgebra	kalgebra	N	n/a
 d001.s041.t013	main	main	J	bn:00099598a;wn:chief%5:00:02:important:00;wn:main%5:00:00:important:00;wn:master%5:00:00:important:00;wn:primary%5:00:00:important:00;wn:principal%5:00:00:important:00					n/a
 d001.s041.t014	window	window	N	bn:00081292n;wiki:window_(computing);wn:window%1:06:03::	d001.s041.t012	finestra	finestra	N	bn:00081292n;wiki:window_(computing);wn:window%1:06:03::
-d001.s041.t015	consists	consist	V	bn:00085498v;wn:comprise%2:42:01::;wn:consist%2:42:01::	d001.s041.t016➕d001.s041.t017	è➕composta	essere	V	bn:00085498v;wn:comprise%2:42:01::;wn:consist%2:42:01::
+d001.s041.t015	consists	consist	V	bn:00085498v;wn:comprise%2:42:01::;wn:consist%2:42:01::	d001.s041.t016➕d001.s041.t017	è➕composta	essere	V	n/a
 d001.s041.t016	in		X	n/a	d001.s041.t018	da		X	n/a
 d001.s041.t017	a		X	n/a	d001.s041.t019	una		X	n/a
 d001.s041.t018	Console	console	N	bn:00020949n;wiki:command-line_interface;wn:command_line%1:10:00::	d001.s041.t021	Console	console	N	bn:00020949n;wiki:command-line_interface;wn:command_line%1:10:00::
@@ -972,10 +972,10 @@ d001.s042.t004	you		X	n/a					n/a
 d001.s042.t005	will		X	n/a					n/a
 d001.s042.t006	find	find	V	bn:00086708v;wn:detect%2:39:00::;wn:discover%2:39:03::;wn:find%2:39:02::;wn:notice%2:39:04::;wn:observe%2:39:02::	d001.s042.t005	trova	trovare	V	bn:00086708v;wn:detect%2:39:00::;wn:discover%2:39:03::;wn:find%2:39:02::;wn:notice%2:39:04::;wn:observe%2:39:02::
 d001.s042.t007	an		X	n/a	d001.s042.t006	un		X	n/a
-d001.s042.t008	input	input	N	bn:00046850n;bn:02570242n;wiki:input_(computer_science);wn:input%1:06:00::	d001.s042.t009	inserimento	inserimento	N	bn:00046850n;bn:02570242n;wiki:input_(computer_science);wn:input%1:06:00::
+d001.s042.t008	input	input	N	bn:00046850n;bn:02570242n;wiki:input_(computer_science);wn:input%1:06:00::	d001.s042.t009	inserimento	inserimento	N	n/a
 d001.s042.t009	field	field	N	bn:00034274n;wiki:field_(computer_science);wn:field%1:14:03::	d001.s042.t007	campo	campo	N	bn:00034274n;wiki:field_(computer_science);wn:field%1:14:03::
 d001.s042.t010	to		X	n/a	d001.s042.t010	per		X	n/a
-d001.s042.t011	type	type	V	bn:00095295v;wn:type%2:32:00::;wn:typewrite%2:32:00::	d001.s042.t011	scrivere	scrivere	V	bn:00095295v;wn:type%2:32:00::;wn:typewrite%2:32:00::
+d001.s042.t011	type	type	V	bn:00095295v;wn:type%2:32:00::;wn:typewrite%2:32:00::	d001.s042.t011	scrivere	scrivere	V	n/a
 d001.s042.t012	your		X	n/a					n/a
 d001.s042.t013	functions	function	N	bn:00036821n;wiki:function_(mathematics);wiki:map_(mathematics);wiki:single-valued_function;wn:function%1:24:00::;wn:map%1:24:00::;wn:mapping%1:24:00::;wn:mathematical_function%1:24:00::;wn:single-valued_function%1:24:00::	d001.s042.t012➕d001.s042.t013	le➕funzioni		X➕N	n/a
 d001.s042.t014	or		X	n/a	d001.s042.t014	o		X	n/a
@@ -993,7 +993,7 @@ d001.s043.t007	it		X	n/a					n/a
 d001.s043.t008	works	work	V	bn:00088629v;wn:function%2:35:00::;wn:go%2:35:00::;wn:operate%2:35:03::;wn:run%2:35:00::;wn:work%2:35:02::	d001.s043.t005	funziona	funzionare	V	bn:00088629v;wn:function%2:35:00::;wn:go%2:35:00::;wn:operate%2:35:03::;wn:run%2:35:00::;wn:work%2:35:02::
 d001.s043.t009	,		X	n/a	d001.s043.t006	,		X	n/a
 d001.s043.t010	the		X	n/a	d001.s043.t007	la		X	n/a
-d001.s043.t011	best	good	J	bn:00098274a;bn:00098275a;wn:best%3:00:00::;wn:best%5:00:00:advisable:00;wn:better%5:00:00:advisable:00	d001.s043.t009	migliore	migliore	J	bn:00098274a;bn:00098275a;wn:best%3:00:00::;wn:best%5:00:00:advisable:00;wn:better%5:00:00:advisable:00
+d001.s043.t011	best	good	J	bn:00098274a;bn:00098275a;wn:best%3:00:00::;wn:best%5:00:00:advisable:00;wn:better%5:00:00:advisable:00	d001.s043.t009	migliore	migliore	J	n/a
 d001.s043.t012	thing	thing	N	bn:00076919n;wn:thing%1:04:00::	d001.s043.t008	cosa	cosa	N	bn:00076919n;wn:thing%1:04:00::
 d001.s043.t013	we		X	n/a					n/a
 d001.s043.t014	can		X	n/a					n/a
@@ -1023,7 +1023,7 @@ d001.s044.t002	have	have	V	n/a					n/a
 d001.s044.t003	based	base	V	bn:00083141v;wn:base%2:31:00::;wn:establish%2:31:03::;wn:found%2:31:00::;wn:ground%2:31:00::	d001.s044.t002	basato	basare	V	bn:00083141v;wn:base%2:31:00::;wn:establish%2:31:03::;wn:found%2:31:00::;wn:ground%2:31:00::
 d001.s044.t004	the		X	n/a	d001.s044.t003	la		X	n/a
 d001.s044.t005	syntax	syntax	N	bn:02561609n;bn:03345288n;wiki:syntax_(logic);wiki:syntax_(programming_languages)	d001.s044.t004	sintassi	sintassi	N	bn:02561609n;bn:03345288n;wiki:syntax_(logic);wiki:syntax_(programming_languages)
-d001.s044.t006	basically	basically	R	bn:00114508r;wn:basically%4:02:00::;wn:essentially%4:02:01::;wn:fundamentally%4:02:00::	d001.s044.t005	praticamente	praticamente	R	bn:00114508r;wn:basically%4:02:00::;wn:essentially%4:02:01::;wn:fundamentally%4:02:00::
+d001.s044.t006	basically	basically	R	bn:00114508r;wn:basically%4:02:00::;wn:essentially%4:02:01::;wn:fundamentally%4:02:00::	d001.s044.t005	praticamente	praticamente	R	n/a
 d001.s044.t007	on		X	n/a	d001.s044.t006	sul		X	n/a
 d001.s044.t008	common	common	J	bn:00021164n;wiki:common_sense;wn:common_sense%1:09:00::;wn:good_sense%1:09:00::;wn:gumption%1:09:00::;wn:horse_sense%1:09:00::;wn:mother_wit%1:09:00::;wn:sense%1:09:04::	d001.s044.t008	comune	comune	J	n/a
 d001.s044.t009	sense	sense	N	bn:00021164n;wiki:common_sense;wn:common_sense%1:09:00::;wn:good_sense%1:09:00::;wn:gumption%1:09:00::;wn:horse_sense%1:09:00::;wn:mother_wit%1:09:00::;wn:sense%1:09:04::	d001.s044.t007	senso	senso	N	bn:00021164n;wiki:common_sense;wn:common_sense%1:09:00::;wn:good_sense%1:09:00::;wn:gumption%1:09:00::;wn:horse_sense%1:09:00::;wn:mother_wit%1:09:00::;wn:sense%1:09:04::
@@ -1038,7 +1038,7 @@ d001.s044.t017	anyone	anyone	N	bn:02268723n;wiki:indefinite_pronoun					n/a
 d001.s044.t018	.		X	n/a	d001.s044.t015	.		X	n/a
 d001.s045.t001	I		X	n/a	d001.s045.t001	Ho	avere	V	n/a
 d001.s045.t002	ve	have	V	n/a					n/a
-d001.s045.t003	looked	look	V	bn:00090448v;wn:look%2:39:00::	d001.s045.t002	dato	dare	V	bn:00090448v;wn:look%2:39:00::
+d001.s045.t003	looked	look	V	bn:00090448v;wn:look%2:39:00::	d001.s045.t002	dato	dare	V	n/a
 d001.s045.t004	closely	closely	R	bn:00114748r;wn:close%4:02:02::;wn:closely%4:02:02::;wn:tight%4:02:02::					n/a
 d001.s045.t005	to		X	n/a	d001.s045.t005	alla		X	n/a
 d001.s045.t006	maxima	maxima	N	n/a	d001.s045.t008	Maxima	maxima	N	n/a
@@ -1048,8 +1048,8 @@ d001.s045.t009	s		X	n/a					n/a
 d001.s045.t010	syntax	syntax	N	bn:02561609n;bn:03345288n;wiki:syntax_(logic);wiki:syntax_(programming_languages)	d001.s045.t006	sintassi	sintassi	N	bn:02561609n;bn:03345288n;wiki:syntax_(logic);wiki:syntax_(programming_languages)
 d001.s045.t011	so		X	n/a	d001.s045.t014	modo	modo	N	n/a
 d001.s045.t012	they		X	n/a					n/a
-d001.s045.t013	look	look	V	bn:00090452v;wn:look%2:42:02::	d001.s045.t016	esserne	essere	V	bn:00090452v;wn:look%2:42:02::
-d001.s045.t014	very	very	R	bn:00116789r;wn:rattling%4:02:00::;wn:real%4:02:01::;wn:really%4:02:00::;wn:very%4:02:00::	d001.s045.t017	abbastanza	abbastanza	R	bn:00116789r;wn:rattling%4:02:00::;wn:real%4:02:01::;wn:really%4:02:00::;wn:very%4:02:00::
+d001.s045.t013	look	look	V	bn:00090452v;wn:look%2:42:02::	d001.s045.t016	esserne	essere	V	n/a
+d001.s045.t014	very	very	R	bn:00116789r;wn:rattling%4:02:00::;wn:real%4:02:01::;wn:really%4:02:00::;wn:very%4:02:00::	d001.s045.t017	abbastanza	abbastanza	R	n/a
 d001.s045.t015	similar	similar	J	bn:00096782a;bn:00105977a;bn:00110647a;wn:alike%3:00:00::;wn:like%3:00:00::;wn:like%3:00:04::;wn:similar%3:00:00::;wn:similar%3:00:02::;wn:similar%3:00:04::	d001.s045.t018	simile	simile	J	bn:00096782a;bn:00105977a;bn:00110647a;wn:alike%3:00:00::;wn:like%3:00:00::;wn:like%3:00:04::;wn:similar%3:00:00::;wn:similar%3:00:02::;wn:similar%3:00:04::
 d001.s045.t016	.		X	n/a	d001.s045.t019	.		X	n/a
 d001.s045.t017	+		X	n/a	d001.s045.t020	+		X	n/a
@@ -1128,7 +1128,7 @@ d001.s047.t037	abc(params)		X	n/a	d001.s047.t036	abc(parametri)		X	n/a
 d001.s047.t038	:		X	n/a	d001.s047.t037	:		X	n/a
 d001.s047.t039	When		X	n/a	d001.s047.t038	Quando		X	n/a
 d001.s047.t040	the		X	n/a	d001.s047.t039	l'		X	n/a
-d001.s047.t041	parser	parser	N	bn:00060753n;wn:parser%1:10:00::	d001.s047.t040	analizzatore	analizzatore	N	bn:00060753n;wn:parser%1:10:00::
+d001.s047.t041	parser	parser	N	bn:00060753n;wn:parser%1:10:00::	d001.s047.t040	analizzatore	analizzatore	N	n/a
 d001.s047.t042	finds	find	V	bn:00082811v;bn:00086708v;wn:ascertain%2:32:01::;wn:detect%2:39:00::;wn:determine%2:32:00::;wn:discover%2:39:03::;wn:find%2:32:00::;wn:find%2:39:02::;wn:find_out%2:32:00::;wn:notice%2:39:04::;wn:observe%2:39:02::	d001.s047.t041	trova	trovare	V	bn:00082811v;bn:00086708v;wn:ascertain%2:32:01::;wn:detect%2:39:00::;wn:determine%2:32:00::;wn:discover%2:39:03::;wn:find%2:32:00::;wn:find%2:39:02::;wn:find_out%2:32:00::;wn:notice%2:39:04::;wn:observe%2:39:02::
 d001.s047.t043	a		X	n/a	d001.s047.t042	una		X	n/a
 d001.s047.t044	function	function	N	bn:00036821n;wiki:function_(mathematics);wiki:map_(mathematics);wiki:single-valued_function;wn:function%1:24:00::;wn:map%1:24:00::;wn:mapping%1:24:00::;wn:mathematical_function%1:24:00::;wn:single-valued_function%1:24:00::	d001.s047.t043	funzione	funzione	N	bn:00036821n;wiki:function_(mathematics);wiki:map_(mathematics);wiki:single-valued_function;wn:function%1:24:00::;wn:map%1:24:00::;wn:mapping%1:24:00::;wn:mathematical_function%1:24:00::;wn:single-valued_function%1:24:00::
@@ -1231,7 +1231,7 @@ d001.s050.t031	enter	enter	V	bn:00085363v;wn:come_in%2:38:02::;wn:enter%2:38:00:
 d001.s050.t032	in		X	n/a	d001.s050.t031	come		X	n/a
 d001.s050.t033	the		X	n/a					n/a
 d001.s050.t034	last	last	J	bn:00102969a;bn:00105740a;wn:final%5:00:00:ultimate:00;wn:last%3:00:00::;wn:last%5:00:00:ultimate:00;wn:net%5:00:00:ultimate:00	d001.s050.t032	ultima	ultimo	J	bn:00102969a;bn:00105740a;wn:final%5:00:00:ultimate:00;wn:last%3:00:00::;wn:last%5:00:00:ultimate:00;wn:net%5:00:00:ultimate:00
-d001.s050.t035	instance	instance	N	bn:00016401n;bn:00058445n;bn:01068410n;wiki:instance_(computer_science);wiki:object_(computer_science);wn:case%1:11:00::;wn:example%1:11:00::;wn:instance%1:11:00::;wn:object%1:09:02::	d001.s050.t033	alternativa	alternativa	N	bn:00016401n;bn:00058445n;bn:01068410n;wiki:instance_(computer_science);wiki:object_(computer_science);wn:case%1:11:00::;wn:example%1:11:00::;wn:instance%1:11:00::;wn:object%1:09:02::
+d001.s050.t035	instance	instance	N	bn:00016401n;bn:00058445n;bn:01068410n;wiki:instance_(computer_science);wiki:object_(computer_science);wn:case%1:11:00::;wn:example%1:11:00::;wn:instance%1:11:00::;wn:object%1:09:02::	d001.s050.t033	alternativa	alternativa	N	n/a
 d001.s050.t036	.		X	n/a	d001.s050.t034	.		X	n/a
 d001.s050.t037	{		X	n/a	d001.s050.t035	{		X	n/a
 d001.s050.t038	}		X	n/a	d001.s050.t036	}		X	n/a
@@ -1386,7 +1386,7 @@ d001.s057.t021	.		X	n/a	d001.s057.t020	.		X	n/a
 d001.s058.t001	Ctrl	ctrl	N	bn:00020947n;wiki:command_key;wiki:control_key;wn:command_key%1:06:00::;wn:control_key%1:06:00::	d001.s058.t001	Ctrl	ctrl	N	bn:00020947n;wiki:command_key;wiki:control_key;wn:command_key%1:06:00::;wn:control_key%1:06:00::
 d001.s058.t002	N	n	N	bn:00056688n;wiki:n;wn:n%1:10:00::	d001.s058.t002	N	n	N	bn:00056688n;wiki:n;wn:n%1:10:00::
 d001.s058.t003	New	new	J	bn:00107267a;bn:00107270a;wn:new%3:00:00::;wn:new%5:00:00:other:00					n/a
-d001.s058.t004	Window	window	N	bn:00081292n;wiki:window_(computing);wn:window%1:06:03::	d001.s058.t003	Nuovo	nuovo	N	bn:00081292n;wiki:window_(computing);wn:window%1:06:03::
+d001.s058.t004	Window	window	N	bn:00081292n;wiki:window_(computing);wn:window%1:06:03::	d001.s058.t003	Nuovo	nuovo	N	n/a
 d001.s059.t001	Flushes	flush	V	n/a	d001.s059.t001	Pulisce	pulire	V	n/a
 d001.s059.t002	the		X	n/a	d001.s059.t002	la		X	n/a
 d001.s059.t003	log	log	N	bn:00051831n;wn:log%1:10:02::					n/a
@@ -1403,7 +1403,7 @@ d001.s061.t005	a		X	n/a	d001.s061.t006	un		X	n/a
 d001.s061.t006	file	file	N	bn:00021475n;wiki:computer_file;wn:computer_file%1:10:00::	d001.s061.t007	file	file	N	bn:00021475n;wiki:computer_file;wn:computer_file%1:10:00::
 d001.s061.t007	sequentially	sequentially	R	bn:00114819r;wn:consecutive%4:02:00::;wn:sequentially%4:02:00::					n/a
 d001.s061.t008	.		X	n/a	d001.s061.t008	.		X	n/a
-d001.s062.t001	Nice	nice	J	bn:00107292a;wn:nice%3:00:00::	d001.s062.t002	buon	buono	J	bn:00107292a;wn:nice%3:00:00::
+d001.s062.t001	Nice	nice	J	bn:00107292a;wn:nice%3:00:00::	d001.s062.t002	buon	buono	J	n/a
 d001.s062.t002	if		X	n/a					n/a
 d001.s062.t003	you		X	n/a					n/a
 d001.s062.t004	want	want	V	bn:00086682v;wn:desire%2:37:00::;wn:want%2:37:00::					n/a
@@ -1426,7 +1426,7 @@ d001.s064.t002	the		X	n/a	d001.s064.t002	le		X	n/a
 d001.s064.t003	instructions	instruction	N	bn:00020945n;wiki:command_(computing);wiki:instruction_(computer_science);wiki:statement_(computer_science);wn:command%1:10:01::;wn:instruction%1:10:02::;wn:program_line%1:10:00::;wn:statement%1:10:03::	d001.s064.t003	istruzioni	istruzione	N	bn:00020945n;wiki:command_(computing);wiki:instruction_(computer_science);wiki:statement_(computer_science);wn:command%1:10:01::;wn:instruction%1:10:02::;wn:program_line%1:10:00::;wn:statement%1:10:03::
 d001.s064.t004	you		X	n/a					n/a
 d001.s064.t005	have	have	V	n/a					n/a
-d001.s064.t006	typed	type	V	bn:00095295v;wn:type%2:32:00::;wn:typewrite%2:32:00::	d001.s064.t004	eseguite	eseguire	V	bn:00095295v;wn:type%2:32:00::;wn:typewrite%2:32:00::
+d001.s064.t006	typed	type	V	bn:00095295v;wn:type%2:32:00::;wn:typewrite%2:32:00::	d001.s064.t004	eseguite	eseguire	V	n/a
 d001.s064.t007	since		X	n/a	d001.s064.t005	dall'		X	n/a
 d001.s064.t008	the		X	n/a	d001.s064.t007	della		X	n/a
 d001.s064.t009	session	session	N	bn:03751534n;wiki:session_(computer_science)	d001.s064.t008	sessione	sessione	N	bn:03751534n;wiki:session_(computer_science)
@@ -1446,7 +1446,7 @@ d001.s065.t006	should		X	n/a					n/a
 d001.s065.t007	be	be	V	n/a	d001.s065.t008	è	essere	V	n/a
 d001.s065.t008	easy	easy	J	bn:00101973a;wn:easy%3:00:01::	d001.s065.t005	semplice	semplice	J	bn:00101973a;wn:easy%3:00:01::
 d001.s065.t009	to		X	n/a					n/a
-d001.s065.t010	fix	fix	V	bn:00084308v;wn:bushel%2:30:00::;wn:doctor%2:30:01::;wn:fix%2:30:01::;wn:furbish_up%2:30:00::;wn:mend%2:30:00::;wn:repair%2:30:00::;wn:restore%2:30:01::;wn:touch_on%2:30:00::	d001.s065.t010	modificarli	modificare	V	bn:00084308v;wn:bushel%2:30:00::;wn:doctor%2:30:01::;wn:fix%2:30:01::;wn:furbish_up%2:30:00::;wn:mend%2:30:00::;wn:repair%2:30:00::;wn:restore%2:30:01::;wn:touch_on%2:30:00::
+d001.s065.t010	fix	fix	V	bn:00084308v;wn:bushel%2:30:00::;wn:doctor%2:30:01::;wn:fix%2:30:01::;wn:furbish_up%2:30:00::;wn:mend%2:30:00::;wn:repair%2:30:00::;wn:restore%2:30:01::;wn:touch_on%2:30:00::	d001.s065.t010	modificarli	modificare	V	n/a
 d001.s065.t011	using	use	V	bn:00082705v;wn:apply%2:34:00::;wn:employ%2:34:00::;wn:use%2:34:01::;wn:utilise%2:34:00::;wn:utilize%2:34:00::	d001.s065.t011	usando	usare	V	bn:00082705v;wn:apply%2:34:00::;wn:employ%2:34:00::;wn:use%2:34:01::;wn:utilise%2:34:00::;wn:utilize%2:34:00::
 d001.s065.t012	any		X	n/a	d001.s065.t013	qualsiasi	qualsiasi	J	n/a
 d001.s065.t013	text	text	N	bn:00076736n;wiki:text_editor;wn:text_editor%1:10:00::	d001.s065.t016	testo	testo	N	bn:00076736n;wiki:text_editor;wn:text_editor%1:10:00::
@@ -1532,7 +1532,7 @@ d001.s071.t010	box	box	N	bn:00012528n;wn:box%1:25:00::	d001.s071.t005	casella	ca
 d001.s071.t011	where		X	n/a	d001.s071.t008	dove		X	n/a
 d001.s071.t012	you		X	n/a	d001.s071.t009	puoi	potere	V	n/a
 d001.s071.t013	can		X	n/a					n/a
-d001.s071.t014	type	type	V	bn:00095295v;wn:type%2:32:00::;wn:typewrite%2:32:00::	d001.s071.t010	scrivere	scrivere	V	bn:00095295v;wn:type%2:32:00::;wn:typewrite%2:32:00::
+d001.s071.t014	type	type	V	bn:00095295v;wn:type%2:32:00::;wn:typewrite%2:32:00::	d001.s071.t010	scrivere	scrivere	V	n/a
 d001.s071.t015	your		X	n/a	d001.s071.t011	la		X	n/a
 d001.s071.t016	function	function	N	bn:00036821n;wiki:function_(mathematics);wiki:map_(mathematics);wiki:single-valued_function;wn:function%1:24:00::;wn:map%1:24:00::;wn:mapping%1:24:00::;wn:mathematical_function%1:24:00::;wn:single-valued_function%1:24:00::	d001.s071.t012	funzione	funzione	N	bn:00036821n;wiki:function_(mathematics);wiki:map_(mathematics);wiki:single-valued_function;wn:function%1:24:00::;wn:map%1:24:00::;wn:mapping%1:24:00::;wn:mathematical_function%1:24:00::;wn:single-valued_function%1:24:00::
 d001.s071.t017	.		X	n/a	d001.s071.t013	.		X	n/a
@@ -1575,7 +1575,7 @@ d001.s073.t019	window	window	N	bn:00081292n;wiki:window_(computing);wn:window%1:
 d001.s073.t020	.		X	n/a	d001.s073.t015	.		X	n/a
 d001.s074.t001	You		X	n/a	d001.s074.t001	Puoi	potere	V	n/a
 d001.s074.t002	can		X	n/a					n/a
-d001.s074.t003	set	set	V	bn:00090224v;wn:lay%2:35:01::;wn:place%2:35:00::;wn:pose%2:35:02::;wn:position%2:35:00::;wn:put%2:35:00::;wn:set%2:35:00::	d001.s074.t002	avere	avere	V	bn:00090224v;wn:lay%2:35:01::;wn:place%2:35:00::;wn:pose%2:35:02::;wn:position%2:35:00::;wn:put%2:35:00::;wn:set%2:35:00::
+d001.s074.t003	set	set	V	bn:00090224v;wn:lay%2:35:01::;wn:place%2:35:00::;wn:pose%2:35:02::;wn:position%2:35:00::;wn:put%2:35:00::;wn:set%2:35:00::	d001.s074.t002	avere	avere	V	n/a
 d001.s074.t004	several	several	J	bn:00110469a;wn:several%5:00:00:some:00	d001.s074.t003	più		X	n/a
 d001.s074.t005	graphs	graph	N	bn:00041412n;wiki:graph_of_a_function;wn:graph%1:10:00::;wn:graphical_record%1:10:00::	d001.s074.t004	grafici	grafico	N	bn:00041412n;wiki:graph_of_a_function;wn:graph%1:10:00::;wn:graphical_record%1:10:00::
 d001.s074.t006	on		X	n/a					n/a
@@ -1609,7 +1609,7 @@ d001.s077.t002	Foundation	foundation	N	bn:00036064n;wn:foundation%1:14:00::	d001
 d001.s077.t003	has	have	V	n/a	d001.s077.t004	ha	avere	V	n/a
 d001.s077.t004	recently	recently	R	bn:00116085r;wn:late%4:02:03::;wn:lately%4:02:00::;wn:latterly%4:02:00::;wn:of_late%4:02:00::;wn:recently%4:02:00::	d001.s077.t001	Recentemente	recentemente	R	bn:00116085r;wn:late%4:02:03::;wn:lately%4:02:00::;wn:latterly%4:02:00::;wn:of_late%4:02:00::;wn:recently%4:02:00::
 d001.s077.t005	been	be	V	n/a					n/a
-d001.s077.t006	involved	involve	V	bn:00089893v;wn:involve%2:42:04::	d001.s077.t005	partecipato	partecipare	V	bn:00089893v;wn:involve%2:42:04::
+d001.s077.t006	involved	involve	V	bn:00089893v;wn:involve%2:42:04::	d001.s077.t005	partecipato	partecipare	V	n/a
 d001.s077.t007	in		X	n/a	d001.s077.t008	di		X	n/a
 d001.s077.t008	organising	organise	V	bn:00091196v;wn:organise%2:41:00::;wn:organize%2:41:00::	d001.s077.t007	organizzazione	organizzazione	N	n/a
 d001.s077.t009	a		X	n/a	d001.s077.t009	una		X	n/a
@@ -1628,7 +1628,7 @@ d001.s078.t004	from		X	n/a					n/a
 d001.s078.t005	the		X	n/a	d001.s078.t006	delle		X	n/a
 d001.s078.t006	main	main	J	bn:00099598a;wn:chief%5:00:02:important:00;wn:main%5:00:00:important:00;wn:master%5:00:00:important:00;wn:primary%5:00:00:important:00;wn:principal%5:00:00:important:00	d001.s078.t007	principali	principale	J	bn:00099598a;wn:chief%5:00:02:important:00;wn:main%5:00:00:important:00;wn:master%5:00:00:important:00;wn:primary%5:00:00:important:00;wn:principal%5:00:00:important:00
 d001.s078.t007	interest	interest	N	bn:00047082n;wiki:advocacy_group;wn:interest%1:14:00::;wn:interest_group%1:14:00::					n/a
-d001.s078.t008	groups	group	N	bn:00072536n;wiki:social_group;wn:social_group%1:14:00::	d001.s078.t008	categorie	categoria	N	bn:00072536n;wiki:social_group;wn:social_group%1:14:00::
+d001.s078.t008	groups	group	N	bn:00072536n;wiki:social_group;wn:social_group%1:14:00::	d001.s078.t008	categorie	categoria	N	n/a
 d001.s078.t009	attended	attend	V	bn:00082907v;wn:attend%2:42:00::;wn:go_to%2:42:00::					n/a
 d001.s078.t010	and		X	n/a					n/a
 d001.s078.t011	debated	debate	V	bn:00086341v;bn:00086342v;wn:debate%2:31:00::;wn:debate%2:32:00::;wn:deliberate%2:32:00::	d001.s078.t014	discusso	discutere	V	bn:00086341v;bn:00086342v;wn:debate%2:31:00::;wn:debate%2:32:00::;wn:deliberate%2:32:00::
@@ -1639,7 +1639,7 @@ d001.s078.t015	the		X	n/a	d001.s078.t018	del		X	n/a
 d001.s078.t016	role	role	N	bn:00036823n;bn:00068130n;wiki:role;wn:function%1:04:00::;wn:office%1:04:01::;wn:part%1:04:01::;wn:role%1:04:00::;wn:role%1:04:01::	d001.s078.t019	ruolo	ruolo	N	bn:00036823n;bn:00068130n;wiki:role;wn:function%1:04:00::;wn:office%1:04:01::;wn:part%1:04:01::;wn:role%1:04:00::;wn:role%1:04:01::
 d001.s078.t017	of		X	n/a	d001.s078.t020	degli		X	n/a
 d001.s078.t018	key	key	J	bn:00099258a;wn:cardinal%5:00:00:important:00;wn:central%5:00:00:important:00;wn:fundamental%5:00:00:important:00;wn:key%5:00:00:important:00;wn:primal%5:00:00:important:00					n/a
-d001.s078.t019	actors	actor	N	bn:00001177n;bn:00817142n;wiki:actor_(policy_debate);wn:actor%1:18:01::;wn:doer%1:18:00::;wn:worker%1:18:02::	d001.s078.t005➕d001.s078.t021	esponenti➕attori	esponente	N	bn:00001177n;bn:00817142n;wiki:actor_(policy_debate);wn:actor%1:18:01::;wn:doer%1:18:00::;wn:worker%1:18:02::
+d001.s078.t019	actors	actor	N	bn:00001177n;bn:00817142n;wiki:actor_(policy_debate);wn:actor%1:18:01::;wn:doer%1:18:00::;wn:worker%1:18:02::	d001.s078.t005➕d001.s078.t021	esponenti➕attori	esponente	N	n/a
 d001.s078.t020	including	include	V	bn:00089660v;bn:00089661v;bn:00089662v;wn:include%2:30:00::;wn:include%2:31:00::;wn:include%2:42:00::	d001.s078.t023	quali	quale	R	n/a
 d001.s078.t021	public	public	J	bn:02575022n;wiki:public-benefit_corporation	d001.s078.t024	pubbliche	pubblico	J	n/a
 d001.s078.t022	authorities	authority	N	bn:00001961n;bn:00007300n;bn:00007301n;wiki:authority;wiki:government_agency;wiki:office;wn:agency%1:14:00::;wn:authority%1:14:00::;wn:authority%1:18:00::;wn:authority%1:18:01::;wn:bureau%1:14:00::;wn:federal_agency%1:14:00::;wn:government_agency%1:14:00::;wn:office%1:14:01::	d001.s078.t025	autorità	autorità	N	bn:00001961n;bn:00007300n;bn:00007301n;wiki:authority;wiki:government_agency;wiki:office;wn:agency%1:14:00::;wn:authority%1:14:00::;wn:authority%1:18:00::;wn:authority%1:18:01::;wn:bureau%1:14:00::;wn:federal_agency%1:14:00::;wn:government_agency%1:14:00::;wn:office%1:14:01::
@@ -1673,7 +1673,7 @@ d001.s079.t013	service	service	N	bn:00070651n;bn:00070677n;wiki:service_(economi
 d001.s079.t014	planning	planning	N	bn:00062794n;bn:00062795n;wiki:planning;wn:planning%1:04:00::;wn:planning%1:04:02::					n/a
 d001.s079.t015	but		X	n/a	d001.s079.t028	ma		X	n/a
 d001.s079.t016	their		X	n/a	d001.s079.t033	loro		X	n/a
-d001.s079.t017	involvement	involvement	N	bn:00030844n;wiki:participation_(decision_making);wn:engagement%1:04:00::;wn:involution%1:04:02::;wn:involvement%1:04:00::;wn:participation%1:04:00::	d001.s079.t026	isolamento	isolamento	N	bn:00030844n;wiki:participation_(decision_making);wn:engagement%1:04:00::;wn:involution%1:04:02::;wn:involvement%1:04:00::;wn:participation%1:04:00::
+d001.s079.t017	involvement	involvement	N	bn:00030844n;wiki:participation_(decision_making);wn:engagement%1:04:00::;wn:involution%1:04:02::;wn:involvement%1:04:00::;wn:participation%1:04:00::	d001.s079.t026	isolamento	isolamento	N	n/a
 d001.s079.t018	in		X	n/a					n/a
 d001.s079.t019	service	service	N	bn:00070651n;bn:00070677n;wiki:service_(economics);wn:service%1:04:08::;wn:services%1:04:00::	d001.s079.t024	servizi	servizio	N	bn:00070651n;bn:00070677n;wiki:service_(economics);wn:service%1:04:08::;wn:services%1:04:00::
 d001.s079.t020	provision	provision	N	bn:00064922n;wn:provision%1:04:01::;wn:supply%1:04:00::;wn:supplying%1:04:00::					n/a
@@ -1690,10 +1690,10 @@ d001.s080.t003	also	also	R	bn:00114246r;wn:also%4:02:00::;wn:as_well%4:02:01::;w
 d001.s080.t004	taken	take	V	n/a	d001.s080.t004	preso	prendere	V	n/a
 d001.s080.t005	of		X	n/a					n/a
 d001.s080.t006	the		X	n/a	d001.s080.t006	della		X	n/a
-d001.s080.t007	variety	variety	N	bn:00027862n;wn:diverseness%1:07:00::;wn:diversity%1:07:02::;wn:multifariousness%1:07:00::;wn:variety%1:07:00::	d001.s080.t007	gamma	gamma	N	bn:00027862n;wn:diverseness%1:07:00::;wn:diversity%1:07:02::;wn:multifariousness%1:07:00::;wn:variety%1:07:00::
+d001.s080.t007	variety	variety	N	bn:00027862n;wn:diverseness%1:07:00::;wn:diversity%1:07:02::;wn:multifariousness%1:07:00::;wn:variety%1:07:00::	d001.s080.t007	gamma	gamma	N	n/a
 d001.s080.t008	of		X	n/a	d001.s080.t008	di		X	n/a
 d001.s080.t009	different	different	J	bn:00101350a;bn:00101351a;wn:different%3:00:02::;wn:different%5:00:01:other:00;wn:dissimilar%3:00:02::;wn:unlike%3:00:00::	d001.s080.t010	diversi	diverso	J	bn:00101350a;bn:00101351a;wn:different%3:00:02::;wn:different%5:00:01:other:00;wn:dissimilar%3:00:02::;wn:unlike%3:00:00::
-d001.s080.t010	roles	role	N	bn:00036823n;bn:00068130n;wiki:role;wn:function%1:04:00::;wn:office%1:04:01::;wn:part%1:04:01::;wn:role%1:04:00::;wn:role%1:04:01::	d001.s080.t009	aioli	aioli	N	bn:00036823n;bn:00068130n;wiki:role;wn:function%1:04:00::;wn:office%1:04:01::;wn:part%1:04:01::;wn:role%1:04:00::;wn:role%1:04:01::
+d001.s080.t010	roles	role	N	bn:00036823n;bn:00068130n;wiki:role;wn:function%1:04:00::;wn:office%1:04:01::;wn:part%1:04:01::;wn:role%1:04:00::;wn:role%1:04:01::	d001.s080.t009	aioli	aioli	N	n/a
 d001.s080.t011	played	play	V	bn:00091709v;wn:play%2:41:12::					n/a
 d001.s080.t012	by		X	n/a					n/a
 d001.s080.t013	public	public	J	bn:00065083n;wiki:welfare;wn:public_assistance%1:04:00::;wn:social_welfare%1:04:00::;wn:welfare%1:04:00::					n/a
@@ -1743,7 +1743,7 @@ d001.s082.t005	a		X	n/a	d001.s082.t013	uno		X	n/a
 d001.s082.t006	comparative	comparative	J	bn:00100121a;wn:comparative%3:01:00::	d001.s082.t015	comparativo	comparativo	J	bn:00100121a;wn:comparative%3:01:00::
 d001.s082.t007	study	study	N	bn:00067181n;wiki:report;wn:report%1:10:03::;wn:study%1:10:00::;wn:written_report%1:10:00::	d001.s082.t014	studio	studio	N	bn:00067181n;wiki:report;wn:report%1:10:03::;wn:study%1:10:00::;wn:written_report%1:10:00::
 d001.s082.t008	as		X	n/a					n/a
-d001.s082.t009	part	part	N	bn:00027912n;wn:division%1:09:00::;wn:part%1:09:00::;wn:section%1:09:00::	d001.s082.t008	quadro	quadro	N	bn:00027912n;wn:division%1:09:00::;wn:part%1:09:00::;wn:section%1:09:00::
+d001.s082.t009	part	part	N	bn:00027912n;wn:division%1:09:00::;wn:part%1:09:00::;wn:section%1:09:00::	d001.s082.t008	quadro	quadro	N	n/a
 d001.s082.t010	of		X	n/a					n/a
 d001.s082.t011	the		X	n/a					n/a
 d001.s082.t012	EPOC	epoc	N	n/a	d001.s082.t011	EPOC	epoc	N	n/a
@@ -1757,10 +1757,10 @@ d001.s082.t019	which		X	n/a	d001.s082.t021	cui		X	n/a
 d001.s082.t020	direct	direct	J	bn:00101412a;wn:direct%5:00:00:immediate:00;wn:unmediated%5:00:00:immediate:00	d001.s082.t024	diretta	diretto	J	bn:00101412a;wn:direct%5:00:00:immediate:00;wn:unmediated%5:00:00:immediate:00
 d001.s082.t021	participation	participation	N	bn:00030844n;wiki:participation_(decision_making);wn:engagement%1:04:00::;wn:involution%1:04:02::;wn:involvement%1:04:00::;wn:participation%1:04:00::	d001.s082.t023	partecipazione	partecipazione	N	bn:00030844n;wiki:participation_(decision_making);wn:engagement%1:04:00::;wn:involution%1:04:02::;wn:involvement%1:04:00::;wn:participation%1:04:00::
 d001.s082.t022	can		X	n/a	d001.s082.t025	può	potere	V	n/a
-d001.s082.t023	humanise	humanise	V	bn:00089511v;wn:humanise%2:37:00::;wn:humanize%2:37:00::	d001.s082.t026	umanizzare	umanizzare	V	bn:00089511v;wn:humanise%2:37:00::;wn:humanize%2:37:00::
+d001.s082.t023	humanise	humanise	V	bn:00089511v;wn:humanise%2:37:00::;wn:humanize%2:37:00::	d001.s082.t026	umanizzare	umanizzare	V	n/a
 d001.s082.t024	work	work	N	bn:00014138n;wiki:job_(role);wn:business%1:04:00::;wn:job%1:04:00::;wn:line%1:04:00::;wn:line_of_work%1:04:00::;wn:occupation%1:04:00::	d001.s082.t028	lavoro	lavoro	N	bn:00014138n;wiki:job_(role);wn:business%1:04:00::;wn:job%1:04:00::;wn:line%1:04:00::;wn:line_of_work%1:04:00::;wn:occupation%1:04:00::
 d001.s082.t025	while		X	n/a	d001.s082.t029	migliorando	migliorare	V	n/a
-d001.s082.t026	increasing	increase	V	bn:00089667v;wn:increase%2:30:02::	d001.s082.t029	migliorando	migliorare	V	bn:00089667v;wn:increase%2:30:02::
+d001.s082.t026	increasing	increase	V	bn:00089667v;wn:increase%2:30:02::	d001.s082.t029	migliorando	migliorare	V	n/a
 d001.s082.t027	profitability	profitability	N	bn:00037027n;wn:gainfulness%1:07:00::;wn:lucrativeness%1:07:00::;wn:profitability%1:07:00::;wn:profitableness%1:07:00::	d001.s082.t034	redditività	redditività	N	bn:00037027n;wn:gainfulness%1:07:00::;wn:lucrativeness%1:07:00::;wn:profitability%1:07:00::;wn:profitableness%1:07:00::
 d001.s082.t028	.		X	n/a	d001.s082.t035	.		X	n/a
 d001.s083.t001	The		X	n/a	d001.s083.t001	Lo		X	n/a
@@ -1772,14 +1772,14 @@ d001.s083.t006	195		X	n/a	d001.s083.t006	195		X	n/a
 d001.s083.t007	personal	personal	J	bn:00108489a;wn:personal%5:00:00:subjective:00	d001.s083.t008	personali	personale	J	bn:00108489a;wn:personal%5:00:00:subjective:00
 d001.s083.t008	interviews	interview	N	bn:00047238n;wiki:interview;wn:interview%1:10:01::	d001.s083.t007	interviste	intervista	N	bn:00047238n;wiki:interview;wn:interview%1:10:01::
 d001.s083.t009	with		X	n/a	d001.s083.t009	con		X	n/a
-d001.s083.t010	senior	senior	J	bn:00110401a;wn:senior%3:00:00::	d001.s083.t010	alti	alto	J	bn:00110401a;wn:senior%3:00:00::
-d001.s083.t011	officials	official	N	bn:00036837n;wiki:official;wn:functionary%1:18:00::;wn:official%1:18:01::	d001.s083.t011	dirigenti	dirigente	N	bn:00036837n;wiki:official;wn:functionary%1:18:00::;wn:official%1:18:01::
+d001.s083.t010	senior	senior	J	bn:00110401a;wn:senior%3:00:00::	d001.s083.t010	alti	alto	J	n/a
+d001.s083.t011	officials	official	N	bn:00036837n;wiki:official;wn:functionary%1:18:00::;wn:official%1:18:01::	d001.s083.t011	dirigenti	dirigente	N	n/a
 d001.s083.t012	of		X	n/a					n/a
 d001.s083.t013	the		X	n/a					n/a
 d001.s083.t014	social	social	J	bn:00110842a;wn:social%3:01:00::;wn:societal%3:01:00::	d001.s083.t014	sociali	sociale	J	bn:00110842a;wn:social%3:01:00::;wn:societal%3:01:00::
 d001.s083.t015	partners	partner	N	n/a					n/a
 d001.s083.t016	as		X	n/a					n/a
-d001.s083.t017	representatives	representative	N	bn:00047203n;bn:00067199n;wn:interpreter%1:18:00::;wn:representative%1:18:00::;wn:representative%1:18:02::;wn:spokesperson%1:18:00::;wn:voice%1:18:00::	d001.s083.t017	rappresentanza	rappresentanza	N	bn:00047203n;bn:00067199n;wn:interpreter%1:18:00::;wn:representative%1:18:00::;wn:representative%1:18:02::;wn:spokesperson%1:18:00::;wn:voice%1:18:00::
+d001.s083.t017	representatives	representative	N	bn:00047203n;bn:00067199n;wn:interpreter%1:18:00::;wn:representative%1:18:00::;wn:representative%1:18:02::;wn:spokesperson%1:18:00::;wn:voice%1:18:00::	d001.s083.t017	rappresentanza	rappresentanza	N	n/a
 d001.s083.t018	of		X	n/a	d001.s083.t022	di		X	n/a
 d001.s083.t019	national	national	J	bn:00107136a;bn:00107137a;bn:00107138a;wn:national%3:00:00::;wn:national%3:00:01::;wn:national%3:01:00::	d001.s083.t021	nazionali	nazionale	J	bn:00107136a;bn:00107137a;bn:00107138a;wn:national%3:00:00::;wn:national%3:00:01::;wn:national%3:01:00::
 d001.s083.t020	level	level	N	bn:00041239n;wn:grade%1:26:00::;wn:level%1:26:01::;wn:tier%1:26:00::					n/a
@@ -1847,7 +1847,7 @@ d001.s085.t038	Regions	region	N	bn:03359468n;wiki:region_(europe)	d001.s085.t042
 d001.s085.t039	Barbara	barbara	N	n/a	d001.s085.t043	Barbara	barbaro	N	n/a
 d001.s085.t040	Weiler	weiler	N	n/a	d001.s085.t044	Weiler	weiler	N	n/a
 d001.s085.t041	,		X	n/a	d001.s085.t039	,		X	n/a
-d001.s085.t042	Member	member	N	bn:00034004n;wn:fellow_member%1:18:00::;wn:member%1:18:00::	d001.s085.t046	deputato	deputato	N	bn:00034004n;wn:fellow_member%1:18:00::;wn:member%1:18:00::
+d001.s085.t042	Member	member	N	bn:00034004n;wn:fellow_member%1:18:00::;wn:member%1:18:00::	d001.s085.t046	deputato	deputato	N	n/a
 d001.s085.t043	of		X	n/a					n/a
 d001.s085.t044	the		X	n/a	d001.s085.t056	del		X	n/a
 d001.s085.t045	European	european	J	bn:00102440a;wn:european%3:01:00::	d001.s085.t049	europeo	europeo	J	bn:00102440a;wn:european%3:01:00::
@@ -1876,7 +1876,7 @@ d001.s086.t004	national	national	J	bn:00107136a;bn:00107137a;bn:00107138a;wn:nat
 d001.s086.t005	report	report	N	bn:00067181n;wiki:report;wn:report%1:10:03::;wn:study%1:10:00::;wn:written_report%1:10:00::	d001.s086.t005	rapporto	rapporto	N	bn:00067181n;wiki:report;wn:report%1:10:03::;wn:study%1:10:00::;wn:written_report%1:10:00::
 d001.s086.t006	contains	contain	V	bn:00085499v;wn:comprise%2:42:00::;wn:contain%2:42:00::;wn:incorporate%2:42:00::	d001.s086.t007	contiene	contenere	V	bn:00085499v;wn:comprise%2:42:00::;wn:contain%2:42:00::;wn:incorporate%2:42:00::
 d001.s086.t007	a		X	n/a	d001.s086.t008	una		X	n/a
-d001.s086.t008	portfolio	portfolio	N	bn:00063673n;wn:portfolio%1:14:00::	d001.s086.t009	serie	serie	N	bn:00063673n;wn:portfolio%1:14:00::
+d001.s086.t008	portfolio	portfolio	N	bn:00063673n;wn:portfolio%1:14:00::	d001.s086.t009	serie	serie	N	n/a
 d001.s086.t009	of		X	n/a	d001.s086.t010	di		X	n/a
 d001.s086.t010	between		X	n/a					n/a
 d001.s086.t011	25		X	n/a					n/a
@@ -1885,7 +1885,7 @@ d001.s086.t013	30		X	n/a	d001.s086.t011	25-30		X	n/a
 d001.s086.t014	initiatives	initiative	N	bn:00034797n;wiki:initiative_(chess);wn:first_step%1:04:00::;wn:initiative%1:04:00::;wn:opening%1:04:03::;wn:opening_move%1:04:00::	d001.s086.t012	iniziative	iniziativa	N	bn:00034797n;wiki:initiative_(chess);wn:first_step%1:04:00::;wn:initiative%1:04:00::;wn:opening%1:04:03::;wn:opening_move%1:04:00::
 d001.s086.t015	which		X	n/a					n/a
 d001.s086.t016	best	good	J	n/a	d001.s086.t017	più		X	n/a
-d001.s086.t017	present	present	V	bn:00090234v;wn:lay_out%2:32:00::;wn:present%2:32:00::;wn:represent%2:32:11::	d001.s086.t020	illustrare	illustrare	V	bn:00090234v;wn:lay_out%2:32:00::;wn:present%2:32:00::;wn:represent%2:32:11::
+d001.s086.t017	present	present	V	bn:00090234v;wn:lay_out%2:32:00::;wn:present%2:32:00::;wn:represent%2:32:11::	d001.s086.t020	illustrare	illustrare	V	n/a
 d001.s086.t018	policies	policy	N	bn:00063329n;wn:policy%1:09:00::	d001.s086.t021	politiche	politico	J	n/a
 d001.s086.t019	and		X	n/a	d001.s086.t022	e		X	n/a
 d001.s086.t020	practices	practice	N	bn:00061054n;wn:pattern%1:04:00::;wn:practice%1:04:00::	d001.s086.t023	prassi	prassi	N	bn:00061054n;wn:pattern%1:04:00::;wn:practice%1:04:00::
@@ -1904,7 +1904,7 @@ d001.s086.t032	in		X	n/a	d001.s086.t038	nell'		X	n/a
 d001.s086.t033	both		X	n/a					n/a
 d001.s086.t034	the		X	n/a	d001.s086.t027	l'		X	n/a
 d001.s086.t035	work	work	N	bn:00014138n;wiki:job_(role);wn:business%1:04:00::;wn:job%1:04:00::;wn:line%1:04:00::;wn:line_of_work%1:04:00::;wn:occupation%1:04:00::					n/a
-d001.s086.t036	place	place	N	bn:00051760n;wiki:location_(geography);wn:location%1:03:00::	d001.s086.t039	azienda	azienda	N	bn:00051760n;wiki:location_(geography);wn:location%1:03:00::
+d001.s086.t036	place	place	N	bn:00051760n;wiki:location_(geography);wn:location%1:03:00::	d001.s086.t039	azienda	azienda	N	n/a
 d001.s086.t037	and		X	n/a	d001.s086.t040	e		X	n/a
 d001.s086.t038	the		X	n/a	d001.s086.t041	nella		X	n/a
 d001.s086.t039	community	community	N	bn:00021248n;wiki:communities;wiki:residential_community;wn:community%1:14:00::	d001.s086.t042	comunità	comunità	N	bn:00021248n;wiki:communities;wiki:residential_community;wn:community%1:14:00::
@@ -1995,7 +1995,7 @@ d001.s091.t011	published	publish	V	bn:00084099v;bn:00092023v;wn:bring_out%2:32:0
 d001.s091.t012	in		X	n/a	d001.s091.t010	nel		X	n/a
 d001.s091.t013	1996		X	n/a	d001.s091.t011	1996		X	n/a
 d001.s091.t014	and		X	n/a	d001.s091.t012	e		X	n/a
-d001.s091.t015	provide	provide	V	bn:00084692v;wn:cater%2:34:00::;wn:ply%2:34:00::;wn:provide%2:34:00::;wn:supply%2:34:00::	d001.s091.t013	costituiranno	costituire	V	bn:00084692v;wn:cater%2:34:00::;wn:ply%2:34:00::;wn:provide%2:34:00::;wn:supply%2:34:00::
+d001.s091.t015	provide	provide	V	bn:00084692v;wn:cater%2:34:00::;wn:ply%2:34:00::;wn:provide%2:34:00::;wn:supply%2:34:00::	d001.s091.t013	costituiranno	costituire	V	n/a
 d001.s091.t016	the		X	n/a	d001.s091.t014	la		X	n/a
 d001.s091.t017	backdrop	backdrop	N	n/a	d001.s091.t015	base	base	N	n/a
 d001.s091.t018	for		X	n/a					n/a
@@ -2011,7 +2011,7 @@ d001.s091.t027	1996		X	n/a					n/a
 d001.s091.t028	.		X	n/a	d001.s091.t026	.		X	n/a
 d001.s092.t001	The		X	n/a	d001.s092.t001	La		X	n/a
 d001.s092.t002	Foundation	foundation	N	bn:00036064n;wn:foundation%1:14:00::	d001.s092.t002	Fondazione	fondazione	N	bn:00036064n;wn:foundation%1:14:00::
-d001.s092.t003	aims	aim	V	bn:00082486v;wn:aim%2:31:01::;wn:propose%2:31:01::;wn:purport%2:31:00::;wn:purpose%2:31:01::	d001.s092.t003	intende	intendere	V	bn:00082486v;wn:aim%2:31:01::;wn:propose%2:31:01::;wn:purport%2:31:00::;wn:purpose%2:31:01::
+d001.s092.t003	aims	aim	V	bn:00082486v;wn:aim%2:31:01::;wn:propose%2:31:01::;wn:purport%2:31:00::;wn:purpose%2:31:01::	d001.s092.t003	intende	intendere	V	n/a
 d001.s092.t004	to		X	n/a	d001.s092.t004	documentare	documentare	V	n/a
 d001.s092.t005	document	document	V	bn:00087137v;wn:document%2:32:00::	d001.s092.t004	documentare	documentare	V	bn:00087137v;wn:document%2:32:00::
 d001.s092.t006	the		X	n/a	d001.s092.t005	le		X	n/a
@@ -2031,7 +2031,7 @@ d001.s092.t019	their		X	n/a	d001.s092.t019	analizzarne	analizzare	V	n/a
 d001.s092.t020	causes	cause	N	bn:00016850n;wn:cause%1:11:00::	d001.s092.t021	cause	causa	N	bn:00016850n;wn:cause%1:11:00::
 d001.s092.t021	.		X	n/a	d001.s092.t022	.		X	n/a
 d001.s093.t001	The		X	n/a	d001.s093.t004	i		X	n/a
-d001.s093.t002	perspectives	perspective	N	bn:00061746n;wn:perspective%1:09:00::;wn:position%1:09:00::;wn:view%1:09:02::	d001.s093.t005	punti	punto	N	bn:00061746n;wn:perspective%1:09:00::;wn:position%1:09:00::;wn:view%1:09:02::
+d001.s093.t002	perspectives	perspective	N	bn:00061746n;wn:perspective%1:09:00::;wn:position%1:09:00::;wn:view%1:09:02::	d001.s093.t005	punti	punto	N	n/a
 d001.s093.t003	of		X	n/a	d001.s093.t008	delle		X	n/a
 d001.s093.t004	the		X	n/a					n/a
 d001.s093.t005	social	social	J	bn:01623772n;wiki:social_partners	d001.s093.t010	sociali	sociale	J	n/a
@@ -2044,7 +2044,7 @@ d001.s093.t011	,		X	n/a	d001.s093.t011	,		X	n/a
 d001.s093.t012	with		X	n/a	d001.s093.t012	dedicando	dedicare	V	n/a
 d001.s093.t013	particular	particular	J	bn:00102398a;wn:especial%5:00:00:uncommon:00;wn:exceptional%5:00:00:uncommon:00;wn:particular%5:00:00:uncommon:00;wn:special%5:00:00:uncommon:00	d001.s093.t015	particolare	particolare	J	bn:00102398a;wn:especial%5:00:00:uncommon:00;wn:exceptional%5:00:00:uncommon:00;wn:particular%5:00:00:uncommon:00;wn:special%5:00:00:uncommon:00
 d001.s093.t014	attention	attention	N	bn:00007020n;wn:attending%1:09:00::;wn:attention%1:09:00::	d001.s093.t014	attenzione	attenzione	N	bn:00007020n;wn:attending%1:09:00::;wn:attention%1:09:00::
-d001.s093.t015	paid	pay	V	bn:00086761v;bn:00088817v;wn:devote%2:31:00::;wn:give%2:31:02::;wn:give%2:32:01::;wn:pay%2:31:00::;wn:pay%2:32:00::	d001.s093.t012	dedicando	dedicare	V	bn:00086761v;bn:00088817v;wn:devote%2:31:00::;wn:give%2:31:02::;wn:give%2:32:01::;wn:pay%2:31:00::;wn:pay%2:32:00::
+d001.s093.t015	paid	pay	V	bn:00086761v;bn:00088817v;wn:devote%2:31:00::;wn:give%2:31:02::;wn:give%2:32:01::;wn:pay%2:31:00::;wn:pay%2:32:00::	d001.s093.t012	dedicando	dedicare	V	n/a
 d001.s093.t016	to		X	n/a	d001.s093.t016	alle		X	n/a
 d001.s093.t017	proposals	proposal	N	bn:00064776n;wn:proposal%1:10:00::	d001.s093.t017	proposte	proposta	N	bn:00064776n;wn:proposal%1:10:00::
 d001.s093.t018	for		X	n/a	d001.s093.t018	volte	volto	J	n/a
@@ -2058,7 +2058,7 @@ d001.s094.t003	the		X	n/a	d001.s094.t005	il		X	n/a
 d001.s094.t004	project	project	N	bn:00064665n;wn:project%1:09:00::;wn:projection%1:09:00::	d001.s094.t006	progetto	progetto	N	bn:00064665n;wn:project%1:09:00::;wn:projection%1:09:00::
 d001.s094.t005	documents	document	N	n/a	d001.s094.t007	documenta	documentare	V	n/a
 d001.s094.t006	and		X	n/a	d001.s094.t008	e		X	n/a
-d001.s094.t007	assesses	assess	V	bn:00082720v;wn:appraise%2:31:01::;wn:assess%2:31:00::;wn:evaluate%2:31:00::;wn:measure%2:31:01::;wn:valuate%2:31:00::;wn:value%2:31:00::	d001.s094.t007➕d001.s094.t009	documenta➕valuta	documentare	V	bn:00082720v;wn:appraise%2:31:01::;wn:assess%2:31:00::;wn:evaluate%2:31:00::;wn:measure%2:31:01::;wn:valuate%2:31:00::;wn:value%2:31:00::
+d001.s094.t007	assesses	assess	V	bn:00082720v;wn:appraise%2:31:01::;wn:assess%2:31:00::;wn:evaluate%2:31:00::;wn:measure%2:31:01::;wn:valuate%2:31:00::;wn:value%2:31:00::	d001.s094.t007➕d001.s094.t009	documenta➕valuta	documentare	V	n/a
 d001.s094.t008	initiatives	initiative	N	bn:00034797n;wiki:initiative_(chess);wn:first_step%1:04:00::;wn:initiative%1:04:00::;wn:opening%1:04:03::;wn:opening_move%1:04:00::	d001.s094.t010	iniziative	iniziativa	N	bn:00034797n;wiki:initiative_(chess);wn:first_step%1:04:00::;wn:initiative%1:04:00::;wn:opening%1:04:03::;wn:opening_move%1:04:00::
 d001.s094.t009	,		X	n/a	d001.s094.t011	,		X	n/a
 d001.s094.t010	in		X	n/a					n/a
@@ -2082,9 +2082,9 @@ d001.s095.t001	Seeking	seek	V	bn:00090460v;wn:look_for%2:35:00::;wn:search%2:35:
 d001.s095.t002	alternatives	alternative	N	bn:00003132n;wn:alternative%1:09:00::;wn:choice%1:09:02::;wn:option%1:09:00::					n/a
 d001.s095.t003	to		X	n/a	d001.s095.t003	al		X	n/a
 d001.s095.t004	early	early	J	bn:00101935a;wn:early%3:00:00::	d001.s095.t004	prepensionamento	prepensionamento	N	n/a
-d001.s095.t005	retirement	retirement	N	bn:00067456n;wn:retirement%1:26:00::	d001.s095.t004	prepensionamento	prepensionamento	N	bn:00067456n;wn:retirement%1:26:00::
+d001.s095.t005	retirement	retirement	N	bn:00067456n;wn:retirement%1:26:00::	d001.s095.t004	prepensionamento	prepensionamento	N	n/a
 d001.s095.t006	and		X	n/a	d001.s095.t005	e		X	n/a
-d001.s095.t007	redundancy	redundancy	N	bn:00066743n;wn:redundance%1:07:00::;wn:redundancy%1:07:00::	d001.s095.t007	licenziamento	licenziamento	N	bn:00066743n;wn:redundance%1:07:00::;wn:redundancy%1:07:00::
+d001.s095.t007	redundancy	redundancy	N	bn:00066743n;wn:redundance%1:07:00::;wn:redundancy%1:07:00::	d001.s095.t007	licenziamento	licenziamento	N	n/a
 d001.s095.t008	,		X	n/a	d001.s095.t008	,		X	n/a
 d001.s095.t009	the		X	n/a	d001.s095.t009	il		X	n/a
 d001.s095.t010	project	project	N	bn:00064665n;wn:project%1:09:00::;wn:projection%1:09:00::	d001.s095.t010	progetto	progetto	N	bn:00064665n;wn:project%1:09:00::;wn:projection%1:09:00::
@@ -2106,7 +2106,7 @@ d001.s096.t001	The		X	n/a	d001.s096.t005	il		X	n/a
 d001.s096.t002	gender	gender	N	bn:00037634n;bn:00070773n;wiki:gender;wiki:sex;wn:gender%1:07:00::;wn:sex%1:07:00::;wn:sex%1:14:00::;wn:sexuality%1:07:00::	d001.s096.t006	sesso	sesso	N	bn:00037634n;bn:00070773n;wiki:gender;wiki:sex;wn:gender%1:07:00::;wn:sex%1:07:00::;wn:sex%1:14:00::;wn:sexuality%1:07:00::
 d001.s096.t003	and		X	n/a	d001.s096.t007	e		X	n/a
 d001.s096.t004	ethnic	ethnic	J	bn:00031722n;wiki:ethnic_group;wn:ethnic_group%1:14:00::;wn:ethnos%1:14:00::	d001.s096.t010	etnica	etnico	J	n/a
-d001.s096.t005	backgrounds	background	N	bn:00007781n;bn:00007783n;bn:00007786n;wiki:prior_art;wn:background%1:07:00::;wn:background%1:09:01::;wn:background%1:26:00::;wn:background_knowledge%1:09:00::;wn:scope%1:26:00::;wn:setting%1:26:00::	d001.s096.t009	appartenenza	appartenenza	N	bn:00007781n;bn:00007783n;bn:00007786n;wiki:prior_art;wn:background%1:07:00::;wn:background%1:09:01::;wn:background%1:26:00::;wn:background_knowledge%1:09:00::;wn:scope%1:26:00::;wn:setting%1:26:00::
+d001.s096.t005	backgrounds	background	N	bn:00007781n;bn:00007783n;bn:00007786n;wiki:prior_art;wn:background%1:07:00::;wn:background%1:09:01::;wn:background%1:26:00::;wn:background_knowledge%1:09:00::;wn:scope%1:26:00::;wn:setting%1:26:00::	d001.s096.t009	appartenenza	appartenenza	N	n/a
 d001.s096.t006	of		X	n/a	d001.s096.t011	dei		X	n/a
 d001.s096.t007	workers	worker	N	bn:00081593n;wn:worker%1:18:00::	d001.s096.t012	lavoratori	lavoratore	N	bn:00081593n;wn:worker%1:18:00::
 d001.s096.t008	and		X	n/a	d001.s096.t014	e		X	n/a
@@ -2214,7 +2214,7 @@ d001.s100.t004	?		X	n/a	d001.s100.t005	?		X	n/a
 d001.s101.t001	Cerenia	cerenia	N	n/a	d001.s101.t001	Cerenia	cerenia	N	n/a
 d001.s101.t002	contains	contain	V	bn:00085499v;wn:comprise%2:42:00::;wn:contain%2:42:00::;wn:incorporate%2:42:00::	d001.s101.t002	contiene	contenere	V	bn:00085499v;wn:comprise%2:42:00::;wn:contain%2:42:00::;wn:incorporate%2:42:00::
 d001.s101.t003	the		X	n/a	d001.s101.t003	il		X	n/a
-d001.s101.t004	active	active	J	bn:00377649n;wiki:active_ingredient	d001.s101.t004	principio	principio	N	bn:00377649n;wiki:active_ingredient
+d001.s101.t004	active	active	J	bn:00377649n;wiki:active_ingredient	d001.s101.t004	principio	principio	N	n/a
 d001.s101.t005	substance	substance	N	bn:00074985n;bn:00074986n;bn:00074987n;wn:substance%1:03:00::;wn:substance%1:03:01::;wn:substance%1:27:00::	d001.s101.t005	attivo	attivo	J	n/a
 d001.s101.t006	maropitant	maropitant	N	bn:00923812n;wiki:maropitant	d001.s101.t006	maropitant	maropitant	N	bn:00923812n;wiki:maropitant
 d001.s101.t007	and		X	n/a	d001.s101.t007	ed		X	n/a
@@ -2236,7 +2236,7 @@ d001.s102.t005	and		X	n/a	d001.s102.t008	e		X	n/a
 d001.s102.t006	have	have	V	bn:00088078v;bn:00089240v;wn:feature%2:42:00::;wn:have%2:40:00::;wn:have%2:42:00::;wn:have_got%2:40:00::;wn:hold%2:40:00::	d001.s102.t009	hanno	avere	V	bn:00088078v;bn:00089240v;wn:feature%2:42:00::;wn:have%2:40:00::;wn:have%2:42:00::;wn:have_got%2:40:00::;wn:hold%2:40:00::
 d001.s102.t007	a		X	n/a	d001.s102.t010	una		X	n/a
 d001.s102.t008	score	score	N	bn:00069754n;wn:score%1:25:00::;wn:scotch%1:25:00::					n/a
-d001.s102.t009	line	line	N	bn:00023645n;bn:00051289n;wiki:wrinkle;wn:crease%1:25:01::;wn:crinkle%1:25:00::;wn:furrow%1:25:00::;wn:line%1:10:01::;wn:line%1:25:01::;wn:seam%1:25:01::;wn:wrinkle%1:25:00::	d001.s102.t011	tacca	tacca	N	bn:00023645n;bn:00051289n;wiki:wrinkle;wn:crease%1:25:01::;wn:crinkle%1:25:00::;wn:furrow%1:25:00::;wn:line%1:10:01::;wn:line%1:25:01::;wn:seam%1:25:01::;wn:wrinkle%1:25:00::
+d001.s102.t009	line	line	N	bn:00023645n;bn:00051289n;wiki:wrinkle;wn:crease%1:25:01::;wn:crinkle%1:25:00::;wn:furrow%1:25:00::;wn:line%1:10:01::;wn:line%1:25:01::;wn:seam%1:25:01::;wn:wrinkle%1:25:00::	d001.s102.t011	tacca	tacca	N	n/a
 d001.s102.t010	on		X	n/a	d001.s102.t012	su		X	n/a
 d001.s102.t011	both		X	n/a	d001.s102.t013	entrambi	entrambi	J	n/a
 d001.s102.t012	sides	side	N	bn:00032604n;bn:00071433n;bn:00071434n;wn:face%1:15:00::;wn:side%1:06:00::;wn:side%1:08:00::;wn:side%1:15:00::	d001.s102.t015	lati	lato	N	bn:00032604n;bn:00071433n;bn:00071434n;wn:face%1:15:00::;wn:side%1:06:00::;wn:side%1:08:00::;wn:side%1:15:00::
@@ -2368,7 +2368,7 @@ d001.s108.t004	,		X	n/a	d001.s108.t015	.		X	n/a
 d001.s108.t005	Cerenia	cerenia	N	n/a	d001.s108.t004	Cerenia	cerenia	N	n/a
 d001.s108.t006	can		X	n/a	d001.s108.t005	può	potere	V	n/a
 d001.s108.t007	be	be	V	n/a	d001.s108.t006	essere	essere	V	n/a
-d001.s108.t008	given	give	V	bn:00088826v;wn:give%2:40:13::	d001.s108.t007	somministrato	somministrare	V	bn:00088826v;wn:give%2:40:13::
+d001.s108.t008	given	give	V	bn:00088826v;wn:give%2:40:13::	d001.s108.t007	somministrato	somministrare	V	n/a
 d001.s108.t009	for		X	n/a					n/a
 d001.s108.t010	up to	up to	J	n/a	d001.s108.t008➕d001.s108.t009	fino➕a		X	n/a
 d001.s108.t011	five		X	n/a	d001.s108.t013	cinque	cinque	J	n/a
@@ -2446,7 +2446,7 @@ d001.s114.t002	results	result	N	bn:00021961n;bn:00034520n;wiki:result;wn:consequ
 d001.s114.t003	of		X	n/a	d001.s114.t003	degli		X	n/a
 d001.s114.t004	the		X	n/a					n/a
 d001.s114.t005	studies	study	N	bn:00074790n;wn:study%1:04:00::;wn:survey%1:04:02::	d001.s114.t004	studi	studio	N	bn:00074790n;wn:study%1:04:00::;wn:survey%1:04:02::
-d001.s114.t006	showed	show	V	bn:00083245v;bn:00086567v;wn:bear_witness%2:32:02::;wn:demonstrate%2:31:00::;wn:establish%2:31:00::;wn:evidence%2:32:01::;wn:prove%2:31:00::;wn:prove%2:32:00::;wn:shew%2:31:00::;wn:show%2:31:00::;wn:show%2:32:00::;wn:testify%2:32:02::	d001.s114.t006	emerso	emergere	V	bn:00083245v;bn:00086567v;wn:bear_witness%2:32:02::;wn:demonstrate%2:31:00::;wn:establish%2:31:00::;wn:evidence%2:32:01::;wn:prove%2:31:00::;wn:prove%2:32:00::;wn:shew%2:31:00::;wn:show%2:31:00::;wn:show%2:32:00::;wn:testify%2:32:02::
+d001.s114.t006	showed	show	V	bn:00083245v;bn:00086567v;wn:bear_witness%2:32:02::;wn:demonstrate%2:31:00::;wn:establish%2:31:00::;wn:evidence%2:32:01::;wn:prove%2:31:00::;wn:prove%2:32:00::;wn:shew%2:31:00::;wn:show%2:31:00::;wn:show%2:32:00::;wn:testify%2:32:02::	d001.s114.t006	emerso	emergere	V	n/a
 d001.s114.t007	that		X	n/a	d001.s114.t007	che		X	n/a
 d001.s114.t008	Cerenia	cerenia	N	n/a	d001.s114.t008	Cerenia	cerenia	N	n/a
 d001.s114.t009	was	be	V	n/a	d001.s114.t009	è	essere	V	n/a
@@ -2463,14 +2463,14 @@ d001.s114.t019	seen	see	V	bn:00082812v;bn:00082813v;wn:ascertain%2:31:00::;wn:as
 d001.s114.t020	in		X	n/a	d001.s114.t015	nei		X	n/a
 d001.s114.t021	dogs	dog	N	bn:00015267n;wiki:dog;wn:canis_familiaris%1:05:00::;wn:dog%1:05:00::;wn:domestic_dog%1:05:00::	d001.s114.t016	cani	cane	N	bn:00015267n;wiki:dog;wn:canis_familiaris%1:05:00::;wn:dog%1:05:00::;wn:domestic_dog%1:05:00::
 d001.s114.t022	that		X	n/a					n/a
-d001.s114.t023	received	receive	V	bn:00087863v;wn:experience%2:39:00::;wn:get%2:39:00::;wn:have%2:39:06::;wn:receive%2:39:03::	d001.s114.t017	trattati	trattare	V	bn:00087863v;wn:experience%2:39:00::;wn:get%2:39:00::;wn:have%2:39:06::;wn:receive%2:39:03::
+d001.s114.t023	received	receive	V	bn:00087863v;wn:experience%2:39:00::;wn:get%2:39:00::;wn:have%2:39:06::;wn:receive%2:39:03::	d001.s114.t017	trattati	trattare	V	n/a
 d001.s114.t024	the		X	n/a	d001.s114.t019	il		X	n/a
 d001.s114.t025	medicine	medicine	N	bn:00054128n;bn:00061887n;wiki:pharmaceutical_drug;wn:medicament%1:06:00::;wn:medication%1:06:00::;wn:medicinal_drug%1:06:00::;wn:medicine%1:06:00::;wn:pharmaceutic%1:06:00::;wn:pharmaceutical%1:06:00::	d001.s114.t020	medicinale	medicinale	N	bn:00054128n;bn:00061887n;wiki:pharmaceutical_drug;wn:medicament%1:06:00::;wn:medication%1:06:00::;wn:medicinal_drug%1:06:00::;wn:medicine%1:06:00::;wn:pharmaceutic%1:06:00::;wn:pharmaceutical%1:06:00::
 d001.s114.t026	than		X	n/a	d001.s114.t029	rispetto	rispetto	N	n/a
 d001.s114.t027	in		X	n/a					n/a
-d001.s114.t028	dogs	dog	N	bn:00015267n;wiki:dog;wn:canis_familiaris%1:05:00::;wn:dog%1:05:00::;wn:domestic_dog%1:05:00::	d001.s114.t031	animali	animale	N	bn:00015267n;wiki:dog;wn:canis_familiaris%1:05:00::;wn:dog%1:05:00::;wn:domestic_dog%1:05:00::
+d001.s114.t028	dogs	dog	N	bn:00015267n;wiki:dog;wn:canis_familiaris%1:05:00::;wn:dog%1:05:00::;wn:domestic_dog%1:05:00::	d001.s114.t031	animali	animale	N	n/a
 d001.s114.t029	that		X	n/a					n/a
-d001.s114.t030	received	receive	V	bn:00087863v;wn:experience%2:39:00::;wn:get%2:39:00::;wn:have%2:39:06::;wn:receive%2:39:03::	d001.s114.t032	trattati	trattare	V	bn:00087863v;wn:experience%2:39:00::;wn:get%2:39:00::;wn:have%2:39:06::;wn:receive%2:39:03::
+d001.s114.t030	received	receive	V	bn:00087863v;wn:experience%2:39:00::;wn:get%2:39:00::;wn:have%2:39:06::;wn:receive%2:39:03::	d001.s114.t032	trattati	trattare	V	n/a
 d001.s114.t031	a		X	n/a					n/a
 d001.s114.t032	placebo	placebo	N	bn:00062717n;wiki:placebo;wn:placebo%1:06:00::	d001.s114.t035	placebo	placebo	N	bn:00062717n;wiki:placebo;wn:placebo%1:06:00::
 d001.s114.t033	,		X	n/a	d001.s114.t036	,		X	n/a
@@ -2616,11 +2616,11 @@ d001.s120.t005	for		X	n/a					n/a
 d001.s120.t006	the		X	n/a	d001.s120.t008	la		X	n/a
 d001.s120.t007	person	person	N	bn:00046516n;wiki:individual;wiki:person;wn:individual%1:03:00::;wn:mortal%1:03:00::;wn:person%1:03:00::;wn:somebody%1:03:00::;wn:someone%1:03:00::;wn:soul%1:03:00::	d001.s120.t009	persona	persona	N	bn:00046516n;wiki:individual;wiki:person;wn:individual%1:03:00::;wn:mortal%1:03:00::;wn:person%1:03:00::;wn:somebody%1:03:00::;wn:someone%1:03:00::;wn:soul%1:03:00::
 d001.s120.t008	who		X	n/a	d001.s120.t010	che		X	n/a
-d001.s120.t009	gives	give	V	bn:00088826v;wn:give%2:40:13::	d001.s120.t011	somministra	somministrare	V	bn:00088826v;wn:give%2:40:13::
+d001.s120.t009	gives	give	V	bn:00088826v;wn:give%2:40:13::	d001.s120.t011	somministra	somministrare	V	n/a
 d001.s120.t010	the		X	n/a	d001.s120.t012	il		X	n/a
 d001.s120.t011	medicine	medicine	N	bn:00054128n;bn:00061887n;wiki:pharmaceutical_drug;wn:medicament%1:06:00::;wn:medication%1:06:00::;wn:medicinal_drug%1:06:00::;wn:medicine%1:06:00::;wn:pharmaceutic%1:06:00::;wn:pharmaceutical%1:06:00::	d001.s120.t013	medicinale	medicinale	N	bn:00054128n;bn:00061887n;wiki:pharmaceutical_drug;wn:medicament%1:06:00::;wn:medication%1:06:00::;wn:medicinal_drug%1:06:00::;wn:medicine%1:06:00::;wn:pharmaceutic%1:06:00::;wn:pharmaceutical%1:06:00::
 d001.s120.t012	or		X	n/a	d001.s120.t014	o		X	n/a
-d001.s120.t013	comes	come	V	bn:00085319v;wn:come%2:38:00::;wn:come_up%2:38:02::	d001.s120.t015	entra	entrare	V	bn:00085319v;wn:come%2:38:00::;wn:come_up%2:38:02::
+d001.s120.t013	comes	come	V	bn:00085319v;wn:come%2:38:00::;wn:come_up%2:38:02::	d001.s120.t015	entra	entrare	V	n/a
 d001.s120.t014	into		X	n/a	d001.s120.t016	in		X	n/a
 d001.s120.t015	contact	contact	N	bn:00022113n;bn:00022114n;wiki:somatosensory_system;wn:contact%1:04:00::;wn:contact%1:26:00::;wn:physical_contact%1:04:00::	d001.s120.t017	contatto	contatto	N	bn:00022113n;bn:00022114n;wiki:somatosensory_system;wn:contact%1:04:00::;wn:contact%1:26:00::;wn:physical_contact%1:04:00::
 d001.s120.t016	with		X	n/a	d001.s120.t018	con		X	n/a
