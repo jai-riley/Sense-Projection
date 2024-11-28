@@ -1,0 +1,122 @@
+ID	Sentence
+d000.s000	This document is a summary of the European Public Assessment Report ( EPAR ) .
+d000.s001	It explains how the Committee for Medicinal Products for Human Use ( CHMP ) assessed the studies performed , to reach their recommendations on how to use the medicine .
+d000.s002	If you need more information about your medical condition or your treatment , read the Package Leaflet ( also part of the EPAR ) or contact your doctor or pharmacist .
+d000.s003	If you want more information on the basis of the CHMP recommendations , read the Scientific Discussion ( also part of the EPAR ) .
+d000.s004	What is Alimta ?
+d000.s005	Alimta is a powder that is made up into a solution for infusion ( drip into a vein ) .
+d000.s006	It contains the active substance pemetrexed .
+d000.s007	What is Alimta used for ?
+d000.s008	Alimta is used to treat two types of cancer : pleural mesothelioma ( cancer of the lining of the lungs that is usually caused by exposure to asbestos ) .
+d000.s009	Alimta is used together with cisplatin ( another anticancer medicine ) when the cancer is unresectable ( cannot be removed by surgery alone ) and malignant ( has spread , or is likely to spread easily , to other parts of the body ) , in patients who have not received chemotherapy ( medicines for cancer ) before advanced or metastatic non-small cell lung cancer that is not affecting the squamous cells .
+d000.s010	Alimta is used in combination with cisplatin in patients who have not been treated before , and on its own in patients who have received another type of chemotherapy in the past .
+d000.s011	The medicine can only be obtained with a prescription .
+d000.s012	How is Alimta used ?
+d000.s013	Alimta should only be given under the supervision of a doctor who is qualified in the use of anticancer chemotherapy .
+d000.s014	The recommended dose of Alimta is 500 mg per square metre of body surface area ( calculated using the patient s height and weight ) . It is given once every three weeks as an intravenous infusion lasting 10 minutes .
+d000.s015	To reduce side effects , patients should take a corticosteroid and folic acid ( a type of vitamin ) , and receive injections of vitamin B12 during treatment with Alimta .
+d000.s016	When Alimta is given with cisplatin , an anti-emetic medicine ( to prevent vomiting ) and fluids ( to prevent dehydration ) should also be given before or after the cisplatin dose .
+d000.s017	Treatment should be delayed or discontinued , or the dose reduced , in patients whose blood counts are abnormal or who have certain other side effects .
+d000.s018	Alimta is not recommended for use in patients with moderate or severe kidney problems .
+d000.s019	For more information , see the Summary of Product Characteristics ( also part of the EPAR ) .
+d000.s020	How does Alimta work ?
+d000.s021	The active substance in Alimta , pemetrexed , is a cytotoxic medicine ( a medicine that kills cells that are dividing , such as cancer cells ) , which belongs to the group antimetabolites .
+d000.s022	In the body , pemetrexed is converted into an active form that blocks the activity of the enzymes that are involved in producing nucleotides ( the building blocks of DNA and RNA , the genetic material of cells ) .
+d000.s023	How has Alimta been studied ?
+d000.s024	For the treatment of malignant pleural mesothelioma , Alimta has been studied in one main study in 456 patients who had not received chemotherapy for their disease before .
+d000.s025	The effects of Alimta in combination with cisplatin were compared with those of cisplatin alone .
+d000.s026	For the treatment of non-small cell lung cancer , the effects of Alimta were compared with those of docetaxel ( another anticancer medicine ) in one study involving 571 patients with locally advanced or metastatic disease who had received chemotherapy in the past .
+d000.s027	Alimta was also compared with gemcitabine ( another anticancer medicine ) , both in combination with cisplatin , in a study involving 1,725 patients who had not received chemotherapy for lung cancer in the past .
+d000.s028	In all three studies , the main measure of effectiveness was how long the patients survived .
+d000.s029	What benefit has Alimta shown during the studies ?
+d000.s030	Alimta increased the survival time of patients with malignant pleural mesothelioma .
+d000.s031	Patients receiving Alimta and cisplatin survived for an average of 12.1 months , compared with 9.3 months in those receiving cisplatin alone .
+d000.s032	In the treatment of patients with non-small cell lung cancer , Alimta was as effective as the comparators .
+d000.s033	In patients who had received chemotherapy in the past , the average survival time was 8.3 months with Alimta , compared with 7.9 months with docetaxel .
+d000.s034	In patients who had not received chemotherapy in the past , the average survival time was 10.3 months in both groups .
+d000.s035	However , in both studies , patients whose cancer was not affecting squamous cells had longer survival times if they received Alimta than if they received the comparator .
+d000.s036	In contrast , patients whose cancer was affecting squamous cells had shorter survival times if they received Alimta . kalgebra is a mathematical calculator based on content markup MathML language .
+d000.s037	Nowadays it is capable to make simple MathML operations ( arithmetic and logical ) and to representate 2D and 3D graphs .
+d000.s038	It is actually not necessary to know MathML to use kalgebra . kalgebra is a MathML based graph calculator .
+d000.s039	Although it was initially MathML oriented it can now be used by everyone with little mathematical knowledge .
+d000.s040	Here 's a screenshot of kalgebra main window kalgebra main window kalgebra main window consists in a Console tab , a 2D Graph tab , a 3D Graph tab and a Dictionary tab .
+d000.s041	Below these tabs you will find an input field to type your functions or do your calculations .
+d000.s042	If we want to understand how it works , the best thing we can do is to realize that our input is being converted into MathML although it is not necessary to know MathML .
+d000.s043	I have based the syntax basically on common sense , it should not be hard for anyone .
+d000.s044	I ve looked closely to maxima and maple s syntax so they look very similar . + - * / : Addition , subtraction , multiplication and division . ^ , ** : Power , you can use them both .
+d000.s045	Also it is possible to use the unicode ² characters .
+d000.s046	Powers are one way to make roots too . -gt : It s the way to specify the bounded variable in a function . ( ) : It is used to specify a higher priority . abc(params) : When the parser finds a function , it checks if abc is an operator .
+d000.s047	If it is , it will be treated as an operator , if it is not , it will be treated as a user function . : = : It is used to define a variable value . ? : Piecewise condition definition .
+d000.s048	Piecewise is the way we can define conditional operations in kalgebra .
+d000.s049	If we introduce the condition before the ? it will use this condition only if it is true , if it finds a ? without any condition , it will enter in the last instance . { } : MathML container . It can be used to define a container .
+d000.s050	Mainly useful for working with piecewise .
+d000.s051	Now you could ask me , why should the user mind about MathML ? That s easy . With this , we can operate with functions like cos() , sin() , any other trigonometric functions , sum() or product() .
+d000.s052	It does not matter what kind it is .
+d000.s053	We can use plus() , times() and everything which has its operator . kalgebra 's console is useful as a calculator .
+d000.s054	There you have a list of the declared variables .
+d000.s055	By double clicking on them you will see a dialog that lets you change their values ( just a way to trick the log ) .
+d000.s056	"Every time you enter an expression , the "" ans "" variable value will be changed to the last result ."
+d000.s057	Ctrl N New Window
+d000.s058	Flushes the log .
+d000.s059	Ctrl L Load Script
+d000.s060	Executes the instructions in a file sequentially .
+d000.s061	Nice if you want to define some libraries or resume some previous work .
+d000.s062	Ctrl G Save Script
+d000.s063	Saves the instructions you have typed since the session began to be able to reuse .
+d000.s064	Generates text files so it should be easy to fix using any text editor , like Kate .
+d000.s065	Ctrl S Save Log
+d000.s066	Saves the log with all results into an HTML file to be able to print or publish .
+d000.s067	Ctrl Q Quit
+d000.s068	Shuts the program down .
+d000.s069	To add a new 2D graph on kalgebra , what you have to do is to go to the 2D Graph tab and click in the Add tab to add the new function .
+d000.s070	Then your focus will go to an input text box where you can type your function .
+d000.s071	If you want to use a typical f(x) function it is not necessary to specify it .
+d000.s072	If you have entered the function click on the OK button to display the graph in the main window .
+d000.s073	You can set several graphs on the same view .
+d000.s074	Just use the Add button when you are in List mode .
+d000.s075	You can set each graph its own color .
+d000.s076	The Foundation has recently been involved in organising a conference which dealt with this critical challenge .
+d000.s077	Over 100 participants from the main interest groups attended and debated issues such as the role of key actors including public authorities , social partners , voluntary and community organisations as well as service users .
+d000.s078	There were relatively few cases reported of attempts to involve users in service planning but their involvement in service provision was found to be more common .
+d000.s079	Note was also taken of the variety of different roles played by public welfare
+d000.s080	The Foundation organised , together with the European Commission , the Spanish Ministry of Social Affairs and the Galician regional government , a European conference on social exclusion : a major challenge for public welfare services .
+d000.s081	The Foundation recently published a comparative study as part of the EPOC project which assesses the extent to which direct participation can humanise work while increasing profitability .
+d000.s082	The study is based on 195 personal interviews with senior officials of the social partners as representatives of national level peak organisations in fifteen European countries .
+d000.s083	As important industrial sectors , the metal industry and the banking sector were also included .
+d000.s084	Key speakers at the social exclusion conference were ( left to right ) Cristina Louro , Employment , Industrial Relations and Social Affairs Directorate , European Commission Fernando Gomes , a high degree of Committee of the Regions Barbara Weiler , Member of the European Parliament José Maria Gil-Robles , Vice-President , European Parliament and John Carroll , Economic and Social Committee .
+d000.s085	Case Studies Each national report contains a portfolio of between 25 and 30 initiatives which best present policies and practices to improve the recruitment , training and development of ageing workers in both the work place and the community .
+d000.s086	For each country , two or three initiatives have been selected for further in depth case study .
+d000.s087	These case studies analysed the background of the initiatives , their impact on employment patterns and work organisations and assessed the benefits and problems of the initiative .
+d000.s088	Visits and interviews with key personnel were also undertaken .
+d000.s089	These national studies will form the basis of a European report which synthesises overall practices .
+d000.s090	The report and a case book of initiatives will be published in 1996 and provide the backdrop for a conference to be staged in Autumn , 1996 .
+d000.s091	The Foundation aims to document the characteristics of age barriers in job recruitment and training and to analyse their causes .
+d000.s092	The perspectives of the social partners is also being examined , with particular attention paid to proposals for removing age barriers .
+d000.s093	Thirdly , the project documents and assesses initiatives , in both the public and private sectors which combat age barriers , especially for older workers .
+d000.s094	Seeking alternatives to early retirement and redundancy , the project is primarily concerned with the retention , reintegration and retraining of older workers .
+d000.s095	The gender and ethnic backgrounds of workers and how these relate to age discrimination are examined .
+d000.s096	The project also considers initiatives to combat age discrimination in rural areas and in small and medium sized enterprises .
+d000.s097	Seven member states are covered by the project : Belgium , France , Germany , Greece , Italy , the Netherlands and the United Kingdom .
+d000.s098	This document is a summary of the European Public Assessment Report . It explains how the Committee for Medicinal Products for Veterinary Use ( CVMP ) assessed the studies performed , to reach their recommendations on how to use the medicine .
+d000.s099	What is Cerenia ?
+d000.s100	Cerenia contains the active substance maropitant and is available as tablet or as solution for injection .
+d000.s101	The tablets are pale-orange and have a score line on both sides so that they can be halved .
+d000.s102	Each tablet is marked with the Pfizer logo on one side and with the letters MPT and the quantity of maropitant on the other side .
+d000.s103	What is Cerenia used for ?
+d000.s104	Cerenia is an anti-emetic , this means that it stops vomiting .
+d000.s105	It is used in dogs to prevent vomiting such as vomiting caused by chemotherapy ( medicines used for the treatment of cancer , some of which are known to cause vomiting ) .
+d000.s106	In combination with supportive measures such as other veterinary treatment or a special diet , Cerenia can also be used in the treatment of vomiting ( either as injection or as injection followed by tablets ) .
+d000.s107	For these purposes , Cerenia can be given for up to five days
+d000.s108	How does Cerenia work ?
+d000.s109	Cerenia blocks a neurokinin 1 ( NK1 ) receptor , which acts in the central nervous system .
+d000.s110	How has Cerenia been studied ?
+d000.s111	A large number of studies with Cerenia were carried out either in laboratory dogs or in animal patients at veterinary practises in several European countries and in the USA .
+d000.s112	What benefit has Cerenia shown during the studies ?
+d000.s113	The results of the studies showed that Cerenia was more effective than the placebo : less vomiting was seen in dogs that received the medicine than in dogs that received a placebo , both in the treatment or in the prevention of vomiting .
+d000.s114	The treatment of a vomiting dog should be started with the injection , since vomiting animals might not be able to keep a tablet down ( as they might throw the intact tablet up again ) .
+d000.s115	For follow-up treatment , the animal owner can administer the tablets to the dog .
+d000.s116	Also , the treatment of vomiting should only be together with other supportive measure or other veterinary therapy while addressing the underlying causes of the vomiting .
+d000.s117	What is the risk associated with Cerenia ?
+d000.s118	Cerenia was generally well tolerated when administered daily at dosages up to 5 times the recommended doses for an extended period of time ( up to 3 times the recommended maximum duration of treatment ) .
+d000.s119	What are the precautions for the person who gives the medicine or comes into contact with the animal ?
+d000.s120	Cerenia does not represent a particular risk for people .

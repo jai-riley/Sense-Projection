@@ -1,0 +1,2571 @@
+<?xml version='1.0' encoding='utf-8'?>
+<corpus lang="BN">
+	<text id="d000">
+		<sentence id="d000.s000" source="semeval2015-en">
+			<instance id="d000.s000.t000" lemma="এই" pos="X">এই</instance>
+			<instance id="d000.s000.t001" lemma="নথিটি" pos="NOUN">নথিটি</instance>
+			<instance id="d000.s000.t002" lemma="ইউরোপীয়" pos="NOUN">ইউরোপীয়</instance>
+			<instance id="d000.s000.t003" lemma="পাবলিক" pos="ADJ">পাবলিক</instance>
+			<instance id="d000.s000.t004" lemma="অ্যাসেসমেন্ট" pos="NOUN">অ্যাসেসমেন্ট</instance>
+			<instance id="d000.s000.t005" lemma="রিপোর্টের" pos="NOUN">রিপোর্টের</instance>
+			<instance id="d000.s000.t006" lemma="(" pos="X">(</instance>
+			<instance id="d000.s000.t007" lemma="ইপিএআর" pos="NOUN">ইপিএআর</instance>
+			<instance id="d000.s000.t008" lemma=")" pos="X">)</instance>
+			<instance id="d000.s000.t009" lemma="সারাংশ" pos="NOUN">সারাংশ</instance>
+			<instance id="d000.s000.t010" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d000.s001" source="semeval2015-en">
+			<instance id="d000.s001.t000" lemma="কমিটি" pos="NOUN">কমিটি</instance>
+			<instance id="d000.s001.t001" lemma="ফর" pos="NOUN">ফর</instance>
+			<instance id="d000.s001.t002" lemma="মেডিসিনাল" pos="NOUN">মেডিসিনাল</instance>
+			<instance id="d000.s001.t003" lemma="প্রোডাক্টস" pos="NOUN">প্রোডাক্টস</instance>
+			<instance id="d000.s001.t004" lemma="ফর" pos="NOUN">ফর</instance>
+			<instance id="d000.s001.t005" lemma="হিউম্যান" pos="NOUN">হিউম্যান</instance>
+			<instance id="d000.s001.t006" lemma="ইউজ" pos="NOUN">ইউজ</instance>
+			<instance id="d000.s001.t007" lemma="(" pos="X">(</instance>
+			<instance id="d000.s001.t008" lemma="সিএইচএমপি" pos="NOUN">সিএইচএমপি</instance>
+			<instance id="d000.s001.t009" lemma=")" pos="X">)</instance>
+			<instance id="d000.s001.t010" lemma="গবেষণা" pos="NOUN">গবেষণা</instance>
+			<instance id="d000.s001.t011" lemma="মূল্যায়ন" pos="VERB">মূল্যায়ন</instance>
+			<instance id="d000.s001.t012" lemma="করে" pos="VERB">করে</instance>
+			<instance id="d000.s001.t013" lemma="কিভাবে" pos="ADV">কিভাবে</instance>
+			<instance id="d000.s001.t014" lemma="ঔষধ" pos="NOUN">ঔষধ</instance>
+			<instance id="d000.s001.t015" lemma="ব্যবহার" pos="VERB">ব্যবহার</instance>
+			<instance id="d000.s001.t016" lemma="করতে" pos="VERB">করতে</instance>
+			<instance id="d000.s001.t017" lemma="হয়" pos="NOUN">হয়</instance>
+			<instance id="d000.s001.t018" lemma="সে" pos="X">সে</instance>
+			<instance id="d000.s001.t019" lemma="সম্পর্কে" pos="NOUN">সম্পর্কে</instance>
+			<instance id="d000.s001.t020" lemma="তাদের" pos="X">তাদের</instance>
+			<instance id="d000.s001.t021" lemma="সুপারিশে" pos="NOUN">সুপারিশে</instance>
+			<instance id="d000.s001.t022" lemma="পৌঁছানোর" pos="VERB">পৌঁছানোর</instance>
+			<instance id="d000.s001.t023" lemma="জন্য" pos="X">জন্য</instance>
+			<instance id="d000.s001.t024" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d000.s002" source="semeval2015-en">
+			<instance id="d000.s002.t000" lemma="আপনার" pos="X">আপনার</instance>
+			<instance id="d000.s002.t001" lemma="চিকিৎসা" pos="X">চিকিৎসা</instance>
+			<instance id="d000.s002.t002" lemma="সংক্রান্ত" pos="X">সংক্রান্ত</instance>
+			<instance id="d000.s002.t003" lemma="অবস্থা" pos="NOUN">অবস্থা</instance>
+			<instance id="d000.s002.t004" lemma="অথবা" pos="X">অথবা</instance>
+			<instance id="d000.s002.t005" lemma="আপনার" pos="X">আপনার</instance>
+			<instance id="d000.s002.t006" lemma="চিকিৎসার" pos="NOUN">চিকিৎসার</instance>
+			<instance id="d000.s002.t007" lemma="বিষয়ে" pos="NOUN">বিষয়ে</instance>
+			<instance id="d000.s002.t008" lemma="যদি" pos="X">যদি</instance>
+			<instance id="d000.s002.t009" lemma="আরও" pos="ADJ">আরও</instance>
+			<instance id="d000.s002.t010" lemma="তথ্যের" pos="NOUN">তথ্যের</instance>
+			<instance id="d000.s002.t011" lemma="প্রয়োজন" pos="VERB">প্রয়োজন</instance>
+			<instance id="d000.s002.t012" lemma="হয়" pos="X">হয়</instance>
+			<instance id="d000.s002.t013" lemma="," pos="X">,</instance>
+			<instance id="d000.s002.t014" lemma="তা" pos="X">তা</instance>
+			<instance id="d000.s002.t015" lemma="হলে" pos="VERB">হলে</instance>
+			<instance id="d000.s002.t016" lemma="প্যাকেজ" pos="NOUN">প্যাকেজ</instance>
+			<instance id="d000.s002.t017" lemma="লিফলেট" pos="NOUN">লিফলেট</instance>
+			<instance id="d000.s002.t018" lemma="(" pos="X">(</instance>
+			<instance id="d000.s002.t019" lemma="ইপিএআর-এর" pos="NOUN">ইপিএআর-এর</instance>
+			<instance id="d000.s002.t020" lemma="অংশ" pos="NOUN">অংশ</instance>
+			<instance id="d000.s002.t021" lemma=")" pos="X">)</instance>
+			<instance id="d000.s002.t022" lemma="অথবা" pos="X">অথবা</instance>
+			<instance id="d000.s002.t023" lemma="আপনার" pos="X">আপনার</instance>
+			<instance id="d000.s002.t024" lemma="ডাক্তার" pos="NOUN">ডাক্তার</instance>
+			<instance id="d000.s002.t025" lemma="বা" pos="X">বা</instance>
+			<instance id="d000.s002.t026" lemma="ফার্মাসিস্টের" pos="NOUN">ফার্মাসিস্টের</instance>
+			<instance id="d000.s002.t027" lemma="সঙ্গে" pos="X">সঙ্গে</instance>
+			<instance id="d000.s002.t028" lemma="যোগাযোগ" pos="VERB">যোগাযোগ</instance>
+			<instance id="d000.s002.t029" lemma="করুন" pos="VERB">করুন</instance>
+			<instance id="d000.s002.t030" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d000.s003" source="semeval2015-en">
+			<instance id="d000.s003.t000" lemma="যদি" pos="X">যদি</instance>
+			<instance id="d000.s003.t001" lemma="আপনি" pos="X">আপনি</instance>
+			<instance id="d000.s003.t002" lemma="সিএইচএমপির" pos="NOUN">সিএইচএমপির</instance>
+			<instance id="d000.s003.t003" lemma="সুপারিশের" pos="NOUN">সুপারিশের</instance>
+			<instance id="d000.s003.t004" lemma="ভিত্তিতে" pos="NOUN">ভিত্তিতে</instance>
+			<instance id="d000.s003.t005" lemma="আরো" pos="ADJ">আরো</instance>
+			<instance id="d000.s003.t006" lemma="তথ্য" pos="NOUN">তথ্য</instance>
+			<instance id="d000.s003.t007" lemma="চান" pos="VERB">চান</instance>
+			<instance id="d000.s003.t008" lemma="," pos="X">,</instance>
+			<instance id="d000.s003.t009" lemma="তাহলে" pos="X">তাহলে</instance>
+			<instance id="d000.s003.t010" lemma="বৈজ্ঞানিক" pos="ADJ">বৈজ্ঞানিক</instance>
+			<instance id="d000.s003.t011" lemma="আলোচনা" pos="NOUN">আলোচনা</instance>
+			<instance id="d000.s003.t012" lemma="(" pos="X">(</instance>
+			<instance id="d000.s003.t013" lemma="ইপারেরও" pos="ADV">ইপারেরও</instance>
+			<instance id="d000.s003.t014" lemma="অংশ" pos="NOUN">অংশ</instance>
+			<instance id="d000.s003.t015" lemma=")" pos="X">)</instance>
+			<instance id="d000.s003.t016" lemma="পড়ুন" pos="VERB">পড়ুন</instance>
+			<instance id="d000.s003.t017" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d000.s004" source="semeval2015-en">
+			<instance id="d000.s004.t000" lemma="আলিমতা" pos="NOUN">আলিমতা</instance>
+			<instance id="d000.s004.t001" lemma="কি" pos="X">কি</instance>
+			<instance id="d000.s004.t002" lemma="?" pos="X">?</instance>
+		</sentence>
+		<sentence id="d000.s005" source="semeval2015-en">
+			<instance id="d000.s005.t000" lemma="আলিমতা" pos="NOUN">আলিমতা</instance>
+			<instance id="d000.s005.t001" lemma="হচ্ছে" pos="VERB">হচ্ছে</instance>
+			<instance id="d000.s005.t002" lemma="এমন" pos="X">এমন</instance>
+			<instance id="d000.s005.t003" lemma="এক" pos="ADJ">এক</instance>
+			<instance id="d000.s005.t004" lemma="পাউডার" pos="NOUN">পাউডার</instance>
+			<instance id="d000.s005.t005" lemma="," pos="X">,</instance>
+			<instance id="d000.s005.t006" lemma="যা" pos="X">যা</instance>
+			<instance id="d000.s005.t007" lemma="ইনফিউশনের" pos="NOUN">ইনফিউশনের</instance>
+			<instance id="d000.s005.t008" lemma="(" pos="X">(</instance>
+			<instance id="d000.s005.t009" lemma="শিরায়" pos="NOUN">শিরায়</instance>
+			<instance id="d000.s005.t010" lemma="ডুবিয়ে" pos="VERB">ডুবিয়ে</instance>
+			<instance id="d000.s005.t011" lemma=")" pos="X">)</instance>
+			<instance id="d000.s005.t012" lemma="জন্য" pos="X">জন্য</instance>
+			<instance id="d000.s005.t013" lemma="এক" pos="ADJ">এক</instance>
+			<instance id="d000.s005.t014" lemma="দ্রবণে" pos="NOUN">দ্রবণে</instance>
+			<instance id="d000.s005.t015" lemma="তৈরি" pos="VERB">তৈরি</instance>
+			<instance id="d000.s005.t016" lemma="করা" pos="X">করা</instance>
+			<instance id="d000.s005.t017" lemma="হয়" pos="X">হয়</instance>
+			<instance id="d000.s005.t018" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d000.s006" source="semeval2015-en">
+			<instance id="d000.s006.t000" lemma="এতে" pos="X">এতে</instance>
+			<instance id="d000.s006.t001" lemma="রয়েছে" pos="VERB">রয়েছে</instance>
+			<instance id="d000.s006.t002" lemma="সক্রিয়" pos="NOUN">সক্রিয়</instance>
+			<instance id="d000.s006.t003" lemma="পদার্থ" pos="NOUN">পদার্থ</instance>
+			<instance id="d000.s006.t004" lemma="পেমিরেক্সড" pos="NOUN">পেমিরেক্সড</instance>
+			<instance id="d000.s006.t005" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d000.s007" source="semeval2015-en">
+			<instance id="d000.s007.t000" lemma="আলিম্তা" pos="NOUN">আলিম্তা</instance>
+			<instance id="d000.s007.t001" lemma="কিসের" pos="NOUN">কিসের</instance>
+			<instance id="d000.s007.t002" lemma="জন্য" pos="X">জন্য</instance>
+			<instance id="d000.s007.t003" lemma="ব্যবহৃত" pos="VERB">ব্যবহৃত</instance>
+			<instance id="d000.s007.t004" lemma="হয়" pos="X">হয়</instance>
+			<instance id="d000.s007.t005" lemma="?" pos="X">?</instance>
+		</sentence>
+		<sentence id="d000.s008" source="semeval2015-en">
+			<instance id="d000.s008.t000" lemma="আলিমটা" pos="NOUN">আলিমটা</instance>
+			<instance id="d000.s008.t001" lemma="দুই" pos="ADJ">দুই</instance>
+			<instance id="d000.s008.t002" lemma="ধরনের" pos="NOUN">ধরনের</instance>
+			<instance id="d000.s008.t003" lemma="ক্যান্সারের" pos="NOUN">ক্যান্সারের</instance>
+			<instance id="d000.s008.t004" lemma="চিকিৎসায়" pos="NOUN">চিকিৎসায়</instance>
+			<instance id="d000.s008.t005" lemma="ব্যবহৃত" pos="ADJ">ব্যবহৃত</instance>
+			<instance id="d000.s008.t006" lemma="হয়" pos="X">হয়</instance>
+			<instance id="d000.s008.t007" lemma=":" pos="X">:</instance>
+			<instance id="d000.s008.t008" lemma="প্লুরাল" pos="ADJ">প্লুরাল</instance>
+			<instance id="d000.s008.t009" lemma="মেসোথেলিওমা" pos="NOUN">মেসোথেলিওমা</instance>
+			<instance id="d000.s008.t010" lemma="(" pos="X">(</instance>
+			<instance id="d000.s008.t011" lemma="অ্যাসবেস্টোসের" pos="NOUN">অ্যাসবেস্টোসের</instance>
+			<instance id="d000.s008.t012" lemma="সংস্পর্শে" pos="NOUN">সংস্পর্শে</instance>
+			<instance id="d000.s008.t013" lemma="আসার" pos="X">আসার</instance>
+			<instance id="d000.s008.t014" lemma="কারণে" pos="VERB">কারণে</instance>
+			<instance id="d000.s008.t015" lemma="সাধারণত" pos="ADV">সাধারণত</instance>
+			<instance id="d000.s008.t016" lemma="ফুসফুসের" pos="NOUN">ফুসফুসের</instance>
+			<instance id="d000.s008.t017" lemma="আস্তরণের" pos="NOUN">আস্তরণের</instance>
+			<instance id="d000.s008.t018" lemma="ক্যান্সার" pos="NOUN">ক্যান্সার</instance>
+			<instance id="d000.s008.t019" lemma=")" pos="X">)</instance>
+			<instance id="d000.s008.t020" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d000.s009" source="semeval2015-en">
+			<instance id="d000.s009.t000" lemma="অ্যালিমটা" pos="NOUN">অ্যালিমটা</instance>
+			<instance id="d000.s009.t001" lemma="সিসপ্লাটিন" pos="NOUN">সিসপ্লাটিন</instance>
+			<instance id="d000.s009.t002" lemma="(" pos="X">(</instance>
+			<instance id="d000.s009.t003" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d000.s009.t004" lemma="ক্যান্সার" pos="ADJ">ক্যান্সার</instance>
+			<instance id="d000.s009.t005" lemma="প্রতিরোধী" pos="ADJ">প্রতিরোধী</instance>
+			<instance id="d000.s009.t006" lemma="ঔষধ" pos="NOUN">ঔষধ</instance>
+			<instance id="d000.s009.t007" lemma=")" pos="X">)</instance>
+			<instance id="d000.s009.t008" lemma="এর" pos="X">এর</instance>
+			<instance id="d000.s009.t009" lemma="সাথে" pos="NOUN">সাথে</instance>
+			<instance id="d000.s009.t010" lemma="একত্রে" pos="ADV">একত্রে</instance>
+			<instance id="d000.s009.t011" lemma="ব্যবহার" pos="VERB">ব্যবহার</instance>
+			<instance id="d000.s009.t012" lemma="করা" pos="NOUN">করা</instance>
+			<instance id="d000.s009.t013" lemma="হয়" pos="X">হয়</instance>
+			<instance id="d000.s009.t014" lemma="যখন" pos="ADV">যখন</instance>
+			<instance id="d000.s009.t015" lemma="ক্যান্সারটি" pos="NOUN">ক্যান্সারটি</instance>
+			<instance id="d000.s009.t016" lemma="অসংশোধনযোগ্য" pos="ADJ">অসংশোধনযোগ্য</instance>
+			<instance id="d000.s009.t017" lemma="(" pos="X">(</instance>
+			<instance id="d000.s009.t018" lemma="শুধুমাত্র" pos="ADJ">শুধুমাত্র</instance>
+			<instance id="d000.s009.t019" lemma="অস্ত্রোপচারের" pos="NOUN">অস্ত্রোপচারের</instance>
+			<instance id="d000.s009.t020" lemma="মাধ্যমে" pos="NOUN">মাধ্যমে</instance>
+			<instance id="d000.s009.t021" lemma="অপসারণ" pos="VERB">অপসারণ</instance>
+			<instance id="d000.s009.t022" lemma="করা" pos="NOUN">করা</instance>
+			<instance id="d000.s009.t023" lemma="যাবে" pos="VERB">যাবে</instance>
+			<instance id="d000.s009.t024" lemma="না" pos="X">না</instance>
+			<instance id="d000.s009.t025" lemma=")" pos="X">)</instance>
+			<instance id="d000.s009.t026" lemma="এবং" pos="X">এবং</instance>
+			<instance id="d000.s009.t027" lemma="ম্যালিগন্যান্ট" pos="ADJ">ম্যালিগন্যান্ট</instance>
+			<instance id="d000.s009.t028" lemma="(" pos="X">(</instance>
+			<instance id="d000.s009.t029" lemma="শরীরের" pos="NOUN">শরীরের</instance>
+			<instance id="d000.s009.t030" lemma="অন্যান্য" pos="ADJ">অন্যান্য</instance>
+			<instance id="d000.s009.t031" lemma="অংশে" pos="NOUN">অংশে</instance>
+			<instance id="d000.s009.t032" lemma="ছড়িয়ে" pos="VERB">ছড়িয়ে</instance>
+			<instance id="d000.s009.t033" lemma="পড়েছে" pos="VERB">পড়েছে</instance>
+			<instance id="d000.s009.t034" lemma="বা" pos="X">বা</instance>
+			<instance id="d000.s009.t035" lemma="খুব" pos="X">খুব</instance>
+			<instance id="d000.s009.t036" lemma="সহজেই" pos="ADV">সহজেই</instance>
+			<instance id="d000.s009.t037" lemma="ছড়িয়ে" pos="X">ছড়িয়ে</instance>
+			<instance id="d000.s009.t038" lemma="পড়েছে" pos="X">পড়েছে</instance>
+			<instance id="d000.s009.t039" lemma=")" pos="X">)</instance>
+			<instance id="d000.s009.t040" lemma="।" pos="NOUN">।</instance>
+		</sentence>
+		<sentence id="d000.s010" source="semeval2015-en">
+			<instance id="d000.s010.t000" lemma="পূর্বে" pos="NOUN">পূর্বে</instance>
+			<instance id="d000.s010.t001" lemma="চিকিত্সা" pos="X">চিকিত্সা</instance>
+			<instance id="d000.s010.t002" lemma="করা" pos="X">করা</instance>
+			<instance id="d000.s010.t003" lemma="হয়নি" pos="ADV">হয়নি</instance>
+			<instance id="d000.s010.t004" lemma="এমন" pos="X">এমন</instance>
+			<instance id="d000.s010.t005" lemma="রোগীদের" pos="NOUN">রোগীদের</instance>
+			<instance id="d000.s010.t006" lemma="মধ্যে" pos="NOUN">মধ্যে</instance>
+			<instance id="d000.s010.t007" lemma="সিস্প্লাটিনের" pos="NOUN">সিস্প্লাটিনের</instance>
+			<instance id="d000.s010.t008" lemma="সাথে" pos="NOUN">সাথে</instance>
+			<instance id="d000.s010.t009" lemma="আলিমতা" pos="NOUN">আলিমতা</instance>
+			<instance id="d000.s010.t010" lemma="ব্যবহার" pos="VERB">ব্যবহার</instance>
+			<instance id="d000.s010.t011" lemma="করা" pos="NOUN">করা</instance>
+			<instance id="d000.s010.t012" lemma="হয়" pos="X">হয়</instance>
+			<instance id="d000.s010.t013" lemma="এবং" pos="X">এবং</instance>
+			<instance id="d000.s010.t014" lemma="অতীতে" pos="NOUN">অতীতে</instance>
+			<instance id="d000.s010.t015" lemma="অন্য" pos="ADJ">অন্য</instance>
+			<instance id="d000.s010.t016" lemma="ধরনের" pos="NOUN">ধরনের</instance>
+			<instance id="d000.s010.t017" lemma="কেমোথেরাপি" pos="NOUN">কেমোথেরাপি</instance>
+			<instance id="d000.s010.t018" lemma="পেয়েছে" pos="VERB">পেয়েছে</instance>
+			<instance id="d000.s010.t019" lemma="এমন" pos="ADJ">এমন</instance>
+			<instance id="d000.s010.t020" lemma="রোগীদের" pos="X">রোগীদের</instance>
+			<instance id="d000.s010.t021" lemma="মধ্যে" pos="NOUN">মধ্যে</instance>
+			<instance id="d000.s010.t022" lemma="এটি" pos="X">এটি</instance>
+			<instance id="d000.s010.t023" lemma="নিজেই" pos="X">নিজেই</instance>
+			<instance id="d000.s010.t024" lemma="ব্যবহার" pos="X">ব্যবহার</instance>
+			<instance id="d000.s010.t025" lemma="করা" pos="NOUN">করা</instance>
+			<instance id="d000.s010.t026" lemma="হয়" pos="X">হয়</instance>
+			<instance id="d000.s010.t027" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d000.s011" source="semeval2015-en">
+			<instance id="d000.s011.t000" lemma="ওষুধটি" pos="X">ওষুধটি</instance>
+			<instance id="d000.s011.t001" lemma="শুধুমাত্র" pos="ADV">শুধুমাত্র</instance>
+			<instance id="d000.s011.t002" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d000.s011.t003" lemma="প্রেসক্রিপশন" pos="NOUN">প্রেসক্রিপশন</instance>
+			<instance id="d000.s011.t004" lemma="দিয়েই" pos="X">দিয়েই</instance>
+			<instance id="d000.s011.t005" lemma="পাওয়া" pos="VERB">পাওয়া</instance>
+			<instance id="d000.s011.t006" lemma="যায়" pos="X">যায়</instance>
+			<instance id="d000.s011.t007" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d000.s012" source="semeval2015-en">
+			<instance id="d000.s012.t000" lemma="কীভাবে" pos="ADV">কীভাবে</instance>
+			<instance id="d000.s012.t001" lemma="আলিমতা" pos="NOUN">আলিমতা</instance>
+			<instance id="d000.s012.t002" lemma="ব্যবহার" pos="VERB">ব্যবহার</instance>
+			<instance id="d000.s012.t003" lemma="করা" pos="X">করা</instance>
+			<instance id="d000.s012.t004" lemma="হয়" pos="X">হয়</instance>
+			<instance id="d000.s012.t005" lemma="?" pos="X">?</instance>
+		</sentence>
+		<sentence id="d000.s013" source="semeval2015-en">
+			<instance id="d000.s013.t000" lemma="অ্যান্টিক্যানসার" pos="ADJ">অ্যান্টিক্যানসার</instance>
+			<instance id="d000.s013.t001" lemma="কেমোথেরাপি" pos="NOUN">কেমোথেরাপি</instance>
+			<instance id="d000.s013.t002" lemma="ব্যবহারে" pos="NOUN">ব্যবহারে</instance>
+			<instance id="d000.s013.t003" lemma="যোগ্যতাসম্পন্ন" pos="ADJ">যোগ্যতাসম্পন্ন</instance>
+			<instance id="d000.s013.t004" lemma="একজন" pos="ADJ">একজন</instance>
+			<instance id="d000.s013.t005" lemma="ডাক্তারের" pos="NOUN">ডাক্তারের</instance>
+			<instance id="d000.s013.t006" lemma="তত্ত্বাবধানে" pos="ADV">তত্ত্বাবধানে</instance>
+			<instance id="d000.s013.t007" lemma="আলিমতা" pos="NOUN">আলিমতা</instance>
+			<instance id="d000.s013.t008" lemma="দেওয়া" pos="VERB">দেওয়া</instance>
+			<instance id="d000.s013.t009" lemma="উচিত" pos="ADJ">উচিত</instance>
+			<instance id="d000.s013.t010" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d000.s014" source="semeval2015-en">
+			<instance id="d000.s014.t000" lemma="আলিমতার" pos="NOUN">আলিমতার</instance>
+			<instance id="d000.s014.t001" lemma="সুপারিশকৃত" pos="ADJ">সুপারিশকৃত</instance>
+			<instance id="d000.s014.t002" lemma="ডোজ" pos="NOUN">ডোজ</instance>
+			<instance id="d000.s014.t003" lemma="প্রতি" pos="ADJ">প্রতি</instance>
+			<instance id="d000.s014.t004" lemma="বর্গ" pos="NOUN">বর্গ</instance>
+			<instance id="d000.s014.t005" lemma="মিটারে" pos="NOUN">মিটারে</instance>
+			<instance id="d000.s014.t006" lemma="500" pos="X">500</instance>
+			<instance id="d000.s014.t007" lemma="মিলিগ্রাম" pos="NOUN">মিলিগ্রাম</instance>
+			<instance id="d000.s014.t008" lemma="(" pos="X">(</instance>
+			<instance id="d000.s014.t009" lemma="রোগীর" pos="NOUN">রোগীর</instance>
+			<instance id="d000.s014.t010" lemma="উচ্চতা" pos="NOUN">উচ্চতা</instance>
+			<instance id="d000.s014.t011" lemma="ও" pos="X">ও</instance>
+			<instance id="d000.s014.t012" lemma="ওজন" pos="NOUN">ওজন</instance>
+			<instance id="d000.s014.t013" lemma="ব্যবহার" pos="VERB">ব্যবহার</instance>
+			<instance id="d000.s014.t014" lemma="করে" pos="X">করে</instance>
+			<instance id="d000.s014.t015" lemma="গণনা" pos="VERB">গণনা</instance>
+			<instance id="d000.s014.t016" lemma="করা" pos="VERB">করা</instance>
+			<instance id="d000.s014.t017" lemma="হয়" pos="X">হয়</instance>
+			<instance id="d000.s014.t018" lemma=")" pos="X">)</instance>
+			<instance id="d000.s014.t019" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d000.s015" source="semeval2015-en">
+			<instance id="d000.s015.t000" lemma="এটা" pos="X">এটা</instance>
+			<instance id="d000.s015.t001" lemma="প্রতি" pos="ADJ">প্রতি</instance>
+			<instance id="d000.s015.t002" lemma="তিন" pos="ADJ">তিন</instance>
+			<instance id="d000.s015.t003" lemma="সপ্তাহে" pos="NOUN">সপ্তাহে</instance>
+			<instance id="d000.s015.t004" lemma="একবার" pos="ADV">একবার</instance>
+			<instance id="d000.s015.t005" lemma="করে" pos="VERB">করে</instance>
+			<instance id="d000.s015.t006" lemma="দেওয়া" pos="VERB">দেওয়া</instance>
+			<instance id="d000.s015.t007" lemma="হয়" pos="X">হয়</instance>
+			<instance id="d000.s015.t008" lemma="," pos="X">,</instance>
+			<instance id="d000.s015.t009" lemma="যা" pos="X">যা</instance>
+			<instance id="d000.s015.t010" lemma="10" pos="X">10</instance>
+			<instance id="d000.s015.t011" lemma="মিনিট" pos="NOUN">মিনিট</instance>
+			<instance id="d000.s015.t012" lemma="ধরে" pos="VERB">ধরে</instance>
+			<instance id="d000.s015.t013" lemma="শরীরে" pos="NOUN">শরীরে</instance>
+			<instance id="d000.s015.t014" lemma="প্রবেশ" pos="VERB">প্রবেশ</instance>
+			<instance id="d000.s015.t015" lemma="করে" pos="X">করে</instance>
+			<instance id="d000.s015.t016" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d000.s016" source="semeval2015-en">
+			<instance id="d000.s016.t000" lemma="পার্শ্বপ্রতিক্রিয়া" pos="NOUN">পার্শ্বপ্রতিক্রিয়া</instance>
+			<instance id="d000.s016.t001" lemma="কমাতে" pos="X">কমাতে</instance>
+			<instance id="d000.s016.t002" lemma="রোগীদের" pos="NOUN">রোগীদের</instance>
+			<instance id="d000.s016.t003" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d000.s016.t004" lemma="কর্টিকোস্টেরয়েড" pos="NOUN">কর্টিকোস্টেরয়েড</instance>
+			<instance id="d000.s016.t005" lemma="এবং" pos="X">এবং</instance>
+			<instance id="d000.s016.t006" lemma="ফলিক" pos="ADJ">ফলিক</instance>
+			<instance id="d000.s016.t007" lemma="এসিড" pos="NOUN">এসিড</instance>
+			<instance id="d000.s016.t008" lemma="(" pos="X">(</instance>
+			<instance id="d000.s016.t009" lemma="এক" pos="ADJ">এক</instance>
+			<instance id="d000.s016.t010" lemma="ধরণের" pos="NOUN">ধরণের</instance>
+			<instance id="d000.s016.t011" lemma="ভিটামিন" pos="NOUN">ভিটামিন</instance>
+			<instance id="d000.s016.t012" lemma=")" pos="X">)</instance>
+			<instance id="d000.s016.t013" lemma="গ্রহণ" pos="NOUN">গ্রহণ</instance>
+			<instance id="d000.s016.t014" lemma="করতে" pos="VERB">করতে</instance>
+			<instance id="d000.s016.t015" lemma="হবে" pos="VERB">হবে</instance>
+			<instance id="d000.s016.t016" lemma="এবং" pos="X">এবং</instance>
+			<instance id="d000.s016.t017" lemma="চিকিৎসাকালে" pos="NOUN">চিকিৎসাকালে</instance>
+			<instance id="d000.s016.t018" lemma="ভিটামিন" pos="X">ভিটামিন</instance>
+			<instance id="d000.s016.t019" lemma="বি১২" pos="NOUN">বি১২</instance>
+			<instance id="d000.s016.t020" lemma="ইনজেকশন" pos="NOUN">ইনজেকশন</instance>
+			<instance id="d000.s016.t021" lemma="নিতে" pos="VERB">নিতে</instance>
+			<instance id="d000.s016.t022" lemma="হবে" pos="VERB">হবে</instance>
+			<instance id="d000.s016.t023" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d000.s017" source="semeval2015-en">
+			<instance id="d000.s017.t000" lemma="সিস্প্লাটিনের" pos="NOUN">সিস্প্লাটিনের</instance>
+			<instance id="d000.s017.t001" lemma="সাথে" pos="NOUN">সাথে</instance>
+			<instance id="d000.s017.t002" lemma="আলিমতা" pos="NOUN">আলিমতা</instance>
+			<instance id="d000.s017.t003" lemma="দেওয়া" pos="VERB">দেওয়া</instance>
+			<instance id="d000.s017.t004" lemma="হলে" pos="X">হলে</instance>
+			<instance id="d000.s017.t005" lemma="," pos="X">,</instance>
+			<instance id="d000.s017.t006" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d000.s017.t007" lemma="এন্টি-ইমেটিক" pos="NOUN">এন্টি-ইমেটিক</instance>
+			<instance id="d000.s017.t008" lemma="ওষুধ" pos="NOUN">ওষুধ</instance>
+			<instance id="d000.s017.t009" lemma="(" pos="X">(</instance>
+			<instance id="d000.s017.t010" lemma="বমি" pos="VERB">বমি</instance>
+			<instance id="d000.s017.t011" lemma="প্রতিরোধ" pos="VERB">প্রতিরোধ</instance>
+			<instance id="d000.s017.t012" lemma="করার" pos="VERB">করার</instance>
+			<instance id="d000.s017.t013" lemma="জন্য" pos="X">জন্য</instance>
+			<instance id="d000.s017.t014" lemma=")" pos="X">)</instance>
+			<instance id="d000.s017.t015" lemma="এবং" pos="X">এবং</instance>
+			<instance id="d000.s017.t016" lemma="তরল" pos="NOUN">তরল</instance>
+			<instance id="d000.s017.t017" lemma="(" pos="X">(</instance>
+			<instance id="d000.s017.t018" lemma="ডিহাইড্রেশন" pos="NOUN">ডিহাইড্রেশন</instance>
+			<instance id="d000.s017.t019" lemma="প্রতিরোধ" pos="X">প্রতিরোধ</instance>
+			<instance id="d000.s017.t020" lemma="করার" pos="X">করার</instance>
+			<instance id="d000.s017.t021" lemma="জন্য" pos="ADV">জন্য</instance>
+			<instance id="d000.s017.t022" lemma=")" pos="X">)</instance>
+			<instance id="d000.s017.t023" lemma="সিস্প্লাটিন" pos="NOUN">সিস্প্লাটিন</instance>
+			<instance id="d000.s017.t024" lemma="ডোজের" pos="NOUN">ডোজের</instance>
+			<instance id="d000.s017.t025" lemma="আগে" pos="ADV">আগে</instance>
+			<instance id="d000.s017.t026" lemma="বা" pos="X">বা</instance>
+			<instance id="d000.s017.t027" lemma="পরে" pos="ADV">পরে</instance>
+			<instance id="d000.s017.t028" lemma="দেওয়া" pos="X">দেওয়া</instance>
+			<instance id="d000.s017.t029" lemma="উচিত" pos="ADJ">উচিত</instance>
+			<instance id="d000.s017.t030" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d000.s018" source="semeval2015-en">
+			<instance id="d000.s018.t000" lemma="যে-রোগীদের" pos="X">যে-রোগীদের</instance>
+			<instance id="d000.s018.t001" lemma="রক্ত" pos="NOUN">রক্ত</instance>
+			<instance id="d000.s018.t002" lemma="গণনা" pos="NOUN">গণনা</instance>
+			<instance id="d000.s018.t003" lemma="অস্বাভাবিক" pos="ADJ">অস্বাভাবিক</instance>
+			<instance id="d000.s018.t004" lemma="অথবা" pos="X">অথবা</instance>
+			<instance id="d000.s018.t005" lemma="যাদের" pos="X">যাদের</instance>
+			<instance id="d000.s018.t006" lemma="অন্য" pos="ADJ">অন্য</instance>
+			<instance id="d000.s018.t007" lemma="কোনো" pos="ADJ">কোনো</instance>
+			<instance id="d000.s018.t008" lemma="পার্শ্বপ্রতিক্রিয়া" pos="NOUN">পার্শ্বপ্রতিক্রিয়া</instance>
+			<instance id="d000.s018.t009" lemma="রয়েছে" pos="VERB">রয়েছে</instance>
+			<instance id="d000.s018.t010" lemma="," pos="X">,</instance>
+			<instance id="d000.s018.t011" lemma="তাদের" pos="X">তাদের</instance>
+			<instance id="d000.s018.t012" lemma="চিকিৎসা" pos="NOUN">চিকিৎসা</instance>
+			<instance id="d000.s018.t013" lemma="বিলম্বিত" pos="VERB">বিলম্বিত</instance>
+			<instance id="d000.s018.t014" lemma="অথবা" pos="X">অথবা</instance>
+			<instance id="d000.s018.t015" lemma="বন্ধ" pos="VERB">বন্ধ</instance>
+			<instance id="d000.s018.t016" lemma="করা" pos="NOUN">করা</instance>
+			<instance id="d000.s018.t017" lemma="উচিত" pos="X">উচিত</instance>
+			<instance id="d000.s018.t018" lemma="অথবা" pos="X">অথবা</instance>
+			<instance id="d000.s018.t019" lemma="মাত্রা" pos="NOUN">মাত্রা</instance>
+			<instance id="d000.s018.t020" lemma="হ্রাস" pos="VERB">হ্রাস</instance>
+			<instance id="d000.s018.t021" lemma="করা" pos="X">করা</instance>
+			<instance id="d000.s018.t022" lemma="উচিত" pos="ADJ">উচিত</instance>
+			<instance id="d000.s018.t023" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d000.s019" source="semeval2015-en">
+			<instance id="d000.s019.t000" lemma="মাঝারি" pos="ADJ">মাঝারি</instance>
+			<instance id="d000.s019.t001" lemma="বা" pos="X">বা</instance>
+			<instance id="d000.s019.t002" lemma="গুরুতর" pos="ADJ">গুরুতর</instance>
+			<instance id="d000.s019.t003" lemma="কিডনি" pos="NOUN">কিডনি</instance>
+			<instance id="d000.s019.t004" lemma="সমস্যা" pos="NOUN">সমস্যা</instance>
+			<instance id="d000.s019.t005" lemma="রয়েছে" pos="VERB">রয়েছে</instance>
+			<instance id="d000.s019.t006" lemma="এমন" pos="X">এমন</instance>
+			<instance id="d000.s019.t007" lemma="রোগীদের" pos="NOUN">রোগীদের</instance>
+			<instance id="d000.s019.t008" lemma="ক্ষেত্রে" pos="NOUN">ক্ষেত্রে</instance>
+			<instance id="d000.s019.t009" lemma="আলিমতা" pos="NOUN">আলিমতা</instance>
+			<instance id="d000.s019.t010" lemma="ব্যবহারের" pos="NOUN">ব্যবহারের</instance>
+			<instance id="d000.s019.t011" lemma="জন্য" pos="X">জন্য</instance>
+			<instance id="d000.s019.t012" lemma="সুপারিশ" pos="VERB">সুপারিশ</instance>
+			<instance id="d000.s019.t013" lemma="করা" pos="X">করা</instance>
+			<instance id="d000.s019.t014" lemma="হয়" pos="X">হয়</instance>
+			<instance id="d000.s019.t015" lemma="না" pos="ADV">না</instance>
+			<instance id="d000.s019.t016" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d000.s020" source="semeval2015-en">
+			<instance id="d000.s020.t000" lemma="আরও" pos="ADJ">আরও</instance>
+			<instance id="d000.s020.t001" lemma="তথ্যের" pos="NOUN">তথ্যের</instance>
+			<instance id="d000.s020.t002" lemma="জন্য" pos="X">জন্য</instance>
+			<instance id="d000.s020.t003" lemma="," pos="X">,</instance>
+			<instance id="d000.s020.t004" lemma="প্রোডাক্ট" pos="NOUN">প্রোডাক্ট</instance>
+			<instance id="d000.s020.t005" lemma="ক্যারেক্টারিস্টিকের" pos="NOUN">ক্যারেক্টারিস্টিকের</instance>
+			<instance id="d000.s020.t006" lemma="সারসংক্ষেপ" pos="NOUN">সারসংক্ষেপ</instance>
+			<instance id="d000.s020.t007" lemma="দেখুন" pos="VERB">দেখুন</instance>
+			<instance id="d000.s020.t008" lemma="(" pos="X">(</instance>
+			<instance id="d000.s020.t009" lemma="ইপারের" pos="NOUN">ইপারের</instance>
+			<instance id="d000.s020.t010" lemma="অংশও" pos="ADV">অংশও</instance>
+			<instance id="d000.s020.t011" lemma=")" pos="X">)</instance>
+			<instance id="d000.s020.t012" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d000.s021" source="semeval2015-en">
+			<instance id="d000.s021.t000" lemma="আলিমতা" pos="NOUN">আলিমতা</instance>
+			<instance id="d000.s021.t001" lemma="কিভাবে" pos="ADV">কিভাবে</instance>
+			<instance id="d000.s021.t002" lemma="কাজ" pos="NOUN">কাজ</instance>
+			<instance id="d000.s021.t003" lemma="করে" pos="VERB">করে</instance>
+			<instance id="d000.s021.t004" lemma="?" pos="X">?</instance>
+		</sentence>
+		<sentence id="d000.s022" source="semeval2015-en">
+			<instance id="d000.s022.t000" lemma="লিমটা" pos="NOUN">লিমটা</instance>
+			<instance id="d000.s022.t001" lemma="," pos="X">,</instance>
+			<instance id="d000.s022.t002" lemma="পেমিটারেক্সড" pos="NOUN">পেমিটারেক্সড</instance>
+			<instance id="d000.s022.t003" lemma="এর" pos="X">এর</instance>
+			<instance id="d000.s022.t004" lemma="সক্রিয়" pos="ADJ">সক্রিয়</instance>
+			<instance id="d000.s022.t005" lemma="পদার্থ" pos="NOUN">পদার্থ</instance>
+			<instance id="d000.s022.t006" lemma="হল" pos="VERB">হল</instance>
+			<instance id="d000.s022.t007" lemma="সাইটোক্সিক" pos="ADJ">সাইটোক্সিক</instance>
+			<instance id="d000.s022.t008" lemma="ঔষধ" pos="NOUN">ঔষধ</instance>
+			<instance id="d000.s022.t009" lemma="(" pos="X">(</instance>
+			<instance id="d000.s022.t010" lemma="যে" pos="X">যে</instance>
+			<instance id="d000.s022.t011" lemma="ওষুধগুলি" pos="X">ওষুধগুলি</instance>
+			<instance id="d000.s022.t012" lemma="কোষগুলিকে" pos="ADJ">কোষগুলিকে</instance>
+			<instance id="d000.s022.t013" lemma="বিভক্ত" pos="VERB">বিভক্ত</instance>
+			<instance id="d000.s022.t014" lemma="করে" pos="VERB">করে</instance>
+			<instance id="d000.s022.t015" lemma="," pos="NOUN">,</instance>
+			<instance id="d000.s022.t016" lemma="যেমন" pos="X">যেমন</instance>
+			<instance id="d000.s022.t017" lemma="ক্যান্সার" pos="NOUN">ক্যান্সার</instance>
+			<instance id="d000.s022.t018" lemma="কোষগুলিকে" pos="NOUN">কোষগুলিকে</instance>
+			<instance id="d000.s022.t019" lemma="হত্যা" pos="VERB">হত্যা</instance>
+			<instance id="d000.s022.t020" lemma="করে" pos="VERB">করে</instance>
+			<instance id="d000.s022.t021" lemma=")" pos="X">)</instance>
+			<instance id="d000.s022.t022" lemma="যা" pos="X">যা</instance>
+			<instance id="d000.s022.t023" lemma="এই" pos="X">এই</instance>
+			<instance id="d000.s022.t024" lemma="গ্রুপের" pos="NOUN">গ্রুপের</instance>
+			<instance id="d000.s022.t025" lemma="এন্টিমেটাবোলাইটের" pos="NOUN">এন্টিমেটাবোলাইটের</instance>
+			<instance id="d000.s022.t026" lemma="অন্তর্গত" pos="VERB">অন্তর্গত</instance>
+			<instance id="d000.s022.t027" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d000.s023" source="semeval2015-en">
+			<instance id="d000.s023.t000" lemma="শরীরে" pos="NOUN">শরীরে</instance>
+			<instance id="d000.s023.t001" lemma="," pos="X">,</instance>
+			<instance id="d000.s023.t002" lemma="পেমিটারএক্সেডকে" pos="NOUN">পেমিটারএক্সেডকে</instance>
+			<instance id="d000.s023.t003" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d000.s023.t004" lemma="সক্রিয়" pos="NOUN">সক্রিয়</instance>
+			<instance id="d000.s023.t005" lemma="আকারে" pos="NOUN">আকারে</instance>
+			<instance id="d000.s023.t006" lemma="রূপান্তরিত" pos="VERB">রূপান্তরিত</instance>
+			<instance id="d000.s023.t007" lemma="করা" pos="NOUN">করা</instance>
+			<instance id="d000.s023.t008" lemma="হয়" pos="X">হয়</instance>
+			<instance id="d000.s023.t009" lemma="যা" pos="X">যা</instance>
+			<instance id="d000.s023.t010" lemma="নিউক্লিওটাইড" pos="X">নিউক্লিওটাইড</instance>
+			<instance id="d000.s023.t011" lemma="(" pos="X">(</instance>
+			<instance id="d000.s023.t012" lemma="কোষের" pos="NOUN">কোষের</instance>
+			<instance id="d000.s023.t013" lemma="জেনেটিক" pos="ADJ">জেনেটিক</instance>
+			<instance id="d000.s023.t014" lemma="উপাদান" pos="NOUN">উপাদান</instance>
+			<instance id="d000.s023.t015" lemma="ডিএনএ" pos="NOUN">ডিএনএ</instance>
+			<instance id="d000.s023.t016" lemma="এবং" pos="X">এবং</instance>
+			<instance id="d000.s023.t017" lemma="আরএনএ" pos="NOUN">আরএনএ</instance>
+			<instance id="d000.s023.t018" lemma="গঠন" pos="NOUN">গঠন</instance>
+			<instance id="d000.s023.t019" lemma="ব্লক" pos="NOUN">ব্লক</instance>
+			<instance id="d000.s023.t020" lemma=")" pos="X">)</instance>
+			<instance id="d000.s023.t021" lemma="তৈরির" pos="VERB">তৈরির</instance>
+			<instance id="d000.s023.t022" lemma="সাথে" pos="NOUN">সাথে</instance>
+			<instance id="d000.s023.t023" lemma="জড়িত" pos="VERB">জড়িত</instance>
+			<instance id="d000.s023.t024" lemma="এনজাইমের" pos="NOUN">এনজাইমের</instance>
+			<instance id="d000.s023.t025" lemma="কার্যকলাপকে" pos="NOUN">কার্যকলাপকে</instance>
+			<instance id="d000.s023.t026" lemma="বাধা" pos="VERB">বাধা</instance>
+			<instance id="d000.s023.t027" lemma="দেয়" pos="VERB">দেয়</instance>
+			<instance id="d000.s023.t028" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d000.s024" source="semeval2015-en">
+			<instance id="d000.s024.t000" lemma="কীভাবে" pos="ADV">কীভাবে</instance>
+			<instance id="d000.s024.t001" lemma="আলিম্তা" pos="NOUN">আলিম্তা</instance>
+			<instance id="d000.s024.t002" lemma="অধ্যয়ন" pos="VERB">অধ্যয়ন</instance>
+			<instance id="d000.s024.t003" lemma="করা" pos="VERB">করা</instance>
+			<instance id="d000.s024.t004" lemma="হয়েছে" pos="VERB">হয়েছে</instance>
+			<instance id="d000.s024.t005" lemma="?" pos="X">?</instance>
+		</sentence>
+		<sentence id="d000.s025" source="semeval2015-en">
+			<instance id="d000.s025.t000" lemma="ম্যালিগন্যান্ট" pos="NOUN">ম্যালিগন্যান্ট</instance>
+			<instance id="d000.s025.t001" lemma="প্লুরাল" pos="ADJ">প্লুরাল</instance>
+			<instance id="d000.s025.t002" lemma="মেসোথেলিওমার" pos="NOUN">মেসোথেলিওমার</instance>
+			<instance id="d000.s025.t003" lemma="চিকিৎসার" pos="NOUN">চিকিৎসার</instance>
+			<instance id="d000.s025.t004" lemma="জন্য" pos="X">জন্য</instance>
+			<instance id="d000.s025.t005" lemma="," pos="NOUN">,</instance>
+			<instance id="d000.s025.t006" lemma="আলিমতা" pos="NOUN">আলিমতা</instance>
+			<instance id="d000.s025.t007" lemma="456" pos="X">456</instance>
+			<instance id="d000.s025.t008" lemma="জন" pos="NOUN">জন</instance>
+			<instance id="d000.s025.t009" lemma="রোগীর" pos="NOUN">রোগীর</instance>
+			<instance id="d000.s025.t010" lemma="মধ্যে" pos="NOUN">মধ্যে</instance>
+			<instance id="d000.s025.t011" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d000.s025.t012" lemma="প্রধান" pos="ADJ">প্রধান</instance>
+			<instance id="d000.s025.t013" lemma="গবেষণায়" pos="NOUN">গবেষণায়</instance>
+			<instance id="d000.s025.t014" lemma="গবেষণা" pos="VERB">গবেষণা</instance>
+			<instance id="d000.s025.t015" lemma="করেছেন" pos="VERB">করেছেন</instance>
+			<instance id="d000.s025.t016" lemma="যারা" pos="X">যারা</instance>
+			<instance id="d000.s025.t017" lemma="তাদের" pos="X">তাদের</instance>
+			<instance id="d000.s025.t018" lemma="রোগের" pos="NOUN">রোগের</instance>
+			<instance id="d000.s025.t019" lemma="জন্য" pos="X">জন্য</instance>
+			<instance id="d000.s025.t020" lemma="কেমোথেরাপি" pos="NOUN">কেমোথেরাপি</instance>
+			<instance id="d000.s025.t021" lemma="পাননি" pos="VERB">পাননি</instance>
+			<instance id="d000.s025.t022" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d000.s026" source="semeval2015-en">
+			<instance id="d000.s026.t000" lemma="সিসপ্লাতিনের" pos="NOUN">সিসপ্লাতিনের</instance>
+			<instance id="d000.s026.t001" lemma="সঙ্গে" pos="NOUN">সঙ্গে</instance>
+			<instance id="d000.s026.t002" lemma="আলিমতার" pos="NOUN">আলিমতার</instance>
+			<instance id="d000.s026.t003" lemma="প্রভাব" pos="NOUN">প্রভাব</instance>
+			<instance id="d000.s026.t004" lemma="শুধু" pos="ADV">শুধু</instance>
+			<instance id="d000.s026.t005" lemma="সিসপ্লাতিনের" pos="NOUN">সিসপ্লাতিনের</instance>
+			<instance id="d000.s026.t006" lemma="প্রভাবের" pos="NOUN">প্রভাবের</instance>
+			<instance id="d000.s026.t007" lemma="সঙ্গে" pos="X">সঙ্গে</instance>
+			<instance id="d000.s026.t008" lemma="তুলনীয়" pos="X">তুলনীয়</instance>
+			<instance id="d000.s026.t009" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d000.s027" source="semeval2015-en">
+			<instance id="d000.s027.t000" lemma="ফুসফুসের" pos="NOUN">ফুসফুসের</instance>
+			<instance id="d000.s027.t001" lemma="ক্যান্সারের" pos="NOUN">ক্যান্সারের</instance>
+			<instance id="d000.s027.t002" lemma="চিকিৎসার" pos="NOUN">চিকিৎসার</instance>
+			<instance id="d000.s027.t003" lemma="জন্য" pos="X">জন্য</instance>
+			<instance id="d000.s027.t004" lemma="," pos="X">,</instance>
+			<instance id="d000.s027.t005" lemma="আলিমতার" pos="NOUN">আলিমতার</instance>
+			<instance id="d000.s027.t006" lemma="প্রভাবকে" pos="NOUN">প্রভাবকে</instance>
+			<instance id="d000.s027.t007" lemma="একটি" pos="NOUN">একটি</instance>
+			<instance id="d000.s027.t008" lemma="গবেষণায়" pos="NOUN">গবেষণায়</instance>
+			<instance id="d000.s027.t009" lemma="ডোকেটাসেল" pos="NOUN">ডোকেটাসেল</instance>
+			<instance id="d000.s027.t010" lemma="(" pos="X">(</instance>
+			<instance id="d000.s027.t011" lemma="অন্য" pos="ADJ">অন্য</instance>
+			<instance id="d000.s027.t012" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d000.s027.t013" lemma="অ্যান্টিক্যানসার" pos="NOUN">অ্যান্টিক্যানসার</instance>
+			<instance id="d000.s027.t014" lemma="ঔষধ" pos="NOUN">ঔষধ</instance>
+			<instance id="d000.s027.t015" lemma=")" pos="X">)</instance>
+			<instance id="d000.s027.t016" lemma="এর" pos="X">এর</instance>
+			<instance id="d000.s027.t017" lemma="সাথে" pos="NOUN">সাথে</instance>
+			<instance id="d000.s027.t018" lemma="তুলনা" pos="VERB">তুলনা</instance>
+			<instance id="d000.s027.t019" lemma="করা" pos="NOUN">করা</instance>
+			<instance id="d000.s027.t020" lemma="হয়েছে" pos="VERB">হয়েছে</instance>
+			<instance id="d000.s027.t021" lemma="যার" pos="VERB">যার</instance>
+			<instance id="d000.s027.t022" lemma="মধ্যে" pos="ADV">মধ্যে</instance>
+			<instance id="d000.s027.t023" lemma="স্থানীয়" pos="ADV">স্থানীয়</instance>
+			<instance id="d000.s027.t024" lemma="উন্নত" pos="ADJ">উন্নত</instance>
+			<instance id="d000.s027.t025" lemma="বা" pos="X">বা</instance>
+			<instance id="d000.s027.t026" lemma="মেটাস্ট্যাটিক" pos="NOUN">মেটাস্ট্যাটিক</instance>
+			<instance id="d000.s027.t027" lemma="রোগের" pos="NOUN">রোগের</instance>
+			<instance id="d000.s027.t028" lemma="571" pos="X">571</instance>
+			<instance id="d000.s027.t029" lemma="জন" pos="VERB">জন</instance>
+			<instance id="d000.s027.t030" lemma="রোগী" pos="NOUN">রোগী</instance>
+			<instance id="d000.s027.t031" lemma="ছিল" pos="VERB">ছিল</instance>
+			<instance id="d000.s027.t032" lemma="যারা" pos="X">যারা</instance>
+			<instance id="d000.s027.t033" lemma="অতীতে" pos="NOUN">অতীতে</instance>
+			<instance id="d000.s027.t034" lemma="কেমোথেরাপি" pos="NOUN">কেমোথেরাপি</instance>
+			<instance id="d000.s027.t035" lemma="পেয়েছিলেন" pos="VERB">পেয়েছিলেন</instance>
+			<instance id="d000.s027.t036" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d000.s028" source="semeval2015-en">
+			<instance id="d000.s028.t000" lemma="আলিমতাকে" pos="NOUN">আলিমতাকে</instance>
+			<instance id="d000.s028.t001" lemma="তুলনা" pos="VERB">তুলনা</instance>
+			<instance id="d000.s028.t002" lemma="করা" pos="VERB">করা</instance>
+			<instance id="d000.s028.t003" lemma="হয়" pos="X">হয়</instance>
+			<instance id="d000.s028.t004" lemma="রত্নাসিটাবিন" pos="NOUN">রত্নাসিটাবিন</instance>
+			<instance id="d000.s028.t005" lemma="(" pos="X">(</instance>
+			<instance id="d000.s028.t006" lemma="আর" pos="X">আর</instance>
+			<instance id="d000.s028.t007" lemma="একটা" pos="ADJ">একটা</instance>
+			<instance id="d000.s028.t008" lemma="ক্যান্সার" pos="NOUN">ক্যান্সার</instance>
+			<instance id="d000.s028.t009" lemma="প্রতিরোধী" pos="ADJ">প্রতিরোধী</instance>
+			<instance id="d000.s028.t010" lemma="ঔষধ" pos="NOUN">ঔষধ</instance>
+			<instance id="d000.s028.t011" lemma=")" pos="X">)</instance>
+			<instance id="d000.s028.t012" lemma="এর" pos="X">এর</instance>
+			<instance id="d000.s028.t013" lemma="সাথে" pos="ADV">সাথে</instance>
+			<instance id="d000.s028.t014" lemma="," pos="NOUN">,</instance>
+			<instance id="d000.s028.t015" lemma="একই" pos="NOUN">একই</instance>
+			<instance id="d000.s028.t016" lemma="সাথে" pos="X">সাথে</instance>
+			<instance id="d000.s028.t017" lemma="সিস্প্লাটিন" pos="NOUN">সিস্প্লাটিন</instance>
+			<instance id="d000.s028.t018" lemma="এর" pos="X">এর</instance>
+			<instance id="d000.s028.t019" lemma="সাথে" pos="ADJ">সাথে</instance>
+			<instance id="d000.s028.t020" lemma="," pos="X">,</instance>
+			<instance id="d000.s028.t021" lemma="এক" pos="ADJ">এক</instance>
+			<instance id="d000.s028.t022" lemma="গবেষণায়" pos="NOUN">গবেষণায়</instance>
+			<instance id="d000.s028.t023" lemma="যার" pos="VERB">যার</instance>
+			<instance id="d000.s028.t024" lemma="সাথে" pos="NOUN">সাথে</instance>
+			<instance id="d000.s028.t025" lemma="১,৭২৫" pos="X">১,৭২৫</instance>
+			<instance id="d000.s028.t026" lemma="জন" pos="NOUN">জন</instance>
+			<instance id="d000.s028.t027" lemma="রোগী" pos="NOUN">রোগী</instance>
+			<instance id="d000.s028.t028" lemma="জড়িত" pos="VERB">জড়িত</instance>
+			<instance id="d000.s028.t029" lemma="ছিল" pos="NOUN">ছিল</instance>
+			<instance id="d000.s028.t030" lemma="যারা" pos="X">যারা</instance>
+			<instance id="d000.s028.t031" lemma="অতীতে" pos="NOUN">অতীতে</instance>
+			<instance id="d000.s028.t032" lemma="ফুসফুসের" pos="NOUN">ফুসফুসের</instance>
+			<instance id="d000.s028.t033" lemma="ক্যান্সারের" pos="NOUN">ক্যান্সারের</instance>
+			<instance id="d000.s028.t034" lemma="জন্য" pos="X">জন্য</instance>
+			<instance id="d000.s028.t035" lemma="কেমোথেরাপি" pos="NOUN">কেমোথেরাপি</instance>
+			<instance id="d000.s028.t036" lemma="পায়নি" pos="X">পায়নি</instance>
+			<instance id="d000.s028.t037" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d000.s029" source="semeval2015-en">
+			<instance id="d000.s029.t000" lemma="তিনটি" pos="ADJ">তিনটি</instance>
+			<instance id="d000.s029.t001" lemma="গবেষণায়ই" pos="X">গবেষণায়ই</instance>
+			<instance id="d000.s029.t002" lemma="কার্যকারিতার" pos="NOUN">কার্যকারিতার</instance>
+			<instance id="d000.s029.t003" lemma="প্রধান" pos="ADJ">প্রধান</instance>
+			<instance id="d000.s029.t004" lemma="উপায়" pos="NOUN">উপায়</instance>
+			<instance id="d000.s029.t005" lemma="ছিল" pos="VERB">ছিল</instance>
+			<instance id="d000.s029.t006" lemma="রোগী" pos="NOUN">রোগী</instance>
+			<instance id="d000.s029.t007" lemma="কতদিন" pos="ADV">কতদিন</instance>
+			<instance id="d000.s029.t008" lemma="বেঁচে" pos="VERB">বেঁচে</instance>
+			<instance id="d000.s029.t009" lemma="ছিল" pos="VERB">ছিল</instance>
+			<instance id="d000.s029.t010" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d000.s030" source="semeval2015-en">
+			<instance id="d000.s030.t000" lemma="অধ্যয়নের" pos="NOUN">অধ্যয়নের</instance>
+			<instance id="d000.s030.t001" lemma="সময়" pos="NOUN">সময়</instance>
+			<instance id="d000.s030.t002" lemma="আলিম্তা" pos="NOUN">আলিম্তা</instance>
+			<instance id="d000.s030.t003" lemma="কোন" pos="ADJ">কোন</instance>
+			<instance id="d000.s030.t004" lemma="উপকার" pos="NOUN">উপকার</instance>
+			<instance id="d000.s030.t005" lemma="দেখিয়েছেন" pos="VERB">দেখিয়েছেন</instance>
+			<instance id="d000.s030.t006" lemma="?" pos="X">?</instance>
+		</sentence>
+		<sentence id="d000.s031" source="semeval2015-en">
+			<instance id="d000.s031.t000" lemma="আলিমতা" pos="NOUN">আলিমতা</instance>
+			<instance id="d000.s031.t001" lemma="ম্যালিগন্যান্ট" pos="NOUN">ম্যালিগন্যান্ট</instance>
+			<instance id="d000.s031.t002" lemma="প্লুরাল" pos="ADJ">প্লুরাল</instance>
+			<instance id="d000.s031.t003" lemma="মেসোথেলিওমা" pos="NOUN">মেসোথেলিওমা</instance>
+			<instance id="d000.s031.t004" lemma="আক্রান্ত" pos="X">আক্রান্ত</instance>
+			<instance id="d000.s031.t005" lemma="রোগীদের" pos="NOUN">রোগীদের</instance>
+			<instance id="d000.s031.t006" lemma="বেঁচে" pos="NOUN">বেঁচে</instance>
+			<instance id="d000.s031.t007" lemma="থাকার" pos="NOUN">থাকার</instance>
+			<instance id="d000.s031.t008" lemma="সময়" pos="NOUN">সময়</instance>
+			<instance id="d000.s031.t009" lemma="বৃদ্ধি" pos="VERB">বৃদ্ধি</instance>
+			<instance id="d000.s031.t010" lemma="করেন" pos="NOUN">করেন</instance>
+			<instance id="d000.s031.t011" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d000.s032" source="semeval2015-en">
+			<instance id="d000.s032.t000" lemma="আলিমতা" pos="NOUN">আলিমতা</instance>
+			<instance id="d000.s032.t001" lemma="ও" pos="X">ও</instance>
+			<instance id="d000.s032.t002" lemma="সিসপ্লাতিন" pos="NOUN">সিসপ্লাতিন</instance>
+			<instance id="d000.s032.t003" lemma="গ্রহণকারী" pos="NOUN">গ্রহণকারী</instance>
+			<instance id="d000.s032.t004" lemma="রোগীদের" pos="NOUN">রোগীদের</instance>
+			<instance id="d000.s032.t005" lemma="গড়" pos="NOUN">গড়</instance>
+			<instance id="d000.s032.t006" lemma="আয়ু" pos="VERB">আয়ু</instance>
+			<instance id="d000.s032.t007" lemma="ছিল" pos="VERB">ছিল</instance>
+			<instance id="d000.s032.t008" lemma="12.1" pos="X">12.1</instance>
+			<instance id="d000.s032.t009" lemma="মাস" pos="NOUN">মাস</instance>
+			<instance id="d000.s032.t010" lemma="।" pos="NOUN">।</instance>
+		</sentence>
+		<sentence id="d000.s033" source="semeval2015-en">
+			<instance id="d000.s033.t000" lemma="ফুসফুসের" pos="NOUN">ফুসফুসের</instance>
+			<instance id="d000.s033.t001" lemma="ক্যান্সারে" pos="NOUN">ক্যান্সারে</instance>
+			<instance id="d000.s033.t002" lemma="আক্রান্ত" pos="ADJ">আক্রান্ত</instance>
+			<instance id="d000.s033.t003" lemma="রোগীদের" pos="NOUN">রোগীদের</instance>
+			<instance id="d000.s033.t004" lemma="চিকিৎসার" pos="NOUN">চিকিৎসার</instance>
+			<instance id="d000.s033.t005" lemma="ক্ষেত্রে" pos="NOUN">ক্ষেত্রে</instance>
+			<instance id="d000.s033.t006" lemma="," pos="X">,</instance>
+			<instance id="d000.s033.t007" lemma="আলিম্তা" pos="NOUN">আলিম্তা</instance>
+			<instance id="d000.s033.t008" lemma="তুলনামূলক" pos="ADV">তুলনামূলক</instance>
+			<instance id="d000.s033.t009" lemma="হিসেবে" pos="VERB">হিসেবে</instance>
+			<instance id="d000.s033.t010" lemma="কার্যকর" pos="ADJ">কার্যকর</instance>
+			<instance id="d000.s033.t011" lemma="ছিলেন" pos="VERB">ছিলেন</instance>
+			<instance id="d000.s033.t012" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d000.s034" source="semeval2015-en">
+			<instance id="d000.s034.t000" lemma="অতীতে" pos="NOUN">অতীতে</instance>
+			<instance id="d000.s034.t001" lemma="কেমোথেরাপি" pos="NOUN">কেমোথেরাপি</instance>
+			<instance id="d000.s034.t002" lemma="পেয়েছিলেন" pos="VERB">পেয়েছিলেন</instance>
+			<instance id="d000.s034.t003" lemma="এমন" pos="X">এমন</instance>
+			<instance id="d000.s034.t004" lemma="রোগীদের" pos="NOUN">রোগীদের</instance>
+			<instance id="d000.s034.t005" lemma="মধ্যে" pos="X">মধ্যে</instance>
+			<instance id="d000.s034.t006" lemma="," pos="X">,</instance>
+			<instance id="d000.s034.t007" lemma="গড়" pos="X">গড়</instance>
+			<instance id="d000.s034.t008" lemma="বেঁচে" pos="NOUN">বেঁচে</instance>
+			<instance id="d000.s034.t009" lemma="থাকার" pos="VERB">থাকার</instance>
+			<instance id="d000.s034.t010" lemma="সময়" pos="NOUN">সময়</instance>
+			<instance id="d000.s034.t011" lemma="ছিল" pos="VERB">ছিল</instance>
+			<instance id="d000.s034.t012" lemma="8.3" pos="X">8.3</instance>
+			<instance id="d000.s034.t013" lemma="মাস" pos="NOUN">মাস</instance>
+			<instance id="d000.s034.t014" lemma="," pos="X">,</instance>
+			<instance id="d000.s034.t015" lemma="যা" pos="X">যা</instance>
+			<instance id="d000.s034.t016" lemma="ডোজট্যাসেলের" pos="NOUN">ডোজট্যাসেলের</instance>
+			<instance id="d000.s034.t017" lemma="সাথে" pos="NOUN">সাথে</instance>
+			<instance id="d000.s034.t018" lemma="7.9" pos="X">7.9</instance>
+			<instance id="d000.s034.t019" lemma="মাসের" pos="NOUN">মাসের</instance>
+			<instance id="d000.s034.t020" lemma="তুলনায়" pos="VERB">তুলনায়</instance>
+			<instance id="d000.s034.t021" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d000.s035" source="semeval2015-en">
+			<instance id="d000.s035.t000" lemma="অতীতে" pos="NOUN">অতীতে</instance>
+			<instance id="d000.s035.t001" lemma="কেমোথেরাপি" pos="NOUN">কেমোথেরাপি</instance>
+			<instance id="d000.s035.t002" lemma="না" pos="ADV">না</instance>
+			<instance id="d000.s035.t003" lemma="পাওয়া" pos="VERB">পাওয়া</instance>
+			<instance id="d000.s035.t004" lemma="রোগীদের" pos="NOUN">রোগীদের</instance>
+			<instance id="d000.s035.t005" lemma="মধ্যে" pos="X">মধ্যে</instance>
+			<instance id="d000.s035.t006" lemma="," pos="X">,</instance>
+			<instance id="d000.s035.t007" lemma="উভয়" pos="X">উভয়</instance>
+			<instance id="d000.s035.t008" lemma="গ্রুপে" pos="NOUN">গ্রুপে</instance>
+			<instance id="d000.s035.t009" lemma="গড়" pos="ADJ">গড়</instance>
+			<instance id="d000.s035.t010" lemma="বেঁচে" pos="NOUN">বেঁচে</instance>
+			<instance id="d000.s035.t011" lemma="থাকার" pos="VERB">থাকার</instance>
+			<instance id="d000.s035.t012" lemma="সময়" pos="NOUN">সময়</instance>
+			<instance id="d000.s035.t013" lemma="ছিল" pos="VERB">ছিল</instance>
+			<instance id="d000.s035.t014" lemma="10.3" pos="X">10.3</instance>
+			<instance id="d000.s035.t015" lemma="মাস" pos="NOUN">মাস</instance>
+			<instance id="d000.s035.t016" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d000.s036" source="semeval2015-en">
+			<instance id="d000.s036.t000" lemma="যাইহোক" pos="ADV">যাইহোক</instance>
+			<instance id="d000.s036.t001" lemma="," pos="X">,</instance>
+			<instance id="d000.s036.t002" lemma="উভয়" pos="X">উভয়</instance>
+			<instance id="d000.s036.t003" lemma="গবেষণায়" pos="NOUN">গবেষণায়</instance>
+			<instance id="d000.s036.t004" lemma="," pos="X">,</instance>
+			<instance id="d000.s036.t005" lemma="যে" pos="X">যে</instance>
+			<instance id="d000.s036.t006" lemma="সমস্ত" pos="ADJ">সমস্ত</instance>
+			<instance id="d000.s036.t007" lemma="রোগীদের" pos="NOUN">রোগীদের</instance>
+			<instance id="d000.s036.t008" lemma="ক্যান্সার" pos="NOUN">ক্যান্সার</instance>
+			<instance id="d000.s036.t009" lemma="স্ক্যামিয়াস" pos="NOUN">স্ক্যামিয়াস</instance>
+			<instance id="d000.s036.t010" lemma="কোষগুলিকে" pos="NOUN">কোষগুলিকে</instance>
+			<instance id="d000.s036.t011" lemma="প্রভাবিত" pos="VERB">প্রভাবিত</instance>
+			<instance id="d000.s036.t012" lemma="করছিল" pos="VERB">করছিল</instance>
+			<instance id="d000.s036.t013" lemma="না" pos="ADV">না</instance>
+			<instance id="d000.s036.t014" lemma="," pos="X">,</instance>
+			<instance id="d000.s036.t015" lemma="তাদের" pos="X">তাদের</instance>
+			<instance id="d000.s036.t016" lemma="বেঁচে" pos="NOUN">বেঁচে</instance>
+			<instance id="d000.s036.t017" lemma="থাকার" pos="NOUN">থাকার</instance>
+			<instance id="d000.s036.t018" lemma="সময়" pos="NOUN">সময়</instance>
+			<instance id="d000.s036.t019" lemma="বেশি" pos="ADJ">বেশি</instance>
+			<instance id="d000.s036.t020" lemma="ছিল" pos="VERB">ছিল</instance>
+			<instance id="d000.s036.t021" lemma="যদি" pos="X">যদি</instance>
+			<instance id="d000.s036.t022" lemma="তারা" pos="X">তারা</instance>
+			<instance id="d000.s036.t023" lemma="কম্পারেটর" pos="NOUN">কম্পারেটর</instance>
+			<instance id="d000.s036.t024" lemma="গ্রহণ" pos="NOUN">গ্রহণ</instance>
+			<instance id="d000.s036.t025" lemma="করার" pos="NOUN">করার</instance>
+			<instance id="d000.s036.t026" lemma="চেয়ে" pos="NOUN">চেয়ে</instance>
+			<instance id="d000.s036.t027" lemma="আলিমতা" pos="NOUN">আলিমতা</instance>
+			<instance id="d000.s036.t028" lemma="পেত" pos="X">পেত</instance>
+			<instance id="d000.s036.t029" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d000.s037" source="semeval2015-en">
+			<instance id="d000.s037.t000" lemma="অন্যদিকে" pos="ADV">অন্যদিকে</instance>
+			<instance id="d000.s037.t001" lemma="," pos="X">,</instance>
+			<instance id="d000.s037.t002" lemma="যে-রোগীদের" pos="NOUN">যে-রোগীদের</instance>
+			<instance id="d000.s037.t003" lemma="ক্যান্সারের" pos="NOUN">ক্যান্সারের</instance>
+			<instance id="d000.s037.t004" lemma="কারণে" pos="VERB">কারণে</instance>
+			<instance id="d000.s037.t005" lemma="স্কোমাস" pos="X">স্কোমাস</instance>
+			<instance id="d000.s037.t006" lemma="কোষগুলো" pos="NOUN">কোষগুলো</instance>
+			<instance id="d000.s037.t007" lemma="ক্ষতিগ্রস্ত" pos="X">ক্ষতিগ্রস্ত</instance>
+			<instance id="d000.s037.t008" lemma="হচ্ছিল" pos="X">হচ্ছিল</instance>
+			<instance id="d000.s037.t009" lemma="," pos="X">,</instance>
+			<instance id="d000.s037.t010" lemma="তারা" pos="X">তারা</instance>
+			<instance id="d000.s037.t011" lemma="যদি" pos="X">যদি</instance>
+			<instance id="d000.s037.t012" lemma="আলিমতা" pos="NOUN">আলিমতা</instance>
+			<instance id="d000.s037.t013" lemma="লাভ" pos="NOUN">লাভ</instance>
+			<instance id="d000.s037.t014" lemma="করে" pos="X">করে</instance>
+			<instance id="d000.s037.t015" lemma="," pos="X">,</instance>
+			<instance id="d000.s037.t016" lemma="তা" pos="X">তা</instance>
+			<instance id="d000.s037.t017" lemma="হলে" pos="X">হলে</instance>
+			<instance id="d000.s037.t018" lemma="তাদের" pos="NOUN">তাদের</instance>
+			<instance id="d000.s037.t019" lemma="বেঁচে" pos="NOUN">বেঁচে</instance>
+			<instance id="d000.s037.t020" lemma="থাকার" pos="NOUN">থাকার</instance>
+			<instance id="d000.s037.t021" lemma="সময়" pos="NOUN">সময়</instance>
+			<instance id="d000.s037.t022" lemma="কম" pos="ADJ">কম</instance>
+			<instance id="d000.s037.t023" lemma="ছিল" pos="VERB">ছিল</instance>
+			<instance id="d000.s037.t024" lemma="।" pos="X">।</instance>
+		</sentence>
+	</text>
+	<text id="d001">
+		<sentence id="d001.s000" source="semeval2015-en">
+			<instance id="d001.s000.t000" lemma="কালজেব্রা" pos="NOUN">কালজেব্রা</instance>
+			<instance id="d001.s000.t001" lemma="হচ্ছে" pos="VERB">হচ্ছে</instance>
+			<instance id="d001.s000.t002" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d001.s000.t003" lemma="গাণিতিক" pos="ADJ">গাণিতিক</instance>
+			<instance id="d001.s000.t004" lemma="ক্যালকুলেটর" pos="NOUN">ক্যালকুলেটর</instance>
+			<instance id="d001.s000.t005" lemma="যা" pos="NOUN">যা</instance>
+			<instance id="d001.s000.t006" lemma="কন্টেন্ট" pos="NOUN">কন্টেন্ট</instance>
+			<instance id="d001.s000.t007" lemma="মার্কআপ" pos="NOUN">মার্কআপ</instance>
+			<instance id="d001.s000.t008" lemma="ম্যাথএমএল" pos="NOUN">ম্যাথএমএল</instance>
+			<instance id="d001.s000.t009" lemma="ভাষার" pos="NOUN">ভাষার</instance>
+			<instance id="d001.s000.t010" lemma="উপর" pos="NOUN">উপর</instance>
+			<instance id="d001.s000.t011" lemma="ভিত্তি" pos="VERB">ভিত্তি</instance>
+			<instance id="d001.s000.t012" lemma="করে" pos="NOUN">করে</instance>
+			<instance id="d001.s000.t013" lemma="তৈরি" pos="ADV">তৈরি</instance>
+			<instance id="d001.s000.t014" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s001" source="semeval2015-en">
+			<instance id="d001.s001.t000" lemma="আজকাল" pos="ADV">আজকাল</instance>
+			<instance id="d001.s001.t001" lemma="এটি" pos="X">এটি</instance>
+			<instance id="d001.s001.t002" lemma="সহজ" pos="ADJ">সহজ</instance>
+			<instance id="d001.s001.t003" lemma="গাণিতিক" pos="ADJ">গাণিতিক</instance>
+			<instance id="d001.s001.t004" lemma="অপারেশন" pos="NOUN">অপারেশন</instance>
+			<instance id="d001.s001.t005" lemma="(" pos="X">(</instance>
+			<instance id="d001.s001.t006" lemma="গণিত" pos="ADJ">গণিত</instance>
+			<instance id="d001.s001.t007" lemma="ও" pos="X">ও</instance>
+			<instance id="d001.s001.t008" lemma="যৌক্তিক" pos="ADJ">যৌক্তিক</instance>
+			<instance id="d001.s001.t009" lemma=")" pos="X">)</instance>
+			<instance id="d001.s001.t010" lemma="এবং" pos="X">এবং</instance>
+			<instance id="d001.s001.t011" lemma="দ্বিমাত্রিক" pos="ADJ">দ্বিমাত্রিক</instance>
+			<instance id="d001.s001.t012" lemma="ও" pos="X">ও</instance>
+			<instance id="d001.s001.t013" lemma="ত্রিমাত্রিক" pos="ADV">ত্রিমাত্রিক</instance>
+			<instance id="d001.s001.t014" lemma="গ্রাফ" pos="NOUN">গ্রাফ</instance>
+			<instance id="d001.s001.t015" lemma="উপস্থাপন" pos="NOUN">উপস্থাপন</instance>
+			<instance id="d001.s001.t016" lemma="করতে" pos="VERB">করতে</instance>
+			<instance id="d001.s001.t017" lemma="সক্ষম" pos="ADJ">সক্ষম</instance>
+			<instance id="d001.s001.t018" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s002" source="semeval2015-en">
+			<instance id="d001.s002.t000" lemma="প্রকৃতপক্ষে" pos="ADV">প্রকৃতপক্ষে</instance>
+			<instance id="d001.s002.t001" lemma="কালজেব্রা" pos="ADV">কালজেব্রা</instance>
+			<instance id="d001.s002.t002" lemma="ব্যবহারের" pos="ADV">ব্যবহারের</instance>
+			<instance id="d001.s002.t003" lemma="জন্য" pos="X">জন্য</instance>
+			<instance id="d001.s002.t004" lemma="গণিতএমএল" pos="NOUN">গণিতএমএল</instance>
+			<instance id="d001.s002.t005" lemma="জানার" pos="VERB">জানার</instance>
+			<instance id="d001.s002.t006" lemma="প্রয়োজন" pos="ADJ">প্রয়োজন</instance>
+			<instance id="d001.s002.t007" lemma="নেই" pos="ADV">নেই</instance>
+			<instance id="d001.s002.t008" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s003" source="semeval2015-en">
+			<instance id="d001.s003.t000" lemma="কালজেব্রা" pos="NOUN">কালজেব্রা</instance>
+			<instance id="d001.s003.t001" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d001.s003.t002" lemma="গণিতভিত্তিক" pos="ADJ">গণিতভিত্তিক</instance>
+			<instance id="d001.s003.t003" lemma="গ্রাফ" pos="NOUN">গ্রাফ</instance>
+			<instance id="d001.s003.t004" lemma="ক্যালকুলেটর" pos="NOUN">ক্যালকুলেটর</instance>
+			<instance id="d001.s003.t005" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s004" source="semeval2015-en">
+			<instance id="d001.s004.t000" lemma="যদিও" pos="X">যদিও</instance>
+			<instance id="d001.s004.t001" lemma="এটি" pos="X">এটি</instance>
+			<instance id="d001.s004.t002" lemma="প্রাথমিকভাবে" pos="ADV">প্রাথমিকভাবে</instance>
+			<instance id="d001.s004.t003" lemma="গণিত" pos="ADJ">গণিত</instance>
+			<instance id="d001.s004.t004" lemma="ভিত্তিক" pos="VERB">ভিত্তিক</instance>
+			<instance id="d001.s004.t005" lemma="ছিল" pos="VERB">ছিল</instance>
+			<instance id="d001.s004.t006" lemma="," pos="X">,</instance>
+			<instance id="d001.s004.t007" lemma="তবে" pos="X">তবে</instance>
+			<instance id="d001.s004.t008" lemma="এখন" pos="ADV">এখন</instance>
+			<instance id="d001.s004.t009" lemma="অল্প" pos="ADJ">অল্প</instance>
+			<instance id="d001.s004.t010" lemma="গাণিতিক" pos="ADJ">গাণিতিক</instance>
+			<instance id="d001.s004.t011" lemma="জ্ঞান" pos="NOUN">জ্ঞান</instance>
+			<instance id="d001.s004.t012" lemma="সম্পন্ন" pos="X">সম্পন্ন</instance>
+			<instance id="d001.s004.t013" lemma="সকলেই" pos="X">সকলেই</instance>
+			<instance id="d001.s004.t014" lemma="এটি" pos="X">এটি</instance>
+			<instance id="d001.s004.t015" lemma="ব্যবহার" pos="VERB">ব্যবহার</instance>
+			<instance id="d001.s004.t016" lemma="করতে" pos="VERB">করতে</instance>
+			<instance id="d001.s004.t017" lemma="পারে" pos="VERB">পারে</instance>
+			<instance id="d001.s004.t018" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s005" source="semeval2015-en">
+			<instance id="d001.s005.t000" lemma="এখানে" pos="ADV">এখানে</instance>
+			<instance id="d001.s005.t001" lemma="কালজেব্রা" pos="NOUN">কালজেব্রা</instance>
+			<instance id="d001.s005.t002" lemma="প্রধান" pos="ADJ">প্রধান</instance>
+			<instance id="d001.s005.t003" lemma="উইন্ডোর" pos="NOUN">উইন্ডোর</instance>
+			<instance id="d001.s005.t004" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d001.s005.t005" lemma="স্ক্রিনশট" pos="NOUN">স্ক্রিনশট</instance>
+			<instance id="d001.s005.t006" lemma="রয়েছে" pos="X">রয়েছে</instance>
+		</sentence>
+		<sentence id="d001.s006" source="semeval2015-en">
+			<instance id="d001.s006.t000" lemma="প্রধান" pos="ADJ">প্রধান</instance>
+			<instance id="d001.s006.t001" lemma="উইন্ডো" pos="NOUN">উইন্ডো</instance>
+		</sentence>
+		<sentence id="d001.s007" source="semeval2015-en">
+			<instance id="d001.s007.t000" lemma="কালজেব্রা" pos="NOUN">কালজেব্রা</instance>
+			<instance id="d001.s007.t001" lemma="প্রধান" pos="ADJ">প্রধান</instance>
+			<instance id="d001.s007.t002" lemma="উইন্ডো" pos="NOUN">উইন্ডো</instance>
+			<instance id="d001.s007.t003" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d001.s007.t004" lemma="কনসোল" pos="X">কনসোল</instance>
+			<instance id="d001.s007.t005" lemma="ট্যাব" pos="NOUN">ট্যাব</instance>
+			<instance id="d001.s007.t006" lemma="," pos="X">,</instance>
+			<instance id="d001.s007.t007" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d001.s007.t008" lemma="দ্বিমাত্রিক" pos="NOUN">দ্বিমাত্রিক</instance>
+			<instance id="d001.s007.t009" lemma="গ্রাফ" pos="NOUN">গ্রাফ</instance>
+			<instance id="d001.s007.t010" lemma="ট্যাব" pos="NOUN">ট্যাব</instance>
+			<instance id="d001.s007.t011" lemma="," pos="X">,</instance>
+			<instance id="d001.s007.t012" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d001.s007.t013" lemma="ত্রিমাত্রিক" pos="ADJ">ত্রিমাত্রিক</instance>
+			<instance id="d001.s007.t014" lemma="গ্রাফ" pos="NOUN">গ্রাফ</instance>
+			<instance id="d001.s007.t015" lemma="ট্যাব" pos="NOUN">ট্যাব</instance>
+			<instance id="d001.s007.t016" lemma="এবং" pos="X">এবং</instance>
+			<instance id="d001.s007.t017" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d001.s007.t018" lemma="অভিধান" pos="NOUN">অভিধান</instance>
+			<instance id="d001.s007.t019" lemma="ট্যাব" pos="ADJ">ট্যাব</instance>
+			<instance id="d001.s007.t020" lemma="নিয়ে" pos="NOUN">নিয়ে</instance>
+			<instance id="d001.s007.t021" lemma="গঠিত" pos="VERB">গঠিত</instance>
+			<instance id="d001.s007.t022" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s008" source="semeval2015-en">
+			<instance id="d001.s008.t000" lemma="এই" pos="NOUN">এই</instance>
+			<instance id="d001.s008.t001" lemma="ট্যাবগুলির" pos="NOUN">ট্যাবগুলির</instance>
+			<instance id="d001.s008.t002" lemma="নিচে" pos="ADV">নিচে</instance>
+			<instance id="d001.s008.t003" lemma="আপনি" pos="X">আপনি</instance>
+			<instance id="d001.s008.t004" lemma="আপনার" pos="X">আপনার</instance>
+			<instance id="d001.s008.t005" lemma="ফাংশন" pos="NOUN">ফাংশন</instance>
+			<instance id="d001.s008.t006" lemma="টাইপ" pos="NOUN">টাইপ</instance>
+			<instance id="d001.s008.t007" lemma="করার" pos="X">করার</instance>
+			<instance id="d001.s008.t008" lemma="জন্য" pos="X">জন্য</instance>
+			<instance id="d001.s008.t009" lemma="অথবা" pos="X">অথবা</instance>
+			<instance id="d001.s008.t010" lemma="আপনার" pos="X">আপনার</instance>
+			<instance id="d001.s008.t011" lemma="গণনা" pos="NOUN">গণনা</instance>
+			<instance id="d001.s008.t012" lemma="করার" pos="VERB">করার</instance>
+			<instance id="d001.s008.t013" lemma="জন্য" pos="NOUN">জন্য</instance>
+			<instance id="d001.s008.t014" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d001.s008.t015" lemma="ইনপুট" pos="NOUN">ইনপুট</instance>
+			<instance id="d001.s008.t016" lemma="ক্ষেত্র" pos="NOUN">ক্ষেত্র</instance>
+			<instance id="d001.s008.t017" lemma="খুঁজে" pos="VERB">খুঁজে</instance>
+			<instance id="d001.s008.t018" lemma="পাবেন" pos="VERB">পাবেন</instance>
+			<instance id="d001.s008.t019" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s009" source="semeval2015-en">
+			<instance id="d001.s009.t000" lemma="আমরা" pos="X">আমরা</instance>
+			<instance id="d001.s009.t001" lemma="যদি" pos="X">যদি</instance>
+			<instance id="d001.s009.t002" lemma="বুঝতে" pos="VERB">বুঝতে</instance>
+			<instance id="d001.s009.t003" lemma="চাই" pos="VERB">চাই</instance>
+			<instance id="d001.s009.t004" lemma="এটা" pos="X">এটা</instance>
+			<instance id="d001.s009.t005" lemma="কিভাবে" pos="ADV">কিভাবে</instance>
+			<instance id="d001.s009.t006" lemma="কাজ" pos="VERB">কাজ</instance>
+			<instance id="d001.s009.t007" lemma="করে" pos="X">করে</instance>
+			<instance id="d001.s009.t008" lemma="," pos="X">,</instance>
+			<instance id="d001.s009.t009" lemma="তাহলে" pos="ADJ">তাহলে</instance>
+			<instance id="d001.s009.t010" lemma="সবচেয়ে" pos="X">সবচেয়ে</instance>
+			<instance id="d001.s009.t011" lemma="ভালো" pos="ADJ">ভালো</instance>
+			<instance id="d001.s009.t012" lemma="যে" pos="X">যে</instance>
+			<instance id="d001.s009.t013" lemma="কাজটা" pos="NOUN">কাজটা</instance>
+			<instance id="d001.s009.t014" lemma="আমরা" pos="X">আমরা</instance>
+			<instance id="d001.s009.t015" lemma="করতে" pos="VERB">করতে</instance>
+			<instance id="d001.s009.t016" lemma="পারি" pos="NOUN">পারি</instance>
+			<instance id="d001.s009.t017" lemma="তা" pos="X">তা</instance>
+			<instance id="d001.s009.t018" lemma="হল" pos="VERB">হল</instance>
+			<instance id="d001.s009.t019" lemma="এটা" pos="NOUN">এটা</instance>
+			<instance id="d001.s009.t020" lemma="উপলব্ধি" pos="X">উপলব্ধি</instance>
+			<instance id="d001.s009.t021" lemma="করা" pos="NOUN">করা</instance>
+			<instance id="d001.s009.t022" lemma="যে" pos="X">যে</instance>
+			<instance id="d001.s009.t023" lemma="আমাদের" pos="NOUN">আমাদের</instance>
+			<instance id="d001.s009.t024" lemma="ইনপুট" pos="X">ইনপুট</instance>
+			<instance id="d001.s009.t025" lemma="গণিতএমএলে" pos="NOUN">গণিতএমএলে</instance>
+			<instance id="d001.s009.t026" lemma="রূপান্তরিত" pos="VERB">রূপান্তরিত</instance>
+			<instance id="d001.s009.t027" lemma="হচ্ছে" pos="VERB">হচ্ছে</instance>
+			<instance id="d001.s009.t028" lemma="যদিও" pos="X">যদিও</instance>
+			<instance id="d001.s009.t029" lemma="এটা" pos="X">এটা</instance>
+			<instance id="d001.s009.t030" lemma="জানার" pos="VERB">জানার</instance>
+			<instance id="d001.s009.t031" lemma="দরকার" pos="ADJ">দরকার</instance>
+			<instance id="d001.s009.t032" lemma="নেই" pos="ADV">নেই</instance>
+			<instance id="d001.s009.t033" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s010" source="semeval2015-en">
+			<instance id="d001.s010.t000" lemma="আমি" pos="X">আমি</instance>
+			<instance id="d001.s010.t001" lemma="মূলত" pos="ADV">মূলত</instance>
+			<instance id="d001.s010.t002" lemma="সাধারণ" pos="ADJ">সাধারণ</instance>
+			<instance id="d001.s010.t003" lemma="জ্ঞানের" pos="NOUN">জ্ঞানের</instance>
+			<instance id="d001.s010.t004" lemma="উপর" pos="NOUN">উপর</instance>
+			<instance id="d001.s010.t005" lemma="ভিত্তি" pos="VERB">ভিত্তি</instance>
+			<instance id="d001.s010.t006" lemma="করে" pos="X">করে</instance>
+			<instance id="d001.s010.t007" lemma="বাক্যগঠন" pos="NOUN">বাক্যগঠন</instance>
+			<instance id="d001.s010.t008" lemma="তৈরি" pos="NOUN">তৈরি</instance>
+			<instance id="d001.s010.t009" lemma="করেছি" pos="VERB">করেছি</instance>
+			<instance id="d001.s010.t010" lemma="," pos="NOUN">,</instance>
+			<instance id="d001.s010.t011" lemma="এটা" pos="X">এটা</instance>
+			<instance id="d001.s010.t012" lemma="কারো" pos="NOUN">কারো</instance>
+			<instance id="d001.s010.t013" lemma="জন্য" pos="X">জন্য</instance>
+			<instance id="d001.s010.t014" lemma="কঠিন" pos="ADJ">কঠিন</instance>
+			<instance id="d001.s010.t015" lemma="হওয়া" pos="X">হওয়া</instance>
+			<instance id="d001.s010.t016" lemma="উচিত" pos="ADJ">উচিত</instance>
+			<instance id="d001.s010.t017" lemma="নয়" pos="ADV">নয়</instance>
+			<instance id="d001.s010.t018" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s011" source="semeval2015-en">
+			<instance id="d001.s011.t000" lemma="আমি" pos="X">আমি</instance>
+			<instance id="d001.s011.t001" lemma="ম্যাক্সিমা" pos="NOUN">ম্যাক্সিমা</instance>
+			<instance id="d001.s011.t002" lemma="আর" pos="X">আর</instance>
+			<instance id="d001.s011.t003" lemma="ম্যাপেলের" pos="NOUN">ম্যাপেলের</instance>
+			<instance id="d001.s011.t004" lemma="সিনট্যাক্সের" pos="NOUN">সিনট্যাক্সের</instance>
+			<instance id="d001.s011.t005" lemma="দিকে" pos="ADV">দিকে</instance>
+			<instance id="d001.s011.t006" lemma="খুব" pos="ADV">খুব</instance>
+			<instance id="d001.s011.t007" lemma="ভালো" pos="ADJ">ভালো</instance>
+			<instance id="d001.s011.t008" lemma="করে" pos="VERB">করে</instance>
+			<instance id="d001.s011.t009" lemma="তাকিয়েছি" pos="X">তাকিয়েছি</instance>
+			<instance id="d001.s011.t010" lemma="," pos="X">,</instance>
+			<instance id="d001.s011.t011" lemma="তাই" pos="X">তাই</instance>
+			<instance id="d001.s011.t012" lemma="দেখতে" pos="VERB">দেখতে</instance>
+			<instance id="d001.s011.t013" lemma="অনেকটা" pos="X">অনেকটা</instance>
+			<instance id="d001.s011.t014" lemma="একই" pos="ADJ">একই</instance>
+			<instance id="d001.s011.t015" lemma="রকম" pos="X">রকম</instance>
+			<instance id="d001.s011.t016" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s012" source="semeval2015-en">
+			<instance id="d001.s012.t000" lemma="+" pos="X">+</instance>
+			<instance id="d001.s012.t001" lemma="-" pos="X">-</instance>
+			<instance id="d001.s012.t002" lemma="*" pos="X">*</instance>
+			<instance id="d001.s012.t003" lemma="/" pos="X">/</instance>
+			<instance id="d001.s012.t004" lemma=":" pos="X">:</instance>
+			<instance id="d001.s012.t005" lemma="যোগ" pos="NOUN">যোগ</instance>
+			<instance id="d001.s012.t006" lemma="বিয়োগ" pos="NOUN">বিয়োগ</instance>
+			<instance id="d001.s012.t007" lemma="গুণ" pos="NOUN">গুণ</instance>
+			<instance id="d001.s012.t008" lemma="ও" pos="X">ও</instance>
+			<instance id="d001.s012.t009" lemma="ভাগ" pos="NOUN">ভাগ</instance>
+			<instance id="d001.s012.t010" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s013" source="semeval2015-en">
+			<instance id="d001.s013.t000" lemma="^" pos="X">^</instance>
+			<instance id="d001.s013.t001" lemma="," pos="X">,</instance>
+			<instance id="d001.s013.t002" lemma="**" pos="X">**</instance>
+			<instance id="d001.s013.t003" lemma=":" pos="X">:</instance>
+			<instance id="d001.s013.t004" lemma="শক্তি" pos="NOUN">শক্তি</instance>
+			<instance id="d001.s013.t005" lemma="," pos="X">,</instance>
+			<instance id="d001.s013.t006" lemma="আপনি" pos="X">আপনি</instance>
+			<instance id="d001.s013.t007" lemma="উভয়" pos="X">উভয়</instance>
+			<instance id="d001.s013.t008" lemma="ব্যবহার" pos="VERB">ব্যবহার</instance>
+			<instance id="d001.s013.t009" lemma="করতে" pos="NOUN">করতে</instance>
+			<instance id="d001.s013.t010" lemma="পারেন" pos="VERB">পারেন</instance>
+			<instance id="d001.s013.t011" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s014" source="semeval2015-en">
+			<instance id="d001.s014.t000" lemma="এছাড়াও" pos="ADV">এছাড়াও</instance>
+			<instance id="d001.s014.t001" lemma="ইউনিকোড" pos="NOUN">ইউনিকোড</instance>
+			<instance id="d001.s014.t002" lemma="2" pos="NOUN">2</instance>
+			<instance id="d001.s014.t003" lemma="অক্ষর" pos="NOUN">অক্ষর</instance>
+			<instance id="d001.s014.t004" lemma="ব্যবহার" pos="VERB">ব্যবহার</instance>
+			<instance id="d001.s014.t005" lemma="করা" pos="NOUN">করা</instance>
+			<instance id="d001.s014.t006" lemma="সম্ভব" pos="ADJ">সম্ভব</instance>
+			<instance id="d001.s014.t007" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s015" source="semeval2015-en">
+			<instance id="d001.s015.t000" lemma="শক্তিও" pos="NOUN">শক্তিও</instance>
+			<instance id="d001.s015.t001" lemma="মূল" pos="NOUN">মূল</instance>
+			<instance id="d001.s015.t002" lemma="তৈরির" pos="NOUN">তৈরির</instance>
+			<instance id="d001.s015.t003" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d001.s015.t004" lemma="উপায়" pos="NOUN">উপায়</instance>
+			<instance id="d001.s015.t005" lemma="।" pos="NOUN">।</instance>
+		</sentence>
+		<sentence id="d001.s016" source="semeval2015-en">
+			<instance id="d001.s016.t000" lemma="-জিটি" pos="NOUN">-জিটি</instance>
+			<instance id="d001.s016.t001" lemma=":" pos="X">:</instance>
+			<instance id="d001.s016.t002" lemma="এটি" pos="X">এটি</instance>
+			<instance id="d001.s016.t003" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d001.s016.t004" lemma="ফাংশনের" pos="NOUN">ফাংশনের</instance>
+			<instance id="d001.s016.t005" lemma="মধ্যে" pos="NOUN">মধ্যে</instance>
+			<instance id="d001.s016.t006" lemma="সীমাবদ্ধ" pos="ADJ">সীমাবদ্ধ</instance>
+			<instance id="d001.s016.t007" lemma="চলক" pos="ADJ">চলক</instance>
+			<instance id="d001.s016.t008" lemma="নির্ধারণ" pos="VERB">নির্ধারণ</instance>
+			<instance id="d001.s016.t009" lemma="করার" pos="NOUN">করার</instance>
+			<instance id="d001.s016.t010" lemma="উপায়" pos="NOUN">উপায়</instance>
+			<instance id="d001.s016.t011" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s017" source="semeval2015-en">
+			<instance id="d001.s017.t000" lemma="(" pos="X">(</instance>
+			<instance id="d001.s017.t001" lemma=")" pos="X">)</instance>
+			<instance id="d001.s017.t002" lemma=":" pos="X">:</instance>
+			<instance id="d001.s017.t003" lemma="এটি" pos="X">এটি</instance>
+			<instance id="d001.s017.t004" lemma="উচ্চতর" pos="ADJ">উচ্চতর</instance>
+			<instance id="d001.s017.t005" lemma="অগ্রাধিকার" pos="NOUN">অগ্রাধিকার</instance>
+			<instance id="d001.s017.t006" lemma="নির্ধারণ" pos="VERB">নির্ধারণ</instance>
+			<instance id="d001.s017.t007" lemma="করতে" pos="VERB">করতে</instance>
+			<instance id="d001.s017.t008" lemma="ব্যবহৃত" pos="VERB">ব্যবহৃত</instance>
+			<instance id="d001.s017.t009" lemma="হয়" pos="X">হয়</instance>
+			<instance id="d001.s017.t010" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s018" source="semeval2015-en">
+			<instance id="d001.s018.t000" lemma="অ্যাবসি" pos="NOUN">অ্যাবসি</instance>
+			<instance id="d001.s018.t001" lemma="(" pos="X">(</instance>
+			<instance id="d001.s018.t002" lemma="পরম" pos="X">পরম</instance>
+			<instance id="d001.s018.t003" lemma=")" pos="NOUN">)</instance>
+			<instance id="d001.s018.t004" lemma=":" pos="X">:</instance>
+			<instance id="d001.s018.t005" lemma="পার্সার" pos="NOUN">পার্সার</instance>
+			<instance id="d001.s018.t006" lemma="যখন" pos="ADV">যখন</instance>
+			<instance id="d001.s018.t007" lemma="কোন" pos="ADJ">কোন</instance>
+			<instance id="d001.s018.t008" lemma="ফাংশন" pos="NOUN">ফাংশন</instance>
+			<instance id="d001.s018.t009" lemma="খুঁজে" pos="VERB">খুঁজে</instance>
+			<instance id="d001.s018.t010" lemma="পায়" pos="VERB">পায়</instance>
+			<instance id="d001.s018.t011" lemma="," pos="NOUN">,</instance>
+			<instance id="d001.s018.t012" lemma="এটি" pos="X">এটি</instance>
+			<instance id="d001.s018.t013" lemma="পরীক্ষা" pos="VERB">পরীক্ষা</instance>
+			<instance id="d001.s018.t014" lemma="করে" pos="VERB">করে</instance>
+			<instance id="d001.s018.t015" lemma="অ্যাবসি" pos="NOUN">অ্যাবসি</instance>
+			<instance id="d001.s018.t016" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d001.s018.t017" lemma="অপারেটর" pos="NOUN">অপারেটর</instance>
+			<instance id="d001.s018.t018" lemma="কিনা" pos="X">কিনা</instance>
+			<instance id="d001.s018.t019" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s019" source="semeval2015-en">
+			<instance id="d001.s019.t000" lemma="এটি" pos="X">এটি</instance>
+			<instance id="d001.s019.t001" lemma="যদি" pos="X">যদি</instance>
+			<instance id="d001.s019.t002" lemma="হয়" pos="X">হয়</instance>
+			<instance id="d001.s019.t003" lemma="," pos="X">,</instance>
+			<instance id="d001.s019.t004" lemma="তবে" pos="X">তবে</instance>
+			<instance id="d001.s019.t005" lemma="এটি" pos="NOUN">এটি</instance>
+			<instance id="d001.s019.t006" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d001.s019.t007" lemma="অপারেটর" pos="NOUN">অপারেটর</instance>
+			<instance id="d001.s019.t008" lemma="হিসাবে" pos="ADV">হিসাবে</instance>
+			<instance id="d001.s019.t009" lemma="গণ্য" pos="VERB">গণ্য</instance>
+			<instance id="d001.s019.t010" lemma="হবে" pos="VERB">হবে</instance>
+			<instance id="d001.s019.t011" lemma="," pos="X">,</instance>
+			<instance id="d001.s019.t012" lemma="যদি" pos="X">যদি</instance>
+			<instance id="d001.s019.t013" lemma="না" pos="ADV">না</instance>
+			<instance id="d001.s019.t014" lemma="হয়" pos="X">হয়</instance>
+			<instance id="d001.s019.t015" lemma="," pos="X">,</instance>
+			<instance id="d001.s019.t016" lemma="এটি" pos="X">এটি</instance>
+			<instance id="d001.s019.t017" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d001.s019.t018" lemma="ব্যবহারকারী" pos="NOUN">ব্যবহারকারী</instance>
+			<instance id="d001.s019.t019" lemma="ফাংশন" pos="NOUN">ফাংশন</instance>
+			<instance id="d001.s019.t020" lemma="হিসাবে" pos="ADV">হিসাবে</instance>
+			<instance id="d001.s019.t021" lemma="গণ্য" pos="VERB">গণ্য</instance>
+			<instance id="d001.s019.t022" lemma="হবে" pos="VERB">হবে</instance>
+			<instance id="d001.s019.t023" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s020" source="semeval2015-en">
+			<instance id="d001.s020.t000" lemma=":" pos="X">:</instance>
+			<instance id="d001.s020.t001" lemma="#ERROR!" pos="X">#ERROR!</instance>
+			<instance id="d001.s020.t002" lemma=":" pos="X">:</instance>
+			<instance id="d001.s020.t003" lemma="এটি" pos="X">এটি</instance>
+			<instance id="d001.s020.t004" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d001.s020.t005" lemma="চলক" pos="ADJ">চলক</instance>
+			<instance id="d001.s020.t006" lemma="মান" pos="NOUN">মান</instance>
+			<instance id="d001.s020.t007" lemma="নির্ধারণ" pos="VERB">নির্ধারণ</instance>
+			<instance id="d001.s020.t008" lemma="করতে" pos="VERB">করতে</instance>
+			<instance id="d001.s020.t009" lemma="ব্যবহৃত" pos="ADJ">ব্যবহৃত</instance>
+			<instance id="d001.s020.t010" lemma="হয়" pos="X">হয়</instance>
+			<instance id="d001.s020.t011" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s021" source="semeval2015-en">
+			<instance id="d001.s021.t000" lemma=":" pos="X">:</instance>
+			<instance id="d001.s021.t001" lemma="ক্ষুদ্র" pos="NOUN">ক্ষুদ্র</instance>
+			<instance id="d001.s021.t002" lemma="শর্ত" pos="NOUN">শর্ত</instance>
+			<instance id="d001.s021.t003" lemma="সংজ্ঞা" pos="NOUN">সংজ্ঞা</instance>
+			<instance id="d001.s021.t004" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s022" source="semeval2015-en">
+			<instance id="d001.s022.t000" lemma="আংশিকভাবে" pos="NOUN">আংশিকভাবে</instance>
+			<instance id="d001.s022.t001" lemma="আমরা" pos="X">আমরা</instance>
+			<instance id="d001.s022.t002" lemma="ক্যালজেব্রাতে" pos="NOUN">ক্যালজেব্রাতে</instance>
+			<instance id="d001.s022.t003" lemma="শর্তযুক্ত" pos="ADJ">শর্তযুক্ত</instance>
+			<instance id="d001.s022.t004" lemma="অপারেশনকে" pos="NOUN">অপারেশনকে</instance>
+			<instance id="d001.s022.t005" lemma="সংজ্ঞায়িত" pos="VERB">সংজ্ঞায়িত</instance>
+			<instance id="d001.s022.t006" lemma="করতে" pos="VERB">করতে</instance>
+			<instance id="d001.s022.t007" lemma="পারি" pos="NOUN">পারি</instance>
+			<instance id="d001.s022.t008" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s023" source="semeval2015-en">
+			<instance id="d001.s023.t000" lemma="যদি" pos="X">যদি</instance>
+			<instance id="d001.s023.t001" lemma="আমরা" pos="X">আমরা</instance>
+			<instance id="d001.s023.t002" lemma="আগের" pos="NOUN">আগের</instance>
+			<instance id="d001.s023.t003" lemma="অবস্থার" pos="NOUN">অবস্থার</instance>
+			<instance id="d001.s023.t004" lemma="সাথে" pos="ADV">সাথে</instance>
+			<instance id="d001.s023.t005" lemma="পরিচয়" pos="VERB">পরিচয়</instance>
+			<instance id="d001.s023.t006" lemma="করিয়ে" pos="X">করিয়ে</instance>
+			<instance id="d001.s023.t007" lemma="দেই" pos="VERB">দেই</instance>
+			<instance id="d001.s023.t008" lemma="," pos="X">,</instance>
+			<instance id="d001.s023.t009" lemma="তাহলে" pos="ADV">তাহলে</instance>
+			<instance id="d001.s023.t010" lemma="এই" pos="X">এই</instance>
+			<instance id="d001.s023.t011" lemma="শর্তটি" pos="NOUN">শর্তটি</instance>
+			<instance id="d001.s023.t012" lemma="ব্যবহার" pos="VERB">ব্যবহার</instance>
+			<instance id="d001.s023.t013" lemma="করা" pos="NOUN">করা</instance>
+			<instance id="d001.s023.t014" lemma="হবে" pos="VERB">হবে</instance>
+			<instance id="d001.s023.t015" lemma="যদি" pos="X">যদি</instance>
+			<instance id="d001.s023.t016" lemma="এটি" pos="X">এটি</instance>
+			<instance id="d001.s023.t017" lemma="সত্য" pos="ADJ">সত্য</instance>
+			<instance id="d001.s023.t018" lemma="হয়" pos="X">হয়</instance>
+			<instance id="d001.s023.t019" lemma="," pos="X">,</instance>
+			<instance id="d001.s023.t020" lemma="যদি" pos="X">যদি</instance>
+			<instance id="d001.s023.t021" lemma="এটি" pos="X">এটি</instance>
+			<instance id="d001.s023.t022" lemma="কোন" pos="ADJ">কোন</instance>
+			<instance id="d001.s023.t023" lemma="শর্ত" pos="NOUN">শর্ত</instance>
+			<instance id="d001.s023.t024" lemma="ছাড়াই" pos="X">ছাড়াই</instance>
+			<instance id="d001.s023.t025" lemma="পাওয়া" pos="VERB">পাওয়া</instance>
+			<instance id="d001.s023.t026" lemma="যায়" pos="ADV">যায়</instance>
+			<instance id="d001.s023.t027" lemma="," pos="X">,</instance>
+			<instance id="d001.s023.t028" lemma="এটি" pos="X">এটি</instance>
+			<instance id="d001.s023.t029" lemma="শেষ" pos="ADJ">শেষ</instance>
+			<instance id="d001.s023.t030" lemma="অবস্থায়" pos="NOUN">অবস্থায়</instance>
+			<instance id="d001.s023.t031" lemma="প্রবেশ" pos="VERB">প্রবেশ</instance>
+			<instance id="d001.s023.t032" lemma="করবে" pos="VERB">করবে</instance>
+			<instance id="d001.s023.t033" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s024" source="semeval2015-en">
+			<instance id="d001.s024.t000" lemma="{" pos="X">{</instance>
+			<instance id="d001.s024.t001" lemma="/" pos="X">/</instance>
+			<instance id="d001.s024.t002" lemma=":" pos="X">:</instance>
+			<instance id="d001.s024.t003" lemma="গণিত" pos="NOUN">গণিত</instance>
+			<instance id="d001.s024.t004" lemma="ধারক" pos="NOUN">ধারক</instance>
+			<instance id="d001.s024.t005" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s025" source="semeval2015-en">
+			<instance id="d001.s025.t000" lemma="এটি" pos="X">এটি</instance>
+			<instance id="d001.s025.t001" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d001.s025.t002" lemma="কন্টেইনার" pos="NOUN">কন্টেইনার</instance>
+			<instance id="d001.s025.t003" lemma="সংজ্ঞায়িত" pos="VERB">সংজ্ঞায়িত</instance>
+			<instance id="d001.s025.t004" lemma="করতে" pos="VERB">করতে</instance>
+			<instance id="d001.s025.t005" lemma="ব্যবহার" pos="VERB">ব্যবহার</instance>
+			<instance id="d001.s025.t006" lemma="করা" pos="NOUN">করা</instance>
+			<instance id="d001.s025.t007" lemma="যেতে" pos="ADJ">যেতে</instance>
+			<instance id="d001.s025.t008" lemma="পারে" pos="VERB">পারে</instance>
+			<instance id="d001.s025.t009" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s026" source="semeval2015-en">
+			<instance id="d001.s026.t000" lemma="মূলত" pos="ADV">মূলত</instance>
+			<instance id="d001.s026.t001" lemma="টুকরা" pos="NOUN">টুকরা</instance>
+			<instance id="d001.s026.t002" lemma="টুকরা" pos="NOUN">টুকরা</instance>
+			<instance id="d001.s026.t003" lemma="দিয়ে" pos="ADV">দিয়ে</instance>
+			<instance id="d001.s026.t004" lemma="কাজ" pos="VERB">কাজ</instance>
+			<instance id="d001.s026.t005" lemma="করার" pos="NOUN">করার</instance>
+			<instance id="d001.s026.t006" lemma="জন্য" pos="X">জন্য</instance>
+			<instance id="d001.s026.t007" lemma="প্রয়োজনীয়" pos="ADJ">প্রয়োজনীয়</instance>
+			<instance id="d001.s026.t008" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s027" source="semeval2015-en">
+			<instance id="d001.s027.t000" lemma="এখন" pos="ADV">এখন</instance>
+			<instance id="d001.s027.t001" lemma="আপনি" pos="X">আপনি</instance>
+			<instance id="d001.s027.t002" lemma="আমাকে" pos="X">আমাকে</instance>
+			<instance id="d001.s027.t003" lemma="জিজ্ঞেস" pos="VERB">জিজ্ঞেস</instance>
+			<instance id="d001.s027.t004" lemma="করতে" pos="X">করতে</instance>
+			<instance id="d001.s027.t005" lemma="পারেন" pos="VERB">পারেন</instance>
+			<instance id="d001.s027.t006" lemma="," pos="X">,</instance>
+			<instance id="d001.s027.t007" lemma="ব্যবহারকারীর" pos="NOUN">ব্যবহারকারীর</instance>
+			<instance id="d001.s027.t008" lemma="কেন" pos="X">কেন</instance>
+			<instance id="d001.s027.t009" lemma="গণিতএমএল" pos="NOUN">গণিতএমএল</instance>
+			<instance id="d001.s027.t010" lemma="নিয়ে" pos="X">নিয়ে</instance>
+			<instance id="d001.s027.t011" lemma="মাথা" pos="NOUN">মাথা</instance>
+			<instance id="d001.s027.t012" lemma="ঘামানো" pos="X">ঘামানো</instance>
+			<instance id="d001.s027.t013" lemma="উচিত" pos="ADJ">উচিত</instance>
+			<instance id="d001.s027.t014" lemma="?" pos="X">?</instance>
+		</sentence>
+		<sentence id="d001.s028" source="semeval2015-en">
+			<instance id="d001.s028.t000" lemma="এটা" pos="X">এটা</instance>
+			<instance id="d001.s028.t001" lemma="সহজ" pos="ADJ">সহজ</instance>
+			<instance id="d001.s028.t002" lemma="।" pos="NOUN">।</instance>
+			<instance id="d001.s028.t003" lemma="এর" pos="X">এর</instance>
+			<instance id="d001.s028.t004" lemma="মাধ্যমে" pos="NOUN">মাধ্যমে</instance>
+			<instance id="d001.s028.t005" lemma="আমরা" pos="X">আমরা</instance>
+			<instance id="d001.s028.t006" lemma="কোস" pos="NOUN">কোস</instance>
+			<instance id="d001.s028.t007" lemma="(" pos="X">(</instance>
+			<instance id="d001.s028.t008" lemma="," pos="VERB">,</instance>
+			<instance id="d001.s028.t009" lemma="পাপ" pos="NOUN">পাপ</instance>
+			<instance id="d001.s028.t010" lemma="(" pos="ADJ">(</instance>
+			<instance id="d001.s028.t011" lemma="," pos="X">,</instance>
+			<instance id="d001.s028.t012" lemma="অন্য" pos="ADJ">অন্য</instance>
+			<instance id="d001.s028.t013" lemma="কোন" pos="NOUN">কোন</instance>
+			<instance id="d001.s028.t014" lemma="ত্রিকোণমিতিক" pos="ADJ">ত্রিকোণমিতিক</instance>
+			<instance id="d001.s028.t015" lemma="ফাংশন" pos="NOUN">ফাংশন</instance>
+			<instance id="d001.s028.t016" lemma="," pos="X">,</instance>
+			<instance id="d001.s028.t017" lemma="যোগফল" pos="NOUN">যোগফল</instance>
+			<instance id="d001.s028.t018" lemma="বা" pos="X">বা</instance>
+			<instance id="d001.s028.t019" lemma="পণ্য" pos="X">পণ্য</instance>
+			<instance id="d001.s028.t020" lemma="()" pos="X">()</instance>
+			<instance id="d001.s028.t021" lemma="এর" pos="X">এর</instance>
+			<instance id="d001.s028.t022" lemma="মত" pos="X">মত</instance>
+			<instance id="d001.s028.t023" lemma="ফাংশনের" pos="NOUN">ফাংশনের</instance>
+			<instance id="d001.s028.t024" lemma="সাথে" pos="NOUN">সাথে</instance>
+			<instance id="d001.s028.t025" lemma="কাজ" pos="VERB">কাজ</instance>
+			<instance id="d001.s028.t026" lemma="করতে" pos="VERB">করতে</instance>
+			<instance id="d001.s028.t027" lemma="পারি" pos="NOUN">পারি</instance>
+			<instance id="d001.s028.t028" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s029" source="semeval2015-en">
+			<instance id="d001.s029.t000" lemma="এটা" pos="X">এটা</instance>
+			<instance id="d001.s029.t001" lemma="কি" pos="X">কি</instance>
+			<instance id="d001.s029.t002" lemma="ধরনের" pos="NOUN">ধরনের</instance>
+			<instance id="d001.s029.t003" lemma="ব্যাপার" pos="NOUN">ব্যাপার</instance>
+			<instance id="d001.s029.t004" lemma="না" pos="ADV">না</instance>
+			<instance id="d001.s029.t005" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s030" source="semeval2015-en">
+			<instance id="d001.s030.t000" lemma="আমরা" pos="X">আমরা</instance>
+			<instance id="d001.s030.t001" lemma="ব্যবহার" pos="VERB">ব্যবহার</instance>
+			<instance id="d001.s030.t002" lemma="করতে" pos="NOUN">করতে</instance>
+			<instance id="d001.s030.t003" lemma="পারি" pos="NOUN">পারি</instance>
+			<instance id="d001.s030.t004" lemma="প্লাস" pos="NOUN">প্লাস</instance>
+			<instance id="d001.s030.t005" lemma="(" pos="NOUN">(</instance>
+			<instance id="d001.s030.t006" lemma="," pos="X">,</instance>
+			<instance id="d001.s030.t007" lemma="সময়" pos="NOUN">সময়</instance>
+			<instance id="d001.s030.t008" lemma="(" pos="X">(</instance>
+			<instance id="d001.s030.t009" lemma=")" pos="X">)</instance>
+			<instance id="d001.s030.t010" lemma="এবং" pos="X">এবং</instance>
+			<instance id="d001.s030.t011" lemma="যার" pos="X">যার</instance>
+			<instance id="d001.s030.t012" lemma="অপারেটর" pos="NOUN">অপারেটর</instance>
+			<instance id="d001.s030.t013" lemma="আছে" pos="VERB">আছে</instance>
+			<instance id="d001.s030.t014" lemma="তার" pos="NOUN">তার</instance>
+			<instance id="d001.s030.t015" lemma="সবকিছু" pos="NOUN">সবকিছু</instance>
+			<instance id="d001.s030.t016" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s031" source="semeval2015-en">
+			<instance id="d001.s031.t000" lemma="ক্যালজেব্রার" pos="NOUN">ক্যালজেব্রার</instance>
+			<instance id="d001.s031.t001" lemma="কনসোল" pos="NOUN">কনসোল</instance>
+			<instance id="d001.s031.t002" lemma="ক্যালকুলেটর" pos="NOUN">ক্যালকুলেটর</instance>
+			<instance id="d001.s031.t003" lemma="হিসাবে" pos="ADV">হিসাবে</instance>
+			<instance id="d001.s031.t004" lemma="কার্যকর" pos="ADJ">কার্যকর</instance>
+			<instance id="d001.s031.t005" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s032" source="semeval2015-en">
+			<instance id="d001.s032.t000" lemma="এখানে" pos="ADV">এখানে</instance>
+			<instance id="d001.s032.t001" lemma="আপনি" pos="X">আপনি</instance>
+			<instance id="d001.s032.t002" lemma="ঘোষিত" pos="ADJ">ঘোষিত</instance>
+			<instance id="d001.s032.t003" lemma="চলকের" pos="NOUN">চলকের</instance>
+			<instance id="d001.s032.t004" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d001.s032.t005" lemma="তালিকা" pos="NOUN">তালিকা</instance>
+			<instance id="d001.s032.t006" lemma="পাবেন" pos="VERB">পাবেন</instance>
+			<instance id="d001.s032.t007" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s033" source="semeval2015-en">
+			<instance id="d001.s033.t000" lemma="তাদের" pos="X">তাদের</instance>
+			<instance id="d001.s033.t001" lemma="উপর" pos="NOUN">উপর</instance>
+			<instance id="d001.s033.t002" lemma="ডবল" pos="ADJ">ডবল</instance>
+			<instance id="d001.s033.t003" lemma="ক্লিক" pos="ADJ">ক্লিক</instance>
+			<instance id="d001.s033.t004" lemma="করে" pos="VERB">করে</instance>
+			<instance id="d001.s033.t005" lemma="আপনি" pos="X">আপনি</instance>
+			<instance id="d001.s033.t006" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d001.s033.t007" lemma="ডায়ালগ" pos="NOUN">ডায়ালগ</instance>
+			<instance id="d001.s033.t008" lemma="দেখবেন" pos="VERB">দেখবেন</instance>
+			<instance id="d001.s033.t009" lemma="যা" pos="X">যা</instance>
+			<instance id="d001.s033.t010" lemma="আপনাকে" pos="X">আপনাকে</instance>
+			<instance id="d001.s033.t011" lemma="তাদের" pos="X">তাদের</instance>
+			<instance id="d001.s033.t012" lemma="মান" pos="NOUN">মান</instance>
+			<instance id="d001.s033.t013" lemma="পরিবর্তন" pos="VERB">পরিবর্তন</instance>
+			<instance id="d001.s033.t014" lemma="করতে" pos="VERB">করতে</instance>
+			<instance id="d001.s033.t015" lemma="সাহায্য" pos="VERB">সাহায্য</instance>
+			<instance id="d001.s033.t016" lemma="করবে" pos="VERB">করবে</instance>
+			<instance id="d001.s033.t017" lemma="(" pos="X">(</instance>
+			<instance id="d001.s033.t018" lemma="শুধুমাত্র" pos="ADV">শুধুমাত্র</instance>
+			<instance id="d001.s033.t019" lemma="লগটি" pos="NOUN">লগটি</instance>
+			<instance id="d001.s033.t020" lemma="চালাবার" pos="VERB">চালাবার</instance>
+			<instance id="d001.s033.t021" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d001.s033.t022" lemma="উপায়" pos="NOUN">উপায়</instance>
+			<instance id="d001.s033.t023" lemma=")" pos="X">)</instance>
+			<instance id="d001.s033.t024" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s034" source="semeval2015-en">
+			<instance id="d001.s034.t000" lemma="``" pos="X">``</instance>
+			<instance id="d001.s034.t001" lemma="প্রত্যেকবার" pos="ADV">প্রত্যেকবার</instance>
+			<instance id="d001.s034.t002" lemma="আপনি" pos="X">আপনি</instance>
+			<instance id="d001.s034.t003" lemma="যখন" pos="NOUN">যখন</instance>
+			<instance id="d001.s034.t004" lemma="কোন" pos="ADJ">কোন</instance>
+			<instance id="d001.s034.t005" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d001.s034.t006" lemma="অভিব্যক্তিতে" pos="NOUN">অভিব্যক্তিতে</instance>
+			<instance id="d001.s034.t007" lemma="প্রবেশ" pos="VERB">প্রবেশ</instance>
+			<instance id="d001.s034.t008" lemma="করেন" pos="VERB">করেন</instance>
+			<instance id="d001.s034.t009" lemma="," pos="X">,</instance>
+			<instance id="d001.s034.t010" lemma="তখন" pos="X">তখন</instance>
+			<instance id="d001.s034.t011" lemma="``" pos="X">``</instance>
+			<instance id="d001.s034.t012" lemma="এবং" pos="X">এবং</instance>
+			<instance id="d001.s034.t013" lemma="``" pos="X">``</instance>
+			<instance id="d001.s034.t014" lemma="পরিবর্তনশীল" pos="NOUN">পরিবর্তনশীল</instance>
+			<instance id="d001.s034.t015" lemma="মান" pos="NOUN">মান</instance>
+			<instance id="d001.s034.t016" lemma="সর্বশেষ" pos="ADJ">সর্বশেষ</instance>
+			<instance id="d001.s034.t017" lemma="ফলাফলে" pos="NOUN">ফলাফলে</instance>
+			<instance id="d001.s034.t018" lemma="পরিবর্তন" pos="VERB">পরিবর্তন</instance>
+			<instance id="d001.s034.t019" lemma="করা" pos="NOUN">করা</instance>
+			<instance id="d001.s034.t020" lemma="হবে" pos="VERB">হবে</instance>
+			<instance id="d001.s034.t021" lemma="।" pos="X">।</instance>
+			<instance id="d001.s034.t022" lemma="``" pos="NOUN">``</instance>
+		</sentence>
+		<sentence id="d001.s035" source="semeval2015-en">
+			<instance id="d001.s035.t000" lemma="নতুন" pos="ADJ">নতুন</instance>
+			<instance id="d001.s035.t001" lemma="উইন্ডোকে" pos="NOUN">উইন্ডোকে</instance>
+			<instance id="d001.s035.t002" lemma="কেন্দ্র" pos="NOUN">কেন্দ্র</instance>
+			<instance id="d001.s035.t003" lemma="করে" pos="X">করে</instance>
+		</sentence>
+		<sentence id="d001.s036" source="semeval2015-en">
+			<instance id="d001.s036.t000" lemma="লগ" pos="NOUN">লগ</instance>
+			<instance id="d001.s036.t001" lemma="উড়িয়ে" pos="X">উড়িয়ে</instance>
+			<instance id="d001.s036.t002" lemma="দাও" pos="X">দাও</instance>
+			<instance id="d001.s036.t003" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s037" source="semeval2015-en">
+			<instance id="d001.s037.t000" lemma="স্ক্রিপ্ট" pos="NOUN">স্ক্রিপ্ট</instance>
+			<instance id="d001.s037.t001" lemma="লোড" pos="VERB">লোড</instance>
+			<instance id="d001.s037.t002" lemma="করো" pos="ADJ">করো</instance>
+		</sentence>
+		<sentence id="d001.s038" source="semeval2015-en">
+			<instance id="d001.s038.t000" lemma="-র" pos="VERB">-র</instance>
+			<instance id="d001.s038.t001" lemma="নির্দেশাবলী" pos="NOUN">নির্দেশাবলী</instance>
+			<instance id="d001.s038.t002" lemma="ধারাবাহিকভাবে" pos="ADV">ধারাবাহিকভাবে</instance>
+			<instance id="d001.s038.t003" lemma="ফাইলে" pos="NOUN">ফাইলে</instance>
+			<instance id="d001.s038.t004" lemma="কার্যকর" pos="VERB">কার্যকর</instance>
+			<instance id="d001.s038.t005" lemma="করে" pos="VERB">করে</instance>
+			<instance id="d001.s038.t006" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s039" source="semeval2015-en">
+			<instance id="d001.s039.t000" lemma="আপনি" pos="X">আপনি</instance>
+			<instance id="d001.s039.t001" lemma="যদি" pos="X">যদি</instance>
+			<instance id="d001.s039.t002" lemma="কিছু" pos="ADJ">কিছু</instance>
+			<instance id="d001.s039.t003" lemma="লাইব্রেরি" pos="NOUN">লাইব্রেরি</instance>
+			<instance id="d001.s039.t004" lemma="নির্ধারণ" pos="VERB">নির্ধারণ</instance>
+			<instance id="d001.s039.t005" lemma="করতে" pos="VERB">করতে</instance>
+			<instance id="d001.s039.t006" lemma="চান" pos="NOUN">চান</instance>
+			<instance id="d001.s039.t007" lemma="অথবা" pos="X">অথবা</instance>
+			<instance id="d001.s039.t008" lemma="পূর্বের" pos="ADJ">পূর্বের</instance>
+			<instance id="d001.s039.t009" lemma="কিছু" pos="X">কিছু</instance>
+			<instance id="d001.s039.t010" lemma="কাজ" pos="NOUN">কাজ</instance>
+			<instance id="d001.s039.t011" lemma="পুনরায়" pos="X">পুনরায়</instance>
+			<instance id="d001.s039.t012" lemma="শুরু" pos="NOUN">শুরু</instance>
+			<instance id="d001.s039.t013" lemma="করতে" pos="X">করতে</instance>
+			<instance id="d001.s039.t014" lemma="চান" pos="VERB">চান</instance>
+			<instance id="d001.s039.t015" lemma="," pos="X">,</instance>
+			<instance id="d001.s039.t016" lemma="তা" pos="ADJ">তা</instance>
+			<instance id="d001.s039.t017" lemma="হলে" pos="X">হলে</instance>
+			<instance id="d001.s039.t018" lemma="ভালো" pos="ADJ">ভালো</instance>
+			<instance id="d001.s039.t019" lemma="হবে" pos="NOUN">হবে</instance>
+			<instance id="d001.s039.t020" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s040" source="semeval2015-en">
+			<instance id="d001.s040.t000" lemma="স্ক্রিপ্ট" pos="NOUN">স্ক্রিপ্ট</instance>
+			<instance id="d001.s040.t001" lemma="সংরক্ষণ" pos="VERB">সংরক্ষণ</instance>
+			<instance id="d001.s040.t002" lemma="করো" pos="NOUN">করো</instance>
+		</sentence>
+		<sentence id="d001.s041" source="semeval2015-en">
+			<instance id="d001.s041.t000" lemma="অধিবেশন" pos="NOUN">অধিবেশন</instance>
+			<instance id="d001.s041.t001" lemma="আরম্ভ" pos="NOUN">আরম্ভ</instance>
+			<instance id="d001.s041.t002" lemma="হওয়ার" pos="X">হওয়ার</instance>
+			<instance id="d001.s041.t003" lemma="পর" pos="NOUN">পর</instance>
+			<instance id="d001.s041.t004" lemma="থেকে" pos="X">থেকে</instance>
+			<instance id="d001.s041.t005" lemma="আপনার" pos="X">আপনার</instance>
+			<instance id="d001.s041.t006" lemma="লেখা" pos="VERB">লেখা</instance>
+			<instance id="d001.s041.t007" lemma="নির্দেশনা" pos="NOUN">নির্দেশনা</instance>
+			<instance id="d001.s041.t008" lemma="সংরক্ষণ" pos="VERB">সংরক্ষণ</instance>
+			<instance id="d001.s041.t009" lemma="করা" pos="NOUN">করা</instance>
+			<instance id="d001.s041.t010" lemma="হয়" pos="X">হয়</instance>
+			<instance id="d001.s041.t011" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s042" source="semeval2015-en">
+			<instance id="d001.s042.t000" lemma="টেক্সট" pos="NOUN">টেক্সট</instance>
+			<instance id="d001.s042.t001" lemma="ফাইল" pos="NOUN">ফাইল</instance>
+			<instance id="d001.s042.t002" lemma="তৈরী" pos="VERB">তৈরী</instance>
+			<instance id="d001.s042.t003" lemma="করে" pos="VERB">করে</instance>
+			<instance id="d001.s042.t004" lemma="যাতে" pos="X">যাতে</instance>
+			<instance id="d001.s042.t005" lemma="ক্যাটের" pos="NOUN">ক্যাটের</instance>
+			<instance id="d001.s042.t006" lemma="মতো" pos="X">মতো</instance>
+			<instance id="d001.s042.t007" lemma="টেক্সট" pos="NOUN">টেক্সট</instance>
+			<instance id="d001.s042.t008" lemma="সম্পাদক" pos="NOUN">সম্পাদক</instance>
+			<instance id="d001.s042.t009" lemma="ব্যবহার" pos="VERB">ব্যবহার</instance>
+			<instance id="d001.s042.t010" lemma="করে" pos="ADV">করে</instance>
+			<instance id="d001.s042.t011" lemma="সহজে" pos="ADJ">সহজে</instance>
+			<instance id="d001.s042.t012" lemma="ঠিক" pos="VERB">ঠিক</instance>
+			<instance id="d001.s042.t013" lemma="করা" pos="NOUN">করা</instance>
+			<instance id="d001.s042.t014" lemma="যায়" pos="X">যায়</instance>
+			<instance id="d001.s042.t015" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s043" source="semeval2015-en">
+			<instance id="d001.s043.t000" lemma="এস" pos="NOUN">এস</instance>
+			<instance id="d001.s043.t001" lemma="সংরক্ষণ" pos="NOUN">সংরক্ষণ</instance>
+			<instance id="d001.s043.t002" lemma="লগ" pos="NOUN">লগ</instance>
+		</sentence>
+		<sentence id="d001.s044" source="semeval2015-en">
+			<instance id="d001.s044.t000" lemma="মুদ্রণ" pos="NOUN">মুদ্রণ</instance>
+			<instance id="d001.s044.t001" lemma="বা" pos="X">বা</instance>
+			<instance id="d001.s044.t002" lemma="প্রকাশ" pos="VERB">প্রকাশ</instance>
+			<instance id="d001.s044.t003" lemma="করতে" pos="VERB">করতে</instance>
+			<instance id="d001.s044.t004" lemma="সক্ষম" pos="ADJ">সক্ষম</instance>
+			<instance id="d001.s044.t005" lemma="হওয়ার" pos="NOUN">হওয়ার</instance>
+			<instance id="d001.s044.t006" lemma="জন্য" pos="X">জন্য</instance>
+			<instance id="d001.s044.t007" lemma="সকল" pos="X">সকল</instance>
+			<instance id="d001.s044.t008" lemma="ফলাফলসহ" pos="NOUN">ফলাফলসহ</instance>
+			<instance id="d001.s044.t009" lemma="লগটি" pos="NOUN">লগটি</instance>
+			<instance id="d001.s044.t010" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d001.s044.t011" lemma="এইচ-টি-এম-এল" pos="NOUN">এইচ-টি-এম-এল</instance>
+			<instance id="d001.s044.t012" lemma="ফাইলে" pos="NOUN">ফাইলে</instance>
+			<instance id="d001.s044.t013" lemma="সংরক্ষণ" pos="VERB">সংরক্ষণ</instance>
+			<instance id="d001.s044.t014" lemma="করে" pos="X">করে</instance>
+			<instance id="d001.s044.t015" lemma="।" pos="NOUN">।</instance>
+		</sentence>
+		<sentence id="d001.s045" source="semeval2015-en">
+			<instance id="d001.s045.t000" lemma="কিউ" pos="NOUN">কিউ</instance>
+			<instance id="d001.s045.t001" lemma="বন্ধ" pos="NOUN">বন্ধ</instance>
+			<instance id="d001.s045.t002" lemma="করো" pos="ADJ">করো</instance>
+		</sentence>
+		<sentence id="d001.s046" source="semeval2015-en">
+			<instance id="d001.s046.t000" lemma="প্রোগ্রাম" pos="NOUN">প্রোগ্রাম</instance>
+			<instance id="d001.s046.t001" lemma="বন্ধ" pos="ADJ">বন্ধ</instance>
+			<instance id="d001.s046.t002" lemma="করে" pos="VERB">করে</instance>
+			<instance id="d001.s046.t003" lemma="দাও" pos="NOUN">দাও</instance>
+			<instance id="d001.s046.t004" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s047" source="semeval2015-en">
+			<instance id="d001.s047.t000" lemma="কালজেব্রাতে" pos="NOUN">কালজেব্রাতে</instance>
+			<instance id="d001.s047.t001" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d001.s047.t002" lemma="নতুন" pos="ADJ">নতুন</instance>
+			<instance id="d001.s047.t003" lemma="দ্বিমাত্রিক" pos="NOUN">দ্বিমাত্রিক</instance>
+			<instance id="d001.s047.t004" lemma="গ্রাফ" pos="NOUN">গ্রাফ</instance>
+			<instance id="d001.s047.t005" lemma="যোগ" pos="VERB">যোগ</instance>
+			<instance id="d001.s047.t006" lemma="করার" pos="NOUN">করার</instance>
+			<instance id="d001.s047.t007" lemma="জন্য" pos="X">জন্য</instance>
+			<instance id="d001.s047.t008" lemma="আপনাকে" pos="X">আপনাকে</instance>
+			<instance id="d001.s047.t009" lemma="যা" pos="X">যা</instance>
+			<instance id="d001.s047.t010" lemma="করতে" pos="VERB">করতে</instance>
+			<instance id="d001.s047.t011" lemma="হবে" pos="VERB">হবে</instance>
+			<instance id="d001.s047.t012" lemma="তা" pos="X">তা</instance>
+			<instance id="d001.s047.t013" lemma="হল" pos="VERB">হল</instance>
+			<instance id="d001.s047.t014" lemma="দ্বিমাত্রিক" pos="ADJ">দ্বিমাত্রিক</instance>
+			<instance id="d001.s047.t015" lemma="গ্রাফ" pos="NOUN">গ্রাফ</instance>
+			<instance id="d001.s047.t016" lemma="ট্যাবে" pos="NOUN">ট্যাবে</instance>
+			<instance id="d001.s047.t017" lemma="যেতে" pos="VERB">যেতে</instance>
+			<instance id="d001.s047.t018" lemma="হবে" pos="ADJ">হবে</instance>
+			<instance id="d001.s047.t019" lemma="এবং" pos="X">এবং</instance>
+			<instance id="d001.s047.t020" lemma="নতুন" pos="ADJ">নতুন</instance>
+			<instance id="d001.s047.t021" lemma="ফাংশন" pos="NOUN">ফাংশন</instance>
+			<instance id="d001.s047.t022" lemma="যোগ" pos="X">যোগ</instance>
+			<instance id="d001.s047.t023" lemma="করার" pos="NOUN">করার</instance>
+			<instance id="d001.s047.t024" lemma="জন্য" pos="X">জন্য</instance>
+			<instance id="d001.s047.t025" lemma="যোগ" pos="VERB">যোগ</instance>
+			<instance id="d001.s047.t026" lemma="ট্যাবে" pos="ADV">ট্যাবে</instance>
+			<instance id="d001.s047.t027" lemma="ক্লিক" pos="ADJ">ক্লিক</instance>
+			<instance id="d001.s047.t028" lemma="করুন" pos="VERB">করুন</instance>
+			<instance id="d001.s047.t029" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s048" source="semeval2015-en">
+			<instance id="d001.s048.t000" lemma="তারপর" pos="ADV">তারপর</instance>
+			<instance id="d001.s048.t001" lemma="আপনার" pos="X">আপনার</instance>
+			<instance id="d001.s048.t002" lemma="ফোকাস" pos="NOUN">ফোকাস</instance>
+			<instance id="d001.s048.t003" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d001.s048.t004" lemma="ইনপুট" pos="NOUN">ইনপুট</instance>
+			<instance id="d001.s048.t005" lemma="টেক্সট" pos="NOUN">টেক্সট</instance>
+			<instance id="d001.s048.t006" lemma="বক্সে" pos="NOUN">বক্সে</instance>
+			<instance id="d001.s048.t007" lemma="যাবে" pos="VERB">যাবে</instance>
+			<instance id="d001.s048.t008" lemma="যেখানে" pos="ADV">যেখানে</instance>
+			<instance id="d001.s048.t009" lemma="আপনি" pos="X">আপনি</instance>
+			<instance id="d001.s048.t010" lemma="আপনার" pos="X">আপনার</instance>
+			<instance id="d001.s048.t011" lemma="ফাংশন" pos="NOUN">ফাংশন</instance>
+			<instance id="d001.s048.t012" lemma="টাইপ" pos="VERB">টাইপ</instance>
+			<instance id="d001.s048.t013" lemma="করতে" pos="NOUN">করতে</instance>
+			<instance id="d001.s048.t014" lemma="পারেন" pos="VERB">পারেন</instance>
+			<instance id="d001.s048.t015" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s049" source="semeval2015-en">
+			<instance id="d001.s049.t000" lemma="যদি" pos="X">যদি</instance>
+			<instance id="d001.s049.t001" lemma="আপনি" pos="X">আপনি</instance>
+			<instance id="d001.s049.t002" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d001.s049.t003" lemma="সাধারণ" pos="ADJ">সাধারণ</instance>
+			<instance id="d001.s049.t004" lemma="এফ" pos="NOUN">এফ</instance>
+			<instance id="d001.s049.t005" lemma="(" pos="X">(</instance>
+			<instance id="d001.s049.t006" lemma="এক্স" pos="NOUN">এক্স</instance>
+			<instance id="d001.s049.t007" lemma=")" pos="NOUN">)</instance>
+			<instance id="d001.s049.t008" lemma="ফাংশন" pos="NOUN">ফাংশন</instance>
+			<instance id="d001.s049.t009" lemma="ব্যবহার" pos="VERB">ব্যবহার</instance>
+			<instance id="d001.s049.t010" lemma="করতে" pos="VERB">করতে</instance>
+			<instance id="d001.s049.t011" lemma="চান" pos="VERB">চান</instance>
+			<instance id="d001.s049.t012" lemma="তবে" pos="X">তবে</instance>
+			<instance id="d001.s049.t013" lemma="এটি" pos="X">এটি</instance>
+			<instance id="d001.s049.t014" lemma="উল্লেখ" pos="NOUN">উল্লেখ</instance>
+			<instance id="d001.s049.t015" lemma="করার" pos="NOUN">করার</instance>
+			<instance id="d001.s049.t016" lemma="প্রয়োজন" pos="ADJ">প্রয়োজন</instance>
+			<instance id="d001.s049.t017" lemma="নেই" pos="ADV">নেই</instance>
+			<instance id="d001.s049.t018" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s050" source="semeval2015-en">
+			<instance id="d001.s050.t000" lemma="যদি" pos="X">যদি</instance>
+			<instance id="d001.s050.t001" lemma="আপনি" pos="X">আপনি</instance>
+			<instance id="d001.s050.t002" lemma="ফাংশনে" pos="NOUN">ফাংশনে</instance>
+			<instance id="d001.s050.t003" lemma="প্রবেশ" pos="VERB">প্রবেশ</instance>
+			<instance id="d001.s050.t004" lemma="করে" pos="VERB">করে</instance>
+			<instance id="d001.s050.t005" lemma="থাকেন" pos="VERB">থাকেন</instance>
+			<instance id="d001.s050.t006" lemma="তবে" pos="X">তবে</instance>
+			<instance id="d001.s050.t007" lemma="প্রধান" pos="ADJ">প্রধান</instance>
+			<instance id="d001.s050.t008" lemma="উইন্ডোতে" pos="X">উইন্ডোতে</instance>
+			<instance id="d001.s050.t009" lemma="গ্রাফ" pos="NOUN">গ্রাফ</instance>
+			<instance id="d001.s050.t010" lemma="প্রদর্শন" pos="VERB">প্রদর্শন</instance>
+			<instance id="d001.s050.t011" lemma="করার" pos="NOUN">করার</instance>
+			<instance id="d001.s050.t012" lemma="জন্য" pos="X">জন্য</instance>
+			<instance id="d001.s050.t013" lemma="``" pos="X">``</instance>
+			<instance id="d001.s050.t014" lemma="ওকে" pos="ADJ">ওকে</instance>
+			<instance id="d001.s050.t015" lemma="বাটনে" pos="NOUN">বাটনে</instance>
+			<instance id="d001.s050.t016" lemma="ক্লিক" pos="ADJ">ক্লিক</instance>
+			<instance id="d001.s050.t017" lemma="করুন" pos="X">করুন</instance>
+			<instance id="d001.s050.t018" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s051" source="semeval2015-en">
+			<instance id="d001.s051.t000" lemma="আপনি" pos="X">আপনি</instance>
+			<instance id="d001.s051.t001" lemma="একই" pos="ADJ">একই</instance>
+			<instance id="d001.s051.t002" lemma="দৃষ্টিভঙ্গিতে" pos="NOUN">দৃষ্টিভঙ্গিতে</instance>
+			<instance id="d001.s051.t003" lemma="একাধিক" pos="ADJ">একাধিক</instance>
+			<instance id="d001.s051.t004" lemma="গ্রাফ" pos="NOUN">গ্রাফ</instance>
+			<instance id="d001.s051.t005" lemma="সেট" pos="VERB">সেট</instance>
+			<instance id="d001.s051.t006" lemma="করতে" pos="NOUN">করতে</instance>
+			<instance id="d001.s051.t007" lemma="পারেন" pos="VERB">পারেন</instance>
+			<instance id="d001.s051.t008" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s052" source="semeval2015-en">
+			<instance id="d001.s052.t000" lemma="লিস্ট" pos="NOUN">লিস্ট</instance>
+			<instance id="d001.s052.t001" lemma="মোডে" pos="NOUN">মোডে</instance>
+			<instance id="d001.s052.t002" lemma="থাকার" pos="ADV">থাকার</instance>
+			<instance id="d001.s052.t003" lemma="সময়" pos="NOUN">সময়</instance>
+			<instance id="d001.s052.t004" lemma="শুধুমাত্র" pos="ADV">শুধুমাত্র</instance>
+			<instance id="d001.s052.t005" lemma="অ্যাড" pos="VERB">অ্যাড</instance>
+			<instance id="d001.s052.t006" lemma="বোতাম" pos="NOUN">বোতাম</instance>
+			<instance id="d001.s052.t007" lemma="ব্যবহার" pos="VERB">ব্যবহার</instance>
+			<instance id="d001.s052.t008" lemma="করা" pos="NOUN">করা</instance>
+			<instance id="d001.s052.t009" lemma="হবে" pos="VERB">হবে</instance>
+			<instance id="d001.s052.t010" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d001.s053" source="semeval2015-en">
+			<instance id="d001.s053.t000" lemma="আপনি" pos="X">আপনি</instance>
+			<instance id="d001.s053.t001" lemma="প্রতিটি" pos="ADJ">প্রতিটি</instance>
+			<instance id="d001.s053.t002" lemma="গ্রাফকে" pos="NOUN">গ্রাফকে</instance>
+			<instance id="d001.s053.t003" lemma="তার" pos="X">তার</instance>
+			<instance id="d001.s053.t004" lemma="নিজস্ব" pos="ADJ">নিজস্ব</instance>
+			<instance id="d001.s053.t005" lemma="রং" pos="NOUN">রং</instance>
+			<instance id="d001.s053.t006" lemma="নির্ধারণ" pos="VERB">নির্ধারণ</instance>
+			<instance id="d001.s053.t007" lemma="করতে" pos="ADJ">করতে</instance>
+			<instance id="d001.s053.t008" lemma="পারেন" pos="VERB">পারেন</instance>
+			<instance id="d001.s053.t009" lemma="।" pos="X">।</instance>
+		</sentence>
+	</text>
+	<text id="d002">
+		<sentence id="d002.s000" source="semeval2015-en" />
+		<sentence id="d002.s001" source="semeval2015-en">
+			<instance id="d002.s001.t000" lemma="ফাউন্ডেশন" pos="NOUN">ফাউন্ডেশন</instance>
+			<instance id="d002.s001.t001" lemma="সম্প্রতি" pos="ADV">সম্প্রতি</instance>
+			<instance id="d002.s001.t002" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d002.s001.t003" lemma="সম্মেলন" pos="NOUN">সম্মেলন</instance>
+			<instance id="d002.s001.t004" lemma="আয়োজনের" pos="NOUN">আয়োজনের</instance>
+			<instance id="d002.s001.t005" lemma="সাথে" pos="NOUN">সাথে</instance>
+			<instance id="d002.s001.t006" lemma="জড়িত" pos="VERB">জড়িত</instance>
+			<instance id="d002.s001.t007" lemma="যা" pos="X">যা</instance>
+			<instance id="d002.s001.t008" lemma="এই" pos="X">এই</instance>
+			<instance id="d002.s001.t009" lemma="কঠিন" pos="ADJ">কঠিন</instance>
+			<instance id="d002.s001.t010" lemma="চ্যালেঞ্জ" pos="NOUN">চ্যালেঞ্জ</instance>
+			<instance id="d002.s001.t011" lemma="মোকাবেলা" pos="VERB">মোকাবেলা</instance>
+			<instance id="d002.s001.t012" lemma="করেছে" pos="VERB">করেছে</instance>
+			<instance id="d002.s001.t013" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d002.s002" source="semeval2015-en">
+			<instance id="d002.s002.t000" lemma="প্রধান" pos="ADJ">প্রধান</instance>
+			<instance id="d002.s002.t001" lemma="স্বার্থবাদী" pos="NOUN">স্বার্থবাদী</instance>
+			<instance id="d002.s002.t002" lemma="দলগুলোর" pos="NOUN">দলগুলোর</instance>
+			<instance id="d002.s002.t003" lemma="100" pos="X">100</instance>
+			<instance id="d002.s002.t004" lemma="জনেরও" pos="NOUN">জনেরও</instance>
+			<instance id="d002.s002.t005" lemma="বেশি" pos="ADJ">বেশি</instance>
+			<instance id="d002.s002.t006" lemma="অংশগ্রহণকারী" pos="NOUN">অংশগ্রহণকারী</instance>
+			<instance id="d002.s002.t007" lemma="অংশগ্রহণ" pos="VERB">অংশগ্রহণ</instance>
+			<instance id="d002.s002.t008" lemma="করে" pos="VERB">করে</instance>
+			<instance id="d002.s002.t009" lemma="এবং" pos="NOUN">এবং</instance>
+			<instance id="d002.s002.t010" lemma="বিভিন্ন" pos="ADJ">বিভিন্ন</instance>
+			<instance id="d002.s002.t011" lemma="বিষয়ে" pos="NOUN">বিষয়ে</instance>
+			<instance id="d002.s002.t012" lemma="বিতর্ক" pos="VERB">বিতর্ক</instance>
+			<instance id="d002.s002.t013" lemma="করে" pos="X">করে</instance>
+			<instance id="d002.s002.t014" lemma="," pos="X">,</instance>
+			<instance id="d002.s002.t015" lemma="যেমন" pos="VERB">যেমন</instance>
+			<instance id="d002.s002.t016" lemma="সরকারি" pos="ADJ">সরকারি</instance>
+			<instance id="d002.s002.t017" lemma="কর্তৃপক্ষ" pos="NOUN">কর্তৃপক্ষ</instance>
+			<instance id="d002.s002.t018" lemma="," pos="NOUN">,</instance>
+			<instance id="d002.s002.t019" lemma="সামাজিক" pos="ADJ">সামাজিক</instance>
+			<instance id="d002.s002.t020" lemma="অংশীদার" pos="NOUN">অংশীদার</instance>
+			<instance id="d002.s002.t021" lemma="," pos="X">,</instance>
+			<instance id="d002.s002.t022" lemma="স্বেচ্ছাসেবী" pos="ADJ">স্বেচ্ছাসেবী</instance>
+			<instance id="d002.s002.t023" lemma="ও" pos="X">ও</instance>
+			<instance id="d002.s002.t024" lemma="কমিউনিটি" pos="NOUN">কমিউনিটি</instance>
+			<instance id="d002.s002.t025" lemma="সংগঠন" pos="NOUN">সংগঠন</instance>
+			<instance id="d002.s002.t026" lemma="এবং" pos="X">এবং</instance>
+			<instance id="d002.s002.t027" lemma="সেবা" pos="NOUN">সেবা</instance>
+			<instance id="d002.s002.t028" lemma="ব্যবহারকারীদের" pos="NOUN">ব্যবহারকারীদের</instance>
+			<instance id="d002.s002.t029" lemma="ভূমিকা" pos="NOUN">ভূমিকা</instance>
+			<instance id="d002.s002.t030" lemma="।" pos="NOUN">।</instance>
+		</sentence>
+		<sentence id="d002.s003" source="semeval2015-en">
+			<instance id="d002.s003.t000" lemma="সেবা" pos="NOUN">সেবা</instance>
+			<instance id="d002.s003.t001" lemma="পরিকল্পনায়" pos="NOUN">পরিকল্পনায়</instance>
+			<instance id="d002.s003.t002" lemma="ব্যবহারকারীদের" pos="NOUN">ব্যবহারকারীদের</instance>
+			<instance id="d002.s003.t003" lemma="জড়িত" pos="VERB">জড়িত</instance>
+			<instance id="d002.s003.t004" lemma="করার" pos="NOUN">করার</instance>
+			<instance id="d002.s003.t005" lemma="প্রচেষ্টার" pos="NOUN">প্রচেষ্টার</instance>
+			<instance id="d002.s003.t006" lemma="বিষয়ে" pos="NOUN">বিষয়ে</instance>
+			<instance id="d002.s003.t007" lemma="তুলনামূলকভাবে" pos="ADV">তুলনামূলকভাবে</instance>
+			<instance id="d002.s003.t008" lemma="অল্প" pos="X">অল্প</instance>
+			<instance id="d002.s003.t009" lemma="কিছু" pos="ADJ">কিছু</instance>
+			<instance id="d002.s003.t010" lemma="মামলার" pos="NOUN">মামলার</instance>
+			<instance id="d002.s003.t011" lemma="রিপোর্ট" pos="VERB">রিপোর্ট</instance>
+			<instance id="d002.s003.t012" lemma="করা" pos="VERB">করা</instance>
+			<instance id="d002.s003.t013" lemma="হয়েছিল" pos="VERB">হয়েছিল</instance>
+			<instance id="d002.s003.t014" lemma="," pos="X">,</instance>
+			<instance id="d002.s003.t015" lemma="তবে" pos="X">তবে</instance>
+			<instance id="d002.s003.t016" lemma="সেবা" pos="NOUN">সেবা</instance>
+			<instance id="d002.s003.t017" lemma="ব্যবস্থায়" pos="NOUN">ব্যবস্থায়</instance>
+			<instance id="d002.s003.t018" lemma="তাদের" pos="X">তাদের</instance>
+			<instance id="d002.s003.t019" lemma="জড়িত" pos="NOUN">জড়িত</instance>
+			<instance id="d002.s003.t020" lemma="থাকা" pos="ADJ">থাকা</instance>
+			<instance id="d002.s003.t021" lemma="আরও" pos="ADV">আরও</instance>
+			<instance id="d002.s003.t022" lemma="সাধারণ" pos="ADJ">সাধারণ</instance>
+			<instance id="d002.s003.t023" lemma="ছিল" pos="VERB">ছিল</instance>
+			<instance id="d002.s003.t024" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d002.s004" source="semeval2015-en">
+			<instance id="d002.s004.t000" lemma="জনকল্যাণমূলক" pos="ADJ">জনকল্যাণমূলক</instance>
+			<instance id="d002.s004.t001" lemma="বিভিন্ন" pos="ADJ">বিভিন্ন</instance>
+			<instance id="d002.s004.t002" lemma="ভূমিকা" pos="NOUN">ভূমিকা</instance>
+			<instance id="d002.s004.t003" lemma="পালনেও" pos="ADV">পালনেও</instance>
+			<instance id="d002.s004.t004" lemma="উল্লেখযোগ্য" pos="NOUN">উল্লেখযোগ্য</instance>
+			<instance id="d002.s004.t005" lemma="অবদান" pos="NOUN">অবদান</instance>
+			<instance id="d002.s004.t006" lemma="রাখা" pos="NOUN">রাখা</instance>
+			<instance id="d002.s004.t007" lemma="হয়" pos="X">হয়</instance>
+			<instance id="d002.s004.t008" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d002.s005" source="semeval2015-en">
+			<instance id="d002.s005.t000" lemma="ফাউন্ডেশনটি" pos="NOUN">ফাউন্ডেশনটি</instance>
+			<instance id="d002.s005.t001" lemma="ইউরোপীয়" pos="ADJ">ইউরোপীয়</instance>
+			<instance id="d002.s005.t002" lemma="কমিশন" pos="NOUN">কমিশন</instance>
+			<instance id="d002.s005.t003" lemma="," pos="NOUN">,</instance>
+			<instance id="d002.s005.t004" lemma="স্প্যানিশ" pos="NOUN">স্প্যানিশ</instance>
+			<instance id="d002.s005.t005" lemma="সামাজিক" pos="ADJ">সামাজিক</instance>
+			<instance id="d002.s005.t006" lemma="বিষয়ক" pos="NOUN">বিষয়ক</instance>
+			<instance id="d002.s005.t007" lemma="মন্ত্রণালয়" pos="NOUN">মন্ত্রণালয়</instance>
+			<instance id="d002.s005.t008" lemma="এবং" pos="X">এবং</instance>
+			<instance id="d002.s005.t009" lemma="গ্যালিসিয়ান" pos="NOUN">গ্যালিসিয়ান</instance>
+			<instance id="d002.s005.t010" lemma="আঞ্চলিক" pos="ADJ">আঞ্চলিক</instance>
+			<instance id="d002.s005.t011" lemma="সরকারের" pos="NOUN">সরকারের</instance>
+			<instance id="d002.s005.t012" lemma="সাথে" pos="NOUN">সাথে</instance>
+			<instance id="d002.s005.t013" lemma="সামাজিক" pos="NOUN">সামাজিক</instance>
+			<instance id="d002.s005.t014" lemma="বর্জনের" pos="NOUN">বর্জনের</instance>
+			<instance id="d002.s005.t015" lemma="উপর" pos="NOUN">উপর</instance>
+			<instance id="d002.s005.t016" lemma="একটি" pos="NOUN">একটি</instance>
+			<instance id="d002.s005.t017" lemma="ইউরোপীয়" pos="ADJ">ইউরোপীয়</instance>
+			<instance id="d002.s005.t018" lemma="সম্মেলন" pos="NOUN">সম্মেলন</instance>
+			<instance id="d002.s005.t019" lemma="সংগঠিত" pos="ADJ">সংগঠিত</instance>
+			<instance id="d002.s005.t020" lemma="করে" pos="VERB">করে</instance>
+			<instance id="d002.s005.t021" lemma=":" pos="X">:</instance>
+			<instance id="d002.s005.t022" lemma="জনকল্যাণ" pos="ADJ">জনকল্যাণ</instance>
+			<instance id="d002.s005.t023" lemma="সেবার" pos="NOUN">সেবার</instance>
+			<instance id="d002.s005.t024" lemma="জন্য" pos="X">জন্য</instance>
+			<instance id="d002.s005.t025" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d002.s005.t026" lemma="বড়" pos="ADJ">বড়</instance>
+			<instance id="d002.s005.t027" lemma="চ্যালেঞ্জ" pos="NOUN">চ্যালেঞ্জ</instance>
+			<instance id="d002.s005.t028" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d002.s006" source="semeval2015-en">
+			<instance id="d002.s006.t000" lemma="ফাউন্ডেশন" pos="NOUN">ফাউন্ডেশন</instance>
+			<instance id="d002.s006.t001" lemma="সম্প্রতি" pos="ADV">সম্প্রতি</instance>
+			<instance id="d002.s006.t002" lemma="ইপিওসি" pos="NOUN">ইপিওসি</instance>
+			<instance id="d002.s006.t003" lemma="প্রকল্পের" pos="NOUN">প্রকল্পের</instance>
+			<instance id="d002.s006.t004" lemma="অংশ" pos="NOUN">অংশ</instance>
+			<instance id="d002.s006.t005" lemma="হিসাবে" pos="ADV">হিসাবে</instance>
+			<instance id="d002.s006.t006" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d002.s006.t007" lemma="তুলনামূলক" pos="ADJ">তুলনামূলক</instance>
+			<instance id="d002.s006.t008" lemma="গবেষণা" pos="NOUN">গবেষণা</instance>
+			<instance id="d002.s006.t009" lemma="প্রকাশ" pos="VERB">প্রকাশ</instance>
+			<instance id="d002.s006.t010" lemma="করেছে" pos="VERB">করেছে</instance>
+			<instance id="d002.s006.t011" lemma="যা" pos="X">যা</instance>
+			<instance id="d002.s006.t012" lemma="মুনাফা" pos="NOUN">মুনাফা</instance>
+			<instance id="d002.s006.t013" lemma="বৃদ্ধির" pos="NOUN">বৃদ্ধির</instance>
+			<instance id="d002.s006.t014" lemma="সাথে" pos="ADV">সাথে</instance>
+			<instance id="d002.s006.t015" lemma="সাথে" pos="NOUN">সাথে</instance>
+			<instance id="d002.s006.t016" lemma="সরাসরি" pos="ADJ">সরাসরি</instance>
+			<instance id="d002.s006.t017" lemma="অংশগ্রহণের" pos="NOUN">অংশগ্রহণের</instance>
+			<instance id="d002.s006.t018" lemma="পরিমাণ" pos="NOUN">পরিমাণ</instance>
+			<instance id="d002.s006.t019" lemma="নির্ধারণ" pos="VERB">নির্ধারণ</instance>
+			<instance id="d002.s006.t020" lemma="করে" pos="VERB">করে</instance>
+			<instance id="d002.s006.t021" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d002.s007" source="semeval2015-en">
+			<instance id="d002.s007.t000" lemma="এই" pos="X">এই</instance>
+			<instance id="d002.s007.t001" lemma="গবেষণাটি" pos="NOUN">গবেষণাটি</instance>
+			<instance id="d002.s007.t002" lemma="১৫টি" pos="X">১৫টি</instance>
+			<instance id="d002.s007.t003" lemma="ইউরোপীয়" pos="NOUN">ইউরোপীয়</instance>
+			<instance id="d002.s007.t004" lemma="দেশে" pos="NOUN">দেশে</instance>
+			<instance id="d002.s007.t005" lemma="জাতীয়" pos="ADJ">জাতীয়</instance>
+			<instance id="d002.s007.t006" lemma="পর্যায়ের" pos="NOUN">পর্যায়ের</instance>
+			<instance id="d002.s007.t007" lemma="শীর্ষ" pos="ADJ">শীর্ষ</instance>
+			<instance id="d002.s007.t008" lemma="সংগঠনের" pos="NOUN">সংগঠনের</instance>
+			<instance id="d002.s007.t009" lemma="প্রতিনিধি" pos="NOUN">প্রতিনিধি</instance>
+			<instance id="d002.s007.t010" lemma="হিসেবে" pos="VERB">হিসেবে</instance>
+			<instance id="d002.s007.t011" lemma="সামাজিক" pos="ADJ">সামাজিক</instance>
+			<instance id="d002.s007.t012" lemma="অংশীদারদের" pos="NOUN">অংশীদারদের</instance>
+			<instance id="d002.s007.t013" lemma="সিনিয়র" pos="NOUN">সিনিয়র</instance>
+			<instance id="d002.s007.t014" lemma="কর্মকর্তাদের" pos="NOUN">কর্মকর্তাদের</instance>
+			<instance id="d002.s007.t015" lemma="১৯৫টি" pos="NOUN">১৯৫টি</instance>
+			<instance id="d002.s007.t016" lemma="ব্যক্তিগত" pos="ADJ">ব্যক্তিগত</instance>
+			<instance id="d002.s007.t017" lemma="সাক্ষাৎকারের" pos="NOUN">সাক্ষাৎকারের</instance>
+			<instance id="d002.s007.t018" lemma="উপর" pos="NOUN">উপর</instance>
+			<instance id="d002.s007.t019" lemma="ভিত্তি" pos="VERB">ভিত্তি</instance>
+			<instance id="d002.s007.t020" lemma="করে" pos="VERB">করে</instance>
+			<instance id="d002.s007.t021" lemma="করা" pos="NOUN">করা</instance>
+			<instance id="d002.s007.t022" lemma="হয়েছে" pos="VERB">হয়েছে</instance>
+			<instance id="d002.s007.t023" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d002.s008" source="semeval2015-en">
+			<instance id="d002.s008.t000" lemma="গুরুত্বপূর্ণ" pos="ADJ">গুরুত্বপূর্ণ</instance>
+			<instance id="d002.s008.t001" lemma="শিল্প" pos="ADJ">শিল্প</instance>
+			<instance id="d002.s008.t002" lemma="খাত" pos="NOUN">খাত</instance>
+			<instance id="d002.s008.t003" lemma="হিসেবে" pos="VERB">হিসেবে</instance>
+			<instance id="d002.s008.t004" lemma="ধাতব" pos="NOUN">ধাতব</instance>
+			<instance id="d002.s008.t005" lemma="শিল্প" pos="NOUN">শিল্প</instance>
+			<instance id="d002.s008.t006" lemma="ও" pos="X">ও</instance>
+			<instance id="d002.s008.t007" lemma="ব্যাংকিং" pos="NOUN">ব্যাংকিং</instance>
+			<instance id="d002.s008.t008" lemma="খাতও" pos="X">খাতও</instance>
+			<instance id="d002.s008.t009" lemma="অন্তর্ভুক্ত" pos="ADJ">অন্তর্ভুক্ত</instance>
+			<instance id="d002.s008.t010" lemma="হয়" pos="X">হয়</instance>
+			<instance id="d002.s008.t011" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d002.s009" source="semeval2015-en">
+			<instance id="d002.s009.t000" lemma="সামাজিক" pos="ADJ">সামাজিক</instance>
+			<instance id="d002.s009.t001" lemma="বর্জন" pos="NOUN">বর্জন</instance>
+			<instance id="d002.s009.t002" lemma="সম্মেলনে" pos="NOUN">সম্মেলনে</instance>
+			<instance id="d002.s009.t003" lemma="প্রধান" pos="ADJ">প্রধান</instance>
+			<instance id="d002.s009.t004" lemma="বক্তা" pos="NOUN">বক্তা</instance>
+			<instance id="d002.s009.t005" lemma="ছিলেন" pos="VERB">ছিলেন</instance>
+			<instance id="d002.s009.t006" lemma="(" pos="X">(</instance>
+			<instance id="d002.s009.t007" lemma="বাম" pos="NOUN">বাম</instance>
+			<instance id="d002.s009.t008" lemma="থেকে" pos="X">থেকে</instance>
+			<instance id="d002.s009.t009" lemma="ডানে" pos="NOUN">ডানে</instance>
+			<instance id="d002.s009.t010" lemma=")" pos="X">)</instance>
+			<instance id="d002.s009.t011" lemma="ক্রিস্টিনা" pos="NOUN">ক্রিস্টিনা</instance>
+			<instance id="d002.s009.t012" lemma="লোরো" pos="X">লোরো</instance>
+			<instance id="d002.s009.t013" lemma="," pos="X">,</instance>
+			<instance id="d002.s009.t014" lemma="কর্মসংস্থান" pos="NOUN">কর্মসংস্থান</instance>
+			<instance id="d002.s009.t015" lemma="," pos="NOUN">,</instance>
+			<instance id="d002.s009.t016" lemma="শিল্প" pos="ADJ">শিল্প</instance>
+			<instance id="d002.s009.t017" lemma="সম্পর্ক" pos="NOUN">সম্পর্ক</instance>
+			<instance id="d002.s009.t018" lemma="ও" pos="X">ও</instance>
+			<instance id="d002.s009.t019" lemma="সামাজিক" pos="ADJ">সামাজিক</instance>
+			<instance id="d002.s009.t020" lemma="বিষয়ক" pos="NOUN">বিষয়ক</instance>
+			<instance id="d002.s009.t021" lemma="অধিদপ্তর" pos="NOUN">অধিদপ্তর</instance>
+			<instance id="d002.s009.t022" lemma="," pos="NOUN">,</instance>
+			<instance id="d002.s009.t023" lemma="ইউরোপীয়" pos="ADJ">ইউরোপীয়</instance>
+			<instance id="d002.s009.t024" lemma="কমিশন" pos="NOUN">কমিশন</instance>
+			<instance id="d002.s009.t025" lemma="ফার্নান্দো" pos="X">ফার্নান্দো</instance>
+			<instance id="d002.s009.t026" lemma="গোমেজ" pos="NOUN">গোমেজ</instance>
+			<instance id="d002.s009.t027" lemma="," pos="NOUN">,</instance>
+			<instance id="d002.s009.t028" lemma="ইউরোপীয়" pos="NOUN">ইউরোপীয়</instance>
+			<instance id="d002.s009.t029" lemma="সংসদ" pos="NOUN">সংসদ</instance>
+			<instance id="d002.s009.t030" lemma="সদস্য" pos="NOUN">সদস্য</instance>
+			<instance id="d002.s009.t031" lemma="জোস" pos="NOUN">জোস</instance>
+			<instance id="d002.s009.t032" lemma="é" pos="X">é</instance>
+			<instance id="d002.s009.t033" lemma="মারিয়া" pos="NOUN">মারিয়া</instance>
+			<instance id="d002.s009.t034" lemma="গিল-রবলস" pos="VERB">গিল-রবলস</instance>
+			<instance id="d002.s009.t035" lemma="," pos="X">,</instance>
+			<instance id="d002.s009.t036" lemma="সহ-সভাপতি" pos="NOUN">সহ-সভাপতি</instance>
+			<instance id="d002.s009.t037" lemma="," pos="X">,</instance>
+			<instance id="d002.s009.t038" lemma="ইউরোপীয়" pos="NOUN">ইউরোপীয়</instance>
+			<instance id="d002.s009.t039" lemma="সংসদ" pos="NOUN">সংসদ</instance>
+			<instance id="d002.s009.t040" lemma="এবং" pos="X">এবং</instance>
+			<instance id="d002.s009.t041" lemma="জন" pos="NOUN">জন</instance>
+			<instance id="d002.s009.t042" lemma="ক্যারল" pos="NOUN">ক্যারল</instance>
+			<instance id="d002.s009.t043" lemma="," pos="X">,</instance>
+			<instance id="d002.s009.t044" lemma="অর্থনৈতিক" pos="ADJ">অর্থনৈতিক</instance>
+			<instance id="d002.s009.t045" lemma="ও" pos="X">ও</instance>
+			<instance id="d002.s009.t046" lemma="সামাজিক" pos="ADJ">সামাজিক</instance>
+			<instance id="d002.s009.t047" lemma="কমিটি" pos="NOUN">কমিটি</instance>
+			<instance id="d002.s009.t048" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d002.s010" source="semeval2015-en">
+			<instance id="d002.s010.t000" lemma="কেস" pos="NOUN">কেস</instance>
+			<instance id="d002.s010.t001" lemma="স্টাডিজ" pos="NOUN">স্টাডিজ</instance>
+			<instance id="d002.s010.t002" lemma="প্রতিটি" pos="ADJ">প্রতিটি</instance>
+			<instance id="d002.s010.t003" lemma="জাতীয়" pos="ADJ">জাতীয়</instance>
+			<instance id="d002.s010.t004" lemma="প্রতিবেদনে" pos="NOUN">প্রতিবেদনে</instance>
+			<instance id="d002.s010.t005" lemma="25" pos="X">25</instance>
+			<instance id="d002.s010.t006" lemma="থেকে" pos="X">থেকে</instance>
+			<instance id="d002.s010.t007" lemma="৩০টি" pos="X">৩০টি</instance>
+			<instance id="d002.s010.t008" lemma="উদ্যোগের" pos="NOUN">উদ্যোগের</instance>
+			<instance id="d002.s010.t009" lemma="মধ্যে" pos="NOUN">মধ্যে</instance>
+			<instance id="d002.s010.t010" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d002.s010.t011" lemma="পোর্টফোলিও" pos="NOUN">পোর্টফোলিও</instance>
+			<instance id="d002.s010.t012" lemma="রয়েছে" pos="VERB">রয়েছে</instance>
+			<instance id="d002.s010.t013" lemma="যা" pos="X">যা</instance>
+			<instance id="d002.s010.t014" lemma="কর্মক্ষেত্রে" pos="NOUN">কর্মক্ষেত্রে</instance>
+			<instance id="d002.s010.t015" lemma="এবং" pos="NOUN">এবং</instance>
+			<instance id="d002.s010.t016" lemma="সম্প্রদায়ের" pos="NOUN">সম্প্রদায়ের</instance>
+			<instance id="d002.s010.t017" lemma="মধ্যে" pos="NOUN">মধ্যে</instance>
+			<instance id="d002.s010.t018" lemma="বয়স্ক" pos="VERB">বয়স্ক</instance>
+			<instance id="d002.s010.t019" lemma="কর্মীদের" pos="NOUN">কর্মীদের</instance>
+			<instance id="d002.s010.t020" lemma="নিয়োগ" pos="NOUN">নিয়োগ</instance>
+			<instance id="d002.s010.t021" lemma="," pos="X">,</instance>
+			<instance id="d002.s010.t022" lemma="প্রশিক্ষণ" pos="NOUN">প্রশিক্ষণ</instance>
+			<instance id="d002.s010.t023" lemma="এবং" pos="X">এবং</instance>
+			<instance id="d002.s010.t024" lemma="উন্নয়নের" pos="NOUN">উন্নয়নের</instance>
+			<instance id="d002.s010.t025" lemma="জন্য" pos="X">জন্য</instance>
+			<instance id="d002.s010.t026" lemma="সেরা" pos="X">সেরা</instance>
+			<instance id="d002.s010.t027" lemma="বর্তমান" pos="ADJ">বর্তমান</instance>
+			<instance id="d002.s010.t028" lemma="নীতি" pos="NOUN">নীতি</instance>
+			<instance id="d002.s010.t029" lemma="এবং" pos="X">এবং</instance>
+			<instance id="d002.s010.t030" lemma="অনুশীলনগুলি" pos="VERB">অনুশীলনগুলি</instance>
+			<instance id="d002.s010.t031" lemma="উপস্থাপন" pos="VERB">উপস্থাপন</instance>
+			<instance id="d002.s010.t032" lemma="করে" pos="ADJ">করে</instance>
+			<instance id="d002.s010.t033" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d002.s011" source="semeval2015-en">
+			<instance id="d002.s011.t000" lemma="প্রতিটি" pos="ADJ">প্রতিটি</instance>
+			<instance id="d002.s011.t001" lemma="দেশের" pos="NOUN">দেশের</instance>
+			<instance id="d002.s011.t002" lemma="জন্য" pos="X">জন্য</instance>
+			<instance id="d002.s011.t003" lemma="আরও" pos="ADJ">আরও</instance>
+			<instance id="d002.s011.t004" lemma="গভীরভাবে" pos="VERB">গভীরভাবে</instance>
+			<instance id="d002.s011.t005" lemma="কেস" pos="NOUN">কেস</instance>
+			<instance id="d002.s011.t006" lemma="স্টাডির" pos="NOUN">স্টাডির</instance>
+			<instance id="d002.s011.t007" lemma="জন্য" pos="X">জন্য</instance>
+			<instance id="d002.s011.t008" lemma="দুই" pos="ADJ">দুই</instance>
+			<instance id="d002.s011.t009" lemma="বা" pos="X">বা</instance>
+			<instance id="d002.s011.t010" lemma="তিনটি" pos="ADJ">তিনটি</instance>
+			<instance id="d002.s011.t011" lemma="উদ্যোগ" pos="NOUN">উদ্যোগ</instance>
+			<instance id="d002.s011.t012" lemma="নির্বাচন" pos="VERB">নির্বাচন</instance>
+			<instance id="d002.s011.t013" lemma="করা" pos="NOUN">করা</instance>
+			<instance id="d002.s011.t014" lemma="হয়েছে" pos="VERB">হয়েছে</instance>
+			<instance id="d002.s011.t015" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d002.s012" source="semeval2015-en">
+			<instance id="d002.s012.t000" lemma="এই" pos="X">এই</instance>
+			<instance id="d002.s012.t001" lemma="কেস" pos="NOUN">কেস</instance>
+			<instance id="d002.s012.t002" lemma="স্টাডিজ" pos="NOUN">স্টাডিজ</instance>
+			<instance id="d002.s012.t003" lemma="উদ্যোগের" pos="NOUN">উদ্যোগের</instance>
+			<instance id="d002.s012.t004" lemma="পটভূমি" pos="NOUN">পটভূমি</instance>
+			<instance id="d002.s012.t005" lemma="বিশ্লেষণ" pos="VERB">বিশ্লেষণ</instance>
+			<instance id="d002.s012.t006" lemma="করেছে" pos="VERB">করেছে</instance>
+			<instance id="d002.s012.t007" lemma="," pos="NOUN">,</instance>
+			<instance id="d002.s012.t008" lemma="তাদের" pos="X">তাদের</instance>
+			<instance id="d002.s012.t009" lemma="কর্মসংস্থান" pos="NOUN">কর্মসংস্থান</instance>
+			<instance id="d002.s012.t010" lemma="প্যাটার্ন" pos="NOUN">প্যাটার্ন</instance>
+			<instance id="d002.s012.t011" lemma="এবং" pos="X">এবং</instance>
+			<instance id="d002.s012.t012" lemma="কাজ" pos="NOUN">কাজ</instance>
+			<instance id="d002.s012.t013" lemma="সংগঠনের" pos="NOUN">সংগঠনের</instance>
+			<instance id="d002.s012.t014" lemma="উপর" pos="NOUN">উপর</instance>
+			<instance id="d002.s012.t015" lemma="প্রভাব" pos="NOUN">প্রভাব</instance>
+			<instance id="d002.s012.t016" lemma="এবং" pos="NOUN">এবং</instance>
+			<instance id="d002.s012.t017" lemma="এই" pos="X">এই</instance>
+			<instance id="d002.s012.t018" lemma="উদ্যোগের" pos="NOUN">উদ্যোগের</instance>
+			<instance id="d002.s012.t019" lemma="সুবিধা" pos="NOUN">সুবিধা</instance>
+			<instance id="d002.s012.t020" lemma="এবং" pos="X">এবং</instance>
+			<instance id="d002.s012.t021" lemma="সমস্যাগুলি" pos="NOUN">সমস্যাগুলি</instance>
+			<instance id="d002.s012.t022" lemma="মূল্যায়ন" pos="VERB">মূল্যায়ন</instance>
+			<instance id="d002.s012.t023" lemma="করেছে" pos="VERB">করেছে</instance>
+			<instance id="d002.s012.t024" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d002.s013" source="semeval2015-en">
+			<instance id="d002.s013.t000" lemma="প্রধান" pos="ADJ">প্রধান</instance>
+			<instance id="d002.s013.t001" lemma="কর্মীদের" pos="NOUN">কর্মীদের</instance>
+			<instance id="d002.s013.t002" lemma="সঙ্গে" pos="X">সঙ্গে</instance>
+			<instance id="d002.s013.t003" lemma="সাক্ষাৎ" pos="NOUN">সাক্ষাৎ</instance>
+			<instance id="d002.s013.t004" lemma="ও" pos="X">ও</instance>
+			<instance id="d002.s013.t005" lemma="সাক্ষাৎকারও" pos="NOUN">সাক্ষাৎকারও</instance>
+			<instance id="d002.s013.t006" lemma="গ্রহণ" pos="VERB">গ্রহণ</instance>
+			<instance id="d002.s013.t007" lemma="করা" pos="VERB">করা</instance>
+			<instance id="d002.s013.t008" lemma="হয়" pos="X">হয়</instance>
+			<instance id="d002.s013.t009" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d002.s014" source="semeval2015-en">
+			<instance id="d002.s014.t000" lemma="এই" pos="X">এই</instance>
+			<instance id="d002.s014.t001" lemma="জাতীয়" pos="ADJ">জাতীয়</instance>
+			<instance id="d002.s014.t002" lemma="গবেষণা" pos="NOUN">গবেষণা</instance>
+			<instance id="d002.s014.t003" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d002.s014.t004" lemma="ইউরোপীয়" pos="NOUN">ইউরোপীয়</instance>
+			<instance id="d002.s014.t005" lemma="প্রতিবেদনের" pos="NOUN">প্রতিবেদনের</instance>
+			<instance id="d002.s014.t006" lemma="ভিত্তি" pos="NOUN">ভিত্তি</instance>
+			<instance id="d002.s014.t007" lemma="গঠন" pos="VERB">গঠন</instance>
+			<instance id="d002.s014.t008" lemma="করবে" pos="VERB">করবে</instance>
+			<instance id="d002.s014.t009" lemma="যা" pos="X">যা</instance>
+			<instance id="d002.s014.t010" lemma="সামগ্রিক" pos="ADJ">সামগ্রিক</instance>
+			<instance id="d002.s014.t011" lemma="চর্চাকে" pos="NOUN">চর্চাকে</instance>
+			<instance id="d002.s014.t012" lemma="সমন্বয়" pos="VERB">সমন্বয়</instance>
+			<instance id="d002.s014.t013" lemma="করে" pos="VERB">করে</instance>
+			<instance id="d002.s014.t014" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d002.s015" source="semeval2015-en">
+			<instance id="d002.s015.t000" lemma="1996" pos="X">1996</instance>
+			<instance id="d002.s015.t001" lemma="সালে" pos="NOUN">সালে</instance>
+			<instance id="d002.s015.t002" lemma="প্রতিবেদন" pos="NOUN">প্রতিবেদন</instance>
+			<instance id="d002.s015.t003" lemma="এবং" pos="X">এবং</instance>
+			<instance id="d002.s015.t004" lemma="উদ্যোগের" pos="NOUN">উদ্যোগের</instance>
+			<instance id="d002.s015.t005" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d002.s015.t006" lemma="কেস" pos="NOUN">কেস</instance>
+			<instance id="d002.s015.t007" lemma="বুক" pos="NOUN">বুক</instance>
+			<instance id="d002.s015.t008" lemma="প্রকাশিত" pos="X">প্রকাশিত</instance>
+			<instance id="d002.s015.t009" lemma="হবে" pos="VERB">হবে</instance>
+			<instance id="d002.s015.t010" lemma="এবং" pos="X">এবং</instance>
+			<instance id="d002.s015.t011" lemma="1996" pos="X">1996</instance>
+			<instance id="d002.s015.t012" lemma="সালের" pos="NOUN">সালের</instance>
+			<instance id="d002.s015.t013" lemma="শরতে" pos="VERB">শরতে</instance>
+			<instance id="d002.s015.t014" lemma="অনুষ্ঠিত" pos="VERB">অনুষ্ঠিত</instance>
+			<instance id="d002.s015.t015" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d002.s015.t016" lemma="সম্মেলনের" pos="NOUN">সম্মেলনের</instance>
+			<instance id="d002.s015.t017" lemma="পটভূমি" pos="NOUN">পটভূমি</instance>
+			<instance id="d002.s015.t018" lemma="সরবরাহ" pos="VERB">সরবরাহ</instance>
+			<instance id="d002.s015.t019" lemma="করবে" pos="VERB">করবে</instance>
+			<instance id="d002.s015.t020" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d002.s016" source="semeval2015-en">
+			<instance id="d002.s016.t000" lemma="প্রতিষ্ঠানটির" pos="NOUN">প্রতিষ্ঠানটির</instance>
+			<instance id="d002.s016.t001" lemma="লক্ষ্য" pos="VERB">লক্ষ্য</instance>
+			<instance id="d002.s016.t002" lemma="হলো" pos="VERB">হলো</instance>
+			<instance id="d002.s016.t003" lemma="চাকরির" pos="NOUN">চাকরির</instance>
+			<instance id="d002.s016.t004" lemma="নিয়োগ" pos="NOUN">নিয়োগ</instance>
+			<instance id="d002.s016.t005" lemma="ও" pos="X">ও</instance>
+			<instance id="d002.s016.t006" lemma="প্রশিক্ষণের" pos="NOUN">প্রশিক্ষণের</instance>
+			<instance id="d002.s016.t007" lemma="ক্ষেত্রে" pos="NOUN">ক্ষেত্রে</instance>
+			<instance id="d002.s016.t008" lemma="বয়সভিত্তিক" pos="NOUN">বয়সভিত্তিক</instance>
+			<instance id="d002.s016.t009" lemma="প্রতিবন্ধকতার" pos="NOUN">প্রতিবন্ধকতার</instance>
+			<instance id="d002.s016.t010" lemma="বৈশিষ্ট্য" pos="NOUN">বৈশিষ্ট্য</instance>
+			<instance id="d002.s016.t011" lemma="লিপিবদ্ধ" pos="VERB">লিপিবদ্ধ</instance>
+			<instance id="d002.s016.t012" lemma="করা" pos="X">করা</instance>
+			<instance id="d002.s016.t013" lemma="এবং" pos="X">এবং</instance>
+			<instance id="d002.s016.t014" lemma="তাদের" pos="X">তাদের</instance>
+			<instance id="d002.s016.t015" lemma="কারণ" pos="NOUN">কারণ</instance>
+			<instance id="d002.s016.t016" lemma="বিশ্লেষণ" pos="VERB">বিশ্লেষণ</instance>
+			<instance id="d002.s016.t017" lemma="করা" pos="VERB">করা</instance>
+			<instance id="d002.s016.t018" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d002.s017" source="semeval2015-en">
+			<instance id="d002.s017.t000" lemma="সামাজিক" pos="ADJ">সামাজিক</instance>
+			<instance id="d002.s017.t001" lemma="অংশীদারদের" pos="NOUN">অংশীদারদের</instance>
+			<instance id="d002.s017.t002" lemma="দৃষ্টিভঙ্গিও" pos="NOUN">দৃষ্টিভঙ্গিও</instance>
+			<instance id="d002.s017.t003" lemma="পরীক্ষা" pos="VERB">পরীক্ষা</instance>
+			<instance id="d002.s017.t004" lemma="করা" pos="VERB">করা</instance>
+			<instance id="d002.s017.t005" lemma="হচ্ছে" pos="VERB">হচ্ছে</instance>
+			<instance id="d002.s017.t006" lemma="," pos="X">,</instance>
+			<instance id="d002.s017.t007" lemma="বিশেষ" pos="ADJ">বিশেষ</instance>
+			<instance id="d002.s017.t008" lemma="করে" pos="VERB">করে</instance>
+			<instance id="d002.s017.t009" lemma="বয়সের" pos="NOUN">বয়সের</instance>
+			<instance id="d002.s017.t010" lemma="বাধা" pos="NOUN">বাধা</instance>
+			<instance id="d002.s017.t011" lemma="দূর" pos="VERB">দূর</instance>
+			<instance id="d002.s017.t012" lemma="করার" pos="VERB">করার</instance>
+			<instance id="d002.s017.t013" lemma="প্রস্তাবের" pos="NOUN">প্রস্তাবের</instance>
+			<instance id="d002.s017.t014" lemma="প্রতি" pos="ADJ">প্রতি</instance>
+			<instance id="d002.s017.t015" lemma="মনোযোগ" pos="NOUN">মনোযোগ</instance>
+			<instance id="d002.s017.t016" lemma="দেওয়া" pos="VERB">দেওয়া</instance>
+			<instance id="d002.s017.t017" lemma="হচ্ছে" pos="X">হচ্ছে</instance>
+			<instance id="d002.s017.t018" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d002.s018" source="semeval2015-en">
+			<instance id="d002.s018.t000" lemma="তৃতীয়ত" pos="ADV">তৃতীয়ত</instance>
+			<instance id="d002.s018.t001" lemma="," pos="X">,</instance>
+			<instance id="d002.s018.t002" lemma="প্রকল্পটি" pos="NOUN">প্রকল্পটি</instance>
+			<instance id="d002.s018.t003" lemma="বয়সভিত্তিক" pos="ADJ">বয়সভিত্তিক</instance>
+			<instance id="d002.s018.t004" lemma="বাধাগুলো" pos="NOUN">বাধাগুলো</instance>
+			<instance id="d002.s018.t005" lemma="," pos="X">,</instance>
+			<instance id="d002.s018.t006" lemma="বিশেষ" pos="ADV">বিশেষ</instance>
+			<instance id="d002.s018.t007" lemma="করে" pos="NOUN">করে</instance>
+			<instance id="d002.s018.t008" lemma="বয়স্ক" pos="ADJ">বয়স্ক</instance>
+			<instance id="d002.s018.t009" lemma="শ্রমিকদের" pos="NOUN">শ্রমিকদের</instance>
+			<instance id="d002.s018.t010" lemma="বিরুদ্ধে" pos="NOUN">বিরুদ্ধে</instance>
+			<instance id="d002.s018.t011" lemma="লড়াই" pos="X">লড়াই</instance>
+			<instance id="d002.s018.t012" lemma="করা" pos="NOUN">করা</instance>
+			<instance id="d002.s018.t013" lemma="সরকারি" pos="ADJ">সরকারি</instance>
+			<instance id="d002.s018.t014" lemma="ও" pos="X">ও</instance>
+			<instance id="d002.s018.t015" lemma="বেসরকারি" pos="ADJ">বেসরকারি</instance>
+			<instance id="d002.s018.t016" lemma="উভয়" pos="X">উভয়</instance>
+			<instance id="d002.s018.t017" lemma="খাতেই" pos="X">খাতেই</instance>
+			<instance id="d002.s018.t018" lemma="উদ্যোগগুলোকে" pos="NOUN">উদ্যোগগুলোকে</instance>
+			<instance id="d002.s018.t019" lemma="নথিবদ্ধ" pos="ADJ">নথিবদ্ধ</instance>
+			<instance id="d002.s018.t020" lemma="এবং" pos="X">এবং</instance>
+			<instance id="d002.s018.t021" lemma="মূল্যায়ন" pos="VERB">মূল্যায়ন</instance>
+			<instance id="d002.s018.t022" lemma="করে" pos="VERB">করে</instance>
+			<instance id="d002.s018.t023" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d002.s019" source="semeval2015-en">
+			<instance id="d002.s019.t000" lemma="প্রাথমিক" pos="ADJ">প্রাথমিক</instance>
+			<instance id="d002.s019.t001" lemma="অবসর" pos="NOUN">অবসর</instance>
+			<instance id="d002.s019.t002" lemma="এবং" pos="NOUN">এবং</instance>
+			<instance id="d002.s019.t003" lemma="পুনর্বাসনের" pos="NOUN">পুনর্বাসনের</instance>
+			<instance id="d002.s019.t004" lemma="বিকল্পগুলি" pos="NOUN">বিকল্পগুলি</instance>
+			<instance id="d002.s019.t005" lemma="অনুসন্ধান" pos="VERB">অনুসন্ধান</instance>
+			<instance id="d002.s019.t006" lemma="করে" pos="VERB">করে</instance>
+			<instance id="d002.s019.t007" lemma="," pos="X">,</instance>
+			<instance id="d002.s019.t008" lemma="প্রকল্পটি" pos="NOUN">প্রকল্পটি</instance>
+			<instance id="d002.s019.t009" lemma="মূলত" pos="ADV">মূলত</instance>
+			<instance id="d002.s019.t010" lemma="বয়স্ক" pos="ADJ">বয়স্ক</instance>
+			<instance id="d002.s019.t011" lemma="শ্রমিকদের" pos="NOUN">শ্রমিকদের</instance>
+			<instance id="d002.s019.t012" lemma="ধরে" pos="VERB">ধরে</instance>
+			<instance id="d002.s019.t013" lemma="রাখা" pos="NOUN">রাখা</instance>
+			<instance id="d002.s019.t014" lemma="," pos="X">,</instance>
+			<instance id="d002.s019.t015" lemma="পুনরায়" pos="VERB">পুনরায়</instance>
+			<instance id="d002.s019.t016" lemma="সংহতকরণ" pos="X">সংহতকরণ</instance>
+			<instance id="d002.s019.t017" lemma="এবং" pos="X">এবং</instance>
+			<instance id="d002.s019.t018" lemma="প্রশিক্ষণের" pos="NOUN">প্রশিক্ষণের</instance>
+			<instance id="d002.s019.t019" lemma="সাথে" pos="VERB">সাথে</instance>
+			<instance id="d002.s019.t020" lemma="জড়িত" pos="NOUN">জড়িত</instance>
+			<instance id="d002.s019.t021" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d002.s020" source="semeval2015-en">
+			<instance id="d002.s020.t000" lemma="শ্রমিকদের" pos="NOUN">শ্রমিকদের</instance>
+			<instance id="d002.s020.t001" lemma="লিঙ্গ" pos="NOUN">লিঙ্গ</instance>
+			<instance id="d002.s020.t002" lemma="এবং" pos="X">এবং</instance>
+			<instance id="d002.s020.t003" lemma="জাতিগত" pos="ADJ">জাতিগত</instance>
+			<instance id="d002.s020.t004" lemma="পটভূমি" pos="NOUN">পটভূমি</instance>
+			<instance id="d002.s020.t005" lemma="এবং" pos="X">এবং</instance>
+			<instance id="d002.s020.t006" lemma="কিভাবে" pos="ADV">কিভাবে</instance>
+			<instance id="d002.s020.t007" lemma="এগুলো" pos="X">এগুলো</instance>
+			<instance id="d002.s020.t008" lemma="বয়সের" pos="NOUN">বয়সের</instance>
+			<instance id="d002.s020.t009" lemma="বৈষম্যের" pos="NOUN">বৈষম্যের</instance>
+			<instance id="d002.s020.t010" lemma="সাথে" pos="NOUN">সাথে</instance>
+			<instance id="d002.s020.t011" lemma="সম্পর্কিত" pos="VERB">সম্পর্কিত</instance>
+			<instance id="d002.s020.t012" lemma="তা" pos="X">তা</instance>
+			<instance id="d002.s020.t013" lemma="পরীক্ষা" pos="VERB">পরীক্ষা</instance>
+			<instance id="d002.s020.t014" lemma="করা" pos="VERB">করা</instance>
+			<instance id="d002.s020.t015" lemma="হয়" pos="X">হয়</instance>
+			<instance id="d002.s020.t016" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d002.s021" source="semeval2015-en">
+			<instance id="d002.s021.t000" lemma="প্রকল্পটি" pos="NOUN">প্রকল্পটি</instance>
+			<instance id="d002.s021.t001" lemma="গ্রামীণ" pos="ADJ">গ্রামীণ</instance>
+			<instance id="d002.s021.t002" lemma="এলাকায়" pos="NOUN">এলাকায়</instance>
+			<instance id="d002.s021.t003" lemma="এবং" pos="X">এবং</instance>
+			<instance id="d002.s021.t004" lemma="ছোট" pos="ADJ">ছোট</instance>
+			<instance id="d002.s021.t005" lemma="ও" pos="X">ও</instance>
+			<instance id="d002.s021.t006" lemma="মাঝারি" pos="NOUN">মাঝারি</instance>
+			<instance id="d002.s021.t007" lemma="আকারের" pos="NOUN">আকারের</instance>
+			<instance id="d002.s021.t008" lemma="উদ্যোগগুলিতে" pos="NOUN">উদ্যোগগুলিতে</instance>
+			<instance id="d002.s021.t009" lemma="বয়সের" pos="NOUN">বয়সের</instance>
+			<instance id="d002.s021.t010" lemma="বৈষম্যের" pos="NOUN">বৈষম্যের</instance>
+			<instance id="d002.s021.t011" lemma="বিরুদ্ধে" pos="NOUN">বিরুদ্ধে</instance>
+			<instance id="d002.s021.t012" lemma="লড়াই" pos="NOUN">লড়াই</instance>
+			<instance id="d002.s021.t013" lemma="করার" pos="NOUN">করার</instance>
+			<instance id="d002.s021.t014" lemma="উদ্যোগগুলি" pos="NOUN">উদ্যোগগুলি</instance>
+			<instance id="d002.s021.t015" lemma="বিবেচনা" pos="VERB">বিবেচনা</instance>
+			<instance id="d002.s021.t016" lemma="করে" pos="VERB">করে</instance>
+			<instance id="d002.s021.t017" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d002.s022" source="semeval2015-en">
+			<instance id="d002.s022.t000" lemma="সাতটি" pos="ADJ">সাতটি</instance>
+			<instance id="d002.s022.t001" lemma="সদস্য" pos="NOUN">সদস্য</instance>
+			<instance id="d002.s022.t002" lemma="রাষ্ট্র" pos="NOUN">রাষ্ট্র</instance>
+			<instance id="d002.s022.t003" lemma="এই" pos="X">এই</instance>
+			<instance id="d002.s022.t004" lemma="প্রকল্প" pos="NOUN">প্রকল্প</instance>
+			<instance id="d002.s022.t005" lemma="দ্বারা" pos="X">দ্বারা</instance>
+			<instance id="d002.s022.t006" lemma="আচ্ছাদিত" pos="VERB">আচ্ছাদিত</instance>
+			<instance id="d002.s022.t007" lemma=":" pos="X">:</instance>
+			<instance id="d002.s022.t008" lemma="বেলজিয়াম" pos="NOUN">বেলজিয়াম</instance>
+			<instance id="d002.s022.t009" lemma="," pos="X">,</instance>
+			<instance id="d002.s022.t010" lemma="ফ্রান্স" pos="NOUN">ফ্রান্স</instance>
+			<instance id="d002.s022.t011" lemma="," pos="X">,</instance>
+			<instance id="d002.s022.t012" lemma="জার্মানি" pos="NOUN">জার্মানি</instance>
+			<instance id="d002.s022.t013" lemma="," pos="X">,</instance>
+			<instance id="d002.s022.t014" lemma="গ্রীস" pos="NOUN">গ্রীস</instance>
+			<instance id="d002.s022.t015" lemma="," pos="X">,</instance>
+			<instance id="d002.s022.t016" lemma="ইতালি" pos="NOUN">ইতালি</instance>
+			<instance id="d002.s022.t017" lemma="," pos="X">,</instance>
+			<instance id="d002.s022.t018" lemma="নেদারল্যান্ড" pos="NOUN">নেদারল্যান্ড</instance>
+			<instance id="d002.s022.t019" lemma="এবং" pos="X">এবং</instance>
+			<instance id="d002.s022.t020" lemma="যুক্তরাজ্য" pos="NOUN">যুক্তরাজ্য</instance>
+			<instance id="d002.s022.t021" lemma="।" pos="X">।</instance>
+		</sentence>
+	</text>
+	<text id="d003">
+		<sentence id="d003.s000" source="semeval2015-en">
+			<instance id="d003.s000.t000" lemma="এই" pos="X">এই</instance>
+			<instance id="d003.s000.t001" lemma="নথিটি" pos="NOUN">নথিটি</instance>
+			<instance id="d003.s000.t002" lemma="ইউরোপীয়" pos="NOUN">ইউরোপীয়</instance>
+			<instance id="d003.s000.t003" lemma="পাবলিক" pos="ADJ">পাবলিক</instance>
+			<instance id="d003.s000.t004" lemma="অ্যাসেসমেন্ট" pos="NOUN">অ্যাসেসমেন্ট</instance>
+			<instance id="d003.s000.t005" lemma="রিপোর্টের" pos="NOUN">রিপোর্টের</instance>
+			<instance id="d003.s000.t006" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d003.s000.t007" lemma="সারসংক্ষেপ" pos="NOUN">সারসংক্ষেপ</instance>
+			<instance id="d003.s000.t008" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d003.s001" source="semeval2015-en">
+			<instance id="d003.s001.t000" lemma="এটি" pos="X">এটি</instance>
+			<instance id="d003.s001.t001" lemma="ব্যাখ্যা" pos="VERB">ব্যাখ্যা</instance>
+			<instance id="d003.s001.t002" lemma="করে" pos="VERB">করে</instance>
+			<instance id="d003.s001.t003" lemma="কিভাবে" pos="ADV">কিভাবে</instance>
+			<instance id="d003.s001.t004" lemma="ভেটেরিনারি" pos="X">ভেটেরিনারি</instance>
+			<instance id="d003.s001.t005" lemma="ইউজ" pos="X">ইউজ</instance>
+			<instance id="d003.s001.t006" lemma="(" pos="X">(</instance>
+			<instance id="d003.s001.t007" lemma="সিভিএমপি" pos="X">সিভিএমপি</instance>
+			<instance id="d003.s001.t008" lemma=")" pos="NOUN">)</instance>
+			<instance id="d003.s001.t009" lemma="এর" pos="X">এর</instance>
+			<instance id="d003.s001.t010" lemma="জন্য" pos="NOUN">জন্য</instance>
+			<instance id="d003.s001.t011" lemma="মেডিসিনাল" pos="ADJ">মেডিসিনাল</instance>
+			<instance id="d003.s001.t012" lemma="প্রোডাক্টস" pos="NOUN">প্রোডাক্টস</instance>
+			<instance id="d003.s001.t013" lemma="ফর" pos="NOUN">ফর</instance>
+			<instance id="d003.s001.t014" lemma="ভেটেরিনারি" pos="NOUN">ভেটেরিনারি</instance>
+			<instance id="d003.s001.t015" lemma="ইউজ" pos="NOUN">ইউজ</instance>
+			<instance id="d003.s001.t016" lemma="(" pos="X">(</instance>
+			<instance id="d003.s001.t017" lemma="সিভিএমপি" pos="NOUN">সিভিএমপি</instance>
+			<instance id="d003.s001.t018" lemma=")" pos="X">)</instance>
+			<instance id="d003.s001.t019" lemma="গবেষণা" pos="NOUN">গবেষণা</instance>
+			<instance id="d003.s001.t020" lemma="মূল্যায়ন" pos="VERB">মূল্যায়ন</instance>
+			<instance id="d003.s001.t021" lemma="করে" pos="VERB">করে</instance>
+			<instance id="d003.s001.t022" lemma="ঔষধটি" pos="ADJ">ঔষধটি</instance>
+			<instance id="d003.s001.t023" lemma="কিভাবে" pos="X">কিভাবে</instance>
+			<instance id="d003.s001.t024" lemma="ব্যবহার" pos="VERB">ব্যবহার</instance>
+			<instance id="d003.s001.t025" lemma="করতে" pos="VERB">করতে</instance>
+			<instance id="d003.s001.t026" lemma="হবে" pos="NOUN">হবে</instance>
+			<instance id="d003.s001.t027" lemma="তার" pos="X">তার</instance>
+			<instance id="d003.s001.t028" lemma="সুপারিশে" pos="NOUN">সুপারিশে</instance>
+			<instance id="d003.s001.t029" lemma="পৌঁছানোর" pos="VERB">পৌঁছানোর</instance>
+			<instance id="d003.s001.t030" lemma="জন্য" pos="X">জন্য</instance>
+			<instance id="d003.s001.t031" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d003.s002" source="semeval2015-en">
+			<instance id="d003.s002.t000" lemma="সেরিনিয়া" pos="X">সেরিনিয়া</instance>
+			<instance id="d003.s002.t001" lemma="কী" pos="X">কী</instance>
+			<instance id="d003.s002.t002" lemma="?" pos="X">?</instance>
+		</sentence>
+		<sentence id="d003.s003" source="semeval2015-en">
+			<instance id="d003.s003.t000" lemma="সেরেনিয়াতে" pos="NOUN">সেরেনিয়াতে</instance>
+			<instance id="d003.s003.t001" lemma="সক্রিয়" pos="X">সক্রিয়</instance>
+			<instance id="d003.s003.t002" lemma="উপাদান" pos="NOUN">উপাদান</instance>
+			<instance id="d003.s003.t003" lemma="ম্যারোপিটান্ট" pos="NOUN">ম্যারোপিটান্ট</instance>
+			<instance id="d003.s003.t004" lemma="রয়েছে" pos="VERB">রয়েছে</instance>
+			<instance id="d003.s003.t005" lemma="এবং" pos="X">এবং</instance>
+			<instance id="d003.s003.t006" lemma="এটি" pos="X">এটি</instance>
+			<instance id="d003.s003.t007" lemma="ট্যাবলেট" pos="NOUN">ট্যাবলেট</instance>
+			<instance id="d003.s003.t008" lemma="বা" pos="X">বা</instance>
+			<instance id="d003.s003.t009" lemma="ইনজেকশনের" pos="NOUN">ইনজেকশনের</instance>
+			<instance id="d003.s003.t010" lemma="সমাধান" pos="NOUN">সমাধান</instance>
+			<instance id="d003.s003.t011" lemma="হিসেবে" pos="VERB">হিসেবে</instance>
+			<instance id="d003.s003.t012" lemma="পাওয়া" pos="ADJ">পাওয়া</instance>
+			<instance id="d003.s003.t013" lemma="যায়" pos="NOUN">যায়</instance>
+			<instance id="d003.s003.t014" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d003.s004" source="semeval2015-en">
+			<instance id="d003.s004.t000" lemma="ফলকগুলি" pos="NOUN">ফলকগুলি</instance>
+			<instance id="d003.s004.t001" lemma="ফ্যাকাশে-কমলা" pos="NOUN">ফ্যাকাশে-কমলা</instance>
+			<instance id="d003.s004.t002" lemma="এবং" pos="X">এবং</instance>
+			<instance id="d003.s004.t003" lemma="উভয়" pos="X">উভয়</instance>
+			<instance id="d003.s004.t004" lemma="পাশে" pos="NOUN">পাশে</instance>
+			<instance id="d003.s004.t005" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d003.s004.t006" lemma="স্কোর" pos="NOUN">স্কোর</instance>
+			<instance id="d003.s004.t007" lemma="লাইন" pos="NOUN">লাইন</instance>
+			<instance id="d003.s004.t008" lemma="রয়েছে" pos="VERB">রয়েছে</instance>
+			<instance id="d003.s004.t009" lemma="যাতে" pos="ADV">যাতে</instance>
+			<instance id="d003.s004.t010" lemma="তা" pos="X">তা</instance>
+			<instance id="d003.s004.t011" lemma="অর্ধেক" pos="VERB">অর্ধেক</instance>
+			<instance id="d003.s004.t012" lemma="করা" pos="VERB">করা</instance>
+			<instance id="d003.s004.t013" lemma="যায়" pos="X">যায়</instance>
+			<instance id="d003.s004.t014" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d003.s005" source="semeval2015-en">
+			<instance id="d003.s005.t000" lemma="প্রতিটি" pos="ADJ">প্রতিটি</instance>
+			<instance id="d003.s005.t001" lemma="ট্যাবলেট" pos="NOUN">ট্যাবলেট</instance>
+			<instance id="d003.s005.t002" lemma="একদিকে" pos="ADV">একদিকে</instance>
+			<instance id="d003.s005.t003" lemma="পিফাইজার" pos="NOUN">পিফাইজার</instance>
+			<instance id="d003.s005.t004" lemma="লোগো" pos="NOUN">লোগো</instance>
+			<instance id="d003.s005.t005" lemma="এবং" pos="X">এবং</instance>
+			<instance id="d003.s005.t006" lemma="অন্যদিকে" pos="ADJ">অন্যদিকে</instance>
+			<instance id="d003.s005.t007" lemma="এম.পি.টি" pos="X">এম.পি.টি</instance>
+			<instance id="d003.s005.t008" lemma="অক্ষর" pos="NOUN">অক্ষর</instance>
+			<instance id="d003.s005.t009" lemma="এবং" pos="X">এবং</instance>
+			<instance id="d003.s005.t010" lemma="ম্যারোপিট্যান্টের" pos="NOUN">ম্যারোপিট্যান্টের</instance>
+			<instance id="d003.s005.t011" lemma="পরিমাণ" pos="NOUN">পরিমাণ</instance>
+			<instance id="d003.s005.t012" lemma="দিয়ে" pos="VERB">দিয়ে</instance>
+			<instance id="d003.s005.t013" lemma="চিহ্নিত" pos="VERB">চিহ্নিত</instance>
+			<instance id="d003.s005.t014" lemma="করা" pos="X">করা</instance>
+			<instance id="d003.s005.t015" lemma="হয়" pos="X">হয়</instance>
+			<instance id="d003.s005.t016" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d003.s006" source="semeval2015-en">
+			<instance id="d003.s006.t000" lemma="সেরিনিয়া" pos="NOUN">সেরিনিয়া</instance>
+			<instance id="d003.s006.t001" lemma="কিসের" pos="NOUN">কিসের</instance>
+			<instance id="d003.s006.t002" lemma="জন্য" pos="X">জন্য</instance>
+			<instance id="d003.s006.t003" lemma="ব্যবহৃত" pos="ADJ">ব্যবহৃত</instance>
+			<instance id="d003.s006.t004" lemma="হয়" pos="X">হয়</instance>
+			<instance id="d003.s006.t005" lemma="?" pos="X">?</instance>
+		</sentence>
+		<sentence id="d003.s007" source="semeval2015-en">
+			<instance id="d003.s007.t000" lemma="সেরেনিয়া" pos="NOUN">সেরেনিয়া</instance>
+			<instance id="d003.s007.t001" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d003.s007.t002" lemma="এন্টি-ইমেটিক" pos="NOUN">এন্টি-ইমেটিক</instance>
+			<instance id="d003.s007.t003" lemma="," pos="NOUN">,</instance>
+			<instance id="d003.s007.t004" lemma="তার" pos="X">তার</instance>
+			<instance id="d003.s007.t005" lemma="মানে" pos="VERB">মানে</instance>
+			<instance id="d003.s007.t006" lemma="এটা" pos="X">এটা</instance>
+			<instance id="d003.s007.t007" lemma="বমি" pos="VERB">বমি</instance>
+			<instance id="d003.s007.t008" lemma="বন্ধ" pos="VERB">বন্ধ</instance>
+			<instance id="d003.s007.t009" lemma="করে" pos="VERB">করে</instance>
+			<instance id="d003.s007.t010" lemma="দেয়" pos="VERB">দেয়</instance>
+			<instance id="d003.s007.t011" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d003.s008" source="semeval2015-en">
+			<instance id="d003.s008.t000" lemma="এটি" pos="X">এটি</instance>
+			<instance id="d003.s008.t001" lemma="কুকুরের" pos="NOUN">কুকুরের</instance>
+			<instance id="d003.s008.t002" lemma="মধ্যে" pos="NOUN">মধ্যে</instance>
+			<instance id="d003.s008.t003" lemma="ব্যবহার" pos="VERB">ব্যবহার</instance>
+			<instance id="d003.s008.t004" lemma="করা" pos="NOUN">করা</instance>
+			<instance id="d003.s008.t005" lemma="হয়" pos="X">হয়</instance>
+			<instance id="d003.s008.t006" lemma="বমি" pos="VERB">বমি</instance>
+			<instance id="d003.s008.t007" lemma="প্রতিরোধ" pos="VERB">প্রতিরোধ</instance>
+			<instance id="d003.s008.t008" lemma="করার" pos="VERB">করার</instance>
+			<instance id="d003.s008.t009" lemma="জন্য" pos="X">জন্য</instance>
+			<instance id="d003.s008.t010" lemma="যেমন" pos="X">যেমন</instance>
+			<instance id="d003.s008.t011" lemma="কেমোথেরাপি" pos="NOUN">কেমোথেরাপি</instance>
+			<instance id="d003.s008.t012" lemma="(" pos="X">(</instance>
+			<instance id="d003.s008.t013" lemma="ক্যানসারের" pos="NOUN">ক্যানসারের</instance>
+			<instance id="d003.s008.t014" lemma="চিকিৎসার" pos="NOUN">চিকিৎসার</instance>
+			<instance id="d003.s008.t015" lemma="জন্য" pos="X">জন্য</instance>
+			<instance id="d003.s008.t016" lemma="ব্যবহৃত" pos="VERB">ব্যবহৃত</instance>
+			<instance id="d003.s008.t017" lemma="ওষুধ" pos="NOUN">ওষুধ</instance>
+			<instance id="d003.s008.t018" lemma="," pos="ADJ">,</instance>
+			<instance id="d003.s008.t019" lemma="যার" pos="X">যার</instance>
+			<instance id="d003.s008.t020" lemma="মধ্যে" pos="NOUN">মধ্যে</instance>
+			<instance id="d003.s008.t021" lemma="কিছু" pos="ADJ">কিছু</instance>
+			<instance id="d003.s008.t022" lemma="বমি" pos="NOUN">বমি</instance>
+			<instance id="d003.s008.t023" lemma="করে" pos="VERB">করে</instance>
+			<instance id="d003.s008.t024" lemma="বলে" pos="X">বলে</instance>
+			<instance id="d003.s008.t025" lemma="জানা" pos="VERB">জানা</instance>
+			<instance id="d003.s008.t026" lemma="যায়" pos="X">যায়</instance>
+			<instance id="d003.s008.t027" lemma=")" pos="X">)</instance>
+			<instance id="d003.s008.t028" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d003.s009" source="semeval2015-en">
+			<instance id="d003.s009.t000" lemma="অন্যান্য" pos="ADJ">অন্যান্য</instance>
+			<instance id="d003.s009.t001" lemma="পশু" pos="ADJ">পশু</instance>
+			<instance id="d003.s009.t002" lemma="চিকিৎসা" pos="NOUN">চিকিৎসা</instance>
+			<instance id="d003.s009.t003" lemma="বা" pos="X">বা</instance>
+			<instance id="d003.s009.t004" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d003.s009.t005" lemma="বিশেষ" pos="ADJ">বিশেষ</instance>
+			<instance id="d003.s009.t006" lemma="খাদ্যতালিকার" pos="NOUN">খাদ্যতালিকার</instance>
+			<instance id="d003.s009.t007" lemma="মতো" pos="X">মতো</instance>
+			<instance id="d003.s009.t008" lemma="সহায়ক" pos="ADJ">সহায়ক</instance>
+			<instance id="d003.s009.t009" lemma="ব্যবস্থাগুলির" pos="NOUN">ব্যবস্থাগুলির</instance>
+			<instance id="d003.s009.t010" lemma="সাথে" pos="NOUN">সাথে</instance>
+			<instance id="d003.s009.t011" lemma="একযোগে" pos="ADV">একযোগে</instance>
+			<instance id="d003.s009.t012" lemma="," pos="X">,</instance>
+			<instance id="d003.s009.t013" lemma="বমির" pos="NOUN">বমির</instance>
+			<instance id="d003.s009.t014" lemma="চিকিৎসাতেও" pos="NOUN">চিকিৎসাতেও</instance>
+			<instance id="d003.s009.t015" lemma="সেরেনিয়া" pos="NOUN">সেরেনিয়া</instance>
+			<instance id="d003.s009.t016" lemma="ব্যবহার" pos="VERB">ব্যবহার</instance>
+			<instance id="d003.s009.t017" lemma="করা" pos="VERB">করা</instance>
+			<instance id="d003.s009.t018" lemma="যেতে" pos="VERB">যেতে</instance>
+			<instance id="d003.s009.t019" lemma="পারে" pos="VERB">পারে</instance>
+			<instance id="d003.s009.t020" lemma="(" pos="X">(</instance>
+			<instance id="d003.s009.t021" lemma="হয়" pos="X">হয়</instance>
+			<instance id="d003.s009.t022" lemma="ইঞ্জেকশন" pos="NOUN">ইঞ্জেকশন</instance>
+			<instance id="d003.s009.t023" lemma="হিসাবে" pos="NOUN">হিসাবে</instance>
+			<instance id="d003.s009.t024" lemma="বা" pos="X">বা</instance>
+			<instance id="d003.s009.t025" lemma="ইনজেকশনের" pos="NOUN">ইনজেকশনের</instance>
+			<instance id="d003.s009.t026" lemma="পরে" pos="VERB">পরে</instance>
+			<instance id="d003.s009.t027" lemma="ট্যাবলেট" pos="NOUN">ট্যাবলেট</instance>
+			<instance id="d003.s009.t028" lemma="হিসাবে" pos="ADV">হিসাবে</instance>
+			<instance id="d003.s009.t029" lemma=")" pos="X">)</instance>
+			<instance id="d003.s009.t030" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d003.s010" source="semeval2015-en">
+			<instance id="d003.s010.t000" lemma="এই" pos="X">এই</instance>
+			<instance id="d003.s010.t001" lemma="উদ্দেশ্যে" pos="NOUN">উদ্দেশ্যে</instance>
+			<instance id="d003.s010.t002" lemma="সেরেনিয়াকে" pos="X">সেরেনিয়াকে</instance>
+			<instance id="d003.s010.t003" lemma="পাঁচ" pos="ADJ">পাঁচ</instance>
+			<instance id="d003.s010.t004" lemma="দিন" pos="NOUN">দিন</instance>
+			<instance id="d003.s010.t005" lemma="পর্যন্ত" pos="X">পর্যন্ত</instance>
+			<instance id="d003.s010.t006" lemma="দেওয়া" pos="VERB">দেওয়া</instance>
+			<instance id="d003.s010.t007" lemma="যেতে" pos="VERB">যেতে</instance>
+			<instance id="d003.s010.t008" lemma="পারে" pos="VERB">পারে</instance>
+		</sentence>
+		<sentence id="d003.s011" source="semeval2015-en">
+			<instance id="d003.s011.t000" lemma="সেরিনিয়া" pos="NOUN">সেরিনিয়া</instance>
+			<instance id="d003.s011.t001" lemma="কীভাবে" pos="ADV">কীভাবে</instance>
+			<instance id="d003.s011.t002" lemma="কাজ" pos="NOUN">কাজ</instance>
+			<instance id="d003.s011.t003" lemma="করে" pos="VERB">করে</instance>
+			<instance id="d003.s011.t004" lemma="?" pos="X">?</instance>
+		</sentence>
+		<sentence id="d003.s012" source="semeval2015-en">
+			<instance id="d003.s012.t000" lemma="সেরিনিয়া" pos="NOUN">সেরিনিয়া</instance>
+			<instance id="d003.s012.t001" lemma="নিউরোকিনিন" pos="NOUN">নিউরোকিনিন</instance>
+			<instance id="d003.s012.t002" lemma="1" pos="X">1</instance>
+			<instance id="d003.s012.t003" lemma="(" pos="X">(</instance>
+			<instance id="d003.s012.t004" lemma="এনকে১" pos="X">এনকে১</instance>
+			<instance id="d003.s012.t005" lemma=")" pos="X">)</instance>
+			<instance id="d003.s012.t006" lemma="রিসেপটর" pos="NOUN">রিসেপটর</instance>
+			<instance id="d003.s012.t007" lemma="ব্লক" pos="VERB">ব্লক</instance>
+			<instance id="d003.s012.t008" lemma="করে" pos="VERB">করে</instance>
+			<instance id="d003.s012.t009" lemma="," pos="NOUN">,</instance>
+			<instance id="d003.s012.t010" lemma="যা" pos="X">যা</instance>
+			<instance id="d003.s012.t011" lemma="কেন্দ্রীয়" pos="ADJ">কেন্দ্রীয়</instance>
+			<instance id="d003.s012.t012" lemma="স্নায়ুতন্ত্রে" pos="NOUN">স্নায়ুতন্ত্রে</instance>
+			<instance id="d003.s012.t013" lemma="কাজ" pos="VERB">কাজ</instance>
+			<instance id="d003.s012.t014" lemma="করে" pos="VERB">করে</instance>
+			<instance id="d003.s012.t015" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d003.s013" source="semeval2015-en">
+			<instance id="d003.s013.t000" lemma="সেরেনিয়া" pos="NOUN">সেরেনিয়া</instance>
+			<instance id="d003.s013.t001" lemma="কীভাবে" pos="ADV">কীভাবে</instance>
+			<instance id="d003.s013.t002" lemma="অধ্যয়ন" pos="VERB">অধ্যয়ন</instance>
+			<instance id="d003.s013.t003" lemma="করা" pos="VERB">করা</instance>
+			<instance id="d003.s013.t004" lemma="হয়েছে" pos="VERB">হয়েছে</instance>
+			<instance id="d003.s013.t005" lemma="?" pos="X">?</instance>
+		</sentence>
+		<sentence id="d003.s014" source="semeval2015-en">
+			<instance id="d003.s014.t000" lemma="সেরেনিয়ার" pos="X">সেরেনিয়ার</instance>
+			<instance id="d003.s014.t001" lemma="সাথে" pos="NOUN">সাথে</instance>
+			<instance id="d003.s014.t002" lemma="বেশ" pos="ADJ">বেশ</instance>
+			<instance id="d003.s014.t003" lemma="কয়েকটি" pos="ADJ">কয়েকটি</instance>
+			<instance id="d003.s014.t004" lemma="ইউরোপীয়" pos="ADJ">ইউরোপীয়</instance>
+			<instance id="d003.s014.t005" lemma="দেশে" pos="NOUN">দেশে</instance>
+			<instance id="d003.s014.t006" lemma="এবং" pos="X">এবং</instance>
+			<instance id="d003.s014.t007" lemma="মার্কিন" pos="NOUN">মার্কিন</instance>
+			<instance id="d003.s014.t008" lemma="যুক্তরাষ্ট্রে" pos="NOUN">যুক্তরাষ্ট্রে</instance>
+			<instance id="d003.s014.t009" lemma="ল্যাবরেটরি" pos="NOUN">ল্যাবরেটরি</instance>
+			<instance id="d003.s014.t010" lemma="কুকুর" pos="NOUN">কুকুর</instance>
+			<instance id="d003.s014.t011" lemma="বা" pos="X">বা</instance>
+			<instance id="d003.s014.t012" lemma="পশুরোগীদের" pos="NOUN">পশুরোগীদের</instance>
+			<instance id="d003.s014.t013" lemma="নিয়ে" pos="X">নিয়ে</instance>
+			<instance id="d003.s014.t014" lemma="গবেষণা" pos="NOUN">গবেষণা</instance>
+			<instance id="d003.s014.t015" lemma="করা" pos="NOUN">করা</instance>
+			<instance id="d003.s014.t016" lemma="হয়" pos="X">হয়</instance>
+			<instance id="d003.s014.t017" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d003.s015" source="semeval2015-en">
+			<instance id="d003.s015.t000" lemma="অধ্যয়নের" pos="NOUN">অধ্যয়নের</instance>
+			<instance id="d003.s015.t001" lemma="সময়" pos="NOUN">সময়</instance>
+			<instance id="d003.s015.t002" lemma="সেরেনিয়া" pos="NOUN">সেরেনিয়া</instance>
+			<instance id="d003.s015.t003" lemma="কোন" pos="ADJ">কোন</instance>
+			<instance id="d003.s015.t004" lemma="উপকার" pos="NOUN">উপকার</instance>
+			<instance id="d003.s015.t005" lemma="দেখিয়েছে" pos="VERB">দেখিয়েছে</instance>
+			<instance id="d003.s015.t006" lemma="?" pos="X">?</instance>
+		</sentence>
+		<sentence id="d003.s016" source="semeval2015-en">
+			<instance id="d003.s016.t000" lemma="গবেষণায়" pos="NOUN">গবেষণায়</instance>
+			<instance id="d003.s016.t001" lemma="দেখা" pos="VERB">দেখা</instance>
+			<instance id="d003.s016.t002" lemma="গেছে" pos="NOUN">গেছে</instance>
+			<instance id="d003.s016.t003" lemma="যে" pos="X">যে</instance>
+			<instance id="d003.s016.t004" lemma="সেরেনিয়া" pos="NOUN">সেরেনিয়া</instance>
+			<instance id="d003.s016.t005" lemma="প্লাসিবোর" pos="NOUN">প্লাসিবোর</instance>
+			<instance id="d003.s016.t006" lemma="চেয়ে" pos="NOUN">চেয়ে</instance>
+			<instance id="d003.s016.t007" lemma="বেশি" pos="ADV">বেশি</instance>
+			<instance id="d003.s016.t008" lemma="কার্যকর" pos="ADJ">কার্যকর</instance>
+			<instance id="d003.s016.t009" lemma=":" pos="X">:</instance>
+			<instance id="d003.s016.t010" lemma="যেসব" pos="X">যেসব</instance>
+			<instance id="d003.s016.t011" lemma="কুকুর" pos="NOUN">কুকুর</instance>
+			<instance id="d003.s016.t012" lemma="ওষুধ" pos="NOUN">ওষুধ</instance>
+			<instance id="d003.s016.t013" lemma="পেয়েছে" pos="VERB">পেয়েছে</instance>
+			<instance id="d003.s016.t014" lemma="তাদের" pos="NOUN">তাদের</instance>
+			<instance id="d003.s016.t015" lemma="তুলনায়" pos="VERB">তুলনায়</instance>
+			<instance id="d003.s016.t016" lemma="কম" pos="ADJ">কম</instance>
+			<instance id="d003.s016.t017" lemma="বমি" pos="NOUN">বমি</instance>
+			<instance id="d003.s016.t018" lemma="দেখা" pos="VERB">দেখা</instance>
+			<instance id="d003.s016.t019" lemma="গেছে" pos="VERB">গেছে</instance>
+			<instance id="d003.s016.t020" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d003.s017" source="semeval2015-en">
+			<instance id="d003.s017.t000" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d003.s017.t001" lemma="বমি" pos="NOUN">বমি</instance>
+			<instance id="d003.s017.t002" lemma="কুকুরের" pos="NOUN">কুকুরের</instance>
+			<instance id="d003.s017.t003" lemma="চিকিৎসা" pos="NOUN">চিকিৎসা</instance>
+			<instance id="d003.s017.t004" lemma="ইনজেকশন" pos="NOUN">ইনজেকশন</instance>
+			<instance id="d003.s017.t005" lemma="দিয়ে" pos="VERB">দিয়ে</instance>
+			<instance id="d003.s017.t006" lemma="শুরু" pos="VERB">শুরু</instance>
+			<instance id="d003.s017.t007" lemma="করা" pos="NOUN">করা</instance>
+			<instance id="d003.s017.t008" lemma="উচিত" pos="ADJ">উচিত</instance>
+			<instance id="d003.s017.t009" lemma="," pos="X">,</instance>
+			<instance id="d003.s017.t010" lemma="যেহেতু" pos="X">যেহেতু</instance>
+			<instance id="d003.s017.t011" lemma="প্রাণী" pos="NOUN">প্রাণী</instance>
+			<instance id="d003.s017.t012" lemma="বমি" pos="NOUN">বমি</instance>
+			<instance id="d003.s017.t013" lemma="করে" pos="VERB">করে</instance>
+			<instance id="d003.s017.t014" lemma="একটি" pos="ADJ">একটি</instance>
+			<instance id="d003.s017.t015" lemma="ট্যাবলেট" pos="NOUN">ট্যাবলেট</instance>
+			<instance id="d003.s017.t016" lemma="নিচে" pos="NOUN">নিচে</instance>
+			<instance id="d003.s017.t017" lemma="রাখতে" pos="VERB">রাখতে</instance>
+			<instance id="d003.s017.t018" lemma="পারে" pos="ADJ">পারে</instance>
+			<instance id="d003.s017.t019" lemma="না" pos="ADV">না</instance>
+			<instance id="d003.s017.t020" lemma="(" pos="X">(</instance>
+			<instance id="d003.s017.t021" lemma="যেমন" pos="X">যেমন</instance>
+			<instance id="d003.s017.t022" lemma="তারা" pos="X">তারা</instance>
+			<instance id="d003.s017.t023" lemma="আবার" pos="ADV">আবার</instance>
+			<instance id="d003.s017.t024" lemma="অক্ষত" pos="ADJ">অক্ষত</instance>
+			<instance id="d003.s017.t025" lemma="ট্যাবলেট" pos="NOUN">ট্যাবলেট</instance>
+			<instance id="d003.s017.t026" lemma="ছুড়ে" pos="NOUN">ছুড়ে</instance>
+			<instance id="d003.s017.t027" lemma="ফেলতে" pos="VERB">ফেলতে</instance>
+			<instance id="d003.s017.t028" lemma="পারে" pos="VERB">পারে</instance>
+			<instance id="d003.s017.t029" lemma=")" pos="X">)</instance>
+			<instance id="d003.s017.t030" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d003.s018" source="semeval2015-en">
+			<instance id="d003.s018.t000" lemma="পরবর্তী" pos="NOUN">পরবর্তী</instance>
+			<instance id="d003.s018.t001" lemma="চিকিৎসার" pos="NOUN">চিকিৎসার</instance>
+			<instance id="d003.s018.t002" lemma="জন্য" pos="X">জন্য</instance>
+			<instance id="d003.s018.t003" lemma="," pos="X">,</instance>
+			<instance id="d003.s018.t004" lemma="পশুর" pos="NOUN">পশুর</instance>
+			<instance id="d003.s018.t005" lemma="মালিক" pos="NOUN">মালিক</instance>
+			<instance id="d003.s018.t006" lemma="সেই" pos="X">সেই</instance>
+			<instance id="d003.s018.t007" lemma="ফলকগুলো" pos="NOUN">ফলকগুলো</instance>
+			<instance id="d003.s018.t008" lemma="কুকুরের" pos="NOUN">কুকুরের</instance>
+			<instance id="d003.s018.t009" lemma="হাতে" pos="NOUN">হাতে</instance>
+			<instance id="d003.s018.t010" lemma="তুলে" pos="VERB">তুলে</instance>
+			<instance id="d003.s018.t011" lemma="দিতে" pos="VERB">দিতে</instance>
+			<instance id="d003.s018.t012" lemma="পারেন" pos="VERB">পারেন</instance>
+			<instance id="d003.s018.t013" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d003.s019" source="semeval2015-en">
+			<instance id="d003.s019.t000" lemma="এ" pos="X">এ</instance>
+			<instance id="d003.s019.t001" lemma="ছাড়া" pos="ADV">ছাড়া</instance>
+			<instance id="d003.s019.t002" lemma="," pos="X">,</instance>
+			<instance id="d003.s019.t003" lemma="বমি" pos="NOUN">বমি</instance>
+			<instance id="d003.s019.t004" lemma="করার" pos="NOUN">করার</instance>
+			<instance id="d003.s019.t005" lemma="চিকিৎসা" pos="NOUN">চিকিৎসা</instance>
+			<instance id="d003.s019.t006" lemma="শুধু" pos="ADV">শুধু</instance>
+			<instance id="d003.s019.t007" lemma="অন্যান্য" pos="X">অন্যান্য</instance>
+			<instance id="d003.s019.t008" lemma="সহায়ক" pos="ADJ">সহায়ক</instance>
+			<instance id="d003.s019.t009" lemma="ব্যবস্থা" pos="NOUN">ব্যবস্থা</instance>
+			<instance id="d003.s019.t010" lemma="বা" pos="X">বা</instance>
+			<instance id="d003.s019.t011" lemma="অন্যান্য" pos="ADJ">অন্যান্য</instance>
+			<instance id="d003.s019.t012" lemma="পশুচিকিৎসার" pos="NOUN">পশুচিকিৎসার</instance>
+			<instance id="d003.s019.t013" lemma="সঙ্গে" pos="X">সঙ্গে</instance>
+			<instance id="d003.s019.t014" lemma="হওয়া" pos="X">হওয়া</instance>
+			<instance id="d003.s019.t015" lemma="উচিত" pos="ADJ">উচিত</instance>
+			<instance id="d003.s019.t016" lemma="," pos="X">,</instance>
+			<instance id="d003.s019.t017" lemma="যেখানে" pos="ADV">যেখানে</instance>
+			<instance id="d003.s019.t018" lemma="বমির" pos="NOUN">বমির</instance>
+			<instance id="d003.s019.t019" lemma="মূল" pos="VERB">মূল</instance>
+			<instance id="d003.s019.t020" lemma="কারণগুলো" pos="NOUN">কারণগুলো</instance>
+			<instance id="d003.s019.t021" lemma="সম্বন্ধে" pos="VERB">সম্বন্ধে</instance>
+			<instance id="d003.s019.t022" lemma="উল্লেখ" pos="VERB">উল্লেখ</instance>
+			<instance id="d003.s019.t023" lemma="করা" pos="VERB">করা</instance>
+			<instance id="d003.s019.t024" lemma="হবে" pos="VERB">হবে</instance>
+			<instance id="d003.s019.t025" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d003.s020" source="semeval2015-en">
+			<instance id="d003.s020.t000" lemma="সেরেনিয়ার" pos="X">সেরেনিয়ার</instance>
+			<instance id="d003.s020.t001" lemma="সাথে" pos="NOUN">সাথে</instance>
+			<instance id="d003.s020.t002" lemma="কোন" pos="ADJ">কোন</instance>
+			<instance id="d003.s020.t003" lemma="ঝুঁকি" pos="NOUN">ঝুঁকি</instance>
+			<instance id="d003.s020.t004" lemma="জড়িত" pos="VERB">জড়িত</instance>
+			<instance id="d003.s020.t005" lemma="?" pos="X">?</instance>
+		</sentence>
+		<sentence id="d003.s021" source="semeval2015-en">
+			<instance id="d003.s021.t000" lemma="দৈনিক" pos="ADV">দৈনিক</instance>
+			<instance id="d003.s021.t001" lemma="ডোজে" pos="NOUN">ডোজে</instance>
+			<instance id="d003.s021.t002" lemma="অতিরিক্ত" pos="ADJ">অতিরিক্ত</instance>
+			<instance id="d003.s021.t003" lemma="সময়ের" pos="ADV">সময়ের</instance>
+			<instance id="d003.s021.t004" lemma="জন্য" pos="X">জন্য</instance>
+			<instance id="d003.s021.t005" lemma="সুপারিশকৃত" pos="NOUN">সুপারিশকৃত</instance>
+			<instance id="d003.s021.t006" lemma="ডোজের" pos="NOUN">ডোজের</instance>
+			<instance id="d003.s021.t007" lemma="চেয়ে" pos="NOUN">চেয়ে</instance>
+			<instance id="d003.s021.t008" lemma="5" pos="X">5</instance>
+			<instance id="d003.s021.t009" lemma="গুণ" pos="NOUN">গুণ</instance>
+			<instance id="d003.s021.t010" lemma="বেশি" pos="NOUN">বেশি</instance>
+			<instance id="d003.s021.t011" lemma="মাত্রায়" pos="X">মাত্রায়</instance>
+			<instance id="d003.s021.t012" lemma="(" pos="X">(</instance>
+			<instance id="d003.s021.t013" lemma="চিকিৎসার" pos="NOUN">চিকিৎসার</instance>
+			<instance id="d003.s021.t014" lemma="সর্বোচ্চ" pos="ADJ">সর্বোচ্চ</instance>
+			<instance id="d003.s021.t015" lemma="সময়ের" pos="NOUN">সময়ের</instance>
+			<instance id="d003.s021.t016" lemma="চেয়ে" pos="NOUN">চেয়ে</instance>
+			<instance id="d003.s021.t017" lemma="3" pos="X">3</instance>
+			<instance id="d003.s021.t018" lemma="গুণ" pos="NOUN">গুণ</instance>
+			<instance id="d003.s021.t019" lemma="বেশি" pos="ADJ">বেশি</instance>
+			<instance id="d003.s021.t020" lemma="সময়" pos="NOUN">সময়</instance>
+			<instance id="d003.s021.t021" lemma=")" pos="X">)</instance>
+			<instance id="d003.s021.t022" lemma="সেরেনিয়াকে" pos="NOUN">সেরেনিয়াকে</instance>
+			<instance id="d003.s021.t023" lemma="সাধারণত" pos="ADV">সাধারণত</instance>
+			<instance id="d003.s021.t024" lemma="ভালভাবে" pos="ADV">ভালভাবে</instance>
+			<instance id="d003.s021.t025" lemma="সহ্য" pos="VERB">সহ্য</instance>
+			<instance id="d003.s021.t026" lemma="করা" pos="VERB">করা</instance>
+			<instance id="d003.s021.t027" lemma="হতো" pos="VERB">হতো</instance>
+			<instance id="d003.s021.t028" lemma="।" pos="X">।</instance>
+		</sentence>
+		<sentence id="d003.s022" source="semeval2015-en">
+			<instance id="d003.s022.t000" lemma="যে-ব্যক্তি" pos="X">যে-ব্যক্তি</instance>
+			<instance id="d003.s022.t001" lemma="ওষুধ" pos="X">ওষুধ</instance>
+			<instance id="d003.s022.t002" lemma="দেন" pos="VERB">দেন</instance>
+			<instance id="d003.s022.t003" lemma="অথবা" pos="NOUN">অথবা</instance>
+			<instance id="d003.s022.t004" lemma="পশুর" pos="NOUN">পশুর</instance>
+			<instance id="d003.s022.t005" lemma="সংস্পর্শে" pos="NOUN">সংস্পর্শে</instance>
+			<instance id="d003.s022.t006" lemma="আসেন" pos="VERB">আসেন</instance>
+			<instance id="d003.s022.t007" lemma="," pos="X">,</instance>
+			<instance id="d003.s022.t008" lemma="তার" pos="X">তার</instance>
+			<instance id="d003.s022.t009" lemma="জন্য" pos="X">জন্য</instance>
+			<instance id="d003.s022.t010" lemma="কোন" pos="ADJ">কোন</instance>
+			<instance id="d003.s022.t011" lemma="সাবধানতা" pos="NOUN">সাবধানতা</instance>
+			<instance id="d003.s022.t012" lemma="অবলম্বন" pos="X">অবলম্বন</instance>
+			<instance id="d003.s022.t013" lemma="করা" pos="X">করা</instance>
+			<instance id="d003.s022.t014" lemma="হয়" pos="NOUN">হয়</instance>
+			<instance id="d003.s022.t015" lemma="?" pos="X">?</instance>
+		</sentence>
+		<sentence id="d003.s023" source="semeval2015-en">
+			<instance id="d003.s023.t000" lemma="সেরিনিয়া" pos="NOUN">সেরিনিয়া</instance>
+			<instance id="d003.s023.t001" lemma="মানুষের" pos="NOUN">মানুষের</instance>
+			<instance id="d003.s023.t002" lemma="জন্য" pos="X">জন্য</instance>
+			<instance id="d003.s023.t003" lemma="কোন" pos="ADJ">কোন</instance>
+			<instance id="d003.s023.t004" lemma="বিশেষ" pos="ADJ">বিশেষ</instance>
+			<instance id="d003.s023.t005" lemma="ঝুঁকির" pos="NOUN">ঝুঁকির</instance>
+			<instance id="d003.s023.t006" lemma="প্রতিনিধিত্ব" pos="ADJ">প্রতিনিধিত্ব</instance>
+			<instance id="d003.s023.t007" lemma="করে" pos="VERB">করে</instance>
+			<instance id="d003.s023.t008" lemma="না" pos="ADV">না</instance>
+			<instance id="d003.s023.t009" lemma="।" pos="X">।</instance>
+		</sentence>
+	</text>
+</corpus>

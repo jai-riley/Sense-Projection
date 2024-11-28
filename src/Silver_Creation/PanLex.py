@@ -15,12 +15,16 @@ def read_tsv_column_to_list(file_path, column_name,other_column):
     try:
         with open(file_path, mode='r', newline='', encoding='utf-8') as file:
             reader = csv.DictReader(file, delimiter='\t')
+            # token = ""
             for row in reader:
                 if column_name in row:
-                    if row[column_name] is None:
+                    # print(str(row[column_name]) == "")
+                    if str(row[column_name]) == "":
                         items.append(row[other_column])
+                        # print(token,)
                     else:
                         items.append(row[column_name])
+
                 else:
                     print(f"Column '{column_name}' not found in the file.")
                     return []
@@ -32,26 +36,17 @@ def read_tsv_column_to_list(file_path, column_name,other_column):
         return []
     return items
 
-file_path = '/Users/jairiley/Desktop/Research/Sense-Projection/data/Farsi/tokens-aligned-Farsi.tsv'
-column_name = 'Farsi Token'
-silver = read_tsv_column_to_list(file_path, "Farsi Lemma", column_name)
-column_name = 'Token'
-gold = read_tsv_column_to_list(file_path, 'Lemma',column_name)
-print(len(silver),len(gold))
-
-correct = 0
-total = 0
-incorrect = 0
-l = []
-for x in range(len(gold)):
-    print(f"{x} of {len(gold)}")
+def run_panlex(source_word,target_word):
     uid_value = "eng-000"
-    txt_value = gold[x].lower()
-    if txt_value != "":
+    # source_word = gold[x].lower()
+    print()
+    results = []
+    if source_word != "":
         try:
-            if silver[x] != "":
+            if target_word != "":
+                print(source_word, target_word)
                 result = subprocess.run(
-                    f'curl http://api.panlex.org/v2/expr -d \'{{ "uid": "{uid_value}", "txt": "{txt_value}" }}\'',
+                    f'curl http://api.panlex.org/v2/expr -d \'{{ "uid": "{uid_value}", "txt": "{source_word}" }}\'',
                     shell=True,
                     capture_output=True,
                     text=True
@@ -66,10 +61,11 @@ for x in range(len(gold)):
                 # Print the results
                 # results[0]['id']
                 trans_expr_value = results[0]['id']
+                print(trans_expr_value)
 
                 # Run the curl command and capture the output
                 result = subprocess.run(
-                    f'curl http://api.panlex.org/v2/expr -d \'{{ "uid": "pes-000", "trans_expr": {trans_expr_value} }}\'',
+                    f'curl http://api.panlex.org/v2/expr -d \'{{ "uid": "zho-000", "trans_expr": {trans_expr_value} }}\'',
                     shell=True,
                     capture_output=True,
                     text=True
@@ -79,52 +75,123 @@ for x in range(len(gold)):
                 response_json = json.loads(result.stdout)
 
                 # Access the 'result' list
-                results = response_json['result']
+                results = response_json["result"]
+                print(results)
 
-                # Print the results
-                list_of_translations = []
-                for item in results:
-                    list_of_translations.append(item['txt'])
-                if "➕" not in silver[x]:
-                    text = silver[x].lower()
-                else:
-                    text = " ".join(silver[x].split("➕"))
-                if text in list_of_translations or text == txt_value:
-                    correct += 1
-                else:
-                    incorrect += 1
-                    print(gold[x],text)
-                    l.append([x,gold[x],text])
 
-                total += 1
-        except:
+        except Exception as e:
+            print(e)
+            if str(e) != "list index out of range" and source_word != '""""' and source_word.isalpha():
+                return run_panlex(source_word,target_word)
 
-            if silver[x].lower() == gold[x].lower():
-                correct += 1
-                total += 1
+            # return []
+            # if silver[x].lower() == gold[x].lower():
+            #     correct += 1
+            #     total += 1
+            #     writer.writerow(
+            #         {"Source": gold[x], "Target": silver[x], "Translations": "not in panlex", "Valid?": 1})
             # else:
-            #     print("yes")
-            #     incorrect += 1
-            #     l.append([x,gold[x],silver[x]])
+            #     writer.writerow(
+            #         {"Source": gold[x], "Target": silver[x], "Translations": "not in panlex", "Valid?": 0})
+    return results
+
+file_path = '/Sense-Projection/data/Chinese/second/tokens-aligned-Chinese.tsv'
+column_name = 'Token ZH'
+silver = read_tsv_column_to_list(file_path, "Token ZH", column_name)
+column_name = 'Token'
+gold = read_tsv_column_to_list(file_path, 'Lemma',column_name)
+print(len(silver),len(gold))
+
+correct = 0
+total = 0
+incorrect = 0
+l = []
+file_path = '/Users/jairiley/Desktop/Research/Sense-Projection/data/Chinese/PanLex-Translations-Chinese.tsv'
+with open(file_path, mode='w', newline='', encoding='utf-8') as file:
+    writer = csv.DictWriter(file, delimiter='\t',fieldnames=["Row","Source","Target","Translations","Valid?"])
+    for x in range(len(gold)):
+        print(f"{x} of {len(gold)}")
+        source_word = gold[x].lower()
+        target_word = silver[x].lower()
+        if source_word != "" and target_word != "":
+            results = run_panlex(source_word,target_word)
+
+            # print(results)
+            # Print the results
+            list_of_translations = []
+            for item in results:
+                # print(item['txt'])
+                list_of_translations.append(item['txt'])
+                if item['txt'] != item['txt_degr']:
+                    list_of_translations.append(item['txt_degr'])
+            if "#" in silver[x] or "➕" in silver[x]:
+                if "#" in silver[x]:
+                    target_word = silver[x].split("#")
+                else:
+                    target_word = silver[x].split("➕")
+                    is_in = False
+                    a = ";".join(list_of_translations)
+                    for word in target_word:
+                        if word in a or word in source_word or source_word in word:
+                        # if word in list_of_translations:
+                            is_in = True
+                        else:
+                            for w in list_of_translations:
+                                if w in word:
+                                    is_in = True
+                    if is_in:
+                        correct += 1
+                        print('in')
+                        writer.writerow(
+                            {"Row":x,"Source": source_word, "Target": target_word, "Translations": list_of_translations,
+                             "Valid?": 1})
+                    else:
+                        print("out")
+                        incorrect += 1
+                        # print(gold[x], target_word)
+                        l.append([x, gold[x], silver[x]])
+                        writer.writerow(
+                            {"Row":x,"Source": source_word, "Target": target_word, "Translations": list_of_translations,
+                             "Valid?": 0})
+
+            else:
+                target_word = silver[x].lower()
+                a = ";".join(list_of_translations)
+                if target_word in a or target_word in source_word or source_word in target_word:
+                # if target_word in list_of_translations:
+                    correct += 1
+                    print("in")
+                    writer.writerow(
+                        {"Row":x,"Source": source_word, "Target": target_word, "Translations": list_of_translations,
+                         "Valid?": 1})
+                else:
+                    is_in = False
+                    for w in list_of_translations:
+                        if w in target_word:
+                            is_in = True
+                    if is_in:
+                        correct += 1
+                        print("in")
+                        writer.writerow(
+                            {"Row":x,"Source": source_word, "Target": target_word, "Translations": list_of_translations,
+                             "Valid?": 1})
+                    else:
+                        print("out")
+                        incorrect += 1
+                        # print(gold[x], target_word)
+                        l.append([x, gold[x], silver[x]])
+                        writer.writerow(
+                            {"Row":x,"Source": source_word, "Target": target_word, "Translations": list_of_translations,
+                             "Valid?": 0})
+
+            total += 1
+
+        # else:
+        #     print("yes")
+        #     incorrect += 1
+        #     l.append([x,gold[x],silver[x]])
 
 print(correct/total)
 
 df = pd.DataFrame(l, columns=['Row', 'Source','Target'])
-df.to_csv('/Users/jairiley/Desktop/Research/Sense-Projection/data/Farsi/problem-alignments-Farsi-Panlex.tsv', sep='\t', index=False)
-
-# Italian 85.5
-# Italian 85.9
-
-# New Italian
-# 0.8503046127067014
-
-# New Italian
-# 0.8485663082437276
-
-# 2017 Italian
-# 0.8216123499142367
-
-# 2017 Italian
-# 0.8221070811744386
-
-#New Spanish 0.8485742379547689
+df.to_csv('/Users/jairiley/Desktop/Research/Sense-Projection/data/Chinese/second/problem-alignments-Chinese-Panlex.tsv', sep='\t', index=False)

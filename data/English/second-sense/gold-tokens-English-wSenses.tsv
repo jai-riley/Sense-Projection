@@ -1,0 +1,2760 @@
+Token ID	Token	Lemma	POS	BN Synset
+	This		X
+d000.s000.t000	document	document	NOUN	bn:00028015n;wiki:document;wn:document%1:10:00::;wn:papers%1:10:00::;wn:written_document%1:10:00::
+	is	be	VERB	
+	a		X	
+d000.s000.t001	summary	summary	NOUN	bn:00075142n;wiki:summary_(law);wn:sum-up%1:10:00::;wn:summary%1:10:00::
+	of		X	
+	the		X	
+d000.s000.t002	European	european	ADJ	bn:00102440a;wn:european%3:01:00::
+d000.s000.t003	Public	public	ADJ	bn:00109211a;wn:public%3:00:00::
+d000.s000.t004	Assessment	assessment	NOUN	bn:00006502n;wn:assessment%1:04:00::;wn:judgement%1:04:02::;wn:judgment%1:04:02::
+d000.s000.t005	Report	report	NOUN	bn:00067181n;wiki:report;wn:report%1:10:03::;wn:study%1:10:00::;wn:written_report%1:10:00::
+	(		X	
+	EPAR	epar	NOUN	
+	)		X	
+	.		X	
+	-end-		X	
+	It		X	
+d000.s001.t000	explains	explain	VERB	bn:00087869v;bn:00087870v;wn:explain%2:32:00::;wn:explain%2:32:01::;wn:explicate%2:32:00::
+	how		X	
+	the		X	
+d000.s001.t001	Committee	committee	NOUN	bn:00021015n;wiki:committee;wn:commission%1:14:00::;wn:committee%1:14:00::
+	for		X	
+d000.s001.t002	Medicinal	medicinal	ADJ	bn:00106556a;wn:medicative%5:00:00:healthful:00;wn:medicinal%5:00:00:healthful:00
+d000.s001.t003	Products	product	NOUN	bn:00064584n;bn:01740339n;wiki:product_(business);wn:product%1:06:00::;wn:production%1:06:00::
+	for		X	
+d000.s001.t004	Human	human	ADJ	bn:00104385a;wn:human%3:01:01::
+d000.s001.t005	Use	use	NOUN	bn:00030627n;bn:00079370n;wn:employment%1:04:01::;wn:exercise%1:04:03::;wn:usage%1:04:00::;wn:use%1:04:00::;wn:use%1:07:02::;wn:utilisation%1:04:00::;wn:utilization%1:04:00::
+	(		X	
+	CHMP	chmp	NOUN	
+	)		X	
+d000.s001.t006	assessed	assess	VERB	bn:00082720v;wn:appraise%2:31:01::;wn:assess%2:31:00::;wn:evaluate%2:31:00::;wn:measure%2:31:01::;wn:valuate%2:31:00::;wn:value%2:31:00::
+	the		X	
+d000.s001.t007	studies	study	NOUN	bn:00074790n;wn:study%1:04:00::;wn:survey%1:04:02::
+d000.s001.t008	performed	perform	VERB	bn:00087107v;wn:do%2:36:01::;wn:execute%2:36:01::;wn:perform%2:36:00::
+	,		X	
+	to		X	
+d000.s001.t009	reach	reach	VERB	bn:00082226v;bn:00088789v;wn:accomplish%2:41:00::;wn:achieve%2:41:00::;wn:attain%2:41:00::;wn:get_to%2:38:02::;wn:make%2:38:02::;wn:progress_to%2:38:00::;wn:reach%2:38:06::;wn:reach%2:41:00::
+	their		X	
+d000.s001.t010	recommendations	recommendation	NOUN	bn:00066562n;wn:recommendation%1:10:00::
+	on		X	
+	how		X	
+	to		X	
+d000.s001.t011	use	use	VERB	bn:00082705v;bn:00089140v;wn:apply%2:34:00::;wn:employ%2:34:00::;wn:habituate%2:34:00::;wn:use%2:34:01::;wn:use%2:34:02::;wn:utilise%2:34:00::;wn:utilize%2:34:00::
+	the		X	
+d000.s001.t012	medicine	medicine	NOUN	bn:00054128n;bn:00061887n;wiki:pharmaceutical_drug;wn:medicament%1:06:00::;wn:medication%1:06:00::;wn:medicinal_drug%1:06:00::;wn:medicine%1:06:00::;wn:pharmaceutic%1:06:00::;wn:pharmaceutical%1:06:00::
+	.		X	
+	-end-		X	
+	If		X	
+	you		X	
+d000.s002.t000	need	need	VERB	bn:00091028v;bn:00091029v;wn:need%2:34:00::;wn:need%2:34:01::;wn:require%2:34:00::;wn:want%2:34:00::
+d000.s002.t001	more	more	ADJ	bn:00106935a;wn:more%3:00:01::;wn:more_than%3:00:00::
+d000.s002.t002	information	information	NOUN	bn:00025314n;bn:00046705n;wiki:data;wiki:information;wn:data%1:14:00::;wn:information%1:09:00::;wn:information%1:14:00::
+	about		X	
+	your		X	
+d000.s002.t003	medical	medical	ADJ	bn:00106555a;wn:medical%3:00:00::
+d000.s002.t004	condition	condition	NOUN	bn:00021648n;wn:condition%1:26:05::
+	or		X	
+	your		X	
+d000.s002.t005	treatment	treatment	NOUN	bn:00047235n;wn:intervention%1:04:02::;wn:treatment%1:04:00::
+	,		X	
+d000.s002.t006	read	read	VERB	bn:00092424v;wn:read%2:31:00::
+	the		X	
+d000.s002.t007	Package	package	NOUN	bn:00013882n;bn:00060109n;wiki:packaging_and_labeling;wiki:parcel_(consignment);wn:bundle%1:14:00::;wn:package%1:06:00::;wn:package%1:14:00::;wn:packet%1:14:00::;wn:parcel%1:06:00::;wn:parcel%1:14:00::
+d000.s002.t008	Leaflet	leaflet	NOUN	bn:00012133n;wiki:folded_leaflet;wiki:pamphlet;wn:booklet%1:10:00::;wn:brochure%1:10:00::;wn:folder%1:10:00::;wn:leaflet%1:10:00::;wn:pamphlet%1:10:01::
+	(		X	
+d000.s002.t009	also	also	ADV	bn:00114246r;wn:also%4:02:00::;wn:as_well%4:02:01::;wn:besides%4:02:03::;wn:likewise%4:02:01::;wn:too%4:02:01::
+d000.s002.t010	part	part	NOUN	bn:00021395n;bn:00027912n;wn:component%1:24:00::;wn:component_part%1:24:00::;wn:constituent%1:24:00::;wn:division%1:09:00::;wn:part%1:09:00::;wn:part%1:24:00::;wn:portion%1:24:00::;wn:section%1:09:00::
+	of		X	
+	the		X	
+	EPAR	epar	NOUN	
+	)		X	
+	or		X	
+d000.s002.t011	contact	contact	VERB	bn:00085696v;wn:contact%2:32:00::;wn:get_hold_of%2:32:00::;wn:get_through%2:32:00::;wn:reach%2:32:00::
+	your		X	
+d000.s002.t012	doctor	doctor	NOUN	bn:00027976n;wiki:physician;wn:doc%1:18:00::;wn:doctor%1:18:00::;wn:dr.%1:18:00::;wn:md%1:18:00::;wn:medico%1:18:00::;wn:physician%1:18:00::
+	or		X	
+d000.s002.t013	pharmacist	pharmacist	NOUN	bn:00004992n;wiki:apothecary;wiki:pharmacist;wn:apothecary%1:18:00::;wn:chemist%1:18:01::;wn:druggist%1:18:00::;wn:pharmacist%1:18:00::;wn:pill_pusher%1:18:00::;wn:pill_roller%1:18:00::
+	.		X	
+	-end-		X	
+	If		X	
+	you		X	
+d000.s003.t000	want	want	VERB	bn:00086682v;wn:desire%2:37:00::;wn:want%2:37:00::
+d000.s003.t001	more	more	ADJ	bn:00106935a;wn:more%3:00:01::;wn:more_than%3:00:00::
+d000.s003.t002	information	information	NOUN	bn:00025314n;bn:00046705n;wiki:data;wiki:information;wn:data%1:14:00::;wn:information%1:09:00::;wn:information%1:14:00::
+	on		X	
+	the		X	
+d000.s003.t003	basis	basis	NOUN	bn:00008786n;bn:00008870n;wn:base%1:09:00::;wn:basis%1:09:00::;wn:basis%1:24:00::;wn:cornerstone%1:09:00::;wn:footing%1:24:00::;wn:foundation%1:09:00::;wn:fundament%1:09:00::;wn:ground%1:24:00::;wn:groundwork%1:09:00::
+	of		X	
+	the		X	
+	CHMP	chmp	NOUN	
+d000.s003.t004	recommendations	recommendation	NOUN	bn:00066562n;wn:recommendation%1:10:00::
+	,		X	
+d000.s003.t005	read	read	VERB	bn:00092424v;wn:read%2:31:00::
+	the		X	
+d000.s003.t006	Scientific	scientific	ADJ	bn:00110175a;bn:00110176a;wn:scientific%3:00:00::;wn:scientific%3:01:00::
+d000.s003.t007	Discussion	discussion	NOUN	bn:00027523n;wiki:discourse;wn:discourse%1:10:00::;wn:discussion%1:10:02::;wn:treatment%1:10:00::
+	(		X	
+d000.s003.t008	also	also	ADV	bn:00114246r;wn:also%4:02:00::;wn:as_well%4:02:01::;wn:besides%4:02:03::;wn:likewise%4:02:01::;wn:too%4:02:01::
+d000.s003.t009	part	part	NOUN	bn:00021395n;bn:00027912n;wn:component%1:24:00::;wn:component_part%1:24:00::;wn:constituent%1:24:00::;wn:division%1:09:00::;wn:part%1:09:00::;wn:part%1:24:00::;wn:portion%1:24:00::;wn:section%1:09:00::
+	of		X	
+	the		X	
+	EPAR	epar	NOUN	
+	)		X	
+	.		X	
+	-end-		X	
+	What		X	
+	is	be	VERB	
+	Alimta	alimta	NOUN	
+	?		X	
+	-end-		X	
+	Alimta	alimta	NOUN	
+	is	be	VERB	
+	a		X	
+d000.s005.t000	powder	powder	NOUN	bn:00063926n;bn:00063927n;wiki:powder_(substance);wn:powder%1:06:01::;wn:powder%1:27:00::;wn:pulverisation%1:27:00::;wn:pulverization%1:27:00::
+	that		X	
+	is	be	VERB	
+d000.s005.t001	made up	make up	VERB	bn:00083187v;wn:be%2:42:02::;wn:comprise%2:42:03::;wn:constitute%2:42:00::;wn:make_up%2:42:00::;wn:represent%2:42:00::
+	into		X	
+	a		X	
+d000.s005.t002	solution	solution	NOUN	bn:00072760n;wiki:solution;wn:solution%1:27:00::
+	for		X	
+d000.s005.t003	infusion	infusion	NOUN	bn:00046734n;wn:infusion%1:04:00::
+	(		X	
+d000.s005.t004	drip	drip	VERB	bn:00087306v;wn:dribble%2:35:10::;wn:drip%2:35:10::;wn:drop%2:35:12::
+	into		X	
+	a		X	
+d000.s005.t005	vein	vein	NOUN	bn:00079681n;wiki:vein;wn:vein%1:08:00::;wn:vena%1:08:00::;wn:venous_blood_vessel%1:08:00::
+	)		X	
+	.		X	
+	-end-		X	
+	It		X	
+d000.s006.t000	contains	contain	VERB	bn:00085499v;wn:comprise%2:42:00::;wn:contain%2:42:00::;wn:incorporate%2:42:00::
+	the		X	
+d000.s006.t001	active	active	ADJ	bn:00377649n;wiki:active_ingredient
+d000.s006.t002	substance	substance	NOUN	bn:00074986n;bn:00074987n;wn:substance%1:03:01::;wn:substance%1:27:00::
+	pemetrexed	pemetrexed	NOUN	
+	.		X	
+	-end-		X	
+	What		X	
+	is	be	VERB	
+	Alimta	alimta	NOUN	
+d000.s007.t000	used	use	VERB	bn:00082705v;bn:00089140v;wn:apply%2:34:00::;wn:employ%2:34:00::;wn:habituate%2:34:00::;wn:use%2:34:01::;wn:use%2:34:02::;wn:utilise%2:34:00::;wn:utilize%2:34:00::
+	for		X	
+	?		X	
+	-end-		X	
+	Alimta	alimta	NOUN	
+	is	be	VERB	
+d000.s008.t000	used	use	VERB	bn:00082705v;bn:00089140v;wn:apply%2:34:00::;wn:employ%2:34:00::;wn:habituate%2:34:00::;wn:use%2:34:01::;wn:use%2:34:02::;wn:utilise%2:34:00::;wn:utilize%2:34:00::
+	to		X	
+d000.s008.t001	treat	treat	VERB	bn:00084532v;wn:care_for%2:29:00::;wn:treat%2:29:00::
+	two		X	
+d000.s008.t002	types	type	NOUN	bn:00078798n;wn:type%1:09:00::
+	of		X	
+d000.s008.t003	cancer	cancer	NOUN	bn:00015180n;wiki:cancer;wn:cancer%1:26:00::;wn:malignant_neoplastic_disease%1:26:00::
+	:		X	
+d000.s008.t004	pleural	pleural	ADJ	bn:00108692a;wn:pleural%3:01:00::
+d000.s008.t005	mesothelioma	mesothelioma	NOUN	bn:00054512n;wiki:mesothelioma;wn:mesothelioma%1:26:00::
+	(		X	
+d000.s008.t006	cancer	cancer	NOUN	bn:00015180n;wiki:cancer;wn:cancer%1:26:00::;wn:malignant_neoplastic_disease%1:26:00::
+	of		X	
+	the		X	
+d000.s008.t007	lining	lining	NOUN	bn:00051366n;wn:liner%1:06:02::;wn:lining%1:06:00::
+	of		X	
+	the		X	
+d000.s008.t008	lungs	lung	NOUN	bn:00052341n;wiki:lung;wn:lung%1:08:00::
+	that		X	
+	is	be	VERB	
+d000.s008.t009	usually	usually	ADV	bn:00114778r;wn:commonly%4:02:00::;wn:normally%4:02:00::;wn:ordinarily%4:02:00::;wn:unremarkably%4:02:00::;wn:usually%4:02:00::
+d000.s008.t010	caused	cause	VERB	bn:00084069v;bn:00084699v;wn:bring_about%2:36:03::;wn:cause%2:36:00::;wn:do%2:36:02::;wn:give_rise%2:36:01::;wn:make%2:36:08::;wn:produce%2:36:03::
+	by		X	
+d000.s008.t011	exposure	exposure	NOUN	bn:00032379n;bn:00032384n;wn:exposure%1:04:01::;wn:exposure%1:26:01::;wn:vulnerability%1:26:00::
+	to		X	
+d000.s008.t012	asbestos	asbestos	NOUN	bn:00006236n;wiki:asbestos;wn:asbestos%1:27:00::
+	)		X	
+	.		X	
+	-end-		X	
+	Alimta	alimta	NOUN	
+	is	be	VERB	
+d000.s009.t000	used	use	VERB	bn:00082705v;bn:00089140v;wn:apply%2:34:00::;wn:employ%2:34:00::;wn:habituate%2:34:00::;wn:use%2:34:01::;wn:use%2:34:02::;wn:utilise%2:34:00::;wn:utilize%2:34:00::
+d000.s009.t001	together	together	ADV	bn:00114766r;wn:collectively%4:02:00::;wn:conjointly%4:02:00::;wn:jointly%4:02:00::;wn:together_with%4:02:00::
+	with		X	
+d000.s009.t002	cisplatin	cisplatin	NOUN	bn:00577781n;wiki:cisplatin
+	(		X	
+	another		X	
+d000.s009.t003	anticancer	anticancer	ADJ	bn:00097220a;wn:anticancer%3:01:00::;wn:antineoplastic%3:01:00::;wn:antitumor%3:01:00::;wn:antitumour%3:01:00::
+d000.s009.t004	medicine	medicine	NOUN	bn:00054128n;bn:00061887n;wiki:pharmaceutical_drug;wn:medicament%1:06:00::;wn:medication%1:06:00::;wn:medicinal_drug%1:06:00::;wn:medicine%1:06:00::;wn:pharmaceutic%1:06:00::;wn:pharmaceutical%1:06:00::
+	)		X	
+	when		X	
+	the		X	
+d000.s009.t005	cancer	cancer	NOUN	bn:00015180n;wiki:cancer;wn:cancer%1:26:00::;wn:malignant_neoplastic_disease%1:26:00::
+	is	be	VERB	
+	unresectable	unresectable	ADJ	
+	(		X	
+	cannot		X	
+	be	be	VERB	
+d000.s009.t006	removed	remove	VERB	bn:00092783v;wn:remove%2:30:00::;wn:take%2:30:00::;wn:take_away%2:30:01::;wn:withdraw%2:30:01::
+	by		X	
+d000.s009.t007	surgery	surgery	NOUN	bn:00059129n;wiki:surgery;wn:operation%1:04:00::;wn:surgery%1:04:01::;wn:surgical_operation%1:04:00::;wn:surgical_procedure%1:04:00::;wn:surgical_process%1:04:00::
+d000.s009.t008	alone	alone	ADJ	bn:00096871a;wn:alone%5:00:00:exclusive:00;wn:only%5:00:00:exclusive:00
+	)		X	
+	and		X	
+d000.s009.t009	malignant	malignant	ADJ	bn:00106363a;wn:malignant%3:00:02::
+	(		X	
+	has	have	VERB	
+d000.s009.t010	spread	spread	VERB	bn:00092083v;wn:propagate%2:35:06::;wn:spread%2:35:07::
+	,		X	
+	or		X	
+	is	be	VERB	
+d000.s009.t011	likely	likely	ADJ	bn:00105981a;bn:00105982a;wn:likely%3:00:00::;wn:likely%3:00:04::;wn:probable%3:00:00::
+	to		X	
+d000.s009.t012	spread	spread	VERB	bn:00092083v;wn:propagate%2:35:06::;wn:spread%2:35:07::
+d000.s009.t013	easily	easily	ADV	bn:00115155r;wn:easily%4:02:01::;wn:easy%4:02:01::
+	,		X	
+	to		X	
+d000.s009.t014	other	other	ADJ	bn:00108011a;wn:other%3:00:00::
+d000.s009.t015	parts	part	NOUN	bn:00021395n;bn:00027912n;bn:00060765n;wn:component%1:24:00::;wn:component_part%1:24:00::;wn:constituent%1:24:00::;wn:division%1:09:00::;wn:part%1:09:00::;wn:part%1:17:00::;wn:part%1:24:00::;wn:piece%1:17:00::;wn:portion%1:24:00::;wn:section%1:09:00::
+	of		X	
+	the		X	
+d000.s009.t016	body	body	NOUN	bn:00011744n;wiki:body;wn:body%1:08:00::;wn:organic_structure%1:08:00::;wn:physical_structure%1:08:00::
+	)		X	
+	,		X	
+	in		X	
+d000.s009.t017	patients	patient	NOUN	bn:00061017n;wiki:patient;wn:patient%1:18:00::
+	who		X	
+	have	have	VERB	
+d000.s009.t018	not	not	ADV	bn:00116360r;wn:non%4:02:00::;wn:not%4:02:00::
+d000.s009.t019	received	receive	VERB	bn:00087863v;wn:experience%2:39:00::;wn:get%2:39:00::;wn:have%2:39:06::;wn:receive%2:39:03::
+d000.s009.t020	chemotherapy	chemotherapy	NOUN	bn:00018141n;wiki:chemotherapy;wn:chemotherapy%1:04:00::
+	(		X	
+d000.s009.t021	medicines	medicine	NOUN	bn:00054128n;bn:00061887n;wiki:pharmaceutical_drug;wn:medicament%1:06:00::;wn:medication%1:06:00::;wn:medicinal_drug%1:06:00::;wn:medicine%1:06:00::;wn:pharmaceutic%1:06:00::;wn:pharmaceutical%1:06:00::
+	for		X	
+d000.s009.t022	cancer	cancer	NOUN	bn:00015180n;wiki:cancer;wn:cancer%1:26:00::;wn:malignant_neoplastic_disease%1:26:00::
+	)		X	
+	before		X	
+d000.s009.t023	advanced	advanced	ADJ	bn:00096528a;wn:advanced%5:00:00:late:02
+	or		X	
+d000.s009.t024	metastatic	metastatic	ADJ	bn:00106664a;wn:metastatic%3:01:00::
+d000.s009.t025	non-small	non-small	ADJ	bn:03421664n;wiki:non-small-cell_lung_carcinoma
+d000.s009.t026	cell	cell	NOUN	bn:00017027n;wiki:cell_(biology);wn:cell%1:03:00::
+d000.s009.t027	lung	lung	NOUN	bn:00052343n;wiki:lung_cancer;wn:lung_cancer%1:26:00::
+d000.s009.t028	cancer	cancer	NOUN	bn:00015180n;wiki:cancer;wn:cancer%1:26:00::;wn:malignant_neoplastic_disease%1:26:00::
+	that		X	
+	is	be	VERB	
+d000.s009.t029	not	not	ADV	bn:00116360r;wn:non%4:02:00::;wn:not%4:02:00::
+d000.s009.t030	affecting	affect	VERB	bn:00082427v;wn:affect%2:29:00::
+	the		X	
+d000.s009.t031	squamous	squamous	ADJ	bn:00073708n;wiki:squamous_epithelial_cell;wn:squamous_cell%1:08:00::
+d000.s009.t032	cells	cell	NOUN	bn:00017027n;wiki:cell_(biology);wn:cell%1:03:00::
+	.		X	
+	-end-		X	
+	Alimta	alimta	NOUN	
+	is	be	VERB	
+d000.s010.t000	used	use	VERB	bn:00082705v;bn:00089140v;wn:apply%2:34:00::;wn:employ%2:34:00::;wn:habituate%2:34:00::;wn:use%2:34:01::;wn:use%2:34:02::;wn:utilise%2:34:00::;wn:utilize%2:34:00::
+	in		X	
+d000.s010.t001	combination	combination	NOUN	bn:00020872n;bn:00020878n;wiki:compounding;wn:combination%1:04:00::;wn:combination%1:14:00::;wn:combining%1:04:00::;wn:compounding%1:04:00::
+	with		X	
+d000.s010.t002	cisplatin	cisplatin	NOUN	bn:00577781n;wiki:cisplatin
+	in		X	
+d000.s010.t003	patients	patient	NOUN	bn:00061017n;wiki:patient;wn:patient%1:18:00::
+	who		X	
+	have	have	VERB	
+d000.s010.t004	not	not	ADV	bn:00116360r;wn:non%4:02:00::;wn:not%4:02:00::
+	been	be	VERB	
+d000.s010.t005	treated	treat	VERB	bn:00084532v;wn:care_for%2:29:00::;wn:treat%2:29:00::
+	before		X	
+	,		X	
+	and		X	
+	on		X	
+	its		X	
+	own	own	ADJ	
+	in		X	
+d000.s010.t006	patients	patient	NOUN	bn:00061017n;wiki:patient;wn:patient%1:18:00::
+	who		X	
+	have	have	VERB	
+d000.s010.t007	received	receive	VERB	bn:00087863v;wn:experience%2:39:00::;wn:get%2:39:00::;wn:have%2:39:06::;wn:receive%2:39:03::
+	another		X	
+d000.s010.t008	type	type	NOUN	bn:00078798n;wn:type%1:09:00::
+	of		X	
+d000.s010.t009	chemotherapy	chemotherapy	NOUN	bn:00018141n;wiki:chemotherapy;wn:chemotherapy%1:04:00::
+	in		X	
+	the		X	
+d000.s010.t010	past	past	NOUN	bn:00060927n;bn:00060928n;wiki:past;wn:past%1:28:00::;wn:past%1:28:01::;wn:past_times%1:28:00::;wn:yesteryear%1:28:00::
+	.		X	
+	-end-		X	
+	The		X	
+d000.s011.t000	medicine	medicine	NOUN	bn:00054128n;bn:00061887n;wiki:pharmaceutical_drug;wn:medicament%1:06:00::;wn:medication%1:06:00::;wn:medicinal_drug%1:06:00::;wn:medicine%1:06:00::;wn:pharmaceutic%1:06:00::;wn:pharmaceutical%1:06:00::
+	can		X	
+d000.s011.t001	only	only	ADV	bn:00116450r;wn:only%4:02:03::;wn:only_if%4:02:00::;wn:only_when%4:02:00::
+	be	be	VERB	
+d000.s011.t002	obtained	obtain	VERB	bn:00082276v;bn:00091124v;wn:acquire%2:40:00::;wn:get%2:40:00::;wn:obtain%2:40:00::
+	with		X	
+	a		X	
+d000.s011.t003	prescription	prescription	NOUN	bn:00064195n;wn:prescription%1:10:01::
+	.		X	
+	-end-		X	
+	How		X	
+	is	be	VERB	
+	Alimta	alimta	NOUN	
+d000.s012.t000	used	use	VERB	bn:00082705v;bn:00089140v;wn:apply%2:34:00::;wn:employ%2:34:00::;wn:habituate%2:34:00::;wn:use%2:34:01::;wn:use%2:34:02::;wn:utilise%2:34:00::;wn:utilize%2:34:00::
+	?		X	
+	-end-		X	
+	Alimta	alimta	NOUN	
+	should		X	
+d000.s013.t000	only	only	ADV	bn:00116450r;wn:only%4:02:03::;wn:only_if%4:02:00::;wn:only_when%4:02:00::
+	be	be	VERB	
+d000.s013.t001	given	give	VERB	bn:00088826v;wn:give%2:40:13::
+	under		X	
+	the		X	
+d000.s013.t002	supervision	supervision	NOUN	bn:00059908n;wn:oversight%1:04:01::;wn:superintendence%1:04:00::;wn:supervising%1:04:00::;wn:supervision%1:04:00::
+	of		X	
+	a		X	
+d000.s013.t003	doctor	doctor	NOUN	bn:00027976n;wiki:physician;wn:doc%1:18:00::;wn:doctor%1:18:00::;wn:dr.%1:18:00::;wn:md%1:18:00::;wn:medico%1:18:00::;wn:physician%1:18:00::
+	who		X	
+	is	be	VERB	
+	qualified	qualify	VERB	
+	in		X	
+	the		X	
+d000.s013.t004	use	use	NOUN	bn:00030627n;bn:00079370n;wn:employment%1:04:01::;wn:exercise%1:04:03::;wn:usage%1:04:00::;wn:use%1:04:00::;wn:use%1:07:02::;wn:utilisation%1:04:00::;wn:utilization%1:04:00::
+	of		X	
+d000.s013.t005	anticancer	anticancer	ADJ	bn:00097220a;wn:anticancer%3:01:00::;wn:antineoplastic%3:01:00::;wn:antitumor%3:01:00::;wn:antitumour%3:01:00::
+d000.s013.t006	chemotherapy	chemotherapy	NOUN	bn:00018141n;wiki:chemotherapy;wn:chemotherapy%1:04:00::
+	.		X	
+	-end-		X	
+	The		X	
+	recommended	recommended	ADJ	
+d000.s014.t000	dose	dose	NOUN	bn:00028320n;wiki:dose_(biochemistry);wn:dosage%1:06:00::;wn:dose%1:06:00::
+	of		X	
+	Alimta	alimta	NOUN	
+	is	be	VERB	
+	500		X	
+d000.s014.t001	mg	mg	NOUN	bn:00054701n;wiki:orders_of_magnitude_(mass);wn:mg%1:23:00::;wn:milligram%1:23:00::
+	per		X	
+d000.s014.t002	square	square	ADJ	bn:00017102n;wiki:square_metre;wn:centare%1:23:00::;wn:square_meter%1:23:00::;wn:square_metre%1:23:00::
+d000.s014.t003	metre	metre	NOUN	bn:00052501n;wiki:metre;wn:m%1:23:00::;wn:meter%1:23:00::;wn:metre%1:23:00::
+	of		X	
+d000.s014.t004	body	body	NOUN	bn:03551355n;wiki:body_surface_area
+d000.s014.t005	surface	surface	NOUN	bn:00005518n;wiki:area;wiki:surface_area;wn:area%1:07:00::;wn:expanse%1:07:00::;wn:surface_area%1:07:00::
+d000.s014.t006	area	area	NOUN	bn:00005518n;wiki:area;wiki:surface_area;wn:area%1:07:00::;wn:expanse%1:07:00::;wn:surface_area%1:07:00::
+	(		X	
+d000.s014.t007	calculated	calculate	VERB	bn:00084373v;wn:calculate%2:31:00::;wn:cipher%2:31:00::;wn:compute%2:31:00::;wn:cypher%2:31:00::;wn:figure%2:31:00::;wn:reckon%2:31:01::;wn:work_out%2:31:06::
+d000.s014.t008	using	use	VERB	bn:00082705v;wn:apply%2:34:00::;wn:employ%2:34:00::;wn:use%2:34:01::;wn:utilise%2:34:00::;wn:utilize%2:34:00::
+	the		X	
+d000.s014.t009	patient	patient	NOUN	bn:00061017n;wiki:patient;wn:patient%1:18:00::
+	s		X	
+d000.s014.t010	height	height	NOUN	bn:00043545n;wiki:human_height;wn:height%1:07:01::;wn:stature%1:07:02::
+	and		X	
+d000.s014.t011	weight	weight	NOUN	bn:00080831n;wiki:weight;wn:weight%1:07:00::
+	)		X	
+	.		X	
+	It		X	
+	is	be	VERB	
+d000.s014.t012	given	give	VERB	bn:00088826v;wn:give%2:40:13::
+d000.s014.t013	once	once	ADV	bn:00115811r;wn:in_one_case%4:02:00::;wn:once%4:02:00::;wn:one_time%4:02:00::
+d000.s014.t014	every	every	ADJ	bn:00102467a;wn:every%5:00:02:all:00
+	three		X	
+d000.s014.t015	weeks	week	NOUN	bn:00043484n;wiki:week;wn:hebdomad%1:28:00::;wn:week%1:28:00::
+	as		X	
+	an		X	
+d000.s014.t016	intravenous	intravenous	ADJ	bn:00047278n;bn:00047280n;wiki:intravenous_therapy;wn:intravenous_drip%1:11:00::;wn:intravenous_injection%1:04:00::
+d000.s014.t017	infusion	infusion	NOUN	bn:00046734n;wn:infusion%1:04:00::
+d000.s014.t018	lasting	last	VERB	bn:00087620v;wn:endure%2:42:06::;wn:last%2:42:00::
+	10		X	
+d000.s014.t019	minutes	minute	NOUN	bn:00055094n;wiki:minute;wn:min%1:28:00::;wn:minute%1:28:00::
+	.		X	
+	-end-		X	
+	To		X	
+d000.s015.t000	reduce	reduce	VERB	bn:00084079v;bn:00092595v;wn:bring_down%2:30:00::;wn:cut%2:30:06::;wn:cut_back%2:30:01::;wn:cut_down%2:30:00::;wn:reduce%2:30:00::;wn:reduce%2:30:01::;wn:tighten%2:30:03::;wn:trim%2:30:00::;wn:trim_back%2:30:00::;wn:trim_down%2:30:00::
+d000.s015.t001	side	side	ADJ	bn:00071445n;wiki:side_effect;wn:side_effect%1:26:00::
+d000.s015.t002	effects	effect	NOUN	bn:00029874n;wn:effect%1:26:00::
+	,		X	
+d000.s015.t003	patients	patient	NOUN	bn:00061017n;wiki:patient;wn:patient%1:18:00::
+	should		X	
+d000.s015.t004	take	take	VERB	bn:00085689v;wn:consume%2:34:00::;wn:have%2:34:00::;wn:ingest%2:34:00::;wn:take%2:34:00::;wn:take_in%2:34:00::
+	a		X	
+d000.s015.t005	corticosteroid	corticosteroid	NOUN	bn:00001507n;wiki:corticosteroid;wn:adrenal_cortical_steroid%1:27:00::;wn:corticoid%1:27:00::;wn:corticosteroid%1:27:00::
+	and		X	
+d000.s015.t006	folic	folic	ADJ	bn:00035585n;wiki:folic_acid;wn:folacin%1:27:00::;wn:folate%1:27:00::;wn:folic_acid%1:27:00::;wn:pteroylglutamic_acid%1:27:00::;wn:pteroylmonoglutamic_acid%1:27:00::;wn:vitamin_bc%1:27:00::;wn:vitamin_m%1:27:00::
+d000.s015.t007	acid	acid	NOUN	bn:00000902n;wiki:acid;wn:acid%1:27:00::
+	(		X	
+	a		X	
+d000.s015.t008	type	type	NOUN	bn:00078798n;wn:type%1:09:00::
+	of		X	
+d000.s015.t009	vitamin	vitamin	NOUN	bn:00080147n;wiki:vitamin;wn:vitamin%1:27:00::
+	)		X	
+	,		X	
+	and		X	
+	receive	receive	VERB	
+d000.s015.t010	injections	injection	NOUN	bn:00046785n;bn:00046787n;wiki:injection_(medicine);wn:injectant%1:27:00::;wn:injection%1:04:01::;wn:injection%1:27:00::;wn:shot%1:04:03::
+	of		X	
+d000.s015.t011	vitamin	vitamin	NOUN	bn:00004712n;wiki:cyanocobalamin;wiki:vitamin_b12;wn:antipernicious_anemia_factor%1:27:00::;wn:cobalamin%1:27:00::;wn:cyanocobalamin%1:27:00::;wn:vitamin_b12%1:27:00::
+	B12	b12	NOUN	
+	during		X	
+d000.s015.t012	treatment	treatment	NOUN	bn:00047235n;wn:intervention%1:04:02::;wn:treatment%1:04:00::
+	with		X	
+	Alimta	alimta	NOUN	
+	.		X	
+	-end-		X	
+	When		X	
+	Alimta	alimta	NOUN	
+	is	be	VERB	
+d000.s016.t000	given	give	VERB	bn:00088826v;wn:give%2:40:13::
+	with		X	
+d000.s016.t001	cisplatin	cisplatin	NOUN	bn:00577781n;wiki:cisplatin
+	,		X	
+	an		X	
+	anti-emetic	anti-emetic	ADJ	
+d000.s016.t002	medicine	medicine	NOUN	bn:00054128n;bn:00061887n;wiki:pharmaceutical_drug;wn:medicament%1:06:00::;wn:medication%1:06:00::;wn:medicinal_drug%1:06:00::;wn:medicine%1:06:00::;wn:pharmaceutic%1:06:00::;wn:pharmaceutical%1:06:00::
+	(		X	
+	to		X	
+d000.s016.t003	prevent	prevent	VERB	bn:00088454v;bn:00090033v;wn:forbid%2:41:03::;wn:foreclose%2:41:00::;wn:forestall%2:41:01::;wn:keep%2:41:01::;wn:preclude%2:41:00::;wn:prevent%2:41:00::;wn:prevent%2:41:01::
+d000.s016.t004	vomiting	vomit	VERB	bn:00083115v;wn:barf%2:29:00::;wn:be_sick%2:29:01::;wn:cast%2:29:00::;wn:cat%2:29:00::;wn:chuck%2:29:00::;wn:disgorge%2:29:00::;wn:honk%2:29:00::;wn:puke%2:29:00::;wn:purge%2:29:04::;wn:regorge%2:29:00::;wn:regurgitate%2:29:00::;wn:retch%2:29:00::;wn:sick%2:29:00::;wn:spew%2:29:00::;wn:spue%2:29:00::;wn:throw_up%2:29:00::;wn:upchuck%2:29:00::;wn:vomit%2:29:00::;wn:vomit_up%2:29:00::
+	)		X	
+	and		X	
+d000.s016.t005	fluids	fluid	NOUN	bn:00035426n;bn:00035427n;wiki:fluid;wn:fluid%1:27:00::;wn:fluid%1:27:02::
+	(		X	
+	to		X	
+d000.s016.t006	prevent	prevent	VERB	bn:00088454v;bn:00090033v;wn:forbid%2:41:03::;wn:foreclose%2:41:00::;wn:forestall%2:41:01::;wn:keep%2:41:01::;wn:preclude%2:41:00::;wn:prevent%2:41:00::;wn:prevent%2:41:01::
+d000.s016.t007	dehydration	dehydration	NOUN	bn:00025983n;wn:dehydration%1:26:01::
+	)		X	
+	should		X	
+d000.s016.t008	also	also	ADV	bn:00114246r;wn:also%4:02:00::;wn:as_well%4:02:01::;wn:besides%4:02:03::;wn:likewise%4:02:01::;wn:too%4:02:01::
+	be	be	VERB	
+d000.s016.t009	given	give	VERB	bn:00088826v;wn:give%2:40:13::
+d000.s016.t010	before	before	ADV	bn:00114512r;wn:before%4:02:03::;wn:earlier%4:02:00::
+	or		X	
+d000.s016.t011	after	after	ADV	bn:00114165r;wn:after%4:02:01::;wn:afterward%4:02:00::;wn:afterwards%4:02:00::;wn:later%4:02:01::;wn:later_on%4:02:00::;wn:subsequently%4:02:00::
+	the		X	
+d000.s016.t012	cisplatin	cisplatin	NOUN	bn:00577781n;wiki:cisplatin
+d000.s016.t013	dose	dose	NOUN	bn:00028320n;wiki:dose_(biochemistry);wn:dosage%1:06:00::;wn:dose%1:06:00::
+	.		X	
+	-end-		X	
+d000.s017.t000	Treatment	treatment	NOUN	bn:00047235n;wn:intervention%1:04:02::;wn:treatment%1:04:00::
+	should		X	
+	be	be	VERB	
+d000.s017.t001	delayed	delay	VERB	bn:00086514v;bn:00086515v;wn:delay%2:30:00::;wn:delay%2:42:00::;wn:detain%2:30:00::;wn:hold_up%2:30:00::
+	or		X	
+d000.s017.t002	discontinued	discontinue	VERB	bn:00083908v;bn:00084710v;wn:break%2:30:02::;wn:break_off%2:30:00::;wn:cease%2:42:00::;wn:discontinue%2:30:00::;wn:discontinue%2:42:00::;wn:give_up%2:42:00::;wn:lay_off%2:42:00::;wn:quit%2:42:04::;wn:stop%2:30:05::;wn:stop%2:42:00::
+	,		X	
+	or		X	
+	the		X	
+d000.s017.t003	dose	dose	NOUN	bn:00028320n;wiki:dose_(biochemistry);wn:dosage%1:06:00::;wn:dose%1:06:00::
+d000.s017.t004	reduced	reduce	VERB	bn:00084079v;wn:bring_down%2:30:00::;wn:cut%2:30:06::;wn:cut_back%2:30:01::;wn:cut_down%2:30:00::;wn:reduce%2:30:00::;wn:trim%2:30:00::;wn:trim_back%2:30:00::;wn:trim_down%2:30:00::
+	,		X	
+	in		X	
+d000.s017.t005	patients	patient	NOUN	bn:00061017n;wiki:patient;wn:patient%1:18:00::
+	whose		X	
+d000.s017.t006	blood	blood	NOUN	bn:00011364n;wn:blood_count%1:23:00::
+d000.s017.t007	counts	count	NOUN	bn:00023139n;wn:count%1:23:00::
+	are	be	VERB	
+d000.s017.t008	abnormal	abnormal	ADJ	bn:00096158a;bn:00096160a;wn:abnormal%3:00:00::;wn:abnormal%5:00:00:immoderate:00;wn:unnatural%3:00:03::
+	or		X	
+	who		X	
+d000.s017.t009	have	have	VERB	bn:00088745v;bn:00089245v;wn:get%2:29:11::;wn:have%2:29:02::;wn:have%2:29:05::;wn:suffer%2:29:01::;wn:sustain%2:29:00::
+d000.s017.t010	certain	certain	ADJ	bn:00099474a;wn:certain%5:00:00:definite:00
+d000.s017.t011	other	other	ADJ	bn:00108011a;wn:other%3:00:00::
+d000.s017.t012	side	side	ADJ	bn:00071445n;wiki:side_effect;wn:side_effect%1:26:00::
+d000.s017.t013	effects	effect	NOUN	bn:00029874n;wn:effect%1:26:00::
+	.		X	
+	-end-		X	
+	Alimta	alimta	NOUN	
+	is	be	VERB	
+d000.s018.t000	not	not	ADV	bn:00116360r;wn:non%4:02:00::;wn:not%4:02:00::
+d000.s018.t001	recommended	recommend	VERB	bn:00082418v;wn:advocate%2:32:00::;wn:recommend%2:32:01::;wn:urge%2:32:03::
+	for		X	
+d000.s018.t002	use	use	NOUN	bn:00030627n;bn:00079370n;wn:employment%1:04:01::;wn:exercise%1:04:03::;wn:usage%1:04:00::;wn:use%1:04:00::;wn:use%1:07:02::;wn:utilisation%1:04:00::;wn:utilization%1:04:00::
+	in		X	
+d000.s018.t003	patients	patient	NOUN	bn:00061017n;wiki:patient;wn:patient%1:18:00::
+	with		X	
+d000.s018.t004	moderate	moderate	ADJ	bn:00106826a;wn:moderate%3:00:00::
+	or		X	
+d000.s018.t005	severe	severe	ADJ	bn:00110473a;wn:severe%5:00:01:bad:00
+d000.s018.t006	kidney	kidney	NOUN	bn:00049083n;wiki:kidney;wn:kidney%1:08:00::
+d000.s018.t007	problems	problem	NOUN	bn:00048242n;bn:09482133n;wiki:problem;wn:job%1:26:00::;wn:problem%1:26:00::
+	.		X	
+	-end-		X	
+	For		X	
+d000.s019.t000	more	more	ADJ	bn:00106935a;wn:more%3:00:01::;wn:more_than%3:00:00::
+d000.s019.t001	information	information	NOUN	bn:00025314n;bn:00046705n;wiki:data;wiki:information;wn:data%1:14:00::;wn:information%1:09:00::;wn:information%1:14:00::
+	,		X	
+d000.s019.t002	see	see	VERB	bn:00087787v;wn:examine%2:39:00::;wn:see%2:39:13::
+	the		X	
+d000.s019.t003	Summary	summary	NOUN	bn:02075673n;wiki:summary_of_product_characteristics
+	of		X	
+d000.s019.t004	Product	product	NOUN	bn:00064584n;bn:01740339n;wiki:product_(business);wn:product%1:06:00::;wn:production%1:06:00::
+	Characteristics	characteristics	NOUN	
+	(		X	
+d000.s019.t005	also	also	ADV	bn:00114246r;wn:also%4:02:00::;wn:as_well%4:02:01::;wn:besides%4:02:03::;wn:likewise%4:02:01::;wn:too%4:02:01::
+d000.s019.t006	part	part	NOUN	bn:00021395n;bn:00027912n;wn:component%1:24:00::;wn:component_part%1:24:00::;wn:constituent%1:24:00::;wn:division%1:09:00::;wn:part%1:09:00::;wn:part%1:24:00::;wn:portion%1:24:00::;wn:section%1:09:00::
+	of		X	
+	the		X	
+	EPAR	epar	NOUN	
+	)		X	
+	.		X	
+	-end-		X	
+	How		X	
+	does	do	VERB	
+	Alimta	alimta	NOUN	
+	work	work	NOUN	
+	?		X	
+	-end-		X	
+	The		X	
+d000.s021.t000	active	active	ADJ	bn:00377649n;wiki:active_ingredient
+d000.s021.t001	substance	substance	NOUN	bn:00074986n;bn:00074987n;wn:substance%1:03:01::;wn:substance%1:27:00::
+	in		X	
+	Alimta	alimta	NOUN	
+	,		X	
+	pemetrexed	pemetrexed	NOUN	
+	,		X	
+	is	be	VERB	
+	a		X	
+d000.s021.t002	cytotoxic	cytotoxic	ADJ	bn:00100866a;wn:cytotoxic%3:01:00::
+d000.s021.t003	medicine	medicine	NOUN	bn:00054128n;bn:00061887n;wiki:pharmaceutical_drug;wn:medicament%1:06:00::;wn:medication%1:06:00::;wn:medicinal_drug%1:06:00::;wn:medicine%1:06:00::;wn:pharmaceutic%1:06:00::;wn:pharmaceutical%1:06:00::
+	(		X	
+	a		X	
+d000.s021.t004	medicine	medicine	NOUN	bn:00054128n;bn:00061887n;wiki:pharmaceutical_drug;wn:medicament%1:06:00::;wn:medication%1:06:00::;wn:medicinal_drug%1:06:00::;wn:medicine%1:06:00::;wn:pharmaceutic%1:06:00::;wn:pharmaceutical%1:06:00::
+	that		X	
+d000.s021.t005	kills	kill	VERB	bn:00090098v;wn:kill%2:35:00::
+d000.s021.t006	cells	cell	NOUN	bn:00017027n;wiki:cell_(biology);wn:cell%1:03:00::
+	that		X	
+	are	be	VERB	
+d000.s021.t007	dividing	divide	VERB	bn:00087100v;bn:00087101v;wn:divide%2:35:00::;wn:divide%2:38:00::;wn:part%2:35:00::;wn:separate%2:35:00::;wn:separate%2:38:01::
+	,		X	
+	such as	such as	ADV	
+d000.s021.t008	cancer	cancer	NOUN	bn:00015187n;wiki:cancer_cell;wn:cancer_cell%1:08:00::
+d000.s021.t009	cells	cell	NOUN	bn:00017027n;wiki:cell_(biology);wn:cell%1:03:00::
+	)		X	
+	,		X	
+	which		X	
+d000.s021.t010	belongs	belong	VERB	bn:00083389v;wn:belong%2:42:01::
+	to		X	
+	the		X	
+d000.s021.t011	group	group	NOUN	bn:00018111n;bn:00041942n;wiki:functional_group;wiki:grouping;wn:chemical_group%1:27:00::;wn:group%1:03:00::;wn:group%1:27:00::;wn:grouping%1:03:00::;wn:radical%1:27:00::
+d000.s021.t012	antimetabolites	antimetabolites	NOUN	bn:00004691n;wiki:antimetabolite;wn:antimetabolite%1:06:00::
+	.		X	
+	-end-		X	
+	In		X	
+	the		X	
+d000.s022.t000	body	body	NOUN	bn:00011744n;wiki:body;wn:body%1:08:00::;wn:organic_structure%1:08:00::;wn:physical_structure%1:08:00::
+	,		X	
+d000.s022.t001	pemetrexed	pemetrexed	NOUN	bn:00602447n;wiki:pemetrexed
+	is	be	VERB	
+d000.s022.t002	converted	convert	VERB	bn:00085761v;bn:00085768v;wn:convert%2:30:03::;wn:convert%2:30:04::
+	into		X	
+	an		X	
+d000.s022.t003	active	active	ADJ	bn:00096382a;bn:00096387a;wn:active%3:00:02::;wn:active%3:00:07::
+d000.s022.t004	form	form	NOUN	bn:00035913n;wn:form%1:07:03::
+	that		X	
+d000.s022.t005	blocks	block	VERB	bn:00083623v;wn:block%2:41:01::;wn:halt%2:41:00::;wn:kibosh%2:41:00::;wn:stop%2:41:00::
+	the		X	
+d000.s022.t006	activity	activity	NOUN	bn:00001130n;bn:00001173n;wn:action%1:22:00::;wn:activity%1:22:00::;wn:activity%1:22:01::;wn:bodily_function%1:22:00::;wn:bodily_process%1:22:00::;wn:body_process%1:22:00::;wn:natural_action%1:22:00::;wn:natural_process%1:22:00::
+	of		X	
+	the		X	
+d000.s022.t007	enzymes	enzyme	NOUN	bn:00031085n;wiki:enzyme;wn:enzyme%1:27:00::
+	that		X	
+	are	be	VERB	
+d000.s022.t008	involved	involve	VERB	bn:00089893v;wn:involve%2:42:04::
+	in		X	
+d000.s022.t009	producing	produce	VERB	bn:00084082v;wn:bring_forth%2:36:00::;wn:produce%2:36:02::
+d000.s022.t010	nucleotides	nucleotide	NOUN	bn:00008788n;wiki:nucleotide;wn:base%1:27:01::;wn:nucleotide%1:27:00::
+	(		X	
+	the		X	
+d000.s022.t011	building blocks	building block	NOUN	bn:00013726n;wn:building_block%1:17:00::;wn:unit%1:17:00::
+	of		X	
+d000.s022.t012	DNA	dna	NOUN	bn:01432393n;wiki:nucleic_acid
+	and		X	
+d000.s022.t013	RNA	rna	NOUN	bn:00067714n;wiki:rna;wn:ribonucleic_acid%1:27:00::;wn:rna%1:27:00::
+	,		X	
+	the		X	
+d000.s022.t014	genetic	genetic	ADJ	bn:00037738n;wiki:genome;wn:genome%1:14:00::
+d000.s022.t015	material	material	NOUN	bn:00053801n;wiki:stuff_(cloth);wn:material%1:27:00::;wn:stuff%1:27:00::
+	of		X	
+d000.s022.t016	cells	cell	NOUN	bn:00017027n;wiki:cell_(biology);wn:cell%1:03:00::
+	)		X	
+	.		X	
+	-end-		X	
+	How		X	
+	has	have	VERB	
+	Alimta	alimta	NOUN	
+	been	be	VERB	
+d000.s023.t000	studied	study	VERB	bn:00082596v;wn:analyse%2:31:00::;wn:analyze%2:31:00::;wn:canvas%2:31:02::;wn:canvass%2:31:02::;wn:examine%2:31:00::;wn:study%2:31:02::
+	?		X	
+	-end-		X	
+	For		X	
+	the		X	
+d000.s024.t000	treatment	treatment	NOUN	bn:00047235n;wn:intervention%1:04:02::;wn:treatment%1:04:00::
+	of		X	
+d000.s024.t001	malignant	malignant	ADJ	bn:00054512n;wiki:mesothelioma;wn:mesothelioma%1:26:00::
+d000.s024.t002	pleural	pleural	ADJ	bn:00108692a;wn:pleural%3:01:00::
+d000.s024.t003	mesothelioma	mesothelioma	NOUN	bn:00054512n;wiki:mesothelioma;wn:mesothelioma%1:26:00::
+	,		X	
+	Alimta	alimta	NOUN	
+	has	have	VERB	
+	been	be	VERB	
+d000.s024.t004	studied	study	VERB	bn:00082596v;wn:analyse%2:31:00::;wn:analyze%2:31:00::;wn:canvas%2:31:02::;wn:canvass%2:31:02::;wn:examine%2:31:00::;wn:study%2:31:02::
+	in		X	
+	one		X	
+d000.s024.t005	main	main	ADJ	bn:00099598a;wn:chief%5:00:02:important:00;wn:main%5:00:00:important:00;wn:master%5:00:00:important:00;wn:primary%5:00:00:important:00;wn:principal%5:00:00:important:00
+d000.s024.t006	study	study	NOUN	bn:00074790n;wn:study%1:04:00::;wn:survey%1:04:02::
+	in		X	
+	456		X	
+d000.s024.t007	patients	patient	NOUN	bn:00061017n;wiki:patient;wn:patient%1:18:00::
+	who		X	
+	had	have	VERB	
+d000.s024.t008	not	not	ADV	bn:00116360r;wn:non%4:02:00::;wn:not%4:02:00::
+d000.s024.t009	received	receive	VERB	bn:00087863v;wn:experience%2:39:00::;wn:get%2:39:00::;wn:have%2:39:06::;wn:receive%2:39:03::
+d000.s024.t010	chemotherapy	chemotherapy	NOUN	bn:00018141n;wiki:chemotherapy;wn:chemotherapy%1:04:00::
+	for		X	
+	their		X	
+d000.s024.t011	disease	disease	NOUN	bn:00027546n;bn:00045952n;wiki:disease;wn:disease%1:26:00::;wn:illness%1:26:00::;wn:malady%1:26:00::;wn:sickness%1:26:00::;wn:unwellness%1:26:00::
+d000.s024.t012	before	before	ADV	bn:00114512r;wn:before%4:02:03::;wn:earlier%4:02:00::
+	.		X	
+	-end-		X	
+	The		X	
+d000.s025.t000	effects	effect	NOUN	bn:00029874n;wn:effect%1:26:00::
+	of		X	
+	Alimta	alimta	NOUN	
+	in		X	
+d000.s025.t001	combination	combination	NOUN	bn:00020872n;bn:00020878n;wiki:compounding;wn:combination%1:04:00::;wn:combination%1:14:00::;wn:combining%1:04:00::;wn:compounding%1:04:00::
+	with		X	
+d000.s025.t002	cisplatin	cisplatin	NOUN	bn:00577781n;wiki:cisplatin
+	were	be	VERB	
+d000.s025.t003	compared	compare	VERB	bn:00085450v;wn:compare%2:31:00::
+	with		X	
+	those		X	
+	of		X	
+d000.s025.t004	cisplatin	cisplatin	NOUN	bn:00577781n;wiki:cisplatin
+d000.s025.t005	alone	alone	ADV	bn:00114234r;bn:00114235r;wn:alone%4:02:00::;wn:alone%4:02:01::;wn:entirely%4:02:02::;wn:exclusively%4:02:00::;wn:only%4:02:01::;wn:solely%4:02:00::;wn:solo%4:02:00::;wn:unaccompanied%4:02:00::
+	.		X	
+	-end-		X	
+	For		X	
+	the		X	
+d000.s026.t000	treatment	treatment	NOUN	bn:00047235n;wn:intervention%1:04:02::;wn:treatment%1:04:00::
+	of		X	
+d000.s026.t001	non-small	non-small	ADJ	bn:03421664n;wiki:non-small-cell_lung_carcinoma
+d000.s026.t002	cell	cell	NOUN	bn:00017027n;wiki:cell_(biology);wn:cell%1:03:00::
+d000.s026.t003	lung	lung	NOUN	bn:00052343n;wiki:lung_cancer;wn:lung_cancer%1:26:00::
+d000.s026.t004	cancer	cancer	NOUN	bn:00015180n;wiki:cancer;wn:cancer%1:26:00::;wn:malignant_neoplastic_disease%1:26:00::
+	,		X	
+	the		X	
+d000.s026.t005	effects	effect	NOUN	bn:00029874n;wn:effect%1:26:00::
+	of		X	
+	Alimta	alimta	NOUN	
+	were	be	VERB	
+d000.s026.t006	compared	compare	VERB	bn:00085450v;wn:compare%2:31:00::
+	with		X	
+	those		X	
+	of		X	
+d000.s026.t007	docetaxel	docetaxel	NOUN	bn:01537207n;wiki:docetaxel
+	(		X	
+	another		X	
+d000.s026.t008	anticancer	anticancer	ADJ	bn:00097220a;wn:anticancer%3:01:00::;wn:antineoplastic%3:01:00::;wn:antitumor%3:01:00::;wn:antitumour%3:01:00::
+d000.s026.t009	medicine	medicine	NOUN	bn:00054128n;bn:00061887n;wiki:pharmaceutical_drug;wn:medicament%1:06:00::;wn:medication%1:06:00::;wn:medicinal_drug%1:06:00::;wn:medicine%1:06:00::;wn:pharmaceutic%1:06:00::;wn:pharmaceutical%1:06:00::
+	)		X	
+	in		X	
+	one		X	
+d000.s026.t010	study	study	NOUN	bn:00074790n;wn:study%1:04:00::;wn:survey%1:04:02::
+d000.s026.t011	involving	involve	VERB	bn:00089893v;wn:involve%2:42:04::
+	571		X	
+d000.s026.t012	patients	patient	NOUN	bn:00061017n;wiki:patient;wn:patient%1:18:00::
+	with		X	
+d000.s026.t013	locally	locally	ADV	bn:00116147r;wn:locally%4:02:01::;wn:topically%4:02:00::
+d000.s026.t014	advanced	advanced	ADJ	bn:00096528a;wn:advanced%5:00:00:late:02
+	or		X	
+d000.s026.t015	metastatic	metastatic	ADJ	bn:00054585n;wiki:metastasis;wn:metastasis%1:22:01::
+d000.s026.t016	disease	disease	NOUN	bn:00027546n;bn:00045952n;wiki:disease;wn:disease%1:26:00::;wn:illness%1:26:00::;wn:malady%1:26:00::;wn:sickness%1:26:00::;wn:unwellness%1:26:00::
+	who		X	
+	had	have	VERB	
+d000.s026.t017	received	receive	VERB	bn:00087863v;wn:experience%2:39:00::;wn:get%2:39:00::;wn:have%2:39:06::;wn:receive%2:39:03::
+d000.s026.t018	chemotherapy	chemotherapy	NOUN	bn:00018141n;wiki:chemotherapy;wn:chemotherapy%1:04:00::
+	in		X	
+	the		X	
+d000.s026.t019	past	past	NOUN	bn:00060927n;bn:00060928n;wiki:past;wn:past%1:28:00::;wn:past%1:28:01::;wn:past_times%1:28:00::;wn:yesteryear%1:28:00::
+	.		X	
+	-end-		X	
+	Alimta	alimta	NOUN	
+	was	be	VERB	
+d000.s027.t000	also	also	ADV	bn:00114246r;wn:also%4:02:00::;wn:as_well%4:02:01::;wn:besides%4:02:03::;wn:likewise%4:02:01::;wn:too%4:02:01::
+d000.s027.t001	compared	compare	VERB	bn:00085450v;wn:compare%2:31:00::
+	with		X	
+d000.s027.t002	gemcitabine	gemcitabine	NOUN	bn:00848690n;wiki:gemcitabine
+	(		X	
+	another		X	
+d000.s027.t003	anticancer	anticancer	ADJ	bn:00097220a;wn:anticancer%3:01:00::;wn:antineoplastic%3:01:00::;wn:antitumor%3:01:00::;wn:antitumour%3:01:00::
+d000.s027.t004	medicine	medicine	NOUN	bn:00054128n;bn:00061887n;wiki:pharmaceutical_drug;wn:medicament%1:06:00::;wn:medication%1:06:00::;wn:medicinal_drug%1:06:00::;wn:medicine%1:06:00::;wn:pharmaceutic%1:06:00::;wn:pharmaceutical%1:06:00::
+	)		X	
+	,		X	
+	both		X	
+	in		X	
+d000.s027.t005	combination	combination	NOUN	bn:00020872n;bn:00020878n;wiki:compounding;wn:combination%1:04:00::;wn:combination%1:14:00::;wn:combining%1:04:00::;wn:compounding%1:04:00::
+	with		X	
+d000.s027.t006	cisplatin	cisplatin	NOUN	bn:00577781n;wiki:cisplatin
+	,		X	
+	in		X	
+	a		X	
+d000.s027.t007	study	study	NOUN	bn:00074790n;wn:study%1:04:00::;wn:survey%1:04:02::
+d000.s027.t008	involving	involve	VERB	bn:00089893v;wn:involve%2:42:04::
+	1,725		X	
+d000.s027.t009	patients	patient	NOUN	bn:00061017n;wiki:patient;wn:patient%1:18:00::
+	who		X	
+	had	have	VERB	
+d000.s027.t010	not	not	ADV	bn:00116360r;wn:non%4:02:00::;wn:not%4:02:00::
+d000.s027.t011	received	receive	VERB	bn:00087863v;wn:experience%2:39:00::;wn:get%2:39:00::;wn:have%2:39:06::;wn:receive%2:39:03::
+d000.s027.t012	chemotherapy	chemotherapy	NOUN	bn:00018141n;wiki:chemotherapy;wn:chemotherapy%1:04:00::
+	for		X	
+d000.s027.t013	lung	lung	NOUN	bn:00052343n;wiki:lung_cancer;wn:lung_cancer%1:26:00::
+d000.s027.t014	cancer	cancer	NOUN	bn:00015180n;wiki:cancer;wn:cancer%1:26:00::;wn:malignant_neoplastic_disease%1:26:00::
+	in		X	
+	the		X	
+d000.s027.t015	past	past	NOUN	bn:00060927n;bn:00060928n;wiki:past;wn:past%1:28:00::;wn:past%1:28:01::;wn:past_times%1:28:00::;wn:yesteryear%1:28:00::
+	.		X	
+	-end-		X	
+	In		X	
+	all		X	
+	three		X	
+d000.s028.t000	studies	study	NOUN	bn:00067181n;bn:00074790n;wiki:report;wn:report%1:10:03::;wn:study%1:04:00::;wn:study%1:10:00::;wn:survey%1:04:02::;wn:written_report%1:10:00::
+	,		X	
+	the		X	
+d000.s028.t001	main	main	ADJ	bn:00099598a;wn:chief%5:00:02:important:00;wn:main%5:00:00:important:00;wn:master%5:00:00:important:00;wn:primary%5:00:00:important:00;wn:principal%5:00:00:important:00
+d000.s028.t002	measure	measure	NOUN	bn:00054019n;wiki:measurement;wn:measure%1:04:00::;wn:measurement%1:04:00::;wn:measuring%1:04:00::;wn:mensuration%1:04:00::
+	of		X	
+d000.s028.t003	effectiveness	effectiveness	NOUN	bn:00029876n;bn:00029877n;wiki:effectiveness;wn:effectiveness%1:07:00::;wn:effectiveness%1:07:01::;wn:effectivity%1:07:00::;wn:effectuality%1:07:00::;wn:effectualness%1:07:00::;wn:potency%1:07:00::;wn:strength%1:07:08::
+	was	be	VERB	
+	how		X	
+d000.s028.t004	long	long	ADV	bn:00116153r;wn:long%4:02:00::
+	the		X	
+d000.s028.t005	patients	patient	NOUN	bn:00061017n;wiki:patient;wn:patient%1:18:00::
+d000.s028.t006	survived	survive	VERB	bn:00085382v;bn:00087617v;wn:come_through%2:42:00::;wn:endure%2:42:00::;wn:go%2:42:14::;wn:hold_out%2:42:00::;wn:hold_up%2:42:00::;wn:last%2:42:01::;wn:live%2:42:04::;wn:live_on%2:42:00::;wn:make_it%2:42:00::;wn:pull_round%2:42:00::;wn:pull_through%2:42:00::;wn:survive%2:42:01::;wn:survive%2:42:02::
+	.		X	
+	-end-		X	
+	What		X	
+d000.s029.t000	benefit	benefit	NOUN	bn:00037022n;wn:gain%1:07:02::;wn:profit%1:07:00::
+	has	have	VERB	
+	Alimta	alimta	NOUN	
+d000.s029.t001	shown	show	VERB	bn:00086567v;bn:00086611v;wn:demonstrate%2:31:00::;wn:depict%2:36:00::;wn:establish%2:31:00::;wn:picture%2:36:00::;wn:prove%2:31:00::;wn:render%2:36:04::;wn:shew%2:31:00::;wn:show%2:31:00::;wn:show%2:36:00::
+	during		X	
+	the		X	
+d000.s029.t002	studies	study	NOUN	bn:00074790n;wn:study%1:04:00::;wn:survey%1:04:02::
+	?		X	
+	-end-		X	
+	Alimta	alimta	NOUN	
+d000.s030.t000	increased	increase	VERB	bn:00089667v;wn:increase%2:30:02::
+	the		X	
+d000.s030.t001	survival	survival	NOUN	bn:00030811n;wn:endurance%1:26:00::;wn:survival%1:26:00::
+d000.s030.t002	time	time	NOUN	bn:00077268n;bn:00077311n;wn:time%1:28:00::;wn:times%1:28:01::
+	of		X	
+d000.s030.t003	patients	patient	NOUN	bn:00061017n;wiki:patient;wn:patient%1:18:00::
+	with		X	
+d000.s030.t004	malignant	malignant	ADJ	bn:00054512n;wiki:mesothelioma;wn:mesothelioma%1:26:00::
+d000.s030.t005	pleural	pleural	ADJ	bn:00108692a;wn:pleural%3:01:00::
+d000.s030.t006	mesothelioma	mesothelioma	NOUN	bn:00054512n;wiki:mesothelioma;wn:mesothelioma%1:26:00::
+	.		X	
+	-end-		X	
+d000.s031.t000	Patients	patient	NOUN	bn:00061017n;wiki:patient;wn:patient%1:18:00::
+d000.s031.t001	receiving	receive	VERB	bn:00087863v;wn:experience%2:39:00::;wn:get%2:39:00::;wn:have%2:39:06::;wn:receive%2:39:03::
+	Alimta	alimta	NOUN	
+	and		X	
+d000.s031.t002	cisplatin	cisplatin	NOUN	bn:00577781n;wiki:cisplatin
+d000.s031.t003	survived	survive	VERB	bn:00085382v;bn:00087617v;wn:come_through%2:42:00::;wn:endure%2:42:00::;wn:go%2:42:14::;wn:hold_out%2:42:00::;wn:hold_up%2:42:00::;wn:last%2:42:01::;wn:live%2:42:04::;wn:live_on%2:42:00::;wn:make_it%2:42:00::;wn:pull_round%2:42:00::;wn:pull_through%2:42:00::;wn:survive%2:42:01::;wn:survive%2:42:02::
+	for		X	
+	an		X	
+d000.s031.t004	average	average	NOUN	bn:00054001n;wiki:mean;wn:mean%1:09:00::;wn:mean_value%1:09:00::
+	of		X	
+	12.1		X	
+d000.s031.t005	months	month	NOUN	bn:00055794n;wiki:month;wn:month%1:28:00::
+	,		X	
+d000.s031.t006	compared	compare	VERB	bn:00085450v;wn:compare%2:31:00::
+	with		X	
+	9.3		X	
+d000.s031.t007	months	month	NOUN	bn:00055794n;wiki:month;wn:month%1:28:00::
+	in		X	
+	those		X	
+	receiving	receive	VERB	
+d000.s031.t008	cisplatin	cisplatin	NOUN	bn:00577781n;wiki:cisplatin
+d000.s031.t009	alone	alone	ADV	bn:00114235r;wn:alone%4:02:01::;wn:solo%4:02:00::;wn:unaccompanied%4:02:00::
+	.		X	
+	-end-		X	
+	In		X	
+	the		X	
+d000.s032.t000	treatment	treatment	NOUN	bn:00047235n;wn:intervention%1:04:02::;wn:treatment%1:04:00::
+	of		X	
+d000.s032.t001	patients	patient	NOUN	bn:00061017n;wiki:patient;wn:patient%1:18:00::
+	with		X	
+d000.s032.t002	non-small	non-small	ADJ	bn:03421664n;wiki:non-small-cell_lung_carcinoma
+d000.s032.t003	cell	cell	NOUN	bn:00017027n;wiki:cell_(biology);wn:cell%1:03:00::
+d000.s032.t004	lung	lung	NOUN	bn:00052343n;wiki:lung_cancer;wn:lung_cancer%1:26:00::
+d000.s032.t005	cancer	cancer	NOUN	bn:00015180n;wiki:cancer;wn:cancer%1:26:00::;wn:malignant_neoplastic_disease%1:26:00::
+	,		X	
+	Alimta	alimta	NOUN	
+	was	be	VERB	
+d000.s032.t006	as	as	ADV	bn:00114354r;wn:as%4:02:00::;wn:equally%4:02:01::;wn:every_bit%4:02:00::
+d000.s032.t007	effective	effective	ADJ	bn:00102038a;bn:00102040a;wn:effective%3:00:00::;wn:effective%5:00:00:efficacious:00;wn:effectual%3:00:02::;wn:efficacious%3:00:02::
+d000.s032.t008	as	as	ADV	bn:00114354r;wn:as%4:02:00::;wn:equally%4:02:01::;wn:every_bit%4:02:00::
+	the		X	
+	comparators	comparator	NOUN	
+	.		X	
+	-end-		X	
+	In		X	
+d000.s033.t000	patients	patient	NOUN	bn:00061017n;wiki:patient;wn:patient%1:18:00::
+	who		X	
+	had	have	VERB	
+d000.s033.t001	received	receive	VERB	bn:00087863v;wn:experience%2:39:00::;wn:get%2:39:00::;wn:have%2:39:06::;wn:receive%2:39:03::
+d000.s033.t002	chemotherapy	chemotherapy	NOUN	bn:00018141n;wiki:chemotherapy;wn:chemotherapy%1:04:00::
+	in		X	
+	the		X	
+d000.s033.t003	past	past	NOUN	bn:00060927n;bn:00060928n;wiki:past;wn:past%1:28:00::;wn:past%1:28:01::;wn:past_times%1:28:00::;wn:yesteryear%1:28:00::
+	,		X	
+	the		X	
+d000.s033.t004	average	average	ADJ	bn:00097854a;bn:00097859a;wn:average%5:00:01:normal:01;wn:average%5:00:02:normal:01;wn:mean%5:00:00:normal:01;wn:median%5:00:00:normal:01
+d000.s033.t005	survival	survival	NOUN	bn:00030811n;wn:endurance%1:26:00::;wn:survival%1:26:00::
+d000.s033.t006	time	time	NOUN	bn:00077268n;bn:00077311n;wn:time%1:28:00::;wn:times%1:28:01::
+	was	be	VERB	
+	8.3		X	
+d000.s033.t007	months	month	NOUN	bn:00055794n;wiki:month;wn:month%1:28:00::
+	with		X	
+	Alimta	alimta	NOUN	
+	,		X	
+d000.s033.t008	compared	compare	VERB	bn:00085450v;wn:compare%2:31:00::
+	with		X	
+	7.9		X	
+d000.s033.t009	months	month	NOUN	bn:00055794n;wiki:month;wn:month%1:28:00::
+	with		X	
+d000.s033.t010	docetaxel	docetaxel	NOUN	bn:01537207n;wiki:docetaxel
+	.		X	
+	-end-		X	
+	In		X	
+d000.s034.t000	patients	patient	NOUN	bn:00061017n;wiki:patient;wn:patient%1:18:00::
+	who		X	
+	had	have	VERB	
+d000.s034.t001	not	not	ADV	bn:00116360r;wn:non%4:02:00::;wn:not%4:02:00::
+d000.s034.t002	received	receive	VERB	bn:00087863v;wn:experience%2:39:00::;wn:get%2:39:00::;wn:have%2:39:06::;wn:receive%2:39:03::
+d000.s034.t003	chemotherapy	chemotherapy	NOUN	bn:00018141n;wiki:chemotherapy;wn:chemotherapy%1:04:00::
+	in		X	
+	the		X	
+d000.s034.t004	past	past	NOUN	bn:00060927n;bn:00060928n;wiki:past;wn:past%1:28:00::;wn:past%1:28:01::;wn:past_times%1:28:00::;wn:yesteryear%1:28:00::
+	,		X	
+	the		X	
+d000.s034.t005	average	average	ADJ	bn:00097854a;bn:00097859a;wn:average%5:00:01:normal:01;wn:average%5:00:02:normal:01;wn:mean%5:00:00:normal:01;wn:median%5:00:00:normal:01
+d000.s034.t006	survival	survival	NOUN	bn:00030811n;wn:endurance%1:26:00::;wn:survival%1:26:00::
+d000.s034.t007	time	time	NOUN	bn:00077268n;bn:00077311n;wn:time%1:28:00::;wn:times%1:28:01::
+	was	be	VERB	
+	10.3		X	
+d000.s034.t008	months	month	NOUN	bn:00055794n;wiki:month;wn:month%1:28:00::
+	in		X	
+	both		X	
+d000.s034.t009	groups	group	NOUN	bn:00041942n;bn:00072536n;wiki:grouping;wiki:social_group;wn:group%1:03:00::;wn:grouping%1:03:00::;wn:social_group%1:14:00::
+	.		X	
+	-end-		X	
+d000.s035.t000	However	however	ADV	bn:00114627r;bn:00115696r;wn:but_then%4:02:00::;wn:however%4:02:04::;wn:on_the_other_hand%4:02:00::;wn:then_again%4:02:00::
+	,		X	
+	in		X	
+	both		X	
+d000.s035.t001	studies	study	NOUN	bn:00074790n;wn:study%1:04:00::;wn:survey%1:04:02::
+	,		X	
+d000.s035.t002	patients	patient	NOUN	bn:00061017n;wiki:patient;wn:patient%1:18:00::
+	whose		X	
+d000.s035.t003	cancer	cancer	NOUN	bn:00015180n;wiki:cancer;wn:cancer%1:26:00::;wn:malignant_neoplastic_disease%1:26:00::
+	was	be	VERB	
+d000.s035.t004	not	not	ADV	bn:00116360r;wn:non%4:02:00::;wn:not%4:02:00::
+d000.s035.t005	affecting	affect	VERB	bn:00082427v;wn:affect%2:29:00::
+d000.s035.t006	squamous	squamous	ADJ	bn:00073708n;wiki:squamous_epithelial_cell;wn:squamous_cell%1:08:00::
+d000.s035.t007	cells	cell	NOUN	bn:00017027n;wiki:cell_(biology);wn:cell%1:03:00::
+d000.s035.t008	had	have	VERB	bn:00088078v;bn:00088745v;wn:feature%2:42:00::;wn:get%2:29:11::;wn:have%2:29:05::;wn:have%2:42:00::;wn:suffer%2:29:01::;wn:sustain%2:29:00::
+d000.s035.t009	longer	long	ADJ	bn:00106124a;wn:long%3:00:02::
+d000.s035.t010	survival	survival	NOUN	bn:00030811n;wn:endurance%1:26:00::;wn:survival%1:26:00::
+d000.s035.t011	times	time	NOUN	bn:00077268n;bn:00077311n;wn:time%1:28:00::;wn:times%1:28:01::
+	if		X	
+	they		X	
+	received	receive	VERB	
+	Alimta	alimta	NOUN	
+	than		X	
+	if		X	
+	they		X	
+	received	receive	VERB	
+	the		X	
+	comparator	comparator	NOUN	
+	.		X	
+	-end-		X	
+	In		X	
+d000.s036.t000	contrast	contrast	NOUN	bn:00022261n;wn:contrast%1:24:00::;wn:direct_contrast%1:24:00::
+	,		X	
+d000.s036.t001	patients	patient	NOUN	bn:00061017n;wiki:patient;wn:patient%1:18:00::
+	whose		X	
+d000.s036.t002	cancer	cancer	NOUN	bn:00015180n;wiki:cancer;wn:cancer%1:26:00::;wn:malignant_neoplastic_disease%1:26:00::
+	was	be	VERB	
+d000.s036.t003	affecting	affect	VERB	bn:00082427v;wn:affect%2:29:00::
+d000.s036.t004	squamous	squamous	ADJ	bn:00073708n;wiki:squamous_epithelial_cell;wn:squamous_cell%1:08:00::
+d000.s036.t005	cells	cell	NOUN	bn:00017027n;wiki:cell_(biology);wn:cell%1:03:00::
+d000.s036.t006	had	have	VERB	bn:00088078v;bn:00088745v;wn:feature%2:42:00::;wn:get%2:29:11::;wn:have%2:29:05::;wn:have%2:42:00::;wn:suffer%2:29:01::;wn:sustain%2:29:00::
+d000.s036.t007	shorter	short	ADJ	bn:00110561a;wn:short%3:00:02::
+d000.s036.t008	survival	survival	NOUN	bn:00030811n;wn:endurance%1:26:00::;wn:survival%1:26:00::
+d000.s036.t009	times	time	NOUN	bn:00077268n;bn:00077311n;wn:time%1:28:00::;wn:times%1:28:01::
+	if		X	
+	they		X	
+	received	receive	VERB	
+	Alimta	alimta	NOUN	
+	.		X	
+	kalgebra	kalgebra	NOUN	
+	is	be	VERB	
+	a		X	
+d000.s036.t010	mathematical	mathematical	ADJ	bn:00106488a;wn:mathematical%3:01:00::
+d000.s036.t011	calculator	calculator	NOUN	bn:00946167n;bn:03099895n;bn:03466887n;wiki:calculator_(mac_os);wiki:calculator_(windows);wiki:software_calculator
+d000.s036.t012	based	base	VERB	bn:00083141v;wn:base%2:31:00::;wn:establish%2:31:03::;wn:found%2:31:00::;wn:ground%2:31:00::
+	on		X	
+	content	content	ADJ	
+d000.s036.t013	markup	markup	NOUN	bn:00053491n;wn:markup%1:10:00::
+	MathML	mathml	NOUN	
+d000.s036.t014	language	language	NOUN	bn:00213650n;wiki:formal_language
+	.		X	
+	-end-		X	
+d000.s037.t000	Nowadays	nowadays	ADV	bn:00116382r;wn:now%4:02:00::;wn:nowadays%4:02:00::;wn:today%4:02:01::
+	it		X	
+	is	be	VERB	
+d000.s037.t001	capable	capable	ADJ	bn:00099215a;wn:capable%3:00:00::
+	to		X	
+d000.s037.t002	make	make	VERB	bn:00090557v;wn:make%2:36:12::
+d000.s037.t003	simple	simple	ADJ	bn:00102111a;wn:elementary%5:00:00:easy:01;wn:simple%5:00:00:easy:01;wn:uncomplicated%5:00:00:easy:01;wn:unproblematic%5:00:00:easy:01
+	MathML	mathml	NOUN	
+d000.s037.t004	operations	operation	NOUN	bn:00053826n;wiki:operation_(mathematics);wn:mathematical_operation%1:04:00::;wn:mathematical_process%1:04:00::;wn:operation%1:04:01::
+	(		X	
+d000.s037.t005	arithmetic	arithmetic	ADJ	bn:00097495a;wn:arithmetic%3:01:00::;wn:arithmetical%3:01:00::
+	and		X	
+	logical	logical	ADJ	
+	)		X	
+	and		X	
+	to		X	
+	representate	representate	NOUN	
+	2D	2d	NOUN	
+	and		X	
+d000.s037.t006	3D	3d	NOUN	bn:03647100n;wiki:three-dimensional_graph
+d000.s037.t007	graphs	graph	NOUN	bn:00041412n;wiki:graph_of_a_function;wn:graph%1:10:00::;wn:graphical_record%1:10:00::
+	.		X	
+	-end-		X	
+	It		X	
+	is	be	VERB	
+d000.s038.t000	actually	actually	ADV	bn:00114118r;bn:00114120r;wn:actually%4:02:00::;wn:actually%4:02:02::;wn:in_reality%4:02:00::
+d000.s038.t001	not	not	ADV	bn:00116360r;wn:non%4:02:00::;wn:not%4:02:00::
+d000.s038.t002	necessary	necessary	ADJ	bn:00107182a;wn:necessary%3:00:00::
+	to		X	
+d000.s038.t003	know	know	VERB	bn:00085261v;bn:00090143v;wn:cognise%2:31:00::;wn:cognize%2:31:00::;wn:know%2:31:00::;wn:know%2:31:01::
+	MathML	mathml	NOUN	
+	to		X	
+d000.s038.t004	use	use	VERB	bn:00082705v;wn:apply%2:34:00::;wn:employ%2:34:00::;wn:use%2:34:01::;wn:utilise%2:34:00::;wn:utilize%2:34:00::
+	kalgebra	kalgebra	NOUN	
+	.		X	
+	kalgebra	kalgebra	NOUN	
+	is	be	VERB	
+	a		X	
+	MathML	mathml	NOUN	
+d000.s038.t005	based	base	VERB	bn:00083141v;wn:base%2:31:00::;wn:establish%2:31:03::;wn:found%2:31:00::;wn:ground%2:31:00::
+d000.s038.t006	graph	graph	NOUN	bn:00041412n;wiki:graph_of_a_function;wn:graph%1:10:00::;wn:graphical_record%1:10:00::
+d000.s038.t007	calculator	calculator	NOUN	bn:00946167n;bn:03099895n;bn:03466887n;wiki:calculator_(mac_os);wiki:calculator_(windows);wiki:software_calculator
+	.		X	
+	-end-		X	
+	Although		X	
+	it		X	
+	was	be	VERB	
+d000.s039.t000	initially	initially	ADV	bn:00114055r;wn:ab_initio%4:02:00::;wn:initially%4:02:00::
+	MathML	mathml	NOUN	
+d000.s039.t001	oriented	orient	VERB	bn:00091201v;wn:orient%2:30:00::;wn:tailor%2:30:00::
+	it		X	
+	can		X	
+d000.s039.t002	now	now	ADV	bn:00114424r;wn:at_present%4:02:00::;wn:now%4:02:04::
+	be	be	VERB	
+d000.s039.t003	used	use	VERB	bn:00082705v;wn:apply%2:34:00::;wn:employ%2:34:00::;wn:use%2:34:01::;wn:utilise%2:34:00::;wn:utilize%2:34:00::
+	by		X	
+	everyone	everyone	NOUN	
+	with		X	
+d000.s039.t004	little	little	ADJ	bn:00106058a;wn:little%3:00:01::;wn:small%3:00:00::
+d000.s039.t005	mathematical	mathematical	ADJ	bn:00106488a;wn:mathematical%3:01:00::
+d000.s039.t006	knowledge	knowledge	NOUN	bn:00020452n;wiki:knowledge;wn:cognition%1:03:00::;wn:knowledge%1:03:00::;wn:noesis%1:03:00::
+	.		X	
+	-end-		X	
+d000.s040.t000	Here	here	ADV	bn:00115639r;wn:here%4:02:00::
+	's	be	VERB	
+	a		X	
+d000.s040.t001	screenshot	screenshot	NOUN	bn:01157212n;wiki:screenshot
+	of		X	
+	kalgebra	kalgebra	NOUN	
+d000.s040.t002	main	main	ADJ	bn:00099598a;wn:chief%5:00:02:important:00;wn:main%5:00:00:important:00;wn:master%5:00:00:important:00;wn:primary%5:00:00:important:00;wn:principal%5:00:00:important:00
+d000.s040.t003	window	window	NOUN	bn:00081292n;wiki:window_(computing);wn:window%1:06:03::
+	kalgebra	kalgebra	NOUN	
+d000.s040.t004	main	main	ADJ	bn:00099598a;wn:chief%5:00:02:important:00;wn:main%5:00:00:important:00;wn:master%5:00:00:important:00;wn:primary%5:00:00:important:00;wn:principal%5:00:00:important:00
+d000.s040.t005	window	window	NOUN	bn:00081292n;wiki:window_(computing);wn:window%1:06:03::
+	kalgebra	kalgebra	NOUN	
+d000.s040.t006	main	main	ADJ	bn:00099598a;wn:chief%5:00:02:important:00;wn:main%5:00:00:important:00;wn:master%5:00:00:important:00;wn:primary%5:00:00:important:00;wn:principal%5:00:00:important:00
+d000.s040.t007	window	window	NOUN	bn:00081292n;wiki:window_(computing);wn:window%1:06:03::
+d000.s040.t008	consists	consist	VERB	bn:00085498v;wn:comprise%2:42:01::;wn:consist%2:42:01::
+	in		X	
+	a		X	
+d000.s040.t009	Console	console	NOUN	bn:00020949n;wiki:command-line_interface;wn:command_line%1:10:00::
+d000.s040.t010	tab	tab	NOUN	bn:00120018n;wiki:tab_(gui)
+	,		X	
+	a		X	
+	2D	2d	NOUN	
+d000.s040.t011	Graph	graph	NOUN	bn:00041412n;wiki:graph_of_a_function;wn:graph%1:10:00::;wn:graphical_record%1:10:00::
+d000.s040.t012	tab	tab	NOUN	bn:00120018n;wiki:tab_(gui)
+	,		X	
+	a		X	
+d000.s040.t013	3D	3d	NOUN	bn:03647100n;wiki:three-dimensional_graph
+d000.s040.t014	Graph	graph	NOUN	bn:00041412n;wiki:graph_of_a_function;wn:graph%1:10:00::;wn:graphical_record%1:10:00::
+d000.s040.t015	tab	tab	NOUN	bn:00120018n;wiki:tab_(gui)
+	and		X	
+	a		X	
+d000.s040.t016	Dictionary	dictionary	NOUN	bn:00026967n;wiki:dictionary;wn:dictionary%1:10:00::;wn:lexicon%1:10:00::
+d000.s040.t017	tab	tab	NOUN	bn:00120018n;wiki:tab_(gui)
+	.		X	
+	-end-		X	
+d000.s041.t000	Below	below	ADV	bn:00114401r;wn:at_a_lower_place%4:02:00::;wn:below%4:02:01::;wn:beneath%4:02:00::;wn:to_a_lower_place%4:02:01::
+	these		X	
+d000.s041.t001	tabs	tab	NOUN	bn:00120018n;wiki:tab_(gui)
+	you		X	
+	will		X	
+d000.s041.t002	find	find	VERB	bn:00086708v;wn:detect%2:39:00::;wn:discover%2:39:03::;wn:find%2:39:02::;wn:notice%2:39:04::;wn:observe%2:39:02::
+	an		X	
+d000.s041.t003	input	input	NOUN	bn:00046850n;bn:02570242n;wiki:input_(computer_science);wn:input%1:06:00::
+d000.s041.t004	field	field	NOUN	bn:00034274n;wiki:field_(computer_science);wn:field%1:14:03::
+	to		X	
+d000.s041.t005	type	type	VERB	bn:00095295v;wn:type%2:32:00::;wn:typewrite%2:32:00::
+	your		X	
+d000.s041.t006	functions	function	NOUN	bn:00036821n;wiki:function_(mathematics);wiki:map_(mathematics);wiki:single-valued_function;wn:function%1:24:00::;wn:map%1:24:00::;wn:mapping%1:24:00::;wn:mathematical_function%1:24:00::;wn:single-valued_function%1:24:00::
+	or		X	
+d000.s041.t007	do	do	VERB	bn:00087107v;bn:00087108v;wn:do%2:36:01::;wn:do%2:41:04::;wn:execute%2:36:01::;wn:perform%2:36:00::;wn:perform%2:41:00::
+	your		X	
+d000.s041.t008	calculations	calculation	NOUN	bn:00014688n;bn:00014689n;wiki:calculation;wiki:computation;wn:calculation%1:04:00::;wn:calculation%1:09:00::;wn:computation%1:04:00::;wn:computation%1:09:00::;wn:computing%1:04:00::;wn:figuring%1:09:00::;wn:reckoning%1:09:00::
+	.		X	
+	-end-		X	
+	If		X	
+	we		X	
+d000.s042.t000	want	want	VERB	bn:00086682v;wn:desire%2:37:00::;wn:want%2:37:00::
+	to		X	
+d000.s042.t001	understand	understand	VERB	bn:00092443v;bn:00095375v;wn:realise%2:31:00::;wn:realize%2:31:00::;wn:see%2:31:01::;wn:understand%2:31:00::;wn:understand%2:31:01::
+	how		X	
+	it		X	
+d000.s042.t002	works	work	VERB	bn:00088629v;wn:function%2:35:00::;wn:go%2:35:00::;wn:operate%2:35:03::;wn:run%2:35:00::;wn:work%2:35:02::
+	,		X	
+	the		X	
+d000.s042.t003	best	good	ADJ	bn:00098274a;bn:00098275a;wn:best%3:00:00::;wn:best%5:00:00:advisable:00;wn:better%5:00:00:advisable:00
+d000.s042.t004	thing	thing	NOUN	bn:00076919n;wn:thing%1:04:00::
+	we		X	
+	can		X	
+d000.s042.t005	do	do	VERB	bn:00087107v;bn:00087108v;wn:do%2:36:01::;wn:do%2:41:04::;wn:execute%2:36:01::;wn:perform%2:36:00::;wn:perform%2:41:00::
+	is	be	VERB	
+	to		X	
+d000.s042.t006	realize	realize	VERB	bn:00082472v;bn:00092443v;wn:agnise%2:31:00::;wn:agnize%2:31:00::;wn:realise%2:31:00::;wn:realise%2:31:01::;wn:realize%2:31:00::;wn:realize%2:31:01::;wn:recognise%2:31:01::;wn:recognize%2:31:01::;wn:see%2:31:01::;wn:understand%2:31:01::
+	that		X	
+	our		X	
+d000.s042.t007	input	input	NOUN	bn:00046850n;bn:02570242n;wiki:input_(computer_science);wn:input%1:06:00::
+	is	be	VERB	
+	being	be	VERB	
+d000.s042.t008	converted	convert	VERB	bn:00084772v;bn:00085761v;wn:change%2:30:04::;wn:commute%2:30:02::;wn:convert%2:30:02::;wn:convert%2:30:03::;wn:exchange%2:30:00::
+	into		X	
+	MathML	mathml	NOUN	
+	although		X	
+	it		X	
+	is	be	VERB	
+d000.s042.t009	not	not	ADV	bn:00116360r;wn:non%4:02:00::;wn:not%4:02:00::
+d000.s042.t010	necessary	necessary	ADJ	bn:00107182a;wn:necessary%3:00:00::
+	to		X	
+d000.s042.t011	know	know	VERB	bn:00085261v;bn:00090143v;wn:cognise%2:31:00::;wn:cognize%2:31:00::;wn:know%2:31:00::;wn:know%2:31:01::
+	MathML	mathml	NOUN	
+	.		X	
+	-end-		X	
+	I		X	
+	have	have	VERB	
+d000.s043.t000	based	base	VERB	bn:00083141v;wn:base%2:31:00::;wn:establish%2:31:03::;wn:found%2:31:00::;wn:ground%2:31:00::
+	the		X	
+d000.s043.t001	syntax	syntax	NOUN	bn:02561609n;bn:03345288n;wiki:syntax_(logic);wiki:syntax_(programming_languages)
+d000.s043.t002	basically	basically	ADV	bn:00114508r;wn:basically%4:02:00::;wn:essentially%4:02:01::;wn:fundamentally%4:02:00::
+	on		X	
+d000.s043.t003	common	common	ADJ	bn:00021164n;wiki:common_sense;wn:common_sense%1:09:00::;wn:good_sense%1:09:00::;wn:gumption%1:09:00::;wn:horse_sense%1:09:00::;wn:mother_wit%1:09:00::;wn:sense%1:09:04::
+d000.s043.t004	sense	sense	NOUN	bn:00021164n;wiki:common_sense;wn:common_sense%1:09:00::;wn:good_sense%1:09:00::;wn:gumption%1:09:00::;wn:horse_sense%1:09:00::;wn:mother_wit%1:09:00::;wn:sense%1:09:04::
+	,		X	
+	it		X	
+	should		X	
+d000.s043.t005	not	not	ADV	bn:00116360r;wn:non%4:02:00::;wn:not%4:02:00::
+	be	be	VERB	
+d000.s043.t006	hard	hard	ADJ	bn:00101358a;wn:difficult%3:00:00::;wn:hard%3:00:06::
+	for		X	
+d000.s043.t007	anyone	anyone	NOUN	bn:02268723n;wiki:indefinite_pronoun
+	.		X	
+	-end-		X	
+	I		X	
+	ve	have	VERB	
+d000.s044.t000	looked	look	VERB	bn:00090448v;wn:look%2:39:00::
+d000.s044.t001	closely	closely	ADV	bn:00114748r;wn:close%4:02:02::;wn:closely%4:02:02::;wn:tight%4:02:02::
+	to		X	
+	maxima	maxima	NOUN	
+	and		X	
+	maple	maple	NOUN	
+	s		X	
+d000.s044.t002	syntax	syntax	NOUN	bn:02561609n;bn:03345288n;wiki:syntax_(logic);wiki:syntax_(programming_languages)
+	so		X	
+	they		X	
+d000.s044.t003	look	look	VERB	bn:00090452v;wn:look%2:42:02::
+d000.s044.t004	very	very	ADV	bn:00116789r;wn:rattling%4:02:00::;wn:real%4:02:01::;wn:really%4:02:00::;wn:very%4:02:00::
+d000.s044.t005	similar	similar	ADJ	bn:00096782a;bn:00105977a;bn:00110647a;wn:alike%3:00:00::;wn:like%3:00:00::;wn:like%3:00:04::;wn:similar%3:00:00::;wn:similar%3:00:02::;wn:similar%3:00:04::
+	.		X	
+	+		X	
+	-		X	
+	*		X	
+	/		X	
+	:		X	
+d000.s044.t006	Addition	addition	NOUN	bn:00001296n;wiki:addition;wiki:summation;wn:addition%1:04:01::;wn:plus%1:04:00::;wn:summation%1:04:01::
+	,		X	
+d000.s044.t007	subtraction	subtraction	NOUN	bn:00055233n;wiki:plus_and_minus_signs;wiki:subtraction;wn:minus%1:04:00::;wn:subtraction%1:04:01::
+	,		X	
+d000.s044.t008	multiplication	multiplication	NOUN	bn:00056300n;wiki:multiplication;wiki:multiplication_sign;wn:multiplication%1:04:00::;wn:times%1:04:00::
+	and		X	
+d000.s044.t009	division	division	NOUN	bn:00027919n;wiki:division_(mathematics);wn:division%1:04:01::
+	.		X	
+	^		X	
+	,		X	
+	**		X	
+	:		X	
+d000.s044.t010	Power	power	NOUN	bn:00032355n;wiki:exponentiation;wn:exponent%1:10:00::;wn:index%1:10:02::;wn:power%1:10:00::
+	,		X	
+	you		X	
+	can		X	
+d000.s044.t011	use	use	VERB	bn:00082705v;wn:apply%2:34:00::;wn:employ%2:34:00::;wn:use%2:34:01::;wn:utilise%2:34:00::;wn:utilize%2:34:00::
+	them		X	
+	both		X	
+	.		X	
+	-end-		X	
+d000.s045.t000	Also	also	ADV	bn:00114246r;wn:also%4:02:00::;wn:as_well%4:02:01::;wn:besides%4:02:03::;wn:likewise%4:02:01::;wn:too%4:02:01::
+	it		X	
+	is	be	VERB	
+d000.s045.t001	possible	possible	ADJ	bn:00108829a;wn:possible%3:00:00::
+	to		X	
+d000.s045.t002	use	use	VERB	bn:00082705v;wn:apply%2:34:00::;wn:employ%2:34:00::;wn:use%2:34:01::;wn:utilise%2:34:00::;wn:utilize%2:34:00::
+	the		X	
+	unicode	unicode	NOUN	
+	²		X	
+d000.s045.t003	characters	character	NOUN	bn:09438926n;wiki:character_(computing)
+	.		X	
+	-end-		X	
+d000.s046.t000	Powers	power	NOUN	bn:00032355n;wiki:exponentiation;wn:exponent%1:10:00::;wn:index%1:10:02::;wn:power%1:10:00::
+	are	be	VERB	
+	one		X	
+d000.s046.t001	way	way	NOUN	bn:00001965n;bn:00054625n;wiki:method_(music);wn:agency%1:04:00::;wn:means%1:04:00::;wn:method%1:09:00::;wn:way%1:04:01::
+	to		X	
+d000.s046.t002	make	make	VERB	bn:00090557v;wn:make%2:36:12::
+d000.s046.t003	roots	root	NOUN	bn:00068247n;wn:root%1:23:00::
+d000.s046.t004	too	too	ADV	bn:00114246r;wn:also%4:02:00::;wn:as_well%4:02:01::;wn:besides%4:02:03::;wn:likewise%4:02:01::;wn:too%4:02:01::
+	.		X	
+	-gt	-gt	NOUN	
+	:		X	
+	It		X	
+	s	be	VERB	
+d000.s046.t005	the		X	bn:00001965n;wn:agency%1:04:00::;wn:means%1:04:00::;wn:way%1:04:01::
+d000.s046.t006	way	way	NOUN	bn:00001965n;bn:00054625n;wiki:method_(music);wn:agency%1:04:00::;wn:means%1:04:00::;wn:method%1:09:00::;wn:way%1:04:01::
+	to		X	
+d000.s046.t007	specify	specify	VERB	bn:00086468v;wn:define%2:32:01::;wn:determine%2:32:03::;wn:fix%2:32:03::;wn:limit%2:32:00::;wn:set%2:32:00::;wn:specify%2:32:02::
+	the		X	
+d000.s046.t008	bounded	bound	VERB	bn:00062721n;wiki:free_variables_and_bound_variables;wn:placeholder%1:10:00::
+d000.s046.t009	variable	variable	NOUN	bn:00079583n;wiki:variable_(computer_science);wn:variable%1:10:00::
+	in		X	
+	a		X	
+d000.s046.t010	function	function	NOUN	bn:00036821n;wiki:function_(mathematics);wiki:map_(mathematics);wiki:single-valued_function;wn:function%1:24:00::;wn:map%1:24:00::;wn:mapping%1:24:00::;wn:mathematical_function%1:24:00::;wn:single-valued_function%1:24:00::
+	.		X	
+	(		X	
+	)		X	
+	:		X	
+	It		X	
+	is	be	VERB	
+d000.s046.t011	used	use	VERB	bn:00082705v;wn:apply%2:34:00::;wn:employ%2:34:00::;wn:use%2:34:01::;wn:utilise%2:34:00::;wn:utilize%2:34:00::
+	to		X	
+d000.s046.t012	specify	specify	VERB	bn:00086468v;bn:00091005v;wn:define%2:32:01::;wn:determine%2:32:03::;wn:fix%2:32:03::;wn:limit%2:32:00::;wn:nail_down%2:31:00::;wn:narrow%2:31:00::;wn:narrow_down%2:31:00::;wn:peg_down%2:31:00::;wn:pin_down%2:31:00::;wn:set%2:32:00::;wn:specify%2:31:02::;wn:specify%2:32:02::
+	a		X	
+d000.s046.t013	higher	high	ADJ	bn:00104162a;wn:high%3:00:02::
+d000.s046.t014	priority	priority	NOUN	bn:00004489n;bn:00064072n;wn:antecedence%1:07:00::;wn:antecedency%1:07:00::;wn:anteriority%1:07:01::;wn:precedence%1:07:00::;wn:precedence%1:26:00::;wn:precedency%1:07:00::;wn:precedency%1:26:00::;wn:priority%1:07:00::;wn:priority%1:26:00::
+	.		X	
+	abc(params)		X	
+	:		X	
+	When		X	
+	the		X	
+d000.s046.t015	parser	parser	NOUN	bn:00060753n;wn:parser%1:10:00::
+d000.s046.t016	finds	find	VERB	bn:00082811v;bn:00086708v;wn:ascertain%2:32:01::;wn:detect%2:39:00::;wn:determine%2:32:00::;wn:discover%2:39:03::;wn:find%2:32:00::;wn:find%2:39:02::;wn:find_out%2:32:00::;wn:notice%2:39:04::;wn:observe%2:39:02::
+	a		X	
+d000.s046.t017	function	function	NOUN	bn:00036821n;wiki:function_(mathematics);wiki:map_(mathematics);wiki:single-valued_function;wn:function%1:24:00::;wn:map%1:24:00::;wn:mapping%1:24:00::;wn:mathematical_function%1:24:00::;wn:single-valued_function%1:24:00::
+	,		X	
+	it		X	
+d000.s046.t018	checks	check	VERB	bn:00082813v;wn:ascertain%2:32:00::;wn:check%2:32:10::;wn:determine%2:32:01::;wn:find_out%2:32:01::;wn:learn%2:32:02::;wn:see%2:32:00::;wn:watch%2:32:09::
+	if		X	
+	abc	abc	NOUN	
+	is	be	VERB	
+	an		X	
+d000.s046.t019	operator	operator	NOUN	bn:00059141n;bn:03744320n;wiki:operator_(mathematics);wiki:operator_(programming);wn:operator%1:24:00::
+	.		X	
+	-end-		X	
+	If		X	
+	it		X	
+	is	be	VERB	
+	,		X	
+	it		X	
+	will		X	
+	be	be	VERB	
+d000.s047.t000	treated	treat	VERB	bn:00095141v;wn:treat%2:31:00::
+	as		X	
+	an		X	
+d000.s047.t001	operator	operator	NOUN	bn:00059141n;bn:03744320n;wiki:operator_(mathematics);wiki:operator_(programming);wn:operator%1:24:00::
+	,		X	
+	if		X	
+	it		X	
+	is	be	VERB	
+d000.s047.t002	not	not	ADV	bn:00116360r;wn:non%4:02:00::;wn:not%4:02:00::
+	,		X	
+	it		X	
+	will		X	
+	be	be	VERB	
+d000.s047.t003	treated	treat	VERB	bn:00095141v;wn:treat%2:31:00::
+	as		X	
+	a		X	
+d000.s047.t004	user	user	NOUN	bn:00079373n;bn:02763770n;wiki:user_(computing);wiki:user_(system);wn:user%1:18:00::
+d000.s047.t005	function	function	NOUN	bn:00036821n;wiki:function_(mathematics);wiki:map_(mathematics);wiki:single-valued_function;wn:function%1:24:00::;wn:map%1:24:00::;wn:mapping%1:24:00::;wn:mathematical_function%1:24:00::;wn:single-valued_function%1:24:00::
+	.		X	
+	:		X	
+	=		X	
+	:		X	
+	It		X	
+	is	be	VERB	
+d000.s047.t006	used	use	VERB	bn:00082705v;wn:apply%2:34:00::;wn:employ%2:34:00::;wn:use%2:34:01::;wn:utilise%2:34:00::;wn:utilize%2:34:00::
+	to		X	
+d000.s047.t007	define	define	VERB	bn:00086468v;wn:define%2:32:01::;wn:determine%2:32:03::;wn:fix%2:32:03::;wn:limit%2:32:00::;wn:set%2:32:00::;wn:specify%2:32:02::
+	a		X	
+	variable	variable	ADJ	
+d000.s047.t008	value	value	NOUN	bn:00079508n;bn:02743888n;wiki:value_(computer_science);wiki:value_(mathematics);wn:value%1:09:00::
+	.		X	
+	?		X	
+	:		X	
+d000.s047.t009	Piecewise	piecewise	NOUN	bn:03132721n;wiki:piecewise
+d000.s047.t010	condition	condition	NOUN	bn:00021645n;wn:condition%1:10:01::;wn:precondition%1:10:00::;wn:stipulation%1:10:00::
+d000.s047.t011	definition	definition	NOUN	bn:00025928n;wiki:definition;wn:definition%1:10:00::
+	.		X	
+	-end-		X	
+d000.s048.t000	Piecewise	piecewise	NOUN	bn:03132721n;wiki:piecewise
+	is	be	VERB	
+d000.s048.t001	the		X	bn:00001965n;wn:agency%1:04:00::;wn:means%1:04:00::;wn:way%1:04:01::
+d000.s048.t002	way	way	NOUN	bn:00001965n;bn:00054625n;wiki:method_(music);wn:agency%1:04:00::;wn:means%1:04:00::;wn:method%1:09:00::;wn:way%1:04:01::
+	we		X	
+	can		X	
+d000.s048.t003	define	define	VERB	bn:00086468v;wn:define%2:32:01::;wn:determine%2:32:03::;wn:fix%2:32:03::;wn:limit%2:32:00::;wn:set%2:32:00::;wn:specify%2:32:02::
+d000.s048.t004	conditional	conditional	ADJ	bn:00100214a;wn:conditional%3:00:00::
+d000.s048.t005	operations	operation	NOUN	bn:00053826n;wiki:operation_(mathematics);wn:mathematical_operation%1:04:00::;wn:mathematical_process%1:04:00::;wn:operation%1:04:01::
+	in		X	
+	kalgebra	kalgebra	NOUN	
+	.		X	
+	-end-		X	
+	If		X	
+	we		X	
+d000.s049.t000	introduce	introduce	VERB	bn:00087681v;wn:enter%2:35:03::;wn:infix%2:35:01::;wn:insert%2:35:00::;wn:introduce%2:35:00::
+	the		X	
+d000.s049.t001	condition	condition	NOUN	bn:00021645n;wn:condition%1:10:01::;wn:precondition%1:10:00::;wn:stipulation%1:10:00::
+	before		X	
+	the		X	
+d000.s049.t002	?	?	NOUN	bn:00047210n;wiki:question_mark;wn:interrogation_point%1:10:00::;wn:question_mark%1:10:00::
+	it		X	
+	will		X	
+d000.s049.t003	use	use	VERB	bn:00082705v;wn:apply%2:34:00::;wn:employ%2:34:00::;wn:use%2:34:01::;wn:utilise%2:34:00::;wn:utilize%2:34:00::
+	this		X	
+d000.s049.t004	condition	condition	NOUN	bn:00021645n;wn:condition%1:10:01::;wn:precondition%1:10:00::;wn:stipulation%1:10:00::
+d000.s049.t005	only	only	ADV	bn:00116450r;wn:only%4:02:03::;wn:only_if%4:02:00::;wn:only_when%4:02:00::
+	if		X	
+	it		X	
+	is	be	VERB	
+d000.s049.t006	true	true	ADJ	bn:00112146a;bn:00112148a;wn:true%3:00:00::;wn:true%3:00:04::;wn:truthful%3:00:00::
+	,		X	
+	if		X	
+	it		X	
+d000.s049.t007	finds	find	VERB	bn:00086708v;wn:detect%2:39:00::;wn:discover%2:39:03::;wn:find%2:39:02::;wn:notice%2:39:04::;wn:observe%2:39:02::
+	a		X	
+d000.s049.t008	?	?	NOUN	bn:00047210n;wiki:question_mark;wn:interrogation_point%1:10:00::;wn:question_mark%1:10:00::
+	without		X	
+	any		X	
+d000.s049.t009	condition	condition	NOUN	bn:00021645n;wn:condition%1:10:01::;wn:precondition%1:10:00::;wn:stipulation%1:10:00::
+	,		X	
+	it		X	
+	will		X	
+d000.s049.t010	enter	enter	VERB	bn:00085363v;wn:come_in%2:38:02::;wn:enter%2:38:00::;wn:get_in%2:38:01::;wn:get_into%2:38:00::;wn:go_in%2:38:00::;wn:go_into%2:38:00::;wn:move_into%2:38:00::
+	in		X	
+	the		X	
+d000.s049.t011	last	last	ADJ	bn:00102969a;bn:00105740a;wn:final%5:00:00:ultimate:00;wn:last%3:00:00::;wn:last%5:00:00:ultimate:00;wn:net%5:00:00:ultimate:00
+d000.s049.t012	instance	instance	NOUN	bn:00016401n;bn:00058445n;bn:01068410n;wiki:instance_(computer_science);wiki:object_(computer_science);wn:case%1:11:00::;wn:example%1:11:00::;wn:instance%1:11:00::;wn:object%1:09:02::
+	.		X	
+	{		X	
+	}		X	
+	:		X	
+	MathML	mathml	NOUN	
+d000.s049.t013	container	container	NOUN	bn:03305154n;wiki:container_(abstract_data_type)
+	.		X	
+	It		X	
+	can		X	
+	be	be	VERB	
+d000.s049.t014	used	use	VERB	bn:00082705v;wn:apply%2:34:00::;wn:employ%2:34:00::;wn:use%2:34:01::;wn:utilise%2:34:00::;wn:utilize%2:34:00::
+	to		X	
+d000.s049.t015	define	define	VERB	bn:00086466v;bn:00086468v;wn:define%2:32:01::;wn:define%2:42:01::;wn:determine%2:32:03::;wn:fix%2:32:03::;wn:limit%2:32:00::;wn:set%2:32:00::;wn:specify%2:32:02::
+	a		X	
+d000.s049.t016	container	container	NOUN	bn:03305154n;wiki:container_(abstract_data_type)
+	.		X	
+	-end-		X	
+d000.s050.t000	Mainly	mainly	ADV	bn:00114714r;wn:chiefly%4:02:00::;wn:in_the_main%4:02:01::;wn:mainly%4:02:00::;wn:primarily%4:02:01::;wn:principally%4:02:00::
+d000.s050.t001	useful	useful	ADJ	bn:00113455a;bn:00113456a;wn:useful%3:00:00::;wn:useful%5:00:00:functional:00;wn:utile%3:00:02::;wn:utilitarian%5:00:00:functional:00
+	for		X	
+d000.s050.t002	working	work	VERB	bn:00095812v;wn:work%2:41:02::
+	with		X	
+d000.s050.t003	piecewise	piecewise	NOUN	bn:03132721n;wiki:piecewise
+	.		X	
+	-end-		X	
+d000.s051.t000	Now	now	ADV	bn:00114424r;bn:00116383r;wn:at_present%4:02:00::;wn:now%4:02:02::;wn:now%4:02:04::
+	you		X	
+	could		X	
+d000.s051.t001	ask	ask	VERB	bn:00082821v;wn:ask%2:32:04::
+	me	me	NOUN	
+	,		X	
+	why		X	
+	should		X	
+	the		X	
+d000.s051.t002	user	user	NOUN	bn:00079373n;bn:02763770n;wiki:user_(computing);wiki:user_(system);wn:user%1:18:00::
+	mind	mind	NOUN	
+	about		X	
+	MathML	mathml	NOUN	
+	?		X	
+	That		X	
+	s	be	VERB	
+d000.s051.t003	easy	easy	ADJ	bn:00101973a;wn:easy%3:00:01::
+	.		X	
+	With		X	
+	this		X	
+	,		X	
+	we		X	
+	can		X	
+d000.s051.t004	operate	operate	VERB	bn:00085744v;wn:control%2:35:00::;wn:operate%2:35:00::
+	with		X	
+d000.s051.t005	functions	function	NOUN	bn:00036821n;wiki:function_(mathematics);wiki:map_(mathematics);wiki:single-valued_function;wn:function%1:24:00::;wn:map%1:24:00::;wn:mapping%1:24:00::;wn:mathematical_function%1:24:00::;wn:single-valued_function%1:24:00::
+	like		X	
+d000.s051.t006	cos()	cos	NOUN	bn:00022956n;bn:03373330n;wiki:hyperbolic_function;wiki:trigonometric_functions;wn:cos%1:24:00::;wn:cosine%1:24:00::
+	,		X	
+d000.s051.t007	sin()	sin	NOUN	bn:00071709n;wiki:sine;wn:sin%1:24:00::;wn:sine%1:24:00::
+	,		X	
+	any		X	
+d000.s051.t008	other	other	ADJ	bn:00108011a;wn:other%3:00:00::
+d000.s051.t009	trigonometric	trigonometric	ADJ	bn:00112111a;wn:trigonometric%3:01:00::
+d000.s051.t010	functions	function	NOUN	bn:00036821n;wiki:function_(mathematics);wiki:map_(mathematics);wiki:single-valued_function;wn:function%1:24:00::;wn:map%1:24:00::;wn:mapping%1:24:00::;wn:mathematical_function%1:24:00::;wn:single-valued_function%1:24:00::
+	,		X	
+d000.s051.t011	sum()	sum	NOUN	bn:00001296n;wiki:addition;wiki:summation;wn:addition%1:04:01::;wn:plus%1:04:00::;wn:summation%1:04:01::
+	or		X	
+d000.s051.t012	product()	product	NOUN	bn:00053827n;wiki:product_(mathematics);wn:mathematical_product%1:09:00::;wn:product%1:09:00::
+	.		X	
+	-end-		X	
+	It		X	
+	does	do	VERB	
+d000.s052.t000	not	not	ADV	bn:00116360r;wn:non%4:02:00::;wn:not%4:02:00::
+d000.s052.t001	matter	matter	VERB	bn:00085860v;wn:count%2:42:00::;wn:matter%2:42:00::;wn:weigh%2:42:03::
+	what		X	
+d000.s052.t002	kind	kind	NOUN	bn:00035907n;wn:form%1:09:01::;wn:kind%1:09:00::;wn:sort%1:09:00::;wn:variety%1:09:01::
+	it		X	
+	is	be	VERB	
+	.		X	
+	-end-		X	
+	We		X	
+	can		X	
+d000.s053.t000	use	use	VERB	bn:00082705v;wn:apply%2:34:00::;wn:employ%2:34:00::;wn:use%2:34:01::;wn:utilise%2:34:00::;wn:utilize%2:34:00::
+d000.s053.t001	plus()	plus	NOUN	bn:00001296n;wiki:addition;wiki:summation;wn:addition%1:04:01::;wn:plus%1:04:00::;wn:summation%1:04:01::
+	,		X	
+d000.s053.t002	times()	times	NOUN	bn:00056300n;wiki:multiplication;wiki:multiplication_sign;wn:multiplication%1:04:00::;wn:times%1:04:00::
+	and		X	
+	everything	everything	NOUN	
+	which		X	
+d000.s053.t003	has	have	VERB	bn:00088078v;bn:00089240v;wn:feature%2:42:00::;wn:have%2:40:00::;wn:have%2:42:00::;wn:have_got%2:40:00::;wn:hold%2:40:00::
+	its		X	
+d000.s053.t004	operator	operator	NOUN	bn:00059141n;bn:03744320n;wiki:operator_(mathematics);wiki:operator_(programming);wn:operator%1:24:00::
+	.		X	
+	kalgebra	kalgebra	NOUN	
+	's	be	VERB	
+	console	console	VERB	
+	is	be	VERB	
+d000.s053.t005	useful	useful	ADJ	bn:00113455a;bn:00113456a;wn:useful%3:00:00::;wn:useful%5:00:00:functional:00;wn:utile%3:00:02::;wn:utilitarian%5:00:00:functional:00
+	as		X	
+	a		X	
+d000.s053.t006	calculator	calculator	NOUN	bn:00946167n;bn:03099895n;bn:03466887n;wiki:calculator_(mac_os);wiki:calculator_(windows);wiki:software_calculator
+	.		X	
+	-end-		X	
+d000.s054.t000	There	there	ADV	bn:00114427r;wn:at_that_place%4:02:00::;wn:in_that_location%4:02:00::;wn:there%4:02:00::
+	you		X	
+d000.s054.t001	have	have	VERB	bn:00088078v;bn:00089240v;wn:feature%2:42:00::;wn:have%2:40:00::;wn:have%2:42:00::;wn:have_got%2:40:00::;wn:hold%2:40:00::
+	a		X	
+d000.s054.t002	list	list	NOUN	bn:00051508n;bn:00051510n;bn:02756908n;wiki:list_(abstract_data_type);wiki:listing_(computer);wiki:sequence_container_(c++);wn:list%1:10:00::;wn:list_processing%1:22:00::;wn:listing%1:10:00::
+	of		X	
+	the		X	
+	declared	declare	VERB	
+d000.s054.t003	variables	variable	NOUN	bn:00079583n;wiki:variable_(computer_science);wn:variable%1:10:00::
+	.		X	
+	-end-		X	
+	By		X	
+	double	double	ADV	
+	clicking	click	VERB	
+	on		X	
+	them		X	
+	you		X	
+	will		X	
+d000.s055.t000	see	see	VERB	bn:00084662v;wn:catch%2:39:02::;wn:see%2:39:03::;wn:take_in%2:39:06::;wn:view%2:39:02::;wn:watch%2:39:05::
+	a		X	
+	dialog	dialog	NOUN	
+	that		X	
+d000.s055.t001	lets	let	VERB	bn:00082536v;wn:allow%2:41:00::;wn:let%2:41:00::;wn:permit%2:41:00::
+	you		X	
+d000.s055.t002	change	change	VERB	bn:00082553v;wn:alter%2:30:01::;wn:change%2:30:01::;wn:modify%2:30:10::
+	their		X	
+d000.s055.t003	values	value	NOUN	bn:00079508n;bn:02743888n;wiki:value_(computer_science);wiki:value_(mathematics);wn:value%1:09:00::
+	(		X	
+d000.s055.t004	just	just	ADV	bn:00114626r;wn:but%4:02:01::;wn:just%4:02:00::;wn:merely%4:02:00::;wn:only%4:02:02::;wn:simply%4:02:00::
+	a		X	
+d000.s055.t005	way	way	NOUN	bn:00001965n;bn:00054625n;wiki:method_(music);wn:agency%1:04:00::;wn:means%1:04:00::;wn:method%1:09:00::;wn:way%1:04:01::
+	to		X	
+d000.s055.t006	trick	trick	VERB	bn:00088310v;wn:flim-flam%2:41:00::;wn:fob%2:41:00::;wn:fox%2:41:00::;wn:play_a_joke_on%2:41:01::;wn:play_a_trick_on%2:41:00::;wn:play_tricks%2:41:00::;wn:pull_a_fast_one_on%2:41:00::;wn:trick%2:41:00::
+	the		X	
+d000.s055.t007	log	log	NOUN	bn:00051831n;wn:log%1:10:02::
+	)		X	
+	.		X	
+	-end-		X	
+	Every		X	
+d000.s056.t000	time	time	NOUN	bn:00019848n;wn:clip%1:11:00::;wn:time%1:11:00::
+	you		X	
+d000.s056.t001	enter	enter	VERB	bn:00087679v;bn:00087681v;wn:enter%2:32:04::;wn:enter%2:35:03::;wn:infix%2:35:01::;wn:insert%2:35:00::;wn:introduce%2:35:00::;wn:put_down%2:32:05::;wn:record%2:32:00::
+	an		X	
+d000.s056.t002	expression	expression	NOUN	bn:00032395n;bn:03834028n;wiki:expression_(computer_science);wiki:expression_(mathematics);wiki:formula;wn:expression%1:10:03::;wn:formula%1:10:00::
+	,		X	
+	the		X	
+	""""		X	
+	ans	ans	ADJ	
+	""""		X	
+d000.s056.t003	variable	variable	NOUN	bn:00079583n;wiki:variable_(computer_science);wn:variable%1:10:00::
+d000.s056.t004	value	value	NOUN	bn:00079508n;bn:02743888n;wiki:value_(computer_science);wiki:value_(mathematics);wn:value%1:09:00::
+	will		X	
+	be	be	VERB	
+d000.s056.t005	changed	change	VERB	bn:00082553v;wn:alter%2:30:01::;wn:change%2:30:01::;wn:modify%2:30:10::
+	to		X	
+	the		X	
+d000.s056.t006	last	last	ADJ	bn:00105739a;bn:00105740a;wn:last%3:00:00::;wn:last%5:00:00:past:00
+d000.s056.t007	result	result	NOUN	bn:00034520n;wn:final_result%1:11:00::;wn:outcome%1:11:00::;wn:result%1:11:00::;wn:resultant%1:11:00::;wn:termination%1:11:00::
+	.		X	
+	-end-		X	
+d000.s057.t000	Ctrl	ctrl	NOUN	bn:00020947n;wiki:command_key;wiki:control_key;wn:command_key%1:06:00::;wn:control_key%1:06:00::
+d000.s057.t001	N	n	NOUN	bn:00056688n;wiki:n;wn:n%1:10:00::
+d000.s057.t002	New	new	ADJ	bn:00107267a;bn:00107270a;wn:new%3:00:00::;wn:new%5:00:00:other:00
+d000.s057.t003	Window	window	NOUN	bn:00081292n;wiki:window_(computing);wn:window%1:06:03::
+	-end-		X	
+	Flushes	flush	VERB	
+	the		X	
+d000.s058.t000	log	log	NOUN	bn:00051831n;wn:log%1:10:02::
+	.		X	
+	-end-		X	
+d000.s059.t000	Ctrl	ctrl	NOUN	bn:00020947n;wiki:command_key;wiki:control_key;wn:command_key%1:06:00::;wn:control_key%1:06:00::
+d000.s059.t001	L	l	NOUN	bn:00049538n;wiki:l;wn:l%1:10:00::
+d000.s059.t002	Load	load	VERB	bn:00090416v;wn:load%2:40:12::
+	Script	script	NOUN	
+	-end-		X	
+d000.s060.t000	Executes	execute	VERB	bn:00082225v;bn:00087107v;wn:accomplish%2:36:00::;wn:action%2:36:00::;wn:carry_out%2:36:00::;wn:carry_through%2:36:00::;wn:do%2:36:01::;wn:execute%2:36:00::;wn:execute%2:36:01::;wn:fulfil%2:36:00::;wn:fulfill%2:36:00::;wn:perform%2:36:00::
+	the		X	
+d000.s060.t001	instructions	instruction	NOUN	bn:00020945n;wiki:command_(computing);wiki:instruction_(computer_science);wiki:statement_(computer_science);wn:command%1:10:01::;wn:instruction%1:10:02::;wn:program_line%1:10:00::;wn:statement%1:10:03::
+	in		X	
+	a		X	
+d000.s060.t002	file	file	NOUN	bn:00021475n;wiki:computer_file;wn:computer_file%1:10:00::
+d000.s060.t003	sequentially	sequentially	ADV	bn:00114819r;wn:consecutive%4:02:00::;wn:sequentially%4:02:00::
+	.		X	
+	-end-		X	
+d000.s061.t000	Nice	nice	ADJ	bn:00107292a;wn:nice%3:00:00::
+	if		X	
+	you		X	
+d000.s061.t001	want	want	VERB	bn:00086682v;wn:desire%2:37:00::;wn:want%2:37:00::
+	to		X	
+d000.s061.t002	define	define	VERB	bn:00086466v;bn:00086468v;wn:define%2:32:01::;wn:define%2:42:01::;wn:determine%2:32:03::;wn:fix%2:32:03::;wn:limit%2:32:00::;wn:set%2:32:00::;wn:specify%2:32:02::
+	some		X	
+d000.s061.t003	libraries	library	NOUN	bn:00050969n;wiki:library_(computing);wn:library%1:14:01::;wn:program_library%1:14:00::;wn:subroutine_library%1:14:00::
+	or		X	
+d000.s061.t004	resume	resume	VERB	bn:00092413v;wn:re-start%2:30:00::;wn:restart%2:30:00::;wn:resume%2:30:00::
+	some		X	
+d000.s061.t005	previous	previous	ADJ	bn:00107791a;wn:old%5:00:00:preceding:00;wn:previous%5:00:00:preceding:00
+d000.s061.t006	work	work	NOUN	bn:00081568n;wn:work%1:04:00::
+	.		X	
+	-end-		X	
+d000.s062.t000	Ctrl	ctrl	NOUN	bn:00020947n;wiki:command_key;wiki:control_key;wn:command_key%1:06:00::;wn:control_key%1:06:00::
+d000.s062.t001	G	g	NOUN	bn:00036962n;wiki:g;wn:g%1:10:00::
+d000.s062.t002	Save	save	VERB	bn:00093281v;wn:save%2:32:04::;wn:write%2:32:03::
+	Script	script	NOUN	
+	-end-		X	
+d000.s063.t000	Saves	save	VERB	bn:00093281v;wn:save%2:32:04::;wn:write%2:32:03::
+	the		X	
+d000.s063.t001	instructions	instruction	NOUN	bn:00020945n;wiki:command_(computing);wiki:instruction_(computer_science);wiki:statement_(computer_science);wn:command%1:10:01::;wn:instruction%1:10:02::;wn:program_line%1:10:00::;wn:statement%1:10:03::
+	you		X	
+	have	have	VERB	
+d000.s063.t002	typed	type	VERB	bn:00095295v;wn:type%2:32:00::;wn:typewrite%2:32:00::
+	since		X	
+	the		X	
+d000.s063.t003	session	session	NOUN	bn:03751534n;wiki:session_(computer_science)
+d000.s063.t004	began	begin	VERB	bn:00083344v;wn:begin%2:42:02::
+	to		X	
+	be	be	VERB	
+d000.s063.t005	able	able	ADJ	bn:00096151a;bn:00096152a;wn:able%3:00:00::;wn:able%5:00:00:competent:00;wn:capable%5:00:00:competent:00
+	to		X	
+d000.s063.t006	reuse	reuse	VERB	bn:00092558v;wn:recycle%2:34:00::;wn:reprocess%2:34:00::;wn:reuse%2:34:00::
+	.		X	
+	-end-		X	
+d000.s064.t000	Generates	generate	VERB	bn:00084080v;wn:bring_forth%2:36:01::;wn:generate%2:36:00::
+d000.s064.t001	text	text	NOUN	bn:00028018n;wiki:documentor;wiki:text_file;wn:document%1:10:01::;wn:text_file%1:10:00::
+d000.s064.t002	files	file	NOUN	bn:00021475n;wiki:computer_file;wn:computer_file%1:10:00::
+	so		X	
+	it		X	
+	should		X	
+	be	be	VERB	
+d000.s064.t003	easy	easy	ADJ	bn:00101973a;wn:easy%3:00:01::
+	to		X	
+d000.s064.t004	fix	fix	VERB	bn:00084308v;wn:bushel%2:30:00::;wn:doctor%2:30:01::;wn:fix%2:30:01::;wn:furbish_up%2:30:00::;wn:mend%2:30:00::;wn:repair%2:30:00::;wn:restore%2:30:01::;wn:touch_on%2:30:00::
+d000.s064.t005	using	use	VERB	bn:00082705v;wn:apply%2:34:00::;wn:employ%2:34:00::;wn:use%2:34:01::;wn:utilise%2:34:00::;wn:utilize%2:34:00::
+	any		X	
+d000.s064.t006	text	text	NOUN	bn:00076736n;wiki:text_editor;wn:text_editor%1:10:00::
+d000.s064.t007	editor	editor	NOUN	bn:00029775n;wn:editor%1:10:00::;wn:editor_program%1:10:00::
+	,		X	
+	like		X	
+	Kate	kate	NOUN	
+	.		X	
+	-end-		X	
+d000.s065.t000	Ctrl	ctrl	NOUN	bn:00020947n;wiki:command_key;wiki:control_key;wn:command_key%1:06:00::;wn:control_key%1:06:00::
+d000.s065.t001	S	s	NOUN	bn:00068673n;wiki:s;wn:s%1:10:00::
+d000.s065.t002	Save	save	VERB	bn:00093281v;wn:save%2:32:04::;wn:write%2:32:03::
+d000.s065.t003	Log	log	NOUN	bn:00051831n;wn:log%1:10:02::
+	-end-		X	
+d000.s066.t000	Saves	save	VERB	bn:00093281v;wn:save%2:32:04::;wn:write%2:32:03::
+	the		X	
+d000.s066.t001	log	log	NOUN	bn:00051831n;wn:log%1:10:02::
+	with		X	
+	all		X	
+d000.s066.t002	results	result	NOUN	bn:00034520n;wn:final_result%1:11:00::;wn:outcome%1:11:00::;wn:result%1:11:00::;wn:resultant%1:11:00::;wn:termination%1:11:00::
+	into		X	
+	an		X	
+d000.s066.t003	HTML	html	NOUN	bn:00045087n;wiki:html;wn:html%1:10:00::;wn:hypertext_mark-up_language%1:10:00::;wn:hypertext_markup_language%1:10:00::
+	file	file	VERB	
+	to		X	
+	be	be	VERB	
+d000.s066.t004	able	able	ADJ	bn:00096151a;bn:00096152a;wn:able%3:00:00::;wn:able%5:00:00:competent:00;wn:capable%5:00:00:competent:00
+	to		X	
+d000.s066.t005	print	print	VERB	bn:00089639v;wn:impress%2:36:00::;wn:print%2:36:00::
+	or		X	
+d000.s066.t006	publish	publish	VERB	bn:00084099v;wn:bring_out%2:32:00::;wn:issue%2:32:00::;wn:publish%2:32:00::;wn:put_out%2:32:00::;wn:release%2:32:00::
+	.		X	
+	-end-		X	
+d000.s067.t000	Ctrl	ctrl	NOUN	bn:00020947n;wiki:command_key;wiki:control_key;wn:command_key%1:06:00::;wn:control_key%1:06:00::
+d000.s067.t001	Q	q	NOUN	bn:00065472n;wiki:q;wn:q%1:10:00::
+d000.s067.t002	Quit	quit	VERB	bn:00084710v;bn:00086603v;wn:cease%2:42:00::;wn:depart%2:38:00::;wn:discontinue%2:42:00::;wn:give_up%2:42:00::;wn:lay_off%2:42:00::;wn:quit%2:38:00::;wn:quit%2:42:04::;wn:stop%2:42:00::;wn:take_leave%2:38:00::
+	-end-		X	
+	Shuts	shut	VERB	
+	the		X	
+d000.s068.t000	program	program	NOUN	bn:00021492n;wiki:computer_program;wiki:program_(machine);wn:computer_program%1:10:00::;wn:computer_programme%1:10:00::;wn:program%1:10:02::;wn:programme%1:10:02::
+d000.s068.t001	down	down	ADV	bn:00115114r;wn:down%4:02:04::
+	.		X	
+	-end-		X	
+	To		X	
+d000.s069.t000	add	add	VERB	bn:00082317v;wn:add%2:30:00::
+	a		X	
+d000.s069.t001	new	new	ADJ	bn:00107267a;bn:00107270a;wn:new%3:00:00::;wn:new%5:00:00:other:00
+	2D	2d	NOUN	
+d000.s069.t002	graph	graph	NOUN	bn:00041412n;wiki:graph_of_a_function;wn:graph%1:10:00::;wn:graphical_record%1:10:00::
+	on		X	
+	kalgebra	kalgebra	NOUN	
+	,		X	
+	what		X	
+	you		X	
+	have	have	VERB	
+	to		X	
+d000.s069.t003	do	do	VERB	bn:00087107v;bn:00087108v;wn:do%2:36:01::;wn:do%2:41:04::;wn:execute%2:36:01::;wn:perform%2:36:00::;wn:perform%2:41:00::
+	is	be	VERB	
+	to		X	
+d000.s069.t004	go	go	VERB	bn:00088912v;wn:go%2:38:00::;wn:locomote%2:38:00::;wn:move%2:38:03::;wn:travel%2:38:00::
+	to		X	
+	the		X	
+	2D	2d	NOUN	
+d000.s069.t005	Graph	graph	NOUN	bn:00041412n;wiki:graph_of_a_function;wn:graph%1:10:00::;wn:graphical_record%1:10:00::
+d000.s069.t006	tab	tab	NOUN	bn:00120018n;wiki:tab_(gui)
+	and		X	
+	click	click	NOUN	
+	in		X	
+	the		X	
+d000.s069.t007	Add	add	VERB	bn:00082317v;wn:add%2:30:00::
+d000.s069.t008	tab	tab	NOUN	bn:00120018n;wiki:tab_(gui)
+	to		X	
+d000.s069.t009	add	add	VERB	bn:00082317v;wn:add%2:30:00::
+	the		X	
+d000.s069.t010	new	new	ADJ	bn:00107267a;bn:00107270a;wn:new%3:00:00::;wn:new%5:00:00:other:00
+d000.s069.t011	function	function	NOUN	bn:00036821n;wiki:function_(mathematics);wiki:map_(mathematics);wiki:single-valued_function;wn:function%1:24:00::;wn:map%1:24:00::;wn:mapping%1:24:00::;wn:mathematical_function%1:24:00::;wn:single-valued_function%1:24:00::
+	.		X	
+	-end-		X	
+d000.s070.t000	Then	then	ADV	bn:00114281r;wn:and_so%4:02:00::;wn:and_then%4:02:00::;wn:so%4:02:09::;wn:then%4:02:00::
+	your		X	
+d000.s070.t001	focus	focus	NOUN	bn:00007023n;bn:00017153n;wiki:attention;wn:attention%1:09:01::;wn:centering%1:09:00::;wn:direction%1:09:01::;wn:focal_point%1:09:00::;wn:focus%1:09:00::;wn:focusing%1:09:00::;wn:focussing%1:09:00::
+	will		X	
+d000.s070.t002	go	go	VERB	bn:00088921v;wn:go%2:30:02::;wn:move%2:30:01::;wn:run%2:30:02::
+	to		X	
+	an		X	
+d000.s070.t003	input	input	NOUN	bn:00046850n;bn:02570242n;wiki:input_(computer_science);wn:input%1:06:00::
+d000.s070.t004	text	text	NOUN	bn:03113401n;wiki:text_box
+d000.s070.t005	box	box	NOUN	bn:00012528n;wn:box%1:25:00::
+	where		X	
+	you		X	
+	can		X	
+d000.s070.t006	type	type	VERB	bn:00095295v;wn:type%2:32:00::;wn:typewrite%2:32:00::
+	your		X	
+d000.s070.t007	function	function	NOUN	bn:00036821n;wiki:function_(mathematics);wiki:map_(mathematics);wiki:single-valued_function;wn:function%1:24:00::;wn:map%1:24:00::;wn:mapping%1:24:00::;wn:mathematical_function%1:24:00::;wn:single-valued_function%1:24:00::
+	.		X	
+	-end-		X	
+	If		X	
+	you		X	
+d000.s071.t000	want	want	VERB	bn:00086682v;wn:desire%2:37:00::;wn:want%2:37:00::
+	to		X	
+d000.s071.t001	use	use	VERB	bn:00082705v;wn:apply%2:34:00::;wn:employ%2:34:00::;wn:use%2:34:01::;wn:utilise%2:34:00::;wn:utilize%2:34:00::
+	a		X	
+d000.s071.t002	typical	typical	ADJ	bn:00112217a;wn:typical%5:00:00:normal:01
+d000.s071.t003	f(x)	f(x)	NOUN	bn:00036821n;wiki:function_(mathematics);wiki:map_(mathematics);wiki:single-valued_function;wn:function%1:24:00::;wn:map%1:24:00::;wn:mapping%1:24:00::;wn:mathematical_function%1:24:00::;wn:single-valued_function%1:24:00::
+	function	function	VERB	
+	it		X	
+	is	be	VERB	
+d000.s071.t004	not	not	ADV	bn:00116360r;wn:non%4:02:00::;wn:not%4:02:00::
+d000.s071.t005	necessary	necessary	ADJ	bn:00107182a;wn:necessary%3:00:00::
+	to		X	
+d000.s071.t006	specify	specify	VERB	bn:00086468v;bn:00091005v;wn:define%2:32:01::;wn:determine%2:32:03::;wn:fix%2:32:03::;wn:limit%2:32:00::;wn:nail_down%2:31:00::;wn:narrow%2:31:00::;wn:narrow_down%2:31:00::;wn:peg_down%2:31:00::;wn:pin_down%2:31:00::;wn:set%2:32:00::;wn:specify%2:31:02::;wn:specify%2:32:02::
+	it		X	
+	.		X	
+	-end-		X	
+	If		X	
+	you		X	
+	have	have	VERB	
+d000.s072.t000	entered	enter	VERB	bn:00087679v;bn:00087681v;wn:enter%2:32:04::;wn:enter%2:35:03::;wn:infix%2:35:01::;wn:insert%2:35:00::;wn:introduce%2:35:00::;wn:put_down%2:32:05::;wn:record%2:32:00::
+	the		X	
+d000.s072.t001	function	function	NOUN	bn:00036821n;wiki:function_(mathematics);wiki:map_(mathematics);wiki:single-valued_function;wn:function%1:24:00::;wn:map%1:24:00::;wn:mapping%1:24:00::;wn:mathematical_function%1:24:00::;wn:single-valued_function%1:24:00::
+	click	click	NOUN	
+	on		X	
+	the		X	
+d000.s072.t002	OK	ok	ADJ	bn:00096817a;wn:all_right%5:00:00:satisfactory:00;wn:fine%5:00:00:satisfactory:00;wn:hunky-dory%5:00:00:satisfactory:00;wn:o.k.%5:00:00:satisfactory:00;wn:ok%5:00:00:satisfactory:00;wn:okay%5:00:00:satisfactory:00
+d000.s072.t003	button	button	NOUN	bn:03843242n;wiki:button_(computing)
+	to		X	
+d000.s072.t004	display	display	VERB	bn:00087013v;wn:display%2:39:00::;wn:exhibit%2:39:01::;wn:expose%2:39:00::
+	the		X	
+d000.s072.t005	graph	graph	NOUN	bn:00041412n;wiki:graph_of_a_function;wn:graph%1:10:00::;wn:graphical_record%1:10:00::
+	in		X	
+	the		X	
+d000.s072.t006	main	main	ADJ	bn:00099598a;wn:chief%5:00:02:important:00;wn:main%5:00:00:important:00;wn:master%5:00:00:important:00;wn:primary%5:00:00:important:00;wn:principal%5:00:00:important:00
+d000.s072.t007	window	window	NOUN	bn:00081292n;wiki:window_(computing);wn:window%1:06:03::
+	.		X	
+	-end-		X	
+	You		X	
+	can		X	
+d000.s073.t000	set	set	VERB	bn:00090224v;wn:lay%2:35:01::;wn:place%2:35:00::;wn:pose%2:35:02::;wn:position%2:35:00::;wn:put%2:35:00::;wn:set%2:35:00::
+d000.s073.t001	several	several	ADJ	bn:00110469a;wn:several%5:00:00:some:00
+d000.s073.t002	graphs	graph	NOUN	bn:00041412n;wiki:graph_of_a_function;wn:graph%1:10:00::;wn:graphical_record%1:10:00::
+	on		X	
+	the		X	
+d000.s073.t003	same	same	ADJ	bn:00110075a;wn:same%3:00:02::
+d000.s073.t004	view	view	NOUN	bn:00079985n;wn:view%1:07:01::
+	.		X	
+	-end-		X	
+d000.s074.t000	Just	just	ADV	bn:00114626r;wn:but%4:02:01::;wn:just%4:02:00::;wn:merely%4:02:00::;wn:only%4:02:02::;wn:simply%4:02:00::
+d000.s074.t001	use	use	VERB	bn:00082705v;wn:apply%2:34:00::;wn:employ%2:34:00::;wn:use%2:34:01::;wn:utilise%2:34:00::;wn:utilize%2:34:00::
+	the		X	
+d000.s074.t002	Add	add	VERB	bn:00082317v;wn:add%2:30:00::
+d000.s074.t003	button	button	NOUN	bn:03843242n;wiki:button_(computing)
+	when		X	
+	you		X	
+	are	be	VERB	
+	in		X	
+d000.s074.t004	List	list	NOUN	bn:00051508n;bn:00051510n;bn:02756908n;wiki:list_(abstract_data_type);wiki:listing_(computer);wiki:sequence_container_(c++);wn:list%1:10:00::;wn:list_processing%1:22:00::;wn:listing%1:10:00::
+d000.s074.t005	mode	mode	NOUN	bn:00055444n;bn:01622345n;wiki:mode_(computer_interface);wn:mode%1:26:00::
+	.		X	
+	-end-		X	
+	You		X	
+	can		X	
+d000.s075.t000	set	set	VERB	bn:00090224v;wn:lay%2:35:01::;wn:place%2:35:00::;wn:pose%2:35:02::;wn:position%2:35:00::;wn:put%2:35:00::;wn:set%2:35:00::
+	each		X	
+d000.s075.t001	graph	graph	NOUN	bn:00041412n;wiki:graph_of_a_function;wn:graph%1:10:00::;wn:graphical_record%1:10:00::
+	its		X	
+	own	own	ADJ	
+d000.s075.t002	color	color	NOUN	bn:00020726n;bn:00020733n;wiki:color;wn:color%1:07:00::;wn:color%1:07:01::;wn:coloring%1:07:00::;wn:colour%1:07:00::;wn:colour%1:07:01::;wn:colouring%1:07:00::
+	.		X	
+	-end-		X	
+	The		X	
+d000.s076.t000	Foundation	foundation	NOUN	bn:00036064n;wn:foundation%1:14:00::
+	has	have	VERB	
+d000.s076.t001	recently	recently	ADV	bn:00116085r;wn:late%4:02:03::;wn:lately%4:02:00::;wn:latterly%4:02:00::;wn:of_late%4:02:00::;wn:recently%4:02:00::
+	been	be	VERB	
+d000.s076.t002	involved	involve	VERB	bn:00089893v;wn:involve%2:42:04::
+	in		X	
+d000.s076.t003	organising	organise	VERB	bn:00091196v;wn:organise%2:41:00::;wn:organize%2:41:00::
+	a		X	
+d000.s076.t004	conference	conference	NOUN	bn:00021721n;wn:conference%1:14:00::
+	which		X	
+d000.s076.t005	dealt	deal	VERB	bn:00084527v;bn:00086332v;wn:care%2:41:11::;wn:deal%2:41:09::;wn:deal%2:41:13::;wn:handle%2:41:00::;wn:manage%2:41:00::
+	with		X	
+	this		X	
+d000.s076.t006	critical	critical	ADJ	bn:00100676a;bn:00100677a;wn:critical%3:00:03::;wn:critical%5:00:00:crucial:00;wn:decisive%5:00:00:crucial:00
+d000.s076.t007	challenge	challenge	NOUN	bn:00017557n;wn:challenge%1:26:00::
+	.		X	
+	-end-		X	
+	Over		X	
+	100		X	
+d000.s077.t000	participants	participant	NOUN	bn:00060798n;wn:participant%1:18:00::
+	from		X	
+	the		X	
+d000.s077.t001	main	main	ADJ	bn:00099598a;wn:chief%5:00:02:important:00;wn:main%5:00:00:important:00;wn:master%5:00:00:important:00;wn:primary%5:00:00:important:00;wn:principal%5:00:00:important:00
+d000.s077.t002	interest	interest	NOUN	bn:00047082n;wiki:advocacy_group;wn:interest%1:14:00::;wn:interest_group%1:14:00::
+d000.s077.t003	groups	group	NOUN	bn:00072536n;wiki:social_group;wn:social_group%1:14:00::
+d000.s077.t004	attended	attend	VERB	bn:00082907v;wn:attend%2:42:00::;wn:go_to%2:42:00::
+	and		X	
+d000.s077.t005	debated	debate	VERB	bn:00086341v;bn:00086342v;wn:debate%2:31:00::;wn:debate%2:32:00::;wn:deliberate%2:32:00::
+d000.s077.t006	issues	issue	NOUN	bn:00047688n;bn:00047690n;wn:issue%1:09:00::;wn:issue%1:09:01::;wn:matter%1:09:00::;wn:subject%1:09:01::;wn:topic%1:09:00::
+d000.s077.t007	such	such	ADV	bn:00115147r;wn:e.g.%4:02:00::;wn:for_example%4:02:00::;wn:for_instance%4:02:00::
+	as	as	ADV	
+	the		X	
+d000.s077.t008	role	role	NOUN	bn:00036823n;bn:00068130n;wiki:role;wn:function%1:04:00::;wn:office%1:04:01::;wn:part%1:04:01::;wn:role%1:04:00::;wn:role%1:04:01::
+	of		X	
+d000.s077.t009	key	key	ADJ	bn:00099258a;wn:cardinal%5:00:00:important:00;wn:central%5:00:00:important:00;wn:fundamental%5:00:00:important:00;wn:key%5:00:00:important:00;wn:primal%5:00:00:important:00
+d000.s077.t010	actors	actor	NOUN	bn:00001177n;bn:00817142n;wiki:actor_(policy_debate);wn:actor%1:18:01::;wn:doer%1:18:00::;wn:worker%1:18:02::
+d000.s077.t011	including	include	VERB	bn:00089660v;bn:00089661v;bn:00089662v;wn:include%2:30:00::;wn:include%2:31:00::;wn:include%2:42:00::
+d000.s077.t012	public	public	ADJ	bn:02575022n;wiki:public-benefit_corporation
+d000.s077.t013	authorities	authority	NOUN	bn:00001961n;bn:00007300n;bn:00007301n;wiki:authority;wiki:government_agency;wiki:office;wn:agency%1:14:00::;wn:authority%1:14:00::;wn:authority%1:18:00::;wn:authority%1:18:01::;wn:bureau%1:14:00::;wn:federal_agency%1:14:00::;wn:government_agency%1:14:00::;wn:office%1:14:01::
+	,		X	
+d000.s077.t014	social	social	ADJ	bn:01623772n;wiki:social_partners
+	partners	partner	NOUN	
+	,		X	
+d000.s077.t015	voluntary	voluntary	ADJ	bn:00113672a;wn:voluntary%3:00:01::
+	and		X	
+d000.s077.t016	community	community	NOUN	bn:03240655n;wiki:community_organization
+d000.s077.t017	organisations	organisation	NOUN	bn:00001423n;bn:00059480n;wiki:organization;wn:administration%1:14:00::;wn:brass%1:14:00::;wn:establishment%1:14:02::;wn:governance%1:14:00::;wn:governing_body%1:14:00::;wn:organisation%1:14:00::;wn:organisation%1:14:01::;wn:organization%1:14:00::;wn:organization%1:14:01::
+d000.s077.t018	as	as	ADV	bn:00114246r;wn:also%4:02:00::;wn:as_well%4:02:01::;wn:besides%4:02:03::;wn:likewise%4:02:01::;wn:too%4:02:01::
+	well	well	ADV	
+	as		X	
+d000.s077.t019	service	service	NOUN	bn:00070651n;bn:00070677n;wiki:service_(economics);wn:service%1:04:08::;wn:services%1:04:00::
+d000.s077.t020	users	user	NOUN	bn:00079373n;wiki:user_(computing);wn:user%1:18:00::
+	.		X	
+	-end-		X	
+	There		X	
+	were	be	VERB	
+d000.s078.t000	relatively	relatively	ADV	bn:00114784r;wn:comparatively%4:02:00::;wn:relatively%4:02:00::
+d000.s078.t001	few	few	ADJ	bn:00102920a;wn:few%3:00:00::
+d000.s078.t002	cases	case	NOUN	bn:00016401n;bn:00016408n;bn:00032100n;wn:case%1:10:02::;wn:case%1:11:00::;wn:example%1:09:02::;wn:example%1:11:00::;wn:instance%1:11:00::;wn:model%1:09:02::
+d000.s078.t003	reported	report	VERB	bn:00092825v;wn:report%2:32:01::
+	of		X	
+d000.s078.t004	attempts	attempt	NOUN	bn:00007011n;wn:attempt%1:04:00::;wn:effort%1:04:00::;wn:endeavor%1:04:00::;wn:endeavour%1:04:00::;wn:try%1:04:00::
+	to		X	
+d000.s078.t005	involve	involve	VERB	bn:00089893v;wn:involve%2:42:04::
+d000.s078.t006	users	user	NOUN	bn:00079373n;wiki:user_(computing);wn:user%1:18:00::
+	in		X	
+d000.s078.t007	service	service	NOUN	bn:00070651n;bn:00070677n;wiki:service_(economics);wn:service%1:04:08::;wn:services%1:04:00::
+d000.s078.t008	planning	planning	NOUN	bn:00062794n;bn:00062795n;wiki:planning;wn:planning%1:04:00::;wn:planning%1:04:02::
+	but		X	
+	their		X	
+d000.s078.t009	involvement	involvement	NOUN	bn:00030844n;wiki:participation_(decision_making);wn:engagement%1:04:00::;wn:involution%1:04:02::;wn:involvement%1:04:00::;wn:participation%1:04:00::
+	in		X	
+d000.s078.t010	service	service	NOUN	bn:00070651n;bn:00070677n;wiki:service_(economics);wn:service%1:04:08::;wn:services%1:04:00::
+d000.s078.t011	provision	provision	NOUN	bn:00064922n;wn:provision%1:04:01::;wn:supply%1:04:00::;wn:supplying%1:04:00::
+	was	be	VERB	
+d000.s078.t012	found	find	VERB	bn:00082811v;bn:00086708v;wn:ascertain%2:32:01::;wn:detect%2:39:00::;wn:determine%2:32:00::;wn:discover%2:39:03::;wn:find%2:32:00::;wn:find%2:39:02::;wn:find_out%2:32:00::;wn:notice%2:39:04::;wn:observe%2:39:02::
+	to		X	
+	be	be	VERB	
+d000.s078.t013	more	more	ADV	bn:00116284r;wn:more%4:02:00::;wn:to_a_greater_extent%4:02:01::
+d000.s078.t014	common	common	ADJ	bn:00100093a;wn:common%5:00:00:familiar:02;wn:usual%5:00:00:familiar:02
+	.		X	
+	-end-		X	
+d000.s079.t000	Note	note	NOUN	bn:00058145n;wn:note%1:10:00::
+	was	be	VERB	
+d000.s079.t001	also	also	ADV	bn:00114246r;wn:also%4:02:00::;wn:as_well%4:02:01::;wn:besides%4:02:03::;wn:likewise%4:02:01::;wn:too%4:02:01::
+	taken	take	VERB	
+	of		X	
+	the		X	
+d000.s079.t002	variety	variety	NOUN	bn:00027862n;wn:diverseness%1:07:00::;wn:diversity%1:07:02::;wn:multifariousness%1:07:00::;wn:variety%1:07:00::
+	of		X	
+d000.s079.t003	different	different	ADJ	bn:00101350a;bn:00101351a;wn:different%3:00:02::;wn:different%5:00:01:other:00;wn:dissimilar%3:00:02::;wn:unlike%3:00:00::
+d000.s079.t004	roles	role	NOUN	bn:00036823n;bn:00068130n;wiki:role;wn:function%1:04:00::;wn:office%1:04:01::;wn:part%1:04:01::;wn:role%1:04:00::;wn:role%1:04:01::
+d000.s079.t005	played	play	VERB	bn:00091709v;wn:play%2:41:12::
+	by		X	
+d000.s079.t006	public	public	ADJ	bn:00065083n;wiki:welfare;wn:public_assistance%1:04:00::;wn:social_welfare%1:04:00::;wn:welfare%1:04:00::
+d000.s079.t007	welfare	welfare	NOUN	bn:00009905n;bn:00065083n;wiki:welfare;wn:benefit%1:07:00::;wn:public_assistance%1:04:00::;wn:social_welfare%1:04:00::;wn:welfare%1:04:00::;wn:welfare%1:07:00::
+	-end-		X	
+	The		X	
+d000.s080.t000	Foundation	foundation	NOUN	bn:00036064n;wn:foundation%1:14:00::
+	organised	organise	NOUN	
+	,		X	
+d000.s080.t001	together	together	ADV	bn:00115794r;bn:00117321r;wn:in_concert%4:02:00::;wn:together%4:02:01::;wn:together%4:02:05::;wn:unitedly%4:02:00::
+	with		X	
+	the		X	
+d000.s080.t002	European	european	ADJ	bn:00102440a;wn:european%3:01:00::
+d000.s080.t003	Commission	commission	NOUN	bn:00021015n;bn:00021019n;wiki:committee;wn:commission%1:14:00::;wn:commission%1:14:01::;wn:committee%1:14:00::;wn:delegacy%1:14:00::;wn:delegation%1:14:00::;wn:deputation%1:14:00::;wn:mission%1:14:00::
+	,		X	
+	the		X	
+d000.s080.t004	Spanish	spanish	ADJ	bn:00110978a;wn:spanish%3:01:00::
+d000.s080.t005	Ministry	ministry	NOUN	bn:00055180n;bn:03743591n;wiki:ministry_(collective_executive);wiki:ministry_(government_department);wn:ministry%1:14:00::
+	of		X	
+d000.s080.t006	Social	social	ADJ	bn:00110842a;wn:social%3:01:00::;wn:societal%3:01:00::
+d000.s080.t007	Affairs	affairs	NOUN	bn:00001739n;wiki:affair;wn:affairs%1:04:00::
+	and		X	
+	the		X	
+	Galician	galician	ADJ	
+d000.s080.t008	regional	regional	ADJ	bn:00001430n;wiki:administrative_division;wn:administrative_district%1:15:00::;wn:administrative_division%1:15:00::;wn:territorial_division%1:15:00::
+d000.s080.t009	government	government	NOUN	bn:00007299n;wiki:government;wiki:regime;wn:authorities%1:14:00::;wn:government%1:14:00::;wn:regime%1:14:00::
+	,		X	
+	a		X	
+d000.s080.t010	European	european	ADJ	bn:00102440a;wn:european%3:01:00::
+d000.s080.t011	conference	conference	NOUN	bn:00021721n;wn:conference%1:14:00::
+	on		X	
+d000.s080.t012	social	social	ADJ	bn:00053403n;wiki:social_exclusion;wn:marginalisation%1:22:00::;wn:marginalization%1:22:00::
+d000.s080.t013	exclusion	exclusion	NOUN	bn:00032152n;wn:exclusion%1:26:00::
+	:		X	
+	a		X	
+d000.s080.t014	major	major	ADJ	bn:00106332a;bn:00106333a;wn:major%3:00:02::;wn:major%3:00:06::
+d000.s080.t015	challenge	challenge	NOUN	bn:00017557n;wn:challenge%1:26:00::
+	for		X	
+d000.s080.t016	public	public	ADJ	bn:00065083n;wiki:welfare;wn:public_assistance%1:04:00::;wn:social_welfare%1:04:00::;wn:welfare%1:04:00::
+d000.s080.t017	welfare	welfare	NOUN	bn:00009905n;bn:00065083n;wiki:welfare;wn:benefit%1:07:00::;wn:public_assistance%1:04:00::;wn:social_welfare%1:04:00::;wn:welfare%1:04:00::;wn:welfare%1:07:00::
+d000.s080.t018	services	service	NOUN	bn:00070651n;bn:00070677n;wiki:service_(economics);wn:service%1:04:08::;wn:services%1:04:00::
+	.		X	
+	-end-		X	
+	The		X	
+d000.s081.t000	Foundation	foundation	NOUN	bn:00036064n;wn:foundation%1:14:00::
+d000.s081.t001	recently	recently	ADV	bn:00116085r;wn:late%4:02:03::;wn:lately%4:02:00::;wn:latterly%4:02:00::;wn:of_late%4:02:00::;wn:recently%4:02:00::
+d000.s081.t002	published	publish	VERB	bn:00084099v;bn:00092023v;wn:bring_out%2:32:00::;wn:issue%2:32:00::;wn:print%2:36:02::;wn:publish%2:32:00::;wn:publish%2:36:01::;wn:put_out%2:32:00::;wn:release%2:32:00::
+	a		X	
+d000.s081.t003	comparative	comparative	ADJ	bn:00100121a;wn:comparative%3:01:00::
+d000.s081.t004	study	study	NOUN	bn:00067181n;wiki:report;wn:report%1:10:03::;wn:study%1:10:00::;wn:written_report%1:10:00::
+	as		X	
+d000.s081.t005	part	part	NOUN	bn:00027912n;wn:division%1:09:00::;wn:part%1:09:00::;wn:section%1:09:00::
+	of		X	
+	the		X	
+	EPOC	epoc	NOUN	
+d000.s081.t006	project	project	NOUN	bn:00064665n;wn:project%1:09:00::;wn:projection%1:09:00::
+	which		X	
+d000.s081.t007	assesses	assess	VERB	bn:00082720v;wn:appraise%2:31:01::;wn:assess%2:31:00::;wn:evaluate%2:31:00::;wn:measure%2:31:01::;wn:valuate%2:31:00::;wn:value%2:31:00::
+	the		X	
+d000.s081.t008	extent	extent	NOUN	bn:00032425n;wn:extent%1:26:00::
+	to		X	
+	which		X	
+d000.s081.t009	direct	direct	ADJ	bn:00101412a;wn:direct%5:00:00:immediate:00;wn:unmediated%5:00:00:immediate:00
+d000.s081.t010	participation	participation	NOUN	bn:00030844n;wiki:participation_(decision_making);wn:engagement%1:04:00::;wn:involution%1:04:02::;wn:involvement%1:04:00::;wn:participation%1:04:00::
+	can		X	
+d000.s081.t011	humanise	humanise	VERB	bn:00089511v;wn:humanise%2:37:00::;wn:humanize%2:37:00::
+d000.s081.t012	work	work	NOUN	bn:00014138n;wiki:job_(role);wn:business%1:04:00::;wn:job%1:04:00::;wn:line%1:04:00::;wn:line_of_work%1:04:00::;wn:occupation%1:04:00::
+	while		X	
+d000.s081.t013	increasing	increase	VERB	bn:00089667v;wn:increase%2:30:02::
+d000.s081.t014	profitability	profitability	NOUN	bn:00037027n;wn:gainfulness%1:07:00::;wn:lucrativeness%1:07:00::;wn:profitability%1:07:00::;wn:profitableness%1:07:00::
+	.		X	
+	-end-		X	
+	The		X	
+d000.s082.t000	study	study	NOUN	bn:00074790n;wn:study%1:04:00::;wn:survey%1:04:02::
+	is	be	VERB	
+d000.s082.t001	based	base	VERB	bn:00083141v;wn:base%2:31:00::;wn:establish%2:31:03::;wn:found%2:31:00::;wn:ground%2:31:00::
+	on		X	
+	195		X	
+d000.s082.t002	personal	personal	ADJ	bn:00108489a;wn:personal%5:00:00:subjective:00
+d000.s082.t003	interviews	interview	NOUN	bn:00047238n;wiki:interview;wn:interview%1:10:01::
+	with		X	
+d000.s082.t004	senior	senior	ADJ	bn:00110401a;wn:senior%3:00:00::
+d000.s082.t005	officials	official	NOUN	bn:00036837n;wiki:official;wn:functionary%1:18:00::;wn:official%1:18:01::
+	of		X	
+	the		X	
+d000.s082.t006	social	social	ADJ	bn:00110842a;wn:social%3:01:00::;wn:societal%3:01:00::
+	partners	partner	NOUN	
+	as		X	
+d000.s082.t007	representatives	representative	NOUN	bn:00047203n;bn:00067199n;wn:interpreter%1:18:00::;wn:representative%1:18:00::;wn:representative%1:18:02::;wn:spokesperson%1:18:00::;wn:voice%1:18:00::
+	of		X	
+d000.s082.t008	national	national	ADJ	bn:00107136a;bn:00107137a;bn:00107138a;wn:national%3:00:00::;wn:national%3:00:01::;wn:national%3:01:00::
+d000.s082.t009	level	level	NOUN	bn:00041239n;wn:grade%1:26:00::;wn:level%1:26:01::;wn:tier%1:26:00::
+	peak	peak	NOUN	
+d000.s082.t010	organisations	organisation	NOUN	bn:00001423n;bn:00059480n;wiki:organization;wn:administration%1:14:00::;wn:brass%1:14:00::;wn:establishment%1:14:02::;wn:governance%1:14:00::;wn:governing_body%1:14:00::;wn:organisation%1:14:00::;wn:organisation%1:14:01::;wn:organization%1:14:00::;wn:organization%1:14:01::
+	in		X	
+d000.s082.t011	fifteen	fifteen	ADJ	bn:00095923a;wn:15%5:00:00:cardinal:00;wn:fifteen%5:00:00:cardinal:00;wn:xv%5:00:00:cardinal:00
+d000.s082.t012	European	european	ADJ	bn:00102440a;wn:european%3:01:00::
+d000.s082.t013	countries	country	NOUN	bn:00011771n;bn:00023235n;wiki:country;wiki:sovereign_state;wiki:state_(polity);wn:body_politic%1:14:00::;wn:commonwealth%1:14:00::;wn:country%1:14:00::;wn:country%1:15:00::;wn:land%1:14:00::;wn:land%1:15:02::;wn:nation%1:14:00::;wn:res_publica%1:14:00::;wn:state%1:14:00::;wn:state%1:15:00::
+	.		X	
+	-end-		X	
+	As		X	
+d000.s083.t000	important	important	ADJ	bn:00104680a;wn:important%3:00:00::;wn:of_import%3:00:00::
+d000.s083.t001	industrial	industrial	ADJ	bn:00046576n;bn:00663898n;wiki:industry;wiki:secondary_sector_of_the_economy;wn:industry%1:04:00::;wn:manufacture%1:04:00::
+d000.s083.t002	sectors	sector	NOUN	bn:00070206n;bn:00374921n;wiki:economic_sector;wn:sector%1:14:00::
+	,		X	
+	the		X	
+d000.s083.t003	metal	metal	NOUN	bn:00054567n;wiki:metalworking;wn:metalwork%1:04:00::;wn:metalworking%1:04:00::
+d000.s083.t004	industry	industry	NOUN	bn:00046575n;bn:00046576n;wiki:industry;wn:industry%1:04:00::;wn:industry%1:14:00::;wn:manufacture%1:04:00::
+	and		X	
+	the		X	
+d000.s083.t005	banking	banking	NOUN	bn:00008412n;wiki:bank;wn:banking%1:04:01::
+d000.s083.t006	sector	sector	NOUN	bn:00070206n;bn:00374921n;wiki:economic_sector;wn:sector%1:14:00::
+	were	be	VERB	
+d000.s083.t007	also	also	ADV	bn:00114246r;wn:also%4:02:00::;wn:as_well%4:02:01::;wn:besides%4:02:03::;wn:likewise%4:02:01::;wn:too%4:02:01::
+d000.s083.t008	included	include	VERB	bn:00089660v;bn:00089661v;bn:00089662v;wn:include%2:30:00::;wn:include%2:31:00::;wn:include%2:42:00::
+	.		X	
+	-end-		X	
+	Key	key	NOUN	
+d000.s084.t000	speakers	speaker	NOUN	bn:00073170n;wn:speaker%1:18:00::;wn:talker%1:18:00::;wn:utterer%1:18:00::;wn:verbaliser%1:18:00::;wn:verbalizer%1:18:00::
+	at		X	
+	the		X	
+d000.s084.t001	social	social	ADJ	bn:00053403n;wiki:social_exclusion;wn:marginalisation%1:22:00::;wn:marginalization%1:22:00::
+d000.s084.t002	exclusion	exclusion	NOUN	bn:00032152n;wn:exclusion%1:26:00::
+d000.s084.t003	conference	conference	NOUN	bn:00021721n;wn:conference%1:14:00::
+	were	be	VERB	
+	(		X	
+d000.s084.t004	left	left	NOUN	bn:00050521n;wiki:relative_direction;wn:left%1:15:00::
+	to		X	
+d000.s084.t005	right	right	NOUN	bn:00067808n;wiki:relative_direction;wn:right%1:15:00::
+	)		X	
+	Cristina	cristina	NOUN	
+	Louro	louro	NOUN	
+	,		X	
+d000.s084.t006	Employment	employment	NOUN	bn:00030625n;bn:00030626n;wn:employment%1:04:00::;wn:employment%1:04:02::;wn:engagement%1:04:02::;wn:work%1:04:01::
+	,		X	
+d000.s084.t007	Industrial	industrial	ADJ	bn:01869079n;wiki:industrial_relations
+d000.s084.t008	Relations	relations	NOUN	bn:00025569n;wn:dealings%1:24:00::;wn:relations%1:24:00::
+	and		X	
+d000.s084.t009	Social	social	ADJ	bn:00072552n;wiki:social_work;wn:social_service%1:04:00::;wn:welfare_work%1:04:00::
+d000.s084.t010	Affairs	affair	NOUN	bn:00001738n;bn:00001739n;wiki:affair;wn:affairs%1:04:00::;wn:affairs%1:09:00::;wn:personal_business%1:09:00::;wn:personal_matters%1:09:00::
+d000.s084.t011	Directorate	directorate	NOUN	bn:00011651n;wiki:directorate_(russia);wn:board_of_directors%1:14:00::;wn:directorate%1:14:00::
+	,		X	
+d000.s084.t012	European	european	ADJ	bn:00102440a;wn:european%3:01:00::
+d000.s084.t013	Commission	commission	NOUN	bn:00021015n;bn:00021019n;wiki:committee;wn:commission%1:14:00::;wn:commission%1:14:01::;wn:committee%1:14:00::;wn:delegacy%1:14:00::;wn:delegation%1:14:00::;wn:deputation%1:14:00::;wn:mission%1:14:00::
+	Fernando	fernando	NOUN	
+	Gomes	gomes	NOUN	
+	,		X	
+	a		X	
+d000.s084.t014	high	high	ADJ	bn:00102158a;wn:eminent%5:00:00:superior:01;wn:high%5:00:00:superior:01
+	degree	degree	NOUN	
+	of		X	
+d000.s084.t015	Committee	committee	NOUN	bn:00021015n;wiki:committee;wn:commission%1:14:00::;wn:committee%1:14:00::
+	of		X	
+	the		X	
+d000.s084.t016	Regions	region	NOUN	bn:03359468n;wiki:region_(europe)
+	Barbara	barbara	NOUN	
+	Weiler	weiler	NOUN	
+	,		X	
+d000.s084.t017	Member	member	NOUN	bn:00034004n;wn:fellow_member%1:18:00::;wn:member%1:18:00::
+	of		X	
+	the		X	
+d000.s084.t018	European	european	ADJ	bn:00102440a;wn:european%3:01:00::
+d000.s084.t019	Parliament	parliament	NOUN	bn:00060708n;wiki:parliament;wn:parliament%1:14:00::
+	José	josé	NOUN	
+	Maria	Maria	NOUN	
+	Gil-Robles	gil-robles	NOUN	
+	,		X	
+d000.s084.t020	Vice-President	vice-president	NOUN	bn:00079435n;wiki:vice_president;wn:v.p.%1:18:00::;wn:vice_president%1:18:00::
+	,		X	
+d000.s084.t021	European	european	ADJ	bn:00102440a;wn:european%3:01:00::
+d000.s084.t022	Parliament	parliament	NOUN	bn:00060708n;wiki:parliament;wn:parliament%1:14:00::
+	and	and	NOUN	
+	John	john	NOUN	
+	Carroll	carroll	NOUN	
+	,		X	
+d000.s084.t023	Economic	economic	ADJ	bn:00102001a;wn:economic%3:01:01::;wn:economical%3:01:00::
+	and		X	
+d000.s084.t024	Social	social	ADJ	bn:00110842a;wn:social%3:01:00::;wn:societal%3:01:00::
+d000.s084.t025	Committee	committee	NOUN	bn:00021015n;wiki:committee;wn:commission%1:14:00::;wn:committee%1:14:00::
+	.		X	
+	-end-		X	
+d000.s085.t000	Case	case	NOUN	bn:00016433n;bn:00016434n;bn:02395950n;wiki:case_example;wiki:case_study;wn:case_study%1:04:00::;wn:case_study%1:10:00::
+d000.s085.t001	Studies	study	NOUN	bn:00074790n;wn:study%1:04:00::;wn:survey%1:04:02::
+	Each		X	
+d000.s085.t002	national	national	ADJ	bn:00107136a;bn:00107137a;bn:00107138a;wn:national%3:00:00::;wn:national%3:00:01::;wn:national%3:01:00::
+d000.s085.t003	report	report	NOUN	bn:00067181n;wiki:report;wn:report%1:10:03::;wn:study%1:10:00::;wn:written_report%1:10:00::
+d000.s085.t004	contains	contain	VERB	bn:00085499v;wn:comprise%2:42:00::;wn:contain%2:42:00::;wn:incorporate%2:42:00::
+	a		X	
+d000.s085.t005	portfolio	portfolio	NOUN	bn:00063673n;wn:portfolio%1:14:00::
+	of		X	
+	between		X	
+	25		X	
+	and		X	
+	30		X	
+d000.s085.t006	initiatives	initiative	NOUN	bn:00034797n;wiki:initiative_(chess);wn:first_step%1:04:00::;wn:initiative%1:04:00::;wn:opening%1:04:03::;wn:opening_move%1:04:00::
+	which		X	
+	best	good	ADJ	
+d000.s085.t007	present	present	VERB	bn:00090234v;wn:lay_out%2:32:00::;wn:present%2:32:00::;wn:represent%2:32:11::
+d000.s085.t008	policies	policy	NOUN	bn:00063329n;wn:policy%1:09:00::
+	and		X	
+d000.s085.t009	practices	practice	NOUN	bn:00061054n;wn:pattern%1:04:00::;wn:practice%1:04:00::
+	to		X	
+d000.s085.t010	improve	improve	VERB	bn:00082573v;wn:ameliorate%2:30:01::;wn:amend%2:30:00::;wn:better%2:30:01::;wn:improve%2:30:01::;wn:meliorate%2:30:01::
+	the		X	
+d000.s085.t011	recruitment	recruitment	NOUN	bn:00030933n;wiki:enlisted_rank;wiki:recruitment;wn:enlisting%1:04:00::;wn:recruitment%1:04:00::
+	,		X	
+d000.s085.t012	training	training	NOUN	bn:01253664n;wiki:training_and_development
+	and		X	
+d000.s085.t013	development	development	NOUN	bn:00026695n;wn:development%1:04:01::
+	of		X	
+d000.s085.t014	ageing	age	VERB	bn:00082449v;wn:age%2:30:01::
+d000.s085.t015	workers	worker	NOUN	bn:00081593n;wn:worker%1:18:00::
+	in		X	
+	both		X	
+	the		X	
+d000.s085.t016	work	work	NOUN	bn:00014138n;wiki:job_(role);wn:business%1:04:00::;wn:job%1:04:00::;wn:line%1:04:00::;wn:line_of_work%1:04:00::;wn:occupation%1:04:00::
+d000.s085.t017	place	place	NOUN	bn:00051760n;wiki:location_(geography);wn:location%1:03:00::
+	and		X	
+	the		X	
+d000.s085.t018	community	community	NOUN	bn:00021248n;wiki:communities;wiki:residential_community;wn:community%1:14:00::
+	.		X	
+	-end-		X	
+	For		X	
+	each		X	
+d000.s086.t000	country	country	NOUN	bn:00011771n;bn:00023235n;wiki:country;wiki:sovereign_state;wiki:state_(polity);wn:body_politic%1:14:00::;wn:commonwealth%1:14:00::;wn:country%1:14:00::;wn:country%1:15:00::;wn:land%1:14:00::;wn:land%1:15:02::;wn:nation%1:14:00::;wn:res_publica%1:14:00::;wn:state%1:14:00::;wn:state%1:15:00::
+	,		X	
+	two		X	
+	or		X	
+	three		X	
+d000.s086.t001	initiatives	initiative	NOUN	bn:00034797n;wiki:initiative_(chess);wn:first_step%1:04:00::;wn:initiative%1:04:00::;wn:opening%1:04:03::;wn:opening_move%1:04:00::
+	have	have	VERB	
+	been	be	VERB	
+d000.s086.t002	selected	select	VERB	bn:00084931v;wn:choose%2:31:00::;wn:pick_out%2:31:00::;wn:select%2:31:00::;wn:take%2:31:01::
+	for		X	
+d000.s086.t003	further	further	ADJ	bn:00102794a;wn:farther%5:00:02:far:00;wn:further%5:00:00:far:00
+	in		X	
+d000.s086.t004	depth	depth	NOUN	bn:00026418n;bn:00026421n;wn:depth%1:07:01::;wn:depth%1:07:02::
+d000.s086.t005	case	case	NOUN	bn:00016433n;bn:00016434n;bn:02395950n;wiki:case_example;wiki:case_study;wn:case_study%1:04:00::;wn:case_study%1:10:00::
+d000.s086.t006	study	study	NOUN	bn:00074790n;wn:study%1:04:00::;wn:survey%1:04:02::
+	.		X	
+	-end-		X	
+	These		X	
+d000.s087.t000	case	case	NOUN	bn:00016433n;bn:00016434n;bn:02395950n;wiki:case_example;wiki:case_study;wn:case_study%1:04:00::;wn:case_study%1:10:00::
+d000.s087.t001	studies	study	NOUN	bn:00074790n;wn:study%1:04:00::;wn:survey%1:04:02::
+d000.s087.t002	analysed	analyse	VERB	bn:00082596v;bn:00082597v;wn:analyse%2:31:00::;wn:analyse%2:31:04::;wn:analyze%2:31:00::;wn:analyze%2:31:04::;wn:canvas%2:31:02::;wn:canvass%2:31:02::;wn:examine%2:31:00::;wn:study%2:31:02::
+	the		X	
+d000.s087.t003	background	background	NOUN	bn:00007783n;bn:00007786n;wiki:prior_art;wn:background%1:09:01::;wn:background%1:26:00::;wn:background_knowledge%1:09:00::;wn:scope%1:26:00::;wn:setting%1:26:00::
+	of		X	
+	the		X	
+d000.s087.t004	initiatives	initiative	NOUN	bn:00034797n;wiki:initiative_(chess);wn:first_step%1:04:00::;wn:initiative%1:04:00::;wn:opening%1:04:03::;wn:opening_move%1:04:00::
+	,		X	
+	their		X	
+d000.s087.t005	impact	impact	NOUN	bn:00030709n;bn:00046065n;wn:encroachment%1:04:02::;wn:impact%1:04:00::;wn:impact%1:19:00::;wn:impingement%1:04:00::;wn:wallop%1:19:00::
+	on		X	
+d000.s087.t006	employment	employment	NOUN	bn:00030626n;wn:employment%1:04:02::;wn:engagement%1:04:02::
+d000.s087.t007	patterns	pattern	NOUN	bn:00061054n;bn:00061055n;wn:pattern%1:04:00::;wn:pattern%1:09:01::;wn:practice%1:04:00::
+	and		X	
+d000.s087.t008	work	work	NOUN	bn:00014138n;bn:00081568n;wiki:job_(role);wn:business%1:04:00::;wn:job%1:04:00::;wn:line%1:04:00::;wn:line_of_work%1:04:00::;wn:occupation%1:04:00::;wn:work%1:04:00::
+d000.s087.t009	organisations	organisation	NOUN	bn:00001423n;wn:administration%1:14:00::;wn:brass%1:14:00::;wn:establishment%1:14:02::;wn:governance%1:14:00::;wn:governing_body%1:14:00::;wn:organisation%1:14:01::;wn:organization%1:14:01::
+	and		X	
+d000.s087.t010	assessed	assess	VERB	bn:00082720v;wn:appraise%2:31:01::;wn:assess%2:31:00::;wn:evaluate%2:31:00::;wn:measure%2:31:01::;wn:valuate%2:31:00::;wn:value%2:31:00::
+	the		X	
+d000.s087.t011	benefits	benefit	NOUN	bn:00037022n;wn:gain%1:07:02::;wn:profit%1:07:00::
+	and		X	
+d000.s087.t012	problems	problem	NOUN	bn:00048242n;bn:09482133n;wiki:problem;wn:job%1:26:00::;wn:problem%1:26:00::
+	of		X	
+	the		X	
+d000.s087.t013	initiative	initiative	NOUN	bn:00034797n;wiki:initiative_(chess);wn:first_step%1:04:00::;wn:initiative%1:04:00::;wn:opening%1:04:03::;wn:opening_move%1:04:00::
+	.		X	
+	-end-		X	
+d000.s088.t000	Visits	visit	NOUN	bn:00080113n;wn:visit%1:04:01::
+	and		X	
+d000.s088.t001	interviews	interview	NOUN	bn:00047238n;wiki:interview;wn:interview%1:10:01::
+	with		X	
+d000.s088.t002	key	key	ADJ	bn:00099258a;wn:cardinal%5:00:00:important:00;wn:central%5:00:00:important:00;wn:fundamental%5:00:00:important:00;wn:key%5:00:00:important:00;wn:primal%5:00:00:important:00
+d000.s088.t003	personnel	personnel	NOUN	bn:00035770n;wn:force%1:14:00::;wn:personnel%1:14:00::
+	were	be	VERB	
+d000.s088.t004	also	also	ADV	bn:00114246r;wn:also%4:02:00::;wn:as_well%4:02:01::;wn:besides%4:02:03::;wn:likewise%4:02:01::;wn:too%4:02:01::
+d000.s088.t005	undertaken	undertake	VERB	bn:00082906v;bn:00094722v;wn:attempt%2:36:00::;wn:set_about%2:36:00::;wn:tackle%2:41:00::;wn:take_on%2:41:00::;wn:undertake%2:36:00::;wn:undertake%2:41:01::
+	.		X	
+	-end-		X	
+	These		X	
+d000.s089.t000	national	national	ADJ	bn:00107136a;bn:00107137a;bn:00107138a;wn:national%3:00:00::;wn:national%3:00:01::;wn:national%3:01:00::
+d000.s089.t001	studies	study	NOUN	bn:00074790n;wn:study%1:04:00::;wn:survey%1:04:02::
+	will		X	
+d000.s089.t002	form	form	VERB	bn:00085670v;wn:constitute%2:42:03::;wn:form%2:42:00::;wn:make%2:42:05::
+	the		X	
+d000.s089.t003	basis	basis	NOUN	bn:00008790n;wn:base%1:24:00::;wn:basis%1:24:01::
+	of		X	
+	a		X	
+d000.s089.t004	European	european	ADJ	bn:00102440a;wn:european%3:01:00::
+d000.s089.t005	report	report	NOUN	bn:00067181n;wiki:report;wn:report%1:10:03::;wn:study%1:10:00::;wn:written_report%1:10:00::
+	which		X	
+d000.s089.t006	synthesises	synthesise	VERB	bn:00094713v;wn:synthesise%2:31:00::;wn:synthesize%2:31:00::
+d000.s089.t007	overall	overall	ADJ	bn:00108083a;bn:00108084a;wn:overall%5:00:00:general:00;wn:overall%5:00:00:gross:00
+d000.s089.t008	practices	practice	NOUN	bn:00061054n;wn:pattern%1:04:00::;wn:practice%1:04:00::
+	.		X	
+	-end-		X	
+	The		X	
+d000.s090.t000	report	report	NOUN	bn:00067181n;wiki:report;wn:report%1:10:03::;wn:study%1:10:00::;wn:written_report%1:10:00::
+	and		X	
+	a		X	
+d000.s090.t001	case	case	NOUN	bn:00016435n;wiki:casebook;wn:casebook%1:10:00::
+d000.s090.t002	book	book	NOUN	bn:00012059n;wiki:book;wn:book%1:10:00::
+	of		X	
+d000.s090.t003	initiatives	initiative	NOUN	bn:00034797n;wiki:initiative_(chess);wn:first_step%1:04:00::;wn:initiative%1:04:00::;wn:opening%1:04:03::;wn:opening_move%1:04:00::
+	will		X	
+	be	be	VERB	
+d000.s090.t004	published	publish	VERB	bn:00084099v;bn:00092023v;wn:bring_out%2:32:00::;wn:issue%2:32:00::;wn:print%2:36:02::;wn:publish%2:32:00::;wn:publish%2:36:01::;wn:put_out%2:32:00::;wn:release%2:32:00::
+	in		X	
+	1996		X	
+	and		X	
+d000.s090.t005	provide	provide	VERB	bn:00084692v;wn:cater%2:34:00::;wn:ply%2:34:00::;wn:provide%2:34:00::;wn:supply%2:34:00::
+	the		X	
+	backdrop	backdrop	NOUN	
+	for		X	
+	a		X	
+d000.s090.t006	conference	conference	NOUN	bn:00021721n;wn:conference%1:14:00::
+	to		X	
+	be	be	VERB	
+d000.s090.t007	staged	stage	VERB	bn:00082779v;wn:arrange%2:36:03::;wn:stage%2:36:01::
+	in		X	
+d000.s090.t008	Autumn	autumn	NOUN	bn:00007406n;wiki:autumn;wn:autumn%1:28:00::;wn:fall%1:28:00::
+	,		X	
+	1996		X	
+	.		X	
+	-end-		X	
+	The		X	
+d000.s091.t000	Foundation	foundation	NOUN	bn:00036064n;wn:foundation%1:14:00::
+d000.s091.t001	aims	aim	VERB	bn:00082486v;wn:aim%2:31:01::;wn:propose%2:31:01::;wn:purport%2:31:00::;wn:purpose%2:31:01::
+	to		X	
+d000.s091.t002	document	document	VERB	bn:00087137v;wn:document%2:32:00::
+	the		X	
+d000.s091.t003	characteristics	characteristic	NOUN	bn:00017761n;bn:00017762n;wn:characteristic%1:07:00::;wn:characteristic%1:09:00::;wn:feature%1:09:00::
+	of		X	
+d000.s091.t004	age	age	NOUN	bn:00001936n;bn:09488531n;wn:age%1:07:00::
+d000.s091.t005	barriers	barrier	NOUN	bn:00008714n;wn:barrier%1:09:00::;wn:roadblock%1:09:00::
+	in		X	
+d000.s091.t006	job	job	NOUN	bn:00014138n;bn:00030625n;wiki:job_(role);wn:business%1:04:00::;wn:employment%1:04:00::;wn:job%1:04:00::;wn:line%1:04:00::;wn:line_of_work%1:04:00::;wn:occupation%1:04:00::;wn:work%1:04:01::
+d000.s091.t007	recruitment	recruitment	NOUN	bn:00030933n;wiki:enlisted_rank;wiki:recruitment;wn:enlisting%1:04:00::;wn:recruitment%1:04:00::
+	and		X	
+d000.s091.t008	training	training	NOUN	bn:00041853n;wiki:training;wn:grooming%1:04:01::;wn:preparation%1:04:00::;wn:training%1:04:00::
+	and		X	
+	to		X	
+d000.s091.t009	analyse	analyse	VERB	bn:00082596v;bn:00082597v;wn:analyse%2:31:00::;wn:analyse%2:31:04::;wn:analyze%2:31:00::;wn:analyze%2:31:04::;wn:canvas%2:31:02::;wn:canvass%2:31:02::;wn:examine%2:31:00::;wn:study%2:31:02::
+	their		X	
+d000.s091.t010	causes	cause	NOUN	bn:00016850n;wn:cause%1:11:00::
+	.		X	
+	-end-		X	
+	The		X	
+d000.s092.t000	perspectives	perspective	NOUN	bn:00061746n;wn:perspective%1:09:00::;wn:position%1:09:00::;wn:view%1:09:02::
+	of		X	
+	the		X	
+d000.s092.t001	social	social	ADJ	bn:01623772n;wiki:social_partners
+	partners	partner	NOUN	
+	is	be	VERB	
+d000.s092.t002	also	also	ADV	bn:00114246r;wn:also%4:02:00::;wn:as_well%4:02:01::;wn:besides%4:02:03::;wn:likewise%4:02:01::;wn:too%4:02:01::
+	being	be	VERB	
+d000.s092.t003	examined	examine	VERB	bn:00082596v;bn:00087788v;wn:analyse%2:31:00::;wn:analyze%2:31:00::;wn:canvas%2:31:02::;wn:canvass%2:31:02::;wn:examine%2:31:00::;wn:examine%2:32:01::;wn:probe%2:32:00::;wn:study%2:31:02::
+	,		X	
+	with		X	
+d000.s092.t004	particular	particular	ADJ	bn:00102398a;wn:especial%5:00:00:uncommon:00;wn:exceptional%5:00:00:uncommon:00;wn:particular%5:00:00:uncommon:00;wn:special%5:00:00:uncommon:00
+d000.s092.t005	attention	attention	NOUN	bn:00007020n;wn:attending%1:09:00::;wn:attention%1:09:00::
+d000.s092.t006	paid	pay	VERB	bn:00086761v;bn:00088817v;wn:devote%2:31:00::;wn:give%2:31:02::;wn:give%2:32:01::;wn:pay%2:31:00::;wn:pay%2:32:00::
+	to		X	
+d000.s092.t007	proposals	proposal	NOUN	bn:00064776n;wn:proposal%1:10:00::
+	for		X	
+d000.s092.t008	removing	remove	VERB	bn:00088783v;bn:00092783v;wn:get_rid_of%2:40:01::;wn:remove%2:30:00::;wn:remove%2:40:00::;wn:take%2:30:00::;wn:take_away%2:30:01::;wn:withdraw%2:30:01::
+d000.s092.t009	age	age	NOUN	bn:00001936n;bn:09488531n;wn:age%1:07:00::
+d000.s092.t010	barriers	barrier	NOUN	bn:00008714n;wn:barrier%1:09:00::;wn:roadblock%1:09:00::
+	.		X	
+	-end-		X	
+d000.s093.t000	Thirdly	thirdly	ADV	bn:00117283r;wn:third%4:02:00::;wn:thirdly%4:02:00::
+	,		X	
+	the		X	
+d000.s093.t001	project	project	NOUN	bn:00064665n;wn:project%1:09:00::;wn:projection%1:09:00::
+	documents	document	NOUN	
+	and		X	
+d000.s093.t002	assesses	assess	VERB	bn:00082720v;wn:appraise%2:31:01::;wn:assess%2:31:00::;wn:evaluate%2:31:00::;wn:measure%2:31:01::;wn:valuate%2:31:00::;wn:value%2:31:00::
+d000.s093.t003	initiatives	initiative	NOUN	bn:00034797n;wiki:initiative_(chess);wn:first_step%1:04:00::;wn:initiative%1:04:00::;wn:opening%1:04:03::;wn:opening_move%1:04:00::
+	,		X	
+	in		X	
+	both		X	
+	the		X	
+d000.s093.t004	public	public	ADJ	bn:00109211a;bn:00109212a;wn:public%3:00:00::;wn:public%5:00:00:common:02
+	and		X	
+d000.s093.t005	private	private	ADJ	bn:01861730n;wiki:private_sector
+d000.s093.t006	sectors	sector	NOUN	bn:00070206n;bn:00374921n;wiki:economic_sector;wn:sector%1:14:00::
+	which		X	
+	combat	combat	NOUN	
+d000.s093.t007	age	age	NOUN	bn:00001936n;bn:09488531n;wn:age%1:07:00::
+d000.s093.t008	barriers	barrier	NOUN	bn:00008714n;wn:barrier%1:09:00::;wn:roadblock%1:09:00::
+	,		X	
+d000.s093.t009	especially	especially	ADV	bn:00115235r;wn:especially%4:02:00::;wn:particularly%4:02:00::;wn:peculiarly%4:02:02::;wn:specially%4:02:00::
+	for		X	
+d000.s093.t010	older	old	ADJ	bn:00096644a;bn:00107786a;bn:00107789a;wn:aged%5:00:01:old:02;wn:elderly%5:00:00:old:02;wn:old%3:00:02::;wn:old%5:00:00:experienced:00;wn:older%5:00:00:experienced:00;wn:older%5:00:00:old:02;wn:senior%5:00:00:old:02
+d000.s093.t011	workers	worker	NOUN	bn:00081593n;wn:worker%1:18:00::
+	.		X	
+	-end-		X	
+d000.s094.t000	Seeking	seek	VERB	bn:00090460v;wn:look_for%2:35:00::;wn:search%2:35:00::;wn:seek%2:35:00::
+d000.s094.t001	alternatives	alternative	NOUN	bn:00003132n;wn:alternative%1:09:00::;wn:choice%1:09:02::;wn:option%1:09:00::
+	to		X	
+d000.s094.t002	early	early	ADJ	bn:00101935a;wn:early%3:00:00::
+d000.s094.t003	retirement	retirement	NOUN	bn:00067456n;wn:retirement%1:26:00::
+	and		X	
+d000.s094.t004	redundancy	redundancy	NOUN	bn:00066743n;wn:redundance%1:07:00::;wn:redundancy%1:07:00::
+	,		X	
+	the		X	
+d000.s094.t005	project	project	NOUN	bn:00064665n;wn:project%1:09:00::;wn:projection%1:09:00::
+	is	be	VERB	
+d000.s094.t006	primarily	primarily	ADV	bn:00114714r;bn:00115834r;wn:chiefly%4:02:00::;wn:in_the_first_place%4:02:00::;wn:in_the_main%4:02:01::;wn:mainly%4:02:00::;wn:primarily%4:02:00::;wn:primarily%4:02:01::;wn:principally%4:02:00::
+d000.s094.t007	concerned	concern	VERB	bn:00083240v;wn:bear_on%2:42:00::;wn:come_to%2:42:03::;wn:concern%2:42:00::;wn:have-to_doe_with%2:42:00::;wn:pertain%2:42:01::;wn:refer%2:42:00::;wn:relate%2:42:00::;wn:touch%2:42:00::;wn:touch_on%2:42:00::
+	with		X	
+	the		X	
+d000.s094.t008	retention	retention	NOUN	bn:00044396n;wn:holding%1:04:00::;wn:keeping%1:04:02::;wn:retention%1:04:00::
+	,		X	
+d000.s094.t009	reintegration	reintegrate	VERB	bn:00092717v;wn:reintegrate%2:30:00::
+	and		X	
+d000.s094.t010	retraining	retrain	VERB	bn:00092953v;bn:00092954v;wn:retrain%2:31:00::;wn:retrain%2:31:01::
+	of		X	
+d000.s094.t011	older	old	ADJ	bn:00096644a;bn:00107786a;bn:00107789a;wn:aged%5:00:01:old:02;wn:elderly%5:00:00:old:02;wn:old%3:00:02::;wn:old%5:00:00:experienced:00;wn:older%5:00:00:experienced:00;wn:older%5:00:00:old:02;wn:senior%5:00:00:old:02
+d000.s094.t012	workers	worker	NOUN	bn:00081593n;wn:worker%1:18:00::
+	.		X	
+	-end-		X	
+	The		X	
+d000.s095.t000	gender	gender	NOUN	bn:00037634n;bn:00070773n;wiki:gender;wiki:sex;wn:gender%1:07:00::;wn:sex%1:07:00::;wn:sex%1:14:00::;wn:sexuality%1:07:00::
+	and		X	
+d000.s095.t001	ethnic	ethnic	ADJ	bn:00031722n;wiki:ethnic_group;wn:ethnic_group%1:14:00::;wn:ethnos%1:14:00::
+d000.s095.t002	backgrounds	background	NOUN	bn:00007781n;bn:00007783n;bn:00007786n;wiki:prior_art;wn:background%1:07:00::;wn:background%1:09:01::;wn:background%1:26:00::;wn:background_knowledge%1:09:00::;wn:scope%1:26:00::;wn:setting%1:26:00::
+	of		X	
+d000.s095.t003	workers	worker	NOUN	bn:00081593n;wn:worker%1:18:00::
+	and		X	
+	how		X	
+	these		X	
+d000.s095.t004	relate	relate	VERB	bn:00082868v;wn:associate%2:31:00::;wn:colligate%2:31:02::;wn:connect%2:31:00::;wn:link%2:31:00::;wn:link_up%2:31:00::;wn:relate%2:31:00::;wn:tie_in%2:31:00::
+	to		X	
+d000.s095.t005	age	age	NOUN	bn:00001957n;wiki:ageism;wn:ageism%1:04:00::;wn:agism%1:04:00::
+d000.s095.t006	discrimination	discrimination	NOUN	bn:00027538n;wiki:discrimination;wiki:ingroups_and_outgroups;wn:discrimination%1:04:00::;wn:favoritism%1:04:00::;wn:favouritism%1:04:00::
+	are	be	VERB	
+d000.s095.t007	examined	examine	VERB	bn:00082596v;bn:00087788v;wn:analyse%2:31:00::;wn:analyze%2:31:00::;wn:canvas%2:31:02::;wn:canvass%2:31:02::;wn:examine%2:31:00::;wn:examine%2:32:01::;wn:probe%2:32:00::;wn:study%2:31:02::
+	.		X	
+	-end-		X	
+	The		X	
+d000.s096.t000	project	project	NOUN	bn:00064665n;wn:project%1:09:00::;wn:projection%1:09:00::
+d000.s096.t001	also	also	ADV	bn:00114246r;wn:also%4:02:00::;wn:as_well%4:02:01::;wn:besides%4:02:03::;wn:likewise%4:02:01::;wn:too%4:02:01::
+d000.s096.t002	considers	consider	VERB	bn:00085648v;bn:00085649v;bn:00085651v;wn:consider%2:31:01::;wn:consider%2:32:02::;wn:consider%2:39:00::;wn:deal%2:31:10::;wn:debate%2:32:02::;wn:deliberate%2:32:01::;wn:look_at%2:31:00::;wn:moot%2:32:00::;wn:study%2:39:00::;wn:take%2:31:03::;wn:turn_over%2:32:00::
+d000.s096.t003	initiatives	initiative	NOUN	bn:00034797n;wiki:initiative_(chess);wn:first_step%1:04:00::;wn:initiative%1:04:00::;wn:opening%1:04:03::;wn:opening_move%1:04:00::
+	to		X	
+	combat	combat	VERB	
+d000.s096.t004	age	age	NOUN	bn:00001957n;wiki:ageism;wn:ageism%1:04:00::;wn:agism%1:04:00::
+d000.s096.t005	discrimination	discrimination	NOUN	bn:00027538n;wiki:discrimination;wiki:ingroups_and_outgroups;wn:discrimination%1:04:00::;wn:favoritism%1:04:00::;wn:favouritism%1:04:00::
+	in		X	
+d000.s096.t006	rural	rural	ADJ	bn:00023237n;wiki:rural_area;wn:country%1:15:01::;wn:rural_area%1:15:00::
+d000.s096.t007	areas	area	NOUN	bn:00005513n;wn:area%1:15:01::;wn:country%1:15:02::
+	and		X	
+	in		X	
+d000.s096.t008	small	small	ADJ	bn:03169699n;wiki:small_and_medium_enterprises
+	and		X	
+	medium	medium	ADJ	
+	sized	sized	ADJ	
+d000.s096.t009	enterprises	enterprise	NOUN	bn:00021286n;bn:00022811n;bn:00031008n;wiki:company;wiki:corporation;wn:company%1:14:01::;wn:corp%1:14:00::;wn:corporation%1:14:00::;wn:enterprise%1:14:00::
+	.		X	
+	-end-		X	
+	Seven		X	
+d000.s097.t000	member	member	NOUN	bn:02197666n;wiki:member_state
+d000.s097.t001	states	state	NOUN	bn:00011771n;wiki:sovereign_state;wiki:state_(polity);wn:body_politic%1:14:00::;wn:commonwealth%1:14:00::;wn:country%1:14:00::;wn:land%1:14:00::;wn:nation%1:14:00::;wn:res_publica%1:14:00::;wn:state%1:14:00::
+	are	be	VERB	
+d000.s097.t002	covered	cover	VERB	bn:00085497v;wn:comprehend%2:42:00::;wn:cover%2:42:02::;wn:embrace%2:42:00::;wn:encompass%2:42:00::
+	by		X	
+	the		X	
+d000.s097.t003	project	project	NOUN	bn:00064665n;wn:project%1:09:00::;wn:projection%1:09:00::
+	:		X	
+	Belgium	belgium	NOUN	
+	,		X	
+	France	france	NOUN	
+	,		X	
+	Germany	germany	NOUN	
+	,		X	
+	Greece	greece	NOUN	
+	,		X	
+	Italy	italy	NOUN	
+	,		X	
+	the		X	
+	Netherlands	netherlands	NOUN	
+	and		X	
+	the		X	
+d000.s097.t004	United	united	ADJ	bn:00112908a;wn:united%3:00:00::
+d000.s097.t005	Kingdom	kingdom	NOUN	bn:00049168n;bn:00049170n;wn:kingdom%1:14:01::;wn:kingdom%1:15:01::
+	.		X	
+	-end-		X	
+	This		X	
+d000.s098.t000	document	document	NOUN	bn:00028015n;wiki:document;wn:document%1:10:00::;wn:papers%1:10:00::;wn:written_document%1:10:00::
+	is	be	VERB	
+	a		X	
+d000.s098.t001	summary	summary	NOUN	bn:00075142n;wiki:summary_(law);wn:sum-up%1:10:00::;wn:summary%1:10:00::
+	of		X	
+	the		X	
+d000.s098.t002	European	european	ADJ	bn:00102440a;wn:european%3:01:00::
+d000.s098.t003	Public	public	ADJ	bn:00109211a;wn:public%3:00:00::
+d000.s098.t004	Assessment	assessment	NOUN	bn:00005120n;wn:appraisal%1:09:00::;wn:assessment%1:09:00::
+d000.s098.t005	Report	report	NOUN	bn:00067181n;wiki:report;wn:report%1:10:03::;wn:study%1:10:00::;wn:written_report%1:10:00::
+	.		X	
+	It		X	
+d000.s098.t006	explains	explain	VERB	bn:00087869v;bn:00087870v;wn:explain%2:32:00::;wn:explain%2:32:01::;wn:explicate%2:32:00::
+	how		X	
+	the		X	
+d000.s098.t007	Committee	committee	NOUN	bn:00021015n;wiki:committee;wn:commission%1:14:00::;wn:committee%1:14:00::
+	for		X	
+d000.s098.t008	Medicinal	medicinal	ADJ	bn:00106556a;wn:medicative%5:00:00:healthful:00;wn:medicinal%5:00:00:healthful:00
+d000.s098.t009	Products	product	NOUN	bn:00064584n;wn:product%1:06:00::;wn:production%1:06:00::
+	for		X	
+d000.s098.t010	Veterinary	veterinary	NOUN	bn:00079883n;wiki:veterinary_physician;wiki:veterinary_surgery;wn:vet%1:18:00::;wn:veterinarian%1:18:00::;wn:veterinary%1:18:00::;wn:veterinary_surgeon%1:18:00::
+d000.s098.t011	Use	use	NOUN	bn:00030627n;wn:employment%1:04:01::;wn:exercise%1:04:03::;wn:usage%1:04:00::;wn:use%1:04:00::;wn:utilisation%1:04:00::;wn:utilization%1:04:00::
+	(		X	
+	CVMP	cvmp	NOUN	
+	)		X	
+d000.s098.t012	assessed	assess	VERB	bn:00082720v;wn:appraise%2:31:01::;wn:assess%2:31:00::;wn:evaluate%2:31:00::;wn:measure%2:31:01::;wn:valuate%2:31:00::;wn:value%2:31:00::
+	the		X	
+d000.s098.t013	studies	study	NOUN	bn:00074790n;wn:study%1:04:00::;wn:survey%1:04:02::
+d000.s098.t014	performed	perform	VERB	bn:00087107v;wn:do%2:36:01::;wn:execute%2:36:01::;wn:perform%2:36:00::
+	,		X	
+	to		X	
+d000.s098.t015	reach	reach	VERB	bn:00088789v;wn:get_to%2:38:02::;wn:make%2:38:02::;wn:progress_to%2:38:00::;wn:reach%2:38:06::
+	their		X	
+d000.s098.t016	recommendations	recommendation	NOUN	bn:00066562n;wn:recommendation%1:10:00::
+	on		X	
+	how		X	
+	to		X	
+d000.s098.t017	use	use	VERB	bn:00082705v;bn:00089140v;wn:apply%2:34:00::;wn:employ%2:34:00::;wn:habituate%2:34:00::;wn:use%2:34:01::;wn:use%2:34:02::;wn:utilise%2:34:00::;wn:utilize%2:34:00::
+	the		X	
+d000.s098.t018	medicine	medicine	NOUN	bn:00054128n;bn:00061887n;wiki:pharmaceutical_drug;wn:medicament%1:06:00::;wn:medication%1:06:00::;wn:medicinal_drug%1:06:00::;wn:medicine%1:06:00::;wn:pharmaceutic%1:06:00::;wn:pharmaceutical%1:06:00::
+	.		X	
+	-end-		X	
+	What		X	
+	is	be	VERB	
+	Cerenia	cerenia	NOUN	
+	?		X	
+	-end-		X	
+	Cerenia	cerenia	NOUN	
+d000.s100.t000	contains	contain	VERB	bn:00085499v;wn:comprise%2:42:00::;wn:contain%2:42:00::;wn:incorporate%2:42:00::
+	the		X	
+d000.s100.t001	active	active	ADJ	bn:00377649n;wiki:active_ingredient
+d000.s100.t002	substance	substance	NOUN	bn:00074985n;bn:00074986n;bn:00074987n;wn:substance%1:03:00::;wn:substance%1:03:01::;wn:substance%1:27:00::
+d000.s100.t003	maropitant	maropitant	NOUN	bn:00923812n;wiki:maropitant
+	and		X	
+	is	be	VERB	
+d000.s100.t004	available	available	ADJ	bn:00097846a;wn:available%3:00:00::
+	as		X	
+d000.s100.t005	tablet	tablet	NOUN	bn:00052222n;wiki:pill_(pharmacy);wiki:tablet_(pharmacy);wn:lozenge%1:06:00::;wn:pill%1:06:00::;wn:tab%1:06:00::;wn:tablet%1:06:00::
+	or		X	
+	as		X	
+d000.s100.t006	solution	solution	NOUN	bn:00072760n;wiki:solution;wn:solution%1:27:00::
+	for		X	
+d000.s100.t007	injection	injection	NOUN	bn:00046787n;wiki:injection_(medicine);wn:injection%1:04:01::;wn:shot%1:04:03::
+	.		X	
+	-end-		X	
+	The		X	
+d000.s101.t000	tablets	tablet	NOUN	bn:00052222n;wiki:pill_(pharmacy);wiki:tablet_(pharmacy);wn:lozenge%1:06:00::;wn:pill%1:06:00::;wn:tab%1:06:00::;wn:tablet%1:06:00::
+	are	be	VERB	
+	pale-orange	pale-orange	ADJ	
+	and		X	
+d000.s101.t001	have	have	VERB	bn:00088078v;bn:00089240v;wn:feature%2:42:00::;wn:have%2:40:00::;wn:have%2:42:00::;wn:have_got%2:40:00::;wn:hold%2:40:00::
+	a		X	
+d000.s101.t002	score	score	NOUN	bn:00069754n;wn:score%1:25:00::;wn:scotch%1:25:00::
+d000.s101.t003	line	line	NOUN	bn:00023645n;bn:00051289n;wiki:wrinkle;wn:crease%1:25:01::;wn:crinkle%1:25:00::;wn:furrow%1:25:00::;wn:line%1:10:01::;wn:line%1:25:01::;wn:seam%1:25:01::;wn:wrinkle%1:25:00::
+	on		X	
+	both		X	
+d000.s101.t004	sides	side	NOUN	bn:00032604n;bn:00071433n;bn:00071434n;wn:face%1:15:00::;wn:side%1:06:00::;wn:side%1:08:00::;wn:side%1:15:00::
+d000.s101.t005	so	so	ADV	bn:00117049r;wn:so%4:02:03::
+	that		X	
+	they		X	
+	can		X	
+	be	be	VERB	
+d000.s101.t006	halved	halve	VERB	bn:00089157v;wn:halve%2:31:00::
+	.		X	
+	-end-		X	
+	Each		X	
+d000.s102.t000	tablet	tablet	NOUN	bn:00052222n;wiki:pill_(pharmacy);wiki:tablet_(pharmacy);wn:lozenge%1:06:00::;wn:pill%1:06:00::;wn:tab%1:06:00::;wn:tablet%1:06:00::
+	is	be	VERB	
+d000.s102.t001	marked	mark	VERB	bn:00090663v;wn:mark%2:35:01::;wn:nock%2:35:00::;wn:score%2:35:00::
+	with		X	
+	the		X	
+	Pfizer	pfizer	NOUN	
+d000.s102.t002	logo	logo	NOUN	bn:00051872n;wiki:logo;wiki:wordmark;wn:logo%1:10:00::;wn:logotype%1:10:00::
+	on		X	
+	one		X	
+d000.s102.t003	side	side	NOUN	bn:00032604n;bn:00071433n;bn:00071434n;wn:face%1:15:00::;wn:side%1:06:00::;wn:side%1:08:00::;wn:side%1:15:00::
+	and		X	
+	with		X	
+	the		X	
+d000.s102.t004	letters	letter	NOUN	bn:00003057n;wiki:letter_(alphabet);wn:alphabetic_character%1:10:00::;wn:letter%1:10:01::;wn:letter_of_the_alphabet%1:10:00::
+	MPT	mpt	NOUN	
+	and		X	
+	the		X	
+d000.s102.t005	quantity	quantity	NOUN	bn:00003603n;wiki:quantity;wn:amount%1:03:00::;wn:measure%1:03:00::;wn:quantity%1:03:00::
+	of		X	
+d000.s102.t006	maropitant	maropitant	NOUN	bn:00923812n;wiki:maropitant
+	on		X	
+	the		X	
+d000.s102.t007	other	other	ADJ	bn:00108011a;wn:other%3:00:00::
+d000.s102.t008	side	side	NOUN	bn:00032604n;bn:00071433n;bn:00071434n;wn:face%1:15:00::;wn:side%1:06:00::;wn:side%1:08:00::;wn:side%1:15:00::
+	.		X	
+	-end-		X	
+	What		X	
+	is	be	VERB	
+	Cerenia	cerenia	NOUN	
+d000.s103.t000	used	use	VERB	bn:00082705v;bn:00089140v;wn:apply%2:34:00::;wn:employ%2:34:00::;wn:habituate%2:34:00::;wn:use%2:34:01::;wn:use%2:34:02::;wn:utilise%2:34:00::;wn:utilize%2:34:00::
+	for		X	
+	?		X	
+	-end-		X	
+	Cerenia	cerenia	NOUN	
+	is	be	VERB	
+	an		X	
+d000.s104.t000	anti-emetic	anti-emetic	NOUN	bn:00004656n;wiki:antiemetic;wn:antiemetic%1:06:00::;wn:antiemetic_drug%1:06:00::
+	,		X	
+	this		X	
+d000.s104.t001	means	mean	VERB	bn:00089805v;bn:00089806v;wn:intend%2:32:00::;wn:intend%2:32:02::;wn:mean%2:32:01::;wn:mean%2:32:03::;wn:signify%2:32:02::;wn:stand_for%2:32:00::
+	that		X	
+	it		X	
+d000.s104.t002	stops	stop	VERB	bn:00082787v;wn:arrest%2:38:00::;wn:halt%2:38:05::;wn:hold%2:38:05::
+d000.s104.t003	vomiting	vomit	VERB	bn:00083115v;wn:barf%2:29:00::;wn:be_sick%2:29:01::;wn:cast%2:29:00::;wn:cat%2:29:00::;wn:chuck%2:29:00::;wn:disgorge%2:29:00::;wn:honk%2:29:00::;wn:puke%2:29:00::;wn:purge%2:29:04::;wn:regorge%2:29:00::;wn:regurgitate%2:29:00::;wn:retch%2:29:00::;wn:sick%2:29:00::;wn:spew%2:29:00::;wn:spue%2:29:00::;wn:throw_up%2:29:00::;wn:upchuck%2:29:00::;wn:vomit%2:29:00::;wn:vomit_up%2:29:00::
+	.		X	
+	-end-		X	
+	It		X	
+	is	be	VERB	
+d000.s105.t000	used	use	VERB	bn:00082705v;bn:00089140v;wn:apply%2:34:00::;wn:employ%2:34:00::;wn:habituate%2:34:00::;wn:use%2:34:01::;wn:use%2:34:02::;wn:utilise%2:34:00::;wn:utilize%2:34:00::
+	in		X	
+d000.s105.t001	dogs	dog	NOUN	bn:00015267n;wiki:dog;wn:canis_familiaris%1:05:00::;wn:dog%1:05:00::;wn:domestic_dog%1:05:00::
+	to		X	
+d000.s105.t002	prevent	prevent	VERB	bn:00088454v;bn:00090033v;wn:forbid%2:41:03::;wn:foreclose%2:41:00::;wn:forestall%2:41:01::;wn:keep%2:41:01::;wn:preclude%2:41:00::;wn:prevent%2:41:00::;wn:prevent%2:41:01::
+d000.s105.t003	vomiting	vomit	VERB	bn:00083115v;wn:barf%2:29:00::;wn:be_sick%2:29:01::;wn:cast%2:29:00::;wn:cat%2:29:00::;wn:chuck%2:29:00::;wn:disgorge%2:29:00::;wn:honk%2:29:00::;wn:puke%2:29:00::;wn:purge%2:29:04::;wn:regorge%2:29:00::;wn:regurgitate%2:29:00::;wn:retch%2:29:00::;wn:sick%2:29:00::;wn:spew%2:29:00::;wn:spue%2:29:00::;wn:throw_up%2:29:00::;wn:upchuck%2:29:00::;wn:vomit%2:29:00::;wn:vomit_up%2:29:00::
+	such	such	ADJ	
+	as		X	
+d000.s105.t004	vomiting	vomit	VERB	bn:00083115v;wn:barf%2:29:00::;wn:be_sick%2:29:01::;wn:cast%2:29:00::;wn:cat%2:29:00::;wn:chuck%2:29:00::;wn:disgorge%2:29:00::;wn:honk%2:29:00::;wn:puke%2:29:00::;wn:purge%2:29:04::;wn:regorge%2:29:00::;wn:regurgitate%2:29:00::;wn:retch%2:29:00::;wn:sick%2:29:00::;wn:spew%2:29:00::;wn:spue%2:29:00::;wn:throw_up%2:29:00::;wn:upchuck%2:29:00::;wn:vomit%2:29:00::;wn:vomit_up%2:29:00::
+d000.s105.t005	caused	cause	VERB	bn:00084069v;bn:00084699v;wn:bring_about%2:36:03::;wn:cause%2:36:00::;wn:do%2:36:02::;wn:give_rise%2:36:01::;wn:make%2:36:08::;wn:produce%2:36:03::
+	by		X	
+d000.s105.t006	chemotherapy	chemotherapy	NOUN	bn:00018141n;wiki:chemotherapy;wn:chemotherapy%1:04:00::
+	(		X	
+d000.s105.t007	medicines	medicine	NOUN	bn:00054128n;bn:00061887n;wiki:pharmaceutical_drug;wn:medicament%1:06:00::;wn:medication%1:06:00::;wn:medicinal_drug%1:06:00::;wn:medicine%1:06:00::;wn:pharmaceutic%1:06:00::;wn:pharmaceutical%1:06:00::
+d000.s105.t008	used	use	VERB	bn:00082705v;bn:00089140v;wn:apply%2:34:00::;wn:employ%2:34:00::;wn:habituate%2:34:00::;wn:use%2:34:01::;wn:use%2:34:02::;wn:utilise%2:34:00::;wn:utilize%2:34:00::
+	for		X	
+	the		X	
+d000.s105.t009	treatment	treatment	NOUN	bn:01853831n;wiki:management_of_cancer
+	of		X	
+d000.s105.t010	cancer	cancer	NOUN	bn:00015180n;wiki:cancer;wn:cancer%1:26:00::;wn:malignant_neoplastic_disease%1:26:00::
+	,		X	
+	some		X	
+	of		X	
+	which		X	
+	are	be	VERB	
+d000.s105.t011	known	know	VERB	bn:00090142v;wn:know%2:31:02::
+	to		X	
+d000.s105.t012	cause	cause	VERB	bn:00084069v;bn:00084699v;wn:bring_about%2:36:03::;wn:cause%2:36:00::;wn:do%2:36:02::;wn:give_rise%2:36:01::;wn:make%2:36:08::;wn:produce%2:36:03::
+d000.s105.t013	vomiting	vomit	VERB	bn:00083115v;wn:barf%2:29:00::;wn:be_sick%2:29:01::;wn:cast%2:29:00::;wn:cat%2:29:00::;wn:chuck%2:29:00::;wn:disgorge%2:29:00::;wn:honk%2:29:00::;wn:puke%2:29:00::;wn:purge%2:29:04::;wn:regorge%2:29:00::;wn:regurgitate%2:29:00::;wn:retch%2:29:00::;wn:sick%2:29:00::;wn:spew%2:29:00::;wn:spue%2:29:00::;wn:throw_up%2:29:00::;wn:upchuck%2:29:00::;wn:vomit%2:29:00::;wn:vomit_up%2:29:00::
+	)		X	
+	.		X	
+	-end-		X	
+	In		X	
+d000.s106.t000	combination	combination	NOUN	bn:00020872n;wn:combination%1:14:00::
+	with		X	
+d000.s106.t001	supportive	supportive	ADJ	bn:00111492a;wn:supportive%3:00:00::
+d000.s106.t002	measures	measure	NOUN	bn:00054018n;wn:measure%1:04:01::;wn:step%1:04:02::
+	such	such	ADJ	
+	as		X	
+d000.s106.t003	other	other	ADJ	bn:00108011a;wn:other%3:00:00::
+d000.s106.t004	veterinary	veterinary	ADJ	bn:00113583a;wn:veterinary%3:01:00::
+d000.s106.t005	treatment	treatment	NOUN	bn:00047235n;wn:intervention%1:04:02::;wn:treatment%1:04:00::
+	or		X	
+	a		X	
+d000.s106.t006	special	special	ADJ	bn:00108295a;bn:00110996a;wn:particular%5:00:00:specific:00;wn:peculiar%5:00:00:specific:00;wn:special%5:00:00:specialized:00;wn:special%5:00:01:specific:00
+d000.s106.t007	diet	diet	NOUN	bn:00027011n;wiki:diet_(nutrition);wn:diet%1:13:00::
+	,		X	
+	Cerenia	cerenia	NOUN	
+	can		X	
+d000.s106.t008	also	also	ADV	bn:00114246r;wn:also%4:02:00::;wn:as_well%4:02:01::;wn:besides%4:02:03::;wn:likewise%4:02:01::;wn:too%4:02:01::
+	be	be	VERB	
+d000.s106.t009	used	use	VERB	bn:00082705v;bn:00089140v;wn:apply%2:34:00::;wn:employ%2:34:00::;wn:habituate%2:34:00::;wn:use%2:34:01::;wn:use%2:34:02::;wn:utilise%2:34:00::;wn:utilize%2:34:00::
+	in		X	
+	the		X	
+d000.s106.t010	treatment	treatment	NOUN	bn:00047235n;wn:intervention%1:04:02::;wn:treatment%1:04:00::
+	of		X	
+d000.s106.t011	vomiting	vomiting	NOUN	bn:00027565n;wiki:regurgitation_(digestion);wiki:vomiting;wn:disgorgement%1:04:00::;wn:emesis%1:04:00::;wn:puking%1:04:00::;wn:regurgitation%1:04:00::;wn:vomit%1:04:00::;wn:vomiting%1:04:00::
+	(		X	
+	either		X	
+	as		X	
+d000.s106.t012	injection	injection	NOUN	bn:00046787n;wiki:injection_(medicine);wn:injection%1:04:01::;wn:shot%1:04:03::
+	or		X	
+	as		X	
+d000.s106.t013	injection	injection	NOUN	bn:00046787n;wiki:injection_(medicine);wn:injection%1:04:01::;wn:shot%1:04:03::
+d000.s106.t014	followed	follow	VERB	bn:00088425v;wn:follow%2:42:03::
+	by		X	
+d000.s106.t015	tablets	tablet	NOUN	bn:00052222n;wiki:pill_(pharmacy);wiki:tablet_(pharmacy);wn:lozenge%1:06:00::;wn:pill%1:06:00::;wn:tab%1:06:00::;wn:tablet%1:06:00::
+	)		X	
+	.		X	
+	-end-		X	
+	For		X	
+	these		X	
+d000.s107.t000	purposes	purpose	NOUN	bn:00002178n;wiki:intention;wn:aim%1:09:00::;wn:design%1:09:03::;wn:intent%1:09:00::;wn:intention%1:09:00::;wn:purpose%1:09:00::
+	,		X	
+	Cerenia	cerenia	NOUN	
+	can		X	
+	be	be	VERB	
+d000.s107.t001	given	give	VERB	bn:00088826v;wn:give%2:40:13::
+	for		X	
+	up to	up to	ADJ	
+	five		X	
+d000.s107.t002	days	day	NOUN	bn:00025419n;wiki:daytime_(astronomy);wn:day%1:28:02::;wn:daylight%1:28:00::;wn:daytime%1:28:00::
+	-end-		X	
+	How		X	
+	does	do	VERB	
+	Cerenia	cerenia	NOUN	
+	work	work	VERB	
+	?		X	
+	-end-		X	
+	Cerenia	cerenia	NOUN	
+d000.s109.t000	blocks	block	VERB	bn:00083622v;bn:00083623v;wn:block%2:41:00::;wn:block%2:41:01::;wn:blockade%2:41:00::;wn:embarrass%2:41:00::;wn:halt%2:41:00::;wn:hinder%2:41:00::;wn:kibosh%2:41:00::;wn:obstruct%2:41:00::;wn:stop%2:41:00::;wn:stymie%2:41:00::;wn:stymy%2:41:00::
+	a		X	
+d000.s109.t001	neurokinin	neurokinin	NOUN	bn:02560276n;bn:03412321n;wiki:tachykinin_peptides;wiki:tachykinin_receptor
+	1		X	
+	(		X	
+	NK1	nk1	NOUN	
+	)		X	
+d000.s109.t002	receptor	receptor	NOUN	bn:00066514n;wiki:receptor_(biochemistry);wn:receptor%1:08:01::
+	,		X	
+	which		X	
+d000.s109.t003	acts	act	VERB	bn:00082285v;wn:act%2:41:00::;wn:move%2:41:00::
+	in		X	
+	the		X	
+d000.s109.t004	central	central	ADJ	bn:00017184n;wiki:central_nervous_system;wn:central_nervous_system%1:08:00::;wn:cns%1:08:00::;wn:systema_nervosum_centrale%1:08:00::
+d000.s109.t005	nervous	nervous	ADJ	bn:00057341n;wiki:nervous_system;wn:nervous_system%1:08:00::;wn:systema_nervosum%1:08:00::
+d000.s109.t006	system	system	NOUN	bn:00075762n;wiki:biological_system;wn:system%1:08:00::
+	.		X	
+	-end-		X	
+	How		X	
+	has	have	VERB	
+	Cerenia	cerenia	NOUN	
+	been	be	VERB	
+d000.s110.t000	studied	study	VERB	bn:00082596v;wn:analyse%2:31:00::;wn:analyze%2:31:00::;wn:canvas%2:31:02::;wn:canvass%2:31:02::;wn:examine%2:31:00::;wn:study%2:31:02::
+	?		X	
+	-end-		X	
+	A		X	
+d000.s111.t000	large	large	ADJ	bn:00009055n;wiki:large_numbers;wn:battalion%1:23:00::;wn:large_number%1:23:00::;wn:multitude%1:23:00::;wn:pack%1:23:00::;wn:plurality%1:23:01::
+d000.s111.t001	number	number	NOUN	bn:00034394n;wn:figure%1:07:01::;wn:number%1:07:00::
+	of		X	
+d000.s111.t002	studies	study	NOUN	bn:00074790n;wn:study%1:04:00::;wn:survey%1:04:02::
+	with		X	
+	Cerenia	cerenia	NOUN	
+	were	be	VERB	
+d000.s111.t003	carried	carry	VERB	bn:00082225v;bn:00084595v;wn:accomplish%2:36:00::;wn:action%2:36:00::;wn:carry_out%2:30:00::;wn:carry_out%2:36:00::;wn:carry_through%2:36:00::;wn:execute%2:36:00::;wn:follow_out%2:30:00::;wn:follow_through%2:30:00::;wn:follow_up%2:30:00::;wn:fulfil%2:36:00::;wn:fulfill%2:36:00::;wn:go_through%2:30:00::;wn:implement%2:30:00::;wn:put_through%2:30:00::
+	out	out	ADV	
+	either	either	ADV	
+	in		X	
+d000.s111.t004	laboratory	laboratory	NOUN	bn:00049551n;wiki:laboratory;wn:lab%1:06:00::;wn:laboratory%1:06:00::;wn:research_lab%1:06:00::;wn:research_laboratory%1:06:00::;wn:science_lab%1:06:00::;wn:science_laboratory%1:06:00::
+d000.s111.t005	dogs	dog	NOUN	bn:00015267n;wiki:dog;wn:canis_familiaris%1:05:00::;wn:dog%1:05:00::;wn:domestic_dog%1:05:00::
+	or		X	
+	in		X	
+	animal	animal	ADJ	
+d000.s111.t006	patients	patient	NOUN	bn:00061017n;wiki:patient;wn:patient%1:18:00::
+	at		X	
+d000.s111.t007	veterinary	veterinary	ADJ	bn:00113583a;wn:veterinary%3:01:00::
+	practises	practise	VERB	
+	in		X	
+d000.s111.t008	several	several	ADJ	bn:00110469a;wn:several%5:00:00:some:00
+d000.s111.t009	European	european	ADJ	bn:00031903n;wn:european_country%1:15:00::;wn:european_nation%1:15:00::
+d000.s111.t010	countries	country	NOUN	bn:00011771n;bn:00023235n;wiki:country;wiki:sovereign_state;wiki:state_(polity);wn:body_politic%1:14:00::;wn:commonwealth%1:14:00::;wn:country%1:14:00::;wn:country%1:15:00::;wn:land%1:14:00::;wn:land%1:15:02::;wn:nation%1:14:00::;wn:res_publica%1:14:00::;wn:state%1:14:00::;wn:state%1:15:00::
+	and		X	
+	in		X	
+	the		X	
+	USA	usa	NOUN	
+	.		X	
+	-end-		X	
+	What		X	
+d000.s112.t000	benefit	benefit	NOUN	bn:00009905n;bn:00037022n;wn:benefit%1:07:00::;wn:gain%1:07:02::;wn:profit%1:07:00::;wn:welfare%1:07:00::
+	has	have	VERB	
+	Cerenia	cerenia	NOUN	
+d000.s112.t001	shown	show	VERB	bn:00083245v;bn:00086567v;wn:bear_witness%2:32:02::;wn:demonstrate%2:31:00::;wn:establish%2:31:00::;wn:evidence%2:32:01::;wn:prove%2:31:00::;wn:prove%2:32:00::;wn:shew%2:31:00::;wn:show%2:31:00::;wn:show%2:32:00::;wn:testify%2:32:02::
+	during		X	
+	the		X	
+d000.s112.t002	studies	study	NOUN	bn:00074790n;wn:study%1:04:00::;wn:survey%1:04:02::
+	?		X	
+	-end-		X	
+	The		X	
+d000.s113.t000	results	result	NOUN	bn:00021961n;bn:00034520n;wiki:result;wn:consequence%1:19:00::;wn:effect%1:19:00::;wn:event%1:19:01::;wn:final_result%1:11:00::;wn:issue%1:19:00::;wn:outcome%1:11:00::;wn:outcome%1:19:00::;wn:result%1:11:00::;wn:result%1:19:00::;wn:resultant%1:11:00::;wn:termination%1:11:00::;wn:upshot%1:19:00::
+	of		X	
+	the		X	
+d000.s113.t001	studies	study	NOUN	bn:00074790n;wn:study%1:04:00::;wn:survey%1:04:02::
+d000.s113.t002	showed	show	VERB	bn:00083245v;bn:00086567v;wn:bear_witness%2:32:02::;wn:demonstrate%2:31:00::;wn:establish%2:31:00::;wn:evidence%2:32:01::;wn:prove%2:31:00::;wn:prove%2:32:00::;wn:shew%2:31:00::;wn:show%2:31:00::;wn:show%2:32:00::;wn:testify%2:32:02::
+	that		X	
+	Cerenia	cerenia	NOUN	
+	was	be	VERB	
+d000.s113.t003	more	more	ADV	bn:00116284r;wn:more%4:02:00::;wn:to_a_greater_extent%4:02:01::
+d000.s113.t004	effective	effective	ADJ	bn:00102038a;bn:00102040a;wn:effective%3:00:00::;wn:effective%5:00:00:efficacious:00;wn:effectual%3:00:02::;wn:efficacious%3:00:02::
+	than		X	
+	the		X	
+d000.s113.t005	placebo	placebo	NOUN	bn:00062717n;wiki:placebo;wn:placebo%1:06:00::
+	:		X	
+d000.s113.t006	less	less	ADJ	bn:00105886a;wn:less%3:00:00::
+d000.s113.t007	vomiting	vomiting	NOUN	bn:00027565n;wiki:regurgitation_(digestion);wiki:vomiting;wn:disgorgement%1:04:00::;wn:emesis%1:04:00::;wn:puking%1:04:00::;wn:regurgitation%1:04:00::;wn:vomit%1:04:00::;wn:vomiting%1:04:00::
+	was	be	VERB	
+d000.s113.t008	seen	see	VERB	bn:00082812v;bn:00082813v;wn:ascertain%2:31:00::;wn:ascertain%2:32:00::;wn:assure%2:31:00::;wn:check%2:31:02::;wn:check%2:32:10::;wn:control%2:31:01::;wn:determine%2:32:01::;wn:ensure%2:31:00::;wn:find_out%2:32:01::;wn:insure%2:31:00::;wn:learn%2:32:02::;wn:see%2:31:03::;wn:see%2:32:00::;wn:see_to_it%2:31:00::;wn:watch%2:32:09::
+	in		X	
+d000.s113.t009	dogs	dog	NOUN	bn:00015267n;wiki:dog;wn:canis_familiaris%1:05:00::;wn:dog%1:05:00::;wn:domestic_dog%1:05:00::
+	that		X	
+d000.s113.t010	received	receive	VERB	bn:00087863v;wn:experience%2:39:00::;wn:get%2:39:00::;wn:have%2:39:06::;wn:receive%2:39:03::
+	the		X	
+d000.s113.t011	medicine	medicine	NOUN	bn:00054128n;bn:00061887n;wiki:pharmaceutical_drug;wn:medicament%1:06:00::;wn:medication%1:06:00::;wn:medicinal_drug%1:06:00::;wn:medicine%1:06:00::;wn:pharmaceutic%1:06:00::;wn:pharmaceutical%1:06:00::
+	than		X	
+	in		X	
+d000.s113.t012	dogs	dog	NOUN	bn:00015267n;wiki:dog;wn:canis_familiaris%1:05:00::;wn:dog%1:05:00::;wn:domestic_dog%1:05:00::
+	that		X	
+d000.s113.t013	received	receive	VERB	bn:00087863v;wn:experience%2:39:00::;wn:get%2:39:00::;wn:have%2:39:06::;wn:receive%2:39:03::
+	a		X	
+d000.s113.t014	placebo	placebo	NOUN	bn:00062717n;wiki:placebo;wn:placebo%1:06:00::
+	,		X	
+	both		X	
+	in		X	
+	the		X	
+d000.s113.t015	treatment	treatment	NOUN	bn:00047235n;wn:intervention%1:04:02::;wn:treatment%1:04:00::
+	or		X	
+	in		X	
+	the		X	
+d000.s113.t016	prevention	prevention	NOUN	bn:00008467n;wn:bar%1:04:00::;wn:prevention%1:04:00::
+	of		X	
+d000.s113.t017	vomiting	vomiting	NOUN	bn:00027565n;wiki:regurgitation_(digestion);wiki:vomiting;wn:disgorgement%1:04:00::;wn:emesis%1:04:00::;wn:puking%1:04:00::;wn:regurgitation%1:04:00::;wn:vomit%1:04:00::;wn:vomiting%1:04:00::
+	.		X	
+	-end-		X	
+	The		X	
+d000.s114.t000	treatment	treatment	NOUN	bn:00047235n;wn:intervention%1:04:02::;wn:treatment%1:04:00::
+	of		X	
+	a		X	
+d000.s114.t001	vomiting	vomiting	NOUN	bn:00027565n;wiki:regurgitation_(digestion);wiki:vomiting;wn:disgorgement%1:04:00::;wn:emesis%1:04:00::;wn:puking%1:04:00::;wn:regurgitation%1:04:00::;wn:vomit%1:04:00::;wn:vomiting%1:04:00::
+d000.s114.t002	dog	dog	NOUN	bn:00015267n;wiki:dog;wn:canis_familiaris%1:05:00::;wn:dog%1:05:00::;wn:domestic_dog%1:05:00::
+	should		X	
+	be	be	VERB	
+d000.s114.t003	started	start	VERB	bn:00083347v;wn:begin%2:41:04::;wn:start%2:41:04::
+	with		X	
+	the		X	
+d000.s114.t004	injection	injection	NOUN	bn:00046787n;wiki:injection_(medicine);wn:injection%1:04:01::;wn:shot%1:04:03::
+	,		X	
+	since		X	
+d000.s114.t005	vomiting	vomiting	NOUN	bn:00027565n;wiki:regurgitation_(digestion);wiki:vomiting;wn:disgorgement%1:04:00::;wn:emesis%1:04:00::;wn:puking%1:04:00::;wn:regurgitation%1:04:00::;wn:vomit%1:04:00::;wn:vomiting%1:04:00::
+d000.s114.t006	animals	animal	NOUN	bn:00004222n;wiki:animal;wiki:fauna;wn:animal%1:03:00::;wn:animate_being%1:03:00::;wn:beast%1:03:00::;wn:brute%1:03:00::;wn:creature%1:03:00::;wn:fauna%1:03:00::
+	might		X	
+d000.s114.t007	not	not	ADV	bn:00116360r;wn:non%4:02:00::;wn:not%4:02:00::
+	be	be	VERB	
+d000.s114.t008	able	able	ADJ	bn:00096151a;bn:00096153a;wn:able%3:00:00::;wn:able%5:00:00:capable:00
+	to		X	
+	keep	keep	VERB	
+	a		X	
+d000.s114.t009	tablet	tablet	NOUN	bn:00052222n;wiki:pill_(pharmacy);wiki:tablet_(pharmacy);wn:lozenge%1:06:00::;wn:pill%1:06:00::;wn:tab%1:06:00::;wn:tablet%1:06:00::
+	down	down	ADV	
+	(		X	
+	as		X	
+	they		X	
+	might		X	
+	throw	throw	VERB	
+	the		X	
+d000.s114.t010	intact	intact	ADJ	bn:00102278a;bn:00105231a;wn:entire%5:00:02:whole:00;wn:intact%5:00:00:undamaged:00;wn:intact%5:00:00:whole:00;wn:integral%5:00:00:whole:00
+d000.s114.t011	tablet	tablet	NOUN	bn:00052222n;wiki:pill_(pharmacy);wiki:tablet_(pharmacy);wn:lozenge%1:06:00::;wn:pill%1:06:00::;wn:tab%1:06:00::;wn:tablet%1:06:00::
+	up	up	ADV	
+d000.s114.t012	again	again	ADV	bn:00114171r;wn:again%4:02:00::;wn:once_again%4:02:00::;wn:once_more%4:02:00::;wn:over_again%4:02:00::
+	)		X	
+	.		X	
+	-end-		X	
+	For		X	
+d000.s115.t000	follow-up	follow-up	NOUN	bn:00035627n;bn:00035628n;wn:follow-up%1:04:00::;wn:follow-up%1:04:01::;wn:followup%1:04:00::;wn:followup%1:04:01::;wn:reexamination%1:04:00::;wn:review%1:04:00::
+d000.s115.t001	treatment	treatment	NOUN	bn:00047235n;wn:intervention%1:04:02::;wn:treatment%1:04:00::
+	,		X	
+	the		X	
+	animal	animal	ADJ	
+d000.s115.t002	owner	owner	NOUN	bn:00059954n;wn:owner%1:18:02::;wn:possessor%1:18:00::
+	can		X	
+d000.s115.t003	administer	administer	VERB	bn:00082365v;wn:administer%2:29:00::;wn:dispense%2:29:00::
+	the		X	
+d000.s115.t004	tablets	tablet	NOUN	bn:00052222n;wiki:pill_(pharmacy);wiki:tablet_(pharmacy);wn:lozenge%1:06:00::;wn:pill%1:06:00::;wn:tab%1:06:00::;wn:tablet%1:06:00::
+	to		X	
+	the		X	
+d000.s115.t005	dog	dog	NOUN	bn:00015267n;wiki:dog;wn:canis_familiaris%1:05:00::;wn:dog%1:05:00::;wn:domestic_dog%1:05:00::
+	.		X	
+	-end-		X	
+d000.s116.t000	Also	also	ADV	bn:00114246r;wn:also%4:02:00::;wn:as_well%4:02:01::;wn:besides%4:02:03::;wn:likewise%4:02:01::;wn:too%4:02:01::
+	,		X	
+	the		X	
+d000.s116.t001	treatment	treatment	NOUN	bn:00047235n;wn:intervention%1:04:02::;wn:treatment%1:04:00::
+	of		X	
+d000.s116.t002	vomiting	vomiting	NOUN	bn:00027565n;wiki:regurgitation_(digestion);wiki:vomiting;wn:disgorgement%1:04:00::;wn:emesis%1:04:00::;wn:puking%1:04:00::;wn:regurgitation%1:04:00::;wn:vomit%1:04:00::;wn:vomiting%1:04:00::
+	should		X	
+d000.s116.t003	only	only	ADV	bn:00114234r;wn:alone%4:02:00::;wn:entirely%4:02:02::;wn:exclusively%4:02:00::;wn:only%4:02:01::;wn:solely%4:02:00::
+	be	be	VERB	
+d000.s116.t004	together	together	ADV	bn:00114766r;wn:collectively%4:02:00::;wn:conjointly%4:02:00::;wn:jointly%4:02:00::;wn:together_with%4:02:00::
+	with		X	
+d000.s116.t005	other	other	ADJ	bn:00108011a;wn:other%3:00:00::
+d000.s116.t006	supportive	supportive	ADJ	bn:00111492a;wn:supportive%3:00:00::
+d000.s116.t007	measure	measure	NOUN	bn:00054018n;wn:measure%1:04:01::;wn:step%1:04:02::
+	or		X	
+d000.s116.t008	other	other	ADJ	bn:00108011a;wn:other%3:00:00::
+d000.s116.t009	veterinary	veterinary	ADJ	bn:00113583a;wn:veterinary%3:01:00::
+d000.s116.t010	therapy	therapy	NOUN	bn:00076843n;wiki:therapy;wn:therapy%1:04:00::
+	while		X	
+d000.s116.t011	addressing	address	VERB	bn:00082336v;wn:address%2:34:00::
+	the		X	
+d000.s116.t012	underlying	underlie	VERB	bn:00095360v;wn:underlie%2:42:00::
+d000.s116.t013	causes	cause	NOUN	bn:00016850n;wn:cause%1:11:00::
+	of		X	
+	the		X	
+d000.s116.t014	vomiting	vomiting	NOUN	bn:00027565n;wiki:regurgitation_(digestion);wiki:vomiting;wn:disgorgement%1:04:00::;wn:emesis%1:04:00::;wn:puking%1:04:00::;wn:regurgitation%1:04:00::;wn:vomit%1:04:00::;wn:vomiting%1:04:00::
+	.		X	
+	-end-		X	
+	What		X	
+	is	be	VERB	
+	the		X	
+d000.s117.t000	risk	risk	NOUN	bn:00030747n;wiki:hazard;wiki:risk;wn:endangerment%1:26:00::;wn:hazard%1:26:00::;wn:jeopardy%1:26:00::;wn:peril%1:26:00::;wn:risk%1:26:00::
+d000.s117.t001	associated	associate	VERB	bn:00082868v;wn:associate%2:31:00::;wn:colligate%2:31:02::;wn:connect%2:31:00::;wn:link%2:31:00::;wn:link_up%2:31:00::;wn:relate%2:31:00::;wn:tie_in%2:31:00::
+	with		X	
+	Cerenia	cerenia	NOUN	
+	?		X	
+	-end-		X	
+	Cerenia	cerenia	NOUN	
+	was	be	VERB	
+d000.s118.t000	generally	generally	ADV	bn:00114634r;bn:00115495r;wn:by_and_large%4:02:00::;wn:generally%4:02:01::;wn:generally%4:02:02::;wn:in_general%4:02:00::;wn:in_the_main%4:02:00::;wn:more_often_than_not%4:02:00::;wn:mostly%4:02:03::
+d000.s118.t001	well	well	ADV	bn:00115530r;wn:good%4:02:00::;wn:well%4:02:00::
+d000.s118.t002	tolerated	tolerate	VERB	bn:00095008v;wn:tolerate%2:39:00::
+	when		X	
+d000.s118.t003	administered	administer	VERB	bn:00082365v;wn:administer%2:29:00::;wn:dispense%2:29:00::
+d000.s118.t004	daily	daily	ADV	bn:00114917r;wn:daily%4:02:00::
+	at		X	
+d000.s118.t005	dosages	dosage	NOUN	bn:00028320n;wiki:dose_(biochemistry);wn:dosage%1:06:00::;wn:dose%1:06:00::
+	up	up	ADV	
+	to		X	
+	5		X	
+d000.s118.t006	times	time	NOUN	bn:00019848n;wn:clip%1:11:00::;wn:time%1:11:00::
+	the		X	
+d000.s118.t007	recommended	recommend	VERB	bn:00082418v;wn:advocate%2:32:00::;wn:recommend%2:32:01::;wn:urge%2:32:03::
+d000.s118.t008	doses	dose	NOUN	bn:00028320n;wiki:dose_(biochemistry);wn:dosage%1:06:00::;wn:dose%1:06:00::
+	for		X	
+	an		X	
+d000.s118.t009	extended	extended	ADJ	bn:00101795a;wn:drawn-out%5:00:00:long:02;wn:extended%5:00:00:long:02;wn:lengthy%5:00:00:long:02;wn:prolonged%5:00:00:long:02;wn:protracted%5:00:00:long:02
+d000.s118.t010	period	period	NOUN	bn:00061605n;wiki:time;wn:period%1:28:00::;wn:period_of_time%1:28:00::;wn:time_period%1:28:00::
+	of		X	
+d000.s118.t011	time	time	NOUN	bn:00077267n;bn:00077268n;wn:time%1:28:00::;wn:time%1:28:05::
+	(		X	
+	up	up	ADV	
+	to		X	
+	3		X	
+d000.s118.t012	times	time	NOUN	bn:00019848n;wn:clip%1:11:00::;wn:time%1:11:00::
+	the		X	
+	recommended	recommended	ADJ	
+d000.s118.t013	maximum	maximum	ADJ	bn:00106517a;wn:maximal%3:00:00::;wn:maximum%3:00:00::
+d000.s118.t014	duration	duration	NOUN	bn:00022191n;bn:00029170n;wiki:continuance;wn:continuance%1:28:02::;wn:duration%1:07:00::;wn:duration%1:28:02::;wn:length%1:07:01::
+	of		X	
+d000.s118.t015	treatment	treatment	NOUN	bn:00047235n;wn:intervention%1:04:02::;wn:treatment%1:04:00::
+	)		X	
+	.		X	
+	-end-		X	
+	What		X	
+	are	be	VERB	
+	the		X	
+d000.s119.t000	precautions	precaution	NOUN	bn:00042049n;wn:guard%1:04:03::;wn:precaution%1:04:00::;wn:safeguard%1:04:00::
+	for		X	
+	the		X	
+d000.s119.t001	person	person	NOUN	bn:00046516n;wiki:individual;wiki:person;wn:individual%1:03:00::;wn:mortal%1:03:00::;wn:person%1:03:00::;wn:somebody%1:03:00::;wn:someone%1:03:00::;wn:soul%1:03:00::
+	who		X	
+d000.s119.t002	gives	give	VERB	bn:00088826v;wn:give%2:40:13::
+	the		X	
+d000.s119.t003	medicine	medicine	NOUN	bn:00054128n;bn:00061887n;wiki:pharmaceutical_drug;wn:medicament%1:06:00::;wn:medication%1:06:00::;wn:medicinal_drug%1:06:00::;wn:medicine%1:06:00::;wn:pharmaceutic%1:06:00::;wn:pharmaceutical%1:06:00::
+	or		X	
+d000.s119.t004	comes	come	VERB	bn:00085319v;wn:come%2:38:00::;wn:come_up%2:38:02::
+	into		X	
+d000.s119.t005	contact	contact	NOUN	bn:00022113n;bn:00022114n;wiki:somatosensory_system;wn:contact%1:04:00::;wn:contact%1:26:00::;wn:physical_contact%1:04:00::
+	with		X	
+	the		X	
+d000.s119.t006	animal	animal	NOUN	bn:00004222n;wiki:animal;wiki:fauna;wn:animal%1:03:00::;wn:animate_being%1:03:00::;wn:beast%1:03:00::;wn:brute%1:03:00::;wn:creature%1:03:00::;wn:fauna%1:03:00::
+	?		X	
+	-end-		X	
+	Cerenia	cerenia	NOUN	
+	does	do	VERB	
+d000.s120.t000	not	not	ADV	bn:00116360r;wn:non%4:02:00::;wn:not%4:02:00::
+d000.s120.t001	represent	represent	VERB	bn:00083187v;wn:be%2:42:02::;wn:comprise%2:42:03::;wn:constitute%2:42:00::;wn:make_up%2:42:00::;wn:represent%2:42:00::
+	a		X	
+d000.s120.t002	particular	particular	ADJ	bn:00102398a;bn:00108296a;wn:especial%5:00:00:uncommon:00;wn:exceptional%5:00:00:uncommon:00;wn:particular%5:00:00:uncommon:00;wn:particular%5:00:02:specific:00;wn:special%5:00:00:uncommon:00
+d000.s120.t003	risk	risk	NOUN	bn:00030747n;wiki:hazard;wiki:risk;wn:endangerment%1:26:00::;wn:hazard%1:26:00::;wn:jeopardy%1:26:00::;wn:peril%1:26:00::;wn:risk%1:26:00::
+	for		X	
+d000.s120.t004	people	people	NOUN	
+	.		X	
+	-end-		X	

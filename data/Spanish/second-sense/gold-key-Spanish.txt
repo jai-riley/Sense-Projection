@@ -1,0 +1,2193 @@
+d000.s000.t000 bn:00108977a
+d000.s000.t001 bn:00028015n bn:00028017n                   
+d000.s000.t002 bn:00082392v bn:00086822v bn:00092916v                  
+d000.s000.t003 bn:00067181n wiki:informe                   
+d000.s000.t004 bn:00109211a bn:00109212a                   
+d000.s000.t005 bn:00102440a                    
+d000.s000.t006 bn:00005120n bn:00031972n                   
+d000.s001.t000 bn:00087869v bn:00087870v                   
+d000.s001.t001 bn:00021015n wiki:comité                   
+d000.s001.t002 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s001.t003 bn:00030627n bn:00079370n                   
+d000.s001.t004 bn:00104385a                    
+d000.s001.t005 bn:00082720v                    
+d000.s001.t006 bn:00074790n                    
+d000.s001.t007 bn:00082225v bn:00082311v bn:00087107v                  
+d000.s001.t008 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s001.t009 bn:00084099v bn:00086535v                   
+d000.s001.t010 bn:00066562n                    
+d000.s001.t011 bn:00030627n bn:00036822n                   
+d000.s002.t000 bn:00086682v bn:00086684v                   
+d000.s002.t001 bn:00116285r                    
+d000.s002.t002 bn:00046705n wiki:información                   
+d000.s002.t003 bn:00002171n bn:00027546n bn:00045952n bn:00071428n wiki:enfermedad                
+d000.s002.t004 bn:00047235n bn:00076843n wiki:tratamiento_(medicina)                  
+d000.s002.t005 bn:00110075a                    
+d000.s002.t006 bn:00082418v                    
+d000.s002.t007 bn:00092424v bn:00092432v                   
+d000.s002.t008 bn:02573503n wiki:prospecto                   
+d000.s002.t009 bn:00085499v bn:00089660v bn:00089662v                  
+d000.s002.t010 bn:00082821v bn:00092261v                   
+d000.s002.t011 bn:00027976n bn:00054116n wiki:médico                  
+d000.s002.t012 bn:00004992n wiki:boticario wiki:farmacéutico                  
+d000.s003.t000 bn:00086682v bn:00086684v bn:00095628v                  
+d000.s003.t001 bn:00116285r                    
+d000.s003.t002 bn:00046705n wiki:información                   
+d000.s003.t003 bn:00008786n                    
+d000.s003.t004 bn:00083141v                    
+d000.s003.t005 bn:00066562n                    
+d000.s003.t006 bn:00302314n                    
+d000.s003.t007 bn:00082418v                    
+d000.s003.t008 bn:00092424v bn:00092432v                   
+d000.s003.t009 bn:00005601n wiki:debate                   
+d000.s003.t010 bn:00110175a                    
+d000.s003.t011 bn:00114246r                    
+d000.s003.t012 bn:00085499v bn:00089660v bn:00089662v                  
+d000.s005.t000 bn:00063926n                    
+d000.s005.t001 bn:00090556v                    
+d000.s005.t002 bn:00072760n wiki:disolución                   
+d000.s005.t003 bn:00061571n                    
+d000.s005.t004 bn:00028771n                    
+d000.s005.t005 bn:00057343n bn:00079681n wiki:vena                  
+d000.s006.t000 bn:00085499v                    
+d000.s006.t001 bn:00377649n wiki:fármaco                   
+d000.s006.t002 bn:00096382a bn:00096387a                   
+d000.s007.t000 bn:00082705v bn:00089140v                   
+d000.s008.t000 bn:00087644v                    
+d000.s008.t001 bn:00047235n bn:00076843n wiki:tratamiento_(medicina)                  
+d000.s008.t002 bn:00035907n bn:00073211n bn:00078798n bn:00078799n wiki:tipo_nomenclatural                
+d000.s008.t003 bn:00015180n wiki:cáncer                   
+d000.s008.t004 bn:00054512n wiki:mesotelioma                   
+d000.s008.t005 bn:00108692a                    
+d000.s008.t006 bn:00015180n wiki:cáncer                   
+d000.s008.t007 bn:00020185n wiki:recubrimiento                   
+d000.s008.t008 bn:00052341n wiki:pulmón                   
+d000.s008.t009 bn:00084069v bn:00084699v                   
+d000.s008.t010 bn:00114634r bn:00114778r                   
+d000.s008.t011 bn:00032375n                    
+d000.s008.t012 bn:00006236n wiki:asbesto                   
+d000.s009.t000 bn:00082365v                    
+d000.s009.t001 bn:00020872n bn:00020878n bn:00020884n                  
+d000.s009.t002 bn:00577781n wiki:cisplatino                   
+d000.s009.t003 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s009.t004 bn:00015180n wiki:cáncer                   
+d000.s009.t005 bn:00057267n wiki:tumor                   
+d000.s009.t006 bn:00116348r                    
+d000.s009.t007 bn:00087923v                    
+d000.s009.t008 bn:00114234r                    
+d000.s009.t009 bn:00059129n wiki:cirugía                   
+d000.s009.t010 bn:00106363a                    
+d000.s009.t011 bn:00087063v                    
+d000.s009.t012 bn:00105981a bn:00105982a bn:00105984a                  
+d000.s009.t013 bn:00087063v                    
+d000.s009.t014 bn:00115155r bn:00115181r                   
+d000.s009.t015 bn:00011769n
+d000.s009.t016 bn:00003882n bn:00011744n wiki:cuerpo_(anatomía) wiki:cuerpo_humano                 
+d000.s009.t017 bn:00061017n wiki:paciente                   
+d000.s009.t018 bn:00116360r                    
+d000.s009.t019 bn:00089246v                    
+d000.s009.t020 bn:00018141n wiki:quimioterapia                   
+d000.s009.t021 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s009.t022 bn:00015180n wiki:cáncer                   
+d000.s009.t023 bn:00114297r bn:00114512r                   
+d000.s009.t024 bn:00052343n wiki:cáncer_de_pulmón
+d000.s009.t025 bn:00052341n wiki:pulmón
+d000.s009.t026 bn:00054742n                    
+d000.s009.t027 bn:00096528a                    
+d000.s009.t028 bn:00054585n wiki:metástasis                   
+d000.s009.t029 bn:00116360r                    
+d000.s009.t030 bn:00082426v bn:00082427v                   
+d000.s009.t031 bn:00017027n wiki:célula                   
+d000.s010.t000 bn:00082705v bn:00089140v                   
+d000.s010.t001 bn:00020872n bn:00020878n bn:00020884n                  
+d000.s010.t002 bn:00577781n wiki:cisplatino                   
+d000.s010.t003 bn:00061017n wiki:paciente                   
+d000.s010.t004 bn:00116360r                    
+d000.s010.t005 bn:00084532v bn:00087136v                   
+d000.s010.t006 bn:00114297r bn:00114512r                   
+d000.s010.t007 bn:00749648n                    
+d000.s010.t008 bn:00061017n wiki:paciente                   
+d000.s010.t009 bn:00084532v bn:00087136v                   
+d000.s010.t010 bn:00114297r bn:00114512r                   
+d000.s010.t011 bn:00035907n bn:00073211n bn:00078798n bn:00078799n wiki:tipo_nomenclatural                
+d000.s010.t012 bn:00018141n wiki:quimioterapia                   
+d000.s011.t000 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s011.t001 bn:00114234r                    
+d000.s011.t002 bn:00082365v                    
+d000.s011.t003 bn:00031708n wiki:medicamento wiki:prescripción_(medicina)
+d000.s011.t004 bn:00106554a bn:00106555a
+d000.s012.t000 bn:00082705v                    
+d000.s013.t000 bn:00114234r                    
+d000.s013.t001 bn:00082365v                    
+d000.s013.t002 bn:00059908n                    
+d000.s013.t003 bn:00027976n bn:00028003n bn:00054116n wiki:doctor_en_medicina wiki:médico                
+d000.s013.t004 bn:00092243v                    
+d000.s013.t005 bn:00030627n bn:00036822n bn:00079370n                  
+d000.s013.t006 bn:00018141n wiki:quimioterapia                   
+d000.s013.t007 bn:00015180n wiki:cáncer                   
+d000.s014.t000 bn:00028320n wiki:dosis                   
+d000.s014.t001 bn:00082418v                    
+d000.s014.t002 bn:00054701n wiki:órdenes_de_magnitud_(masa)                   
+d000.s014.t003 bn:00017102n wiki:metro_cuadrado
+d000.s014.t004 bn:00111084a
+d000.s014.t005 bn:03551355n wiki:área_de_superficie_corporal
+d000.s014.t006 bn:00098648a
+d000.s014.t007 bn:00084373v                    
+d000.s014.t008 bn:00043545n wiki:estatura                   
+d000.s014.t009 bn:00011779n bn:00080831n wiki:peso wiki:peso#el_peso_de_un_ser_humano                 
+d000.s014.t010 bn:00061017n wiki:paciente                   
+d000.s014.t011 bn:00082365v                    
+d000.s014.t012 bn:00019848n                    
+d000.s014.t013 bn:00043484n wiki:semana                   
+d000.s014.t014 bn:00061571n                    
+d000.s014.t015 bn:00102230a                    
+d000.s014.t016 bn:00055094n wiki:minuto                   
+d000.s015.t000 bn:00030721n                    
+d000.s015.t001 bn:00082125v bn:00084079v                   
+d000.s015.t002 bn:00071445n bn:00450782n bn:00686074n wiki:reacción_adversa_a_medicamento
+d000.s015.t003 bn:00110247a bn:00110248a bn:00110249a
+d000.s015.t004 bn:00061017n wiki:paciente                   
+d000.s015.t005 bn:00089246v                    
+d000.s015.t006 bn:00001507n wiki:corticosteroide                   
+d000.s015.t007 bn:00035585n wiki:ácido_fólico
+d000.s015.t008 bn:00035907n bn:00073211n bn:00078798n bn:00078799n wiki:tipo_nomenclatural
+d000.s015.t009 bn:00080147n wiki:vitamina                   
+d000.s015.t010 bn:00046787n wiki:inyección_(medicina)                   
+d000.s015.t011 bn:00004712n wiki:cianocobalamina
+d000.s015.t012 bn:00047235n bn:00076843n wiki:tratamiento_(medicina)                  
+d000.s016.t000 bn:00082705v bn:00089140v                   
+d000.s016.t001 bn:00114766r                    
+d000.s016.t002 bn:00577781n wiki:cisplatino                   
+d000.s016.t003 bn:00082365v                    
+d000.s016.t004 bn:00114134r bn:00114246r bn:00115484r                  
+d000.s016.t005 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s016.t006 bn:00004656n wiki:antiemético                   
+d000.s016.t007 bn:00088454v bn:00090033v                   
+d000.s016.t008 bn:00027565n wiki:regurgitación wiki:vómito                  
+d000.s016.t009 bn:00051471n bn:00051473n                   
+d000.s016.t010 bn:00088454v bn:00090033v                   
+d000.s016.t011 bn:00025982n bn:00025983n wiki:deshidratación                  
+d000.s016.t012 bn:00028320n wiki:dosis                   
+d000.s016.t013 bn:00577781n wiki:cisplatino                   
+d000.s017.t000 bn:00107194a                    
+d000.s017.t001 bn:00083908v bn:00083995v                   
+d000.s017.t002 bn:00047235n bn:00076843n wiki:tratamiento_(medicina)                  
+d000.s017.t003 bn:00084079v bn:00086418v                   
+d000.s017.t004 bn:00028320n wiki:dosis                   
+d000.s017.t005 bn:00061017n wiki:paciente                   
+d000.s017.t006 bn:00087013v bn:00088078v                   
+d000.s017.t007 bn:00003125n bn:00017651n                   
+d000.s017.t008 bn:00103595a                    
+d000.s017.t009 bn:00071445n bn:00450782n bn:00686074n wiki:reacción_adversa_a_medicamento                 
+d000.s017.t010 bn:00110247a bn:00110248a bn:00110249a                  
+d000.s018.t000 bn:00116360r                    
+d000.s018.t001 bn:00082418v bn:00085410v                   
+d000.s018.t002 bn:00082365v                    
+d000.s018.t003 bn:00061017n wiki:paciente                   
+d000.s018.t004 bn:00002171n bn:00048242n                   
+d000.s018.t005 bn:00107226a                    
+d000.s018.t006 bn:00106826a bn:00106827a                   
+d000.s018.t007 bn:00100896a                    
+d000.s019.t000 bn:00086682v bn:00086684v                   
+d000.s019.t001 bn:00116285r                    
+d000.s019.t002 bn:00046705n wiki:información                   
+d000.s019.t003 bn:00085686v                    
+d000.s019.t004 bn:00031259n bn:00075142n                   
+d000.s019.t005 bn:00017747n bn:00017761n bn:00017762n                  
+d000.s019.t006 bn:00064584n bn:00064585n                   
+d000.s019.t007 bn:00114246r                    
+d000.s019.t008 bn:00085670v                    
+d000.s019.t009 bn:00027912n bn:00070193n wiki:segmento                  
+d000.s020.t000 bn:00082286v                    
+d000.s021.t000 bn:00377649n wiki:fármaco                   
+d000.s021.t001 bn:00096382a bn:00096387a                   
+d000.s021.t002 bn:00602447n                    
+d000.s021.t003 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s021.t004 bn:00024920n wiki:citotoxicidad                   
+d000.s021.t005 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s021.t006 bn:00086698v bn:00086699v bn:00090134v                  
+d000.s021.t007 bn:00017027n wiki:célula                   
+d000.s021.t008 bn:00025966n bn:00061898n                   
+d000.s021.t009 bn:00027913n bn:00027920n bn:00070547n                  
+d000.s021.t010 bn:00099180a                    
+d000.s021.t011 bn:00083389v                    
+d000.s021.t012 bn:00041942n                    
+d000.s021.t013 bn:00004691n wiki:antimetabolito                   
+d000.s022.t000 bn:00004257n bn:00009677n wiki:ser_vivo                  
+d000.s022.t001 bn:00602447n                    
+d000.s022.t002 bn:00085761v bn:00085768v                   
+d000.s022.t003 bn:00035908n wiki:forma_musical                   
+d000.s022.t004 bn:00096382a bn:00096387a                   
+d000.s022.t005 bn:00083629v bn:00083630v bn:00083636v bn:00083642v                 
+d000.s022.t006 bn:00001173n                    
+d000.s022.t007 bn:00031085n wiki:enzima                   
+d000.s022.t008 bn:00087628v bn:00087677v                   
+d000.s022.t009 bn:00064590n                    
+d000.s022.t010 bn:00008788n wiki:nucleótido                   
+d000.s022.t011 bn:00021396n                    
+d000.s022.t012 bn:00099258a bn:00102400a bn:00102401a                  
+d000.s022.t013 bn:00026301n wiki:ácido_desoxirribonucleico                   
+d000.s022.t014 bn:00037738n wiki:genoma                   
+d000.s022.t015 bn:00103522a                    
+d000.s022.t016 bn:00017027n wiki:célula                   
+d000.s023.t000 bn:00035907n bn:00073211n bn:00078798n                  
+d000.s023.t001 bn:00030952n bn:00074790n                   
+d000.s023.t002 bn:00082225v bn:00082311v bn:00087107v                  
+d000.s024.t000 bn:00083240v                    
+d000.s024.t001 bn:00047235n bn:00076843n wiki:tratamiento_(medicina)                  
+d000.s024.t002 bn:00054512n wiki:mesotelioma                   
+d000.s024.t003 bn:00108692a                    
+d000.s024.t004 bn:00106363a                    
+d000.s024.t005 bn:00082720v                    
+d000.s024.t006 bn:00030952n bn:00067181n bn:00074790n wiki:informe                 
+d000.s024.t007 bn:00098086a bn:00105809a bn:00106332a                  
+d000.s024.t008 bn:00082225v bn:00082311v bn:00087107v bn:00087108v                 
+d000.s024.t009 bn:00061017n wiki:paciente                   
+d000.s024.t010 bn:00116360r                    
+d000.s024.t011 bn:00089246v                    
+d000.s024.t012 bn:00018141n wiki:quimioterapia                   
+d000.s024.t013 bn:00114297r bn:00114423r                   
+d000.s025.t000 bn:00085450v                    
+d000.s025.t001 bn:00021961n bn:00046065n                   
+d000.s025.t002 bn:00020872n bn:00020878n bn:00020884n                  
+d000.s025.t003 bn:00577781n wiki:cisplatino                   
+d000.s025.t004 bn:00021961n bn:00046065n                   
+d000.s025.t005 bn:00577781n wiki:cisplatino                   
+d000.s025.t006 bn:00082365v                    
+d000.s025.t007 bn:00106121a                    
+d000.s026.t000 bn:08342574n wiki:tratamiento_del_cáncer_de_pulmón                   
+d000.s026.t001 bn:00052343n wiki:cáncer_de_pulmón                   
+d000.s026.t002 bn:00052341n wiki:pulmón                   
+d000.s026.t003 bn:00054742n                    
+d000.s026.t004 bn:00085450v                    
+d000.s026.t005 bn:00021961n bn:00046065n                   
+d000.s026.t006 bn:01537207n wiki:docetaxel                   
+d000.s026.t007 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s026.t008 bn:00015180n wiki:cáncer                   
+d000.s026.t009 bn:00030952n bn:00067181n bn:00074790n wiki:informe                 
+d000.s026.t010 bn:00082225v bn:00082311v bn:00087107v bn:00087108v                 
+d000.s026.t011 bn:00061017n wiki:paciente                   
+d000.s026.t012 bn:00002171n bn:00027546n bn:00045952n bn:00071428n wiki:enfermedad                
+d000.s026.t013 bn:00088478v                    
+d000.s026.t014 bn:00054585n wiki:metástasis                   
+d000.s026.t015 bn:00089246v                    
+d000.s026.t016 bn:00018141n wiki:quimioterapia                   
+d000.s026.t017 bn:00114297r bn:00114512r                   
+d000.s027.t000 bn:00114246r                    
+d000.s027.t001 bn:00085450v                    
+d000.s027.t002 bn:00848690n wiki:gemcitabina                   
+d000.s027.t003 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s027.t004 bn:00015180n wiki:cáncer                   
+d000.s027.t005 bn:00020872n bn:00020878n bn:00020884n                  
+d000.s027.t006 bn:00577781n wiki:cisplatino                   
+d000.s027.t007 bn:00030952n bn:00067181n bn:00074790n wiki:informe                 
+d000.s027.t008 bn:00061017n wiki:paciente                   
+d000.s027.t009 bn:00089246v                    
+d000.s027.t010 bn:00018141n wiki:quimioterapia                   
+d000.s027.t011 bn:00052343n wiki:cáncer_de_pulmón                   
+d000.s027.t012 bn:00052341n wiki:pulmón                   
+d000.s027.t013 bn:00114297r bn:00114512r                   
+d000.s028.t000 bn:00030952n bn:00067181n bn:00074790n wiki:informe                 
+d000.s028.t001 bn:00023853n wiki:norma_(tecnología)                   
+d000.s028.t002 bn:00098086a bn:00105809a bn:00106332a                  
+d000.s028.t003 bn:00005164n bn:00006502n wiki:aproximación wiki:estimación                 
+d000.s028.t004 bn:00029876n bn:00029877n bn:00029888n wiki:efectividad                 
+d000.s028.t005 bn:00077268n                    
+d000.s028.t006 bn:00030811n bn:03155178n                   
+d000.s028.t007 bn:00061017n wiki:paciente                   
+d000.s029.t000 bn:00009905n bn:00037022n                   
+d000.s029.t001 bn:00086567v bn:00092109v                   
+d000.s029.t002 bn:00089240v                    
+d000.s029.t003 bn:00030952n bn:00067181n bn:00074790n wiki:informe                 
+d000.s030.t000 bn:00087274v bn:00090070v                   
+d000.s030.t001 bn:00077268n                    
+d000.s030.t002 bn:00030811n bn:00075436n bn:03155178n                  
+d000.s030.t003 bn:00061017n wiki:paciente                   
+d000.s030.t004 bn:00054512n wiki:mesotelioma                   
+d000.s030.t005 bn:00108692a                    
+d000.s030.t006 bn:00106363a                    
+d000.s031.t000 bn:00061017n wiki:paciente                   
+d000.s031.t001 bn:00089246v                    
+d000.s031.t002 bn:00577781n wiki:cisplatino                   
+d000.s031.t003 bn:00085382v bn:00087617v                   
+d000.s031.t004 bn:00005677n bn:00007449n bn:00054001n wiki:esperanza_matemática wiki:media wiki:media_(matemáticas) wiki:media_aritmética              
+d000.s031.t005 bn:00055794n wiki:mes                   
+d000.s031.t006 bn:00030811n bn:03155178n                   
+d000.s031.t007 bn:00071414n                    
+d000.s031.t008 bn:00084532v bn:00087136v                   
+d000.s031.t009 bn:00114234r bn:00114626r                   
+d000.s031.t010 bn:00577781n wiki:cisplatino                   
+d000.s031.t011 bn:00055794n wiki:mes                   
+d000.s032.t000 bn:00047235n bn:00076843n wiki:tratamiento_(medicina)                  
+d000.s032.t001 bn:00061017n wiki:paciente                   
+d000.s032.t002 bn:00052343n wiki:cáncer_de_pulmón                   
+d000.s032.t003 bn:00052341n wiki:pulmón                   
+d000.s032.t004 bn:00054742n                    
+d000.s032.t005 bn:00114354r                    
+d000.s032.t006 bn:00102038a bn:00102040a                   
+d000.s032.t007 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s032.t008 bn:00021297n bn:00021303n                   
+d000.s033.t000 bn:00061017n wiki:paciente                   
+d000.s033.t001 bn:00089246v                    
+d000.s033.t002 bn:00018141n wiki:quimioterapia                   
+d000.s033.t003 bn:00114297r bn:00114512r                   
+d000.s033.t004 bn:00077268n                    
+d000.s033.t005 bn:00097854a                    
+d000.s033.t006 bn:00030811n bn:00075436n bn:03155178n                  
+d000.s033.t007 bn:00055794n wiki:mes                   
+d000.s033.t008 bn:00055794n wiki:mes                   
+d000.s033.t009 bn:01537207n wiki:docetaxel                   
+d000.s034.t000 bn:00061017n wiki:paciente                   
+d000.s034.t001 bn:00089246v                    
+d000.s034.t002 bn:00114297r bn:00114512r                   
+d000.s034.t003 bn:00018141n wiki:quimioterapia                   
+d000.s034.t004 bn:00077267n bn:00077268n                   
+d000.s034.t005 bn:00077268n                    
+d000.s034.t006 bn:00097854a                    
+d000.s034.t007 bn:00030811n bn:00075436n bn:03155178n                  
+d000.s034.t008 bn:00055794n wiki:mes                   
+d000.s034.t009 bn:00041942n bn:00072536n wiki:grupo_social                  
+d000.s035.t000 bn:00114216r                    
+d000.s035.t001 bn:00061017n wiki:paciente                   
+d000.s035.t002 bn:00030952n bn:00067181n bn:00074790n wiki:informe                 
+d000.s035.t003 bn:00015180n wiki:cáncer                   
+d000.s035.t004 bn:00082426v bn:00082427v                   
+d000.s035.t005 bn:00073708n bn:08363874n wiki:células_escamosas wiki:epitelio_escamoso_estratificado                 
+d000.s035.t006 bn:00087013v bn:00088078v                   
+d000.s035.t007 bn:00098342a                    
+d000.s035.t008 bn:00077268n                    
+d000.s035.t009 bn:00030811n bn:00075436n bn:03155178n                  
+d000.s035.t010 bn:00089246v                    
+d000.s035.t011 bn:00089246v                    
+d000.s035.t012 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s035.t013 bn:00021297n bn:00021303n                   
+d000.s036.t000 bn:00114842r                    
+d000.s036.t001 bn:00061017n wiki:paciente                   
+d000.s036.t002 bn:00015180n wiki:cáncer                   
+d000.s036.t003 bn:00082426v bn:00082427v                   
+d000.s036.t004 bn:00073708n bn:08363874n wiki:células_escamosas wiki:epitelio_escamoso_estratificado                 
+d000.s036.t005 bn:00087013v bn:00088078v                   
+d000.s036.t006 bn:00077268n                    
+d000.s036.t007 bn:00030811n bn:00075436n bn:03155178n                  
+d000.s036.t008 bn:00116284r                    
+d000.s036.t009 bn:00098854a bn:00102300a                   
+d000.s036.t010 bn:00084532v bn:00087136v                   
+d000.s036.t011 bn:03466887n wiki:calculadora_(windows)                   
+d000.s036.t012 bn:00106488a bn:00106489a                   
+d000.s036.t013 bn:00083141v                    
+d000.s036.t014 bn:00053492n wiki:lenguaje_de_marcado                   
+d000.s037.t000 bn:00058218n wiki:presente_(tiempo)                   
+d000.s037.t001 bn:00096151a bn:00111427a                   
+d000.s037.t002 bn:00082225v bn:00082311v bn:00087107v bn:00087108v                 
+d000.s037.t003 bn:00053826n bn:00059128n wiki:operación_matemática                  
+d000.s037.t004 bn:00102111a                    
+d000.s037.t005 bn:00097495a                    
+d000.s037.t006 bn:00106117a                    
+d000.s037.t007 bn:00082705v                    
+d000.s037.t008 bn:00089839v                    
+d000.s037.t009 bn:00017904n bn:00041412n wiki:diagrama wiki:gráfica_de_una_función                 
+d000.s037.t010 bn:00076958n bn:03099624n wiki:dimensión_de_un_espacio_vectorial wiki:tridimensional                 
+d000.s037.t011 bn:00027152n bn:03099624n wiki:dimensión_de_un_espacio_vectorial                  
+d000.s038.t000 bn:00107182a bn:00107194a                   
+d000.s038.t001 bn:00090141v bn:00090143v                   
+d000.s038.t002 bn:00082705v bn:00095474v                   
+d000.s038.t003 bn:02710162n wiki:calculadora_gráfica                   
+d000.s038.t004 bn:00103741a                    
+d000.s038.t005 bn:00083141v                    
+d000.s039.t000 bn:00009632n bn:00009633n                   
+d000.s039.t001 bn:00091199v                    
+d000.s039.t002 bn:00114119r bn:00114905r                   
+d000.s039.t003 bn:00082705v bn:00095474v                   
+d000.s039.t004 bn:00023661n bn:00046516n wiki:alma_en_pena wiki:individuo wiki:persona                
+d000.s039.t005 bn:00089240v                    
+d000.s039.t006 bn:00020452n bn:00030716n wiki:aprendizaje wiki:conocimiento                 
+d000.s039.t007 bn:00106488a bn:00106489a                   
+d000.s040.t000 bn:00115639r bn:00115640r                   
+d000.s040.t001 bn:00086611v bn:00093682v                   
+d000.s040.t002 bn:00081292n wiki:ventana_(informática)                   
+d000.s040.t003 bn:00098086a bn:00099598a bn:00106332a                  
+d000.s040.t004 bn:00081292n wiki:ventana_(informática)                   
+d000.s040.t005 bn:00098086a bn:00099598a bn:00106332a                  
+d000.s040.t006 bn:00081292n wiki:ventana_(informática)                   
+d000.s040.t007 bn:00098086a bn:00099598a bn:00106332a                  
+d000.s040.t008 bn:00085498v                    
+d000.s040.t009 bn:00120018n wiki:navegación_por_pestañas                   
+d000.s040.t010 bn:00020949n wiki:línea_de_comandos                   
+d000.s040.t011 bn:00017904n bn:00041412n wiki:diagrama wiki:gráfica_de_una_función                 
+d000.s040.t012 bn:00780722n wiki:bidimensional                   
+d000.s040.t013 bn:00017904n bn:00041412n wiki:diagrama wiki:gráfica_de_una_función                 
+d000.s040.t014 bn:00076958n wiki:tridimensional                   
+d000.s040.t015 bn:00026967n wiki:diccionario                   
+d000.s041.t000 bn:00120018n wiki:navegación_por_pestañas                   
+d000.s041.t001 bn:00082811v bn:00084231v bn:00086708v bn:00088204v                 
+d000.s041.t002 bn:00034274n wiki:campo_(informática)                   
+d000.s041.t003 bn:00031062n bn:04599439n wiki:entrada                  
+d000.s041.t004 bn:00087594v bn:00089861v                   
+d000.s041.t005 bn:00036821n wiki:función_matemática                   
+d000.s041.t006 bn:00082225v bn:00087107v bn:00087108v                  
+d000.s041.t007 bn:00014688n bn:00014689n wiki:cuenta_(matemáticas)                  
+d000.s042.t000 bn:00092443v bn:00095375v                   
+d000.s042.t001 bn:00088629v                    
+d000.s042.t002 bn:00082723v bn:00095375v                   
+d000.s042.t003 bn:00087594v bn:00089861v                   
+d000.s042.t004 bn:00084785v bn:00085761v                   
+d000.s042.t005 bn:00107182a bn:00107194a                   
+d000.s042.t006 bn:00090141v bn:00090143v                   
+d000.s042.t007 bn:03313895n wiki:mathml                   
+d000.s043.t000 bn:00083141v                    
+d000.s043.t001 bn:02561609n                    
+d000.s043.t002 bn:00021164n wiki:sentido_común                   
+d000.s043.t003 bn:00100090a bn:00100091a bn:00100095a                  
+d000.s043.t004 bn:00097717a                    
+d000.s044.t000 bn:00114246r                    
+d000.s044.t001 bn:02561609n                    
+d000.s044.t002 bn:00115300r bn:00116789r                   
+d000.s044.t003 bn:00096782a bn:00105977a bn:00110647a                  
+d000.s044.t004 bn:00001296n wiki:suma wiki:sumatorio                  
+d000.s044.t005 bn:00055233n wiki:resta wiki:signos_más_y_menos                  
+d000.s044.t006 bn:00056300n wiki:multiplicación                   
+d000.s044.t007 bn:00027919n wiki:división_(matemática)                   
+d000.s044.t008 bn:00032355n bn:00032362n wiki:potenciación                  
+d000.s044.t009 bn:00082705v bn:00095474v                   
+d000.s044.t010 bn:00001965n                    
+d000.s045.t000 bn:00114246r bn:00116128r                   
+d000.s045.t001 bn:00082705v bn:00095474v                   
+d000.s045.t002 bn:00017752n bn:09438926n wiki:grafema                  
+d000.s046.t000 bn:00032355n bn:00032362n wiki:potenciación                  
+d000.s046.t001 bn:00114246r                    
+d000.s046.t002 bn:00001965n bn:00016529n bn:00033729n                  
+d000.s046.t003 bn:00087895v                    
+d000.s046.t004 bn:00068247n                    
+d000.s046.t005 bn:00082536v                    
+d000.s046.t006 bn:00082858v bn:00086464v bn:00086468v                  
+d000.s046.t007 bn:00079581n bn:00079583n wiki:variable wiki:variable_(programación)                 
+d000.s046.t008 bn:00083798v                    
+d000.s046.t009 bn:00036821n wiki:función_matemática                   
+d000.s046.t010 bn:00082705v bn:00095474v                   
+d000.s046.t011 bn:00086464v bn:00086468v                   
+d000.s046.t012 bn:00064072n                    
+d000.s046.t013 bn:00060753n                    
+d000.s046.t014 bn:00111596a                    
+d000.s046.t015 bn:00082811v bn:00086708v bn:00088204v                  
+d000.s046.t016 bn:00036821n wiki:función_matemática                   
+d000.s046.t017 bn:00084848v bn:00086567v                   
+d000.s046.t018 bn:00059141n bn:03744320n wiki:operador                  
+d000.s047.t000 bn:00087116v bn:00092034v                   
+d000.s047.t001 bn:00059141n bn:03744320n wiki:operador                  
+d000.s047.t002 bn:00087116v bn:00092034v                   
+d000.s047.t003 bn:00036821n wiki:función_matemática                   
+d000.s047.t004 bn:00079373n wiki:usuario_(informática)                   
+d000.s047.t005 bn:00082705v bn:00095474v                   
+d000.s047.t006 bn:00086464v bn:00086466v                   
+d000.s047.t007 bn:00079508n                    
+d000.s047.t008 bn:00079581n bn:00079583n wiki:variable wiki:variable_(programación)                 
+d000.s047.t009 bn:00025928n wiki:definición                   
+d000.s047.t010 bn:00021645n                    
+d000.s047.t011 bn:00036821n wiki:función_matemática                   
+d000.s047.t012 bn:00086466v                    
+d000.s047.t013 bn:03132721n wiki:función_definida_a_trozos                   
+d000.s048.t000 bn:00082536v                    
+d000.s048.t001 bn:00086464v bn:00086466v                   
+d000.s048.t002 bn:00053826n bn:00059128n wiki:operación_matemática                  
+d000.s048.t003 bn:00100214a                    
+d000.s049.t000 bn:00021645n                    
+d000.s049.t001 bn:00071529n bn:00075652n wiki:signo_lingüístico wiki:símbolo                 
+d000.s049.t002 bn:00082705v                    
+d000.s049.t003 bn:00021645n                    
+d000.s049.t004 bn:00112146a                    
+d000.s049.t005 bn:00082811v bn:00084231v bn:00086708v bn:00088204v                 
+d000.s049.t006 bn:00071529n bn:00075652n wiki:signo_lingüístico wiki:símbolo                 
+d000.s049.t007 bn:00021645n                    
+d000.s049.t008 bn:00085649v                    
+d000.s049.t009 bn:00100203a bn:00102969a bn:00105739a bn:00105740a                 
+d000.s049.t010 bn:00032099n                    
+d000.s049.t011 bn:00082705v                    
+d000.s049.t012 bn:00086466v                    
+d000.s049.t013 bn:03305154n                    
+d000.s050.t000 bn:00115300r bn:00116789r                   
+d000.s050.t001 bn:00104094a bn:00113455a bn:00113456a                  
+d000.s050.t002 bn:00077267n bn:00077269n                   
+d000.s050.t003 bn:00095823v                    
+d000.s050.t004 bn:00036821n wiki:función_matemática                   
+d000.s050.t005 bn:00086464v bn:00086466v                   
+d000.s050.t006 bn:03132721n wiki:función_definida_a_trozos                   
+d000.s051.t000 bn:00114424r bn:00116383r                   
+d000.s051.t001 bn:00082821v bn:00092261v bn:00092265v                  
+d000.s051.t002 bn:00079373n bn:01322530n wiki:usuario_(informática)                  
+d000.s051.t003 bn:00085522v                    
+d000.s051.t004 bn:00004451n                    
+d000.s051.t005 bn:00101973a bn:00102052a                   
+d000.s051.t006 bn:00082225v bn:00082311v bn:00087107v bn:00087108v                 
+d000.s051.t007 bn:00053826n wiki:operación_matemática                   
+d000.s051.t008 bn:00036821n wiki:función_matemática                   
+d000.s051.t009 bn:00071709n wiki:seno_(trigonometría)                   
+d000.s051.t010 bn:00019189n wiki:función_trigonométrica                   
+d000.s051.t011 bn:00001296n wiki:suma wiki:sumatorio                  
+d000.s051.t012 bn:00053827n wiki:productorio                   
+d000.s052.t000 bn:00085860v bn:00089815v                   
+d000.s052.t001 bn:03403506n                    
+d000.s052.t002 bn:00036821n wiki:función_matemática                   
+d000.s053.t000 bn:00082705v                    
+d000.s053.t001 bn:00001296n wiki:suma wiki:sumatorio                  
+d000.s053.t002 bn:00053827n wiki:productorio                   
+d000.s053.t003 bn:00076924n                    
+d000.s053.t004 bn:00082477v bn:00085591v                   
+d000.s053.t005 bn:00059141n bn:03744320n wiki:operador                  
+d000.s053.t006 bn:00020949n wiki:línea_de_comandos                   
+d000.s053.t007 bn:00114354r                    
+d000.s053.t008 bn:00104094a bn:00113455a bn:00113456a                  
+d000.s053.t009 bn:03466887n wiki:calculadora_(windows)                   
+d000.s054.t000 bn:00115639r bn:00116504r                   
+d000.s054.t001 bn:00088078v bn:00089240v                   
+d000.s054.t002 bn:00051508n                    
+d000.s054.t003 bn:00079581n bn:00079583n wiki:variable wiki:variable_(programación)                 
+d000.s055.t000 bn:00019848n                    
+d000.s055.t001 bn:00082691v                    
+d000.s055.t002 bn:00084772v                    
+d000.s055.t003 bn:00079508n                    
+d000.s055.t004 bn:00001965n                    
+d000.s055.t005 bn:00088310v                    
+d000.s056.t000 bn:00087594v bn:00089861v                   
+d000.s056.t001 bn:00032395n bn:03834028n wiki:expresión_(informática) wiki:fórmula_(expresión)                 
+d000.s056.t002 bn:00079508n                    
+d000.s056.t003 bn:00079581n bn:00079583n wiki:variable wiki:variable_(programación)                 
+d000.s056.t004 bn:00082553v bn:00084772v                   
+d000.s056.t005 bn:00092850v                    
+d000.s056.t006 bn:00105739a bn:00105740a                   
+d000.s056.t007 bn:00034520n                    
+d000.s057.t000 bn:00020947n wiki:comando_(tecla) wiki:control_(tecla)                  
+d000.s057.t001 bn:00056688n wiki:n                   
+d000.s059.t000 bn:00020947n wiki:comando_(tecla) wiki:control_(tecla)                  
+d000.s059.t001 bn:00049538n wiki:l                   
+d000.s060.t000 bn:00087107v bn:00087823v                   
+d000.s060.t001 bn:00020945n wiki:comando_(informática)                   
+d000.s060.t002 bn:00021475n wiki:archivo_(informática)                   
+d000.s060.t003 bn:00001965n                    
+d000.s060.t004 bn:00100306a                    
+d000.s061.t000 bn:00104094a bn:00113455a bn:00113456a                  
+d000.s061.t001 bn:00086682v bn:00086684v                   
+d000.s061.t002 bn:00086466v                    
+d000.s061.t003 bn:00050969n wiki:biblioteca_(informática)                   
+d000.s061.t004 bn:00092914v bn:00092915v                   
+d000.s061.t005 bn:00062309n bn:00081568n                   
+d000.s061.t006 bn:00097192a bn:00108909a                   
+d000.s062.t000 bn:00020947n wiki:comando_(tecla) wiki:control_(tecla)                  
+d000.s062.t001 bn:00036962n wiki:g                   
+d000.s062.t002 bn:00090043v                    
+d000.s063.t000 bn:00090043v                    
+d000.s063.t001 bn:00020945n wiki:comando_(informática)                   
+d000.s063.t002 bn:00087594v bn:00089861v                   
+d000.s063.t003 bn:00083341v bn:00088761v                   
+d000.s063.t004 bn:03751534n                    
+d000.s064.t000 bn:00084080v bn:00086009v                   
+d000.s064.t001 bn:00028018n wiki:documento_de_texto                   
+d000.s064.t002 bn:00076732n                    
+d000.s064.t003 bn:00082357v bn:00082575v bn:00085831v                  
+d000.s064.t004 bn:00082705v                    
+d000.s064.t005 bn:00076736n wiki:editor_de_texto                   
+d000.s064.t006 bn:00076732n                    
+d000.s064.t007 bn:00115147r                    
+d000.s065.t000 bn:00020947n wiki:comando_(tecla) wiki:control_(tecla)                  
+d000.s065.t001 bn:00068673n wiki:s                   
+d000.s065.t002 bn:00090043v                    
+d000.s066.t000 bn:00090043v                    
+d000.s066.t001 bn:00034520n                    
+d000.s066.t002 bn:00021475n wiki:archivo_(informática)                   
+d000.s066.t003 bn:00045087n wiki:html                   
+d000.s066.t004 bn:00089639v bn:00092025v                   
+d000.s066.t005 bn:00092023v                    
+d000.s067.t000 bn:00020947n wiki:comando_(tecla) wiki:control_(tecla)                  
+d000.s067.t001 bn:00065472n wiki:q                   
+d000.s067.t002 bn:03500215n                    
+d000.s068.t000 bn:00085164v                    
+d000.s068.t001 bn:00021492n wiki:programa_informático                   
+d000.s069.t000 bn:00082317v bn:00082324v                   
+d000.s069.t001 bn:00103741a                    
+d000.s069.t002 bn:00780722n wiki:bidimensional                   
+d000.s069.t003 bn:00120018n wiki:navegación_por_pestañas                   
+d000.s069.t004 bn:00103741a                    
+d000.s069.t005 bn:00780722n wiki:bidimensional                   
+d000.s069.t006 bn:00115639r bn:00116504r                   
+d000.s069.t007 bn:00120018n wiki:navegación_por_pestañas                   
+d000.s069.t008 bn:00082317v bn:03181108n                   
+d000.s069.t009 bn:00082536v                    
+d000.s069.t010 bn:00082317v bn:00082324v                   
+d000.s069.t011 bn:00107270a                    
+d000.s069.t012 bn:00036821n wiki:función_matemática                   
+d000.s070.t000 bn:00086600v                    
+d000.s070.t001 bn:00017904n wiki:diagrama                   
+d000.s070.t002 bn:00076732n                    
+d000.s070.t003 bn:00031062n bn:04599439n wiki:entrada                  
+d000.s070.t004 bn:00087594v bn:00089861v                   
+d000.s070.t005 bn:00036821n wiki:función_matemática                   
+d000.s071.t000 bn:00086682v bn:00091028v                   
+d000.s071.t001 bn:00082705v                    
+d000.s071.t002 bn:00036821n wiki:función_matemática                   
+d000.s071.t003 bn:00036821n wiki:función_matemática                   
+d000.s071.t004 bn:00102148a bn:00112216a                   
+d000.s071.t005 bn:00107182a bn:00107194a                   
+d000.s071.t006 bn:00086464v bn:00086468v bn:00091452v                  
+d000.s072.t000 bn:00087594v bn:00089861v                   
+d000.s072.t001 bn:00036821n wiki:función_matemática                   
+d000.s072.t002 bn:03843242n wiki:botón_(informática)                   
+d000.s072.t003 bn:00082199v bn:00082476v                   
+d000.s072.t004 bn:00086525v bn:00087238v                   
+d000.s072.t005 bn:00017904n bn:00041412n wiki:diagrama wiki:gráfica_de_una_función                 
+d000.s072.t006 bn:00081292n wiki:ventana_(informática)                   
+d000.s072.t007 bn:00098086a bn:00099598a bn:00106332a                  
+d000.s073.t000 bn:00108829a bn:00108830a                   
+d000.s073.t001 bn:00086525v bn:00087238v                   
+d000.s073.t002 bn:00017904n bn:00041412n wiki:diagrama wiki:gráfica_de_una_función                 
+d000.s073.t003 bn:00110075a                    
+d000.s073.t004 bn:00079985n                    
+d000.s074.t000 bn:00082705v                    
+d000.s074.t001 bn:00114626r                    
+d000.s074.t002 bn:03843242n wiki:botón_(informática)                   
+d000.s074.t003 bn:00082317v bn:03181108n                   
+d000.s074.t004 bn:00086708v bn:00088204v                   
+d000.s074.t005 bn:01622345n                    
+d000.s074.t006 bn:00051508n                    
+d000.s075.t000 bn:00082316v bn:00082359v                   
+d000.s075.t001 bn:00020726n wiki:color                   
+d000.s075.t002 bn:00017904n bn:00041412n wiki:diagrama wiki:gráfica_de_una_función                 
+d000.s076.t000 bn:00036064n bn:00061947n bn:00366263n wiki:fundación_(derecho)                 
+d000.s076.t001 bn:00089817v                    
+d000.s076.t002 bn:00116085r                    
+d000.s076.t003 bn:00059482n                    
+d000.s076.t004 bn:00021721n bn:00021723n bn:00022333n wiki:conferencia                 
+d000.s076.t005 bn:00100676a bn:00101009a                   
+d000.s076.t006 bn:00017557n                    
+d000.s077.t000 bn:00082907v                    
+d000.s077.t001 bn:00116285r                    
+d000.s077.t002 bn:00060798n                    
+d000.s077.t003 bn:00009652n bn:00067192n                   
+d000.s077.t004 bn:00098086a bn:00105809a bn:00106332a bn:00106334a                 
+d000.s077.t005 bn:00047082n bn:08287525n wiki:grupo_de_interés wiki:grupo_de_presión                 
+d000.s077.t006 bn:00021556n                    
+d000.s077.t007 bn:00086342v bn:00086942v                   
+d000.s077.t008 bn:00001734n bn:00043267n bn:00047688n bn:00047690n                 
+d000.s077.t009 bn:00036823n bn:00068130n wiki:rol_social                  
+d000.s077.t010 bn:00098086a bn:00105809a bn:00106332a bn:00106334a                 
+d000.s077.t011 bn:00001973n bn:00001976n                   
+d000.s077.t012 bn:00001961n bn:00007293n bn:00007299n wiki:autoridad wiki:gobierno wiki:oficina wiki:régimen_político              
+d000.s077.t013 bn:00109211a bn:00109212a                   
+d000.s077.t014 bn:01623772n                    
+d000.s077.t015 bn:00110842a bn:00110843a                   
+d000.s077.t016 bn:00170328n                    
+d000.s077.t017 bn:00100102a                    
+d000.s077.t018 bn:02438777n wiki:voluntariado                   
+d000.s077.t019 bn:00114134r bn:00114246r bn:00115484r                  
+d000.s077.t020 bn:00096707a                    
+d000.s077.t021 bn:00079373n bn:01322530n wiki:usuario_(informática)                  
+d000.s078.t000 bn:00088789v                    
+d000.s078.t001 bn:00021584n bn:00021587n                   
+d000.s078.t002 bn:00107194a                    
+d000.s078.t003 bn:00082379v                    
+d000.s078.t004 bn:00005141n bn:00017153n                   
+d000.s078.t005 bn:00116284r                    
+d000.s078.t006 bn:00100162a bn:00108084a                   
+d000.s078.t007 bn:00083239v                    
+d000.s078.t008 bn:00079373n bn:01322530n wiki:usuario_(informática)                  
+d000.s078.t009 bn:00088630v                    
+d000.s078.t010 bn:00070651n bn:00070653n bn:00070677n bn:08260930n wiki:servicio_(economía)                
+d000.s078.t011 bn:00033729n                    
+d000.s078.t012 bn:00027912n bn:00070193n wiki:segmento                  
+d000.s078.t013 bn:02021819n wiki:vida_cotidiana                   
+d000.s078.t014 bn:00100875a                    
+d000.s079.t000 bn:00085649v                    
+d000.s079.t001 bn:00058145n                    
+d000.s079.t002 bn:00114246r                    
+d000.s079.t003 bn:00027862n                    
+d000.s079.t004 bn:00036823n                    
+d000.s079.t005 bn:00070651n bn:00070653n bn:00070677n bn:08260930n wiki:servicio_(economía)                
+d000.s080.t000 bn:00036064n bn:00061947n bn:00366263n wiki:fundación_(derecho)                 
+d000.s080.t001 bn:00082779v bn:00086753v                   
+d000.s080.t002 bn:00021015n bn:00021019n wiki:comité                  
+d000.s080.t003 bn:00102440a                    
+d000.s080.t004 bn:00055180n bn:03743591n wiki:ministerio                  
+d000.s080.t005 bn:00110978a                    
+d000.s080.t006 bn:00072541n bn:00072552n wiki:política_social wiki:trabajo_social                 
+d000.s080.t007 bn:00110842a bn:00110843a                   
+d000.s080.t008 bn:03350497n wiki:comunidad_autónoma                   
+d000.s080.t009 bn:00097829a                    
+d000.s080.t010 bn:00021721n bn:00021723n bn:00022333n wiki:conferencia                 
+d000.s080.t011 bn:00102440a                    
+d000.s080.t012 bn:00043267n bn:00074900n wiki:tópico_literario                  
+d000.s080.t013 bn:00053403n bn:08443482n wiki:exclusión_social wiki:marginación                 
+d000.s080.t014 bn:00110842a bn:00110843a                   
+d000.s080.t015 bn:00098342a                    
+d000.s080.t016 bn:00017557n                    
+d000.s080.t017 bn:00065098n wiki:servicio_público                   
+d000.s080.t018 bn:00109211a bn:00109212a                   
+d000.s080.t019 bn:00072541n bn:01777213n wiki:política_social                  
+d000.s080.t020 bn:00110842a bn:00110843a                   
+d000.s081.t000 bn:00036064n bn:00061947n bn:00366263n wiki:fundación_(derecho)                 
+d000.s081.t001 bn:00084099v bn:00092023v                   
+d000.s081.t002 bn:00116085r                    
+d000.s081.t003 bn:00007786n                    
+d000.s081.t004 bn:00064665n                    
+d000.s081.t005 bn:00030952n bn:00067181n bn:00074790n wiki:informe                 
+d000.s081.t006 bn:00100121a bn:00100122a                   
+d000.s081.t007 bn:00082720v                    
+d000.s081.t008 bn:00006383n bn:00025966n bn:00063237n                  
+d000.s081.t009 bn:00030844n                    
+d000.s081.t010 bn:00101412a bn:00101413a                   
+d000.s081.t011 bn:00014138n bn:00081568n                   
+d000.s081.t012 bn:00082927v                    
+d000.s081.t013 bn:00114429r                    
+d000.s081.t014 bn:00037027n                    
+d000.s082.t000 bn:00030952n bn:00067181n bn:00074790n wiki:informe                 
+d000.s082.t001 bn:00083141v                    
+d000.s082.t002 bn:00047238n wiki:entrevista_periodística                   
+d000.s082.t003 bn:00108488a bn:00108489a                   
+d000.s082.t004 bn:00102158a                    
+d000.s082.t005 bn:00018319n                    
+d000.s082.t006 bn:01623772n                    
+d000.s082.t007 bn:00110842a bn:00110843a                   
+d000.s082.t008 bn:00014731n                    
+d000.s082.t009 bn:00026428n bn:00047203n bn:00067199n                  
+d000.s082.t010 bn:00097799a bn:00104680a                   
+d000.s082.t011 bn:00001423n bn:00059480n wiki:organización                  
+d000.s082.t012 bn:00107136a bn:00107137a bn:00107138a                  
+d000.s082.t013 bn:00031903n                    
+d000.s082.t014 bn:00102440a                    
+d000.s083.t000 bn:00046575n bn:00046576n wiki:industria                  
+d000.s083.t001 bn:00054550n wiki:metal                   
+d000.s083.t002 bn:00008415n                    
+d000.s083.t003 bn:00085499v bn:00089660v bn:00089661v                  
+d000.s083.t004 bn:00114246r                    
+d000.s083.t005 bn:00007021n bn:00007028n bn:00016015n bn:00021988n bn:00072718n                
+d000.s083.t006 bn:00071554n bn:00081661n                   
+d000.s084.t000 bn:00098086a bn:00105809a bn:00106332a bn:00106334a                 
+d000.s084.t001 bn:00059275n bn:00073170n                   
+d000.s084.t002 bn:00021721n bn:00021723n bn:00022333n wiki:conferencia                 
+d000.s084.t003 bn:00053403n bn:08443482n wiki:exclusión_social wiki:marginación                 
+d000.s084.t004 bn:00050521n                    
+d000.s084.t005 bn:00067808n                    
+d000.s084.t006 bn:00011651n                    
+d000.s084.t007 bn:00030626n                    
+d000.s084.t008 bn:03792320n bn:08481472n wiki:relaciones_laborales                  
+d000.s084.t009 bn:00072541n bn:00072552n wiki:política_social wiki:trabajo_social                 
+d000.s084.t010 bn:00110842a bn:00110843a                   
+d000.s084.t011 bn:00021015n bn:00021019n wiki:comité                  
+d000.s084.t012 bn:00102440a                    
+d000.s084.t013 bn:00011638n bn:00021015n bn:00021019n wiki:comité                 
+d000.s084.t014 bn:00060767n                    
+d000.s084.t015 bn:01941871n wiki:diputado_al_parlamento_europeo                   
+d000.s084.t016 bn:00060708n wiki:parlamento                   
+d000.s084.t017 bn:00102440a                    
+d000.s084.t018 bn:00079435n bn:00079921n wiki:vicepresidente                  
+d000.s084.t019 bn:00060708n wiki:parlamento                   
+d000.s084.t020 bn:00102440a                    
+d000.s084.t021 bn:00011638n bn:00021015n bn:00021019n wiki:comité                 
+d000.s084.t022 bn:00102001a bn:00102002a                   
+d000.s084.t023 bn:00110842a bn:00110843a                   
+d000.s085.t000 bn:00067181n wiki:informe                   
+d000.s085.t001 bn:00107136a bn:00107137a bn:00107138a                  
+d000.s085.t002 bn:00085499v bn:00089660v bn:00089661v                  
+d000.s085.t003 bn:00034797n bn:00064710n                   
+d000.s085.t004 bn:00098274a bn:00098282a                   
+d000.s085.t005 bn:00092635v bn:00092638v                   
+d000.s085.t006 bn:00061054n bn:00063989n wiki:praxis                  
+d000.s085.t007 bn:00063329n bn:00063330n                   
+d000.s085.t008 bn:00001549n bn:00030905n bn:00046191n                  
+d000.s085.t009 bn:00030626n bn:00030933n wiki:reclutamiento                  
+d000.s085.t010 bn:00041853n wiki:entrenamiento                   
+d000.s085.t011 bn:00792637n                    
+d000.s085.t012 bn:00109069a bn:00109070a bn:00113655a                  
+d000.s085.t013 bn:00030618n bn:00081593n                   
+d000.s085.t014 bn:00081570n                    
+d000.s085.t015 bn:00014138n                    
+d000.s085.t016 bn:00021248n                    
+d000.s086.t000 bn:00084931v                    
+d000.s086.t001 bn:00031009n bn:00034797n bn:00833323n wiki:iniciativa_popular                 
+d000.s086.t002 bn:00011771n bn:00023235n wiki:estado wiki:país                 
+d000.s086.t003 bn:00074900n wiki:tópico_literario                   
+d000.s086.t004 bn:02395950n wiki:estudio_de_caso                   
+d000.s086.t005 bn:00016401n bn:00016408n bn:00032099n                  
+d000.s087.t000 bn:02395950n wiki:estudio_de_caso                   
+d000.s087.t001 bn:00016401n bn:00016408n bn:00032099n                  
+d000.s087.t002 bn:00082596v bn:00089885v                   
+d000.s087.t003 bn:00019219n bn:08277717n wiki:contexto                  
+d000.s087.t004 bn:00031009n bn:00034797n bn:00064710n bn:00833323n wiki:iniciativa_popular                
+d000.s087.t005 bn:00067162n                    
+d000.s087.t006 bn:00022334n bn:00042117n                   
+d000.s087.t007 bn:00030626n                    
+d000.s087.t008 bn:00001423n bn:00059480n wiki:organización                  
+d000.s087.t009 bn:00082720v                    
+d000.s087.t010 bn:00001559n bn:00009905n                   
+d000.s087.t011 bn:00064527n bn:09482133n                   
+d000.s087.t012 bn:00086654v                    
+d000.s087.t013 bn:00110075a                    
+d000.s088.t000 bn:00082225v bn:00082311v bn:00087107v bn:00087108v                 
+d000.s088.t001 bn:00114134r bn:00114246r bn:00115484r                  
+d000.s088.t002 bn:00080111n                    
+d000.s088.t003 bn:00047238n wiki:entrevista_periodística                   
+d000.s088.t004 bn:00054276n                    
+d000.s088.t005 bn:00042833n bn:00073801n wiki:estado_mayor wiki:mano_de_obra wiki:recursos_humanos                
+d000.s089.t000 bn:00030952n bn:00067181n bn:00074790n wiki:informe                 
+d000.s089.t001 bn:00107136a bn:00107137a bn:00107138a                  
+d000.s089.t002 bn:00083187v                    
+d000.s089.t003 bn:00067181n wiki:informe                   
+d000.s089.t004 bn:00102440a                    
+d000.s089.t005 bn:00082392v bn:00086822v bn:00092916v                  
+d000.s089.t006 bn:00108880a                    
+d000.s090.t000 bn:00067181n wiki:informe                   
+d000.s090.t001 bn:00067163n                    
+d000.s090.t002 bn:00034797n bn:00064710n                   
+d000.s090.t003 bn:00084099v bn:00092023v                   
+d000.s090.t004 bn:00088630v                    
+d000.s090.t005 bn:00007785n                    
+d000.s090.t006 bn:00021721n bn:00021723n bn:00022333n wiki:conferencia                 
+d000.s090.t007 bn:00084715v                    
+d000.s090.t008 bn:00103172a                    
+d000.s090.t009 bn:00007406n wiki:otoño                   
+d000.s091.t000 bn:00036064n bn:00061947n bn:00366263n wiki:fundación_(derecho)                 
+d000.s091.t001 bn:00082486v                    
+d000.s091.t002 bn:00087137v bn:00087138v                   
+d000.s091.t003 bn:00017747n bn:00017761n bn:00017762n                  
+d000.s091.t004 bn:00027042n bn:00027043n                   
+d000.s091.t005 bn:00082868v                    
+d000.s091.t006 bn:00001936n                    
+d000.s091.t007 bn:00043267n                    
+d000.s091.t008 bn:00030626n bn:00030933n wiki:reclutamiento                  
+d000.s091.t009 bn:00041853n wiki:entrenamiento                   
+d000.s091.t010 bn:00082596v bn:00089885v                   
+d000.s091.t011 bn:00016850n bn:00080992n                   
+d000.s092.t000 bn:00082596v                    
+d000.s092.t001 bn:00114246r bn:00116128r                   
+d000.s092.t002 bn:00063237n                    
+d000.s092.t003 bn:00079985n                    
+d000.s092.t004 bn:01623772n                    
+d000.s092.t005 bn:00110842a bn:00110843a                   
+d000.s092.t006 bn:00086761v bn:00088817v                   
+d000.s092.t007 bn:00102398a bn:00110995a bn:00110996a                  
+d000.s092.t008 bn:00007021n bn:00007028n                   
+d000.s092.t009 bn:00064776n                    
+d000.s092.t010 bn:00082148v bn:00084456v bn:00087115v bn:00092783v bn:00095653v                
+d000.s092.t011 bn:00027042n bn:00027043n                   
+d000.s093.t000 bn:00062709n                    
+d000.s093.t001 bn:00062700n wiki:localización_geográfica                   
+d000.s093.t002 bn:00064665n                    
+d000.s093.t003 bn:00087137v bn:00087138v                   
+d000.s093.t004 bn:00082720v                    
+d000.s093.t005 bn:00034797n bn:00064710n                   
+d000.s093.t006 bn:02708132n wiki:sector_público                   
+d000.s093.t007 bn:00109211a bn:00109212a                   
+d000.s093.t008 bn:00107509a bn:00109026a                   
+d000.s093.t009 bn:00083173v                    
+d000.s093.t010 bn:00051252n                    
+d000.s093.t011 bn:00115235r                    
+d000.s093.t012 bn:00030618n bn:00081593n                   
+d000.s094.t000 bn:00049573n bn:00064665n wiki:proyecto                  
+d000.s094.t001 bn:00090460v bn:00093452v                   
+d000.s094.t002 bn:00003132n                    
+d000.s094.t003 bn:00061406n bn:00067456n bn:00067457n wiki:jubilación wiki:pensión                
+d000.s094.t004 bn:00027476n bn:00050314n wiki:despido_laboral                  
+d000.s094.t005 bn:00084317v                    
+d000.s094.t006 bn:00109069a bn:00109070a bn:00113655a                  
+d000.s094.t007 bn:00030618n bn:00064681n bn:00081593n                  
+d000.s095.t000 bn:00082596v                    
+d000.s095.t001 bn:00114246r bn:00116128r                   
+d000.s095.t002 bn:00006383n bn:00025966n bn:00063237n                  
+d000.s095.t003 bn:00082304v                    
+d000.s095.t004 bn:00037634n bn:00070773n wiki:género_(ciencias_sociales) wiki:sexo                 
+d000.s095.t005 bn:00065800n wiki:raza_(clasificación_de_los_seres_humanos)                   
+d000.s095.t006 bn:00030618n bn:00064681n bn:00081593n                  
+d000.s095.t007 bn:00027538n wiki:discriminación                   
+d000.s095.t008 bn:00016851n                    
+d000.s095.t009 bn:00001936n                    
+d000.s096.t000 bn:00064665n                    
+d000.s096.t001 bn:00083239v                    
+d000.s096.t002 bn:00034797n bn:00064710n                   
+d000.s096.t003 bn:00086455v                    
+d000.s096.t004 bn:00035907n bn:00078798n                   
+d000.s096.t005 bn:00027538n wiki:discriminación                   
+d000.s096.t006 bn:00023237n wiki:medio_rural                   
+d000.s096.t007 bn:00109997a bn:00109998a                   
+d000.s096.t008 bn:03169699n wiki:pequeña_y_mediana_empresa                   
+d000.s096.t009 bn:00097857a                    
+d000.s096.t010 bn:00014136n bn:00021286n bn:00022811n bn:00031008n wiki:corporación wiki:empresa               
+d000.s097.t000 bn:00208447n wiki:estado_miembro_de_la_unión_europea                   
+d000.s097.t001 bn:00054276n                    
+d000.s097.t002 bn:00085499v bn:00089660v bn:00089661v                  
+d000.s097.t003 bn:00049573n bn:00064665n wiki:proyecto                  
+d000.s098.t000 bn:00082392v bn:00086822v bn:00092916v bn:00094585v                 
+d000.s098.t001 bn:00007097n bn:00063584n                   
+d000.s098.t002 bn:00103507a                    
+d000.s098.t003 bn:00108977a                    
+d000.s098.t004 bn:00028015n                    
+d000.s098.t005 bn:00082392v bn:00086822v bn:00092916v bn:00094585v                 
+d000.s098.t006 bn:00067181n wiki:informe                   
+d000.s098.t007 bn:00109212a                    
+d000.s098.t008 bn:00102440a                    
+d000.s098.t009 bn:00005120n bn:00031972n                   
+d000.s098.t010 bn:00087869v bn:00087870v                   
+d000.s098.t011 bn:00005120n bn:00031972n                   
+d000.s098.t012 bn:00021015n bn:00021019n wiki:comité                  
+d000.s098.t013 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s098.t014 bn:00030627n bn:00036822n                   
+d000.s098.t015 bn:00079883n bn:00079888n wiki:veterinaria                  
+d000.s098.t016 bn:00087492v                    
+d000.s098.t017 bn:00067181n bn:00074790n wiki:informe                  
+d000.s098.t018 bn:00096400a bn:00102542a bn:00102548a                  
+d000.s098.t019 bn:00090245v                    
+d000.s098.t020 bn:00066562n                    
+d000.s098.t021 bn:00019220n bn:00064921n                   
+d000.s098.t022 bn:00030627n bn:00036822n bn:00079370n                  
+d000.s098.t023 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s100.t000 bn:00085499v                    
+d000.s100.t001 bn:00377649n wiki:fármaco                   
+d000.s100.t002 bn:00096387a                    
+d000.s100.t003 bn:00923812n                    
+d000.s100.t004 bn:00087013v bn:00088078v                   
+d000.s100.t005 bn:00016529n bn:00035907n                   
+d000.s100.t006 bn:00072760n wiki:disolución                   
+d000.s101.t000 bn:00059250n wiki:naranja_(color)                   
+d000.s101.t001 bn:00059250n wiki:naranja_(color)                   
+d000.s101.t002 bn:00105938a                    
+d000.s101.t003 bn:00088078v bn:00089240v                   
+d000.s101.t004 bn:00057631n bn:00072190n                   
+d000.s101.t005 bn:00032604n bn:00071434n                   
+d000.s101.t006 bn:00082536v                    
+d000.s101.t007 bn:00084611v bn:00087101v bn:00091453v                  
+d000.s101.t008 bn:00042601n wiki:un_medio                   
+d000.s102.t000 bn:00052222n wiki:comprimido wiki:píldora                  
+d000.s102.t001 bn:00090660v                    
+d000.s102.t002 bn:00051872n wiki:logotipo                   
+d000.s102.t003 bn:03463336n wiki:pfizer                   
+d000.s102.t004 bn:00032604n bn:00071434n                   
+d000.s102.t005 bn:00003057n wiki:letra                   
+d000.s102.t006 bn:00003602n                    
+d000.s102.t007 bn:00923812n                    
+d000.s103.t000 bn:00082705v                    
+d000.s104.t000 bn:00004656n wiki:antiemético                   
+d000.s104.t001 bn:00082954v                    
+d000.s104.t002 bn:00008567n bn:00027565n wiki:regurgitación wiki:vómito                 
+d000.s105.t000 bn:00082705v                    
+d000.s105.t001 bn:00015267n wiki:canis_lupus_familiaris                   
+d000.s105.t002 bn:00008467n bn:00042049n                   
+d000.s105.t003 bn:00008567n bn:00027565n wiki:regurgitación wiki:vómito                 
+d000.s105.t004 bn:00115147r                    
+d000.s105.t005 bn:00084069v bn:00084699v bn:00084700v                  
+d000.s105.t006 bn:00018141n wiki:quimioterapia                   
+d000.s105.t007 bn:00028872n bn:00054128n wiki:droga wiki:medicamento                 
+d000.s105.t008 bn:00082705v                    
+d000.s105.t009 bn:01853831n                    
+d000.s105.t010 bn:00015180n wiki:cáncer                   
+d000.s105.t011 bn:00084069v                    
+d000.s105.t012 bn:00008567n bn:00027565n wiki:regurgitación wiki:vómito                 
+d000.s106.t000 bn:00054018n                    
+d000.s106.t001 bn:00111488a                    
+d000.s106.t002 bn:00047235n bn:00076843n wiki:tratamiento_(medicina)                  
+d000.s106.t003 bn:00079883n bn:00079888n wiki:veterinaria                  
+d000.s106.t004 bn:00027011n wiki:régimen_alimenticio                   
+d000.s106.t005 bn:00102398a bn:00108295a bn:00108297a bn:00110996a                 
+d000.s106.t006 bn:00082705v                    
+d000.s106.t007 bn:00114246r                    
+d000.s106.t008 bn:00047235n bn:00076843n wiki:tratamiento_(medicina)                  
+d000.s106.t009 bn:00008567n bn:00027565n wiki:regurgitación wiki:vómito                 
+d000.s106.t010 bn:00046787n wiki:inyección_(medicina)                   
+d000.s106.t011 bn:00046787n wiki:inyección_(medicina)                   
+d000.s106.t012 bn:00085342v bn:00088424v                   
+d000.s107.t000 bn:00021961n bn:00046065n                   
+d000.s107.t001 bn:00082365v                    
+d000.s107.t002 bn:00061605n                    
+d000.s107.t003 bn:00000086n wiki:día                   
+d000.s108.t000 bn:00082286v                    
+d000.s109.t000 bn:00083629v bn:00083630v bn:00083636v bn:00083642v                 
+d000.s109.t001 bn:00066514n wiki:receptor_celular                   
+d000.s109.t002 bn:00017184n wiki:sistema_nervioso_central                   
+d000.s109.t003 bn:00107232a                    
+d000.s109.t004 bn:00099258a bn:00099441a                   
+d000.s110.t000 bn:00035907n bn:00078798n                   
+d000.s110.t001 bn:00030952n bn:00067181n bn:00074790n wiki:informe                 
+d000.s110.t002 bn:00082225v bn:00082311v bn:00087107v bn:00087108v                 
+d000.s111.t000 bn:00082225v bn:00082311v bn:00084595v bn:00087107v bn:00087108v                
+d000.s111.t001 bn:00008985n                    
+d000.s111.t002 bn:00003602n bn:00065552n                   
+d000.s111.t003 bn:00067181n bn:00074790n wiki:informe                  
+d000.s111.t004 bn:00015267n wiki:canis_lupus_familiaris                   
+d000.s111.t005 bn:00049551n wiki:laboratorio                   
+d000.s111.t006 bn:00015267n wiki:canis_lupus_familiaris                   
+d000.s111.t007 bn:00079883n bn:00079888n wiki:veterinaria                  
+d000.s111.t008 bn:00031903n                    
+d000.s111.t009 bn:00102440a                    
+d000.s112.t000 bn:00009905n bn:00037022n bn:00041059n                  
+d000.s112.t001 bn:00086567v bn:00092109v                   
+d000.s112.t002 bn:00067181n bn:00074790n wiki:informe                  
+d000.s113.t000 bn:00021961n bn:00034520n                   
+d000.s113.t001 bn:00067181n bn:00074790n wiki:informe                  
+d000.s113.t002 bn:00086567v bn:00086679v bn:00092109v                  
+d000.s113.t003 bn:00116284r                    
+d000.s113.t004 bn:00102038a bn:00102039a                   
+d000.s113.t005 bn:00062717n wiki:sustancia_placebo                   
+d000.s113.t006 bn:00086708v                    
+d000.s113.t007 bn:00008567n bn:00027565n wiki:regurgitación wiki:vómito                 
+d000.s113.t008 bn:00015267n wiki:canis_lupus_familiaris                   
+d000.s113.t009 bn:00089246v                    
+d000.s113.t010 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s113.t011 bn:00015267n wiki:canis_lupus_familiaris                   
+d000.s113.t012 bn:00089246v                    
+d000.s113.t013 bn:00062717n wiki:sustancia_placebo                   
+d000.s113.t014 bn:00047235n bn:00076843n wiki:tratamiento_(medicina)                  
+d000.s113.t015 bn:00008467n bn:00042049n bn:00064298n wiki:medicina_preventiva                 
+d000.s113.t016 bn:00008567n bn:00027565n wiki:regurgitación wiki:vómito                 
+d000.s114.t000 bn:00047235n bn:00076843n wiki:tratamiento_(medicina)                  
+d000.s114.t001 bn:00015267n wiki:canis_lupus_familiaris                   
+d000.s114.t002 bn:00008567n bn:00027565n wiki:regurgitación wiki:vómito                 
+d000.s114.t003 bn:00016529n bn:00035907n                   
+d000.s114.t004 bn:00004222n wiki:animalia wiki:fauna                  
+d000.s114.t005 bn:00008567n bn:00027565n wiki:regurgitación wiki:vómito                 
+d000.s114.t006 bn:00089399v bn:00092928v                   
+d000.s114.t007 bn:00083115v                    
+d000.s114.t008 bn:00102278a                    
+d000.s115.t000 bn:00022190n                    
+d000.s115.t001 bn:00047235n bn:00076843n wiki:tratamiento_(medicina)                  
+d000.s115.t002 bn:00059954n                    
+d000.s115.t003 bn:00082365v                    
+d000.s115.t004 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s115.t005 bn:00004222n wiki:animalia wiki:fauna                  
+d000.s115.t006 bn:00016529n bn:00035907n                   
+d000.s116.t000 bn:00047235n bn:00076843n wiki:tratamiento_(medicina)                  
+d000.s116.t001 bn:00008567n bn:00027565n wiki:regurgitación wiki:vómito                 
+d000.s116.t002 bn:00082225v bn:00082311v bn:00087107v bn:00087108v                 
+d000.s116.t003 bn:00114250r bn:00114251r                   
+d000.s116.t004 bn:00006544n wiki:disociación                   
+d000.s116.t005 bn:00054018n                    
+d000.s116.t006 bn:00075330n bn:00075331n                   
+d000.s116.t007 bn:00047235n bn:00076843n wiki:tratamiento_(medicina)                  
+d000.s116.t008 bn:00079883n bn:00079888n wiki:veterinaria                  
+d000.s116.t009 bn:00083173v                    
+d000.s116.t010 bn:00114246r                    
+d000.s116.t011 bn:00016850n bn:00080992n                   
+d000.s116.t012 bn:00103424a bn:00104676a                   
+d000.s116.t013 bn:00008567n bn:00027565n wiki:regurgitación wiki:vómito                 
+d000.s117.t000 bn:00071445n bn:00450782n bn:00686074n wiki:reacción_adversa_a_medicamento                 
+d000.s117.t001 bn:00110247a bn:00110248a bn:00110249a                  
+d000.s118.t000 bn:00115495r                    
+d000.s118.t001 bn:00115530r                    
+d000.s118.t002 bn:00082138v                    
+d000.s118.t003 bn:00082365v                    
+d000.s118.t004 bn:00114917r                    
+d000.s118.t005 bn:00028320n wiki:dosis                   
+d000.s118.t006 bn:00019848n bn:00056300n wiki:multiplicación                  
+d000.s118.t007 bn:00028320n wiki:dosis                   
+d000.s118.t008 bn:00082418v bn:00092520v                   
+d000.s118.t009 bn:00061605n                    
+d000.s118.t010 bn:00077267n bn:00077268n                   
+d000.s118.t011 bn:00087274v bn:00090070v                   
+d000.s118.t012 bn:00019848n bn:00056300n wiki:multiplicación                  
+d000.s118.t013 bn:00022191n bn:00022192n bn:00029170n                  
+d000.s118.t014 bn:00106517a                    
+d000.s118.t015 bn:00082418v                    
+d000.s118.t016 bn:00047235n bn:00076843n wiki:tratamiento_(medicina)                  
+d000.s119.t000 bn:00042049n bn:00064070n                   
+d000.s119.t001 bn:00082379v                    
+d000.s119.t002 bn:00023661n bn:00046516n wiki:alma_en_pena wiki:individuo wiki:persona                
+d000.s119.t003 bn:00082365v                    
+d000.s119.t004 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s119.t005 bn:00083183v                    
+d000.s119.t006 bn:00022113n bn:00022114n wiki:sistema_somatosensorial                  
+d000.s119.t007 bn:00004222n wiki:animalia wiki:fauna                  
+d000.s120.t000 bn:00087013v bn:00088078v                   
+d000.s120.t001 bn:00030747n wiki:peligro wiki:riesgo                  
+d000.s120.t002 bn:00102398a bn:00108295a bn:00110996a                  
+d000.s120.t003 bn:00046516n wiki:individuo wiki:persona                  
+d000.s000.t000 bn:00108977a
+d000.s000.t001 bn:00028015n bn:00028017n                   
+d000.s000.t002 bn:00082392v bn:00086822v bn:00092916v                  
+d000.s000.t003 bn:00067181n wiki:informe                   
+d000.s000.t004 bn:00109211a bn:00109212a                   
+d000.s000.t005 bn:00102440a                    
+d000.s000.t006 bn:00005120n bn:00031972n                   
+d000.s001.t000 bn:00087869v bn:00087870v                   
+d000.s001.t001 bn:00021015n wiki:comité                   
+d000.s001.t002 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s001.t003 bn:00030627n bn:00079370n                   
+d000.s001.t004 bn:00104385a                    
+d000.s001.t005 bn:00082720v                    
+d000.s001.t006 bn:00074790n                    
+d000.s001.t007 bn:00082225v bn:00082311v bn:00087107v                  
+d000.s001.t008 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s001.t009 bn:00084099v bn:00086535v                   
+d000.s001.t010 bn:00066562n                    
+d000.s001.t011 bn:00030627n bn:00036822n                   
+d000.s002.t000 bn:00086682v bn:00086684v                   
+d000.s002.t001 bn:00116285r                    
+d000.s002.t002 bn:00046705n wiki:información                   
+d000.s002.t003 bn:00002171n bn:00027546n bn:00045952n bn:00071428n wiki:enfermedad                
+d000.s002.t004 bn:00047235n bn:00076843n wiki:tratamiento_(medicina)                  
+d000.s002.t005 bn:00110075a                    
+d000.s002.t006 bn:00082418v                    
+d000.s002.t007 bn:00092424v bn:00092432v                   
+d000.s002.t008 bn:02573503n wiki:prospecto                   
+d000.s002.t009 bn:00085499v bn:00089660v bn:00089662v                  
+d000.s002.t010 bn:00082821v bn:00092261v                   
+d000.s002.t011 bn:00027976n bn:00054116n wiki:médico                  
+d000.s002.t012 bn:00004992n wiki:boticario wiki:farmacéutico                  
+d000.s003.t000 bn:00086682v bn:00086684v bn:00095628v                  
+d000.s003.t001 bn:00116285r                    
+d000.s003.t002 bn:00046705n wiki:información                   
+d000.s003.t003 bn:00008786n                    
+d000.s003.t004 bn:00083141v                    
+d000.s003.t005 bn:00066562n                    
+d000.s003.t006 bn:00302314n                    
+d000.s003.t007 bn:00082418v                    
+d000.s003.t008 bn:00092424v bn:00092432v                   
+d000.s003.t009 bn:00005601n wiki:debate                   
+d000.s003.t010 bn:00110175a                    
+d000.s003.t011 bn:00114246r                    
+d000.s003.t012 bn:00085499v bn:00089660v bn:00089662v                  
+d000.s005.t000 bn:00063926n                    
+d000.s005.t001 bn:00090556v                    
+d000.s005.t002 bn:00072760n wiki:disolución                   
+d000.s005.t003 bn:00061571n                    
+d000.s005.t004 bn:00028771n                    
+d000.s005.t005 bn:00057343n bn:00079681n wiki:vena                  
+d000.s006.t000 bn:00085499v                    
+d000.s006.t001 bn:00377649n wiki:fármaco                   
+d000.s006.t002 bn:00096382a bn:00096387a                   
+d000.s007.t000 bn:00082705v bn:00089140v                   
+d000.s008.t000 bn:00087644v                    
+d000.s008.t001 bn:00047235n bn:00076843n wiki:tratamiento_(medicina)                  
+d000.s008.t002 bn:00035907n bn:00073211n bn:00078798n bn:00078799n wiki:tipo_nomenclatural                
+d000.s008.t003 bn:00015180n wiki:cáncer                   
+d000.s008.t004 bn:00054512n wiki:mesotelioma                   
+d000.s008.t005 bn:00108692a                    
+d000.s008.t006 bn:00015180n wiki:cáncer                   
+d000.s008.t007 bn:00020185n wiki:recubrimiento                   
+d000.s008.t008 bn:00052341n wiki:pulmón                   
+d000.s008.t009 bn:00084069v bn:00084699v                   
+d000.s008.t010 bn:00114634r bn:00114778r                   
+d000.s008.t011 bn:00032375n                    
+d000.s008.t012 bn:00006236n wiki:asbesto                   
+d000.s009.t000 bn:00082365v                    
+d000.s009.t001 bn:00020872n bn:00020878n bn:00020884n                  
+d000.s009.t002 bn:00577781n wiki:cisplatino                   
+d000.s009.t003 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s009.t004 bn:00015180n wiki:cáncer                   
+d000.s009.t005 bn:00057267n wiki:tumor                   
+d000.s009.t006 bn:00116348r                    
+d000.s009.t007 bn:00087923v                    
+d000.s009.t008 bn:00114234r                    
+d000.s009.t009 bn:00059129n wiki:cirugía                   
+d000.s009.t010 bn:00106363a                    
+d000.s009.t011 bn:00087063v                    
+d000.s009.t012 bn:00105981a bn:00105982a bn:00105984a                  
+d000.s009.t013 bn:00087063v                    
+d000.s009.t014 bn:00115155r bn:00115181r                   
+d000.s009.t015 bn:00027912n bn:00070193n wiki:segmento
+d000.s009.t016 bn:00003882n bn:00011744n wiki:cuerpo_(anatomía) wiki:cuerpo_humano                 
+d000.s009.t017 bn:00061017n wiki:paciente                   
+d000.s009.t018 bn:00116360r                    
+d000.s009.t019 bn:00089246v                    
+d000.s009.t020 bn:00018141n wiki:quimioterapia                   
+d000.s009.t021 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s009.t022 bn:00015180n wiki:cáncer                   
+d000.s009.t023 bn:00114297r bn:00114512r                   
+d000.s009.t024 bn:00015180n wiki:cáncer
+d000.s009.t025 bn:00052341n wiki:pulmón
+d000.s009.t026 bn:00054742n                    
+d000.s009.t027 bn:00096528a                    
+d000.s009.t028 bn:00054585n wiki:metástasis                   
+d000.s009.t029 bn:00116360r                    
+d000.s009.t030 bn:00082426v bn:00082427v                   
+d000.s009.t031 bn:00017027n wiki:célula                   
+d000.s010.t000 bn:00082705v bn:00089140v                   
+d000.s010.t001 bn:00020872n bn:00020878n bn:00020884n                  
+d000.s010.t002 bn:00577781n wiki:cisplatino                   
+d000.s010.t003 bn:00061017n wiki:paciente                   
+d000.s010.t004 bn:00116360r                    
+d000.s010.t005 bn:00084532v bn:00087136v                   
+d000.s010.t006 bn:00114297r bn:00114512r                   
+d000.s010.t007 bn:00749648n                    
+d000.s010.t008 bn:00061017n wiki:paciente                   
+d000.s010.t009 bn:00084532v bn:00087136v                   
+d000.s010.t010 bn:00114297r bn:00114512r                   
+d000.s010.t011 bn:00035907n bn:00073211n bn:00078798n bn:00078799n wiki:tipo_nomenclatural                
+d000.s010.t012 bn:00018141n wiki:quimioterapia                   
+d000.s011.t000 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s011.t001 bn:00114234r                    
+d000.s011.t002 bn:00082365v                    
+d000.s011.t003 bn:00064195n bn:03877095n wiki:receta_de_cocina
+d000.s011.t004 bn:00106554a bn:00106555a
+d000.s012.t000 bn:00082705v                    
+d000.s013.t000 bn:00114234r                    
+d000.s013.t001 bn:00082365v                    
+d000.s013.t002 bn:00059908n                    
+d000.s013.t003 bn:00027976n bn:00028003n bn:00054116n wiki:doctor_en_medicina wiki:médico                
+d000.s013.t004 bn:00092243v                    
+d000.s013.t005 bn:00030627n bn:00036822n bn:00079370n                  
+d000.s013.t006 bn:00018141n wiki:quimioterapia                   
+d000.s013.t007 bn:00015180n wiki:cáncer                   
+d000.s014.t000 bn:00028320n wiki:dosis                   
+d000.s014.t001 bn:00082418v                    
+d000.s014.t002 bn:00054701n wiki:órdenes_de_magnitud_(masa)                   
+d000.s014.t003 bn:00052501n wiki:metro
+d000.s014.t004 bn:00111084a
+d000.s014.t005 bn:00005518n bn:00075374n bn:08288117n wiki:superficie_(física) wiki:área wiki:área#área_de_superficies_curvas
+d000.s014.t006 bn:00098648a
+d000.s014.t007 bn:00084373v                    
+d000.s014.t008 bn:00043545n wiki:estatura                   
+d000.s014.t009 bn:00011779n bn:00080831n wiki:peso wiki:peso#el_peso_de_un_ser_humano                 
+d000.s014.t010 bn:00061017n wiki:paciente                   
+d000.s014.t011 bn:00082365v                    
+d000.s014.t012 bn:00019848n                    
+d000.s014.t013 bn:00043484n wiki:semana                   
+d000.s014.t014 bn:00061571n                    
+d000.s014.t015 bn:00102230a                    
+d000.s014.t016 bn:00055094n wiki:minuto                   
+d000.s015.t000 bn:00030721n                    
+d000.s015.t001 bn:00082125v bn:00084079v                   
+d000.s015.t002 bn:00021961n bn:00046065n
+d000.s015.t003 bn:00110247a bn:00110248a bn:00110249a
+d000.s015.t004 bn:00061017n wiki:paciente                   
+d000.s015.t005 bn:00089246v                    
+d000.s015.t006 bn:00001507n wiki:corticosteroide                   
+d000.s015.t007 bn:00000902n wiki:ácido
+d000.s015.t008 bn:00035907n bn:00073211n bn:00078798n bn:00078799n wiki:tipo_nomenclatural
+d000.s015.t009 bn:00080147n wiki:vitamina                   
+d000.s015.t010 bn:00046787n wiki:inyección_(medicina)                   
+d000.s015.t011 bn:00080147n wiki:vitamina
+d000.s015.t012 bn:00047235n bn:00076843n wiki:tratamiento_(medicina)                  
+d000.s016.t000 bn:00082705v bn:00089140v                   
+d000.s016.t001 bn:00114766r                    
+d000.s016.t002 bn:00577781n wiki:cisplatino                   
+d000.s016.t003 bn:00082365v                    
+d000.s016.t004 bn:00114134r bn:00114246r bn:00115484r                  
+d000.s016.t005 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s016.t006 bn:00004656n wiki:antiemético                   
+d000.s016.t007 bn:00088454v bn:00090033v                   
+d000.s016.t008 bn:00027565n wiki:regurgitación wiki:vómito                  
+d000.s016.t009 bn:00051471n bn:00051473n                   
+d000.s016.t010 bn:00088454v bn:00090033v                   
+d000.s016.t011 bn:00025982n bn:00025983n wiki:deshidratación                  
+d000.s016.t012 bn:00028320n wiki:dosis                   
+d000.s016.t013 bn:00577781n wiki:cisplatino                   
+d000.s017.t000 bn:00107194a                    
+d000.s017.t001 bn:00083908v bn:00083995v                   
+d000.s017.t002 bn:00047235n bn:00076843n wiki:tratamiento_(medicina)                  
+d000.s017.t003 bn:00084079v bn:00086418v                   
+d000.s017.t004 bn:00028320n wiki:dosis                   
+d000.s017.t005 bn:00061017n wiki:paciente                   
+d000.s017.t006 bn:00087013v bn:00088078v                   
+d000.s017.t007 bn:00003125n bn:00017651n                   
+d000.s017.t008 bn:00103595a                    
+d000.s017.t009 bn:00021961n bn:00046065n                   
+d000.s017.t010 bn:00110247a bn:00110248a bn:00110249a                  
+d000.s018.t000 bn:00116360r                    
+d000.s018.t001 bn:00082418v bn:00085410v                   
+d000.s018.t002 bn:00082365v                    
+d000.s018.t003 bn:00061017n wiki:paciente                   
+d000.s018.t004 bn:00002171n bn:00048242n                   
+d000.s018.t005 bn:00107226a                    
+d000.s018.t006 bn:00106826a bn:00106827a                   
+d000.s018.t007 bn:00100896a                    
+d000.s019.t000 bn:00086682v bn:00086684v                   
+d000.s019.t001 bn:00116285r                    
+d000.s019.t002 bn:00046705n wiki:información                   
+d000.s019.t003 bn:00085686v                    
+d000.s019.t004 bn:00031259n bn:00075142n                   
+d000.s019.t005 bn:00017747n bn:00017761n bn:00017762n                  
+d000.s019.t006 bn:00064584n bn:00064585n                   
+d000.s019.t007 bn:00114246r                    
+d000.s019.t008 bn:00085670v                    
+d000.s019.t009 bn:00027912n bn:00070193n wiki:segmento                  
+d000.s020.t000 bn:00082286v                    
+d000.s021.t000 bn:00377649n wiki:fármaco                   
+d000.s021.t001 bn:00096382a bn:00096387a                   
+d000.s021.t002 bn:00602447n                    
+d000.s021.t003 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s021.t004 bn:00024920n wiki:citotoxicidad                   
+d000.s021.t005 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s021.t006 bn:00086698v bn:00086699v bn:00090134v                  
+d000.s021.t007 bn:00017027n wiki:célula                   
+d000.s021.t008 bn:00025966n bn:00061898n                   
+d000.s021.t009 bn:00027913n bn:00027920n bn:00070547n                  
+d000.s021.t010 bn:00099180a                    
+d000.s021.t011 bn:00083389v                    
+d000.s021.t012 bn:00041942n                    
+d000.s021.t013 bn:00004691n wiki:antimetabolito                   
+d000.s022.t000 bn:00004257n bn:00009677n wiki:ser_vivo                  
+d000.s022.t001 bn:00602447n                    
+d000.s022.t002 bn:00085761v bn:00085768v                   
+d000.s022.t003 bn:00035908n wiki:forma_musical                   
+d000.s022.t004 bn:00096382a bn:00096387a                   
+d000.s022.t005 bn:00083629v bn:00083630v bn:00083636v bn:00083642v                 
+d000.s022.t006 bn:00001173n                    
+d000.s022.t007 bn:00031085n wiki:enzima                   
+d000.s022.t008 bn:00087628v bn:00087677v                   
+d000.s022.t009 bn:00064590n                    
+d000.s022.t010 bn:00008788n wiki:nucleótido                   
+d000.s022.t011 bn:00021396n                    
+d000.s022.t012 bn:00099258a bn:00102400a bn:00102401a                  
+d000.s022.t013 bn:00026301n wiki:ácido_desoxirribonucleico                   
+d000.s022.t014 bn:00053801n                    
+d000.s022.t015 bn:00103522a                    
+d000.s022.t016 bn:00017027n wiki:célula                   
+d000.s023.t000 bn:00035907n bn:00073211n bn:00078798n                  
+d000.s023.t001 bn:00030952n bn:00074790n                   
+d000.s023.t002 bn:00082225v bn:00082311v bn:00087107v                  
+d000.s024.t000 bn:00083240v                    
+d000.s024.t001 bn:00047235n bn:00076843n wiki:tratamiento_(medicina)                  
+d000.s024.t002 bn:00054512n wiki:mesotelioma                   
+d000.s024.t003 bn:00108692a                    
+d000.s024.t004 bn:00106363a                    
+d000.s024.t005 bn:00082720v                    
+d000.s024.t006 bn:00030952n bn:00067181n bn:00074790n wiki:informe                 
+d000.s024.t007 bn:00098086a bn:00105809a bn:00106332a                  
+d000.s024.t008 bn:00082225v bn:00082311v bn:00087107v bn:00087108v                 
+d000.s024.t009 bn:00061017n wiki:paciente                   
+d000.s024.t010 bn:00116360r                    
+d000.s024.t011 bn:00089246v                    
+d000.s024.t012 bn:00018141n wiki:quimioterapia                   
+d000.s024.t013 bn:00114297r bn:00114423r                   
+d000.s025.t000 bn:00085450v                    
+d000.s025.t001 bn:00021961n bn:00046065n                   
+d000.s025.t002 bn:00020872n bn:00020878n bn:00020884n                  
+d000.s025.t003 bn:00577781n wiki:cisplatino                   
+d000.s025.t004 bn:00021961n bn:00046065n                   
+d000.s025.t005 bn:00577781n wiki:cisplatino                   
+d000.s025.t006 bn:00082365v                    
+d000.s025.t007 bn:00106121a                    
+d000.s026.t000 bn:00047235n bn:00076843n wiki:tratamiento_(medicina)                  
+d000.s026.t001 bn:00015180n wiki:cáncer                   
+d000.s026.t002 bn:00052341n wiki:pulmón                   
+d000.s026.t003 bn:00054742n                    
+d000.s026.t004 bn:00085450v                    
+d000.s026.t005 bn:00021961n bn:00046065n                   
+d000.s026.t006 bn:01537207n wiki:docetaxel                   
+d000.s026.t007 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s026.t008 bn:00015180n wiki:cáncer                   
+d000.s026.t009 bn:00030952n bn:00067181n bn:00074790n wiki:informe                 
+d000.s026.t010 bn:00082225v bn:00082311v bn:00087107v bn:00087108v                 
+d000.s026.t011 bn:00061017n wiki:paciente                   
+d000.s026.t012 bn:00002171n bn:00027546n bn:00045952n bn:00071428n wiki:enfermedad                
+d000.s026.t013 bn:00088478v                    
+d000.s026.t014 bn:00054585n wiki:metástasis                   
+d000.s026.t015 bn:00089246v                    
+d000.s026.t016 bn:00018141n wiki:quimioterapia                   
+d000.s026.t017 bn:00114297r bn:00114512r                   
+d000.s027.t000 bn:00114246r                    
+d000.s027.t001 bn:00085450v                    
+d000.s027.t002 bn:00848690n wiki:gemcitabina                   
+d000.s027.t003 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s027.t004 bn:00015180n wiki:cáncer                   
+d000.s027.t005 bn:00020872n bn:00020878n bn:00020884n                  
+d000.s027.t006 bn:00577781n wiki:cisplatino                   
+d000.s027.t007 bn:00030952n bn:00067181n bn:00074790n wiki:informe                 
+d000.s027.t008 bn:00061017n wiki:paciente                   
+d000.s027.t009 bn:00089246v                    
+d000.s027.t010 bn:00018141n wiki:quimioterapia                   
+d000.s027.t011 bn:00015180n wiki:cáncer                   
+d000.s027.t012 bn:00052341n wiki:pulmón                   
+d000.s027.t013 bn:00114297r bn:00114512r                   
+d000.s028.t000 bn:00030952n bn:00067181n bn:00074790n wiki:informe                 
+d000.s028.t001 bn:00023853n wiki:norma_(tecnología)                   
+d000.s028.t002 bn:00098086a bn:00105809a bn:00106332a                  
+d000.s028.t003 bn:00005164n bn:00006502n wiki:aproximación wiki:estimación                 
+d000.s028.t004 bn:00029876n bn:00029877n bn:00029888n wiki:efectividad                 
+d000.s028.t005 bn:00077268n                    
+d000.s028.t006 bn:00030811n bn:03155178n                   
+d000.s028.t007 bn:00061017n wiki:paciente                   
+d000.s029.t000 bn:00009905n bn:00037022n                   
+d000.s029.t001 bn:00086567v bn:00092109v                   
+d000.s029.t002 bn:00089240v                    
+d000.s029.t003 bn:00030952n bn:00067181n bn:00074790n wiki:informe                 
+d000.s030.t000 bn:00087274v bn:00090070v                   
+d000.s030.t001 bn:00077268n                    
+d000.s030.t002 bn:00030811n bn:00075436n bn:03155178n                  
+d000.s030.t003 bn:00061017n wiki:paciente                   
+d000.s030.t004 bn:00054512n wiki:mesotelioma                   
+d000.s030.t005 bn:00108692a                    
+d000.s030.t006 bn:00106363a                    
+d000.s031.t000 bn:00061017n wiki:paciente                   
+d000.s031.t001 bn:00089246v                    
+d000.s031.t002 bn:00577781n wiki:cisplatino                   
+d000.s031.t003 bn:00085382v bn:00087617v                   
+d000.s031.t004 bn:00005677n bn:00007449n bn:00054001n wiki:esperanza_matemática wiki:media wiki:media_(matemáticas) wiki:media_aritmética              
+d000.s031.t005 bn:00055794n wiki:mes                   
+d000.s031.t006 bn:00030811n bn:03155178n                   
+d000.s031.t007 bn:00071414n                    
+d000.s031.t008 bn:00084532v bn:00087136v                   
+d000.s031.t009 bn:00114234r bn:00114626r                   
+d000.s031.t010 bn:00577781n wiki:cisplatino                   
+d000.s031.t011 bn:00055794n wiki:mes                   
+d000.s032.t000 bn:00047235n bn:00076843n wiki:tratamiento_(medicina)                  
+d000.s032.t001 bn:00061017n wiki:paciente                   
+d000.s032.t002 bn:00015180n wiki:cáncer                   
+d000.s032.t003 bn:00052341n wiki:pulmón                   
+d000.s032.t004 bn:00054742n                    
+d000.s032.t005 bn:00114354r                    
+d000.s032.t006 bn:00102038a bn:00102040a                   
+d000.s032.t007 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s032.t008 bn:00021297n bn:00021303n                   
+d000.s033.t000 bn:00061017n wiki:paciente                   
+d000.s033.t001 bn:00089246v                    
+d000.s033.t002 bn:00018141n wiki:quimioterapia                   
+d000.s033.t003 bn:00114297r bn:00114512r                   
+d000.s033.t004 bn:00077268n                    
+d000.s033.t005 bn:00097854a                    
+d000.s033.t006 bn:00030811n bn:00075436n bn:03155178n                  
+d000.s033.t007 bn:00055794n wiki:mes                   
+d000.s033.t008 bn:00055794n wiki:mes                   
+d000.s033.t009 bn:01537207n wiki:docetaxel                   
+d000.s034.t000 bn:00061017n wiki:paciente                   
+d000.s034.t001 bn:00089246v                    
+d000.s034.t002 bn:00114297r bn:00114512r                   
+d000.s034.t003 bn:00018141n wiki:quimioterapia                   
+d000.s034.t004 bn:00077267n bn:00077268n                   
+d000.s034.t005 bn:00077268n                    
+d000.s034.t006 bn:00097854a                    
+d000.s034.t007 bn:00030811n bn:00075436n bn:03155178n                  
+d000.s034.t008 bn:00055794n wiki:mes                   
+d000.s034.t009 bn:00041942n bn:00072536n wiki:grupo_social                  
+d000.s035.t000 bn:00114216r                    
+d000.s035.t001 bn:00061017n wiki:paciente                   
+d000.s035.t002 bn:00030952n bn:00067181n bn:00074790n wiki:informe                 
+d000.s035.t003 bn:00015180n wiki:cáncer                   
+d000.s035.t004 bn:00082426v bn:00082427v                   
+d000.s035.t005 bn:00017027n wiki:célula                   
+d000.s035.t006 bn:00087013v bn:00088078v                   
+d000.s035.t007 bn:00098342a                    
+d000.s035.t008 bn:00077268n                    
+d000.s035.t009 bn:00030811n bn:00075436n bn:03155178n                  
+d000.s035.t010 bn:00089246v                    
+d000.s035.t011 bn:00089246v                    
+d000.s035.t012 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s035.t013 bn:00021297n bn:00021303n                   
+d000.s036.t000 bn:00114842r                    
+d000.s036.t001 bn:00061017n wiki:paciente                   
+d000.s036.t002 bn:00015180n wiki:cáncer                   
+d000.s036.t003 bn:00082426v bn:00082427v                   
+d000.s036.t004 bn:00017027n wiki:célula                   
+d000.s036.t005 bn:00087013v bn:00088078v                   
+d000.s036.t006 bn:00077268n                    
+d000.s036.t007 bn:00030811n bn:00075436n bn:03155178n                  
+d000.s036.t008 bn:00116284r                    
+d000.s036.t009 bn:00098854a bn:00102300a                   
+d000.s036.t010 bn:00084532v bn:00087136v                   
+d000.s036.t011 bn:03466887n wiki:calculadora_(windows)                   
+d000.s036.t012 bn:00106488a bn:00106489a                   
+d000.s036.t013 bn:00083141v                    
+d000.s036.t014 bn:00064652n wiki:lenguaje_de_programación                   
+d000.s037.t000 bn:00114905r bn:00116382r                   
+d000.s037.t001 bn:00096151a bn:00111427a                   
+d000.s037.t002 bn:00082225v bn:00082311v bn:00087107v bn:00087108v                 
+d000.s037.t003 bn:00053826n bn:00059128n wiki:operación_matemática                  
+d000.s037.t004 bn:00102111a                    
+d000.s037.t005 bn:00097495a                    
+d000.s037.t006 bn:00106117a                    
+d000.s037.t007 bn:00082705v                    
+d000.s037.t008 bn:00089839v                    
+d000.s037.t009 bn:00017904n bn:00041412n wiki:diagrama wiki:gráfica_de_una_función                 
+d000.s037.t010 bn:00076958n bn:03099624n wiki:dimensión_de_un_espacio_vectorial wiki:tridimensional                 
+d000.s037.t011 bn:00027152n bn:03099624n wiki:dimensión_de_un_espacio_vectorial                  
+d000.s038.t000 bn:00107182a bn:00107194a                   
+d000.s038.t001 bn:00090141v bn:00090143v                   
+d000.s038.t002 bn:00082705v bn:00095474v                   
+d000.s038.t003 bn:03466887n wiki:calculadora_(windows)                   
+d000.s038.t004 bn:00103741a                    
+d000.s038.t005 bn:00083141v                    
+d000.s039.t000 bn:00009632n bn:00009633n                   
+d000.s039.t001 bn:00091199v                    
+d000.s039.t002 bn:00114119r bn:00114905r                   
+d000.s039.t003 bn:00082705v bn:00095474v                   
+d000.s039.t004 bn:00023661n bn:00046516n wiki:alma_en_pena wiki:individuo wiki:persona                
+d000.s039.t005 bn:00089240v                    
+d000.s039.t006 bn:00020452n bn:00030716n wiki:aprendizaje wiki:conocimiento                 
+d000.s039.t007 bn:00106488a bn:00106489a                   
+d000.s040.t000 bn:00115639r bn:00115640r                   
+d000.s040.t001 bn:00086611v bn:00093682v                   
+d000.s040.t002 bn:00081292n wiki:ventana_(informática)                   
+d000.s040.t003 bn:00098086a bn:00099598a bn:00106332a                  
+d000.s040.t004 bn:00081292n wiki:ventana_(informática)                   
+d000.s040.t005 bn:00098086a bn:00099598a bn:00106332a                  
+d000.s040.t006 bn:00081292n wiki:ventana_(informática)                   
+d000.s040.t007 bn:00098086a bn:00099598a bn:00106332a                  
+d000.s040.t008 bn:00085498v                    
+d000.s040.t009 bn:00120018n wiki:navegación_por_pestañas                   
+d000.s040.t010 bn:00020949n wiki:línea_de_comandos                   
+d000.s040.t011 bn:00017904n bn:00041412n wiki:diagrama wiki:gráfica_de_una_función                 
+d000.s040.t012 bn:00780722n wiki:bidimensional                   
+d000.s040.t013 bn:00017904n bn:00041412n wiki:diagrama wiki:gráfica_de_una_función                 
+d000.s040.t014 bn:00076958n wiki:tridimensional                   
+d000.s040.t015 bn:00026967n wiki:diccionario                   
+d000.s041.t000 bn:00120018n wiki:navegación_por_pestañas                   
+d000.s041.t001 bn:00082811v bn:00084231v bn:00086708v bn:00088204v                 
+d000.s041.t002 bn:00034274n wiki:campo_(informática)                   
+d000.s041.t003 bn:00031062n bn:04599439n wiki:entrada                  
+d000.s041.t004 bn:00087594v bn:00089861v                   
+d000.s041.t005 bn:00036821n wiki:función_matemática                   
+d000.s041.t006 bn:00082225v bn:00087107v bn:00087108v                  
+d000.s041.t007 bn:00014688n bn:00014689n wiki:cuenta_(matemáticas)                  
+d000.s042.t000 bn:00092443v bn:00095375v                   
+d000.s042.t001 bn:00088629v                    
+d000.s042.t002 bn:00082723v bn:00095375v                   
+d000.s042.t003 bn:00087594v bn:00089861v                   
+d000.s042.t004 bn:00084785v bn:00085761v                   
+d000.s042.t005 bn:00107182a bn:00107194a                   
+d000.s042.t006 bn:00090141v bn:00090143v                   
+d000.s042.t007 bn:03313895n wiki:mathml                   
+d000.s043.t000 bn:00083141v                    
+d000.s043.t001 bn:02561609n                    
+d000.s043.t002 bn:00021164n bn:00070499n wiki:sentido_común                  
+d000.s043.t003 bn:00100090a bn:00100091a bn:00100095a                  
+d000.s043.t004 bn:00097717a                    
+d000.s044.t000 bn:00114246r                    
+d000.s044.t001 bn:02561609n                    
+d000.s044.t002 bn:00115300r bn:00116789r                   
+d000.s044.t003 bn:00096782a bn:00105977a bn:00110647a                  
+d000.s044.t004 bn:00001296n wiki:suma wiki:sumatorio                  
+d000.s044.t005 bn:00055233n wiki:resta wiki:signos_más_y_menos                  
+d000.s044.t006 bn:00056300n wiki:multiplicación                   
+d000.s044.t007 bn:00027919n wiki:división_(matemática)                   
+d000.s044.t008 bn:00032355n bn:00032362n wiki:potenciación                  
+d000.s044.t009 bn:00082705v bn:00095474v                   
+d000.s044.t010 bn:00001965n                    
+d000.s045.t000 bn:00114246r bn:00116128r                   
+d000.s045.t001 bn:00082705v bn:00095474v                   
+d000.s045.t002 bn:00017752n bn:09438926n wiki:grafema                  
+d000.s046.t000 bn:00032355n bn:00032362n wiki:potenciación                  
+d000.s046.t001 bn:00114246r                    
+d000.s046.t002 bn:00001965n bn:00016529n bn:00033729n                  
+d000.s046.t003 bn:00087895v                    
+d000.s046.t004 bn:00068247n                    
+d000.s046.t005 bn:00082536v                    
+d000.s046.t006 bn:00082858v bn:00086464v bn:00086468v                  
+d000.s046.t007 bn:00079581n bn:00079583n wiki:variable wiki:variable_(programación)                 
+d000.s046.t008 bn:00083798v                    
+d000.s046.t009 bn:00036821n wiki:función_matemática                   
+d000.s046.t010 bn:00082705v bn:00095474v                   
+d000.s046.t011 bn:00086464v bn:00086468v                   
+d000.s046.t012 bn:00064072n                    
+d000.s046.t013 bn:00060753n                    
+d000.s046.t014 bn:00111596a                    
+d000.s046.t015 bn:00082811v bn:00086708v bn:00088204v                  
+d000.s046.t016 bn:00036821n wiki:función_matemática                   
+d000.s046.t017 bn:00084848v bn:00086567v                   
+d000.s046.t018 bn:00059141n bn:03744320n wiki:operador                  
+d000.s047.t000 bn:00087116v bn:00092034v                   
+d000.s047.t001 bn:00059141n bn:03744320n wiki:operador                  
+d000.s047.t002 bn:00087116v bn:00092034v                   
+d000.s047.t003 bn:00036821n wiki:función_matemática                   
+d000.s047.t004 bn:00079373n wiki:usuario_(informática)                   
+d000.s047.t005 bn:00082705v bn:00095474v                   
+d000.s047.t006 bn:00086464v bn:00086466v                   
+d000.s047.t007 bn:00079508n                    
+d000.s047.t008 bn:00079581n bn:00079583n wiki:variable wiki:variable_(programación)                 
+d000.s047.t009 bn:00025928n wiki:definición                   
+d000.s047.t010 bn:00021645n                    
+d000.s047.t011 bn:00036821n wiki:función_matemática                   
+d000.s047.t012 bn:00086466v                    
+d000.s047.t013 bn:03132721n wiki:función_definida_a_trozos                   
+d000.s048.t000 bn:00082536v                    
+d000.s048.t001 bn:00086464v bn:00086466v                   
+d000.s048.t002 bn:00053826n bn:00059128n wiki:operación_matemática                  
+d000.s048.t003 bn:00100214a                    
+d000.s049.t000 bn:00021645n                    
+d000.s049.t001 bn:00071529n bn:00075652n wiki:signo_lingüístico wiki:símbolo                 
+d000.s049.t002 bn:00082705v                    
+d000.s049.t003 bn:00021645n                    
+d000.s049.t004 bn:00112146a                    
+d000.s049.t005 bn:00082811v bn:00084231v bn:00086708v bn:00088204v                 
+d000.s049.t006 bn:00071529n bn:00075652n wiki:signo_lingüístico wiki:símbolo                 
+d000.s049.t007 bn:00021645n                    
+d000.s049.t008 bn:00085649v                    
+d000.s049.t009 bn:00100203a bn:00102969a bn:00105739a bn:00105740a                 
+d000.s049.t010 bn:00032099n                    
+d000.s049.t011 bn:00082705v                    
+d000.s049.t012 bn:00086466v                    
+d000.s049.t013 bn:03305154n                    
+d000.s050.t000 bn:00115300r bn:00116789r                   
+d000.s050.t001 bn:00104094a bn:00113455a bn:00113456a                  
+d000.s050.t002 bn:00077267n bn:00077269n                   
+d000.s050.t003 bn:00095823v                    
+d000.s050.t004 bn:00036821n wiki:función_matemática                   
+d000.s050.t005 bn:00086464v bn:00086466v                   
+d000.s050.t006 bn:03132721n wiki:función_definida_a_trozos                   
+d000.s051.t000 bn:00114424r bn:00116383r                   
+d000.s051.t001 bn:00082821v bn:00092261v bn:00092265v                  
+d000.s051.t002 bn:00079373n bn:01322530n wiki:usuario_(informática)                  
+d000.s051.t003 bn:00085522v                    
+d000.s051.t004 bn:00004451n                    
+d000.s051.t005 bn:00101973a bn:00102052a                   
+d000.s051.t006 bn:00082225v bn:00082311v bn:00087107v bn:00087108v                 
+d000.s051.t007 bn:00053826n wiki:operación_matemática                   
+d000.s051.t008 bn:00036821n wiki:función_matemática                   
+d000.s051.t009 bn:00071709n wiki:seno_(trigonometría)                   
+d000.s051.t010 bn:00036821n wiki:función_matemática                   
+d000.s051.t011 bn:00001296n wiki:suma wiki:sumatorio                  
+d000.s051.t012 bn:00053827n wiki:productorio                   
+d000.s052.t000 bn:00085860v bn:00089815v                   
+d000.s052.t001 bn:00035907n bn:00078798n                   
+d000.s052.t002 bn:00036821n wiki:función_matemática                   
+d000.s053.t000 bn:00082705v                    
+d000.s053.t001 bn:00001296n wiki:suma wiki:sumatorio                  
+d000.s053.t002 bn:00053827n wiki:productorio                   
+d000.s053.t003 bn:00076924n                    
+d000.s053.t004 bn:00082477v bn:00085591v                   
+d000.s053.t005 bn:00059141n bn:03744320n wiki:operador                  
+d000.s053.t006 bn:00020949n wiki:línea_de_comandos                   
+d000.s053.t007 bn:00114354r                    
+d000.s053.t008 bn:00104094a bn:00113455a bn:00113456a                  
+d000.s053.t009 bn:03466887n wiki:calculadora_(windows)                   
+d000.s054.t000 bn:00115639r bn:00116504r                   
+d000.s054.t001 bn:00088078v bn:00089240v                   
+d000.s054.t002 bn:00051508n                    
+d000.s054.t003 bn:00079581n bn:00079583n wiki:variable wiki:variable_(programación)                 
+d000.s055.t000 bn:00019848n                    
+d000.s055.t001 bn:00082691v                    
+d000.s055.t002 bn:00084772v                    
+d000.s055.t003 bn:00079508n                    
+d000.s055.t004 bn:00001965n                    
+d000.s055.t005 bn:00088310v                    
+d000.s056.t000 bn:00087594v bn:00089861v                   
+d000.s056.t001 bn:00032395n bn:03834028n wiki:expresión_(informática) wiki:fórmula_(expresión)                 
+d000.s056.t002 bn:00079508n                    
+d000.s056.t003 bn:00079581n bn:00079583n wiki:variable wiki:variable_(programación)                 
+d000.s056.t004 bn:00082553v bn:00084772v                   
+d000.s056.t005 bn:00092850v                    
+d000.s056.t006 bn:00105739a bn:00105740a                   
+d000.s056.t007 bn:00034520n                    
+d000.s057.t000 bn:00020947n wiki:comando_(tecla) wiki:control_(tecla)                  
+d000.s057.t001 bn:00056688n wiki:n                   
+d000.s059.t000 bn:00020947n wiki:comando_(tecla) wiki:control_(tecla)                  
+d000.s059.t001 bn:00049538n wiki:l                   
+d000.s060.t000 bn:00087107v bn:00087823v                   
+d000.s060.t001 bn:00020945n wiki:comando_(informática)                   
+d000.s060.t002 bn:00021475n wiki:archivo_(informática)                   
+d000.s060.t003 bn:00001965n                    
+d000.s060.t004 bn:00100306a                    
+d000.s061.t000 bn:00104094a bn:00113455a bn:00113456a                  
+d000.s061.t001 bn:00086682v bn:00086684v                   
+d000.s061.t002 bn:00086466v                    
+d000.s061.t003 bn:00050969n wiki:biblioteca_(informática)                   
+d000.s061.t004 bn:00092914v bn:00092915v                   
+d000.s061.t005 bn:00062309n bn:00081568n                   
+d000.s061.t006 bn:00097192a bn:00108909a                   
+d000.s062.t000 bn:00020947n wiki:comando_(tecla) wiki:control_(tecla)                  
+d000.s062.t001 bn:00036962n wiki:g                   
+d000.s062.t002 bn:00090043v                    
+d000.s063.t000 bn:00090043v                    
+d000.s063.t001 bn:00020945n wiki:comando_(informática)                   
+d000.s063.t002 bn:00087594v bn:00089861v                   
+d000.s063.t003 bn:00083341v bn:00088761v                   
+d000.s063.t004 bn:03751534n                    
+d000.s064.t000 bn:00084080v bn:00086009v                   
+d000.s064.t001 bn:00021475n wiki:archivo_(informática)                   
+d000.s064.t002 bn:00076732n                    
+d000.s064.t003 bn:00082357v bn:00082575v bn:00085831v                  
+d000.s064.t004 bn:00082705v                    
+d000.s064.t005 bn:00029775n bn:00076736n wiki:editor_de_texto                  
+d000.s064.t006 bn:00076732n                    
+d000.s064.t007 bn:00115147r                    
+d000.s065.t000 bn:00020947n wiki:comando_(tecla) wiki:control_(tecla)                  
+d000.s065.t001 bn:00068673n wiki:s                   
+d000.s065.t002 bn:00090043v                    
+d000.s066.t000 bn:00090043v                    
+d000.s066.t001 bn:00034520n                    
+d000.s066.t002 bn:00021475n wiki:archivo_(informática)                   
+d000.s066.t003 bn:00045087n wiki:html                   
+d000.s066.t004 bn:00089639v bn:00092025v                   
+d000.s066.t005 bn:00092023v                    
+d000.s067.t000 bn:00020947n wiki:comando_(tecla) wiki:control_(tecla)                  
+d000.s067.t001 bn:00065472n wiki:q                   
+d000.s067.t002 bn:03500215n                    
+d000.s068.t000 bn:00085164v                    
+d000.s068.t001 bn:00021492n wiki:programa_informático                   
+d000.s069.t000 bn:00082317v bn:00082324v                   
+d000.s069.t001 bn:00103741a                    
+d000.s069.t002 bn:00780722n wiki:bidimensional                   
+d000.s069.t003 bn:00120018n wiki:navegación_por_pestañas                   
+d000.s069.t004 bn:00103741a                    
+d000.s069.t005 bn:00780722n wiki:bidimensional                   
+d000.s069.t006 bn:00115639r bn:00116504r                   
+d000.s069.t007 bn:00120018n wiki:navegación_por_pestañas                   
+d000.s069.t008 bn:00082317v bn:03181108n                   
+d000.s069.t009 bn:00082536v                    
+d000.s069.t010 bn:00082317v bn:00082324v                   
+d000.s069.t011 bn:00107270a                    
+d000.s069.t012 bn:00036821n wiki:función_matemática                   
+d000.s070.t000 bn:00086600v                    
+d000.s070.t001 bn:00017904n wiki:diagrama                   
+d000.s070.t002 bn:00076732n                    
+d000.s070.t003 bn:00031062n bn:04599439n wiki:entrada                  
+d000.s070.t004 bn:00087594v bn:00089861v                   
+d000.s070.t005 bn:00036821n wiki:función_matemática                   
+d000.s071.t000 bn:00086682v bn:00091028v                   
+d000.s071.t001 bn:00082705v                    
+d000.s071.t002 bn:00036821n wiki:función_matemática                   
+d000.s071.t003 bn:00036821n wiki:función_matemática                   
+d000.s071.t004 bn:00102148a bn:00112216a                   
+d000.s071.t005 bn:00107182a bn:00107194a                   
+d000.s071.t006 bn:00086464v bn:00086468v bn:00091452v                  
+d000.s072.t000 bn:00087594v bn:00089861v                   
+d000.s072.t001 bn:00036821n wiki:función_matemática                   
+d000.s072.t002 bn:03843242n wiki:botón_(informática)                   
+d000.s072.t003 bn:00082199v bn:00082476v                   
+d000.s072.t004 bn:00086525v bn:00087238v                   
+d000.s072.t005 bn:00017904n bn:00041412n wiki:diagrama wiki:gráfica_de_una_función                 
+d000.s072.t006 bn:00081292n wiki:ventana_(informática)                   
+d000.s072.t007 bn:00098086a bn:00099598a bn:00106332a                  
+d000.s073.t000 bn:00108829a bn:00108830a                   
+d000.s073.t001 bn:00086525v bn:00087238v                   
+d000.s073.t002 bn:00017904n bn:00041412n wiki:diagrama wiki:gráfica_de_una_función                 
+d000.s073.t003 bn:00110075a                    
+d000.s073.t004 bn:00079985n                    
+d000.s074.t000 bn:00082705v                    
+d000.s074.t001 bn:00114626r                    
+d000.s074.t002 bn:03843242n wiki:botón_(informática)                   
+d000.s074.t003 bn:00082317v bn:03181108n                   
+d000.s074.t004 bn:00086708v bn:00088204v                   
+d000.s074.t005 bn:01622345n                    
+d000.s074.t006 bn:00051508n                    
+d000.s075.t000 bn:00082316v bn:00082359v                   
+d000.s075.t001 bn:00020726n wiki:color                   
+d000.s075.t002 bn:00017904n bn:00041412n wiki:diagrama wiki:gráfica_de_una_función                 
+d000.s076.t000 bn:00036064n bn:00061947n bn:00366263n wiki:fundación_(derecho)                 
+d000.s076.t001 bn:00089817v                    
+d000.s076.t002 bn:00116085r                    
+d000.s076.t003 bn:00059482n                    
+d000.s076.t004 bn:00021721n bn:00021723n bn:00022333n wiki:conferencia                 
+d000.s076.t005 bn:00100676a bn:00101009a                   
+d000.s076.t006 bn:00017557n                    
+d000.s077.t000 bn:00082907v                    
+d000.s077.t001 bn:00116285r                    
+d000.s077.t002 bn:00060798n                    
+d000.s077.t003 bn:00009652n bn:00067192n                   
+d000.s077.t004 bn:00098086a bn:00105809a bn:00106332a bn:00106334a                 
+d000.s077.t005 bn:00041942n bn:00072536n wiki:grupo_social                  
+d000.s077.t006 bn:00021556n                    
+d000.s077.t007 bn:00086342v bn:00086942v                   
+d000.s077.t008 bn:00001734n bn:00043267n bn:00047688n bn:00047690n                 
+d000.s077.t009 bn:00036823n bn:00068130n wiki:rol_social                  
+d000.s077.t010 bn:00098086a bn:00105809a bn:00106332a bn:00106334a                 
+d000.s077.t011 bn:00001973n bn:00001976n                   
+d000.s077.t012 bn:00001961n bn:00007293n bn:00007299n wiki:autoridad wiki:gobierno wiki:oficina wiki:régimen_político              
+d000.s077.t013 bn:00109211a bn:00109212a                   
+d000.s077.t014 bn:00047116n bn:01232531n                   
+d000.s077.t015 bn:00110842a bn:00110843a                   
+d000.s077.t016 bn:00001423n bn:00059480n wiki:organización                  
+d000.s077.t017 bn:00100102a                    
+d000.s077.t018 bn:02438777n wiki:voluntariado                   
+d000.s077.t019 bn:00114134r bn:00114246r bn:00115484r                  
+d000.s077.t020 bn:00096707a                    
+d000.s077.t021 bn:00079373n bn:01322530n wiki:usuario_(informática)                  
+d000.s078.t000 bn:00088789v                    
+d000.s078.t001 bn:00021584n bn:00021587n                   
+d000.s078.t002 bn:00107194a                    
+d000.s078.t003 bn:00082379v                    
+d000.s078.t004 bn:00005141n bn:00017153n                   
+d000.s078.t005 bn:00116284r                    
+d000.s078.t006 bn:00100162a bn:00108084a                   
+d000.s078.t007 bn:00083239v                    
+d000.s078.t008 bn:00079373n bn:01322530n wiki:usuario_(informática)                  
+d000.s078.t009 bn:00088630v                    
+d000.s078.t010 bn:00070651n bn:00070653n bn:00070677n bn:08260930n wiki:servicio_(economía)                
+d000.s078.t011 bn:00033729n                    
+d000.s078.t012 bn:00027912n bn:00070193n wiki:segmento                  
+d000.s078.t013 bn:00051046n bn:00051047n                   
+d000.s078.t014 bn:00100875a                    
+d000.s079.t000 bn:00085649v                    
+d000.s079.t001 bn:00058145n                    
+d000.s079.t002 bn:00114246r                    
+d000.s079.t003 bn:00027862n                    
+d000.s079.t004 bn:00036823n                    
+d000.s079.t005 bn:00070651n bn:00070653n bn:00070677n bn:08260930n wiki:servicio_(economía)                
+d000.s080.t000 bn:00036064n bn:00061947n bn:00366263n wiki:fundación_(derecho)                 
+d000.s080.t001 bn:00082779v bn:00086753v                   
+d000.s080.t002 bn:00021015n bn:00021019n wiki:comité                  
+d000.s080.t003 bn:00102440a                    
+d000.s080.t004 bn:00055180n bn:03743591n wiki:ministerio                  
+d000.s080.t005 bn:00110978a                    
+d000.s080.t006 bn:00001734n bn:00014139n                   
+d000.s080.t007 bn:00110842a bn:00110843a                   
+d000.s080.t008 bn:00021248n                    
+d000.s080.t009 bn:00097829a                    
+d000.s080.t010 bn:00021721n bn:00021723n bn:00022333n wiki:conferencia                 
+d000.s080.t011 bn:00102440a                    
+d000.s080.t012 bn:00043267n bn:00074900n wiki:tópico_literario                  
+d000.s080.t013 bn:00053403n bn:08443482n wiki:exclusión_social wiki:marginación                 
+d000.s080.t014 bn:00110842a bn:00110843a                   
+d000.s080.t015 bn:00098342a                    
+d000.s080.t016 bn:00017557n                    
+d000.s080.t017 bn:00070651n bn:00070677n bn:08260930n wiki:servicio_(economía)                 
+d000.s080.t018 bn:00109211a bn:00109212a                   
+d000.s080.t019 bn:00064839n                    
+d000.s080.t020 bn:00110842a bn:00110843a                   
+d000.s081.t000 bn:00036064n bn:00061947n bn:00366263n wiki:fundación_(derecho)                 
+d000.s081.t001 bn:00084099v bn:00092023v                   
+d000.s081.t002 bn:00116085r                    
+d000.s081.t003 bn:00007786n                    
+d000.s081.t004 bn:00064665n                    
+d000.s081.t005 bn:00030952n bn:00067181n bn:00074790n wiki:informe                 
+d000.s081.t006 bn:00100121a bn:00100122a                   
+d000.s081.t007 bn:00082720v                    
+d000.s081.t008 bn:00006383n bn:00025966n bn:00063237n                  
+d000.s081.t009 bn:00030844n                    
+d000.s081.t010 bn:00101412a bn:00101413a                   
+d000.s081.t011 bn:00014138n bn:00081568n                   
+d000.s081.t012 bn:00082927v                    
+d000.s081.t013 bn:00114429r                    
+d000.s081.t014 bn:00037027n                    
+d000.s082.t000 bn:00030952n bn:00067181n bn:00074790n wiki:informe                 
+d000.s082.t001 bn:00083141v                    
+d000.s082.t002 bn:00047238n wiki:entrevista_periodística                   
+d000.s082.t003 bn:00108488a bn:00108489a                   
+d000.s082.t004 bn:00102158a                    
+d000.s082.t005 bn:00018319n                    
+d000.s082.t006 bn:00047116n bn:01232531n                   
+d000.s082.t007 bn:00110842a bn:00110843a                   
+d000.s082.t008 bn:00014731n                    
+d000.s082.t009 bn:00026428n bn:00047203n bn:00067199n                  
+d000.s082.t010 bn:00097799a bn:00104680a                   
+d000.s082.t011 bn:00001423n bn:00059480n wiki:organización                  
+d000.s082.t012 bn:00107136a bn:00107137a bn:00107138a                  
+d000.s082.t013 bn:00011771n bn:00023235n wiki:estado wiki:país                 
+d000.s082.t014 bn:00102440a                    
+d000.s083.t000 bn:00046575n bn:00046576n wiki:industria                  
+d000.s083.t001 bn:00054550n wiki:metal                   
+d000.s083.t002 bn:00008415n                    
+d000.s083.t003 bn:00085499v bn:00089660v bn:00089661v                  
+d000.s083.t004 bn:00114246r                    
+d000.s083.t005 bn:00007021n bn:00007028n bn:00016015n bn:00021988n bn:00072718n                
+d000.s083.t006 bn:00071554n bn:00081661n                   
+d000.s084.t000 bn:00098086a bn:00105809a bn:00106332a bn:00106334a                 
+d000.s084.t001 bn:00059275n bn:00073170n                   
+d000.s084.t002 bn:00021721n bn:00021723n bn:00022333n wiki:conferencia                 
+d000.s084.t003 bn:00053403n bn:08443482n wiki:exclusión_social wiki:marginación                 
+d000.s084.t004 bn:00050521n                    
+d000.s084.t005 bn:00067808n                    
+d000.s084.t006 bn:00011651n                    
+d000.s084.t007 bn:00030626n                    
+d000.s084.t008 bn:00025569n bn:00067001n                   
+d000.s084.t009 bn:00001734n bn:00014139n                   
+d000.s084.t010 bn:00110842a bn:00110843a                   
+d000.s084.t011 bn:00021015n bn:00021019n wiki:comité                  
+d000.s084.t012 bn:00102440a                    
+d000.s084.t013 bn:00011638n bn:00021015n bn:00021019n wiki:comité                 
+d000.s084.t014 bn:00060767n                    
+d000.s084.t015 bn:00026427n wiki:diputado                   
+d000.s084.t016 bn:00060708n wiki:parlamento                   
+d000.s084.t017 bn:00102440a                    
+d000.s084.t018 bn:00079435n bn:00079921n wiki:vicepresidente                  
+d000.s084.t019 bn:00060708n wiki:parlamento                   
+d000.s084.t020 bn:00102440a                    
+d000.s084.t021 bn:00011638n bn:00021015n bn:00021019n wiki:comité                 
+d000.s084.t022 bn:00102001a bn:00102002a                   
+d000.s084.t023 bn:00110842a bn:00110843a                   
+d000.s085.t000 bn:00067181n wiki:informe                   
+d000.s085.t001 bn:00107136a bn:00107137a bn:00107138a                  
+d000.s085.t002 bn:00085499v bn:00089660v bn:00089661v                  
+d000.s085.t003 bn:00034797n bn:00064710n                   
+d000.s085.t004 bn:00098274a bn:00098282a                   
+d000.s085.t005 bn:00092635v bn:00092638v                   
+d000.s085.t006 bn:00061054n bn:00063989n wiki:praxis                  
+d000.s085.t007 bn:00063329n bn:00063330n                   
+d000.s085.t008 bn:00001549n bn:00030905n bn:00046191n                  
+d000.s085.t009 bn:00030626n bn:00030933n wiki:reclutamiento                  
+d000.s085.t010 bn:00041853n wiki:entrenamiento                   
+d000.s085.t011 bn:00026695n bn:00026696n bn:00041978n                  
+d000.s085.t012 bn:00109069a bn:00109070a bn:00113655a                  
+d000.s085.t013 bn:00030618n bn:00081593n                   
+d000.s085.t014 bn:00062700n wiki:localización_geográfica                   
+d000.s085.t015 bn:00014138n                    
+d000.s085.t016 bn:00021248n                    
+d000.s086.t000 bn:00084931v                    
+d000.s086.t001 bn:00031009n bn:00034797n bn:00833323n wiki:iniciativa_popular                 
+d000.s086.t002 bn:00011771n bn:00023235n wiki:estado wiki:país                 
+d000.s086.t003 bn:00074900n wiki:tópico_literario                   
+d000.s086.t004 bn:00030952n bn:00067181n bn:00074790n wiki:informe                 
+d000.s086.t005 bn:00016401n bn:00016408n bn:00032099n                  
+d000.s087.t000 bn:00030952n bn:00067181n bn:00074790n wiki:informe                 
+d000.s087.t001 bn:00016401n bn:00016408n bn:00032099n                  
+d000.s087.t002 bn:00082596v bn:00089885v                   
+d000.s087.t003 bn:00019219n bn:08277717n wiki:contexto                  
+d000.s087.t004 bn:00031009n bn:00034797n bn:00064710n bn:00833323n wiki:iniciativa_popular                
+d000.s087.t005 bn:00067162n                    
+d000.s087.t006 bn:00022334n bn:00042117n                   
+d000.s087.t007 bn:00030626n                    
+d000.s087.t008 bn:00001423n bn:00059480n wiki:organización                  
+d000.s087.t009 bn:00082720v                    
+d000.s087.t010 bn:00001559n bn:00009905n                   
+d000.s087.t011 bn:00064527n bn:09482133n                   
+d000.s087.t012 bn:00086654v                    
+d000.s087.t013 bn:00110075a                    
+d000.s088.t000 bn:00082225v bn:00082311v bn:00087107v bn:00087108v                 
+d000.s088.t001 bn:00114134r bn:00114246r bn:00115484r                  
+d000.s088.t002 bn:00080111n                    
+d000.s088.t003 bn:00047238n wiki:entrevista_periodística                   
+d000.s088.t004 bn:00054276n                    
+d000.s088.t005 bn:00042833n bn:00073801n wiki:estado_mayor wiki:mano_de_obra wiki:recursos_humanos                
+d000.s089.t000 bn:00030952n bn:00067181n bn:00074790n wiki:informe                 
+d000.s089.t001 bn:00107136a bn:00107137a bn:00107138a                  
+d000.s089.t002 bn:00083187v                    
+d000.s089.t003 bn:00067181n wiki:informe                   
+d000.s089.t004 bn:00102440a                    
+d000.s089.t005 bn:00082392v bn:00086822v bn:00092916v                  
+d000.s089.t006 bn:00108880a                    
+d000.s090.t000 bn:00067181n wiki:informe                   
+d000.s090.t001 bn:00067163n                    
+d000.s090.t002 bn:00034797n bn:00064710n                   
+d000.s090.t003 bn:00084099v bn:00092023v                   
+d000.s090.t004 bn:00088630v                    
+d000.s090.t005 bn:00007785n                    
+d000.s090.t006 bn:00021721n bn:00021723n bn:00022333n wiki:conferencia                 
+d000.s090.t007 bn:00084715v                    
+d000.s090.t008 bn:00103172a                    
+d000.s090.t009 bn:00007406n wiki:otoño                   
+d000.s091.t000 bn:00036064n bn:00061947n bn:00366263n wiki:fundación_(derecho)                 
+d000.s091.t001 bn:00082486v                    
+d000.s091.t002 bn:00087137v bn:00087138v                   
+d000.s091.t003 bn:00017747n bn:00017761n bn:00017762n                  
+d000.s091.t004 bn:00027042n bn:00027043n                   
+d000.s091.t005 bn:00082868v                    
+d000.s091.t006 bn:00001936n                    
+d000.s091.t007 bn:00043267n                    
+d000.s091.t008 bn:00030626n bn:00030933n wiki:reclutamiento                  
+d000.s091.t009 bn:00041853n wiki:entrenamiento                   
+d000.s091.t010 bn:00082596v bn:00089885v                   
+d000.s091.t011 bn:00016850n bn:00080992n                   
+d000.s092.t000 bn:00082596v                    
+d000.s092.t001 bn:00114246r bn:00116128r                   
+d000.s092.t002 bn:00006383n bn:00025966n bn:00063237n                  
+d000.s092.t003 bn:00079985n                    
+d000.s092.t004 bn:00047116n bn:01232531n                   
+d000.s092.t005 bn:00110842a bn:00110843a                   
+d000.s092.t006 bn:00086761v bn:00088817v                   
+d000.s092.t007 bn:00102398a bn:00110995a bn:00110996a                  
+d000.s092.t008 bn:00007021n bn:00007028n                   
+d000.s092.t009 bn:00064776n                    
+d000.s092.t010 bn:00082148v bn:00084456v bn:00087115v bn:00092783v bn:00095653v                
+d000.s092.t011 bn:00027042n bn:00027043n                   
+d000.s093.t000 bn:00062709n                    
+d000.s093.t001 bn:00062700n wiki:localización_geográfica                   
+d000.s093.t002 bn:00064665n                    
+d000.s093.t003 bn:00087137v bn:00087138v                   
+d000.s093.t004 bn:00082720v                    
+d000.s093.t005 bn:00034797n bn:00064710n                   
+d000.s093.t006 bn:02708132n wiki:sector_público                   
+d000.s093.t007 bn:00109211a bn:00109212a                   
+d000.s093.t008 bn:00107509a bn:00109026a                   
+d000.s093.t009 bn:00083173v                    
+d000.s093.t010 bn:00051252n                    
+d000.s093.t011 bn:00115235r                    
+d000.s093.t012 bn:00030618n bn:00081593n                   
+d000.s094.t000 bn:00049573n bn:00064665n wiki:proyecto                  
+d000.s094.t001 bn:00090460v bn:00093452v                   
+d000.s094.t002 bn:00003132n                    
+d000.s094.t003 bn:00061406n bn:00067456n bn:00067457n wiki:jubilación wiki:pensión                
+d000.s094.t004 bn:00027476n bn:00050314n wiki:despido_laboral                  
+d000.s094.t005 bn:00084317v                    
+d000.s094.t006 bn:00109069a bn:00109070a bn:00113655a                  
+d000.s094.t007 bn:00030618n bn:00064681n bn:00081593n                  
+d000.s095.t000 bn:00082596v                    
+d000.s095.t001 bn:00114246r bn:00116128r                   
+d000.s095.t002 bn:00006383n bn:00025966n bn:00063237n                  
+d000.s095.t003 bn:00082304v                    
+d000.s095.t004 bn:00037634n bn:00070773n wiki:género_(ciencias_sociales) wiki:sexo                 
+d000.s095.t005 bn:00065800n wiki:raza_(clasificación_de_los_seres_humanos)                   
+d000.s095.t006 bn:00030618n bn:00064681n bn:00081593n                  
+d000.s095.t007 bn:00027538n wiki:discriminación                   
+d000.s095.t008 bn:00016851n                    
+d000.s095.t009 bn:00001936n                    
+d000.s096.t000 bn:00064665n                    
+d000.s096.t001 bn:00089240v                    
+d000.s096.t002 bn:00034797n bn:00064710n                   
+d000.s096.t003 bn:00086455v                    
+d000.s096.t004 bn:00035907n bn:00078798n                   
+d000.s096.t005 bn:00027538n wiki:discriminación                   
+d000.s096.t006 bn:00082075n bn:00082076n                   
+d000.s096.t007 bn:00109997a bn:00109998a                   
+d000.s096.t008 bn:00106058a bn:00106773a                   
+d000.s096.t009 bn:00097857a                    
+d000.s096.t010 bn:00014136n bn:00021286n bn:00022811n bn:00031008n wiki:corporación wiki:empresa               
+d000.s097.t000 bn:00011771n bn:00023235n wiki:estado wiki:país                 
+d000.s097.t001 bn:00054276n                    
+d000.s097.t002 bn:00085499v bn:00089660v bn:00089661v                  
+d000.s097.t003 bn:00049573n bn:00064665n wiki:proyecto                  
+d000.s098.t000 bn:00082392v bn:00086822v bn:00092916v bn:00094585v                 
+d000.s098.t001 bn:00007097n bn:00063584n                   
+d000.s098.t002 bn:00103507a                    
+d000.s098.t003 bn:00108977a                    
+d000.s098.t004 bn:00028015n                    
+d000.s098.t005 bn:00082392v bn:00086822v bn:00092916v bn:00094585v                 
+d000.s098.t006 bn:00067181n wiki:informe                   
+d000.s098.t007 bn:00109212a                    
+d000.s098.t008 bn:00102440a                    
+d000.s098.t009 bn:00005120n bn:00031972n                   
+d000.s098.t010 bn:00087869v bn:00087870v                   
+d000.s098.t011 bn:00005120n bn:00031972n                   
+d000.s098.t012 bn:00021015n bn:00021019n wiki:comité                  
+d000.s098.t013 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s098.t014 bn:00030627n bn:00036822n                   
+d000.s098.t015 bn:00079883n bn:00079888n wiki:veterinaria                  
+d000.s098.t016 bn:00087492v                    
+d000.s098.t017 bn:00067181n bn:00074790n wiki:informe                  
+d000.s098.t018 bn:00096400a bn:00102542a bn:00102548a                  
+d000.s098.t019 bn:00090245v                    
+d000.s098.t020 bn:00066562n                    
+d000.s098.t021 bn:00019220n bn:00064921n                   
+d000.s098.t022 bn:00030627n bn:00036822n bn:00079370n                  
+d000.s098.t023 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s100.t000 bn:00085499v                    
+d000.s100.t001 bn:00377649n wiki:fármaco                   
+d000.s100.t002 bn:00096387a                    
+d000.s100.t003 bn:00923812n                    
+d000.s100.t004 bn:00087013v bn:00088078v                   
+d000.s100.t005 bn:00016529n bn:00035907n                   
+d000.s100.t006 bn:00072760n wiki:disolución                   
+d000.s101.t000 bn:00020726n wiki:color                   
+d000.s101.t001 bn:00059250n wiki:naranja_(color)                   
+d000.s101.t002 bn:00105938a                    
+d000.s101.t003 bn:00088078v bn:00089240v                   
+d000.s101.t004 bn:00057631n bn:00072190n                   
+d000.s101.t005 bn:00032604n bn:00071434n                   
+d000.s101.t006 bn:00082536v                    
+d000.s101.t007 bn:00084611v bn:00087101v bn:00091453v                  
+d000.s101.t008 bn:00042601n wiki:un_medio                   
+d000.s102.t000 bn:00052222n wiki:comprimido wiki:píldora                  
+d000.s102.t001 bn:00090660v                    
+d000.s102.t002 bn:00051872n wiki:logotipo                   
+d000.s102.t003 bn:03463336n wiki:pfizer                   
+d000.s102.t004 bn:00032604n bn:00071434n                   
+d000.s102.t005 bn:00003057n wiki:letra                   
+d000.s102.t006 bn:00003602n                    
+d000.s102.t007 bn:00923812n                    
+d000.s103.t000 bn:00082705v                    
+d000.s104.t000 bn:00004656n wiki:antiemético                   
+d000.s104.t001 bn:00082954v                    
+d000.s104.t002 bn:00008567n bn:00027565n wiki:regurgitación wiki:vómito                 
+d000.s105.t000 bn:00082705v                    
+d000.s105.t001 bn:00015267n wiki:canis_lupus_familiaris                   
+d000.s105.t002 bn:00008467n bn:00042049n                   
+d000.s105.t003 bn:00008567n bn:00027565n wiki:regurgitación wiki:vómito                 
+d000.s105.t004 bn:00115147r                    
+d000.s105.t005 bn:00084069v bn:00084699v bn:00084700v                  
+d000.s105.t006 bn:00018141n wiki:quimioterapia                   
+d000.s105.t007 bn:00028872n bn:00054128n wiki:droga wiki:medicamento                 
+d000.s105.t008 bn:00082705v                    
+d000.s105.t009 bn:00047235n bn:00076843n wiki:tratamiento_(medicina)                  
+d000.s105.t010 bn:00015180n wiki:cáncer                   
+d000.s105.t011 bn:00084069v                    
+d000.s105.t012 bn:00008567n bn:00027565n wiki:regurgitación wiki:vómito                 
+d000.s106.t000 bn:00054018n                    
+d000.s106.t001 bn:00111488a                    
+d000.s106.t002 bn:00047235n bn:00076843n wiki:tratamiento_(medicina)                  
+d000.s106.t003 bn:00079883n bn:00079888n wiki:veterinaria                  
+d000.s106.t004 bn:00027011n wiki:régimen_alimenticio                   
+d000.s106.t005 bn:00102398a bn:00108295a bn:00108297a bn:00110996a                 
+d000.s106.t006 bn:00082705v                    
+d000.s106.t007 bn:00114246r                    
+d000.s106.t008 bn:00047235n bn:00076843n wiki:tratamiento_(medicina)                  
+d000.s106.t009 bn:00008567n bn:00027565n wiki:regurgitación wiki:vómito                 
+d000.s106.t010 bn:00046787n wiki:inyección_(medicina)                   
+d000.s106.t011 bn:00046787n wiki:inyección_(medicina)                   
+d000.s106.t012 bn:00085342v bn:00088424v                   
+d000.s107.t000 bn:00021961n bn:00046065n                   
+d000.s107.t001 bn:00082365v                    
+d000.s107.t002 bn:00061605n                    
+d000.s107.t003 bn:00000086n wiki:día                   
+d000.s108.t000 bn:00082286v                    
+d000.s109.t000 bn:00083629v bn:00083630v bn:00083636v bn:00083642v                 
+d000.s109.t001 bn:00066514n wiki:receptor_celular                   
+d000.s109.t002 bn:00069580n wiki:sistema                   
+d000.s109.t003 bn:00107232a                    
+d000.s109.t004 bn:00099258a bn:00099441a                   
+d000.s110.t000 bn:00035907n bn:00078798n                   
+d000.s110.t001 bn:00030952n bn:00067181n bn:00074790n wiki:informe                 
+d000.s110.t002 bn:00082225v bn:00082311v bn:00087107v bn:00087108v                 
+d000.s111.t000 bn:00082225v bn:00082311v bn:00084595v bn:00087107v bn:00087108v                
+d000.s111.t001 bn:00098342a bn:00098345a                   
+d000.s111.t002 bn:00003602n bn:00065552n                   
+d000.s111.t003 bn:00067181n bn:00074790n wiki:informe                  
+d000.s111.t004 bn:00015267n wiki:canis_lupus_familiaris                   
+d000.s111.t005 bn:00049551n wiki:laboratorio                   
+d000.s111.t006 bn:00015267n wiki:canis_lupus_familiaris                   
+d000.s111.t007 bn:00079883n bn:00079888n wiki:veterinaria                  
+d000.s111.t008 bn:00011771n bn:00023235n wiki:estado wiki:país                 
+d000.s111.t009 bn:00102440a                    
+d000.s112.t000 bn:00009905n bn:00037022n bn:00041059n                  
+d000.s112.t001 bn:00086567v bn:00092109v                   
+d000.s112.t002 bn:00067181n bn:00074790n wiki:informe                  
+d000.s113.t000 bn:00021961n bn:00034520n                   
+d000.s113.t001 bn:00067181n bn:00074790n wiki:informe                  
+d000.s113.t002 bn:00086567v bn:00086679v bn:00092109v                  
+d000.s113.t003 bn:00116284r                    
+d000.s113.t004 bn:00102038a bn:00102039a                   
+d000.s113.t005 bn:00062717n wiki:sustancia_placebo                   
+d000.s113.t006 bn:00086708v                    
+d000.s113.t007 bn:00008567n bn:00027565n wiki:regurgitación wiki:vómito                 
+d000.s113.t008 bn:00015267n wiki:canis_lupus_familiaris                   
+d000.s113.t009 bn:00089246v                    
+d000.s113.t010 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s113.t011 bn:00015267n wiki:canis_lupus_familiaris                   
+d000.s113.t012 bn:00089246v                    
+d000.s113.t013 bn:00062717n wiki:sustancia_placebo                   
+d000.s113.t014 bn:00047235n bn:00076843n wiki:tratamiento_(medicina)                  
+d000.s113.t015 bn:00008467n bn:00042049n bn:00064298n wiki:medicina_preventiva                 
+d000.s113.t016 bn:00008567n bn:00027565n wiki:regurgitación wiki:vómito                 
+d000.s114.t000 bn:00047235n bn:00076843n wiki:tratamiento_(medicina)                  
+d000.s114.t001 bn:00015267n wiki:canis_lupus_familiaris                   
+d000.s114.t002 bn:00008567n bn:00027565n wiki:regurgitación wiki:vómito                 
+d000.s114.t003 bn:00016529n bn:00035907n                   
+d000.s114.t004 bn:00004222n wiki:animalia wiki:fauna                  
+d000.s114.t005 bn:00008567n bn:00027565n wiki:regurgitación wiki:vómito                 
+d000.s114.t006 bn:00089399v bn:00092928v                   
+d000.s114.t007 bn:00083115v                    
+d000.s114.t008 bn:00102278a                    
+d000.s115.t000 bn:00022190n                    
+d000.s115.t001 bn:00047235n bn:00076843n wiki:tratamiento_(medicina)                  
+d000.s115.t002 bn:00059954n                    
+d000.s115.t003 bn:00082365v                    
+d000.s115.t004 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s115.t005 bn:00004222n wiki:animalia wiki:fauna                  
+d000.s115.t006 bn:00016529n bn:00035907n                   
+d000.s116.t000 bn:00047235n bn:00076843n wiki:tratamiento_(medicina)                  
+d000.s116.t001 bn:00008567n bn:00027565n wiki:regurgitación wiki:vómito                 
+d000.s116.t002 bn:00082225v bn:00082311v bn:00087107v bn:00087108v                 
+d000.s116.t003 bn:00114250r bn:00114251r                   
+d000.s116.t004 bn:00006544n wiki:disociación                   
+d000.s116.t005 bn:00054018n                    
+d000.s116.t006 bn:00075330n bn:00075331n                   
+d000.s116.t007 bn:00047235n bn:00076843n wiki:tratamiento_(medicina)                  
+d000.s116.t008 bn:00079883n bn:00079888n wiki:veterinaria                  
+d000.s116.t009 bn:00083173v                    
+d000.s116.t010 bn:00114246r                    
+d000.s116.t011 bn:00016850n bn:00080992n                   
+d000.s116.t012 bn:00103424a bn:00104676a                   
+d000.s116.t013 bn:00008567n bn:00027565n wiki:regurgitación wiki:vómito                 
+d000.s117.t000 bn:00021961n bn:00046065n                   
+d000.s117.t001 bn:00110247a bn:00110248a bn:00110249a                  
+d000.s118.t000 bn:00115495r                    
+d000.s118.t001 bn:00115530r                    
+d000.s118.t002 bn:00082138v                    
+d000.s118.t003 bn:00082365v                    
+d000.s118.t004 bn:00114917r                    
+d000.s118.t005 bn:00028320n wiki:dosis                   
+d000.s118.t006 bn:00019848n bn:00056300n wiki:multiplicación                  
+d000.s118.t007 bn:00028320n wiki:dosis                   
+d000.s118.t008 bn:00082418v bn:00092520v                   
+d000.s118.t009 bn:00061605n                    
+d000.s118.t010 bn:00077267n bn:00077268n                   
+d000.s118.t011 bn:00087274v bn:00090070v                   
+d000.s118.t012 bn:00019848n bn:00056300n wiki:multiplicación                  
+d000.s118.t013 bn:00022191n bn:00022192n bn:00029170n                  
+d000.s118.t014 bn:00106517a                    
+d000.s118.t015 bn:00082418v                    
+d000.s118.t016 bn:00047235n bn:00076843n wiki:tratamiento_(medicina)                  
+d000.s119.t000 bn:00042049n bn:00064070n                   
+d000.s119.t001 bn:00082379v                    
+d000.s119.t002 bn:00023661n bn:00046516n wiki:alma_en_pena wiki:individuo wiki:persona                
+d000.s119.t003 bn:00082365v                    
+d000.s119.t004 bn:00031708n bn:00054128n bn:00061887n wiki:medicamento wiki:prescripción_(medicina)                
+d000.s119.t005 bn:00083183v                    
+d000.s119.t006 bn:00022113n bn:00022114n wiki:sistema_somatosensorial                  
+d000.s119.t007 bn:00004222n wiki:animalia wiki:fauna                  
+d000.s120.t000 bn:00087013v bn:00088078v                   
+d000.s120.t001 bn:00030747n wiki:peligro wiki:riesgo                  
+d000.s120.t002 bn:00102398a bn:00108295a bn:00110996a                  
+d000.s120.t003 bn:00046516n wiki:individuo wiki:persona                  
+d000.s120.t004 bn:00104385a bn:00104386a                   

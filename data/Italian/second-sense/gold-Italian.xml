@@ -1,0 +1,1338 @@
+<?xml version='1.0' encoding='utf-8'?>
+<corpus lang="IT">
+	<text id="d001">
+		<sentence id="d001.s000" source="semeval2015-en">
+			<instance id="d001.s000.t000" lemma="descrivere" pos="VERB">descrive</instance>
+			<instance id="d001.s000.t001" lemma="modo" pos="NOUN">modo</instance>
+			<instance id="d001.s000.t002" lemma="comitato" pos="NOUN">comitato</instance>
+			<instance id="d001.s000.t003" lemma="medicinale" pos="NOUN">medicinali</instance>
+			<instance id="d001.s000.t004" lemma="uso" pos="NOUN">uso</instance>
+			<instance id="d001.s000.t005" lemma="umano" pos="ADJ">umano</instance>
+			<instance id="d001.s000.t006" lemma="valutare" pos="VERB">valutato</instance>
+			<instance id="d001.s000.t007" lemma="studio" pos="NOUN">studi</instance>
+			<instance id="d001.s000.t008" lemma="scientifico" pos="ADJ">scientifici</instance>
+			<instance id="d001.s000.t009" lemma="effettuare" pos="VERB">effettuati</instance>
+			<instance id="d001.s000.t010" lemma="formulare" pos="VERB">formulato</instance>
+			<instance id="d001.s000.t011" lemma="raccomandazione" pos="NOUN">raccomandazioni</instance>
+			<instance id="d001.s000.t012" lemma="usare" pos="VERB">usare</instance>
+			<instance id="d001.s000.t013" lemma="medicinale" pos="NOUN">medicinale</instance>
+		</sentence>
+		<sentence id="d001.s001" source="semeval2015-en">
+			<instance id="d001.s001.t000" lemma="maggiore" pos="ADJ">maggiori</instance>
+			<instance id="d001.s001.t001" lemma="informazione" pos="NOUN">informazioni</instance>
+			<instance id="d001.s001.t002" lemma="riguardare" pos="VERB">riguardanti</instance>
+			<instance id="d001.s001.t003" lemma="proprio" pos="ADJ">proprie</instance>
+			<instance id="d001.s001.t004" lemma="condizione" pos="NOUN">condizioni</instance>
+			<instance id="d001.s001.t005" lemma="terapia" pos="NOUN">terapia</instance>
+			<instance id="d001.s001.t006" lemma="leggere" pos="VERB">leggere</instance>
+			<instance id="d001.s001.t007" lemma="foglio" pos="NOUN">foglio</instance>
+			<instance id="d001.s001.t008" lemma="allegare" pos="VERB">allegato</instance>
+			<instance id="d001.s001.t009" lemma="consultare" pos="VERB">consultare</instance>
+			<instance id="d001.s001.t010" lemma="medico" pos="NOUN">medico</instance>
+			<instance id="d001.s001.t011" lemma="farmacista" pos="NOUN">farmacista</instance>
+		</sentence>
+		<sentence id="d001.s002" source="semeval2015-en">
+			<instance id="d001.s002.t000" lemma="maggiore" pos="ADJ">maggiori</instance>
+			<instance id="d001.s002.t001" lemma="informazione" pos="NOUN">informazioni</instance>
+			<instance id="d001.s002.t002" lemma="riguardo" pos="NOUN">riguardo</instance>
+			<instance id="d001.s002.t003" lemma="motivazione" pos="NOUN">motivazioni</instance>
+			<instance id="d001.s002.t004" lemma="raccomandazione" pos="NOUN">raccomandazioni</instance>
+			<instance id="d001.s002.t005" lemma="leggere" pos="VERB">leggere</instance>
+			<instance id="d001.s002.t006" lemma="discussione" pos="NOUN">discussione</instance>
+			<instance id="d001.s002.t007" lemma="scientifico" pos="ADJ">scientifica</instance>
+			<instance id="d001.s002.t008" lemma="allegare" pos="VERB">allegato</instance>
+		</sentence>
+		<sentence id="d001.s003" source="semeval2015-en">
+			<instance id="d001.s003.t000" lemma="cosa" pos="NOUN">cos</instance>
+		</sentence>
+		<sentence id="d001.s004" source="semeval2015-en">
+			<instance id="d001.s004.t000" lemma="polvere" pos="NOUN">polvere</instance>
+			<instance id="d001.s004.t001" lemma="ricostituire" pos="VERB">ricostituire</instance>
+			<instance id="d001.s004.t002" lemma="soluzione" pos="NOUN">soluzione</instance>
+			<instance id="d001.s004.t003" lemma="infusione" pos="NOUN">infusione</instance>
+			<instance id="d001.s004.t004" lemma="iniezione" pos="NOUN">iniezione</instance>
+			<instance id="d001.s004.t005" lemma="goccia" pos="NOUN">goccia</instance>
+			<instance id="d001.s004.t006" lemma="goccia" pos="NOUN">goccia</instance>
+			<instance id="d001.s004.t007" lemma="vena" pos="NOUN">vena</instance>
+		</sentence>
+		<sentence id="d001.s005" source="semeval2015-en">
+			<instance id="d001.s005.t000" lemma="contenere" pos="VERB">Contiene</instance>
+			<instance id="d001.s005.t001" lemma="principio" pos="NOUN">principio</instance>
+			<instance id="d001.s005.t002" lemma="attivo" pos="ADJ">attivo</instance>
+		</sentence>
+		<sentence id="d001.s006" source="semeval2015-en">
+			<instance id="d001.s006.t000" lemma="usare" pos="VERB">usa</instance>
+		</sentence>
+		<sentence id="d001.s007" source="semeval2015-en">
+			<instance id="d001.s007.t000" lemma="indicare" pos="VERB">indicato</instance>
+			<instance id="d001.s007.t001" lemma="trattamento" pos="NOUN">trattamento</instance>
+			<instance id="d001.s007.t002" lemma="due" pos="NOUN">due</instance>
+			<instance id="d001.s007.t003" lemma="tipo" pos="NOUN">tipi</instance>
+			<instance id="d001.s007.t004" lemma="tumore" pos="NOUN">tumore</instance>
+			<instance id="d001.s007.t005" lemma="mesotelioma" pos="NOUN">mesotelioma</instance>
+			<instance id="d001.s007.t006" lemma="pleurico" pos="ADJ">pleurico</instance>
+			<instance id="d001.s007.t007" lemma="tumore" pos="NOUN">tumore</instance>
+			<instance id="d001.s007.t008" lemma="membrana" pos="NOUN">membrana</instance>
+			<instance id="d001.s007.t009" lemma="polmone" pos="NOUN">polmoni</instance>
+			<instance id="d001.s007.t010" lemma="generalmente" pos="ADV">generalmente</instance>
+			<instance id="d001.s007.t011" lemma="provocare" pos="VERB">provocato</instance>
+			<instance id="d001.s007.t012" lemma="esposizione" pos="NOUN">esposizione</instance>
+			<instance id="d001.s007.t013" lemma="amianto" pos="NOUN">amianto</instance>
+		</sentence>
+		<sentence id="d001.s008" source="semeval2015-en">
+			<instance id="d001.s008.t000" lemma="utilizzare" pos="VERB">utilizzato</instance>
+			<instance id="d001.s008.t001" lemma="combinazione" pos="NOUN">combinazione</instance>
+			<instance id="d001.s008.t002" lemma="cisplatino" pos="NOUN">cisplatino</instance>
+			<instance id="d001.s008.t003" lemma="altro" pos="ADJ">altro</instance>
+			<instance id="d001.s008.t004" lemma="farmaco" pos="NOUN">farmaco</instance>
+			<instance id="d001.s008.t005" lemma="tumore" pos="NOUN">tumore</instance>
+			<instance id="d001.s008.t006" lemma="asportabile" pos="ADJ">asportabile</instance>
+			<instance id="d001.s008.t007" lemma="asportare" pos="VERB">asportato</instance>
+			<instance id="d001.s008.t008" lemma="intervento" pos="NOUN">intervento</instance>
+			<instance id="d001.s008.t009" lemma="chirurgico" pos="ADJ">chirurgico</instance>
+			<instance id="d001.s008.t010" lemma="maligno" pos="ADJ">maligno</instance>
+			<instance id="d001.s008.t011" lemma="diffondere" pos="VERB">diffuso</instance>
+			<instance id="d001.s008.t012" lemma="probabile" pos="ADJ">probabile</instance>
+			<instance id="d001.s008.t013" lemma="diffondere" pos="VERB">diffonda</instance>
+			<instance id="d001.s008.t014" lemma="facilmente" pos="ADV">facilmente</instance>
+			<instance id="d001.s008.t015" lemma="parte" pos="NOUN">parti</instance>
+			<instance id="d001.s008.t016" lemma="corpo" pos="NOUN">corpo</instance>
+			<instance id="d001.s008.t017" lemma="paziente" pos="NOUN">pazienti</instance>
+			<instance id="d001.s008.t018" lemma="precedenza" pos="NOUN">precedenza</instance>
+			<instance id="d001.s008.t019" lemma="chemioterapia" pos="NOUN">chemioterapia</instance>
+			<instance id="d001.s008.t020" lemma="carcinoma" pos="NOUN">carcinoma</instance>
+			<instance id="d001.s008.t021" lemma="polmonare" pos="ADJ">polmonare</instance>
+			<instance id="d001.s008.t022" lemma="piccolo" pos="ADJ">piccole</instance>
+			<instance id="d001.s008.t023" lemma="cellula" pos="NOUN">cellule</instance>
+			<instance id="d001.s008.t024" lemma="stadio" pos="NOUN">stadio</instance>
+			<instance id="d001.s008.t025" lemma="avanzato" pos="ADJ">avanzato</instance>
+			<instance id="d001.s008.t026" lemma="metastatico" pos="ADJ">metastatico</instance>
+			<instance id="d001.s008.t027" lemma="interessare" pos="VERB">interessa</instance>
+			<instance id="d001.s008.t028" lemma="cellula" pos="NOUN">cellule</instance>
+		</sentence>
+		<sentence id="d001.s009" source="semeval2015-en">
+			<instance id="d001.s009.t000" lemma="usare" pos="VERB">usato</instance>
+			<instance id="d001.s009.t001" lemma="associazione" pos="NOUN">associazione</instance>
+			<instance id="d001.s009.t002" lemma="cisplatino" pos="NOUN">cisplatino</instance>
+			<instance id="d001.s009.t003" lemma="paziente" pos="NOUN">pazienti</instance>
+			<instance id="d001.s009.t004" lemma="trattare" pos="VERB">trattati</instance>
+			<instance id="d001.s009.t005" lemma="passato" pos="NOUN">passato</instance>
+			<instance id="d001.s009.t006" lemma="solo" pos="ADV">solo</instance>
+			<instance id="d001.s009.t007" lemma="paziente" pos="NOUN">pazienti</instance>
+			<instance id="d001.s009.t008" lemma="passato" pos="NOUN">passato</instance>
+			<instance id="d001.s009.t009" lemma="altro" pos="ADJ">altro</instance>
+			<instance id="d001.s009.t010" lemma="tipo" pos="NOUN">tipo</instance>
+			<instance id="d001.s009.t011" lemma="chemioterapia" pos="NOUN">chemioterapia</instance>
+		</sentence>
+		<sentence id="d001.s010" source="semeval2015-en">
+			<instance id="d001.s010.t000" lemma="medicinale" pos="NOUN">medicinale</instance>
+			<instance id="d001.s010.t001" lemma="ottenere" pos="VERB">ottenuto</instance>
+			<instance id="d001.s010.t002" lemma="soltanto" pos="ADV">soltanto</instance>
+			<instance id="d001.s010.t003" lemma="prescrizione" pos="NOUN">prescrizione</instance>
+		</sentence>
+		<sentence id="d001.s011" source="semeval2015-en">
+			<instance id="d001.s011.t000" lemma="usare" pos="VERB">usa</instance>
+		</sentence>
+		<sentence id="d001.s012" source="semeval2015-en">
+			<instance id="d001.s012.t000" lemma="somministrare" pos="VERB">somministrato</instance>
+			<instance id="d001.s012.t001" lemma="solamente" pos="ADV">solamente</instance>
+			<instance id="d001.s012.t002" lemma="supervisione" pos="NOUN">supervisione</instance>
+			<instance id="d001.s012.t003" lemma="medico" pos="NOUN">medico</instance>
+			<instance id="d001.s012.t004" lemma="qualificato" pos="ADJ">qualificato</instance>
+			<instance id="d001.s012.t005" lemma="uso" pos="NOUN">uso</instance>
+			<instance id="d001.s012.t006" lemma="chemioterapia" pos="NOUN">chemioterapia</instance>
+		</sentence>
+		<sentence id="d001.s013" source="semeval2015-en">
+			<instance id="d001.s013.t000" lemma="dose" pos="NOUN">dose</instance>
+			<instance id="d001.s013.t001" lemma="mg" pos="NOUN">mg</instance>
+			<instance id="d001.s013.t002" lemma="metro" pos="NOUN">metro</instance>
+			<instance id="d001.s013.t003" lemma="superficie" pos="NOUN">superficie</instance>
+			<instance id="d001.s013.t004" lemma="corporeo" pos="ADJ">corporea</instance>
+			<instance id="d001.s013.t005" lemma="calcolare" pos="VERB">calcolata</instance>
+			<instance id="d001.s013.t006" lemma="utilizzare" pos="VERB">utilizzando</instance>
+			<instance id="d001.s013.t007" lemma="altezza" pos="NOUN">altezza</instance>
+			<instance id="d001.s013.t008" lemma="peso" pos="NOUN">peso</instance>
+			<instance id="d001.s013.t009" lemma="paziente" pos="NOUN">paziente</instance>
+			<instance id="d001.s013.t010" lemma="somministrare" pos="VERB">somministrare</instance>
+			<instance id="d001.s013.t011" lemma="infusione" pos="NOUN">infusione</instance>
+			<instance id="d001.s013.t012" lemma="endovenoso" pos="ADJ">endovenosa</instance>
+			<instance id="d001.s013.t013" lemma="minuto" pos="NOUN">minuti</instance>
+			<instance id="d001.s013.t014" lemma="volta" pos="NOUN">volta</instance>
+			<instance id="d001.s013.t015" lemma="ogni" pos="ADJ">ogni</instance>
+			<instance id="d001.s013.t016" lemma="tre" pos="ADJ">tre</instance>
+			<instance id="d001.s013.t017" lemma="settimana" pos="NOUN">settimane</instance>
+		</sentence>
+		<sentence id="d001.s014" source="semeval2015-en">
+			<instance id="d001.s014.t000" lemma="ridurre" pos="VERB">ridurre</instance>
+			<instance id="d001.s014.t001" lemma="effetto" pos="NOUN">effetti</instance>
+			<instance id="d001.s014.t002" lemma="paziente" pos="NOUN">pazienti</instance>
+			<instance id="d001.s014.t003" lemma="assumere" pos="VERB">assumere</instance>
+			<instance id="d001.s014.t004" lemma="corticosteroide" pos="NOUN">corticosteroide</instance>
+			<instance id="d001.s014.t005" lemma="acido" pos="NOUN">acido</instance>
+			<instance id="d001.s014.t006" lemma="tipo" pos="NOUN">tipo</instance>
+			<instance id="d001.s014.t007" lemma="vitamina" pos="NOUN">vitamina</instance>
+			<instance id="d001.s014.t008" lemma="ricevere" pos="VERB">ricevere</instance>
+			<instance id="d001.s014.t009" lemma="iniezione" pos="NOUN">iniezioni</instance>
+			<instance id="d001.s014.t010" lemma="vitamina" pos="NOUN">vitamina</instance>
+			<instance id="d001.s014.t011" lemma="trattamento" pos="NOUN">trattamento</instance>
+		</sentence>
+		<sentence id="d001.s015" source="semeval2015-en">
+			<instance id="d001.s015.t000" lemma="somministrare" pos="VERB">somministrato</instance>
+			<instance id="d001.s015.t001" lemma="cisplatino" pos="NOUN">cisplatino</instance>
+			<instance id="d001.s015.t002" lemma="paziente" pos="NOUN">pazienti</instance>
+			<instance id="d001.s015.t003" lemma="assumere" pos="VERB">assumere</instance>
+			<instance id="d001.s015.t004" lemma="farmaco" pos="NOUN">farmaco</instance>
+			<instance id="d001.s015.t005" lemma="antiemetico" pos="NOUN">antiemetico</instance>
+			<instance id="d001.s015.t006" lemma="prevenire" pos="VERB">prevenire</instance>
+			<instance id="d001.s015.t007" lemma="vomito" pos="NOUN">vomito</instance>
+			<instance id="d001.s015.t008" lemma="ricevere" pos="VERB">ricevere</instance>
+			<instance id="d001.s015.t009" lemma="adeguato" pos="ADJ">adeguata</instance>
+			<instance id="d001.s015.t010" lemma="idratazione" pos="NOUN">idratazione</instance>
+			<instance id="d001.s015.t011" lemma="prevenire" pos="VERB">prevenire</instance>
+			<instance id="d001.s015.t012" lemma="disidratazione" pos="NOUN">disidratazione</instance>
+			<instance id="d001.s015.t013" lemma="prima" pos="ADV">prima</instance>
+			<instance id="d001.s015.t014" lemma="dopo" pos="ADV">dopo</instance>
+			<instance id="d001.s015.t015" lemma="assunzione" pos="NOUN">assunzione</instance>
+			<instance id="d001.s015.t016" lemma="cisplatino" pos="NOUN">cisplatino</instance>
+		</sentence>
+		<sentence id="d001.s016" source="semeval2015-en">
+			<instance id="d001.s016.t000" lemma="trattamento" pos="NOUN">trattamento</instance>
+			<instance id="d001.s016.t001" lemma="posticipare" pos="VERB">posticipato</instance>
+			<instance id="d001.s016.t002" lemma="interrompere" pos="VERB">interrotto</instance>
+			<instance id="d001.s016.t003" lemma="dose" pos="NOUN">dose</instance>
+			<instance id="d001.s016.t004" lemma="ridurre" pos="VERB">ridotta</instance>
+			<instance id="d001.s016.t005" lemma="paziente" pos="NOUN">pazienti</instance>
+			<instance id="d001.s016.t006" lemma="alterazione" pos="NOUN">alterazioni</instance>
+			<instance id="d001.s016.t007" lemma="ematico" pos="ADJ">ematiche</instance>
+			<instance id="d001.s016.t008" lemma="riportare" pos="VERB">riportano</instance>
+			<instance id="d001.s016.t009" lemma="effetto" pos="NOUN">effetti</instance>
+		</sentence>
+		<sentence id="d001.s017" source="semeval2015-en">
+			<instance id="d001.s017.t000" lemma="impiego" pos="NOUN">impiego</instance>
+			<instance id="d001.s017.t001" lemma="paziente" pos="NOUN">pazienti</instance>
+			<instance id="d001.s017.t002" lemma="insufficienza" pos="NOUN">insufficienza</instance>
+			<instance id="d001.s017.t003" lemma="grave" pos="ADJ">grave</instance>
+			<instance id="d001.s017.t004" lemma="moderato" pos="ADJ">moderata</instance>
+		</sentence>
+		<sentence id="d001.s018" source="semeval2015-en">
+			<instance id="d001.s018.t000" lemma="maggiore" pos="ADJ">maggiori</instance>
+			<instance id="d001.s018.t001" lemma="informazione" pos="NOUN">informazioni</instance>
+			<instance id="d001.s018.t002" lemma="riassunto" pos="NOUN">Riassunto</instance>
+			<instance id="d001.s018.t003" lemma="caratteristica" pos="NOUN">caratteristiche</instance>
+			<instance id="d001.s018.t004" lemma="prodotto" pos="NOUN">prodotto</instance>
+			<instance id="d001.s018.t005" lemma="allegare" pos="VERB">allegato</instance>
+		</sentence>
+		<sentence id="d001.s019" source="semeval2015-en">
+			<instance id="d001.s019.t000" lemma="agire" pos="VERB">agisce</instance>
+		</sentence>
+		<sentence id="d001.s020" source="semeval2015-en">
+			<instance id="d001.s020.t000" lemma="principio" pos="NOUN">principio</instance>
+			<instance id="d001.s020.t001" lemma="attivo" pos="ADJ">attivo</instance>
+			<instance id="d001.s020.t002" lemma="medicinale" pos="NOUN">medicinale</instance>
+			<instance id="d001.s020.t003" lemma="citotossico" pos="ADJ">citotossico</instance>
+			<instance id="d001.s020.t004" lemma="medicinale" pos="NOUN">medicinale</instance>
+			<instance id="d001.s020.t005" lemma="uccidere" pos="VERB">uccide</instance>
+			<instance id="d001.s020.t006" lemma="cellula" pos="NOUN">cellule</instance>
+			<instance id="d001.s020.t007" lemma="attivo" pos="ADJ">attiva</instance>
+			<instance id="d001.s020.t008" lemma="divisione" pos="NOUN">divisione</instance>
+			<instance id="d001.s020.t009" lemma="cellula" pos="NOUN">cellule</instance>
+			<instance id="d001.s020.t010" lemma="tumorale" pos="ADJ">tumorali</instance>
+			<instance id="d001.s020.t011" lemma="appartenere" pos="VERB">appartiene</instance>
+			<instance id="d001.s020.t012" lemma="gruppo" pos="NOUN">gruppo</instance>
+			<instance id="d001.s020.t013" lemma="antimetaboliti" pos="NOUN">antimetaboliti</instance>
+		</sentence>
+		<sentence id="d001.s021" source="semeval2015-en">
+			<instance id="d001.s021.t000" lemma="organismo" pos="NOUN">organismo</instance>
+			<instance id="d001.s021.t001" lemma="trasformare" pos="VERB">trasformato</instance>
+			<instance id="d001.s021.t002" lemma="forma" pos="NOUN">forma</instance>
+			<instance id="d001.s021.t003" lemma="attivo" pos="ADJ">attiva</instance>
+			<instance id="d001.s021.t004" lemma="bloccare" pos="VERB">blocca</instance>
+			<instance id="d001.s021.t005" lemma="attività" pos="NOUN">attività</instance>
+			<instance id="d001.s021.t006" lemma="enzima" pos="NOUN">enzimi</instance>
+			<instance id="d001.s021.t007" lemma="coinvolgere" pos="VERB">coinvolti</instance>
+			<instance id="d001.s021.t008" lemma="produzione" pos="NOUN">produzione</instance>
+			<instance id="d001.s021.t009" lemma="nucleotidi" pos="NOUN">nucleotidi</instance>
+			<instance id="d001.s021.t010" lemma="elemento" pos="NOUN">elementi</instance>
+			<instance id="d001.s021.t011" lemma="dna" pos="NOUN">DNA</instance>
+			<instance id="d001.s021.t012" lemma="rna" pos="NOUN">RNA</instance>
+			<instance id="d001.s021.t013" lemma="materiale" pos="NOUN">materiale</instance>
+			<instance id="d001.s021.t014" lemma="genetico" pos="ADJ">genetico</instance>
+			<instance id="d001.s021.t015" lemma="cellula" pos="NOUN">cellule</instance>
+		</sentence>
+		<sentence id="d001.s022" source="semeval2015-en">
+			<instance id="d001.s022.t000" lemma="studio" pos="NOUN">studi</instance>
+			<instance id="d001.s022.t001" lemma="effettuare" pos="VERB">effettuati</instance>
+		</sentence>
+		<sentence id="d001.s023" source="semeval2015-en">
+			<instance id="d001.s023.t000" lemma="trattamento" pos="NOUN">trattamento</instance>
+			<instance id="d001.s023.t001" lemma="mesotelioma" pos="NOUN">mesotelioma</instance>
+			<instance id="d001.s023.t002" lemma="pleurico" pos="ADJ">pleurico</instance>
+			<instance id="d001.s023.t003" lemma="maligno" pos="ADJ">maligno</instance>
+			<instance id="d001.s023.t004" lemma="esaminare" pos="VERB">esaminato</instance>
+			<instance id="d001.s023.t005" lemma="ambito" pos="NOUN">ambito</instance>
+			<instance id="d001.s023.t006" lemma="studio" pos="NOUN">studio</instance>
+			<instance id="d001.s023.t007" lemma="principale" pos="ADJ">principale</instance>
+			<instance id="d001.s023.t008" lemma="condurre" pos="VERB">condotto</instance>
+			<instance id="d001.s023.t009" lemma="paziente" pos="NOUN">pazienti</instance>
+			<instance id="d001.s023.t010" lemma="chemioterapia" pos="NOUN">chemioterapia</instance>
+			<instance id="d001.s023.t011" lemma="precedenza" pos="NOUN">precedenza</instance>
+		</sentence>
+		<sentence id="d001.s024" source="semeval2015-en">
+			<instance id="d001.s024.t000" lemma="effetto" pos="NOUN">effetti</instance>
+			<instance id="d001.s024.t001" lemma="somministrare" pos="VERB">somministrato</instance>
+			<instance id="d001.s024.t002" lemma="combinazione" pos="NOUN">combinazione</instance>
+			<instance id="d001.s024.t003" lemma="cisplatino" pos="NOUN">cisplatino</instance>
+			<instance id="d001.s024.t004" lemma="confrontare" pos="VERB">confrontati</instance>
+			<instance id="d001.s024.t005" lemma="cisplatino" pos="NOUN">cisplatino</instance>
+			<instance id="d001.s024.t006" lemma="monoterapia" pos="NOUN">monoterapia</instance>
+		</sentence>
+		<sentence id="d001.s025" source="semeval2015-en">
+			<instance id="d001.s025.t000" lemma="trattamento" pos="NOUN">trattamento</instance>
+			<instance id="d001.s025.t001" lemma="carcinoma" pos="NOUN">carcinoma</instance>
+			<instance id="d001.s025.t002" lemma="polmonare" pos="ADJ">polmonare</instance>
+			<instance id="d001.s025.t003" lemma="piccolo" pos="ADJ">piccole</instance>
+			<instance id="d001.s025.t004" lemma="cellula" pos="NOUN">cellule</instance>
+			<instance id="d001.s025.t005" lemma="effetto" pos="NOUN">effetti</instance>
+			<instance id="d001.s025.t006" lemma="confrontare" pos="VERB">confrontati</instance>
+			<instance id="d001.s025.t007" lemma="docetaxel" pos="NOUN">docetaxel</instance>
+			<instance id="d001.s025.t008" lemma="altro" pos="ADJ">altro</instance>
+			<instance id="d001.s025.t009" lemma="farmaco" pos="NOUN">farmaco</instance>
+			<instance id="d001.s025.t010" lemma="studio" pos="NOUN">studio</instance>
+			<instance id="d001.s025.t011" lemma="condurre" pos="VERB">condotto</instance>
+			<instance id="d001.s025.t012" lemma="paziente" pos="NOUN">pazienti</instance>
+			<instance id="d001.s025.t013" lemma="tumore" pos="NOUN">tumore</instance>
+			<instance id="d001.s025.t014" lemma="fase" pos="NOUN">fase</instance>
+			<instance id="d001.s025.t015" lemma="avanzato" pos="ADJ">avanzata</instance>
+			<instance id="d001.s025.t016" lemma="metastatico" pos="ADJ">metastatica</instance>
+			<instance id="d001.s025.t017" lemma="precedenza" pos="NOUN">precedenza</instance>
+			<instance id="d001.s025.t018" lemma="chemioterapia" pos="NOUN">chemioterapia</instance>
+		</sentence>
+		<sentence id="d001.s026" source="semeval2015-en">
+			<instance id="d001.s026.t000" lemma="confrontare" pos="VERB">confrontato</instance>
+			<instance id="d001.s026.t001" lemma="gemcitabina" pos="NOUN">gemcitabina</instance>
+			<instance id="d001.s026.t002" lemma="medicinale" pos="NOUN">medicinale</instance>
+			<instance id="d001.s026.t003" lemma="associazione" pos="NOUN">associazione</instance>
+			<instance id="d001.s026.t004" lemma="cisplatino" pos="NOUN">cisplatino</instance>
+			<instance id="d001.s026.t005" lemma="studio" pos="NOUN">studio</instance>
+			<instance id="d001.s026.t006" lemma="paziente" pos="NOUN">pazienti</instance>
+			<instance id="d001.s026.t007" lemma="passato" pos="NOUN">passato</instance>
+			<instance id="d001.s026.t008" lemma="chemioterapia" pos="NOUN">chemioterapia</instance>
+			<instance id="d001.s026.t009" lemma="tumore" pos="NOUN">tumore</instance>
+			<instance id="d001.s026.t010" lemma="polmonare" pos="ADJ">polmonare</instance>
+		</sentence>
+		<sentence id="d001.s027" source="semeval2015-en">
+			<instance id="d001.s027.t000" lemma="tutto" pos="ADJ">tutti</instance>
+			<instance id="d001.s027.t001" lemma="tre" pos="ADJ">tre</instance>
+			<instance id="d001.s027.t002" lemma="studio" pos="NOUN">studi</instance>
+			<instance id="d001.s027.t003" lemma="principale" pos="ADJ">principale</instance>
+			<instance id="d001.s027.t004" lemma="efficacia" pos="NOUN">efficacia</instance>
+			<instance id="d001.s027.t005" lemma="tempo" pos="NOUN">tempo</instance>
+			<instance id="d001.s027.t006" lemma="sopravvivenza" pos="NOUN">sopravvivenza</instance>
+			<instance id="d001.s027.t007" lemma="paziente" pos="NOUN">pazienti</instance>
+		</sentence>
+		<sentence id="d001.s028" source="semeval2015-en">
+			<instance id="d001.s028.t000" lemma="beneficio" pos="NOUN">benefici</instance>
+			<instance id="d001.s028.t001" lemma="mostrare" pos="VERB">mostrato</instance>
+			<instance id="d001.s028.t002" lemma="studio" pos="NOUN">studi</instance>
+		</sentence>
+		<sentence id="d001.s029" source="semeval2015-en">
+			<instance id="d001.s029.t000" lemma="aumentare" pos="VERB">aumentato</instance>
+			<instance id="d001.s029.t001" lemma="tempo" pos="NOUN">tempo</instance>
+			<instance id="d001.s029.t002" lemma="sopravvivenza" pos="NOUN">sopravvivenza</instance>
+			<instance id="d001.s029.t003" lemma="paziente" pos="NOUN">pazienti</instance>
+			<instance id="d001.s029.t004" lemma="affetto" pos="ADJ">affetti</instance>
+			<instance id="d001.s029.t005" lemma="mesotelioma" pos="NOUN">mesotelioma</instance>
+			<instance id="d001.s029.t006" lemma="pleurico" pos="ADJ">pleurico</instance>
+			<instance id="d001.s029.t007" lemma="maligno" pos="ADJ">maligno</instance>
+		</sentence>
+		<sentence id="d001.s030" source="semeval2015-en">
+			<instance id="d001.s030.t000" lemma="somministrare" pos="VERB">somministrato</instance>
+			<instance id="d001.s030.t001" lemma="combinazione" pos="NOUN">combinazione</instance>
+			<instance id="d001.s030.t002" lemma="cisplatino" pos="NOUN">cisplatino</instance>
+			<instance id="d001.s030.t003" lemma="sopravvivere" pos="VERB">sopravvissuti</instance>
+			<instance id="d001.s030.t004" lemma="media" pos="NOUN">media</instance>
+			<instance id="d001.s030.t005" lemma="mese" pos="NOUN">mesi</instance>
+			<instance id="d001.s030.t006" lemma="rispetto" pos="NOUN">rispetto</instance>
+			<instance id="d001.s030.t007" lemma="mese" pos="NOUN">mesi</instance>
+			<instance id="d001.s030.t008" lemma="paziente" pos="NOUN">pazienti</instance>
+			<instance id="d001.s030.t009" lemma="assumere" pos="VERB">assunto</instance>
+			<instance id="d001.s030.t010" lemma="cisplatino" pos="NOUN">cisplatino</instance>
+			<instance id="d001.s030.t011" lemma="monoterapia" pos="NOUN">monoterapia</instance>
+		</sentence>
+		<sentence id="d001.s031" source="semeval2015-en">
+			<instance id="d001.s031.t000" lemma="trattamento" pos="NOUN">trattamento</instance>
+			<instance id="d001.s031.t001" lemma="paziente" pos="NOUN">pazienti</instance>
+			<instance id="d001.s031.t002" lemma="carcinoma" pos="NOUN">carcinoma</instance>
+			<instance id="d001.s031.t003" lemma="polmonare" pos="ADJ">polmonare</instance>
+			<instance id="d001.s031.t004" lemma="piccolo" pos="ADJ">piccole</instance>
+			<instance id="d001.s031.t005" lemma="cellula" pos="NOUN">cellule</instance>
+			<instance id="d001.s031.t006" lemma="alimta" pos="NOUN">Alimta</instance>
+			<instance id="d001.s031.t007" lemma="rivelare" pos="VERB">rivelato</instance>
+			<instance id="d001.s031.t008" lemma="efficace" pos="ADJ">efficace</instance>
+		</sentence>
+		<sentence id="d001.s032" source="semeval2015-en">
+			<instance id="d001.s032.t000" lemma="paziente" pos="NOUN">pazienti</instance>
+			<instance id="d001.s032.t001" lemma="passato" pos="NOUN">passato</instance>
+			<instance id="d001.s032.t002" lemma="chemioterapia" pos="NOUN">chemioterapia</instance>
+			<instance id="d001.s032.t003" lemma="tempo" pos="NOUN">tempo</instance>
+			<instance id="d001.s032.t004" lemma="sopravvivenza" pos="NOUN">sopravvivenza</instance>
+			<instance id="d001.s032.t005" lemma="medio" pos="ADJ">medio</instance>
+			<instance id="d001.s032.t006" lemma="mese" pos="NOUN">mesi</instance>
+			<instance id="d001.s032.t007" lemma="docetaxel" pos="NOUN">docetaxel</instance>
+		</sentence>
+		<sentence id="d001.s033" source="semeval2015-en">
+			<instance id="d001.s033.t000" lemma="paziente" pos="NOUN">pazienti</instance>
+			<instance id="d001.s033.t001" lemma="passato" pos="NOUN">passato</instance>
+			<instance id="d001.s033.t002" lemma="chemioterapia" pos="NOUN">chemioterapia</instance>
+			<instance id="d001.s033.t003" lemma="tempo" pos="NOUN">tempo</instance>
+			<instance id="d001.s033.t004" lemma="sopravvivenza" pos="NOUN">sopravvivenza</instance>
+			<instance id="d001.s033.t005" lemma="medio" pos="ADJ">medio</instance>
+			<instance id="d001.s033.t006" lemma="mese" pos="NOUN">mesi</instance>
+			<instance id="d001.s033.t007" lemma="gruppo" pos="NOUN">gruppi</instance>
+		</sentence>
+		<sentence id="d001.s034" source="semeval2015-en">
+			<instance id="d001.s034.t000" lemma="tuttavia" pos="ADV">Tuttavia</instance>
+			<instance id="d001.s034.t001" lemma="studio" pos="NOUN">studi</instance>
+			<instance id="d001.s034.t002" lemma="paziente" pos="NOUN">pazienti</instance>
+			<instance id="d001.s034.t003" lemma="tumore" pos="NOUN">tumore</instance>
+			<instance id="d001.s034.t004" lemma="interessare" pos="VERB">interessava</instance>
+			<instance id="d001.s034.t005" lemma="cellula" pos="NOUN">cellule</instance>
+			<instance id="d001.s034.t006" lemma="riportare" pos="VERB">riportato</instance>
+			<instance id="d001.s034.t007" lemma="tempo" pos="NOUN">tempi</instance>
+			<instance id="d001.s034.t008" lemma="sopravvivenza" pos="NOUN">sopravvivenza</instance>
+			<instance id="d001.s034.t009" lemma="lungo" pos="ADJ">lunghi</instance>
+			<instance id="d001.s034.t010" lemma="trattare" pos="VERB">trattati</instance>
+			<instance id="d001.s034.t011" lemma="trattare" pos="VERB">trattati</instance>
+		</sentence>
+		<sentence id="d001.s035" source="semeval2015-en">
+			<instance id="d001.s035.t000" lemma="invece" pos="ADV">Invece</instance>
+			<instance id="d001.s035.t001" lemma="paziente" pos="NOUN">pazienti</instance>
+			<instance id="d001.s035.t002" lemma="tumore" pos="NOUN">tumore</instance>
+			<instance id="d001.s035.t003" lemma="interessare" pos="VERB">interessava</instance>
+			<instance id="d001.s035.t004" lemma="cellula" pos="NOUN">cellule</instance>
+			<instance id="d001.s035.t005" lemma="riportare" pos="VERB">riportato</instance>
+			<instance id="d001.s035.t006" lemma="tempo" pos="NOUN">tempi</instance>
+			<instance id="d001.s035.t007" lemma="sopravvivenza" pos="NOUN">sopravvivenza</instance>
+			<instance id="d001.s035.t008" lemma="breve" pos="ADJ">brevi</instance>
+			<instance id="d001.s035.t009" lemma="trattare" pos="VERB">trattati</instance>
+			<instance id="d001.s035.t010" lemma="calcolatrice" pos="NOUN">calcolatrice</instance>
+			<instance id="d001.s035.t011" lemma="matematico" pos="ADJ">matematica</instance>
+			<instance id="d001.s035.t012" lemma="basare" pos="VERB">basata</instance>
+			<instance id="d001.s035.t013" lemma="linguaggio" pos="NOUN">linguaggio</instance>
+		</sentence>
+		<sentence id="d001.s036" source="semeval2015-en">
+			<instance id="d001.s036.t000" lemma="eseguire" pos="VERB">eseguire</instance>
+			<instance id="d001.s036.t001" lemma="semplice" pos="ADJ">semplici</instance>
+			<instance id="d001.s036.t002" lemma="operazione" pos="NOUN">operazioni</instance>
+			<instance id="d001.s036.t003" lemma="aritmetico" pos="ADJ">aritmetiche</instance>
+			<instance id="d001.s036.t004" lemma="logico" pos="ADJ">logiche</instance>
+			<instance id="d001.s036.t005" lemma="rappresentare" pos="VERB">rappresentare</instance>
+			<instance id="d001.s036.t006" lemma="grafico" pos="NOUN">grafici</instance>
+			<instance id="d001.s036.t007" lemma="2d" pos="NOUN">2D</instance>
+			<instance id="d001.s036.t008" lemma="3d" pos="NOUN">3D</instance>
+		</sentence>
+		<sentence id="d001.s037" source="semeval2015-en">
+			<instance id="d001.s037.t000" lemma="non" pos="ADV">Non</instance>
+			<instance id="d001.s037.t001" lemma="necessario" pos="ADJ">necessario</instance>
+			<instance id="d001.s037.t002" lemma="conoscere" pos="VERB">conoscere</instance>
+			<instance id="d001.s037.t003" lemma="usare" pos="VERB">usare</instance>
+			<instance id="d001.s037.t004" lemma="calcolatrice" pos="NOUN">calcolatrice</instance>
+			<instance id="d001.s037.t005" lemma="basare" pos="VERB">basata</instance>
+			<instance id="d001.s037.t006" lemma="linguaggio" pos="NOUN">linguaggio</instance>
+		</sentence>
+		<sentence id="d001.s038" source="semeval2015-en">
+			<instance id="d001.s038.t000" lemma="inizialmente" pos="ADV">inizialmente</instance>
+			<instance id="d001.s038.t001" lemma="orientare" pos="VERB">orientata</instance>
+			<instance id="d001.s038.t002" lemma="uso" pos="NOUN">uso</instance>
+			<instance id="d001.s038.t003" lemma="usare" pos="VERB">usando</instance>
+			<instance id="d001.s038.t004" lemma="usare" pos="VERB">usata</instance>
+			<instance id="d001.s038.t005" lemma="minimo" pos="NOUN">minimo</instance>
+			<instance id="d001.s038.t006" lemma="conoscenza" pos="NOUN">conoscenza</instance>
+			<instance id="d001.s038.t007" lemma="matematico" pos="ADJ">matematica</instance>
+		</sentence>
+		<sentence id="d001.s039" source="semeval2015-en">
+			<instance id="d001.s039.t000" lemma="immagine" pos="NOUN">Immagine</instance>
+			<instance id="d001.s039.t001" lemma="finestra" pos="NOUN">finestra</instance>
+			<instance id="d001.s039.t002" lemma="principale" pos="ADJ">principale</instance>
+			<instance id="d001.s039.t003" lemma="finestra" pos="NOUN">Finestra</instance>
+			<instance id="d001.s039.t004" lemma="principale" pos="ADJ">principale</instance>
+			<instance id="d001.s039.t005" lemma="finestra" pos="NOUN">finestra</instance>
+			<instance id="d001.s039.t006" lemma="principale" pos="ADJ">principale</instance>
+			<instance id="d001.s039.t007" lemma="comporre" pos="VERB">composta</instance>
+			<instance id="d001.s039.t008" lemma="scheda" pos="NOUN">scheda</instance>
+			<instance id="d001.s039.t009" lemma="console" pos="NOUN">Console</instance>
+			<instance id="d001.s039.t010" lemma="scheda" pos="NOUN">scheda</instance>
+			<instance id="d001.s039.t011" lemma="2d" pos="NOUN">2D</instance>
+			<instance id="d001.s039.t012" lemma="scheda" pos="NOUN">scheda</instance>
+			<instance id="d001.s039.t013" lemma="3d" pos="NOUN">3D</instance>
+			<instance id="d001.s039.t014" lemma="scheda" pos="NOUN">scheda</instance>
+			<instance id="d001.s039.t015" lemma="dizionario" pos="NOUN">Dizionario</instance>
+		</sentence>
+		<sentence id="d001.s040" source="semeval2015-en">
+			<instance id="d001.s040.t000" lemma="scheda" pos="NOUN">schede</instance>
+			<instance id="d001.s040.t001" lemma="trovare" pos="VERB">trova</instance>
+			<instance id="d001.s040.t002" lemma="campo" pos="NOUN">campo</instance>
+			<instance id="d001.s040.t003" lemma="scrivere" pos="VERB">scrivere</instance>
+			<instance id="d001.s040.t004" lemma="funzione" pos="NOUN">funzioni</instance>
+			<instance id="d001.s040.t005" lemma="fare" pos="VERB">fare</instance>
+			<instance id="d001.s040.t006" lemma="calcolo" pos="NOUN">calcoli</instance>
+		</sentence>
+		<sentence id="d001.s041" source="semeval2015-en">
+			<instance id="d001.s041.t000" lemma="volere" pos="VERB">vogliamo</instance>
+			<instance id="d001.s041.t001" lemma="capire" pos="VERB">capire</instance>
+			<instance id="d001.s041.t002" lemma="funzionare" pos="VERB">funziona</instance>
+			<instance id="d001.s041.t003" lemma="cosa" pos="NOUN">cosa</instance>
+			<instance id="d001.s041.t004" lemma="migliore" pos="ADJ">migliore</instance>
+			<instance id="d001.s041.t005" lemma="fare" pos="VERB">fare</instance>
+			<instance id="d001.s041.t006" lemma="comprendere" pos="VERB">comprendere</instance>
+			<instance id="d001.s041.t007" lemma="inserire" pos="VERB">inserito</instance>
+			<instance id="d001.s041.t008" lemma="convertire" pos="VERB">convertito</instance>
+			<instance id="d001.s041.t009" lemma="necessario" pos="ADJ">necessario</instance>
+			<instance id="d001.s041.t010" lemma="conoscere" pos="VERB">conoscere</instance>
+		</sentence>
+		<sentence id="d001.s042" source="semeval2015-en">
+			<instance id="d001.s042.t000" lemma="basare" pos="VERB">basato</instance>
+			<instance id="d001.s042.t001" lemma="sintassi" pos="NOUN">sintassi</instance>
+			<instance id="d001.s042.t002" lemma="praticamente" pos="ADV">praticamente</instance>
+			<instance id="d001.s042.t003" lemma="senso" pos="NOUN">senso</instance>
+			<instance id="d001.s042.t004" lemma="comune" pos="ADJ">comune</instance>
+			<instance id="d001.s042.t005" lemma="difficile" pos="ADJ">difficile</instance>
+		</sentence>
+		<sentence id="d001.s043" source="semeval2015-en">
+			<instance id="d001.s043.t000" lemma="dare" pos="VERB">dato</instance>
+			<instance id="d001.s043.t001" lemma="occhiata" pos="NOUN">occhiata</instance>
+			<instance id="d001.s043.t002" lemma="sintassi" pos="NOUN">sintassi</instance>
+			<instance id="d001.s043.t003" lemma="modo" pos="NOUN">modo</instance>
+			<instance id="d001.s043.t004" lemma="abbastanza" pos="ADV">abbastanza</instance>
+			<instance id="d001.s043.t005" lemma="simile" pos="ADJ">simile</instance>
+			<instance id="d001.s043.t006" lemma="addizione" pos="NOUN">addizione</instance>
+			<instance id="d001.s043.t007" lemma="sottrazione" pos="NOUN">sottrazione</instance>
+			<instance id="d001.s043.t008" lemma="moltiplicazione" pos="NOUN">moltiplicazione</instance>
+			<instance id="d001.s043.t009" lemma="divisione" pos="NOUN">divisione</instance>
+			<instance id="d001.s043.t010" lemma="elevamento" pos="NOUN">elevamento</instance>
+			<instance id="d001.s043.t011" lemma="potenza" pos="NOUN">potenza</instance>
+			<instance id="d001.s043.t012" lemma="usare" pos="VERB">usare</instance>
+		</sentence>
+		<sentence id="d001.s044" source="semeval2015-en">
+			<instance id="d001.s044.t000" lemma="possibile" pos="ADJ">possibile</instance>
+			<instance id="d001.s044.t001" lemma="usare" pos="VERB">usare</instance>
+		</sentence>
+		<sentence id="d001.s045" source="semeval2015-en">
+			<instance id="d001.s045.t000" lemma="elevamento" pos="NOUN">elevamenti</instance>
+			<instance id="d001.s045.t001" lemma="potenza" pos="NOUN">potenza</instance>
+			<instance id="d001.s045.t002" lemma="possibile" pos="ADJ">possibile</instance>
+			<instance id="d001.s045.t003" lemma="effettuare" pos="VERB">effettuare</instance>
+			<instance id="d001.s045.t004" lemma="radice" pos="NOUN">radici</instance>
+			<instance id="d001.s045.t005" lemma="modo" pos="NOUN">modo</instance>
+			<instance id="d001.s045.t006" lemma="specificare" pos="VERB">specificare</instance>
+			<instance id="d001.s045.t007" lemma="variabile" pos="NOUN">variabile</instance>
+			<instance id="d001.s045.t008" lemma="funzione" pos="NOUN">funzione</instance>
+			<instance id="d001.s045.t009" lemma="usare" pos="VERB">usato</instance>
+			<instance id="d001.s045.t010" lemma="specificare" pos="VERB">specificare</instance>
+			<instance id="d001.s045.t011" lemma="priorità" pos="NOUN">priorità</instance>
+			<instance id="d001.s045.t012" lemma="alto" pos="ADJ">alta</instance>
+			<instance id="d001.s045.t013" lemma="analizzatore" pos="NOUN">analizzatore</instance>
+			<instance id="d001.s045.t014" lemma="trovare" pos="VERB">trova</instance>
+			<instance id="d001.s045.t015" lemma="funzione" pos="NOUN">funzione</instance>
+			<instance id="d001.s045.t016" lemma="controllare" pos="VERB">controlla</instance>
+			<instance id="d001.s045.t017" lemma="operatore" pos="NOUN">operatore</instance>
+		</sentence>
+		<sentence id="d001.s046" source="semeval2015-en">
+			<instance id="d001.s046.t000" lemma="trattare" pos="VERB">trattato</instance>
+			<instance id="d001.s046.t001" lemma="operatore" pos="NOUN">operatore</instance>
+			<instance id="d001.s046.t002" lemma="trattare" pos="VERB">trattato</instance>
+			<instance id="d001.s046.t003" lemma="funzione" pos="NOUN">funzione</instance>
+			<instance id="d001.s046.t004" lemma="utente" pos="NOUN">utente</instance>
+			<instance id="d001.s046.t005" lemma="usare" pos="VERB">Usata</instance>
+			<instance id="d001.s046.t006" lemma="definire" pos="VERB">definire</instance>
+			<instance id="d001.s046.t007" lemma="valore" pos="NOUN">valore</instance>
+			<instance id="d001.s046.t008" lemma="variabile" pos="NOUN">variabile</instance>
+			<instance id="d001.s046.t009" lemma="definizione" pos="NOUN">Definizione</instance>
+			<instance id="d001.s046.t010" lemma="condizione" pos="NOUN">condizione</instance>
+			<instance id="d001.s046.t011" lemma="definire" pos="VERB">definita</instance>
+			<instance id="d001.s046.t012" lemma="a" pos="X">a</instance>
+		</sentence>
+		<sentence id="d001.s047" source="semeval2015-en">
+			<instance id="d001.s047.t000" lemma="definizione" pos="NOUN">definizione</instance>
+			<instance id="d001.s047.t001" lemma="a" pos="X">a</instance>
+			<instance id="d001.s047.t002" lemma="modo" pos="NOUN">modo</instance>
+			<instance id="d001.s047.t003" lemma="definire" pos="VERB">definire</instance>
+			<instance id="d001.s047.t004" lemma="operazione" pos="NOUN">operazioni</instance>
+			<instance id="d001.s047.t005" lemma="condizionale" pos="ADJ">condizionali</instance>
+		</sentence>
+		<sentence id="d001.s048" source="semeval2015-en">
+			<instance id="d001.s048.t000" lemma="introdurre" pos="VERB">introduciamo</instance>
+			<instance id="d001.s048.t001" lemma="condizione" pos="NOUN">condizione</instance>
+			<instance id="d001.s048.t002" lemma="primo" pos="ADJ">prima</instance>
+			<instance id="d001.s048.t003" lemma="condizione" pos="NOUN">condizione</instance>
+			<instance id="d001.s048.t004" lemma="usare" pos="VERB">usata</instance>
+			<instance id="d001.s048.t005" lemma="vero" pos="ADJ">vera</instance>
+			<instance id="d001.s048.t006" lemma="trovare" pos="VERB">trovato</instance>
+			<instance id="d001.s048.t007" lemma="condizione" pos="NOUN">condizione</instance>
+			<instance id="d001.s048.t008" lemma="usare" pos="VERB">usato</instance>
+			<instance id="d001.s048.t009" lemma="ultimo" pos="ADJ">ultima</instance>
+			<instance id="d001.s048.t010" lemma="alternativa" pos="NOUN">alternativa</instance>
+			<instance id="d001.s048.t011" lemma="contenitore" pos="NOUN">contenitore</instance>
+			<instance id="d001.s048.t012" lemma="usare" pos="VERB">usato</instance>
+			<instance id="d001.s048.t013" lemma="definire" pos="VERB">definire</instance>
+			<instance id="d001.s048.t014" lemma="contenitore" pos="NOUN">contenitore</instance>
+		</sentence>
+		<sentence id="d001.s049" source="semeval2015-en">
+			<instance id="d001.s049.t000" lemma="principalmente" pos="ADV">principalmente</instance>
+			<instance id="d001.s049.t001" lemma="funzione" pos="NOUN">funzioni</instance>
+			<instance id="d001.s049.t002" lemma="definire" pos="VERB">definite</instance>
+			<instance id="d001.s049.t003" lemma="a" pos="X">a</instance>
+		</sentence>
+		<sentence id="d001.s050" source="semeval2015-en">
+			<instance id="d001.s050.t000" lemma="adesso" pos="ADV">Adesso</instance>
+			<instance id="d001.s050.t001" lemma="chiedere" pos="VERB">chiedermi</instance>
+			<instance id="d001.s050.t002" lemma="utente" pos="NOUN">utente</instance>
+			<instance id="d001.s050.t003" lemma="conoscere" pos="VERB">conoscere</instance>
+			<instance id="d001.s050.t004" lemma="semplice" pos="ADJ">Semplice</instance>
+			<instance id="d001.s050.t005" lemma="operare" pos="VERB">operare</instance>
+			<instance id="d001.s050.t006" lemma="funzione" pos="NOUN">funzioni</instance>
+			<instance id="d001.s050.t007" lemma="cos" pos="NOUN">cos()</instance>
+			<instance id="d001.s050.t008" lemma="sin" pos="NOUN">sin()</instance>
+			<instance id="d001.s050.t009" lemma="qualsiasi" pos="ADJ">qualsiasi</instance>
+			<instance id="d001.s050.t010" lemma="funzione" pos="NOUN">funzione</instance>
+			<instance id="d001.s050.t011" lemma="trigonometrico" pos="ADJ">trigonometrica</instance>
+			<instance id="d001.s050.t012" lemma="sum" pos="NOUN">sum()</instance>
+			<instance id="d001.s050.t013" lemma="product" pos="NOUN">product()</instance>
+		</sentence>
+		<sentence id="d001.s051" source="semeval2015-en">
+			<instance id="d001.s051.t000" lemma="importare" pos="VERB">importa</instance>
+			<instance id="d001.s051.t001" lemma="tipo" pos="NOUN">tipo</instance>
+			<instance id="d001.s051.t002" lemma="funzione" pos="NOUN">funzione</instance>
+		</sentence>
+		<sentence id="d001.s052" source="semeval2015-en">
+			<instance id="d001.s052.t000" lemma="usare" pos="VERB">usare</instance>
+			<instance id="d001.s052.t001" lemma="plus" pos="NOUN">plus()</instance>
+			<instance id="d001.s052.t002" lemma="times" pos="NOUN">times()</instance>
+			<instance id="d001.s052.t003" lemma="cosa" pos="NOUN">cosa</instance>
+			<instance id="d001.s052.t004" lemma="avere" pos="VERB">ha</instance>
+			<instance id="d001.s052.t005" lemma="operatore" pos="NOUN">operatore</instance>
+			<instance id="d001.s052.t006" lemma="console" pos="NOUN">console</instance>
+			<instance id="d001.s052.t007" lemma="utile" pos="ADJ">utile</instance>
+			<instance id="d001.s052.t008" lemma="calcolatrice" pos="NOUN">calcolatrice</instance>
+		</sentence>
+		<sentence id="d001.s053" source="semeval2015-en">
+			<instance id="d001.s053.t000" lemma="lista" pos="NOUN">lista</instance>
+			<instance id="d001.s053.t001" lemma="variabile" pos="NOUN">variabili</instance>
+		</sentence>
+		<sentence id="d001.s054" source="semeval2015-en">
+			<instance id="d001.s054.t000" lemma="fare" pos="VERB">Facendo</instance>
+			<instance id="d001.s054.t001" lemma="doppio" pos="ADJ">doppio</instance>
+			<instance id="d001.s054.t002" lemma="vedere" pos="VERB">vedere</instance>
+			<instance id="d001.s054.t003" lemma="finestra" pos="NOUN">finestra</instance>
+			<instance id="d001.s054.t004" lemma="permettere" pos="VERB">permette</instance>
+			<instance id="d001.s054.t005" lemma="modificare" pos="VERB">modificarne</instance>
+			<instance id="d001.s054.t006" lemma="valore" pos="NOUN">valore</instance>
+			<instance id="d001.s054.t007" lemma="modo" pos="NOUN">modo</instance>
+			<instance id="d001.s054.t008" lemma="log" pos="NOUN">log</instance>
+		</sentence>
+		<sentence id="d001.s055" source="semeval2015-en">
+			<instance id="d001.s055.t000" lemma="ogni" pos="ADJ">Ogni</instance>
+			<instance id="d001.s055.t001" lemma="volta" pos="NOUN">volta</instance>
+			<instance id="d001.s055.t002" lemma="inserire" pos="VERB">inserisci</instance>
+			<instance id="d001.s055.t003" lemma="espressione" pos="NOUN">espressione</instance>
+			<instance id="d001.s055.t004" lemma="valore" pos="NOUN">valore</instance>
+			<instance id="d001.s055.t005" lemma="variabile" pos="NOUN">variabile</instance>
+			<instance id="d001.s055.t006" lemma="modificare" pos="VERB">modificato</instance>
+			<instance id="d001.s055.t007" lemma="ultimo" pos="ADJ">ultimo</instance>
+			<instance id="d001.s055.t008" lemma="risultato" pos="NOUN">risultato</instance>
+		</sentence>
+		<sentence id="d001.s056" source="semeval2015-en">
+			<instance id="d001.s056.t000" lemma="ctrl" pos="NOUN">Ctrl</instance>
+			<instance id="d001.s056.t001" lemma="n" pos="NOUN">N</instance>
+		</sentence>
+		<sentence id="d001.s057" source="semeval2015-en">
+			<instance id="d001.s057.t000" lemma="pulire" pos="VERB">Pulisce</instance>
+			<instance id="d001.s057.t001" lemma="console" pos="NOUN">console</instance>
+		</sentence>
+		<sentence id="d001.s058" source="semeval2015-en">
+			<instance id="d001.s058.t000" lemma="ctrl" pos="NOUN">Ctrl</instance>
+			<instance id="d001.s058.t001" lemma="c" pos="NOUN">C</instance>
+			<instance id="d001.s058.t002" lemma="caricare" pos="VERB">Carica</instance>
+			<instance id="d001.s058.t003" lemma="script" pos="NOUN">script</instance>
+		</sentence>
+		<sentence id="d001.s059" source="semeval2015-en">
+			<instance id="d001.s059.t000" lemma="eseguire" pos="VERB">Esegue</instance>
+			<instance id="d001.s059.t001" lemma="istruzione" pos="NOUN">istruzioni</instance>
+			<instance id="d001.s059.t002" lemma="presente" pos="ADJ">presenti</instance>
+			<instance id="d001.s059.t003" lemma="file" pos="NOUN">file</instance>
+		</sentence>
+		<sentence id="d001.s060" source="semeval2015-en">
+			<instance id="d001.s060.t000" lemma="buono" pos="ADJ">buon</instance>
+			<instance id="d001.s060.t001" lemma="metodo" pos="NOUN">metodo</instance>
+			<instance id="d001.s060.t002" lemma="creare" pos="VERB">creare</instance>
+			<instance id="d001.s060.t003" lemma="libreria" pos="NOUN">librerie</instance>
+			<instance id="d001.s060.t004" lemma="riprendere" pos="VERB">riprendere</instance>
+			<instance id="d001.s060.t005" lemma="lavoro" pos="NOUN">lavoro</instance>
+			<instance id="d001.s060.t006" lemma="interrompere" pos="VERB">interrotto</instance>
+			<instance id="d001.s060.t007" lemma="precedenza" pos="NOUN">precedenza</instance>
+		</sentence>
+		<sentence id="d001.s061" source="semeval2015-en">
+			<instance id="d001.s061.t000" lemma="ctrl" pos="NOUN">Ctrl</instance>
+			<instance id="d001.s061.t001" lemma="s" pos="NOUN">S</instance>
+			<instance id="d001.s061.t002" lemma="script" pos="NOUN">script</instance>
+		</sentence>
+		<sentence id="d001.s062" source="semeval2015-en">
+			<instance id="d001.s062.t000" lemma="istruzione" pos="NOUN">istruzioni</instance>
+			<instance id="d001.s062.t001" lemma="eseguire" pos="VERB">eseguite</instance>
+			<instance id="d001.s062.t002" lemma="inizio" pos="NOUN">inizio</instance>
+			<instance id="d001.s062.t003" lemma="sessione" pos="NOUN">sessione</instance>
+			<instance id="d001.s062.t004" lemma="modo" pos="NOUN">modo</instance>
+			<instance id="d001.s062.t005" lemma="riusare" pos="VERB">riusare</instance>
+		</sentence>
+		<sentence id="d001.s063" source="semeval2015-en">
+			<instance id="d001.s063.t000" lemma="generare" pos="VERB">Genera</instance>
+			<instance id="d001.s063.t001" lemma="file" pos="NOUN">file</instance>
+			<instance id="d001.s063.t002" lemma="testo" pos="NOUN">testo</instance>
+			<instance id="d001.s063.t003" lemma="semplice" pos="ADJ">semplice</instance>
+			<instance id="d001.s063.t004" lemma="possibile" pos="ADJ">possibile</instance>
+			<instance id="d001.s063.t005" lemma="modificare" pos="VERB">modificarli</instance>
+			<instance id="d001.s063.t006" lemma="usare" pos="VERB">usando</instance>
+			<instance id="d001.s063.t007" lemma="qualsiasi" pos="ADJ">qualsiasi</instance>
+			<instance id="d001.s063.t008" lemma="editor" pos="NOUN">editor</instance>
+			<instance id="d001.s063.t009" lemma="testo" pos="NOUN">testo</instance>
+		</sentence>
+		<sentence id="d001.s064" source="semeval2015-en">
+			<instance id="d001.s064.t000" lemma="ctrl" pos="NOUN">Ctrl</instance>
+			<instance id="d001.s064.t001" lemma="l" pos="NOUN">L</instance>
+			<instance id="d001.s064.t002" lemma="log" pos="NOUN">log</instance>
+		</sentence>
+		<sentence id="d001.s065" source="semeval2015-en">
+			<instance id="d001.s065.t000" lemma="log" pos="NOUN">log</instance>
+			<instance id="d001.s065.t001" lemma="risultato" pos="NOUN">risultati</instance>
+			<instance id="d001.s065.t002" lemma="file" pos="NOUN">file</instance>
+			<instance id="d001.s065.t003" lemma="html" pos="NOUN">HTML</instance>
+			<instance id="d001.s065.t004" lemma="stampare" pos="VERB">stampato</instance>
+		</sentence>
+		<sentence id="d001.s066" source="semeval2015-en">
+			<instance id="d001.s066.t000" lemma="ctrl" pos="NOUN">Ctrl</instance>
+			<instance id="d001.s066.t001" lemma="q" pos="NOUN">Q</instance>
+			<instance id="d001.s066.t002" lemma="uscire" pos="VERB">Esci</instance>
+		</sentence>
+		<sentence id="d001.s067" source="semeval2015-en">
+			<instance id="d001.s067.t000" lemma="chiudere" pos="VERB">Chiude</instance>
+			<instance id="d001.s067.t001" lemma="programma" pos="NOUN">programma</instance>
+		</sentence>
+		<sentence id="d001.s068" source="semeval2015-en">
+			<instance id="d001.s068.t000" lemma="aggiungere" pos="VERB">aggiungere</instance>
+			<instance id="d001.s068.t001" lemma="nuovo" pos="ADJ">nuovo</instance>
+			<instance id="d001.s068.t002" lemma="grafico" pos="NOUN">grafico</instance>
+			<instance id="d001.s068.t003" lemma="2d" pos="NOUN">2D</instance>
+			<instance id="d001.s068.t004" lemma="andare" pos="VERB">andare</instance>
+			<instance id="d001.s068.t005" lemma="scheda" pos="NOUN">scheda</instance>
+			<instance id="d001.s068.t006" lemma="grafico" pos="NOUN">Grafico</instance>
+			<instance id="d001.s068.t007" lemma="2d" pos="NOUN">2D</instance>
+			<instance id="d001.s068.t008" lemma="scheda" pos="NOUN">scheda</instance>
+			<instance id="d001.s068.t009" lemma="aggiungere" pos="VERB">aggiungere</instance>
+			<instance id="d001.s068.t010" lemma="nuovo" pos="ADJ">nuova</instance>
+			<instance id="d001.s068.t011" lemma="funzione" pos="NOUN">funzione</instance>
+		</sentence>
+		<sentence id="d001.s069" source="semeval2015-en">
+			<instance id="d001.s069.t000" lemma="attivare" pos="VERB">attivata</instance>
+			<instance id="d001.s069.t001" lemma="casella" pos="NOUN">casella</instance>
+			<instance id="d001.s069.t002" lemma="testo" pos="NOUN">testo</instance>
+			<instance id="d001.s069.t003" lemma="scrivere" pos="VERB">scrivere</instance>
+			<instance id="d001.s069.t004" lemma="funzione" pos="NOUN">funzione</instance>
+		</sentence>
+		<sentence id="d001.s070" source="semeval2015-en">
+			<instance id="d001.s070.t000" lemma="volere" pos="VERB">vuoi</instance>
+			<instance id="d001.s070.t001" lemma="usare" pos="VERB">usare</instance>
+			<instance id="d001.s070.t002" lemma="tipico" pos="ADJ">tipica</instance>
+			<instance id="d001.s070.t003" lemma="funzione" pos="NOUN">funzione</instance>
+			<instance id="d001.s070.t004" lemma="f(x)" pos="NOUN">f(x)</instance>
+			<instance id="d001.s070.t005" lemma="necessario" pos="ADJ">necessario</instance>
+			<instance id="d001.s070.t006" lemma="specificare" pos="VERB">specificarla</instance>
+		</sentence>
+		<sentence id="d001.s071" source="semeval2015-en">
+			<instance id="d001.s071.t000" lemma="inserire" pos="VERB">inserito</instance>
+			<instance id="d001.s071.t001" lemma="funzione" pos="NOUN">funzione</instance>
+			<instance id="d001.s071.t002" lemma="premere" pos="VERB">premi</instance>
+			<instance id="d001.s071.t003" lemma="ok" pos="NOUN">OK</instance>
+			<instance id="d001.s071.t004" lemma="visualizzare" pos="VERB">visualizzare</instance>
+			<instance id="d001.s071.t005" lemma="grafico" pos="NOUN">grafico</instance>
+			<instance id="d001.s071.t006" lemma="finestra" pos="NOUN">finestra</instance>
+			<instance id="d001.s071.t007" lemma="principale" pos="ADJ">principale</instance>
+		</sentence>
+		<sentence id="d001.s072" source="semeval2015-en">
+			<instance id="d001.s072.t000" lemma="avere" pos="VERB">avere</instance>
+			<instance id="d001.s072.t001" lemma="grafico" pos="NOUN">grafici</instance>
+			<instance id="d001.s072.t002" lemma="stesso" pos="ADJ">stessa</instance>
+		</sentence>
+		<sentence id="d001.s073" source="semeval2015-en">
+			<instance id="d001.s073.t000" lemma="usare" pos="VERB">Usa</instance>
+			<instance id="d001.s073.t001" lemma="pulsante" pos="NOUN">pulsante</instance>
+			<instance id="d001.s073.t002" lemma="modalità" pos="NOUN">modalità</instance>
+			<instance id="d001.s073.t003" lemma="lista" pos="NOUN">lista</instance>
+		</sentence>
+		<sentence id="d001.s074" source="semeval2015-en">
+			<instance id="d001.s074.t000" lemma="impostare" pos="VERB">impostare</instance>
+			<instance id="d001.s074.t001" lemma="diverso" pos="ADJ">diverso</instance>
+			<instance id="d001.s074.t002" lemma="colore" pos="NOUN">colore</instance>
+			<instance id="d001.s074.t003" lemma="ogni" pos="ADJ">ogni</instance>
+			<instance id="d001.s074.t004" lemma="grafico" pos="NOUN">grafico</instance>
+		</sentence>
+		<sentence id="d001.s075" source="semeval2015-en">
+			<instance id="d001.s075.t000" lemma="recentemente" pos="ADV">Recentemente</instance>
+			<instance id="d001.s075.t001" lemma="fondazione" pos="NOUN">Fondazione</instance>
+			<instance id="d001.s075.t002" lemma="partecipare" pos="VERB">partecipato</instance>
+			<instance id="d001.s075.t003" lemma="organizzazione" pos="NOUN">organizzazione</instance>
+			<instance id="d001.s075.t004" lemma="conferenza" pos="NOUN">conferenza</instance>
+			<instance id="d001.s075.t005" lemma="affrontare" pos="VERB">affrontato</instance>
+			<instance id="d001.s075.t006" lemma="sfida" pos="NOUN">sfida</instance>
+		</sentence>
+		<sentence id="d001.s076" source="semeval2015-en">
+			<instance id="d001.s076.t000" lemma="partecipare" pos="VERB">partecipato</instance>
+			<instance id="d001.s076.t001" lemma="esponente" pos="NOUN">esponenti</instance>
+			<instance id="d001.s076.t002" lemma="principale" pos="ADJ">principali</instance>
+			<instance id="d001.s076.t003" lemma="categoria" pos="NOUN">categorie</instance>
+			<instance id="d001.s076.t004" lemma="interessato" pos="ADJ">interessate</instance>
+			<instance id="d001.s076.t005" lemma="discutere" pos="VERB">discusso</instance>
+			<instance id="d001.s076.t006" lemma="ruolo" pos="NOUN">ruolo</instance>
+			<instance id="d001.s076.t007" lemma="attore" pos="NOUN">attori</instance>
+			<instance id="d001.s076.t008" lemma="chiave" pos="NOUN">chiave</instance>
+			<instance id="d001.s076.t009" lemma="pubblico" pos="ADJ">pubbliche</instance>
+			<instance id="d001.s076.t010" lemma="autorità" pos="NOUN">autorità</instance>
+			<instance id="d001.s076.t011" lemma="parte" pos="NOUN">parti</instance>
+			<instance id="d001.s076.t012" lemma="sociale" pos="ADJ">sociali</instance>
+			<instance id="d001.s076.t013" lemma="organizzazione" pos="NOUN">organizzazioni</instance>
+			<instance id="d001.s076.t014" lemma="volontariato" pos="NOUN">volontariato</instance>
+			<instance id="d001.s076.t015" lemma="utente" pos="NOUN">utenti</instance>
+			<instance id="d001.s076.t016" lemma="servizio" pos="NOUN">servizi</instance>
+		</sentence>
+		<sentence id="d001.s077" source="semeval2015-en">
+			<instance id="d001.s077.t000" lemma="convenire" pos="VERB">convenuto</instance>
+			<instance id="d001.s077.t001" lemma="necessità" pos="NOUN">necessità</instance>
+			<instance id="d001.s077.t002" lemma="impostazione" pos="NOUN">impostazione</instance>
+			<instance id="d001.s077.t003" lemma="olistico" pos="ADJ">olistica</instance>
+			<instance id="d001.s077.t004" lemma="fatto" pos="NOUN">fatto</instance>
+			<instance id="d001.s077.t005" lemma="utente" pos="NOUN">utenti</instance>
+			<instance id="d001.s077.t006" lemma="beneficiare" pos="VERB">beneficiano</instance>
+			<instance id="d001.s077.t007" lemma="servizio" pos="NOUN">servizi</instance>
+			<instance id="d001.s077.t008" lemma="isolamento" pos="NOUN">isolamento</instance>
+			<instance id="d001.s077.t009" lemma="elemento" pos="NOUN">elemento</instance>
+			<instance id="d001.s077.t010" lemma="vita" pos="NOUN">vita</instance>
+			<instance id="d001.s077.t011" lemma="quotidiano" pos="ADJ">quotidiana</instance>
+		</sentence>
+		<sentence id="d001.s078" source="semeval2015-en">
+			<instance id="d001.s078.t000" lemma="prendere" pos="VERB">preso</instance>
+			<instance id="d001.s078.t001" lemma="gamma" pos="NOUN">gamma</instance>
+			<instance id="d001.s078.t002" lemma="diverso" pos="ADJ">diversi</instance>
+		</sentence>
+		<sentence id="d001.s079" source="semeval2015-en">
+			<instance id="d001.s079.t000" lemma="unitamente" pos="ADV">Unitamente</instance>
+			<instance id="d001.s079.t001" lemma="commissione" pos="NOUN">Commissione</instance>
+			<instance id="d001.s079.t002" lemma="europeo" pos="ADJ">europea</instance>
+			<instance id="d001.s079.t003" lemma="ministero" pos="NOUN">Ministero</instance>
+			<instance id="d001.s079.t004" lemma="affare" pos="NOUN">affari</instance>
+			<instance id="d001.s079.t005" lemma="sociale" pos="ADJ">sociali</instance>
+			<instance id="d001.s079.t006" lemma="spagnolo" pos="ADJ">spagnolo</instance>
+			<instance id="d001.s079.t007" lemma="governo" pos="NOUN">governo</instance>
+			<instance id="d001.s079.t008" lemma="regionale" pos="ADJ">regionale</instance>
+			<instance id="d001.s079.t009" lemma="fondazione" pos="NOUN">Fondazione</instance>
+			<instance id="d001.s079.t010" lemma="organizzare" pos="VERB">organizzato</instance>
+			<instance id="d001.s079.t011" lemma="conferenza" pos="NOUN">conferenza</instance>
+			<instance id="d001.s079.t012" lemma="europeo" pos="ADJ">europea</instance>
+			<instance id="d001.s079.t013" lemma="tema" pos="NOUN">tema</instance>
+			<instance id="d001.s079.t014" lemma="esclusione" pos="NOUN">Esclusione</instance>
+			<instance id="d001.s079.t015" lemma="sociale" pos="ADJ">sociale</instance>
+			<instance id="d001.s079.t016" lemma="grande" pos="ADJ">grande</instance>
+			<instance id="d001.s079.t017" lemma="sfida" pos="NOUN">sfida</instance>
+			<instance id="d001.s079.t018" lemma="servizi" pos="NOUN">servizi</instance>
+			<instance id="d001.s079.t019" lemma="pubblico" pos="ADJ">pubblici</instance>
+			<instance id="d001.s079.t020" lemma="assistenza" pos="NOUN">assistenza</instance>
+		</sentence>
+		<sentence id="d001.s080" source="semeval2015-en">
+			<instance id="d001.s080.t000" lemma="recentemente" pos="ADV">Recentemente</instance>
+			<instance id="d001.s080.t001" lemma="fondazione" pos="NOUN">Fondazione</instance>
+			<instance id="d001.s080.t002" lemma="pubblicare" pos="VERB">pubblicato</instance>
+			<instance id="d001.s080.t003" lemma="quadro" pos="NOUN">quadro</instance>
+			<instance id="d001.s080.t004" lemma="progetto" pos="NOUN">progetto</instance>
+			<instance id="d001.s080.t005" lemma="studio" pos="NOUN">studio</instance>
+			<instance id="d001.s080.t006" lemma="comparativo" pos="ADJ">comparativo</instance>
+			<instance id="d001.s080.t007" lemma="valutare" pos="VERB">valuta</instance>
+			<instance id="d001.s080.t008" lemma="misura" pos="NOUN">misura</instance>
+			<instance id="d001.s080.t009" lemma="partecipazione" pos="NOUN">partecipazione</instance>
+			<instance id="d001.s080.t010" lemma="diretto" pos="ADJ">diretta</instance>
+			<instance id="d001.s080.t011" lemma="lavoro" pos="NOUN">lavoro</instance>
+			<instance id="d001.s080.t012" lemma="migliorare" pos="VERB">migliorando</instance>
+			<instance id="d001.s080.t013" lemma="stesso" pos="ADJ">stesso</instance>
+			<instance id="d001.s080.t014" lemma="tempo" pos="NOUN">tempo</instance>
+			<instance id="d001.s080.t015" lemma="redditività" pos="NOUN">redditività</instance>
+		</sentence>
+		<sentence id="d001.s081" source="semeval2015-en">
+			<instance id="d001.s081.t000" lemma="studio" pos="NOUN">studio</instance>
+			<instance id="d001.s081.t001" lemma="basare" pos="VERB">basa</instance>
+			<instance id="d001.s081.t002" lemma="intervista" pos="NOUN">interviste</instance>
+			<instance id="d001.s081.t003" lemma="personale" pos="ADJ">personali</instance>
+			<instance id="d001.s081.t004" lemma="dirigente" pos="NOUN">dirigenti</instance>
+			<instance id="d001.s081.t005" lemma="parte" pos="NOUN">parti</instance>
+			<instance id="d001.s081.t006" lemma="sociale" pos="ADJ">sociali</instance>
+			<instance id="d001.s081.t007" lemma="rappresentanza" pos="NOUN">rappresentanza</instance>
+			<instance id="d001.s081.t008" lemma="principale" pos="ADJ">principali</instance>
+			<instance id="d001.s081.t009" lemma="organizzazione" pos="NOUN">organizzazioni</instance>
+			<instance id="d001.s081.t010" lemma="nazionale" pos="ADJ">nazionali</instance>
+			<instance id="d001.s081.t011" lemma="quindici" pos="ADJ">quindici</instance>
+			<instance id="d001.s081.t012" lemma="paese" pos="NOUN">paesi</instance>
+			<instance id="d001.s081.t013" lemma="europeo" pos="ADJ">europei</instance>
+		</sentence>
+		<sentence id="d001.s082" source="semeval2015-en">
+			<instance id="d001.s082.t000" lemma="settore" pos="NOUN">settori</instance>
+			<instance id="d001.s082.t001" lemma="industriale" pos="ADJ">industriali</instance>
+			<instance id="d001.s082.t002" lemma="rilievo" pos="NOUN">rilievo</instance>
+			<instance id="d001.s082.t003" lemma="includere" pos="VERB">inclusi</instance>
+			<instance id="d001.s082.t004" lemma="industria" pos="NOUN">industria</instance>
+			<instance id="d001.s082.t005" lemma="metallurgico" pos="ADJ">metallurgica</instance>
+			<instance id="d001.s082.t006" lemma="settore" pos="NOUN">settore</instance>
+		</sentence>
+		<sentence id="d001.s083" source="semeval2015-en">
+			<instance id="d001.s083.t000" lemma="principale" pos="ADJ">principali</instance>
+			<instance id="d001.s083.t001" lemma="oratore" pos="NOUN">oratori</instance>
+			<instance id="d001.s083.t002" lemma="occasione" pos="NOUN">occasione</instance>
+			<instance id="d001.s083.t003" lemma="conferenza" pos="NOUN">conferenza</instance>
+			<instance id="d001.s083.t004" lemma="esclusione" pos="NOUN">esclusione</instance>
+			<instance id="d001.s083.t005" lemma="sociale" pos="ADJ">sociale</instance>
+			<instance id="d001.s083.t006" lemma="sinistra" pos="NOUN">sinistra</instance>
+			<instance id="d001.s083.t007" lemma="destra" pos="NOUN">destra</instance>
+			<instance id="d001.s083.t008" lemma="direzione" pos="NOUN">Direzione</instance>
+			<instance id="d001.s083.t009" lemma="occupazione" pos="NOUN">Occupazione</instance>
+			<instance id="d001.s083.t010" lemma="relazione" pos="NOUN">relazioni</instance>
+			<instance id="d001.s083.t011" lemma="industriale" pos="ADJ">industriali</instance>
+			<instance id="d001.s083.t012" lemma="affare" pos="NOUN">affari</instance>
+			<instance id="d001.s083.t013" lemma="sociale" pos="ADJ">sociali</instance>
+			<instance id="d001.s083.t014" lemma="commissione" pos="NOUN">Commissione</instance>
+			<instance id="d001.s083.t015" lemma="europeo" pos="ADJ">europea</instance>
+			<instance id="d001.s083.t016" lemma="comitato" pos="NOUN">Comitato</instance>
+			<instance id="d001.s083.t017" lemma="regione" pos="NOUN">regioni</instance>
+			<instance id="d001.s083.t018" lemma="deputato" pos="NOUN">deputato</instance>
+			<instance id="d001.s083.t019" lemma="parlamento" pos="NOUN">Parlamento</instance>
+			<instance id="d001.s083.t020" lemma="europeo" pos="ADJ">europeo</instance>
+			<instance id="d001.s083.t021" lemma="josé" pos="NOUN">José</instance>
+			<instance id="d001.s083.t022" lemma="vicepresidente" pos="NOUN">vicepresidente</instance>
+			<instance id="d001.s083.t023" lemma="parlamento" pos="NOUN">Parlamento</instance>
+			<instance id="d001.s083.t024" lemma="europeo" pos="ADJ">europeo</instance>
+			<instance id="d001.s083.t025" lemma="comitato" pos="NOUN">Comitato</instance>
+			<instance id="d001.s083.t026" lemma="economico" pos="ADJ">economico</instance>
+			<instance id="d001.s083.t027" lemma="sociale" pos="ADJ">sociale</instance>
+		</sentence>
+		<sentence id="d001.s084" source="semeval2015-en">
+			<instance id="d001.s084.t000" lemma="studio" pos="NOUN">Studi</instance>
+			<instance id="d001.s084.t001" lemma="caso" pos="NOUN">casi</instance>
+			<instance id="d001.s084.t002" lemma="ogni" pos="ADJ">Ogni</instance>
+			<instance id="d001.s084.t003" lemma="rapporto" pos="NOUN">rapporto</instance>
+			<instance id="d001.s084.t004" lemma="nazionale" pos="ADJ">nazionale</instance>
+			<instance id="d001.s084.t005" lemma="contenere" pos="VERB">contiene</instance>
+			<instance id="d001.s084.t006" lemma="serie" pos="NOUN">serie</instance>
+			<instance id="d001.s084.t007" lemma="iniziativa" pos="NOUN">iniziative</instance>
+			<instance id="d001.s084.t008" lemma="selezionare" pos="VERB">selezionate</instance>
+			<instance id="d001.s084.t009" lemma="idoneo" pos="ADJ">idonee</instance>
+			<instance id="d001.s084.t010" lemma="illustrare" pos="VERB">illustrare</instance>
+			<instance id="d001.s084.t011" lemma="prassi" pos="NOUN">prassi</instance>
+			<instance id="d001.s084.t012" lemma="migliorare" pos="VERB">migliorare</instance>
+			<instance id="d001.s084.t013" lemma="assunzione" pos="NOUN">assunzione</instance>
+			<instance id="d001.s084.t014" lemma="formazione" pos="NOUN">formazione</instance>
+			<instance id="d001.s084.t015" lemma="sviluppo" pos="NOUN">sviluppo</instance>
+			<instance id="d001.s084.t016" lemma="lavoratore" pos="NOUN">lavoratori</instance>
+			<instance id="d001.s084.t017" lemma="anziano" pos="ADJ">anziani</instance>
+			<instance id="d001.s084.t018" lemma="azienda" pos="NOUN">azienda</instance>
+			<instance id="d001.s084.t019" lemma="comunità" pos="NOUN">comunità</instance>
+		</sentence>
+		<sentence id="d001.s085" source="semeval2015-en">
+			<instance id="d001.s085.t000" lemma="paese" pos="NOUN">paese</instance>
+			<instance id="d001.s085.t001" lemma="due" pos="ADJ">due</instance>
+			<instance id="d001.s085.t002" lemma="tre" pos="ADJ">tre</instance>
+			<instance id="d001.s085.t003" lemma="iniziativa" pos="NOUN">iniziative</instance>
+			<instance id="d001.s085.t004" lemma="ulteriormente" pos="ADV">ulteriormente</instance>
+			<instance id="d001.s085.t005" lemma="selezionare" pos="VERB">selezionate</instance>
+			<instance id="d001.s085.t006" lemma="studio" pos="NOUN">studio</instance>
+			<instance id="d001.s085.t007" lemma="caso" pos="NOUN">caso</instance>
+			<instance id="d001.s085.t008" lemma="approfondire" pos="VERB">approfondito</instance>
+		</sentence>
+		<sentence id="d001.s086" source="semeval2015-en">
+			<instance id="d001.s086.t000" lemma="studio" pos="NOUN">studi</instance>
+			<instance id="d001.s086.t001" lemma="analizzare" pos="VERB">analizzato</instance>
+			<instance id="d001.s086.t002" lemma="contesto" pos="NOUN">contesto</instance>
+			<instance id="d001.s086.t003" lemma="iniziativa" pos="NOUN">iniziative</instance>
+			<instance id="d001.s086.t004" lemma="impatto" pos="NOUN">impatto</instance>
+			<instance id="d001.s086.t005" lemma="modello" pos="NOUN">modelli</instance>
+			<instance id="d001.s086.t006" lemma="occupazionale" pos="ADJ">occupazionali</instance>
+			<instance id="d001.s086.t007" lemma="organizzazione" pos="NOUN">organizzazioni</instance>
+			<instance id="d001.s086.t008" lemma="lavoro" pos="NOUN">lavoro</instance>
+			<instance id="d001.s086.t009" lemma="valutare" pos="VERB">valutando</instance>
+			<instance id="d001.s086.t010" lemma="vantaggio" pos="NOUN">vantaggi</instance>
+			<instance id="d001.s086.t011" lemma="problema" pos="NOUN">problemi</instance>
+			<instance id="d001.s086.t012" lemma="iniziativa" pos="NOUN">iniziativa</instance>
+		</sentence>
+		<sentence id="d001.s087" source="semeval2015-en">
+			<instance id="d001.s087.t000" lemma="visita" pos="NOUN">visite</instance>
+			<instance id="d001.s087.t001" lemma="intervista" pos="NOUN">interviste</instance>
+			<instance id="d001.s087.t002" lemma="esponente" pos="NOUN">esponenti</instance>
+			<instance id="d001.s087.t003" lemma="chiave" pos="NOUN">chiave</instance>
+			<instance id="d001.s087.t004" lemma="personale" pos="NOUN">personale</instance>
+		</sentence>
+		<sentence id="d001.s088" source="semeval2015-en">
+			<instance id="d001.s088.t000" lemma="studio" pos="NOUN">studi</instance>
+			<instance id="d001.s088.t001" lemma="nazionale" pos="ADJ">nazionali</instance>
+			<instance id="d001.s088.t002" lemma="rapporto" pos="NOUN">rapporto</instance>
+			<instance id="d001.s088.t003" lemma="europeo" pos="ADJ">europeo</instance>
+			<instance id="d001.s088.t004" lemma="sintetizzare" pos="VERB">sintetizzerà</instance>
+			<instance id="d001.s088.t005" lemma="prassi" pos="NOUN">prassi</instance>
+		</sentence>
+		<sentence id="d001.s089" source="semeval2015-en">
+			<instance id="d001.s089.t000" lemma="rapporto" pos="NOUN">rapporto</instance>
+			<instance id="d001.s089.t001" lemma="raccolta" pos="NOUN">raccolta</instance>
+			<instance id="d001.s089.t002" lemma="iniziativa" pos="NOUN">iniziative</instance>
+			<instance id="d001.s089.t003" lemma="pubblicare" pos="VERB">pubblicati</instance>
+			<instance id="d001.s089.t004" lemma="costituire" pos="VERB">costituiranno</instance>
+			<instance id="d001.s089.t005" lemma="base" pos="NOUN">base</instance>
+			<instance id="d001.s089.t006" lemma="conferenza" pos="NOUN">conferenza</instance>
+			<instance id="d001.s089.t007" lemma="prevedere" pos="VERB">prevista</instance>
+			<instance id="d001.s089.t008" lemma="autunno" pos="NOUN">autunno</instance>
+			<instance id="d001.s089.t009" lemma="stesso" pos="ADJ">stesso</instance>
+			<instance id="d001.s089.t010" lemma="anno" pos="NOUN">anno</instance>
+		</sentence>
+		<sentence id="d001.s090" source="semeval2015-en">
+			<instance id="d001.s090.t000" lemma="fondazione" pos="NOUN">Fondazione</instance>
+			<instance id="d001.s090.t001" lemma="intendere" pos="VERB">intende</instance>
+			<instance id="d001.s090.t002" lemma="documentare" pos="VERB">documentare</instance>
+			<instance id="d001.s090.t003" lemma="caratteristica" pos="NOUN">caratteristiche</instance>
+			<instance id="d001.s090.t004" lemma="barriera" pos="NOUN">barriere</instance>
+			<instance id="d001.s090.t005" lemma="età" pos="NOUN">età</instance>
+			<instance id="d001.s090.t006" lemma="livello" pos="NOUN">livello</instance>
+			<instance id="d001.s090.t007" lemma="assunzione" pos="NOUN">assunzione</instance>
+			<instance id="d001.s090.t008" lemma="formazione" pos="NOUN">formazione</instance>
+			<instance id="d001.s090.t009" lemma="analizzare" pos="VERB">analizzarne</instance>
+			<instance id="d001.s090.t010" lemma="causa" pos="NOUN">cause</instance>
+		</sentence>
+		<sentence id="d001.s091" source="semeval2015-en">
+			<instance id="d001.s091.t000" lemma="esaminare" pos="VERB">esaminati</instance>
+			<instance id="d001.s091.t001" lemma="punto" pos="NOUN">punti</instance>
+			<instance id="d001.s091.t002" lemma="vista" pos="NOUN">vista</instance>
+			<instance id="d001.s091.t003" lemma="parte" pos="NOUN">parti</instance>
+			<instance id="d001.s091.t004" lemma="sociale" pos="ADJ">sociali</instance>
+			<instance id="d001.s091.t005" lemma="dedicare" pos="VERB">dedicando</instance>
+			<instance id="d001.s091.t006" lemma="attenzione" pos="NOUN">attenzione</instance>
+			<instance id="d001.s091.t007" lemma="particolare" pos="ADJ">particolare</instance>
+			<instance id="d001.s091.t008" lemma="proposta" pos="NOUN">proposte</instance>
+			<instance id="d001.s091.t009" lemma="eliminare" pos="VERB">eliminare</instance>
+			<instance id="d001.s091.t010" lemma="barriera" pos="NOUN">barriere</instance>
+			<instance id="d001.s091.t011" lemma="età" pos="NOUN">età</instance>
+		</sentence>
+		<sentence id="d001.s092" source="semeval2015-en">
+			<instance id="d001.s092.t000" lemma="terzo" pos="ADJ">terzo</instance>
+			<instance id="d001.s092.t001" lemma="progetto" pos="NOUN">progetto</instance>
+			<instance id="d001.s092.t002" lemma="documentare" pos="VERB">documenta</instance>
+			<instance id="d001.s092.t003" lemma="valutare" pos="VERB">valuta</instance>
+			<instance id="d001.s092.t004" lemma="iniziativa" pos="NOUN">iniziative</instance>
+			<instance id="d001.s092.t005" lemma="pubblico" pos="ADJ">pubbliche</instance>
+			<instance id="d001.s092.t006" lemma="privato" pos="ADJ">private</instance>
+			<instance id="d001.s092.t007" lemma="lottare" pos="VERB">lottare</instance>
+			<instance id="d001.s092.t008" lemma="barriera" pos="NOUN">barriere</instance>
+			<instance id="d001.s092.t009" lemma="legare" pos="VERB">legate</instance>
+			<instance id="d001.s092.t010" lemma="età" pos="NOUN">età</instance>
+			<instance id="d001.s092.t011" lemma="specialmente" pos="ADV">specialmente</instance>
+			<instance id="d001.s092.t012" lemma="favore" pos="NOUN">favore</instance>
+			<instance id="d001.s092.t013" lemma="lavoratore" pos="NOUN">lavoratori</instance>
+			<instance id="d001.s092.t014" lemma="anziano" pos="ADJ">anziani</instance>
+		</sentence>
+		<sentence id="d001.s093" source="semeval2015-en">
+			<instance id="d001.s093.t000" lemma="ricercare" pos="VERB">Ricercando</instance>
+			<instance id="d001.s093.t001" lemma="alternativa" pos="NOUN">alternative</instance>
+			<instance id="d001.s093.t002" lemma="prepensionamento" pos="NOUN">prepensionamento</instance>
+			<instance id="d001.s093.t003" lemma="licenziamento" pos="NOUN">licenziamento</instance>
+			<instance id="d001.s093.t004" lemma="progetto" pos="NOUN">progetto</instance>
+			<instance id="d001.s093.t005" lemma="principalmente" pos="ADV">principalmente</instance>
+			<instance id="d001.s093.t006" lemma="mantenimento" pos="NOUN">mantenimento</instance>
+			<instance id="d001.s093.t007" lemma="reintegrazione" pos="NOUN">reintegrazione</instance>
+			<instance id="d001.s093.t008" lemma="riqualificazione" pos="NOUN">riqualificazione</instance>
+			<instance id="d001.s093.t009" lemma="lavoratore" pos="NOUN">lavoratori</instance>
+			<instance id="d001.s093.t010" lemma="anziano" pos="ADJ">anziani</instance>
+		</sentence>
+		<sentence id="d001.s094" source="semeval2015-en">
+			<instance id="d001.s094.t000" lemma="prendere" pos="VERB">presi</instance>
+			<instance id="d001.s094.t001" lemma="considerazione" pos="NOUN">considerazione</instance>
+			<instance id="d001.s094.t002" lemma="sesso" pos="NOUN">sesso</instance>
+			<instance id="d001.s094.t003" lemma="appartenenza" pos="NOUN">appartenenza</instance>
+			<instance id="d001.s094.t004" lemma="etnico" pos="ADJ">etnica</instance>
+			<instance id="d001.s094.t005" lemma="lavoratore" pos="NOUN">lavoratori</instance>
+			<instance id="d001.s094.t006" lemma="correlazione" pos="NOUN">correlazione</instance>
+			<instance id="d001.s094.t007" lemma="discriminazione" pos="NOUN">discriminazione</instance>
+			<instance id="d001.s094.t008" lemma="base" pos="NOUN">base</instance>
+			<instance id="d001.s094.t009" lemma="età" pos="NOUN">età</instance>
+		</sentence>
+		<sentence id="d001.s095" source="semeval2015-en">
+			<instance id="d001.s095.t000" lemma="progetto" pos="NOUN">progetto</instance>
+			<instance id="d001.s095.t001" lemma="esaminare" pos="VERB">esamina</instance>
+			<instance id="d001.s095.t002" lemma="iniziativa" pos="NOUN">iniziative</instance>
+			<instance id="d001.s095.t003" lemma="lottare" pos="VERB">lottare</instance>
+			<instance id="d001.s095.t004" lemma="discriminazione" pos="NOUN">discriminazione</instance>
+			<instance id="d001.s095.t005" lemma="basare" pos="VERB">basata</instance>
+			<instance id="d001.s095.t006" lemma="età" pos="NOUN">età</instance>
+			<instance id="d001.s095.t007" lemma="zona" pos="NOUN">zone</instance>
+			<instance id="d001.s095.t008" lemma="rurale" pos="ADJ">rurali</instance>
+			<instance id="d001.s095.t009" lemma="piccolo" pos="ADJ">piccole</instance>
+			<instance id="d001.s095.t010" lemma="medio" pos="ADJ">medie</instance>
+			<instance id="d001.s095.t011" lemma="impresa" pos="NOUN">imprese</instance>
+		</sentence>
+		<sentence id="d001.s096" source="semeval2015-en">
+			<instance id="d001.s096.t000" lemma="ricerca" pos="NOUN">ricerca</instance>
+			<instance id="d001.s096.t001" lemma="avere" pos="VERB">ha</instance>
+			<instance id="d001.s096.t002" lemma="oggetto" pos="NOUN">oggetto</instance>
+			<instance id="d001.s096.t003" lemma="sette" pos="ADJ">sette</instance>
+			<instance id="d001.s096.t004" lemma="stati" pos="NOUN">Stati</instance>
+			<instance id="d001.s096.t005" lemma="membro" pos="NOUN">membri</instance>
+			<instance id="d001.s096.t006" lemma="regno" pos="NOUN">Regno</instance>
+			<instance id="d001.s096.t007" lemma="unito" pos="ADJ">Unito</instance>
+			<instance id="d001.s096.t008" lemma="sintesi" pos="NOUN">Sintesi</instance>
+			<instance id="d001.s096.t009" lemma="destinare" pos="VERB">destinata</instance>
+			<instance id="d001.s096.t010" lemma="pubblico" pos="NOUN">pubblico</instance>
+		</sentence>
+		<sentence id="d001.s097" source="semeval2015-en">
+			<instance id="d001.s097.t000" lemma="presente" pos="ADJ">presente</instance>
+			<instance id="d001.s097.t001" lemma="documento" pos="NOUN">documento</instance>
+			<instance id="d001.s097.t002" lemma="sintesi" pos="NOUN">sintesi</instance>
+			<instance id="d001.s097.t003" lemma="relazione" pos="NOUN">relazione</instance>
+			<instance id="d001.s097.t004" lemma="valutazione" pos="NOUN">valutazione</instance>
+			<instance id="d001.s097.t005" lemma="pubblico" pos="ADJ">pubblica</instance>
+			<instance id="d001.s097.t006" lemma="europeo" pos="ADJ">europea</instance>
+		</sentence>
+		<sentence id="d001.s098" source="semeval2015-en">
+			<instance id="d001.s098.t000" lemma="cerenia" pos="NOUN">Cerenia</instance>
+		</sentence>
+		<sentence id="d001.s099" source="semeval2015-en">
+			<instance id="d001.s099.t000" lemma="cerenia" pos="NOUN">Cerenia</instance>
+			<instance id="d001.s099.t001" lemma="contenere" pos="VERB">contiene</instance>
+			<instance id="d001.s099.t002" lemma="principio" pos="NOUN">principio</instance>
+			<instance id="d001.s099.t003" lemma="attivo" pos="ADJ">attivo</instance>
+			<instance id="d001.s099.t004" lemma="maropitant" pos="NOUN">maropitant</instance>
+			<instance id="d001.s099.t005" lemma="disponibile" pos="ADJ">disponibile</instance>
+			<instance id="d001.s099.t006" lemma="forma" pos="NOUN">forma</instance>
+			<instance id="d001.s099.t007" lemma="compressa" pos="NOUN">compressa</instance>
+			<instance id="d001.s099.t008" lemma="soluzione" pos="NOUN">soluzione</instance>
+		</sentence>
+		<sentence id="d001.s100" source="semeval2015-en">
+			<instance id="d001.s100.t000" lemma="compressa" pos="NOUN">compresse</instance>
+			<instance id="d001.s100.t001" lemma="arancione" pos="ADJ">arancione</instance>
+			<instance id="d001.s100.t002" lemma="chiaro" pos="ADJ">chiaro</instance>
+			<instance id="d001.s100.t003" lemma="avere" pos="VERB">hanno</instance>
+			<instance id="d001.s100.t004" lemma="tacca" pos="NOUN">tacca</instance>
+			<instance id="d001.s100.t005" lemma="lato" pos="NOUN">lati</instance>
+			<instance id="d001.s100.t006" lemma="facilitare" pos="VERB">facilitarne</instance>
+			<instance id="d001.s100.t007" lemma="divisione" pos="NOUN">divisione</instance>
+			<instance id="d001.s100.t008" lemma="due" pos="ADJ">due</instance>
+			<instance id="d001.s100.t009" lemma="metà" pos="NOUN">metà</instance>
+		</sentence>
+		<sentence id="d001.s101" source="semeval2015-en">
+			<instance id="d001.s101.t000" lemma="ciascuno" pos="ADV">Ciascuna</instance>
+			<instance id="d001.s101.t001" lemma="compressa" pos="NOUN">compressa</instance>
+			<instance id="d001.s101.t002" lemma="marcare" pos="VERB">marcata</instance>
+			<instance id="d001.s101.t003" lemma="lato" pos="NOUN">lato</instance>
+			<instance id="d001.s101.t004" lemma="logo" pos="NOUN">logo</instance>
+			<instance id="d001.s101.t005" lemma="altro" pos="ADJ">altro</instance>
+			<instance id="d001.s101.t006" lemma="lato" pos="NOUN">lato</instance>
+			<instance id="d001.s101.t007" lemma="lettera" pos="NOUN">lettere</instance>
+			<instance id="d001.s101.t008" lemma="numero" pos="NOUN">numeri</instance>
+			<instance id="d001.s101.t009" lemma="indicare" pos="VERB">indicano</instance>
+			<instance id="d001.s101.t010" lemma="quantità" pos="NOUN">quantità</instance>
+			<instance id="d001.s101.t011" lemma="maropitant" pos="NOUN">maropitant</instance>
+		</sentence>
+		<sentence id="d001.s102" source="semeval2015-en">
+			<instance id="d001.s102.t000" lemma="cosa" pos="NOUN">cosa</instance>
+			<instance id="d001.s102.t001" lemma="usare" pos="VERB">usa</instance>
+			<instance id="d001.s102.t002" lemma="cerenia" pos="NOUN">Cerenia</instance>
+		</sentence>
+		<sentence id="d001.s103" source="semeval2015-en">
+			<instance id="d001.s103.t000" lemma="cerenia" pos="NOUN">Cerenia</instance>
+			<instance id="d001.s103.t001" lemma="antiemetico" pos="NOUN">antiemetico</instance>
+			<instance id="d001.s103.t002" lemma="medicinale" pos="NOUN">medicinale</instance>
+			<instance id="d001.s103.t003" lemma="arrestare" pos="VERB">arresta</instance>
+			<instance id="d001.s103.t004" lemma="vomito" pos="NOUN">vomito</instance>
+		</sentence>
+		<sentence id="d001.s104" source="semeval2015-en">
+			<instance id="d001.s104.t000" lemma="usare" pos="VERB">usato</instance>
+			<instance id="d001.s104.t001" lemma="cane" pos="NOUN">cani</instance>
+			<instance id="d001.s104.t002" lemma="prevenire" pos="VERB">prevenire</instance>
+			<instance id="d001.s104.t003" lemma="vomito" pos="NOUN">vomito</instance>
+			<instance id="d001.s104.t004" lemma="causare" pos="VERB">causato</instance>
+			<instance id="d001.s104.t005" lemma="esempio" pos="NOUN">esempio</instance>
+			<instance id="d001.s104.t006" lemma="chemioterapia" pos="NOUN">chemioterapia</instance>
+			<instance id="d001.s104.t007" lemma="medicinale" pos="NOUN">medicinali</instance>
+			<instance id="d001.s104.t008" lemma="usato" pos="ADJ">usati</instance>
+			<instance id="d001.s104.t009" lemma="cura" pos="NOUN">cura</instance>
+			<instance id="d001.s104.t010" lemma="cancro" pos="NOUN">cancro</instance>
+			<instance id="d001.s104.t011" lemma="noto" pos="ADJ">noti</instance>
+			<instance id="d001.s104.t012" lemma="provocare" pos="VERB">provocare</instance>
+			<instance id="d001.s104.t013" lemma="vomito" pos="NOUN">vomito</instance>
+		</sentence>
+		<sentence id="d001.s105" source="semeval2015-en">
+			<instance id="d001.s105.t000" lemma="combinazione" pos="NOUN">combinazione</instance>
+			<instance id="d001.s105.t001" lemma="misura" pos="NOUN">misure</instance>
+			<instance id="d001.s105.t002" lemma="supporto" pos="NOUN">supporto</instance>
+			<instance id="d001.s105.t003" lemma="esempio" pos="NOUN">esempio</instance>
+			<instance id="d001.s105.t004" lemma="altro" pos="ADJ">altre</instance>
+			<instance id="d001.s105.t005" lemma="terapia" pos="NOUN">terapie</instance>
+			<instance id="d001.s105.t006" lemma="veterinario" pos="ADJ">veterinarie</instance>
+			<instance id="d001.s105.t007" lemma="dieta" pos="NOUN">dieta</instance>
+			<instance id="d001.s105.t008" lemma="speciale" pos="ADJ">speciale</instance>
+			<instance id="d001.s105.t009" lemma="cerenia" pos="NOUN">Cerenia</instance>
+			<instance id="d001.s105.t010" lemma="usare" pos="VERB">usato</instance>
+			<instance id="d001.s105.t011" lemma="trattamento" pos="NOUN">trattamento</instance>
+			<instance id="d001.s105.t012" lemma="vomito" pos="NOUN">vomito</instance>
+			<instance id="d001.s105.t013" lemma="iniezione" pos="NOUN">iniezione</instance>
+			<instance id="d001.s105.t014" lemma="iniezione" pos="NOUN">iniezione</instance>
+			<instance id="d001.s105.t015" lemma="seguire" pos="VERB">seguita</instance>
+			<instance id="d001.s105.t016" lemma="compressa" pos="NOUN">compresse</instance>
+		</sentence>
+		<sentence id="d001.s106" source="semeval2015-en">
+			<instance id="d001.s106.t000" lemma="scopo" pos="NOUN">scopi</instance>
+			<instance id="d001.s106.t001" lemma="cerenia" pos="NOUN">Cerenia</instance>
+			<instance id="d001.s106.t002" lemma="somministrare" pos="VERB">somministrato</instance>
+			<instance id="d001.s106.t003" lemma="massimo" pos="NOUN">massimo</instance>
+			<instance id="d001.s106.t004" lemma="cinque" pos="ADJ">cinque</instance>
+		</sentence>
+		<sentence id="d001.s107" source="semeval2015-en">
+			<instance id="d001.s107.t000" lemma="agire" pos="VERB">agisce</instance>
+			<instance id="d001.s107.t001" lemma="cerenia" pos="NOUN">Cerenia</instance>
+		</sentence>
+		<sentence id="d001.s108" source="semeval2015-en">
+			<instance id="d001.s108.t000" lemma="cerenia" pos="NOUN">Cerenia</instance>
+			<instance id="d001.s108.t001" lemma="bloccare" pos="VERB">blocca</instance>
+			<instance id="d001.s108.t002" lemma="recettore" pos="NOUN">recettore</instance>
+			<instance id="d001.s108.t003" lemma="neurochinina" pos="NOUN">neurochinina</instance>
+			<instance id="d001.s108.t004" lemma="nk1" pos="NOUN">NK1</instance>
+			<instance id="d001.s108.t005" lemma="agire" pos="VERB">agisce</instance>
+			<instance id="d001.s108.t006" lemma="livello" pos="NOUN">livello</instance>
+			<instance id="d001.s108.t007" lemma="sistema" pos="NOUN">sistema</instance>
+			<instance id="d001.s108.t008" lemma="nervoso" pos="ADJ">nervoso</instance>
+			<instance id="d001.s108.t009" lemma="centrale" pos="ADJ">centrale</instance>
+		</sentence>
+		<sentence id="d001.s109" source="semeval2015-en">
+			<instance id="d001.s109.t000" lemma="studiare" pos="VERB">studiata</instance>
+			<instance id="d001.s109.t001" lemma="efficacia" pos="NOUN">efficacia</instance>
+			<instance id="d001.s109.t002" lemma="cerenia" pos="NOUN">Cerenia</instance>
+		</sentence>
+		<sentence id="d001.s110" source="semeval2015-en">
+			<instance id="d001.s110.t000" lemma="condurre" pos="VERB">condotti</instance>
+			<instance id="d001.s110.t001" lemma="numeroso" pos="ADJ">numerosi</instance>
+			<instance id="d001.s110.t002" lemma="studio" pos="NOUN">studi</instance>
+			<instance id="d001.s110.t003" lemma="cerenia" pos="NOUN">Cerenia</instance>
+			<instance id="d001.s110.t004" lemma="cane" pos="NOUN">cani</instance>
+			<instance id="d001.s110.t005" lemma="laboratorio" pos="NOUN">laboratorio</instance>
+			<instance id="d001.s110.t006" lemma="animale" pos="NOUN">animali</instance>
+			<instance id="d001.s110.t007" lemma="cura" pos="NOUN">cura</instance>
+			<instance id="d001.s110.t008" lemma="studio" pos="NOUN">studi</instance>
+			<instance id="d001.s110.t009" lemma="veterinario" pos="ADJ">veterinari</instance>
+			<instance id="d001.s110.t010" lemma="diverso" pos="ADJ">diversi</instance>
+			<instance id="d001.s110.t011" lemma="paese" pos="NOUN">paesi</instance>
+			<instance id="d001.s110.t012" lemma="europeo" pos="ADJ">europei</instance>
+			<instance id="d001.s110.t013" lemma="stato" pos="NOUN">Stati</instance>
+			<instance id="d001.s110.t014" lemma="unito" pos="ADJ">Uniti</instance>
+		</sentence>
+		<sentence id="d001.s111" source="semeval2015-en">
+			<instance id="d001.s111.t000" lemma="beneficio" pos="NOUN">benefici</instance>
+			<instance id="d001.s111.t001" lemma="avere" pos="VERB">ha</instance>
+			<instance id="d001.s111.t002" lemma="mostrare" pos="VERB">mostrato</instance>
+			<instance id="d001.s111.t003" lemma="cerenia" pos="NOUN">Cerenia</instance>
+			<instance id="d001.s111.t004" lemma="studio" pos="NOUN">studi</instance>
+		</sentence>
+		<sentence id="d001.s112" source="semeval2015-en">
+			<instance id="d001.s112.t000" lemma="risultato" pos="NOUN">risultati</instance>
+			<instance id="d001.s112.t001" lemma="studio" pos="NOUN">studi</instance>
+			<instance id="d001.s112.t002" lemma="emergere" pos="VERB">emerso</instance>
+			<instance id="d001.s112.t003" lemma="cerenia" pos="NOUN">Cerenia</instance>
+			<instance id="d001.s112.t004" lemma="efficace" pos="ADJ">efficace</instance>
+			<instance id="d001.s112.t005" lemma="placebo" pos="NOUN">placebo</instance>
+			<instance id="d001.s112.t006" lemma="cane" pos="NOUN">cani</instance>
+			<instance id="d001.s112.t007" lemma="trattare" pos="VERB">trattati</instance>
+			<instance id="d001.s112.t008" lemma="medicinale" pos="NOUN">medicinale</instance>
+			<instance id="d001.s112.t009" lemma="attacco" pos="NOUN">attacchi</instance>
+			<instance id="d001.s112.t010" lemma="vomito" pos="NOUN">vomito</instance>
+			<instance id="d001.s112.t011" lemma="frequente" pos="ADJ">frequenti</instance>
+			<instance id="d001.s112.t012" lemma="rispetto" pos="NOUN">rispetto</instance>
+			<instance id="d001.s112.t013" lemma="animale" pos="NOUN">animali</instance>
+			<instance id="d001.s112.t014" lemma="trattare" pos="VERB">trattati</instance>
+			<instance id="d001.s112.t015" lemma="placebo" pos="NOUN">placebo</instance>
+			<instance id="d001.s112.t016" lemma="trattamento" pos="NOUN">trattamento</instance>
+			<instance id="d001.s112.t017" lemma="prevenzione" pos="NOUN">prevenzione</instance>
+			<instance id="d001.s112.t018" lemma="vomito" pos="NOUN">vomito</instance>
+		</sentence>
+		<sentence id="d001.s113" source="semeval2015-en">
+			<instance id="d001.s113.t000" lemma="trattamento" pos="NOUN">trattamento</instance>
+			<instance id="d001.s113.t001" lemma="cane" pos="NOUN">cane</instance>
+			<instance id="d001.s113.t002" lemma="vomito" pos="NOUN">vomito</instance>
+			<instance id="d001.s113.t003" lemma="iniziare" pos="VERB">iniziare</instance>
+			<instance id="d001.s113.t004" lemma="iniezione" pos="NOUN">iniezione</instance>
+			<instance id="d001.s113.t005" lemma="animale" pos="NOUN">animali</instance>
+			<instance id="d001.s113.t006" lemma="attacco" pos="NOUN">attacchi</instance>
+			<instance id="d001.s113.t007" lemma="vomito" pos="NOUN">vomito</instance>
+			<instance id="d001.s113.t008" lemma="trattenere" pos="VERB">trattenere</instance>
+			<instance id="d001.s113.t009" lemma="compressa" pos="NOUN">compressa</instance>
+			<instance id="d001.s113.t010" lemma="organismo" pos="NOUN">organismo</instance>
+			<instance id="d001.s113.t011" lemma="vomitare" pos="VERB">vomitata</instance>
+		</sentence>
+		<sentence id="d001.s114" source="semeval2015-en">
+			<instance id="d001.s114.t000" lemma="trattamento" pos="NOUN">trattamento</instance>
+			<instance id="d001.s114.t001" lemma="follow-up" pos="NOUN">follow-up</instance>
+			<instance id="d001.s114.t002" lemma="compressa" pos="NOUN">compresse</instance>
+			<instance id="d001.s114.t003" lemma="somministrare" pos="VERB">somministrate</instance>
+			<instance id="d001.s114.t004" lemma="padrone" pos="NOUN">padrone</instance>
+			<instance id="d001.s114.t005" lemma="cane" pos="NOUN">cane</instance>
+		</sentence>
+		<sentence id="d001.s115" source="semeval2015-en">
+			<instance id="d001.s115.t000" lemma="cura" pos="NOUN">cura</instance>
+			<instance id="d001.s115.t001" lemma="vomito" pos="NOUN">vomito</instance>
+			<instance id="d001.s115.t002" lemma="associare" pos="VERB">associata</instance>
+			<instance id="d001.s115.t003" lemma="misura" pos="NOUN">misure</instance>
+			<instance id="d001.s115.t004" lemma="supporto" pos="NOUN">supporto</instance>
+			<instance id="d001.s115.t005" lemma="terapia" pos="NOUN">terapie</instance>
+			<instance id="d001.s115.t006" lemma="veterinario" pos="ADJ">veterinarie</instance>
+			<instance id="d001.s115.t007" lemma="intervenire" pos="VERB">intervengano</instance>
+			<instance id="d001.s115.t008" lemma="causa" pos="NOUN">cause</instance>
+			<instance id="d001.s115.t009" lemma="vomito" pos="NOUN">vomito</instance>
+		</sentence>
+		<sentence id="d001.s116" source="semeval2015-en">
+			<instance id="d001.s116.t000" lemma="rischio" pos="NOUN">rischi</instance>
+			<instance id="d001.s116.t001" lemma="associare" pos="VERB">associati</instance>
+			<instance id="d001.s116.t002" lemma="cerenia" pos="NOUN">Cerenia</instance>
+		</sentence>
+		<sentence id="d001.s117" source="semeval2015-en">
+			<instance id="d001.s117.t000" lemma="cerenia" pos="NOUN">Cerenia</instance>
+			<instance id="d001.s117.t001" lemma="generalmente" pos="ADV">generalmente</instance>
+			<instance id="d001.s117.t002" lemma="bene" pos="ADV">ben</instance>
+			<instance id="d001.s117.t003" lemma="tollerare" pos="VERB">tollerato</instance>
+			<instance id="d001.s117.t004" lemma="somministrare" pos="VERB">somministrato</instance>
+			<instance id="d001.s117.t005" lemma="giornalmente" pos="ADV">giornalmente</instance>
+			<instance id="d001.s117.t006" lemma="dose" pos="NOUN">dosi</instance>
+			<instance id="d001.s117.t007" lemma="volta" pos="NOUN">volte</instance>
+			<instance id="d001.s117.t008" lemma="dose" pos="NOUN">dose</instance>
+			<instance id="d001.s117.t009" lemma="raccomandare" pos="VERB">raccomandata</instance>
+			<instance id="d001.s117.t010" lemma="lungo" pos="ADJ">lungo</instance>
+			<instance id="d001.s117.t011" lemma="periodo" pos="NOUN">periodo</instance>
+			<instance id="d001.s117.t012" lemma="tempo" pos="NOUN">tempo</instance>
+			<instance id="d001.s117.t013" lemma="volta" pos="NOUN">volte</instance>
+			<instance id="d001.s117.t014" lemma="durata" pos="NOUN">durata</instance>
+			<instance id="d001.s117.t015" lemma="trattamento" pos="NOUN">trattamento</instance>
+		</sentence>
+		<sentence id="d001.s118" source="semeval2015-en">
+			<instance id="d001.s118.t000" lemma="precauzione" pos="NOUN">precauzioni</instance>
+			<instance id="d001.s118.t001" lemma="prendere" pos="VERB">prendere</instance>
+			<instance id="d001.s118.t002" lemma="persona" pos="NOUN">persona</instance>
+			<instance id="d001.s118.t003" lemma="somministrare" pos="VERB">somministra</instance>
+			<instance id="d001.s118.t004" lemma="medicinale" pos="NOUN">medicinale</instance>
+			<instance id="d001.s118.t005" lemma="entrare" pos="VERB">entra</instance>
+			<instance id="d001.s118.t006" lemma="contatto" pos="NOUN">contatto</instance>
+			<instance id="d001.s118.t007" lemma="animale" pos="NOUN">animale</instance>
+		</sentence>
+		<sentence id="d001.s119" source="semeval2015-en">
+			<instance id="d001.s119.t000" lemma="cerenia" pos="NOUN">Cerenia</instance>
+			<instance id="d001.s119.t001" lemma="presentare" pos="VERB">presenta</instance>
+			<instance id="d001.s119.t002" lemma="particolare" pos="ADJ">particolari</instance>
+			<instance id="d001.s119.t003" lemma="rischio" pos="NOUN">rischi</instance>
+			<instance id="d001.s119.t004" lemma="uomo" pos="NOUN">uomo</instance>
+		</sentence>
+		<sentence id="d001.s120" source="semeval2015-en" />
+	</text>
+</corpus>

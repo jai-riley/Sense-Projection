@@ -1,11 +1,11 @@
 import pandas as pd
 import xml.etree.ElementTree as ET
 
-language ="Italian"
-lang_code = 'it'
+language ="English"
+lang_code = 'EN'
 # File paths
-xml_file = f'/Users/jairiley/Desktop/Research/Sense-Projection/data/{language}/second-sense/xl-wsd-format-{language}.xml'
-tsv_output_file = f'/Users/jairiley/Desktop/Research/Sense-Projection/data/{language}/second-sense/tokens-gold-{language}.tsv'
+xml_file = f'/Users/jairiley/Desktop/Research/Sense-Projection/data/English/Original/semeval-2015-task-13-en.xml'
+tsv_output_file = f'/Users/jairiley/Desktop/Research/Sense-Projection/data/{language}/Original/full-tokens-{language}.tsv'
 
 # Parse the XML file
 tree = ET.parse(xml_file)
@@ -17,16 +17,16 @@ data = []
 # Iterate through the XML structure and extract relevant information
 for text in root.findall('text'):
     for sentence in text.findall('sentence'):
-        # for wf in sentence.findall('wf'):
-        data.append(["", "-end-", "", "X"])
+        for wf in sentence.findall('wf'):
+        # data.append(["", "-end-", "", "X"])
 
-        for wf in sentence:
+        # for wf in sentence:
             token_id = wf.get('id','')
             lemma = wf.get('lemma', '')
             pos = wf.get('pos', '')
             token = wf.text
             data.append([token_id, token, lemma, pos])
-    data.append(["", "-end-", "", "X"])
+    # data.append(["", "-end-", "", "X"])
 
 # Create a DataFrame and write it to a TSV file
 df = pd.DataFrame(data, columns=['Token ID', 'Token', 'Lemma', 'POS'])
@@ -45,10 +45,11 @@ def update_tsv_with_key(tsv_file, key_file, output_file):
     key_dict = {}
     with open(key_file, 'r') as kf:
         for line in kf:
-            parts = line.strip().split(" ")
+            parts = line.strip().split("\t")
+            # print(parts)
             if len(parts) >= 2:
                 key_id = parts[0]
-                bn_synset = ";".join(parts[1:])
+                bn_synset = ";".join(parts[2:])
                 # bn_synset = parts[1]
                 key_dict[key_id] = bn_synset
 
@@ -59,8 +60,8 @@ def update_tsv_with_key(tsv_file, key_file, output_file):
 
 
 # Example usage:
-tsv_file = f'/Users/jairiley/Desktop/Research/Sense-Projection/data/{language}/second-sense/tokens-gold-{language}.tsv'
-key_file = f'/Users/jairiley/Desktop/Research/Sense-Projection/data/{language}/second-sense/xl-wsd-key-{language}.txt'
-output_file = f'/Users/jairiley/Desktop/Research/Sense-Projection/data/{language}/second-sense/gold-tokens-{language}-wSenses.tsv'
+tsv_file = f'/Users/jairiley/Desktop/Research/Sense-Projection/data/{language}/Original/full-tokens-{language}.tsv'
+key_file = '/Users/jairiley/Desktop/Research/Sense-Projection/data/English/Original/semeval-2015-task-13-en-WSD.tsv'
+output_file = f'/Users/jairiley/Desktop/Research/Sense-Projection/data/{language}/Original/full-tokens-{language}-wSenses.tsv'
 
 update_tsv_with_key(tsv_file, key_file, output_file)

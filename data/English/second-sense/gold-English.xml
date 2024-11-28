@@ -1,0 +1,2885 @@
+<?xml version='1.0' encoding='utf-8'?>
+<corpus lang="EN">
+	<text id="d000">
+		<sentence id="d000.s000" source="semeval2015-en">
+			<wf pos="X">This</wf>
+			<instance id="d000.s000.t000" lemma="document" pos="NOUN">document</instance>
+			<wf lemma="be" pos="VERB">is</wf>
+			<wf pos="X">a</wf>
+			<instance id="d000.s000.t001" lemma="summary" pos="NOUN">summary</instance>
+			<wf pos="X">of</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s000.t002" lemma="european" pos="ADJ">European</instance>
+			<instance id="d000.s000.t003" lemma="public" pos="ADJ">Public</instance>
+			<instance id="d000.s000.t004" lemma="assessment" pos="NOUN">Assessment</instance>
+			<instance id="d000.s000.t005" lemma="report" pos="NOUN">Report</instance>
+			<wf pos="X">(</wf>
+			<wf lemma="epar" pos="NOUN">EPAR</wf>
+			<wf pos="X">)</wf>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s001" source="semeval2015-en">
+			<wf pos="X">It</wf>
+			<instance id="d000.s001.t000" lemma="explain" pos="VERB">explains</instance>
+			<wf pos="X">how</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s001.t001" lemma="committee" pos="NOUN">Committee</instance>
+			<wf pos="X">for</wf>
+			<instance id="d000.s001.t002" lemma="medicinal" pos="ADJ">Medicinal</instance>
+			<instance id="d000.s001.t003" lemma="product" pos="NOUN">Products</instance>
+			<wf pos="X">for</wf>
+			<instance id="d000.s001.t004" lemma="human" pos="ADJ">Human</instance>
+			<instance id="d000.s001.t005" lemma="use" pos="NOUN">Use</instance>
+			<wf pos="X">(</wf>
+			<wf lemma="chmp" pos="NOUN">CHMP</wf>
+			<wf pos="X">)</wf>
+			<instance id="d000.s001.t006" lemma="assess" pos="VERB">assessed</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s001.t007" lemma="study" pos="NOUN">studies</instance>
+			<instance id="d000.s001.t008" lemma="perform" pos="VERB">performed</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">to</wf>
+			<instance id="d000.s001.t009" lemma="reach" pos="VERB">reach</instance>
+			<wf pos="X">their</wf>
+			<instance id="d000.s001.t010" lemma="recommendation" pos="NOUN">recommendations</instance>
+			<wf pos="X">on</wf>
+			<wf pos="X">how</wf>
+			<wf pos="X">to</wf>
+			<instance id="d000.s001.t011" lemma="use" pos="VERB">use</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s001.t012" lemma="medicine" pos="NOUN">medicine</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s002" source="semeval2015-en">
+			<wf pos="X">If</wf>
+			<wf pos="X">you</wf>
+			<instance id="d000.s002.t000" lemma="need" pos="VERB">need</instance>
+			<instance id="d000.s002.t001" lemma="more" pos="ADJ">more</instance>
+			<instance id="d000.s002.t002" lemma="information" pos="NOUN">information</instance>
+			<wf pos="X">about</wf>
+			<wf pos="X">your</wf>
+			<instance id="d000.s002.t003" lemma="medical" pos="ADJ">medical</instance>
+			<instance id="d000.s002.t004" lemma="condition" pos="NOUN">condition</instance>
+			<wf pos="X">or</wf>
+			<wf pos="X">your</wf>
+			<instance id="d000.s002.t005" lemma="treatment" pos="NOUN">treatment</instance>
+			<wf pos="X">,</wf>
+			<instance id="d000.s002.t006" lemma="read" pos="VERB">read</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s002.t007" lemma="package" pos="NOUN">Package</instance>
+			<instance id="d000.s002.t008" lemma="leaflet" pos="NOUN">Leaflet</instance>
+			<wf pos="X">(</wf>
+			<instance id="d000.s002.t009" lemma="also" pos="ADV">also</instance>
+			<instance id="d000.s002.t010" lemma="part" pos="NOUN">part</instance>
+			<wf pos="X">of</wf>
+			<wf pos="X">the</wf>
+			<wf lemma="epar" pos="NOUN">EPAR</wf>
+			<wf pos="X">)</wf>
+			<wf pos="X">or</wf>
+			<instance id="d000.s002.t011" lemma="contact" pos="VERB">contact</instance>
+			<wf pos="X">your</wf>
+			<instance id="d000.s002.t012" lemma="doctor" pos="NOUN">doctor</instance>
+			<wf pos="X">or</wf>
+			<instance id="d000.s002.t013" lemma="pharmacist" pos="NOUN">pharmacist</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s003" source="semeval2015-en">
+			<wf pos="X">If</wf>
+			<wf pos="X">you</wf>
+			<instance id="d000.s003.t000" lemma="want" pos="VERB">want</instance>
+			<instance id="d000.s003.t001" lemma="more" pos="ADJ">more</instance>
+			<instance id="d000.s003.t002" lemma="information" pos="NOUN">information</instance>
+			<wf pos="X">on</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s003.t003" lemma="basis" pos="NOUN">basis</instance>
+			<wf pos="X">of</wf>
+			<wf pos="X">the</wf>
+			<wf lemma="chmp" pos="NOUN">CHMP</wf>
+			<instance id="d000.s003.t004" lemma="recommendation" pos="NOUN">recommendations</instance>
+			<wf pos="X">,</wf>
+			<instance id="d000.s003.t005" lemma="read" pos="VERB">read</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s003.t006" lemma="scientific" pos="ADJ">Scientific</instance>
+			<instance id="d000.s003.t007" lemma="discussion" pos="NOUN">Discussion</instance>
+			<wf pos="X">(</wf>
+			<instance id="d000.s003.t008" lemma="also" pos="ADV">also</instance>
+			<instance id="d000.s003.t009" lemma="part" pos="NOUN">part</instance>
+			<wf pos="X">of</wf>
+			<wf pos="X">the</wf>
+			<wf lemma="epar" pos="NOUN">EPAR</wf>
+			<wf pos="X">)</wf>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s004" source="semeval2015-en">
+			<wf pos="X">What</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<wf lemma="alimta" pos="NOUN">Alimta</wf>
+			<wf pos="X">?</wf>
+		</sentence>
+		<sentence id="d000.s005" source="semeval2015-en">
+			<wf lemma="alimta" pos="NOUN">Alimta</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<wf pos="X">a</wf>
+			<instance id="d000.s005.t000" lemma="powder" pos="NOUN">powder</instance>
+			<wf pos="X">that</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<instance id="d000.s005.t001" lemma="make up" pos="VERB">made up</instance>
+			<wf pos="X">into</wf>
+			<wf pos="X">a</wf>
+			<instance id="d000.s005.t002" lemma="solution" pos="NOUN">solution</instance>
+			<wf pos="X">for</wf>
+			<instance id="d000.s005.t003" lemma="infusion" pos="NOUN">infusion</instance>
+			<wf pos="X">(</wf>
+			<instance id="d000.s005.t004" lemma="drip" pos="VERB">drip</instance>
+			<wf pos="X">into</wf>
+			<wf pos="X">a</wf>
+			<instance id="d000.s005.t005" lemma="vein" pos="NOUN">vein</instance>
+			<wf pos="X">)</wf>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s006" source="semeval2015-en">
+			<wf pos="X">It</wf>
+			<instance id="d000.s006.t000" lemma="contain" pos="VERB">contains</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s006.t001" lemma="active" pos="ADJ">active</instance>
+			<instance id="d000.s006.t002" lemma="substance" pos="NOUN">substance</instance>
+			<wf lemma="pemetrexed" pos="NOUN">pemetrexed</wf>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s007" source="semeval2015-en">
+			<wf pos="X">What</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<wf lemma="alimta" pos="NOUN">Alimta</wf>
+			<instance id="d000.s007.t000" lemma="use" pos="VERB">used</instance>
+			<wf pos="X">for</wf>
+			<wf pos="X">?</wf>
+		</sentence>
+		<sentence id="d000.s008" source="semeval2015-en">
+			<wf lemma="alimta" pos="NOUN">Alimta</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<instance id="d000.s008.t000" lemma="use" pos="VERB">used</instance>
+			<wf pos="X">to</wf>
+			<instance id="d000.s008.t001" lemma="treat" pos="VERB">treat</instance>
+			<wf pos="X">two</wf>
+			<instance id="d000.s008.t002" lemma="type" pos="NOUN">types</instance>
+			<wf pos="X">of</wf>
+			<instance id="d000.s008.t003" lemma="cancer" pos="NOUN">cancer</instance>
+			<wf pos="X">:</wf>
+			<instance id="d000.s008.t004" lemma="pleural" pos="ADJ">pleural</instance>
+			<instance id="d000.s008.t005" lemma="mesothelioma" pos="NOUN">mesothelioma</instance>
+			<wf pos="X">(</wf>
+			<instance id="d000.s008.t006" lemma="cancer" pos="NOUN">cancer</instance>
+			<wf pos="X">of</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s008.t007" lemma="lining" pos="NOUN">lining</instance>
+			<wf pos="X">of</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s008.t008" lemma="lung" pos="NOUN">lungs</instance>
+			<wf pos="X">that</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<instance id="d000.s008.t009" lemma="usually" pos="ADV">usually</instance>
+			<instance id="d000.s008.t010" lemma="cause" pos="VERB">caused</instance>
+			<wf pos="X">by</wf>
+			<instance id="d000.s008.t011" lemma="exposure" pos="NOUN">exposure</instance>
+			<wf pos="X">to</wf>
+			<instance id="d000.s008.t012" lemma="asbestos" pos="NOUN">asbestos</instance>
+			<wf pos="X">)</wf>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s009" source="semeval2015-en">
+			<wf lemma="alimta" pos="NOUN">Alimta</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<instance id="d000.s009.t000" lemma="use" pos="VERB">used</instance>
+			<instance id="d000.s009.t001" lemma="together" pos="ADV">together</instance>
+			<wf pos="X">with</wf>
+			<instance id="d000.s009.t002" lemma="cisplatin" pos="NOUN">cisplatin</instance>
+			<wf pos="X">(</wf>
+			<wf pos="X">another</wf>
+			<instance id="d000.s009.t003" lemma="anticancer" pos="ADJ">anticancer</instance>
+			<instance id="d000.s009.t004" lemma="medicine" pos="NOUN">medicine</instance>
+			<wf pos="X">)</wf>
+			<wf pos="X">when</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s009.t005" lemma="cancer" pos="NOUN">cancer</instance>
+			<wf lemma="be" pos="VERB">is</wf>
+			<wf lemma="unresectable" pos="ADJ">unresectable</wf>
+			<wf pos="X">(</wf>
+			<wf pos="X">cannot</wf>
+			<wf lemma="be" pos="VERB">be</wf>
+			<instance id="d000.s009.t006" lemma="remove" pos="VERB">removed</instance>
+			<wf pos="X">by</wf>
+			<instance id="d000.s009.t007" lemma="surgery" pos="NOUN">surgery</instance>
+			<instance id="d000.s009.t008" lemma="alone" pos="ADJ">alone</instance>
+			<wf pos="X">)</wf>
+			<wf pos="X">and</wf>
+			<instance id="d000.s009.t009" lemma="malignant" pos="ADJ">malignant</instance>
+			<wf pos="X">(</wf>
+			<wf lemma="have" pos="VERB">has</wf>
+			<instance id="d000.s009.t010" lemma="spread" pos="VERB">spread</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">or</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<instance id="d000.s009.t011" lemma="likely" pos="ADJ">likely</instance>
+			<wf pos="X">to</wf>
+			<instance id="d000.s009.t012" lemma="spread" pos="VERB">spread</instance>
+			<instance id="d000.s009.t013" lemma="easily" pos="ADV">easily</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">to</wf>
+			<instance id="d000.s009.t014" lemma="other" pos="ADJ">other</instance>
+			<instance id="d000.s009.t015" lemma="part" pos="NOUN">parts</instance>
+			<wf pos="X">of</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s009.t016" lemma="body" pos="NOUN">body</instance>
+			<wf pos="X">)</wf>
+			<wf pos="X">,</wf>
+			<wf pos="X">in</wf>
+			<instance id="d000.s009.t017" lemma="patient" pos="NOUN">patients</instance>
+			<wf pos="X">who</wf>
+			<wf lemma="have" pos="VERB">have</wf>
+			<instance id="d000.s009.t018" lemma="not" pos="ADV">not</instance>
+			<instance id="d000.s009.t019" lemma="receive" pos="VERB">received</instance>
+			<instance id="d000.s009.t020" lemma="chemotherapy" pos="NOUN">chemotherapy</instance>
+			<wf pos="X">(</wf>
+			<instance id="d000.s009.t021" lemma="medicine" pos="NOUN">medicines</instance>
+			<wf pos="X">for</wf>
+			<instance id="d000.s009.t022" lemma="cancer" pos="NOUN">cancer</instance>
+			<wf pos="X">)</wf>
+			<wf pos="X">before</wf>
+			<instance id="d000.s009.t023" lemma="advanced" pos="ADJ">advanced</instance>
+			<wf pos="X">or</wf>
+			<instance id="d000.s009.t024" lemma="metastatic" pos="ADJ">metastatic</instance>
+			<instance id="d000.s009.t025" lemma="non-small" pos="ADJ">non-small</instance>
+			<instance id="d000.s009.t026" lemma="cell" pos="NOUN">cell</instance>
+			<instance id="d000.s009.t027" lemma="lung" pos="NOUN">lung</instance>
+			<instance id="d000.s009.t028" lemma="cancer" pos="NOUN">cancer</instance>
+			<wf pos="X">that</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<instance id="d000.s009.t029" lemma="not" pos="ADV">not</instance>
+			<instance id="d000.s009.t030" lemma="affect" pos="VERB">affecting</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s009.t031" lemma="squamous" pos="ADJ">squamous</instance>
+			<instance id="d000.s009.t032" lemma="cell" pos="NOUN">cells</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s010" source="semeval2015-en">
+			<wf lemma="alimta" pos="NOUN">Alimta</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<instance id="d000.s010.t000" lemma="use" pos="VERB">used</instance>
+			<wf pos="X">in</wf>
+			<instance id="d000.s010.t001" lemma="combination" pos="NOUN">combination</instance>
+			<wf pos="X">with</wf>
+			<instance id="d000.s010.t002" lemma="cisplatin" pos="NOUN">cisplatin</instance>
+			<wf pos="X">in</wf>
+			<instance id="d000.s010.t003" lemma="patient" pos="NOUN">patients</instance>
+			<wf pos="X">who</wf>
+			<wf lemma="have" pos="VERB">have</wf>
+			<instance id="d000.s010.t004" lemma="not" pos="ADV">not</instance>
+			<wf lemma="be" pos="VERB">been</wf>
+			<instance id="d000.s010.t005" lemma="treat" pos="VERB">treated</instance>
+			<wf pos="X">before</wf>
+			<wf pos="X">,</wf>
+			<wf pos="X">and</wf>
+			<wf pos="X">on</wf>
+			<wf pos="X">its</wf>
+			<wf lemma="own" pos="ADJ">own</wf>
+			<wf pos="X">in</wf>
+			<instance id="d000.s010.t006" lemma="patient" pos="NOUN">patients</instance>
+			<wf pos="X">who</wf>
+			<wf lemma="have" pos="VERB">have</wf>
+			<instance id="d000.s010.t007" lemma="receive" pos="VERB">received</instance>
+			<wf pos="X">another</wf>
+			<instance id="d000.s010.t008" lemma="type" pos="NOUN">type</instance>
+			<wf pos="X">of</wf>
+			<instance id="d000.s010.t009" lemma="chemotherapy" pos="NOUN">chemotherapy</instance>
+			<wf pos="X">in</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s010.t010" lemma="past" pos="NOUN">past</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s011" source="semeval2015-en">
+			<wf pos="X">The</wf>
+			<instance id="d000.s011.t000" lemma="medicine" pos="NOUN">medicine</instance>
+			<wf pos="X">can</wf>
+			<instance id="d000.s011.t001" lemma="only" pos="ADV">only</instance>
+			<wf lemma="be" pos="VERB">be</wf>
+			<instance id="d000.s011.t002" lemma="obtain" pos="VERB">obtained</instance>
+			<wf pos="X">with</wf>
+			<wf pos="X">a</wf>
+			<instance id="d000.s011.t003" lemma="prescription" pos="NOUN">prescription</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s012" source="semeval2015-en">
+			<wf pos="X">How</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<wf lemma="alimta" pos="NOUN">Alimta</wf>
+			<instance id="d000.s012.t000" lemma="use" pos="VERB">used</instance>
+			<wf pos="X">?</wf>
+		</sentence>
+		<sentence id="d000.s013" source="semeval2015-en">
+			<wf lemma="alimta" pos="NOUN">Alimta</wf>
+			<wf pos="X">should</wf>
+			<instance id="d000.s013.t000" lemma="only" pos="ADV">only</instance>
+			<wf lemma="be" pos="VERB">be</wf>
+			<instance id="d000.s013.t001" lemma="give" pos="VERB">given</instance>
+			<wf pos="X">under</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s013.t002" lemma="supervision" pos="NOUN">supervision</instance>
+			<wf pos="X">of</wf>
+			<wf pos="X">a</wf>
+			<instance id="d000.s013.t003" lemma="doctor" pos="NOUN">doctor</instance>
+			<wf pos="X">who</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<wf lemma="qualify" pos="VERB">qualified</wf>
+			<wf pos="X">in</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s013.t004" lemma="use" pos="NOUN">use</instance>
+			<wf pos="X">of</wf>
+			<instance id="d000.s013.t005" lemma="anticancer" pos="ADJ">anticancer</instance>
+			<instance id="d000.s013.t006" lemma="chemotherapy" pos="NOUN">chemotherapy</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s014" source="semeval2015-en">
+			<wf pos="X">The</wf>
+			<wf lemma="recommended" pos="ADJ">recommended</wf>
+			<instance id="d000.s014.t000" lemma="dose" pos="NOUN">dose</instance>
+			<wf pos="X">of</wf>
+			<wf lemma="alimta" pos="NOUN">Alimta</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<wf pos="X">500</wf>
+			<instance id="d000.s014.t001" lemma="mg" pos="NOUN">mg</instance>
+			<wf pos="X">per</wf>
+			<instance id="d000.s014.t002" lemma="square" pos="ADJ">square</instance>
+			<instance id="d000.s014.t003" lemma="metre" pos="NOUN">metre</instance>
+			<wf pos="X">of</wf>
+			<instance id="d000.s014.t004" lemma="body" pos="NOUN">body</instance>
+			<instance id="d000.s014.t005" lemma="surface" pos="NOUN">surface</instance>
+			<instance id="d000.s014.t006" lemma="area" pos="NOUN">area</instance>
+			<wf pos="X">(</wf>
+			<instance id="d000.s014.t007" lemma="calculate" pos="VERB">calculated</instance>
+			<instance id="d000.s014.t008" lemma="use" pos="VERB">using</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s014.t009" lemma="patient" pos="NOUN">patient</instance>
+			<wf pos="X">s</wf>
+			<instance id="d000.s014.t010" lemma="height" pos="NOUN">height</instance>
+			<wf pos="X">and</wf>
+			<instance id="d000.s014.t011" lemma="weight" pos="NOUN">weight</instance>
+			<wf pos="X">)</wf>
+			<wf pos="X">.</wf>
+			<wf pos="X">It</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<instance id="d000.s014.t012" lemma="give" pos="VERB">given</instance>
+			<instance id="d000.s014.t013" lemma="once" pos="ADV">once</instance>
+			<instance id="d000.s014.t014" lemma="every" pos="ADJ">every</instance>
+			<wf pos="X">three</wf>
+			<instance id="d000.s014.t015" lemma="week" pos="NOUN">weeks</instance>
+			<wf pos="X">as</wf>
+			<wf pos="X">an</wf>
+			<instance id="d000.s014.t016" lemma="intravenous" pos="ADJ">intravenous</instance>
+			<instance id="d000.s014.t017" lemma="infusion" pos="NOUN">infusion</instance>
+			<instance id="d000.s014.t018" lemma="last" pos="VERB">lasting</instance>
+			<wf pos="X">10</wf>
+			<instance id="d000.s014.t019" lemma="minute" pos="NOUN">minutes</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s015" source="semeval2015-en">
+			<wf pos="X">To</wf>
+			<instance id="d000.s015.t000" lemma="reduce" pos="VERB">reduce</instance>
+			<instance id="d000.s015.t001" lemma="side" pos="ADJ">side</instance>
+			<instance id="d000.s015.t002" lemma="effect" pos="NOUN">effects</instance>
+			<wf pos="X">,</wf>
+			<instance id="d000.s015.t003" lemma="patient" pos="NOUN">patients</instance>
+			<wf pos="X">should</wf>
+			<instance id="d000.s015.t004" lemma="take" pos="VERB">take</instance>
+			<wf pos="X">a</wf>
+			<instance id="d000.s015.t005" lemma="corticosteroid" pos="NOUN">corticosteroid</instance>
+			<wf pos="X">and</wf>
+			<instance id="d000.s015.t006" lemma="folic" pos="ADJ">folic</instance>
+			<instance id="d000.s015.t007" lemma="acid" pos="NOUN">acid</instance>
+			<wf pos="X">(</wf>
+			<wf pos="X">a</wf>
+			<instance id="d000.s015.t008" lemma="type" pos="NOUN">type</instance>
+			<wf pos="X">of</wf>
+			<instance id="d000.s015.t009" lemma="vitamin" pos="NOUN">vitamin</instance>
+			<wf pos="X">)</wf>
+			<wf pos="X">,</wf>
+			<wf pos="X">and</wf>
+			<wf lemma="receive" pos="VERB">receive</wf>
+			<instance id="d000.s015.t010" lemma="injection" pos="NOUN">injections</instance>
+			<wf pos="X">of</wf>
+			<instance id="d000.s015.t011" lemma="vitamin" pos="NOUN">vitamin</instance>
+			<wf lemma="b12" pos="NOUN">B12</wf>
+			<wf pos="X">during</wf>
+			<instance id="d000.s015.t012" lemma="treatment" pos="NOUN">treatment</instance>
+			<wf pos="X">with</wf>
+			<wf lemma="alimta" pos="NOUN">Alimta</wf>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s016" source="semeval2015-en">
+			<wf pos="X">When</wf>
+			<wf lemma="alimta" pos="NOUN">Alimta</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<instance id="d000.s016.t000" lemma="give" pos="VERB">given</instance>
+			<wf pos="X">with</wf>
+			<instance id="d000.s016.t001" lemma="cisplatin" pos="NOUN">cisplatin</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">an</wf>
+			<wf lemma="anti-emetic" pos="ADJ">anti-emetic</wf>
+			<instance id="d000.s016.t002" lemma="medicine" pos="NOUN">medicine</instance>
+			<wf pos="X">(</wf>
+			<wf pos="X">to</wf>
+			<instance id="d000.s016.t003" lemma="prevent" pos="VERB">prevent</instance>
+			<instance id="d000.s016.t004" lemma="vomit" pos="VERB">vomiting</instance>
+			<wf pos="X">)</wf>
+			<wf pos="X">and</wf>
+			<instance id="d000.s016.t005" lemma="fluid" pos="NOUN">fluids</instance>
+			<wf pos="X">(</wf>
+			<wf pos="X">to</wf>
+			<instance id="d000.s016.t006" lemma="prevent" pos="VERB">prevent</instance>
+			<instance id="d000.s016.t007" lemma="dehydration" pos="NOUN">dehydration</instance>
+			<wf pos="X">)</wf>
+			<wf pos="X">should</wf>
+			<instance id="d000.s016.t008" lemma="also" pos="ADV">also</instance>
+			<wf lemma="be" pos="VERB">be</wf>
+			<instance id="d000.s016.t009" lemma="give" pos="VERB">given</instance>
+			<instance id="d000.s016.t010" lemma="before" pos="ADV">before</instance>
+			<wf pos="X">or</wf>
+			<instance id="d000.s016.t011" lemma="after" pos="ADV">after</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s016.t012" lemma="cisplatin" pos="NOUN">cisplatin</instance>
+			<instance id="d000.s016.t013" lemma="dose" pos="NOUN">dose</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s017" source="semeval2015-en">
+			<instance id="d000.s017.t000" lemma="treatment" pos="NOUN">Treatment</instance>
+			<wf pos="X">should</wf>
+			<wf lemma="be" pos="VERB">be</wf>
+			<instance id="d000.s017.t001" lemma="delay" pos="VERB">delayed</instance>
+			<wf pos="X">or</wf>
+			<instance id="d000.s017.t002" lemma="discontinue" pos="VERB">discontinued</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">or</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s017.t003" lemma="dose" pos="NOUN">dose</instance>
+			<instance id="d000.s017.t004" lemma="reduce" pos="VERB">reduced</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">in</wf>
+			<instance id="d000.s017.t005" lemma="patient" pos="NOUN">patients</instance>
+			<wf pos="X">whose</wf>
+			<instance id="d000.s017.t006" lemma="blood" pos="NOUN">blood</instance>
+			<instance id="d000.s017.t007" lemma="count" pos="NOUN">counts</instance>
+			<wf lemma="be" pos="VERB">are</wf>
+			<instance id="d000.s017.t008" lemma="abnormal" pos="ADJ">abnormal</instance>
+			<wf pos="X">or</wf>
+			<wf pos="X">who</wf>
+			<instance id="d000.s017.t009" lemma="have" pos="VERB">have</instance>
+			<instance id="d000.s017.t010" lemma="certain" pos="ADJ">certain</instance>
+			<instance id="d000.s017.t011" lemma="other" pos="ADJ">other</instance>
+			<instance id="d000.s017.t012" lemma="side" pos="ADJ">side</instance>
+			<instance id="d000.s017.t013" lemma="effect" pos="NOUN">effects</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s018" source="semeval2015-en">
+			<wf lemma="alimta" pos="NOUN">Alimta</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<instance id="d000.s018.t000" lemma="not" pos="ADV">not</instance>
+			<instance id="d000.s018.t001" lemma="recommend" pos="VERB">recommended</instance>
+			<wf pos="X">for</wf>
+			<instance id="d000.s018.t002" lemma="use" pos="NOUN">use</instance>
+			<wf pos="X">in</wf>
+			<instance id="d000.s018.t003" lemma="patient" pos="NOUN">patients</instance>
+			<wf pos="X">with</wf>
+			<instance id="d000.s018.t004" lemma="moderate" pos="ADJ">moderate</instance>
+			<wf pos="X">or</wf>
+			<instance id="d000.s018.t005" lemma="severe" pos="ADJ">severe</instance>
+			<instance id="d000.s018.t006" lemma="kidney" pos="NOUN">kidney</instance>
+			<instance id="d000.s018.t007" lemma="problem" pos="NOUN">problems</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s019" source="semeval2015-en">
+			<wf pos="X">For</wf>
+			<instance id="d000.s019.t000" lemma="more" pos="ADJ">more</instance>
+			<instance id="d000.s019.t001" lemma="information" pos="NOUN">information</instance>
+			<wf pos="X">,</wf>
+			<instance id="d000.s019.t002" lemma="see" pos="VERB">see</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s019.t003" lemma="summary" pos="NOUN">Summary</instance>
+			<wf pos="X">of</wf>
+			<instance id="d000.s019.t004" lemma="product" pos="NOUN">Product</instance>
+			<wf lemma="characteristics" pos="NOUN">Characteristics</wf>
+			<wf pos="X">(</wf>
+			<instance id="d000.s019.t005" lemma="also" pos="ADV">also</instance>
+			<instance id="d000.s019.t006" lemma="part" pos="NOUN">part</instance>
+			<wf pos="X">of</wf>
+			<wf pos="X">the</wf>
+			<wf lemma="epar" pos="NOUN">EPAR</wf>
+			<wf pos="X">)</wf>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s020" source="semeval2015-en">
+			<wf pos="X">How</wf>
+			<wf lemma="do" pos="VERB">does</wf>
+			<wf lemma="alimta" pos="NOUN">Alimta</wf>
+			<wf lemma="work" pos="NOUN">work</wf>
+			<wf pos="X">?</wf>
+		</sentence>
+		<sentence id="d000.s021" source="semeval2015-en">
+			<wf pos="X">The</wf>
+			<instance id="d000.s021.t000" lemma="active" pos="ADJ">active</instance>
+			<instance id="d000.s021.t001" lemma="substance" pos="NOUN">substance</instance>
+			<wf pos="X">in</wf>
+			<wf lemma="alimta" pos="NOUN">Alimta</wf>
+			<wf pos="X">,</wf>
+			<wf lemma="pemetrexed" pos="NOUN">pemetrexed</wf>
+			<wf pos="X">,</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<wf pos="X">a</wf>
+			<instance id="d000.s021.t002" lemma="cytotoxic" pos="ADJ">cytotoxic</instance>
+			<instance id="d000.s021.t003" lemma="medicine" pos="NOUN">medicine</instance>
+			<wf pos="X">(</wf>
+			<wf pos="X">a</wf>
+			<instance id="d000.s021.t004" lemma="medicine" pos="NOUN">medicine</instance>
+			<wf pos="X">that</wf>
+			<instance id="d000.s021.t005" lemma="kill" pos="VERB">kills</instance>
+			<instance id="d000.s021.t006" lemma="cell" pos="NOUN">cells</instance>
+			<wf pos="X">that</wf>
+			<wf lemma="be" pos="VERB">are</wf>
+			<instance id="d000.s021.t007" lemma="divide" pos="VERB">dividing</instance>
+			<wf pos="X">,</wf>
+			<wf lemma="such as" pos="ADV">such as</wf>
+			<instance id="d000.s021.t008" lemma="cancer" pos="NOUN">cancer</instance>
+			<instance id="d000.s021.t009" lemma="cell" pos="NOUN">cells</instance>
+			<wf pos="X">)</wf>
+			<wf pos="X">,</wf>
+			<wf pos="X">which</wf>
+			<instance id="d000.s021.t010" lemma="belong" pos="VERB">belongs</instance>
+			<wf pos="X">to</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s021.t011" lemma="group" pos="NOUN">group</instance>
+			<instance id="d000.s021.t012" lemma="antimetabolites" pos="NOUN">antimetabolites</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s022" source="semeval2015-en">
+			<wf pos="X">In</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s022.t000" lemma="body" pos="NOUN">body</instance>
+			<wf pos="X">,</wf>
+			<instance id="d000.s022.t001" lemma="pemetrexed" pos="NOUN">pemetrexed</instance>
+			<wf lemma="be" pos="VERB">is</wf>
+			<instance id="d000.s022.t002" lemma="convert" pos="VERB">converted</instance>
+			<wf pos="X">into</wf>
+			<wf pos="X">an</wf>
+			<instance id="d000.s022.t003" lemma="active" pos="ADJ">active</instance>
+			<instance id="d000.s022.t004" lemma="form" pos="NOUN">form</instance>
+			<wf pos="X">that</wf>
+			<instance id="d000.s022.t005" lemma="block" pos="VERB">blocks</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s022.t006" lemma="activity" pos="NOUN">activity</instance>
+			<wf pos="X">of</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s022.t007" lemma="enzyme" pos="NOUN">enzymes</instance>
+			<wf pos="X">that</wf>
+			<wf lemma="be" pos="VERB">are</wf>
+			<instance id="d000.s022.t008" lemma="involve" pos="VERB">involved</instance>
+			<wf pos="X">in</wf>
+			<instance id="d000.s022.t009" lemma="produce" pos="VERB">producing</instance>
+			<instance id="d000.s022.t010" lemma="nucleotide" pos="NOUN">nucleotides</instance>
+			<wf pos="X">(</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s022.t011" lemma="building block" pos="NOUN">building blocks</instance>
+			<wf pos="X">of</wf>
+			<instance id="d000.s022.t012" lemma="dna" pos="NOUN">DNA</instance>
+			<wf pos="X">and</wf>
+			<instance id="d000.s022.t013" lemma="rna" pos="NOUN">RNA</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s022.t014" lemma="genetic" pos="ADJ">genetic</instance>
+			<instance id="d000.s022.t015" lemma="material" pos="NOUN">material</instance>
+			<wf pos="X">of</wf>
+			<instance id="d000.s022.t016" lemma="cell" pos="NOUN">cells</instance>
+			<wf pos="X">)</wf>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s023" source="semeval2015-en">
+			<wf pos="X">How</wf>
+			<wf lemma="have" pos="VERB">has</wf>
+			<wf lemma="alimta" pos="NOUN">Alimta</wf>
+			<wf lemma="be" pos="VERB">been</wf>
+			<instance id="d000.s023.t000" lemma="study" pos="VERB">studied</instance>
+			<wf pos="X">?</wf>
+		</sentence>
+		<sentence id="d000.s024" source="semeval2015-en">
+			<wf pos="X">For</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s024.t000" lemma="treatment" pos="NOUN">treatment</instance>
+			<wf pos="X">of</wf>
+			<instance id="d000.s024.t001" lemma="malignant" pos="ADJ">malignant</instance>
+			<instance id="d000.s024.t002" lemma="pleural" pos="ADJ">pleural</instance>
+			<instance id="d000.s024.t003" lemma="mesothelioma" pos="NOUN">mesothelioma</instance>
+			<wf pos="X">,</wf>
+			<wf lemma="alimta" pos="NOUN">Alimta</wf>
+			<wf lemma="have" pos="VERB">has</wf>
+			<wf lemma="be" pos="VERB">been</wf>
+			<instance id="d000.s024.t004" lemma="study" pos="VERB">studied</instance>
+			<wf pos="X">in</wf>
+			<wf pos="X">one</wf>
+			<instance id="d000.s024.t005" lemma="main" pos="ADJ">main</instance>
+			<instance id="d000.s024.t006" lemma="study" pos="NOUN">study</instance>
+			<wf pos="X">in</wf>
+			<wf pos="X">456</wf>
+			<instance id="d000.s024.t007" lemma="patient" pos="NOUN">patients</instance>
+			<wf pos="X">who</wf>
+			<wf lemma="have" pos="VERB">had</wf>
+			<instance id="d000.s024.t008" lemma="not" pos="ADV">not</instance>
+			<instance id="d000.s024.t009" lemma="receive" pos="VERB">received</instance>
+			<instance id="d000.s024.t010" lemma="chemotherapy" pos="NOUN">chemotherapy</instance>
+			<wf pos="X">for</wf>
+			<wf pos="X">their</wf>
+			<instance id="d000.s024.t011" lemma="disease" pos="NOUN">disease</instance>
+			<instance id="d000.s024.t012" lemma="before" pos="ADV">before</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s025" source="semeval2015-en">
+			<wf pos="X">The</wf>
+			<instance id="d000.s025.t000" lemma="effect" pos="NOUN">effects</instance>
+			<wf pos="X">of</wf>
+			<wf lemma="alimta" pos="NOUN">Alimta</wf>
+			<wf pos="X">in</wf>
+			<instance id="d000.s025.t001" lemma="combination" pos="NOUN">combination</instance>
+			<wf pos="X">with</wf>
+			<instance id="d000.s025.t002" lemma="cisplatin" pos="NOUN">cisplatin</instance>
+			<wf lemma="be" pos="VERB">were</wf>
+			<instance id="d000.s025.t003" lemma="compare" pos="VERB">compared</instance>
+			<wf pos="X">with</wf>
+			<wf pos="X">those</wf>
+			<wf pos="X">of</wf>
+			<instance id="d000.s025.t004" lemma="cisplatin" pos="NOUN">cisplatin</instance>
+			<instance id="d000.s025.t005" lemma="alone" pos="ADV">alone</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s026" source="semeval2015-en">
+			<wf pos="X">For</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s026.t000" lemma="treatment" pos="NOUN">treatment</instance>
+			<wf pos="X">of</wf>
+			<instance id="d000.s026.t001" lemma="non-small" pos="ADJ">non-small</instance>
+			<instance id="d000.s026.t002" lemma="cell" pos="NOUN">cell</instance>
+			<instance id="d000.s026.t003" lemma="lung" pos="NOUN">lung</instance>
+			<instance id="d000.s026.t004" lemma="cancer" pos="NOUN">cancer</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s026.t005" lemma="effect" pos="NOUN">effects</instance>
+			<wf pos="X">of</wf>
+			<wf lemma="alimta" pos="NOUN">Alimta</wf>
+			<wf lemma="be" pos="VERB">were</wf>
+			<instance id="d000.s026.t006" lemma="compare" pos="VERB">compared</instance>
+			<wf pos="X">with</wf>
+			<wf pos="X">those</wf>
+			<wf pos="X">of</wf>
+			<instance id="d000.s026.t007" lemma="docetaxel" pos="NOUN">docetaxel</instance>
+			<wf pos="X">(</wf>
+			<wf pos="X">another</wf>
+			<instance id="d000.s026.t008" lemma="anticancer" pos="ADJ">anticancer</instance>
+			<instance id="d000.s026.t009" lemma="medicine" pos="NOUN">medicine</instance>
+			<wf pos="X">)</wf>
+			<wf pos="X">in</wf>
+			<wf pos="X">one</wf>
+			<instance id="d000.s026.t010" lemma="study" pos="NOUN">study</instance>
+			<instance id="d000.s026.t011" lemma="involve" pos="VERB">involving</instance>
+			<wf pos="X">571</wf>
+			<instance id="d000.s026.t012" lemma="patient" pos="NOUN">patients</instance>
+			<wf pos="X">with</wf>
+			<instance id="d000.s026.t013" lemma="locally" pos="ADV">locally</instance>
+			<instance id="d000.s026.t014" lemma="advanced" pos="ADJ">advanced</instance>
+			<wf pos="X">or</wf>
+			<instance id="d000.s026.t015" lemma="metastatic" pos="ADJ">metastatic</instance>
+			<instance id="d000.s026.t016" lemma="disease" pos="NOUN">disease</instance>
+			<wf pos="X">who</wf>
+			<wf lemma="have" pos="VERB">had</wf>
+			<instance id="d000.s026.t017" lemma="receive" pos="VERB">received</instance>
+			<instance id="d000.s026.t018" lemma="chemotherapy" pos="NOUN">chemotherapy</instance>
+			<wf pos="X">in</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s026.t019" lemma="past" pos="NOUN">past</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s027" source="semeval2015-en">
+			<wf lemma="alimta" pos="NOUN">Alimta</wf>
+			<wf lemma="be" pos="VERB">was</wf>
+			<instance id="d000.s027.t000" lemma="also" pos="ADV">also</instance>
+			<instance id="d000.s027.t001" lemma="compare" pos="VERB">compared</instance>
+			<wf pos="X">with</wf>
+			<instance id="d000.s027.t002" lemma="gemcitabine" pos="NOUN">gemcitabine</instance>
+			<wf pos="X">(</wf>
+			<wf pos="X">another</wf>
+			<instance id="d000.s027.t003" lemma="anticancer" pos="ADJ">anticancer</instance>
+			<instance id="d000.s027.t004" lemma="medicine" pos="NOUN">medicine</instance>
+			<wf pos="X">)</wf>
+			<wf pos="X">,</wf>
+			<wf pos="X">both</wf>
+			<wf pos="X">in</wf>
+			<instance id="d000.s027.t005" lemma="combination" pos="NOUN">combination</instance>
+			<wf pos="X">with</wf>
+			<instance id="d000.s027.t006" lemma="cisplatin" pos="NOUN">cisplatin</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">in</wf>
+			<wf pos="X">a</wf>
+			<instance id="d000.s027.t007" lemma="study" pos="NOUN">study</instance>
+			<instance id="d000.s027.t008" lemma="involve" pos="VERB">involving</instance>
+			<wf pos="X">1,725</wf>
+			<instance id="d000.s027.t009" lemma="patient" pos="NOUN">patients</instance>
+			<wf pos="X">who</wf>
+			<wf lemma="have" pos="VERB">had</wf>
+			<instance id="d000.s027.t010" lemma="not" pos="ADV">not</instance>
+			<instance id="d000.s027.t011" lemma="receive" pos="VERB">received</instance>
+			<instance id="d000.s027.t012" lemma="chemotherapy" pos="NOUN">chemotherapy</instance>
+			<wf pos="X">for</wf>
+			<instance id="d000.s027.t013" lemma="lung" pos="NOUN">lung</instance>
+			<instance id="d000.s027.t014" lemma="cancer" pos="NOUN">cancer</instance>
+			<wf pos="X">in</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s027.t015" lemma="past" pos="NOUN">past</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s028" source="semeval2015-en">
+			<wf pos="X">In</wf>
+			<wf pos="X">all</wf>
+			<wf pos="X">three</wf>
+			<instance id="d000.s028.t000" lemma="study" pos="NOUN">studies</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s028.t001" lemma="main" pos="ADJ">main</instance>
+			<instance id="d000.s028.t002" lemma="measure" pos="NOUN">measure</instance>
+			<wf pos="X">of</wf>
+			<instance id="d000.s028.t003" lemma="effectiveness" pos="NOUN">effectiveness</instance>
+			<wf lemma="be" pos="VERB">was</wf>
+			<wf pos="X">how</wf>
+			<instance id="d000.s028.t004" lemma="long" pos="ADV">long</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s028.t005" lemma="patient" pos="NOUN">patients</instance>
+			<instance id="d000.s028.t006" lemma="survive" pos="VERB">survived</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s029" source="semeval2015-en">
+			<wf pos="X">What</wf>
+			<instance id="d000.s029.t000" lemma="benefit" pos="NOUN">benefit</instance>
+			<wf lemma="have" pos="VERB">has</wf>
+			<wf lemma="alimta" pos="NOUN">Alimta</wf>
+			<instance id="d000.s029.t001" lemma="show" pos="VERB">shown</instance>
+			<wf pos="X">during</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s029.t002" lemma="study" pos="NOUN">studies</instance>
+			<wf pos="X">?</wf>
+		</sentence>
+		<sentence id="d000.s030" source="semeval2015-en">
+			<wf lemma="alimta" pos="NOUN">Alimta</wf>
+			<instance id="d000.s030.t000" lemma="increase" pos="VERB">increased</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s030.t001" lemma="survival" pos="NOUN">survival</instance>
+			<instance id="d000.s030.t002" lemma="time" pos="NOUN">time</instance>
+			<wf pos="X">of</wf>
+			<instance id="d000.s030.t003" lemma="patient" pos="NOUN">patients</instance>
+			<wf pos="X">with</wf>
+			<instance id="d000.s030.t004" lemma="malignant" pos="ADJ">malignant</instance>
+			<instance id="d000.s030.t005" lemma="pleural" pos="ADJ">pleural</instance>
+			<instance id="d000.s030.t006" lemma="mesothelioma" pos="NOUN">mesothelioma</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s031" source="semeval2015-en">
+			<instance id="d000.s031.t000" lemma="patient" pos="NOUN">Patients</instance>
+			<instance id="d000.s031.t001" lemma="receive" pos="VERB">receiving</instance>
+			<wf lemma="alimta" pos="NOUN">Alimta</wf>
+			<wf pos="X">and</wf>
+			<instance id="d000.s031.t002" lemma="cisplatin" pos="NOUN">cisplatin</instance>
+			<instance id="d000.s031.t003" lemma="survive" pos="VERB">survived</instance>
+			<wf pos="X">for</wf>
+			<wf pos="X">an</wf>
+			<instance id="d000.s031.t004" lemma="average" pos="NOUN">average</instance>
+			<wf pos="X">of</wf>
+			<wf pos="X">12.1</wf>
+			<instance id="d000.s031.t005" lemma="month" pos="NOUN">months</instance>
+			<wf pos="X">,</wf>
+			<instance id="d000.s031.t006" lemma="compare" pos="VERB">compared</instance>
+			<wf pos="X">with</wf>
+			<wf pos="X">9.3</wf>
+			<instance id="d000.s031.t007" lemma="month" pos="NOUN">months</instance>
+			<wf pos="X">in</wf>
+			<wf pos="X">those</wf>
+			<wf lemma="receive" pos="VERB">receiving</wf>
+			<instance id="d000.s031.t008" lemma="cisplatin" pos="NOUN">cisplatin</instance>
+			<instance id="d000.s031.t009" lemma="alone" pos="ADV">alone</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s032" source="semeval2015-en">
+			<wf pos="X">In</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s032.t000" lemma="treatment" pos="NOUN">treatment</instance>
+			<wf pos="X">of</wf>
+			<instance id="d000.s032.t001" lemma="patient" pos="NOUN">patients</instance>
+			<wf pos="X">with</wf>
+			<instance id="d000.s032.t002" lemma="non-small" pos="ADJ">non-small</instance>
+			<instance id="d000.s032.t003" lemma="cell" pos="NOUN">cell</instance>
+			<instance id="d000.s032.t004" lemma="lung" pos="NOUN">lung</instance>
+			<instance id="d000.s032.t005" lemma="cancer" pos="NOUN">cancer</instance>
+			<wf pos="X">,</wf>
+			<wf lemma="alimta" pos="NOUN">Alimta</wf>
+			<wf lemma="be" pos="VERB">was</wf>
+			<instance id="d000.s032.t006" lemma="as" pos="ADV">as</instance>
+			<instance id="d000.s032.t007" lemma="effective" pos="ADJ">effective</instance>
+			<instance id="d000.s032.t008" lemma="as" pos="ADV">as</instance>
+			<wf pos="X">the</wf>
+			<wf lemma="comparator" pos="NOUN">comparators</wf>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s033" source="semeval2015-en">
+			<wf pos="X">In</wf>
+			<instance id="d000.s033.t000" lemma="patient" pos="NOUN">patients</instance>
+			<wf pos="X">who</wf>
+			<wf lemma="have" pos="VERB">had</wf>
+			<instance id="d000.s033.t001" lemma="receive" pos="VERB">received</instance>
+			<instance id="d000.s033.t002" lemma="chemotherapy" pos="NOUN">chemotherapy</instance>
+			<wf pos="X">in</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s033.t003" lemma="past" pos="NOUN">past</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s033.t004" lemma="average" pos="ADJ">average</instance>
+			<instance id="d000.s033.t005" lemma="survival" pos="NOUN">survival</instance>
+			<instance id="d000.s033.t006" lemma="time" pos="NOUN">time</instance>
+			<wf lemma="be" pos="VERB">was</wf>
+			<wf pos="X">8.3</wf>
+			<instance id="d000.s033.t007" lemma="month" pos="NOUN">months</instance>
+			<wf pos="X">with</wf>
+			<wf lemma="alimta" pos="NOUN">Alimta</wf>
+			<wf pos="X">,</wf>
+			<instance id="d000.s033.t008" lemma="compare" pos="VERB">compared</instance>
+			<wf pos="X">with</wf>
+			<wf pos="X">7.9</wf>
+			<instance id="d000.s033.t009" lemma="month" pos="NOUN">months</instance>
+			<wf pos="X">with</wf>
+			<instance id="d000.s033.t010" lemma="docetaxel" pos="NOUN">docetaxel</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s034" source="semeval2015-en">
+			<wf pos="X">In</wf>
+			<instance id="d000.s034.t000" lemma="patient" pos="NOUN">patients</instance>
+			<wf pos="X">who</wf>
+			<wf lemma="have" pos="VERB">had</wf>
+			<instance id="d000.s034.t001" lemma="not" pos="ADV">not</instance>
+			<instance id="d000.s034.t002" lemma="receive" pos="VERB">received</instance>
+			<instance id="d000.s034.t003" lemma="chemotherapy" pos="NOUN">chemotherapy</instance>
+			<wf pos="X">in</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s034.t004" lemma="past" pos="NOUN">past</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s034.t005" lemma="average" pos="ADJ">average</instance>
+			<instance id="d000.s034.t006" lemma="survival" pos="NOUN">survival</instance>
+			<instance id="d000.s034.t007" lemma="time" pos="NOUN">time</instance>
+			<wf lemma="be" pos="VERB">was</wf>
+			<wf pos="X">10.3</wf>
+			<instance id="d000.s034.t008" lemma="month" pos="NOUN">months</instance>
+			<wf pos="X">in</wf>
+			<wf pos="X">both</wf>
+			<instance id="d000.s034.t009" lemma="group" pos="NOUN">groups</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s035" source="semeval2015-en">
+			<instance id="d000.s035.t000" lemma="however" pos="ADV">However</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">in</wf>
+			<wf pos="X">both</wf>
+			<instance id="d000.s035.t001" lemma="study" pos="NOUN">studies</instance>
+			<wf pos="X">,</wf>
+			<instance id="d000.s035.t002" lemma="patient" pos="NOUN">patients</instance>
+			<wf pos="X">whose</wf>
+			<instance id="d000.s035.t003" lemma="cancer" pos="NOUN">cancer</instance>
+			<wf lemma="be" pos="VERB">was</wf>
+			<instance id="d000.s035.t004" lemma="not" pos="ADV">not</instance>
+			<instance id="d000.s035.t005" lemma="affect" pos="VERB">affecting</instance>
+			<instance id="d000.s035.t006" lemma="squamous" pos="ADJ">squamous</instance>
+			<instance id="d000.s035.t007" lemma="cell" pos="NOUN">cells</instance>
+			<instance id="d000.s035.t008" lemma="have" pos="VERB">had</instance>
+			<instance id="d000.s035.t009" lemma="long" pos="ADJ">longer</instance>
+			<instance id="d000.s035.t010" lemma="survival" pos="NOUN">survival</instance>
+			<instance id="d000.s035.t011" lemma="time" pos="NOUN">times</instance>
+			<wf pos="X">if</wf>
+			<wf pos="X">they</wf>
+			<wf lemma="receive" pos="VERB">received</wf>
+			<wf lemma="alimta" pos="NOUN">Alimta</wf>
+			<wf pos="X">than</wf>
+			<wf pos="X">if</wf>
+			<wf pos="X">they</wf>
+			<wf lemma="receive" pos="VERB">received</wf>
+			<wf pos="X">the</wf>
+			<wf lemma="comparator" pos="NOUN">comparator</wf>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s036" source="semeval2015-en">
+			<wf pos="X">In</wf>
+			<instance id="d000.s036.t000" lemma="contrast" pos="NOUN">contrast</instance>
+			<wf pos="X">,</wf>
+			<instance id="d000.s036.t001" lemma="patient" pos="NOUN">patients</instance>
+			<wf pos="X">whose</wf>
+			<instance id="d000.s036.t002" lemma="cancer" pos="NOUN">cancer</instance>
+			<wf lemma="be" pos="VERB">was</wf>
+			<instance id="d000.s036.t003" lemma="affect" pos="VERB">affecting</instance>
+			<instance id="d000.s036.t004" lemma="squamous" pos="ADJ">squamous</instance>
+			<instance id="d000.s036.t005" lemma="cell" pos="NOUN">cells</instance>
+			<instance id="d000.s036.t006" lemma="have" pos="VERB">had</instance>
+			<instance id="d000.s036.t007" lemma="short" pos="ADJ">shorter</instance>
+			<instance id="d000.s036.t008" lemma="survival" pos="NOUN">survival</instance>
+			<instance id="d000.s036.t009" lemma="time" pos="NOUN">times</instance>
+			<wf pos="X">if</wf>
+			<wf pos="X">they</wf>
+			<wf lemma="receive" pos="VERB">received</wf>
+			<wf lemma="alimta" pos="NOUN">Alimta</wf>
+			<wf pos="X">.</wf>
+			<wf lemma="kalgebra" pos="NOUN">kalgebra</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<wf pos="X">a</wf>
+			<instance id="d000.s036.t010" lemma="mathematical" pos="ADJ">mathematical</instance>
+			<instance id="d000.s036.t011" lemma="calculator" pos="NOUN">calculator</instance>
+			<instance id="d000.s036.t012" lemma="base" pos="VERB">based</instance>
+			<wf pos="X">on</wf>
+			<wf lemma="content" pos="ADJ">content</wf>
+			<instance id="d000.s036.t013" lemma="markup" pos="NOUN">markup</instance>
+			<wf lemma="mathml" pos="NOUN">MathML</wf>
+			<instance id="d000.s036.t014" lemma="language" pos="NOUN">language</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s037" source="semeval2015-en">
+			<instance id="d000.s037.t000" lemma="nowadays" pos="ADV">Nowadays</instance>
+			<wf pos="X">it</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<instance id="d000.s037.t001" lemma="capable" pos="ADJ">capable</instance>
+			<wf pos="X">to</wf>
+			<instance id="d000.s037.t002" lemma="make" pos="VERB">make</instance>
+			<instance id="d000.s037.t003" lemma="simple" pos="ADJ">simple</instance>
+			<wf lemma="mathml" pos="NOUN">MathML</wf>
+			<instance id="d000.s037.t004" lemma="operation" pos="NOUN">operations</instance>
+			<wf pos="X">(</wf>
+			<instance id="d000.s037.t005" lemma="arithmetic" pos="ADJ">arithmetic</instance>
+			<wf pos="X">and</wf>
+			<wf lemma="logical" pos="ADJ">logical</wf>
+			<wf pos="X">)</wf>
+			<wf pos="X">and</wf>
+			<wf pos="X">to</wf>
+			<wf lemma="representate" pos="NOUN">representate</wf>
+			<wf lemma="2d" pos="NOUN">2D</wf>
+			<wf pos="X">and</wf>
+			<instance id="d000.s037.t006" lemma="3d" pos="NOUN">3D</instance>
+			<instance id="d000.s037.t007" lemma="graph" pos="NOUN">graphs</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s038" source="semeval2015-en">
+			<wf pos="X">It</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<instance id="d000.s038.t000" lemma="actually" pos="ADV">actually</instance>
+			<instance id="d000.s038.t001" lemma="not" pos="ADV">not</instance>
+			<instance id="d000.s038.t002" lemma="necessary" pos="ADJ">necessary</instance>
+			<wf pos="X">to</wf>
+			<instance id="d000.s038.t003" lemma="know" pos="VERB">know</instance>
+			<wf lemma="mathml" pos="NOUN">MathML</wf>
+			<wf pos="X">to</wf>
+			<instance id="d000.s038.t004" lemma="use" pos="VERB">use</instance>
+			<wf lemma="kalgebra" pos="NOUN">kalgebra</wf>
+			<wf pos="X">.</wf>
+			<wf lemma="kalgebra" pos="NOUN">kalgebra</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<wf pos="X">a</wf>
+			<wf lemma="mathml" pos="NOUN">MathML</wf>
+			<instance id="d000.s038.t005" lemma="base" pos="VERB">based</instance>
+			<instance id="d000.s038.t006" lemma="graph" pos="NOUN">graph</instance>
+			<instance id="d000.s038.t007" lemma="calculator" pos="NOUN">calculator</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s039" source="semeval2015-en">
+			<wf pos="X">Although</wf>
+			<wf pos="X">it</wf>
+			<wf lemma="be" pos="VERB">was</wf>
+			<instance id="d000.s039.t000" lemma="initially" pos="ADV">initially</instance>
+			<wf lemma="mathml" pos="NOUN">MathML</wf>
+			<instance id="d000.s039.t001" lemma="orient" pos="VERB">oriented</instance>
+			<wf pos="X">it</wf>
+			<wf pos="X">can</wf>
+			<instance id="d000.s039.t002" lemma="now" pos="ADV">now</instance>
+			<wf lemma="be" pos="VERB">be</wf>
+			<instance id="d000.s039.t003" lemma="use" pos="VERB">used</instance>
+			<wf pos="X">by</wf>
+			<wf lemma="everyone" pos="NOUN">everyone</wf>
+			<wf pos="X">with</wf>
+			<instance id="d000.s039.t004" lemma="little" pos="ADJ">little</instance>
+			<instance id="d000.s039.t005" lemma="mathematical" pos="ADJ">mathematical</instance>
+			<instance id="d000.s039.t006" lemma="knowledge" pos="NOUN">knowledge</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s040" source="semeval2015-en">
+			<instance id="d000.s040.t000" lemma="here" pos="ADV">Here</instance>
+			<wf lemma="be" pos="VERB">'s</wf>
+			<wf pos="X">a</wf>
+			<instance id="d000.s040.t001" lemma="screenshot" pos="NOUN">screenshot</instance>
+			<wf pos="X">of</wf>
+			<wf lemma="kalgebra" pos="NOUN">kalgebra</wf>
+			<instance id="d000.s040.t002" lemma="main" pos="ADJ">main</instance>
+			<instance id="d000.s040.t003" lemma="window" pos="NOUN">window</instance>
+			<wf lemma="kalgebra" pos="NOUN">kalgebra</wf>
+			<instance id="d000.s040.t004" lemma="main" pos="ADJ">main</instance>
+			<instance id="d000.s040.t005" lemma="window" pos="NOUN">window</instance>
+			<wf lemma="kalgebra" pos="NOUN">kalgebra</wf>
+			<instance id="d000.s040.t006" lemma="main" pos="ADJ">main</instance>
+			<instance id="d000.s040.t007" lemma="window" pos="NOUN">window</instance>
+			<instance id="d000.s040.t008" lemma="consist" pos="VERB">consists</instance>
+			<wf pos="X">in</wf>
+			<wf pos="X">a</wf>
+			<instance id="d000.s040.t009" lemma="console" pos="NOUN">Console</instance>
+			<instance id="d000.s040.t010" lemma="tab" pos="NOUN">tab</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">a</wf>
+			<wf lemma="2d" pos="NOUN">2D</wf>
+			<instance id="d000.s040.t011" lemma="graph" pos="NOUN">Graph</instance>
+			<instance id="d000.s040.t012" lemma="tab" pos="NOUN">tab</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">a</wf>
+			<instance id="d000.s040.t013" lemma="3d" pos="NOUN">3D</instance>
+			<instance id="d000.s040.t014" lemma="graph" pos="NOUN">Graph</instance>
+			<instance id="d000.s040.t015" lemma="tab" pos="NOUN">tab</instance>
+			<wf pos="X">and</wf>
+			<wf pos="X">a</wf>
+			<instance id="d000.s040.t016" lemma="dictionary" pos="NOUN">Dictionary</instance>
+			<instance id="d000.s040.t017" lemma="tab" pos="NOUN">tab</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s041" source="semeval2015-en">
+			<instance id="d000.s041.t000" lemma="below" pos="ADV">Below</instance>
+			<wf pos="X">these</wf>
+			<instance id="d000.s041.t001" lemma="tab" pos="NOUN">tabs</instance>
+			<wf pos="X">you</wf>
+			<wf pos="X">will</wf>
+			<instance id="d000.s041.t002" lemma="find" pos="VERB">find</instance>
+			<wf pos="X">an</wf>
+			<instance id="d000.s041.t003" lemma="input" pos="NOUN">input</instance>
+			<instance id="d000.s041.t004" lemma="field" pos="NOUN">field</instance>
+			<wf pos="X">to</wf>
+			<instance id="d000.s041.t005" lemma="type" pos="VERB">type</instance>
+			<wf pos="X">your</wf>
+			<instance id="d000.s041.t006" lemma="function" pos="NOUN">functions</instance>
+			<wf pos="X">or</wf>
+			<instance id="d000.s041.t007" lemma="do" pos="VERB">do</instance>
+			<wf pos="X">your</wf>
+			<instance id="d000.s041.t008" lemma="calculation" pos="NOUN">calculations</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s042" source="semeval2015-en">
+			<wf pos="X">If</wf>
+			<wf pos="X">we</wf>
+			<instance id="d000.s042.t000" lemma="want" pos="VERB">want</instance>
+			<wf pos="X">to</wf>
+			<instance id="d000.s042.t001" lemma="understand" pos="VERB">understand</instance>
+			<wf pos="X">how</wf>
+			<wf pos="X">it</wf>
+			<instance id="d000.s042.t002" lemma="work" pos="VERB">works</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s042.t003" lemma="good" pos="ADJ">best</instance>
+			<instance id="d000.s042.t004" lemma="thing" pos="NOUN">thing</instance>
+			<wf pos="X">we</wf>
+			<wf pos="X">can</wf>
+			<instance id="d000.s042.t005" lemma="do" pos="VERB">do</instance>
+			<wf lemma="be" pos="VERB">is</wf>
+			<wf pos="X">to</wf>
+			<instance id="d000.s042.t006" lemma="realize" pos="VERB">realize</instance>
+			<wf pos="X">that</wf>
+			<wf pos="X">our</wf>
+			<instance id="d000.s042.t007" lemma="input" pos="NOUN">input</instance>
+			<wf lemma="be" pos="VERB">is</wf>
+			<wf lemma="be" pos="VERB">being</wf>
+			<instance id="d000.s042.t008" lemma="convert" pos="VERB">converted</instance>
+			<wf pos="X">into</wf>
+			<wf lemma="mathml" pos="NOUN">MathML</wf>
+			<wf pos="X">although</wf>
+			<wf pos="X">it</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<instance id="d000.s042.t009" lemma="not" pos="ADV">not</instance>
+			<instance id="d000.s042.t010" lemma="necessary" pos="ADJ">necessary</instance>
+			<wf pos="X">to</wf>
+			<instance id="d000.s042.t011" lemma="know" pos="VERB">know</instance>
+			<wf lemma="mathml" pos="NOUN">MathML</wf>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s043" source="semeval2015-en">
+			<wf pos="X">I</wf>
+			<wf lemma="have" pos="VERB">have</wf>
+			<instance id="d000.s043.t000" lemma="base" pos="VERB">based</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s043.t001" lemma="syntax" pos="NOUN">syntax</instance>
+			<instance id="d000.s043.t002" lemma="basically" pos="ADV">basically</instance>
+			<wf pos="X">on</wf>
+			<instance id="d000.s043.t003" lemma="common" pos="ADJ">common</instance>
+			<instance id="d000.s043.t004" lemma="sense" pos="NOUN">sense</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">it</wf>
+			<wf pos="X">should</wf>
+			<instance id="d000.s043.t005" lemma="not" pos="ADV">not</instance>
+			<wf lemma="be" pos="VERB">be</wf>
+			<instance id="d000.s043.t006" lemma="hard" pos="ADJ">hard</instance>
+			<wf pos="X">for</wf>
+			<instance id="d000.s043.t007" lemma="anyone" pos="NOUN">anyone</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s044" source="semeval2015-en">
+			<wf pos="X">I</wf>
+			<wf lemma="have" pos="VERB">ve</wf>
+			<instance id="d000.s044.t000" lemma="look" pos="VERB">looked</instance>
+			<instance id="d000.s044.t001" lemma="closely" pos="ADV">closely</instance>
+			<wf pos="X">to</wf>
+			<wf lemma="maxima" pos="NOUN">maxima</wf>
+			<wf pos="X">and</wf>
+			<wf lemma="maple" pos="NOUN">maple</wf>
+			<wf pos="X">s</wf>
+			<instance id="d000.s044.t002" lemma="syntax" pos="NOUN">syntax</instance>
+			<wf pos="X">so</wf>
+			<wf pos="X">they</wf>
+			<instance id="d000.s044.t003" lemma="look" pos="VERB">look</instance>
+			<instance id="d000.s044.t004" lemma="very" pos="ADV">very</instance>
+			<instance id="d000.s044.t005" lemma="similar" pos="ADJ">similar</instance>
+			<wf pos="X">.</wf>
+			<wf pos="X">+</wf>
+			<wf pos="X">-</wf>
+			<wf pos="X">*</wf>
+			<wf pos="X">/</wf>
+			<wf pos="X">:</wf>
+			<instance id="d000.s044.t006" lemma="addition" pos="NOUN">Addition</instance>
+			<wf pos="X">,</wf>
+			<instance id="d000.s044.t007" lemma="subtraction" pos="NOUN">subtraction</instance>
+			<wf pos="X">,</wf>
+			<instance id="d000.s044.t008" lemma="multiplication" pos="NOUN">multiplication</instance>
+			<wf pos="X">and</wf>
+			<instance id="d000.s044.t009" lemma="division" pos="NOUN">division</instance>
+			<wf pos="X">.</wf>
+			<wf pos="X">^</wf>
+			<wf pos="X">,</wf>
+			<wf pos="X">**</wf>
+			<wf pos="X">:</wf>
+			<instance id="d000.s044.t010" lemma="power" pos="NOUN">Power</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">you</wf>
+			<wf pos="X">can</wf>
+			<instance id="d000.s044.t011" lemma="use" pos="VERB">use</instance>
+			<wf pos="X">them</wf>
+			<wf pos="X">both</wf>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s045" source="semeval2015-en">
+			<instance id="d000.s045.t000" lemma="also" pos="ADV">Also</instance>
+			<wf pos="X">it</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<instance id="d000.s045.t001" lemma="possible" pos="ADJ">possible</instance>
+			<wf pos="X">to</wf>
+			<instance id="d000.s045.t002" lemma="use" pos="VERB">use</instance>
+			<wf pos="X">the</wf>
+			<wf lemma="unicode" pos="NOUN">unicode</wf>
+			<wf pos="X">²</wf>
+			<instance id="d000.s045.t003" lemma="character" pos="NOUN">characters</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s046" source="semeval2015-en">
+			<instance id="d000.s046.t000" lemma="power" pos="NOUN">Powers</instance>
+			<wf lemma="be" pos="VERB">are</wf>
+			<wf pos="X">one</wf>
+			<instance id="d000.s046.t001" lemma="way" pos="NOUN">way</instance>
+			<wf pos="X">to</wf>
+			<instance id="d000.s046.t002" lemma="make" pos="VERB">make</instance>
+			<instance id="d000.s046.t003" lemma="root" pos="NOUN">roots</instance>
+			<instance id="d000.s046.t004" lemma="too" pos="ADV">too</instance>
+			<wf pos="X">.</wf>
+			<wf lemma="-gt" pos="NOUN">-gt</wf>
+			<wf pos="X">:</wf>
+			<wf pos="X">It</wf>
+			<wf lemma="be" pos="VERB">s</wf>
+			<instance id="d000.s046.t005" lemma="" pos="X">the</instance>
+			<instance id="d000.s046.t006" lemma="way" pos="NOUN">way</instance>
+			<wf pos="X">to</wf>
+			<instance id="d000.s046.t007" lemma="specify" pos="VERB">specify</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s046.t008" lemma="bound" pos="VERB">bounded</instance>
+			<instance id="d000.s046.t009" lemma="variable" pos="NOUN">variable</instance>
+			<wf pos="X">in</wf>
+			<wf pos="X">a</wf>
+			<instance id="d000.s046.t010" lemma="function" pos="NOUN">function</instance>
+			<wf pos="X">.</wf>
+			<wf pos="X">(</wf>
+			<wf pos="X">)</wf>
+			<wf pos="X">:</wf>
+			<wf pos="X">It</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<instance id="d000.s046.t011" lemma="use" pos="VERB">used</instance>
+			<wf pos="X">to</wf>
+			<instance id="d000.s046.t012" lemma="specify" pos="VERB">specify</instance>
+			<wf pos="X">a</wf>
+			<instance id="d000.s046.t013" lemma="high" pos="ADJ">higher</instance>
+			<instance id="d000.s046.t014" lemma="priority" pos="NOUN">priority</instance>
+			<wf pos="X">.</wf>
+			<wf pos="X">abc(params)</wf>
+			<wf pos="X">:</wf>
+			<wf pos="X">When</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s046.t015" lemma="parser" pos="NOUN">parser</instance>
+			<instance id="d000.s046.t016" lemma="find" pos="VERB">finds</instance>
+			<wf pos="X">a</wf>
+			<instance id="d000.s046.t017" lemma="function" pos="NOUN">function</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">it</wf>
+			<instance id="d000.s046.t018" lemma="check" pos="VERB">checks</instance>
+			<wf pos="X">if</wf>
+			<wf lemma="abc" pos="NOUN">abc</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<wf pos="X">an</wf>
+			<instance id="d000.s046.t019" lemma="operator" pos="NOUN">operator</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s047" source="semeval2015-en">
+			<wf pos="X">If</wf>
+			<wf pos="X">it</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<wf pos="X">,</wf>
+			<wf pos="X">it</wf>
+			<wf pos="X">will</wf>
+			<wf lemma="be" pos="VERB">be</wf>
+			<instance id="d000.s047.t000" lemma="treat" pos="VERB">treated</instance>
+			<wf pos="X">as</wf>
+			<wf pos="X">an</wf>
+			<instance id="d000.s047.t001" lemma="operator" pos="NOUN">operator</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">if</wf>
+			<wf pos="X">it</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<instance id="d000.s047.t002" lemma="not" pos="ADV">not</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">it</wf>
+			<wf pos="X">will</wf>
+			<wf lemma="be" pos="VERB">be</wf>
+			<instance id="d000.s047.t003" lemma="treat" pos="VERB">treated</instance>
+			<wf pos="X">as</wf>
+			<wf pos="X">a</wf>
+			<instance id="d000.s047.t004" lemma="user" pos="NOUN">user</instance>
+			<instance id="d000.s047.t005" lemma="function" pos="NOUN">function</instance>
+			<wf pos="X">.</wf>
+			<wf pos="X">:</wf>
+			<wf pos="X">=</wf>
+			<wf pos="X">:</wf>
+			<wf pos="X">It</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<instance id="d000.s047.t006" lemma="use" pos="VERB">used</instance>
+			<wf pos="X">to</wf>
+			<instance id="d000.s047.t007" lemma="define" pos="VERB">define</instance>
+			<wf pos="X">a</wf>
+			<wf lemma="variable" pos="ADJ">variable</wf>
+			<instance id="d000.s047.t008" lemma="value" pos="NOUN">value</instance>
+			<wf pos="X">.</wf>
+			<wf pos="X">?</wf>
+			<wf pos="X">:</wf>
+			<instance id="d000.s047.t009" lemma="piecewise" pos="NOUN">Piecewise</instance>
+			<instance id="d000.s047.t010" lemma="condition" pos="NOUN">condition</instance>
+			<instance id="d000.s047.t011" lemma="definition" pos="NOUN">definition</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s048" source="semeval2015-en">
+			<instance id="d000.s048.t000" lemma="piecewise" pos="NOUN">Piecewise</instance>
+			<wf lemma="be" pos="VERB">is</wf>
+			<instance id="d000.s048.t001" lemma="" pos="X">the</instance>
+			<instance id="d000.s048.t002" lemma="way" pos="NOUN">way</instance>
+			<wf pos="X">we</wf>
+			<wf pos="X">can</wf>
+			<instance id="d000.s048.t003" lemma="define" pos="VERB">define</instance>
+			<instance id="d000.s048.t004" lemma="conditional" pos="ADJ">conditional</instance>
+			<instance id="d000.s048.t005" lemma="operation" pos="NOUN">operations</instance>
+			<wf pos="X">in</wf>
+			<wf lemma="kalgebra" pos="NOUN">kalgebra</wf>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s049" source="semeval2015-en">
+			<wf pos="X">If</wf>
+			<wf pos="X">we</wf>
+			<instance id="d000.s049.t000" lemma="introduce" pos="VERB">introduce</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s049.t001" lemma="condition" pos="NOUN">condition</instance>
+			<wf pos="X">before</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s049.t002" lemma="?" pos="NOUN">?</instance>
+			<wf pos="X">it</wf>
+			<wf pos="X">will</wf>
+			<instance id="d000.s049.t003" lemma="use" pos="VERB">use</instance>
+			<wf pos="X">this</wf>
+			<instance id="d000.s049.t004" lemma="condition" pos="NOUN">condition</instance>
+			<instance id="d000.s049.t005" lemma="only" pos="ADV">only</instance>
+			<wf pos="X">if</wf>
+			<wf pos="X">it</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<instance id="d000.s049.t006" lemma="true" pos="ADJ">true</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">if</wf>
+			<wf pos="X">it</wf>
+			<instance id="d000.s049.t007" lemma="find" pos="VERB">finds</instance>
+			<wf pos="X">a</wf>
+			<instance id="d000.s049.t008" lemma="?" pos="NOUN">?</instance>
+			<wf pos="X">without</wf>
+			<wf pos="X">any</wf>
+			<instance id="d000.s049.t009" lemma="condition" pos="NOUN">condition</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">it</wf>
+			<wf pos="X">will</wf>
+			<instance id="d000.s049.t010" lemma="enter" pos="VERB">enter</instance>
+			<wf pos="X">in</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s049.t011" lemma="last" pos="ADJ">last</instance>
+			<instance id="d000.s049.t012" lemma="instance" pos="NOUN">instance</instance>
+			<wf pos="X">.</wf>
+			<wf pos="X">{</wf>
+			<wf pos="X">}</wf>
+			<wf pos="X">:</wf>
+			<wf lemma="mathml" pos="NOUN">MathML</wf>
+			<instance id="d000.s049.t013" lemma="container" pos="NOUN">container</instance>
+			<wf pos="X">.</wf>
+			<wf pos="X">It</wf>
+			<wf pos="X">can</wf>
+			<wf lemma="be" pos="VERB">be</wf>
+			<instance id="d000.s049.t014" lemma="use" pos="VERB">used</instance>
+			<wf pos="X">to</wf>
+			<instance id="d000.s049.t015" lemma="define" pos="VERB">define</instance>
+			<wf pos="X">a</wf>
+			<instance id="d000.s049.t016" lemma="container" pos="NOUN">container</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s050" source="semeval2015-en">
+			<instance id="d000.s050.t000" lemma="mainly" pos="ADV">Mainly</instance>
+			<instance id="d000.s050.t001" lemma="useful" pos="ADJ">useful</instance>
+			<wf pos="X">for</wf>
+			<instance id="d000.s050.t002" lemma="work" pos="VERB">working</instance>
+			<wf pos="X">with</wf>
+			<instance id="d000.s050.t003" lemma="piecewise" pos="NOUN">piecewise</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s051" source="semeval2015-en">
+			<instance id="d000.s051.t000" lemma="now" pos="ADV">Now</instance>
+			<wf pos="X">you</wf>
+			<wf pos="X">could</wf>
+			<instance id="d000.s051.t001" lemma="ask" pos="VERB">ask</instance>
+			<wf lemma="me" pos="NOUN">me</wf>
+			<wf pos="X">,</wf>
+			<wf pos="X">why</wf>
+			<wf pos="X">should</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s051.t002" lemma="user" pos="NOUN">user</instance>
+			<wf lemma="mind" pos="NOUN">mind</wf>
+			<wf pos="X">about</wf>
+			<wf lemma="mathml" pos="NOUN">MathML</wf>
+			<wf pos="X">?</wf>
+			<wf pos="X">That</wf>
+			<wf lemma="be" pos="VERB">s</wf>
+			<instance id="d000.s051.t003" lemma="easy" pos="ADJ">easy</instance>
+			<wf pos="X">.</wf>
+			<wf pos="X">With</wf>
+			<wf pos="X">this</wf>
+			<wf pos="X">,</wf>
+			<wf pos="X">we</wf>
+			<wf pos="X">can</wf>
+			<instance id="d000.s051.t004" lemma="operate" pos="VERB">operate</instance>
+			<wf pos="X">with</wf>
+			<instance id="d000.s051.t005" lemma="function" pos="NOUN">functions</instance>
+			<wf pos="X">like</wf>
+			<instance id="d000.s051.t006" lemma="cos" pos="NOUN">cos()</instance>
+			<wf pos="X">,</wf>
+			<instance id="d000.s051.t007" lemma="sin" pos="NOUN">sin()</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">any</wf>
+			<instance id="d000.s051.t008" lemma="other" pos="ADJ">other</instance>
+			<instance id="d000.s051.t009" lemma="trigonometric" pos="ADJ">trigonometric</instance>
+			<instance id="d000.s051.t010" lemma="function" pos="NOUN">functions</instance>
+			<wf pos="X">,</wf>
+			<instance id="d000.s051.t011" lemma="sum" pos="NOUN">sum()</instance>
+			<wf pos="X">or</wf>
+			<instance id="d000.s051.t012" lemma="product" pos="NOUN">product()</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s052" source="semeval2015-en">
+			<wf pos="X">It</wf>
+			<wf lemma="do" pos="VERB">does</wf>
+			<instance id="d000.s052.t000" lemma="not" pos="ADV">not</instance>
+			<instance id="d000.s052.t001" lemma="matter" pos="VERB">matter</instance>
+			<wf pos="X">what</wf>
+			<instance id="d000.s052.t002" lemma="kind" pos="NOUN">kind</instance>
+			<wf pos="X">it</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s053" source="semeval2015-en">
+			<wf pos="X">We</wf>
+			<wf pos="X">can</wf>
+			<instance id="d000.s053.t000" lemma="use" pos="VERB">use</instance>
+			<instance id="d000.s053.t001" lemma="plus" pos="NOUN">plus()</instance>
+			<wf pos="X">,</wf>
+			<instance id="d000.s053.t002" lemma="times" pos="NOUN">times()</instance>
+			<wf pos="X">and</wf>
+			<wf lemma="everything" pos="NOUN">everything</wf>
+			<wf pos="X">which</wf>
+			<instance id="d000.s053.t003" lemma="have" pos="VERB">has</instance>
+			<wf pos="X">its</wf>
+			<instance id="d000.s053.t004" lemma="operator" pos="NOUN">operator</instance>
+			<wf pos="X">.</wf>
+			<wf lemma="kalgebra" pos="NOUN">kalgebra</wf>
+			<wf lemma="be" pos="VERB">'s</wf>
+			<wf lemma="console" pos="VERB">console</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<instance id="d000.s053.t005" lemma="useful" pos="ADJ">useful</instance>
+			<wf pos="X">as</wf>
+			<wf pos="X">a</wf>
+			<instance id="d000.s053.t006" lemma="calculator" pos="NOUN">calculator</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s054" source="semeval2015-en">
+			<instance id="d000.s054.t000" lemma="there" pos="ADV">There</instance>
+			<wf pos="X">you</wf>
+			<instance id="d000.s054.t001" lemma="have" pos="VERB">have</instance>
+			<wf pos="X">a</wf>
+			<instance id="d000.s054.t002" lemma="list" pos="NOUN">list</instance>
+			<wf pos="X">of</wf>
+			<wf pos="X">the</wf>
+			<wf lemma="declare" pos="VERB">declared</wf>
+			<instance id="d000.s054.t003" lemma="variable" pos="NOUN">variables</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s055" source="semeval2015-en">
+			<wf pos="X">By</wf>
+			<wf lemma="double" pos="ADV">double</wf>
+			<wf lemma="click" pos="VERB">clicking</wf>
+			<wf pos="X">on</wf>
+			<wf pos="X">them</wf>
+			<wf pos="X">you</wf>
+			<wf pos="X">will</wf>
+			<instance id="d000.s055.t000" lemma="see" pos="VERB">see</instance>
+			<wf pos="X">a</wf>
+			<wf lemma="dialog" pos="NOUN">dialog</wf>
+			<wf pos="X">that</wf>
+			<instance id="d000.s055.t001" lemma="let" pos="VERB">lets</instance>
+			<wf pos="X">you</wf>
+			<instance id="d000.s055.t002" lemma="change" pos="VERB">change</instance>
+			<wf pos="X">their</wf>
+			<instance id="d000.s055.t003" lemma="value" pos="NOUN">values</instance>
+			<wf pos="X">(</wf>
+			<instance id="d000.s055.t004" lemma="just" pos="ADV">just</instance>
+			<wf pos="X">a</wf>
+			<instance id="d000.s055.t005" lemma="way" pos="NOUN">way</instance>
+			<wf pos="X">to</wf>
+			<instance id="d000.s055.t006" lemma="trick" pos="VERB">trick</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s055.t007" lemma="log" pos="NOUN">log</instance>
+			<wf pos="X">)</wf>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s056" source="semeval2015-en">
+			<wf pos="X">Every</wf>
+			<instance id="d000.s056.t000" lemma="time" pos="NOUN">time</instance>
+			<wf pos="X">you</wf>
+			<instance id="d000.s056.t001" lemma="enter" pos="VERB">enter</instance>
+			<wf pos="X">an</wf>
+			<instance id="d000.s056.t002" lemma="expression" pos="NOUN">expression</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">the</wf>
+			<wf pos="X">"</wf>
+			<wf lemma="ans" pos="ADJ">ans</wf>
+			<wf pos="X">"</wf>
+			<instance id="d000.s056.t003" lemma="variable" pos="NOUN">variable</instance>
+			<instance id="d000.s056.t004" lemma="value" pos="NOUN">value</instance>
+			<wf pos="X">will</wf>
+			<wf lemma="be" pos="VERB">be</wf>
+			<instance id="d000.s056.t005" lemma="change" pos="VERB">changed</instance>
+			<wf pos="X">to</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s056.t006" lemma="last" pos="ADJ">last</instance>
+			<instance id="d000.s056.t007" lemma="result" pos="NOUN">result</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s057" source="semeval2015-en">
+			<instance id="d000.s057.t000" lemma="ctrl" pos="NOUN">Ctrl</instance>
+			<instance id="d000.s057.t001" lemma="n" pos="NOUN">N</instance>
+			<instance id="d000.s057.t002" lemma="new" pos="ADJ">New</instance>
+			<instance id="d000.s057.t003" lemma="window" pos="NOUN">Window</instance>
+		</sentence>
+		<sentence id="d000.s058" source="semeval2015-en">
+			<wf lemma="flush" pos="VERB">Flushes</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s058.t000" lemma="log" pos="NOUN">log</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s059" source="semeval2015-en">
+			<instance id="d000.s059.t000" lemma="ctrl" pos="NOUN">Ctrl</instance>
+			<instance id="d000.s059.t001" lemma="l" pos="NOUN">L</instance>
+			<instance id="d000.s059.t002" lemma="load" pos="VERB">Load</instance>
+			<wf lemma="script" pos="NOUN">Script</wf>
+		</sentence>
+		<sentence id="d000.s060" source="semeval2015-en">
+			<instance id="d000.s060.t000" lemma="execute" pos="VERB">Executes</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s060.t001" lemma="instruction" pos="NOUN">instructions</instance>
+			<wf pos="X">in</wf>
+			<wf pos="X">a</wf>
+			<instance id="d000.s060.t002" lemma="file" pos="NOUN">file</instance>
+			<instance id="d000.s060.t003" lemma="sequentially" pos="ADV">sequentially</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s061" source="semeval2015-en">
+			<instance id="d000.s061.t000" lemma="nice" pos="ADJ">Nice</instance>
+			<wf pos="X">if</wf>
+			<wf pos="X">you</wf>
+			<instance id="d000.s061.t001" lemma="want" pos="VERB">want</instance>
+			<wf pos="X">to</wf>
+			<instance id="d000.s061.t002" lemma="define" pos="VERB">define</instance>
+			<wf pos="X">some</wf>
+			<instance id="d000.s061.t003" lemma="library" pos="NOUN">libraries</instance>
+			<wf pos="X">or</wf>
+			<instance id="d000.s061.t004" lemma="resume" pos="VERB">resume</instance>
+			<wf pos="X">some</wf>
+			<instance id="d000.s061.t005" lemma="previous" pos="ADJ">previous</instance>
+			<instance id="d000.s061.t006" lemma="work" pos="NOUN">work</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s062" source="semeval2015-en">
+			<instance id="d000.s062.t000" lemma="ctrl" pos="NOUN">Ctrl</instance>
+			<instance id="d000.s062.t001" lemma="g" pos="NOUN">G</instance>
+			<instance id="d000.s062.t002" lemma="save" pos="VERB">Save</instance>
+			<wf lemma="script" pos="NOUN">Script</wf>
+		</sentence>
+		<sentence id="d000.s063" source="semeval2015-en">
+			<instance id="d000.s063.t000" lemma="save" pos="VERB">Saves</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s063.t001" lemma="instruction" pos="NOUN">instructions</instance>
+			<wf pos="X">you</wf>
+			<wf lemma="have" pos="VERB">have</wf>
+			<instance id="d000.s063.t002" lemma="type" pos="VERB">typed</instance>
+			<wf pos="X">since</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s063.t003" lemma="session" pos="NOUN">session</instance>
+			<instance id="d000.s063.t004" lemma="begin" pos="VERB">began</instance>
+			<wf pos="X">to</wf>
+			<wf lemma="be" pos="VERB">be</wf>
+			<instance id="d000.s063.t005" lemma="able" pos="ADJ">able</instance>
+			<wf pos="X">to</wf>
+			<instance id="d000.s063.t006" lemma="reuse" pos="VERB">reuse</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s064" source="semeval2015-en">
+			<instance id="d000.s064.t000" lemma="generate" pos="VERB">Generates</instance>
+			<instance id="d000.s064.t001" lemma="text" pos="NOUN">text</instance>
+			<instance id="d000.s064.t002" lemma="file" pos="NOUN">files</instance>
+			<wf pos="X">so</wf>
+			<wf pos="X">it</wf>
+			<wf pos="X">should</wf>
+			<wf lemma="be" pos="VERB">be</wf>
+			<instance id="d000.s064.t003" lemma="easy" pos="ADJ">easy</instance>
+			<wf pos="X">to</wf>
+			<instance id="d000.s064.t004" lemma="fix" pos="VERB">fix</instance>
+			<instance id="d000.s064.t005" lemma="use" pos="VERB">using</instance>
+			<wf pos="X">any</wf>
+			<instance id="d000.s064.t006" lemma="text" pos="NOUN">text</instance>
+			<instance id="d000.s064.t007" lemma="editor" pos="NOUN">editor</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">like</wf>
+			<wf lemma="kate" pos="NOUN">Kate</wf>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s065" source="semeval2015-en">
+			<instance id="d000.s065.t000" lemma="ctrl" pos="NOUN">Ctrl</instance>
+			<instance id="d000.s065.t001" lemma="s" pos="NOUN">S</instance>
+			<instance id="d000.s065.t002" lemma="save" pos="VERB">Save</instance>
+			<instance id="d000.s065.t003" lemma="log" pos="NOUN">Log</instance>
+		</sentence>
+		<sentence id="d000.s066" source="semeval2015-en">
+			<instance id="d000.s066.t000" lemma="save" pos="VERB">Saves</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s066.t001" lemma="log" pos="NOUN">log</instance>
+			<wf pos="X">with</wf>
+			<wf pos="X">all</wf>
+			<instance id="d000.s066.t002" lemma="result" pos="NOUN">results</instance>
+			<wf pos="X">into</wf>
+			<wf pos="X">an</wf>
+			<instance id="d000.s066.t003" lemma="html" pos="NOUN">HTML</instance>
+			<wf lemma="file" pos="VERB">file</wf>
+			<wf pos="X">to</wf>
+			<wf lemma="be" pos="VERB">be</wf>
+			<instance id="d000.s066.t004" lemma="able" pos="ADJ">able</instance>
+			<wf pos="X">to</wf>
+			<instance id="d000.s066.t005" lemma="print" pos="VERB">print</instance>
+			<wf pos="X">or</wf>
+			<instance id="d000.s066.t006" lemma="publish" pos="VERB">publish</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s067" source="semeval2015-en">
+			<instance id="d000.s067.t000" lemma="ctrl" pos="NOUN">Ctrl</instance>
+			<instance id="d000.s067.t001" lemma="q" pos="NOUN">Q</instance>
+			<instance id="d000.s067.t002" lemma="quit" pos="VERB">Quit</instance>
+		</sentence>
+		<sentence id="d000.s068" source="semeval2015-en">
+			<wf lemma="shut" pos="VERB">Shuts</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s068.t000" lemma="program" pos="NOUN">program</instance>
+			<instance id="d000.s068.t001" lemma="down" pos="ADV">down</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s069" source="semeval2015-en">
+			<wf pos="X">To</wf>
+			<instance id="d000.s069.t000" lemma="add" pos="VERB">add</instance>
+			<wf pos="X">a</wf>
+			<instance id="d000.s069.t001" lemma="new" pos="ADJ">new</instance>
+			<wf lemma="2d" pos="NOUN">2D</wf>
+			<instance id="d000.s069.t002" lemma="graph" pos="NOUN">graph</instance>
+			<wf pos="X">on</wf>
+			<wf lemma="kalgebra" pos="NOUN">kalgebra</wf>
+			<wf pos="X">,</wf>
+			<wf pos="X">what</wf>
+			<wf pos="X">you</wf>
+			<wf lemma="have" pos="VERB">have</wf>
+			<wf pos="X">to</wf>
+			<instance id="d000.s069.t003" lemma="do" pos="VERB">do</instance>
+			<wf lemma="be" pos="VERB">is</wf>
+			<wf pos="X">to</wf>
+			<instance id="d000.s069.t004" lemma="go" pos="VERB">go</instance>
+			<wf pos="X">to</wf>
+			<wf pos="X">the</wf>
+			<wf lemma="2d" pos="NOUN">2D</wf>
+			<instance id="d000.s069.t005" lemma="graph" pos="NOUN">Graph</instance>
+			<instance id="d000.s069.t006" lemma="tab" pos="NOUN">tab</instance>
+			<wf pos="X">and</wf>
+			<wf lemma="click" pos="NOUN">click</wf>
+			<wf pos="X">in</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s069.t007" lemma="add" pos="VERB">Add</instance>
+			<instance id="d000.s069.t008" lemma="tab" pos="NOUN">tab</instance>
+			<wf pos="X">to</wf>
+			<instance id="d000.s069.t009" lemma="add" pos="VERB">add</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s069.t010" lemma="new" pos="ADJ">new</instance>
+			<instance id="d000.s069.t011" lemma="function" pos="NOUN">function</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s070" source="semeval2015-en">
+			<instance id="d000.s070.t000" lemma="then" pos="ADV">Then</instance>
+			<wf pos="X">your</wf>
+			<instance id="d000.s070.t001" lemma="focus" pos="NOUN">focus</instance>
+			<wf pos="X">will</wf>
+			<instance id="d000.s070.t002" lemma="go" pos="VERB">go</instance>
+			<wf pos="X">to</wf>
+			<wf pos="X">an</wf>
+			<instance id="d000.s070.t003" lemma="input" pos="NOUN">input</instance>
+			<instance id="d000.s070.t004" lemma="text" pos="NOUN">text</instance>
+			<instance id="d000.s070.t005" lemma="box" pos="NOUN">box</instance>
+			<wf pos="X">where</wf>
+			<wf pos="X">you</wf>
+			<wf pos="X">can</wf>
+			<instance id="d000.s070.t006" lemma="type" pos="VERB">type</instance>
+			<wf pos="X">your</wf>
+			<instance id="d000.s070.t007" lemma="function" pos="NOUN">function</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s071" source="semeval2015-en">
+			<wf pos="X">If</wf>
+			<wf pos="X">you</wf>
+			<instance id="d000.s071.t000" lemma="want" pos="VERB">want</instance>
+			<wf pos="X">to</wf>
+			<instance id="d000.s071.t001" lemma="use" pos="VERB">use</instance>
+			<wf pos="X">a</wf>
+			<instance id="d000.s071.t002" lemma="typical" pos="ADJ">typical</instance>
+			<instance id="d000.s071.t003" lemma="f(x)" pos="NOUN">f(x)</instance>
+			<wf lemma="function" pos="VERB">function</wf>
+			<wf pos="X">it</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<instance id="d000.s071.t004" lemma="not" pos="ADV">not</instance>
+			<instance id="d000.s071.t005" lemma="necessary" pos="ADJ">necessary</instance>
+			<wf pos="X">to</wf>
+			<instance id="d000.s071.t006" lemma="specify" pos="VERB">specify</instance>
+			<wf pos="X">it</wf>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s072" source="semeval2015-en">
+			<wf pos="X">If</wf>
+			<wf pos="X">you</wf>
+			<wf lemma="have" pos="VERB">have</wf>
+			<instance id="d000.s072.t000" lemma="enter" pos="VERB">entered</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s072.t001" lemma="function" pos="NOUN">function</instance>
+			<wf lemma="click" pos="NOUN">click</wf>
+			<wf pos="X">on</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s072.t002" lemma="ok" pos="ADJ">OK</instance>
+			<instance id="d000.s072.t003" lemma="button" pos="NOUN">button</instance>
+			<wf pos="X">to</wf>
+			<instance id="d000.s072.t004" lemma="display" pos="VERB">display</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s072.t005" lemma="graph" pos="NOUN">graph</instance>
+			<wf pos="X">in</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s072.t006" lemma="main" pos="ADJ">main</instance>
+			<instance id="d000.s072.t007" lemma="window" pos="NOUN">window</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s073" source="semeval2015-en">
+			<wf pos="X">You</wf>
+			<wf pos="X">can</wf>
+			<instance id="d000.s073.t000" lemma="set" pos="VERB">set</instance>
+			<instance id="d000.s073.t001" lemma="several" pos="ADJ">several</instance>
+			<instance id="d000.s073.t002" lemma="graph" pos="NOUN">graphs</instance>
+			<wf pos="X">on</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s073.t003" lemma="same" pos="ADJ">same</instance>
+			<instance id="d000.s073.t004" lemma="view" pos="NOUN">view</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s074" source="semeval2015-en">
+			<instance id="d000.s074.t000" lemma="just" pos="ADV">Just</instance>
+			<instance id="d000.s074.t001" lemma="use" pos="VERB">use</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s074.t002" lemma="add" pos="VERB">Add</instance>
+			<instance id="d000.s074.t003" lemma="button" pos="NOUN">button</instance>
+			<wf pos="X">when</wf>
+			<wf pos="X">you</wf>
+			<wf lemma="be" pos="VERB">are</wf>
+			<wf pos="X">in</wf>
+			<instance id="d000.s074.t004" lemma="list" pos="NOUN">List</instance>
+			<instance id="d000.s074.t005" lemma="mode" pos="NOUN">mode</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s075" source="semeval2015-en">
+			<wf pos="X">You</wf>
+			<wf pos="X">can</wf>
+			<instance id="d000.s075.t000" lemma="set" pos="VERB">set</instance>
+			<wf pos="X">each</wf>
+			<instance id="d000.s075.t001" lemma="graph" pos="NOUN">graph</instance>
+			<wf pos="X">its</wf>
+			<wf lemma="own" pos="ADJ">own</wf>
+			<instance id="d000.s075.t002" lemma="color" pos="NOUN">color</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s076" source="semeval2015-en">
+			<wf pos="X">The</wf>
+			<instance id="d000.s076.t000" lemma="foundation" pos="NOUN">Foundation</instance>
+			<wf lemma="have" pos="VERB">has</wf>
+			<instance id="d000.s076.t001" lemma="recently" pos="ADV">recently</instance>
+			<wf lemma="be" pos="VERB">been</wf>
+			<instance id="d000.s076.t002" lemma="involve" pos="VERB">involved</instance>
+			<wf pos="X">in</wf>
+			<instance id="d000.s076.t003" lemma="organise" pos="VERB">organising</instance>
+			<wf pos="X">a</wf>
+			<instance id="d000.s076.t004" lemma="conference" pos="NOUN">conference</instance>
+			<wf pos="X">which</wf>
+			<instance id="d000.s076.t005" lemma="deal" pos="VERB">dealt</instance>
+			<wf pos="X">with</wf>
+			<wf pos="X">this</wf>
+			<instance id="d000.s076.t006" lemma="critical" pos="ADJ">critical</instance>
+			<instance id="d000.s076.t007" lemma="challenge" pos="NOUN">challenge</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s077" source="semeval2015-en">
+			<wf pos="X">Over</wf>
+			<wf pos="X">100</wf>
+			<instance id="d000.s077.t000" lemma="participant" pos="NOUN">participants</instance>
+			<wf pos="X">from</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s077.t001" lemma="main" pos="ADJ">main</instance>
+			<instance id="d000.s077.t002" lemma="interest" pos="NOUN">interest</instance>
+			<instance id="d000.s077.t003" lemma="group" pos="NOUN">groups</instance>
+			<instance id="d000.s077.t004" lemma="attend" pos="VERB">attended</instance>
+			<wf pos="X">and</wf>
+			<instance id="d000.s077.t005" lemma="debate" pos="VERB">debated</instance>
+			<instance id="d000.s077.t006" lemma="issue" pos="NOUN">issues</instance>
+			<instance id="d000.s077.t007" lemma="such" pos="ADV">such</instance>
+			<wf lemma="as" pos="ADV">as</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s077.t008" lemma="role" pos="NOUN">role</instance>
+			<wf pos="X">of</wf>
+			<instance id="d000.s077.t009" lemma="key" pos="ADJ">key</instance>
+			<instance id="d000.s077.t010" lemma="actor" pos="NOUN">actors</instance>
+			<instance id="d000.s077.t011" lemma="include" pos="VERB">including</instance>
+			<instance id="d000.s077.t012" lemma="public" pos="ADJ">public</instance>
+			<instance id="d000.s077.t013" lemma="authority" pos="NOUN">authorities</instance>
+			<wf pos="X">,</wf>
+			<instance id="d000.s077.t014" lemma="social" pos="ADJ">social</instance>
+			<wf lemma="partner" pos="NOUN">partners</wf>
+			<wf pos="X">,</wf>
+			<instance id="d000.s077.t015" lemma="voluntary" pos="ADJ">voluntary</instance>
+			<wf pos="X">and</wf>
+			<instance id="d000.s077.t016" lemma="community" pos="NOUN">community</instance>
+			<instance id="d000.s077.t017" lemma="organisation" pos="NOUN">organisations</instance>
+			<instance id="d000.s077.t018" lemma="as" pos="ADV">as</instance>
+			<wf lemma="well" pos="ADV">well</wf>
+			<wf pos="X">as</wf>
+			<instance id="d000.s077.t019" lemma="service" pos="NOUN">service</instance>
+			<instance id="d000.s077.t020" lemma="user" pos="NOUN">users</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s078" source="semeval2015-en">
+			<wf pos="X">There</wf>
+			<wf lemma="be" pos="VERB">were</wf>
+			<instance id="d000.s078.t000" lemma="relatively" pos="ADV">relatively</instance>
+			<instance id="d000.s078.t001" lemma="few" pos="ADJ">few</instance>
+			<instance id="d000.s078.t002" lemma="case" pos="NOUN">cases</instance>
+			<instance id="d000.s078.t003" lemma="report" pos="VERB">reported</instance>
+			<wf pos="X">of</wf>
+			<instance id="d000.s078.t004" lemma="attempt" pos="NOUN">attempts</instance>
+			<wf pos="X">to</wf>
+			<instance id="d000.s078.t005" lemma="involve" pos="VERB">involve</instance>
+			<instance id="d000.s078.t006" lemma="user" pos="NOUN">users</instance>
+			<wf pos="X">in</wf>
+			<instance id="d000.s078.t007" lemma="service" pos="NOUN">service</instance>
+			<instance id="d000.s078.t008" lemma="planning" pos="NOUN">planning</instance>
+			<wf pos="X">but</wf>
+			<wf pos="X">their</wf>
+			<instance id="d000.s078.t009" lemma="involvement" pos="NOUN">involvement</instance>
+			<wf pos="X">in</wf>
+			<instance id="d000.s078.t010" lemma="service" pos="NOUN">service</instance>
+			<instance id="d000.s078.t011" lemma="provision" pos="NOUN">provision</instance>
+			<wf lemma="be" pos="VERB">was</wf>
+			<instance id="d000.s078.t012" lemma="find" pos="VERB">found</instance>
+			<wf pos="X">to</wf>
+			<wf lemma="be" pos="VERB">be</wf>
+			<instance id="d000.s078.t013" lemma="more" pos="ADV">more</instance>
+			<instance id="d000.s078.t014" lemma="common" pos="ADJ">common</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s079" source="semeval2015-en">
+			<instance id="d000.s079.t000" lemma="note" pos="NOUN">Note</instance>
+			<wf lemma="be" pos="VERB">was</wf>
+			<instance id="d000.s079.t001" lemma="also" pos="ADV">also</instance>
+			<wf lemma="take" pos="VERB">taken</wf>
+			<wf pos="X">of</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s079.t002" lemma="variety" pos="NOUN">variety</instance>
+			<wf pos="X">of</wf>
+			<instance id="d000.s079.t003" lemma="different" pos="ADJ">different</instance>
+			<instance id="d000.s079.t004" lemma="role" pos="NOUN">roles</instance>
+			<instance id="d000.s079.t005" lemma="play" pos="VERB">played</instance>
+			<wf pos="X">by</wf>
+			<instance id="d000.s079.t006" lemma="public" pos="ADJ">public</instance>
+			<instance id="d000.s079.t007" lemma="welfare" pos="NOUN">welfare</instance>
+		</sentence>
+		<sentence id="d000.s080" source="semeval2015-en">
+			<wf pos="X">The</wf>
+			<instance id="d000.s080.t000" lemma="foundation" pos="NOUN">Foundation</instance>
+			<wf lemma="organise" pos="NOUN">organised</wf>
+			<wf pos="X">,</wf>
+			<instance id="d000.s080.t001" lemma="together" pos="ADV">together</instance>
+			<wf pos="X">with</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s080.t002" lemma="european" pos="ADJ">European</instance>
+			<instance id="d000.s080.t003" lemma="commission" pos="NOUN">Commission</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s080.t004" lemma="spanish" pos="ADJ">Spanish</instance>
+			<instance id="d000.s080.t005" lemma="ministry" pos="NOUN">Ministry</instance>
+			<wf pos="X">of</wf>
+			<instance id="d000.s080.t006" lemma="social" pos="ADJ">Social</instance>
+			<instance id="d000.s080.t007" lemma="affairs" pos="NOUN">Affairs</instance>
+			<wf pos="X">and</wf>
+			<wf pos="X">the</wf>
+			<wf lemma="galician" pos="ADJ">Galician</wf>
+			<instance id="d000.s080.t008" lemma="regional" pos="ADJ">regional</instance>
+			<instance id="d000.s080.t009" lemma="government" pos="NOUN">government</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">a</wf>
+			<instance id="d000.s080.t010" lemma="european" pos="ADJ">European</instance>
+			<instance id="d000.s080.t011" lemma="conference" pos="NOUN">conference</instance>
+			<wf pos="X">on</wf>
+			<instance id="d000.s080.t012" lemma="social" pos="ADJ">social</instance>
+			<instance id="d000.s080.t013" lemma="exclusion" pos="NOUN">exclusion</instance>
+			<wf pos="X">:</wf>
+			<wf pos="X">a</wf>
+			<instance id="d000.s080.t014" lemma="major" pos="ADJ">major</instance>
+			<instance id="d000.s080.t015" lemma="challenge" pos="NOUN">challenge</instance>
+			<wf pos="X">for</wf>
+			<instance id="d000.s080.t016" lemma="public" pos="ADJ">public</instance>
+			<instance id="d000.s080.t017" lemma="welfare" pos="NOUN">welfare</instance>
+			<instance id="d000.s080.t018" lemma="service" pos="NOUN">services</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s081" source="semeval2015-en">
+			<wf pos="X">The</wf>
+			<instance id="d000.s081.t000" lemma="foundation" pos="NOUN">Foundation</instance>
+			<instance id="d000.s081.t001" lemma="recently" pos="ADV">recently</instance>
+			<instance id="d000.s081.t002" lemma="publish" pos="VERB">published</instance>
+			<wf pos="X">a</wf>
+			<instance id="d000.s081.t003" lemma="comparative" pos="ADJ">comparative</instance>
+			<instance id="d000.s081.t004" lemma="study" pos="NOUN">study</instance>
+			<wf pos="X">as</wf>
+			<instance id="d000.s081.t005" lemma="part" pos="NOUN">part</instance>
+			<wf pos="X">of</wf>
+			<wf pos="X">the</wf>
+			<wf lemma="epoc" pos="NOUN">EPOC</wf>
+			<instance id="d000.s081.t006" lemma="project" pos="NOUN">project</instance>
+			<wf pos="X">which</wf>
+			<instance id="d000.s081.t007" lemma="assess" pos="VERB">assesses</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s081.t008" lemma="extent" pos="NOUN">extent</instance>
+			<wf pos="X">to</wf>
+			<wf pos="X">which</wf>
+			<instance id="d000.s081.t009" lemma="direct" pos="ADJ">direct</instance>
+			<instance id="d000.s081.t010" lemma="participation" pos="NOUN">participation</instance>
+			<wf pos="X">can</wf>
+			<instance id="d000.s081.t011" lemma="humanise" pos="VERB">humanise</instance>
+			<instance id="d000.s081.t012" lemma="work" pos="NOUN">work</instance>
+			<wf pos="X">while</wf>
+			<instance id="d000.s081.t013" lemma="increase" pos="VERB">increasing</instance>
+			<instance id="d000.s081.t014" lemma="profitability" pos="NOUN">profitability</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s082" source="semeval2015-en">
+			<wf pos="X">The</wf>
+			<instance id="d000.s082.t000" lemma="study" pos="NOUN">study</instance>
+			<wf lemma="be" pos="VERB">is</wf>
+			<instance id="d000.s082.t001" lemma="base" pos="VERB">based</instance>
+			<wf pos="X">on</wf>
+			<wf pos="X">195</wf>
+			<instance id="d000.s082.t002" lemma="personal" pos="ADJ">personal</instance>
+			<instance id="d000.s082.t003" lemma="interview" pos="NOUN">interviews</instance>
+			<wf pos="X">with</wf>
+			<instance id="d000.s082.t004" lemma="senior" pos="ADJ">senior</instance>
+			<instance id="d000.s082.t005" lemma="official" pos="NOUN">officials</instance>
+			<wf pos="X">of</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s082.t006" lemma="social" pos="ADJ">social</instance>
+			<wf lemma="partner" pos="NOUN">partners</wf>
+			<wf pos="X">as</wf>
+			<instance id="d000.s082.t007" lemma="representative" pos="NOUN">representatives</instance>
+			<wf pos="X">of</wf>
+			<instance id="d000.s082.t008" lemma="national" pos="ADJ">national</instance>
+			<instance id="d000.s082.t009" lemma="level" pos="NOUN">level</instance>
+			<wf lemma="peak" pos="NOUN">peak</wf>
+			<instance id="d000.s082.t010" lemma="organisation" pos="NOUN">organisations</instance>
+			<wf pos="X">in</wf>
+			<instance id="d000.s082.t011" lemma="fifteen" pos="ADJ">fifteen</instance>
+			<instance id="d000.s082.t012" lemma="european" pos="ADJ">European</instance>
+			<instance id="d000.s082.t013" lemma="country" pos="NOUN">countries</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s083" source="semeval2015-en">
+			<wf pos="X">As</wf>
+			<instance id="d000.s083.t000" lemma="important" pos="ADJ">important</instance>
+			<instance id="d000.s083.t001" lemma="industrial" pos="ADJ">industrial</instance>
+			<instance id="d000.s083.t002" lemma="sector" pos="NOUN">sectors</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s083.t003" lemma="metal" pos="NOUN">metal</instance>
+			<instance id="d000.s083.t004" lemma="industry" pos="NOUN">industry</instance>
+			<wf pos="X">and</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s083.t005" lemma="banking" pos="NOUN">banking</instance>
+			<instance id="d000.s083.t006" lemma="sector" pos="NOUN">sector</instance>
+			<wf lemma="be" pos="VERB">were</wf>
+			<instance id="d000.s083.t007" lemma="also" pos="ADV">also</instance>
+			<instance id="d000.s083.t008" lemma="include" pos="VERB">included</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s084" source="semeval2015-en">
+			<wf lemma="key" pos="NOUN">Key</wf>
+			<instance id="d000.s084.t000" lemma="speaker" pos="NOUN">speakers</instance>
+			<wf pos="X">at</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s084.t001" lemma="social" pos="ADJ">social</instance>
+			<instance id="d000.s084.t002" lemma="exclusion" pos="NOUN">exclusion</instance>
+			<instance id="d000.s084.t003" lemma="conference" pos="NOUN">conference</instance>
+			<wf lemma="be" pos="VERB">were</wf>
+			<wf pos="X">(</wf>
+			<instance id="d000.s084.t004" lemma="left" pos="NOUN">left</instance>
+			<wf pos="X">to</wf>
+			<instance id="d000.s084.t005" lemma="right" pos="NOUN">right</instance>
+			<wf pos="X">)</wf>
+			<wf lemma="cristina" pos="NOUN">Cristina</wf>
+			<wf lemma="louro" pos="NOUN">Louro</wf>
+			<wf pos="X">,</wf>
+			<instance id="d000.s084.t006" lemma="employment" pos="NOUN">Employment</instance>
+			<wf pos="X">,</wf>
+			<instance id="d000.s084.t007" lemma="industrial" pos="ADJ">Industrial</instance>
+			<instance id="d000.s084.t008" lemma="relations" pos="NOUN">Relations</instance>
+			<wf pos="X">and</wf>
+			<instance id="d000.s084.t009" lemma="social" pos="ADJ">Social</instance>
+			<instance id="d000.s084.t010" lemma="affair" pos="NOUN">Affairs</instance>
+			<instance id="d000.s084.t011" lemma="directorate" pos="NOUN">Directorate</instance>
+			<wf pos="X">,</wf>
+			<instance id="d000.s084.t012" lemma="european" pos="ADJ">European</instance>
+			<instance id="d000.s084.t013" lemma="commission" pos="NOUN">Commission</instance>
+			<wf lemma="fernando" pos="NOUN">Fernando</wf>
+			<wf lemma="gomes" pos="NOUN">Gomes</wf>
+			<wf pos="X">,</wf>
+			<wf pos="X">a</wf>
+			<instance id="d000.s084.t014" lemma="high" pos="ADJ">high</instance>
+			<wf lemma="degree" pos="NOUN">degree</wf>
+			<wf pos="X">of</wf>
+			<instance id="d000.s084.t015" lemma="committee" pos="NOUN">Committee</instance>
+			<wf pos="X">of</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s084.t016" lemma="region" pos="NOUN">Regions</instance>
+			<wf lemma="barbara" pos="NOUN">Barbara</wf>
+			<wf lemma="weiler" pos="NOUN">Weiler</wf>
+			<wf pos="X">,</wf>
+			<instance id="d000.s084.t017" lemma="member" pos="NOUN">Member</instance>
+			<wf pos="X">of</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s084.t018" lemma="european" pos="ADJ">European</instance>
+			<instance id="d000.s084.t019" lemma="parliament" pos="NOUN">Parliament</instance>
+			<wf lemma="josé" pos="NOUN">José</wf>
+			<wf lemma="Maria" pos="NOUN">Maria</wf>
+			<wf lemma="gil-robles" pos="NOUN">Gil-Robles</wf>
+			<wf pos="X">,</wf>
+			<instance id="d000.s084.t020" lemma="vice-president" pos="NOUN">Vice-President</instance>
+			<wf pos="X">,</wf>
+			<instance id="d000.s084.t021" lemma="european" pos="ADJ">European</instance>
+			<instance id="d000.s084.t022" lemma="parliament" pos="NOUN">Parliament</instance>
+			<wf lemma="and" pos="NOUN">and</wf>
+			<wf lemma="john" pos="NOUN">John</wf>
+			<wf lemma="carroll" pos="NOUN">Carroll</wf>
+			<wf pos="X">,</wf>
+			<instance id="d000.s084.t023" lemma="economic" pos="ADJ">Economic</instance>
+			<wf pos="X">and</wf>
+			<instance id="d000.s084.t024" lemma="social" pos="ADJ">Social</instance>
+			<instance id="d000.s084.t025" lemma="committee" pos="NOUN">Committee</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s085" source="semeval2015-en">
+			<instance id="d000.s085.t000" lemma="case" pos="NOUN">Case</instance>
+			<instance id="d000.s085.t001" lemma="study" pos="NOUN">Studies</instance>
+			<wf pos="X">Each</wf>
+			<instance id="d000.s085.t002" lemma="national" pos="ADJ">national</instance>
+			<instance id="d000.s085.t003" lemma="report" pos="NOUN">report</instance>
+			<instance id="d000.s085.t004" lemma="contain" pos="VERB">contains</instance>
+			<wf pos="X">a</wf>
+			<instance id="d000.s085.t005" lemma="portfolio" pos="NOUN">portfolio</instance>
+			<wf pos="X">of</wf>
+			<wf pos="X">between</wf>
+			<wf pos="X">25</wf>
+			<wf pos="X">and</wf>
+			<wf pos="X">30</wf>
+			<instance id="d000.s085.t006" lemma="initiative" pos="NOUN">initiatives</instance>
+			<wf pos="X">which</wf>
+			<wf lemma="good" pos="ADJ">best</wf>
+			<instance id="d000.s085.t007" lemma="present" pos="VERB">present</instance>
+			<instance id="d000.s085.t008" lemma="policy" pos="NOUN">policies</instance>
+			<wf pos="X">and</wf>
+			<instance id="d000.s085.t009" lemma="practice" pos="NOUN">practices</instance>
+			<wf pos="X">to</wf>
+			<instance id="d000.s085.t010" lemma="improve" pos="VERB">improve</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s085.t011" lemma="recruitment" pos="NOUN">recruitment</instance>
+			<wf pos="X">,</wf>
+			<instance id="d000.s085.t012" lemma="training" pos="NOUN">training</instance>
+			<wf pos="X">and</wf>
+			<instance id="d000.s085.t013" lemma="development" pos="NOUN">development</instance>
+			<wf pos="X">of</wf>
+			<instance id="d000.s085.t014" lemma="age" pos="VERB">ageing</instance>
+			<instance id="d000.s085.t015" lemma="worker" pos="NOUN">workers</instance>
+			<wf pos="X">in</wf>
+			<wf pos="X">both</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s085.t016" lemma="work" pos="NOUN">work</instance>
+			<instance id="d000.s085.t017" lemma="place" pos="NOUN">place</instance>
+			<wf pos="X">and</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s085.t018" lemma="community" pos="NOUN">community</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s086" source="semeval2015-en">
+			<wf pos="X">For</wf>
+			<wf pos="X">each</wf>
+			<instance id="d000.s086.t000" lemma="country" pos="NOUN">country</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">two</wf>
+			<wf pos="X">or</wf>
+			<wf pos="X">three</wf>
+			<instance id="d000.s086.t001" lemma="initiative" pos="NOUN">initiatives</instance>
+			<wf lemma="have" pos="VERB">have</wf>
+			<wf lemma="be" pos="VERB">been</wf>
+			<instance id="d000.s086.t002" lemma="select" pos="VERB">selected</instance>
+			<wf pos="X">for</wf>
+			<instance id="d000.s086.t003" lemma="further" pos="ADJ">further</instance>
+			<wf pos="X">in</wf>
+			<instance id="d000.s086.t004" lemma="depth" pos="NOUN">depth</instance>
+			<instance id="d000.s086.t005" lemma="case" pos="NOUN">case</instance>
+			<instance id="d000.s086.t006" lemma="study" pos="NOUN">study</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s087" source="semeval2015-en">
+			<wf pos="X">These</wf>
+			<instance id="d000.s087.t000" lemma="case" pos="NOUN">case</instance>
+			<instance id="d000.s087.t001" lemma="study" pos="NOUN">studies</instance>
+			<instance id="d000.s087.t002" lemma="analyse" pos="VERB">analysed</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s087.t003" lemma="background" pos="NOUN">background</instance>
+			<wf pos="X">of</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s087.t004" lemma="initiative" pos="NOUN">initiatives</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">their</wf>
+			<instance id="d000.s087.t005" lemma="impact" pos="NOUN">impact</instance>
+			<wf pos="X">on</wf>
+			<instance id="d000.s087.t006" lemma="employment" pos="NOUN">employment</instance>
+			<instance id="d000.s087.t007" lemma="pattern" pos="NOUN">patterns</instance>
+			<wf pos="X">and</wf>
+			<instance id="d000.s087.t008" lemma="work" pos="NOUN">work</instance>
+			<instance id="d000.s087.t009" lemma="organisation" pos="NOUN">organisations</instance>
+			<wf pos="X">and</wf>
+			<instance id="d000.s087.t010" lemma="assess" pos="VERB">assessed</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s087.t011" lemma="benefit" pos="NOUN">benefits</instance>
+			<wf pos="X">and</wf>
+			<instance id="d000.s087.t012" lemma="problem" pos="NOUN">problems</instance>
+			<wf pos="X">of</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s087.t013" lemma="initiative" pos="NOUN">initiative</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s088" source="semeval2015-en">
+			<instance id="d000.s088.t000" lemma="visit" pos="NOUN">Visits</instance>
+			<wf pos="X">and</wf>
+			<instance id="d000.s088.t001" lemma="interview" pos="NOUN">interviews</instance>
+			<wf pos="X">with</wf>
+			<instance id="d000.s088.t002" lemma="key" pos="ADJ">key</instance>
+			<instance id="d000.s088.t003" lemma="personnel" pos="NOUN">personnel</instance>
+			<wf lemma="be" pos="VERB">were</wf>
+			<instance id="d000.s088.t004" lemma="also" pos="ADV">also</instance>
+			<instance id="d000.s088.t005" lemma="undertake" pos="VERB">undertaken</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s089" source="semeval2015-en">
+			<wf pos="X">These</wf>
+			<instance id="d000.s089.t000" lemma="national" pos="ADJ">national</instance>
+			<instance id="d000.s089.t001" lemma="study" pos="NOUN">studies</instance>
+			<wf pos="X">will</wf>
+			<instance id="d000.s089.t002" lemma="form" pos="VERB">form</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s089.t003" lemma="basis" pos="NOUN">basis</instance>
+			<wf pos="X">of</wf>
+			<wf pos="X">a</wf>
+			<instance id="d000.s089.t004" lemma="european" pos="ADJ">European</instance>
+			<instance id="d000.s089.t005" lemma="report" pos="NOUN">report</instance>
+			<wf pos="X">which</wf>
+			<instance id="d000.s089.t006" lemma="synthesise" pos="VERB">synthesises</instance>
+			<instance id="d000.s089.t007" lemma="overall" pos="ADJ">overall</instance>
+			<instance id="d000.s089.t008" lemma="practice" pos="NOUN">practices</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s090" source="semeval2015-en">
+			<wf pos="X">The</wf>
+			<instance id="d000.s090.t000" lemma="report" pos="NOUN">report</instance>
+			<wf pos="X">and</wf>
+			<wf pos="X">a</wf>
+			<instance id="d000.s090.t001" lemma="case" pos="NOUN">case</instance>
+			<instance id="d000.s090.t002" lemma="book" pos="NOUN">book</instance>
+			<wf pos="X">of</wf>
+			<instance id="d000.s090.t003" lemma="initiative" pos="NOUN">initiatives</instance>
+			<wf pos="X">will</wf>
+			<wf lemma="be" pos="VERB">be</wf>
+			<instance id="d000.s090.t004" lemma="publish" pos="VERB">published</instance>
+			<wf pos="X">in</wf>
+			<wf pos="X">1996</wf>
+			<wf pos="X">and</wf>
+			<instance id="d000.s090.t005" lemma="provide" pos="VERB">provide</instance>
+			<wf pos="X">the</wf>
+			<wf lemma="backdrop" pos="NOUN">backdrop</wf>
+			<wf pos="X">for</wf>
+			<wf pos="X">a</wf>
+			<instance id="d000.s090.t006" lemma="conference" pos="NOUN">conference</instance>
+			<wf pos="X">to</wf>
+			<wf lemma="be" pos="VERB">be</wf>
+			<instance id="d000.s090.t007" lemma="stage" pos="VERB">staged</instance>
+			<wf pos="X">in</wf>
+			<instance id="d000.s090.t008" lemma="autumn" pos="NOUN">Autumn</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">1996</wf>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s091" source="semeval2015-en">
+			<wf pos="X">The</wf>
+			<instance id="d000.s091.t000" lemma="foundation" pos="NOUN">Foundation</instance>
+			<instance id="d000.s091.t001" lemma="aim" pos="VERB">aims</instance>
+			<wf pos="X">to</wf>
+			<instance id="d000.s091.t002" lemma="document" pos="VERB">document</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s091.t003" lemma="characteristic" pos="NOUN">characteristics</instance>
+			<wf pos="X">of</wf>
+			<instance id="d000.s091.t004" lemma="age" pos="NOUN">age</instance>
+			<instance id="d000.s091.t005" lemma="barrier" pos="NOUN">barriers</instance>
+			<wf pos="X">in</wf>
+			<instance id="d000.s091.t006" lemma="job" pos="NOUN">job</instance>
+			<instance id="d000.s091.t007" lemma="recruitment" pos="NOUN">recruitment</instance>
+			<wf pos="X">and</wf>
+			<instance id="d000.s091.t008" lemma="training" pos="NOUN">training</instance>
+			<wf pos="X">and</wf>
+			<wf pos="X">to</wf>
+			<instance id="d000.s091.t009" lemma="analyse" pos="VERB">analyse</instance>
+			<wf pos="X">their</wf>
+			<instance id="d000.s091.t010" lemma="cause" pos="NOUN">causes</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s092" source="semeval2015-en">
+			<wf pos="X">The</wf>
+			<instance id="d000.s092.t000" lemma="perspective" pos="NOUN">perspectives</instance>
+			<wf pos="X">of</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s092.t001" lemma="social" pos="ADJ">social</instance>
+			<wf lemma="partner" pos="NOUN">partners</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<instance id="d000.s092.t002" lemma="also" pos="ADV">also</instance>
+			<wf lemma="be" pos="VERB">being</wf>
+			<instance id="d000.s092.t003" lemma="examine" pos="VERB">examined</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">with</wf>
+			<instance id="d000.s092.t004" lemma="particular" pos="ADJ">particular</instance>
+			<instance id="d000.s092.t005" lemma="attention" pos="NOUN">attention</instance>
+			<instance id="d000.s092.t006" lemma="pay" pos="VERB">paid</instance>
+			<wf pos="X">to</wf>
+			<instance id="d000.s092.t007" lemma="proposal" pos="NOUN">proposals</instance>
+			<wf pos="X">for</wf>
+			<instance id="d000.s092.t008" lemma="remove" pos="VERB">removing</instance>
+			<instance id="d000.s092.t009" lemma="age" pos="NOUN">age</instance>
+			<instance id="d000.s092.t010" lemma="barrier" pos="NOUN">barriers</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s093" source="semeval2015-en">
+			<instance id="d000.s093.t000" lemma="thirdly" pos="ADV">Thirdly</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s093.t001" lemma="project" pos="NOUN">project</instance>
+			<wf lemma="document" pos="NOUN">documents</wf>
+			<wf pos="X">and</wf>
+			<instance id="d000.s093.t002" lemma="assess" pos="VERB">assesses</instance>
+			<instance id="d000.s093.t003" lemma="initiative" pos="NOUN">initiatives</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">in</wf>
+			<wf pos="X">both</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s093.t004" lemma="public" pos="ADJ">public</instance>
+			<wf pos="X">and</wf>
+			<instance id="d000.s093.t005" lemma="private" pos="ADJ">private</instance>
+			<instance id="d000.s093.t006" lemma="sector" pos="NOUN">sectors</instance>
+			<wf pos="X">which</wf>
+			<wf lemma="combat" pos="NOUN">combat</wf>
+			<instance id="d000.s093.t007" lemma="age" pos="NOUN">age</instance>
+			<instance id="d000.s093.t008" lemma="barrier" pos="NOUN">barriers</instance>
+			<wf pos="X">,</wf>
+			<instance id="d000.s093.t009" lemma="especially" pos="ADV">especially</instance>
+			<wf pos="X">for</wf>
+			<instance id="d000.s093.t010" lemma="old" pos="ADJ">older</instance>
+			<instance id="d000.s093.t011" lemma="worker" pos="NOUN">workers</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s094" source="semeval2015-en">
+			<instance id="d000.s094.t000" lemma="seek" pos="VERB">Seeking</instance>
+			<instance id="d000.s094.t001" lemma="alternative" pos="NOUN">alternatives</instance>
+			<wf pos="X">to</wf>
+			<instance id="d000.s094.t002" lemma="early" pos="ADJ">early</instance>
+			<instance id="d000.s094.t003" lemma="retirement" pos="NOUN">retirement</instance>
+			<wf pos="X">and</wf>
+			<instance id="d000.s094.t004" lemma="redundancy" pos="NOUN">redundancy</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s094.t005" lemma="project" pos="NOUN">project</instance>
+			<wf lemma="be" pos="VERB">is</wf>
+			<instance id="d000.s094.t006" lemma="primarily" pos="ADV">primarily</instance>
+			<instance id="d000.s094.t007" lemma="concern" pos="VERB">concerned</instance>
+			<wf pos="X">with</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s094.t008" lemma="retention" pos="NOUN">retention</instance>
+			<wf pos="X">,</wf>
+			<instance id="d000.s094.t009" lemma="reintegrate" pos="VERB">reintegration</instance>
+			<wf pos="X">and</wf>
+			<instance id="d000.s094.t010" lemma="retrain" pos="VERB">retraining</instance>
+			<wf pos="X">of</wf>
+			<instance id="d000.s094.t011" lemma="old" pos="ADJ">older</instance>
+			<instance id="d000.s094.t012" lemma="worker" pos="NOUN">workers</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s095" source="semeval2015-en">
+			<wf pos="X">The</wf>
+			<instance id="d000.s095.t000" lemma="gender" pos="NOUN">gender</instance>
+			<wf pos="X">and</wf>
+			<instance id="d000.s095.t001" lemma="ethnic" pos="ADJ">ethnic</instance>
+			<instance id="d000.s095.t002" lemma="background" pos="NOUN">backgrounds</instance>
+			<wf pos="X">of</wf>
+			<instance id="d000.s095.t003" lemma="worker" pos="NOUN">workers</instance>
+			<wf pos="X">and</wf>
+			<wf pos="X">how</wf>
+			<wf pos="X">these</wf>
+			<instance id="d000.s095.t004" lemma="relate" pos="VERB">relate</instance>
+			<wf pos="X">to</wf>
+			<instance id="d000.s095.t005" lemma="age" pos="NOUN">age</instance>
+			<instance id="d000.s095.t006" lemma="discrimination" pos="NOUN">discrimination</instance>
+			<wf lemma="be" pos="VERB">are</wf>
+			<instance id="d000.s095.t007" lemma="examine" pos="VERB">examined</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s096" source="semeval2015-en">
+			<wf pos="X">The</wf>
+			<instance id="d000.s096.t000" lemma="project" pos="NOUN">project</instance>
+			<instance id="d000.s096.t001" lemma="also" pos="ADV">also</instance>
+			<instance id="d000.s096.t002" lemma="consider" pos="VERB">considers</instance>
+			<instance id="d000.s096.t003" lemma="initiative" pos="NOUN">initiatives</instance>
+			<wf pos="X">to</wf>
+			<wf lemma="combat" pos="VERB">combat</wf>
+			<instance id="d000.s096.t004" lemma="age" pos="NOUN">age</instance>
+			<instance id="d000.s096.t005" lemma="discrimination" pos="NOUN">discrimination</instance>
+			<wf pos="X">in</wf>
+			<instance id="d000.s096.t006" lemma="rural" pos="ADJ">rural</instance>
+			<instance id="d000.s096.t007" lemma="area" pos="NOUN">areas</instance>
+			<wf pos="X">and</wf>
+			<wf pos="X">in</wf>
+			<instance id="d000.s096.t008" lemma="small" pos="ADJ">small</instance>
+			<wf pos="X">and</wf>
+			<wf lemma="medium" pos="ADJ">medium</wf>
+			<wf lemma="sized" pos="ADJ">sized</wf>
+			<instance id="d000.s096.t009" lemma="enterprise" pos="NOUN">enterprises</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s097" source="semeval2015-en">
+			<wf pos="X">Seven</wf>
+			<instance id="d000.s097.t000" lemma="member" pos="NOUN">member</instance>
+			<instance id="d000.s097.t001" lemma="state" pos="NOUN">states</instance>
+			<wf lemma="be" pos="VERB">are</wf>
+			<instance id="d000.s097.t002" lemma="cover" pos="VERB">covered</instance>
+			<wf pos="X">by</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s097.t003" lemma="project" pos="NOUN">project</instance>
+			<wf pos="X">:</wf>
+			<wf lemma="belgium" pos="NOUN">Belgium</wf>
+			<wf pos="X">,</wf>
+			<wf lemma="france" pos="NOUN">France</wf>
+			<wf pos="X">,</wf>
+			<wf lemma="germany" pos="NOUN">Germany</wf>
+			<wf pos="X">,</wf>
+			<wf lemma="greece" pos="NOUN">Greece</wf>
+			<wf pos="X">,</wf>
+			<wf lemma="italy" pos="NOUN">Italy</wf>
+			<wf pos="X">,</wf>
+			<wf pos="X">the</wf>
+			<wf lemma="netherlands" pos="NOUN">Netherlands</wf>
+			<wf pos="X">and</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s097.t004" lemma="united" pos="ADJ">United</instance>
+			<instance id="d000.s097.t005" lemma="kingdom" pos="NOUN">Kingdom</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s098" source="semeval2015-en">
+			<wf pos="X">This</wf>
+			<instance id="d000.s098.t000" lemma="document" pos="NOUN">document</instance>
+			<wf lemma="be" pos="VERB">is</wf>
+			<wf pos="X">a</wf>
+			<instance id="d000.s098.t001" lemma="summary" pos="NOUN">summary</instance>
+			<wf pos="X">of</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s098.t002" lemma="european" pos="ADJ">European</instance>
+			<instance id="d000.s098.t003" lemma="public" pos="ADJ">Public</instance>
+			<instance id="d000.s098.t004" lemma="assessment" pos="NOUN">Assessment</instance>
+			<instance id="d000.s098.t005" lemma="report" pos="NOUN">Report</instance>
+			<wf pos="X">.</wf>
+			<wf pos="X">It</wf>
+			<instance id="d000.s098.t006" lemma="explain" pos="VERB">explains</instance>
+			<wf pos="X">how</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s098.t007" lemma="committee" pos="NOUN">Committee</instance>
+			<wf pos="X">for</wf>
+			<instance id="d000.s098.t008" lemma="medicinal" pos="ADJ">Medicinal</instance>
+			<instance id="d000.s098.t009" lemma="product" pos="NOUN">Products</instance>
+			<wf pos="X">for</wf>
+			<instance id="d000.s098.t010" lemma="veterinary" pos="NOUN">Veterinary</instance>
+			<instance id="d000.s098.t011" lemma="use" pos="NOUN">Use</instance>
+			<wf pos="X">(</wf>
+			<wf lemma="cvmp" pos="NOUN">CVMP</wf>
+			<wf pos="X">)</wf>
+			<instance id="d000.s098.t012" lemma="assess" pos="VERB">assessed</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s098.t013" lemma="study" pos="NOUN">studies</instance>
+			<instance id="d000.s098.t014" lemma="perform" pos="VERB">performed</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">to</wf>
+			<instance id="d000.s098.t015" lemma="reach" pos="VERB">reach</instance>
+			<wf pos="X">their</wf>
+			<instance id="d000.s098.t016" lemma="recommendation" pos="NOUN">recommendations</instance>
+			<wf pos="X">on</wf>
+			<wf pos="X">how</wf>
+			<wf pos="X">to</wf>
+			<instance id="d000.s098.t017" lemma="use" pos="VERB">use</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s098.t018" lemma="medicine" pos="NOUN">medicine</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s099" source="semeval2015-en">
+			<wf pos="X">What</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<wf lemma="cerenia" pos="NOUN">Cerenia</wf>
+			<wf pos="X">?</wf>
+		</sentence>
+		<sentence id="d000.s100" source="semeval2015-en">
+			<wf lemma="cerenia" pos="NOUN">Cerenia</wf>
+			<instance id="d000.s100.t000" lemma="contain" pos="VERB">contains</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s100.t001" lemma="active" pos="ADJ">active</instance>
+			<instance id="d000.s100.t002" lemma="substance" pos="NOUN">substance</instance>
+			<instance id="d000.s100.t003" lemma="maropitant" pos="NOUN">maropitant</instance>
+			<wf pos="X">and</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<instance id="d000.s100.t004" lemma="available" pos="ADJ">available</instance>
+			<wf pos="X">as</wf>
+			<instance id="d000.s100.t005" lemma="tablet" pos="NOUN">tablet</instance>
+			<wf pos="X">or</wf>
+			<wf pos="X">as</wf>
+			<instance id="d000.s100.t006" lemma="solution" pos="NOUN">solution</instance>
+			<wf pos="X">for</wf>
+			<instance id="d000.s100.t007" lemma="injection" pos="NOUN">injection</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s101" source="semeval2015-en">
+			<wf pos="X">The</wf>
+			<instance id="d000.s101.t000" lemma="tablet" pos="NOUN">tablets</instance>
+			<wf lemma="be" pos="VERB">are</wf>
+			<wf lemma="pale-orange" pos="ADJ">pale-orange</wf>
+			<wf pos="X">and</wf>
+			<instance id="d000.s101.t001" lemma="have" pos="VERB">have</instance>
+			<wf pos="X">a</wf>
+			<instance id="d000.s101.t002" lemma="score" pos="NOUN">score</instance>
+			<instance id="d000.s101.t003" lemma="line" pos="NOUN">line</instance>
+			<wf pos="X">on</wf>
+			<wf pos="X">both</wf>
+			<instance id="d000.s101.t004" lemma="side" pos="NOUN">sides</instance>
+			<instance id="d000.s101.t005" lemma="so" pos="ADV">so</instance>
+			<wf pos="X">that</wf>
+			<wf pos="X">they</wf>
+			<wf pos="X">can</wf>
+			<wf lemma="be" pos="VERB">be</wf>
+			<instance id="d000.s101.t006" lemma="halve" pos="VERB">halved</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s102" source="semeval2015-en">
+			<wf pos="X">Each</wf>
+			<instance id="d000.s102.t000" lemma="tablet" pos="NOUN">tablet</instance>
+			<wf lemma="be" pos="VERB">is</wf>
+			<instance id="d000.s102.t001" lemma="mark" pos="VERB">marked</instance>
+			<wf pos="X">with</wf>
+			<wf pos="X">the</wf>
+			<wf lemma="pfizer" pos="NOUN">Pfizer</wf>
+			<instance id="d000.s102.t002" lemma="logo" pos="NOUN">logo</instance>
+			<wf pos="X">on</wf>
+			<wf pos="X">one</wf>
+			<instance id="d000.s102.t003" lemma="side" pos="NOUN">side</instance>
+			<wf pos="X">and</wf>
+			<wf pos="X">with</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s102.t004" lemma="letter" pos="NOUN">letters</instance>
+			<wf lemma="mpt" pos="NOUN">MPT</wf>
+			<wf pos="X">and</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s102.t005" lemma="quantity" pos="NOUN">quantity</instance>
+			<wf pos="X">of</wf>
+			<instance id="d000.s102.t006" lemma="maropitant" pos="NOUN">maropitant</instance>
+			<wf pos="X">on</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s102.t007" lemma="other" pos="ADJ">other</instance>
+			<instance id="d000.s102.t008" lemma="side" pos="NOUN">side</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s103" source="semeval2015-en">
+			<wf pos="X">What</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<wf lemma="cerenia" pos="NOUN">Cerenia</wf>
+			<instance id="d000.s103.t000" lemma="use" pos="VERB">used</instance>
+			<wf pos="X">for</wf>
+			<wf pos="X">?</wf>
+		</sentence>
+		<sentence id="d000.s104" source="semeval2015-en">
+			<wf lemma="cerenia" pos="NOUN">Cerenia</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<wf pos="X">an</wf>
+			<instance id="d000.s104.t000" lemma="anti-emetic" pos="NOUN">anti-emetic</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">this</wf>
+			<instance id="d000.s104.t001" lemma="mean" pos="VERB">means</instance>
+			<wf pos="X">that</wf>
+			<wf pos="X">it</wf>
+			<instance id="d000.s104.t002" lemma="stop" pos="VERB">stops</instance>
+			<instance id="d000.s104.t003" lemma="vomit" pos="VERB">vomiting</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s105" source="semeval2015-en">
+			<wf pos="X">It</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<instance id="d000.s105.t000" lemma="use" pos="VERB">used</instance>
+			<wf pos="X">in</wf>
+			<instance id="d000.s105.t001" lemma="dog" pos="NOUN">dogs</instance>
+			<wf pos="X">to</wf>
+			<instance id="d000.s105.t002" lemma="prevent" pos="VERB">prevent</instance>
+			<instance id="d000.s105.t003" lemma="vomit" pos="VERB">vomiting</instance>
+			<wf lemma="such" pos="ADJ">such</wf>
+			<wf pos="X">as</wf>
+			<instance id="d000.s105.t004" lemma="vomit" pos="VERB">vomiting</instance>
+			<instance id="d000.s105.t005" lemma="cause" pos="VERB">caused</instance>
+			<wf pos="X">by</wf>
+			<instance id="d000.s105.t006" lemma="chemotherapy" pos="NOUN">chemotherapy</instance>
+			<wf pos="X">(</wf>
+			<instance id="d000.s105.t007" lemma="medicine" pos="NOUN">medicines</instance>
+			<instance id="d000.s105.t008" lemma="use" pos="VERB">used</instance>
+			<wf pos="X">for</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s105.t009" lemma="treatment" pos="NOUN">treatment</instance>
+			<wf pos="X">of</wf>
+			<instance id="d000.s105.t010" lemma="cancer" pos="NOUN">cancer</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">some</wf>
+			<wf pos="X">of</wf>
+			<wf pos="X">which</wf>
+			<wf lemma="be" pos="VERB">are</wf>
+			<instance id="d000.s105.t011" lemma="know" pos="VERB">known</instance>
+			<wf pos="X">to</wf>
+			<instance id="d000.s105.t012" lemma="cause" pos="VERB">cause</instance>
+			<instance id="d000.s105.t013" lemma="vomit" pos="VERB">vomiting</instance>
+			<wf pos="X">)</wf>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s106" source="semeval2015-en">
+			<wf pos="X">In</wf>
+			<instance id="d000.s106.t000" lemma="combination" pos="NOUN">combination</instance>
+			<wf pos="X">with</wf>
+			<instance id="d000.s106.t001" lemma="supportive" pos="ADJ">supportive</instance>
+			<instance id="d000.s106.t002" lemma="measure" pos="NOUN">measures</instance>
+			<wf lemma="such" pos="ADJ">such</wf>
+			<wf pos="X">as</wf>
+			<instance id="d000.s106.t003" lemma="other" pos="ADJ">other</instance>
+			<instance id="d000.s106.t004" lemma="veterinary" pos="ADJ">veterinary</instance>
+			<instance id="d000.s106.t005" lemma="treatment" pos="NOUN">treatment</instance>
+			<wf pos="X">or</wf>
+			<wf pos="X">a</wf>
+			<instance id="d000.s106.t006" lemma="special" pos="ADJ">special</instance>
+			<instance id="d000.s106.t007" lemma="diet" pos="NOUN">diet</instance>
+			<wf pos="X">,</wf>
+			<wf lemma="cerenia" pos="NOUN">Cerenia</wf>
+			<wf pos="X">can</wf>
+			<instance id="d000.s106.t008" lemma="also" pos="ADV">also</instance>
+			<wf lemma="be" pos="VERB">be</wf>
+			<instance id="d000.s106.t009" lemma="use" pos="VERB">used</instance>
+			<wf pos="X">in</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s106.t010" lemma="treatment" pos="NOUN">treatment</instance>
+			<wf pos="X">of</wf>
+			<instance id="d000.s106.t011" lemma="vomiting" pos="NOUN">vomiting</instance>
+			<wf pos="X">(</wf>
+			<wf pos="X">either</wf>
+			<wf pos="X">as</wf>
+			<instance id="d000.s106.t012" lemma="injection" pos="NOUN">injection</instance>
+			<wf pos="X">or</wf>
+			<wf pos="X">as</wf>
+			<instance id="d000.s106.t013" lemma="injection" pos="NOUN">injection</instance>
+			<instance id="d000.s106.t014" lemma="follow" pos="VERB">followed</instance>
+			<wf pos="X">by</wf>
+			<instance id="d000.s106.t015" lemma="tablet" pos="NOUN">tablets</instance>
+			<wf pos="X">)</wf>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s107" source="semeval2015-en">
+			<wf pos="X">For</wf>
+			<wf pos="X">these</wf>
+			<instance id="d000.s107.t000" lemma="purpose" pos="NOUN">purposes</instance>
+			<wf pos="X">,</wf>
+			<wf lemma="cerenia" pos="NOUN">Cerenia</wf>
+			<wf pos="X">can</wf>
+			<wf lemma="be" pos="VERB">be</wf>
+			<instance id="d000.s107.t001" lemma="give" pos="VERB">given</instance>
+			<wf pos="X">for</wf>
+			<wf lemma="up to" pos="ADJ">up to</wf>
+			<wf pos="X">five</wf>
+			<instance id="d000.s107.t002" lemma="day" pos="NOUN">days</instance>
+		</sentence>
+		<sentence id="d000.s108" source="semeval2015-en">
+			<wf pos="X">How</wf>
+			<wf lemma="do" pos="VERB">does</wf>
+			<wf lemma="cerenia" pos="NOUN">Cerenia</wf>
+			<wf lemma="work" pos="VERB">work</wf>
+			<wf pos="X">?</wf>
+		</sentence>
+		<sentence id="d000.s109" source="semeval2015-en">
+			<wf lemma="cerenia" pos="NOUN">Cerenia</wf>
+			<instance id="d000.s109.t000" lemma="block" pos="VERB">blocks</instance>
+			<wf pos="X">a</wf>
+			<instance id="d000.s109.t001" lemma="neurokinin" pos="NOUN">neurokinin</instance>
+			<wf pos="X">1</wf>
+			<wf pos="X">(</wf>
+			<wf lemma="nk1" pos="NOUN">NK1</wf>
+			<wf pos="X">)</wf>
+			<instance id="d000.s109.t002" lemma="receptor" pos="NOUN">receptor</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">which</wf>
+			<instance id="d000.s109.t003" lemma="act" pos="VERB">acts</instance>
+			<wf pos="X">in</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s109.t004" lemma="central" pos="ADJ">central</instance>
+			<instance id="d000.s109.t005" lemma="nervous" pos="ADJ">nervous</instance>
+			<instance id="d000.s109.t006" lemma="system" pos="NOUN">system</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s110" source="semeval2015-en">
+			<wf pos="X">How</wf>
+			<wf lemma="have" pos="VERB">has</wf>
+			<wf lemma="cerenia" pos="NOUN">Cerenia</wf>
+			<wf lemma="be" pos="VERB">been</wf>
+			<instance id="d000.s110.t000" lemma="study" pos="VERB">studied</instance>
+			<wf pos="X">?</wf>
+		</sentence>
+		<sentence id="d000.s111" source="semeval2015-en">
+			<wf pos="X">A</wf>
+			<instance id="d000.s111.t000" lemma="large" pos="ADJ">large</instance>
+			<instance id="d000.s111.t001" lemma="number" pos="NOUN">number</instance>
+			<wf pos="X">of</wf>
+			<instance id="d000.s111.t002" lemma="study" pos="NOUN">studies</instance>
+			<wf pos="X">with</wf>
+			<wf lemma="cerenia" pos="NOUN">Cerenia</wf>
+			<wf lemma="be" pos="VERB">were</wf>
+			<instance id="d000.s111.t003" lemma="carry" pos="VERB">carried</instance>
+			<wf lemma="out" pos="ADV">out</wf>
+			<wf lemma="either" pos="ADV">either</wf>
+			<wf pos="X">in</wf>
+			<instance id="d000.s111.t004" lemma="laboratory" pos="NOUN">laboratory</instance>
+			<instance id="d000.s111.t005" lemma="dog" pos="NOUN">dogs</instance>
+			<wf pos="X">or</wf>
+			<wf pos="X">in</wf>
+			<wf lemma="animal" pos="ADJ">animal</wf>
+			<instance id="d000.s111.t006" lemma="patient" pos="NOUN">patients</instance>
+			<wf pos="X">at</wf>
+			<instance id="d000.s111.t007" lemma="veterinary" pos="ADJ">veterinary</instance>
+			<wf lemma="practise" pos="VERB">practises</wf>
+			<wf pos="X">in</wf>
+			<instance id="d000.s111.t008" lemma="several" pos="ADJ">several</instance>
+			<instance id="d000.s111.t009" lemma="european" pos="ADJ">European</instance>
+			<instance id="d000.s111.t010" lemma="country" pos="NOUN">countries</instance>
+			<wf pos="X">and</wf>
+			<wf pos="X">in</wf>
+			<wf pos="X">the</wf>
+			<wf lemma="usa" pos="NOUN">USA</wf>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s112" source="semeval2015-en">
+			<wf pos="X">What</wf>
+			<instance id="d000.s112.t000" lemma="benefit" pos="NOUN">benefit</instance>
+			<wf lemma="have" pos="VERB">has</wf>
+			<wf lemma="cerenia" pos="NOUN">Cerenia</wf>
+			<instance id="d000.s112.t001" lemma="show" pos="VERB">shown</instance>
+			<wf pos="X">during</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s112.t002" lemma="study" pos="NOUN">studies</instance>
+			<wf pos="X">?</wf>
+		</sentence>
+		<sentence id="d000.s113" source="semeval2015-en">
+			<wf pos="X">The</wf>
+			<instance id="d000.s113.t000" lemma="result" pos="NOUN">results</instance>
+			<wf pos="X">of</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s113.t001" lemma="study" pos="NOUN">studies</instance>
+			<instance id="d000.s113.t002" lemma="show" pos="VERB">showed</instance>
+			<wf pos="X">that</wf>
+			<wf lemma="cerenia" pos="NOUN">Cerenia</wf>
+			<wf lemma="be" pos="VERB">was</wf>
+			<instance id="d000.s113.t003" lemma="more" pos="ADV">more</instance>
+			<instance id="d000.s113.t004" lemma="effective" pos="ADJ">effective</instance>
+			<wf pos="X">than</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s113.t005" lemma="placebo" pos="NOUN">placebo</instance>
+			<wf pos="X">:</wf>
+			<instance id="d000.s113.t006" lemma="less" pos="ADJ">less</instance>
+			<instance id="d000.s113.t007" lemma="vomiting" pos="NOUN">vomiting</instance>
+			<wf lemma="be" pos="VERB">was</wf>
+			<instance id="d000.s113.t008" lemma="see" pos="VERB">seen</instance>
+			<wf pos="X">in</wf>
+			<instance id="d000.s113.t009" lemma="dog" pos="NOUN">dogs</instance>
+			<wf pos="X">that</wf>
+			<instance id="d000.s113.t010" lemma="receive" pos="VERB">received</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s113.t011" lemma="medicine" pos="NOUN">medicine</instance>
+			<wf pos="X">than</wf>
+			<wf pos="X">in</wf>
+			<instance id="d000.s113.t012" lemma="dog" pos="NOUN">dogs</instance>
+			<wf pos="X">that</wf>
+			<instance id="d000.s113.t013" lemma="receive" pos="VERB">received</instance>
+			<wf pos="X">a</wf>
+			<instance id="d000.s113.t014" lemma="placebo" pos="NOUN">placebo</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">both</wf>
+			<wf pos="X">in</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s113.t015" lemma="treatment" pos="NOUN">treatment</instance>
+			<wf pos="X">or</wf>
+			<wf pos="X">in</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s113.t016" lemma="prevention" pos="NOUN">prevention</instance>
+			<wf pos="X">of</wf>
+			<instance id="d000.s113.t017" lemma="vomiting" pos="NOUN">vomiting</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s114" source="semeval2015-en">
+			<wf pos="X">The</wf>
+			<instance id="d000.s114.t000" lemma="treatment" pos="NOUN">treatment</instance>
+			<wf pos="X">of</wf>
+			<wf pos="X">a</wf>
+			<instance id="d000.s114.t001" lemma="vomiting" pos="NOUN">vomiting</instance>
+			<instance id="d000.s114.t002" lemma="dog" pos="NOUN">dog</instance>
+			<wf pos="X">should</wf>
+			<wf lemma="be" pos="VERB">be</wf>
+			<instance id="d000.s114.t003" lemma="start" pos="VERB">started</instance>
+			<wf pos="X">with</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s114.t004" lemma="injection" pos="NOUN">injection</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">since</wf>
+			<instance id="d000.s114.t005" lemma="vomiting" pos="NOUN">vomiting</instance>
+			<instance id="d000.s114.t006" lemma="animal" pos="NOUN">animals</instance>
+			<wf pos="X">might</wf>
+			<instance id="d000.s114.t007" lemma="not" pos="ADV">not</instance>
+			<wf lemma="be" pos="VERB">be</wf>
+			<instance id="d000.s114.t008" lemma="able" pos="ADJ">able</instance>
+			<wf pos="X">to</wf>
+			<wf lemma="keep" pos="VERB">keep</wf>
+			<wf pos="X">a</wf>
+			<instance id="d000.s114.t009" lemma="tablet" pos="NOUN">tablet</instance>
+			<wf lemma="down" pos="ADV">down</wf>
+			<wf pos="X">(</wf>
+			<wf pos="X">as</wf>
+			<wf pos="X">they</wf>
+			<wf pos="X">might</wf>
+			<wf lemma="throw" pos="VERB">throw</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s114.t010" lemma="intact" pos="ADJ">intact</instance>
+			<instance id="d000.s114.t011" lemma="tablet" pos="NOUN">tablet</instance>
+			<wf lemma="up" pos="ADV">up</wf>
+			<instance id="d000.s114.t012" lemma="again" pos="ADV">again</instance>
+			<wf pos="X">)</wf>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s115" source="semeval2015-en">
+			<wf pos="X">For</wf>
+			<instance id="d000.s115.t000" lemma="follow-up" pos="NOUN">follow-up</instance>
+			<instance id="d000.s115.t001" lemma="treatment" pos="NOUN">treatment</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">the</wf>
+			<wf lemma="animal" pos="ADJ">animal</wf>
+			<instance id="d000.s115.t002" lemma="owner" pos="NOUN">owner</instance>
+			<wf pos="X">can</wf>
+			<instance id="d000.s115.t003" lemma="administer" pos="VERB">administer</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s115.t004" lemma="tablet" pos="NOUN">tablets</instance>
+			<wf pos="X">to</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s115.t005" lemma="dog" pos="NOUN">dog</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s116" source="semeval2015-en">
+			<instance id="d000.s116.t000" lemma="also" pos="ADV">Also</instance>
+			<wf pos="X">,</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s116.t001" lemma="treatment" pos="NOUN">treatment</instance>
+			<wf pos="X">of</wf>
+			<instance id="d000.s116.t002" lemma="vomiting" pos="NOUN">vomiting</instance>
+			<wf pos="X">should</wf>
+			<instance id="d000.s116.t003" lemma="only" pos="ADV">only</instance>
+			<wf lemma="be" pos="VERB">be</wf>
+			<instance id="d000.s116.t004" lemma="together" pos="ADV">together</instance>
+			<wf pos="X">with</wf>
+			<instance id="d000.s116.t005" lemma="other" pos="ADJ">other</instance>
+			<instance id="d000.s116.t006" lemma="supportive" pos="ADJ">supportive</instance>
+			<instance id="d000.s116.t007" lemma="measure" pos="NOUN">measure</instance>
+			<wf pos="X">or</wf>
+			<instance id="d000.s116.t008" lemma="other" pos="ADJ">other</instance>
+			<instance id="d000.s116.t009" lemma="veterinary" pos="ADJ">veterinary</instance>
+			<instance id="d000.s116.t010" lemma="therapy" pos="NOUN">therapy</instance>
+			<wf pos="X">while</wf>
+			<instance id="d000.s116.t011" lemma="address" pos="VERB">addressing</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s116.t012" lemma="underlie" pos="VERB">underlying</instance>
+			<instance id="d000.s116.t013" lemma="cause" pos="NOUN">causes</instance>
+			<wf pos="X">of</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s116.t014" lemma="vomiting" pos="NOUN">vomiting</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s117" source="semeval2015-en">
+			<wf pos="X">What</wf>
+			<wf lemma="be" pos="VERB">is</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s117.t000" lemma="risk" pos="NOUN">risk</instance>
+			<instance id="d000.s117.t001" lemma="associate" pos="VERB">associated</instance>
+			<wf pos="X">with</wf>
+			<wf lemma="cerenia" pos="NOUN">Cerenia</wf>
+			<wf pos="X">?</wf>
+		</sentence>
+		<sentence id="d000.s118" source="semeval2015-en">
+			<wf lemma="cerenia" pos="NOUN">Cerenia</wf>
+			<wf lemma="be" pos="VERB">was</wf>
+			<instance id="d000.s118.t000" lemma="generally" pos="ADV">generally</instance>
+			<instance id="d000.s118.t001" lemma="well" pos="ADV">well</instance>
+			<instance id="d000.s118.t002" lemma="tolerate" pos="VERB">tolerated</instance>
+			<wf pos="X">when</wf>
+			<instance id="d000.s118.t003" lemma="administer" pos="VERB">administered</instance>
+			<instance id="d000.s118.t004" lemma="daily" pos="ADV">daily</instance>
+			<wf pos="X">at</wf>
+			<instance id="d000.s118.t005" lemma="dosage" pos="NOUN">dosages</instance>
+			<wf lemma="up" pos="ADV">up</wf>
+			<wf pos="X">to</wf>
+			<wf pos="X">5</wf>
+			<instance id="d000.s118.t006" lemma="time" pos="NOUN">times</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s118.t007" lemma="recommend" pos="VERB">recommended</instance>
+			<instance id="d000.s118.t008" lemma="dose" pos="NOUN">doses</instance>
+			<wf pos="X">for</wf>
+			<wf pos="X">an</wf>
+			<instance id="d000.s118.t009" lemma="extended" pos="ADJ">extended</instance>
+			<instance id="d000.s118.t010" lemma="period" pos="NOUN">period</instance>
+			<wf pos="X">of</wf>
+			<instance id="d000.s118.t011" lemma="time" pos="NOUN">time</instance>
+			<wf pos="X">(</wf>
+			<wf lemma="up" pos="ADV">up</wf>
+			<wf pos="X">to</wf>
+			<wf pos="X">3</wf>
+			<instance id="d000.s118.t012" lemma="time" pos="NOUN">times</instance>
+			<wf pos="X">the</wf>
+			<wf lemma="recommended" pos="ADJ">recommended</wf>
+			<instance id="d000.s118.t013" lemma="maximum" pos="ADJ">maximum</instance>
+			<instance id="d000.s118.t014" lemma="duration" pos="NOUN">duration</instance>
+			<wf pos="X">of</wf>
+			<instance id="d000.s118.t015" lemma="treatment" pos="NOUN">treatment</instance>
+			<wf pos="X">)</wf>
+			<wf pos="X">.</wf>
+		</sentence>
+		<sentence id="d000.s119" source="semeval2015-en">
+			<wf pos="X">What</wf>
+			<wf lemma="be" pos="VERB">are</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s119.t000" lemma="precaution" pos="NOUN">precautions</instance>
+			<wf pos="X">for</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s119.t001" lemma="person" pos="NOUN">person</instance>
+			<wf pos="X">who</wf>
+			<instance id="d000.s119.t002" lemma="give" pos="VERB">gives</instance>
+			<wf pos="X">the</wf>
+			<instance id="d000.s119.t003" lemma="medicine" pos="NOUN">medicine</instance>
+			<wf pos="X">or</wf>
+			<instance id="d000.s119.t004" lemma="come" pos="VERB">comes</instance>
+			<wf pos="X">into</wf>
+			<instance id="d000.s119.t005" lemma="contact" pos="NOUN">contact</instance>
+			<wf pos="X">with</wf>
+			<wf pos="X">the</wf>
+			<instance id="d000.s119.t006" lemma="animal" pos="NOUN">animal</instance>
+			<wf pos="X">?</wf>
+		</sentence>
+		<sentence id="d000.s120" source="semeval2015-en">
+			<wf lemma="cerenia" pos="NOUN">Cerenia</wf>
+			<wf lemma="do" pos="VERB">does</wf>
+			<instance id="d000.s120.t000" lemma="not" pos="ADV">not</instance>
+			<instance id="d000.s120.t001" lemma="represent" pos="VERB">represent</instance>
+			<wf pos="X">a</wf>
+			<instance id="d000.s120.t002" lemma="particular" pos="ADJ">particular</instance>
+			<instance id="d000.s120.t003" lemma="risk" pos="NOUN">risk</instance>
+			<wf pos="X">for</wf>
+			<instance id="d000.s120.t004" lemma="people" pos="NOUN">people</instance>
+			<wf pos="X">.</wf>
+		</sentence>
+	</text>
+</corpus>

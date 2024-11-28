@@ -1,0 +1,2832 @@
+<?xml version='1.0' encoding='utf-8'?>
+<corpus lang="ZH">
+	<text id="d001">
+		<sentence id="d001.s000" source="semeval2015-en">
+			<instance id="d001.s000.t000" lemma="本" pos="X">本</instance>
+			<instance id="d001.s000.t001" lemma="文件" pos="NOUN">文件</instance>
+			<instance id="d001.s000.t002" lemma="是" pos="VERB">是</instance>
+			<instance id="d001.s000.t003" lemma="欧洲" pos="ADJ">欧洲</instance>
+			<instance id="d001.s000.t004" lemma="公共" pos="ADJ">公共</instance>
+			<instance id="d001.s000.t005" lemma="评估" pos="NOUN">评估</instance>
+			<instance id="d001.s000.t006" lemma="报告" pos="NOUN">报告</instance>
+			<instance id="d001.s000.t007" lemma="(" pos="X">(</instance>
+			<instance id="d001.s000.t008" lemma="EPAR" pos="NOUN">EPAR</instance>
+			<instance id="d001.s000.t009" lemma=")" pos="X">)</instance>
+			<instance id="d001.s000.t010" lemma="的" pos="X">的</instance>
+			<instance id="d001.s000.t011" lemma="摘要" pos="NOUN">摘要</instance>
+			<instance id="d001.s000.t012" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d001.s001" source="semeval2015-en">
+			<instance id="d001.s001.t000" lemma="它" pos="X">它</instance>
+			<instance id="d001.s001.t001" lemma="解释" pos="VERB">解释</instance>
+			<instance id="d001.s001.t002" lemma="了" pos="X">了</instance>
+			<instance id="d001.s001.t003" lemma="人" pos="ADJ">人</instance>
+			<instance id="d001.s001.t004" lemma="用" pos="NOUN">用</instance>
+			<instance id="d001.s001.t005" lemma="药品" pos="NOUN">药品</instance>
+			<instance id="d001.s001.t006" lemma="委员会" pos="NOUN">委员会</instance>
+			<instance id="d001.s001.t007" lemma="(" pos="X">(</instance>
+			<instance id="d001.s001.t008" lemma="CHMP" pos="NOUN">CHMP</instance>
+			<instance id="d001.s001.t009" lemma=")" pos="X">)</instance>
+			<instance id="d001.s001.t010" lemma="如何" pos="ADV">如何</instance>
+			<instance id="d001.s001.t011" lemma="评估" pos="VERB">评估</instance>
+			<instance id="d001.s001.t012" lemma="所" pos="X">所</instance>
+			<instance id="d001.s001.t013" lemma="进行" pos="VERB">进行</instance>
+			<instance id="d001.s001.t014" lemma="的" pos="X">的</instance>
+			<instance id="d001.s001.t015" lemma="研究" pos="NOUN">研究</instance>
+			<instance id="d001.s001.t016" lemma="，" pos="X">，</instance>
+			<instance id="d001.s001.t017" lemma="以" pos="X">以</instance>
+			<instance id="d001.s001.t018" lemma="得出" pos="VERB">得出</instance>
+			<instance id="d001.s001.t019" lemma="关于" pos="X">关于</instance>
+			<instance id="d001.s001.t020" lemma="如何" pos="ADV">如何</instance>
+			<instance id="d001.s001.t021" lemma="使用" pos="VERB">使用</instance>
+			<instance id="d001.s001.t022" lemma="药物" pos="NOUN">药物</instance>
+			<instance id="d001.s001.t023" lemma="的" pos="X">的</instance>
+			<instance id="d001.s001.t024" lemma="建议" pos="NOUN">建议</instance>
+			<instance id="d001.s001.t025" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d001.s002" source="semeval2015-en">
+			<instance id="d001.s002.t000" lemma="如果" pos="X">如果</instance>
+			<instance id="d001.s002.t001" lemma="您" pos="X">您</instance>
+			<instance id="d001.s002.t002" lemma="需要" pos="VERB">需要</instance>
+			<instance id="d001.s002.t003" lemma="更" pos="ADV">更</instance>
+			<instance id="d001.s002.t004" lemma="多" pos="ADJ">多</instance>
+			<instance id="d001.s002.t005" lemma="有关" pos="X">有关</instance>
+			<instance id="d001.s002.t006" lemma="您" pos="X">您</instance>
+			<instance id="d001.s002.t007" lemma="的" pos="X">的</instance>
+			<instance id="d001.s002.t008" lemma="医疗" pos="ADJ">医疗</instance>
+			<instance id="d001.s002.t009" lemma="状况" pos="NOUN">状况</instance>
+			<instance id="d001.s002.t010" lemma="或" pos="X">或</instance>
+			<instance id="d001.s002.t011" lemma="治疗" pos="ADJ">治疗</instance>
+			<instance id="d001.s002.t012" lemma="的" pos="X">的</instance>
+			<instance id="d001.s002.t013" lemma="信息" pos="NOUN">信息</instance>
+			<instance id="d001.s002.t014" lemma="，" pos="X">，</instance>
+			<instance id="d001.s002.t015" lemma="请" pos="VERB">请</instance>
+			<instance id="d001.s002.t016" lemma="阅读" pos="VERB">阅读</instance>
+			<instance id="d001.s002.t017" lemma="药品" pos="NOUN">药品</instance>
+			<instance id="d001.s002.t018" lemma="说明书" pos="NOUN">说明书</instance>
+			<instance id="d001.s002.t019" lemma="（" pos="X">（</instance>
+			<instance id="d001.s002.t020" lemma="也" pos="ADV">也</instance>
+			<instance id="d001.s002.t021" lemma="是" pos="VERB">是</instance>
+			<instance id="d001.s002.t022" lemma="EPAR" pos="NOUN">EPAR</instance>
+			<instance id="d001.s002.t023" lemma="的" pos="X">的</instance>
+			<instance id="d001.s002.t024" lemma="一部分" pos="NOUN">一部分</instance>
+			<instance id="d001.s002.t025" lemma="）" pos="X">）</instance>
+			<instance id="d001.s002.t026" lemma="或" pos="X">或</instance>
+			<instance id="d001.s002.t027" lemma="联系" pos="VERB">联系</instance>
+			<instance id="d001.s002.t028" lemma="您" pos="X">您</instance>
+			<instance id="d001.s002.t029" lemma="的" pos="X">的</instance>
+			<instance id="d001.s002.t030" lemma="医生" pos="NOUN">医生</instance>
+			<instance id="d001.s002.t031" lemma="或" pos="X">或</instance>
+			<instance id="d001.s002.t032" lemma="药剂师" pos="NOUN">药剂师</instance>
+			<instance id="d001.s002.t033" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d001.s003" source="semeval2015-en">
+			<instance id="d001.s003.t000" lemma="如果" pos="X">如果</instance>
+			<instance id="d001.s003.t001" lemma="您" pos="X">您</instance>
+			<instance id="d001.s003.t002" lemma="想" pos="VERB">想</instance>
+			<instance id="d001.s003.t003" lemma="了解" pos="VERB">了解</instance>
+			<instance id="d001.s003.t004" lemma="有关" pos="ADJ">有关</instance>
+			<instance id="d001.s003.t005" lemma="CHMP" pos="NOUN">CHMP</instance>
+			<instance id="d001.s003.t006" lemma="建议" pos="NOUN">建议</instance>
+			<instance id="d001.s003.t007" lemma="的" pos="X">的</instance>
+			<instance id="d001.s003.t008" lemma="更" pos="ADV">更</instance>
+			<instance id="d001.s003.t009" lemma="多" pos="X">多</instance>
+			<instance id="d001.s003.t010" lemma="信息" pos="NOUN">信息</instance>
+			<instance id="d001.s003.t011" lemma="，" pos="X">，</instance>
+			<instance id="d001.s003.t012" lemma="请" pos="VERB">请</instance>
+			<instance id="d001.s003.t013" lemma="阅读" pos="VERB">阅读</instance>
+			<instance id="d001.s003.t014" lemma="科学" pos="ADJ">科学</instance>
+			<instance id="d001.s003.t015" lemma="讨论" pos="NOUN">讨论</instance>
+			<instance id="d001.s003.t016" lemma="（" pos="X">（</instance>
+			<instance id="d001.s003.t017" lemma="也" pos="ADV">也</instance>
+			<instance id="d001.s003.t018" lemma="是" pos="VERB">是</instance>
+			<instance id="d001.s003.t019" lemma="EPAR" pos="NOUN">EPAR</instance>
+			<instance id="d001.s003.t020" lemma="的" pos="X">的</instance>
+			<instance id="d001.s003.t021" lemma="一部分" pos="NOUN">一部分</instance>
+			<instance id="d001.s003.t022" lemma="）" pos="X">）</instance>
+			<instance id="d001.s003.t023" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d001.s004" source="semeval2015-en">
+			<instance id="d001.s004.t000" lemma="什么" pos="X">什么</instance>
+			<instance id="d001.s004.t001" lemma="是" pos="VERB">是</instance>
+			<instance id="d001.s004.t002" lemma="Alimta" pos="NOUN">Alimta</instance>
+			<instance id="d001.s004.t003" lemma="？" pos="X">？</instance>
+		</sentence>
+		<sentence id="d001.s005" source="semeval2015-en">
+			<instance id="d001.s005.t000" lemma="Alimta" pos="NOUN">Alimta</instance>
+			<instance id="d001.s005.t001" lemma="是" pos="VERB">是</instance>
+			<instance id="d001.s005.t002" lemma="一" pos="X">一</instance>
+			<instance id="d001.s005.t003" lemma="种" pos="NOUN">种</instance>
+			<instance id="d001.s005.t004" lemma="粉末" pos="NOUN">粉末</instance>
+			<instance id="d001.s005.t005" lemma="，" pos="X">，</instance>
+			<instance id="d001.s005.t006" lemma="可" pos="VERB">可</instance>
+			<instance id="d001.s005.t007" lemma="制成" pos="VERB">制成</instance>
+			<instance id="d001.s005.t008" lemma="输液" pos="NOUN">输液</instance>
+			<instance id="d001.s005.t009" lemma="溶液" pos="NOUN">溶液</instance>
+			<instance id="d001.s005.t010" lemma="（" pos="X">（</instance>
+			<instance id="d001.s005.t011" lemma="滴入" pos="VERB">滴入</instance>
+			<instance id="d001.s005.t012" lemma="静脉" pos="NOUN">静脉</instance>
+			<instance id="d001.s005.t013" lemma="）" pos="X">）</instance>
+			<instance id="d001.s005.t014" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d001.s006" source="semeval2015-en">
+			<instance id="d001.s006.t000" lemma="它" pos="X">它</instance>
+			<instance id="d001.s006.t001" lemma="含有" pos="VERB">含有</instance>
+			<instance id="d001.s006.t002" lemma="活性" pos="ADJ">活性</instance>
+			<instance id="d001.s006.t003" lemma="成分" pos="NOUN">成分</instance>
+			<instance id="d001.s006.t004" lemma="培美" pos="NOUN">培美</instance>
+			<instance id="d001.s006.t005" lemma="曲塞" pos="NOUN">曲塞</instance>
+			<instance id="d001.s006.t006" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d001.s007" source="semeval2015-en">
+			<instance id="d001.s007.t000" lemma="Alimta" pos="NOUN">Alimta</instance>
+			<instance id="d001.s007.t001" lemma="的" pos="X">的</instance>
+			<instance id="d001.s007.t002" lemma="用途" pos="NOUN">用途</instance>
+			<instance id="d001.s007.t003" lemma="是" pos="VERB">是</instance>
+			<instance id="d001.s007.t004" lemma="什么" pos="X">什么</instance>
+			<instance id="d001.s007.t005" lemma="？" pos="X">？</instance>
+		</sentence>
+		<sentence id="d001.s008" source="semeval2015-en">
+			<instance id="d001.s008.t000" lemma="Alimta" pos="NOUN">Alimta</instance>
+			<instance id="d001.s008.t001" lemma="用于" pos="VERB">用于</instance>
+			<instance id="d001.s008.t002" lemma="治疗" pos="VERB">治疗</instance>
+			<instance id="d001.s008.t003" lemma="两" pos="X">两</instance>
+			<instance id="d001.s008.t004" lemma="种" pos="NOUN">种</instance>
+			<instance id="d001.s008.t005" lemma="类型" pos="NOUN">类型</instance>
+			<instance id="d001.s008.t006" lemma="的" pos="X">的</instance>
+			<instance id="d001.s008.t007" lemma="癌症" pos="NOUN">癌症</instance>
+			<instance id="d001.s008.t008" lemma="：" pos="X">：</instance>
+			<instance id="d001.s008.t009" lemma="胸膜" pos="NOUN">胸膜</instance>
+			<instance id="d001.s008.t010" lemma="间" pos="X">间</instance>
+			<instance id="d001.s008.t011" lemma="皮" pos="NOUN">皮</instance>
+			<instance id="d001.s008.t012" lemma="瘤" pos="NOUN">瘤</instance>
+			<instance id="d001.s008.t013" lemma="（" pos="X">（</instance>
+			<instance id="d001.s008.t014" lemma="肺部" pos="NOUN">肺部</instance>
+			<instance id="d001.s008.t015" lemma="内膜" pos="NOUN">内膜</instance>
+			<instance id="d001.s008.t016" lemma="癌症" pos="NOUN">癌症</instance>
+			<instance id="d001.s008.t017" lemma="，" pos="X">，</instance>
+			<instance id="d001.s008.t018" lemma="通常" pos="ADV">通常</instance>
+			<instance id="d001.s008.t019" lemma="由" pos="X">由</instance>
+			<instance id="d001.s008.t020" lemma="接触" pos="VERB">接触</instance>
+			<instance id="d001.s008.t021" lemma="石棉" pos="NOUN">石棉</instance>
+			<instance id="d001.s008.t022" lemma="引起" pos="VERB">引起</instance>
+			<instance id="d001.s008.t023" lemma="）" pos="X">）</instance>
+			<instance id="d001.s008.t024" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d001.s009" source="semeval2015-en">
+			<instance id="d001.s009.t000" lemma="当" pos="X">当</instance>
+			<instance id="d001.s009.t001" lemma="癌症" pos="NOUN">癌症</instance>
+			<instance id="d001.s009.t002" lemma="无法切除" pos="ADJ">无法切除</instance>
+			<instance id="d001.s009.t003" lemma="（" pos="X">（</instance>
+			<instance id="d001.s009.t004" lemma="不能" pos="ADV">不能</instance>
+			<instance id="d001.s009.t005" lemma="仅" pos="ADV">仅</instance>
+			<instance id="d001.s009.t006" lemma="通过" pos="X">通过</instance>
+			<instance id="d001.s009.t007" lemma="手术" pos="NOUN">手术</instance>
+			<instance id="d001.s009.t008" lemma="切除" pos="VERB">切除</instance>
+			<instance id="d001.s009.t009" lemma="）" pos="X">）</instance>
+			<instance id="d001.s009.t010" lemma="且" pos="X">且</instance>
+			<instance id="d001.s009.t011" lemma="为" pos="X">为</instance>
+			<instance id="d001.s009.t012" lemma="恶性" pos="ADJ">恶性</instance>
+			<instance id="d001.s009.t013" lemma="（" pos="X">（</instance>
+			<instance id="d001.s009.t014" lemma="已经" pos="ADV">已经</instance>
+			<instance id="d001.s009.t015" lemma="扩散" pos="VERB">扩散</instance>
+			<instance id="d001.s009.t016" lemma="或" pos="X">或</instance>
+			<instance id="d001.s009.t017" lemma="可能" pos="ADV">可能</instance>
+			<instance id="d001.s009.t018" lemma="轻易" pos="ADV">轻易</instance>
+			<instance id="d001.s009.t019" lemma="扩散" pos="VERB">扩散</instance>
+			<instance id="d001.s009.t020" lemma="到" pos="X">到</instance>
+			<instance id="d001.s009.t021" lemma="身体" pos="NOUN">身体</instance>
+			<instance id="d001.s009.t022" lemma="其他" pos="ADJ">其他</instance>
+			<instance id="d001.s009.t023" lemma="部位" pos="NOUN">部位</instance>
+			<instance id="d001.s009.t024" lemma="）" pos="X">）</instance>
+			<instance id="d001.s009.t025" lemma="，" pos="X">，</instance>
+			<instance id="d001.s009.t026" lemma="且" pos="X">且</instance>
+			<instance id="d001.s009.t027" lemma="之前" pos="ADV">之前</instance>
+			<instance id="d001.s009.t028" lemma="未" pos="ADV">未</instance>
+			<instance id="d001.s009.t029" lemma="接受" pos="VERB">接受</instance>
+			<instance id="d001.s009.t030" lemma="过" pos="X">过</instance>
+			<instance id="d001.s009.t031" lemma="化疗" pos="NOUN">化疗</instance>
+			<instance id="d001.s009.t032" lemma="（" pos="X">（</instance>
+			<instance id="d001.s009.t033" lemma="抗癌" pos="ADJ">抗癌</instance>
+			<instance id="d001.s009.t034" lemma="药物" pos="NOUN">药物</instance>
+			<instance id="d001.s009.t035" lemma="）" pos="X">）</instance>
+			<instance id="d001.s009.t036" lemma="的" pos="X">的</instance>
+			<instance id="d001.s009.t037" lemma="晚期" pos="ADJ">晚期</instance>
+			<instance id="d001.s009.t038" lemma="或" pos="X">或</instance>
+			<instance id="d001.s009.t039" lemma="转移" pos="ADJ">转移</instance>
+			<instance id="d001.s009.t040" lemma="性" pos="ADJ">性</instance>
+			<instance id="d001.s009.t041" lemma="非" pos="ADJ">非</instance>
+			<instance id="d001.s009.t042" lemma="小" pos="ADJ">小</instance>
+			<instance id="d001.s009.t043" lemma="细胞" pos="NOUN">细胞</instance>
+			<instance id="d001.s009.t044" lemma="肺癌" pos="NOUN">肺癌</instance>
+			<instance id="d001.s009.t045" lemma="患者" pos="NOUN">患者</instance>
+			<instance id="d001.s009.t046" lemma="（" pos="X">（</instance>
+			<instance id="d001.s009.t047" lemma="未" pos="ADV">未</instance>
+			<instance id="d001.s009.t048" lemma="影响" pos="VERB">影响</instance>
+			<instance id="d001.s009.t049" lemma="鳞" pos="NOUN">鳞</instance>
+			<instance id="d001.s009.t050" lemma="状" pos="NOUN">状</instance>
+			<instance id="d001.s009.t051" lemma="细胞" pos="NOUN">细胞</instance>
+			<instance id="d001.s009.t052" lemma="）" pos="X">）</instance>
+			<instance id="d001.s009.t053" lemma="时" pos="X">时</instance>
+			<instance id="d001.s009.t054" lemma="，" pos="X">，</instance>
+			<instance id="d001.s009.t055" lemma="Alimta" pos="NOUN">Alimta</instance>
+			<instance id="d001.s009.t056" lemma="与" pos="X">与</instance>
+			<instance id="d001.s009.t057" lemma="顺" pos="ADJ">顺</instance>
+			<instance id="d001.s009.t058" lemma="铂" pos="NOUN">铂</instance>
+			<instance id="d001.s009.t059" lemma="（" pos="X">（</instance>
+			<instance id="d001.s009.t060" lemma="另" pos="X">另</instance>
+			<instance id="d001.s009.t061" lemma="一" pos="X">一</instance>
+			<instance id="d001.s009.t062" lemma="种" pos="NOUN">种</instance>
+			<instance id="d001.s009.t063" lemma="抗癌" pos="ADJ">抗癌</instance>
+			<instance id="d001.s009.t064" lemma="药物" pos="NOUN">药物</instance>
+			<instance id="d001.s009.t065" lemma="）" pos="X">）</instance>
+			<instance id="d001.s009.t066" lemma="一起" pos="ADV">一起</instance>
+			<instance id="d001.s009.t067" lemma="使用" pos="VERB">使用</instance>
+			<instance id="d001.s009.t068" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d001.s010" source="semeval2015-en">
+			<instance id="d001.s010.t000" lemma="对于" pos="X">对于</instance>
+			<instance id="d001.s010.t001" lemma="以前" pos="ADV">以前</instance>
+			<instance id="d001.s010.t002" lemma="未" pos="ADV">未</instance>
+			<instance id="d001.s010.t003" lemma="接受" pos="VERB">接受</instance>
+			<instance id="d001.s010.t004" lemma="过" pos="X">过</instance>
+			<instance id="d001.s010.t005" lemma="治疗" pos="NOUN">治疗</instance>
+			<instance id="d001.s010.t006" lemma="的" pos="X">的</instance>
+			<instance id="d001.s010.t007" lemma="患者" pos="NOUN">患者</instance>
+			<instance id="d001.s010.t008" lemma="，" pos="X">，</instance>
+			<instance id="d001.s010.t009" lemma="Alimta" pos="NOUN">Alimta</instance>
+			<instance id="d001.s010.t010" lemma="与" pos="X">与</instance>
+			<instance id="d001.s010.t011" lemma="顺铂" pos="NOUN">顺铂</instance>
+			<instance id="d001.s010.t012" lemma="联合" pos="ADV">联合</instance>
+			<instance id="d001.s010.t013" lemma="使用" pos="VERB">使用</instance>
+			<instance id="d001.s010.t014" lemma="；" pos="X">；</instance>
+			<instance id="d001.s010.t015" lemma="对于" pos="X">对于</instance>
+			<instance id="d001.s010.t016" lemma="以前" pos="ADV">以前</instance>
+			<instance id="d001.s010.t017" lemma="接受" pos="VERB">接受</instance>
+			<instance id="d001.s010.t018" lemma="过" pos="X">过</instance>
+			<instance id="d001.s010.t019" lemma="其他" pos="ADJ">其他</instance>
+			<instance id="d001.s010.t020" lemma="类型" pos="NOUN">类型</instance>
+			<instance id="d001.s010.t021" lemma="化疗" pos="NOUN">化疗</instance>
+			<instance id="d001.s010.t022" lemma="的" pos="X">的</instance>
+			<instance id="d001.s010.t023" lemma="患者" pos="NOUN">患者</instance>
+			<instance id="d001.s010.t024" lemma="，" pos="X">，</instance>
+			<instance id="d001.s010.t025" lemma="Alimta" pos="NOUN">Alimta</instance>
+			<instance id="d001.s010.t026" lemma="可" pos="VERB">可</instance>
+			<instance id="d001.s010.t027" lemma="单独" pos="ADV">单独</instance>
+			<instance id="d001.s010.t028" lemma="使用" pos="VERB">使用</instance>
+			<instance id="d001.s010.t029" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d001.s011" source="semeval2015-en">
+			<instance id="d001.s011.t000" lemma="这" pos="X">这</instance>
+			<instance id="d001.s011.t001" lemma="种" pos="NOUN">种</instance>
+			<instance id="d001.s011.t002" lemma="药" pos="NOUN">药</instance>
+			<instance id="d001.s011.t003" lemma="必须" pos="ADV">必须</instance>
+			<instance id="d001.s011.t004" lemma="凭" pos="X">凭</instance>
+			<instance id="d001.s011.t005" lemma="处方" pos="NOUN">处方</instance>
+			<instance id="d001.s011.t006" lemma="才" pos="ADV">才</instance>
+			<instance id="d001.s011.t007" lemma="能" pos="VERB">能</instance>
+			<instance id="d001.s011.t008" lemma="买到" pos="VERB">买到</instance>
+			<instance id="d001.s011.t009" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d001.s012" source="semeval2015-en">
+			<instance id="d001.s012.t000" lemma="Alimta" pos="NOUN">Alimta</instance>
+			<instance id="d001.s012.t001" lemma="如何" pos="ADV">如何</instance>
+			<instance id="d001.s012.t002" lemma="使用" pos="VERB">使用</instance>
+			<instance id="d001.s012.t003" lemma="？" pos="X">？</instance>
+		</sentence>
+		<sentence id="d001.s013" source="semeval2015-en">
+			<instance id="d001.s013.t000" lemma="Alimta" pos="NOUN">Alimta</instance>
+			<instance id="d001.s013.t001" lemma="只" pos="ADV">只</instance>
+			<instance id="d001.s013.t002" lemma="能" pos="VERB">能</instance>
+			<instance id="d001.s013.t003" lemma="在" pos="X">在</instance>
+			<instance id="d001.s013.t004" lemma="具有" pos="VERB">具有</instance>
+			<instance id="d001.s013.t005" lemma="抗癌" pos="ADJ">抗癌</instance>
+			<instance id="d001.s013.t006" lemma="化疗" pos="NOUN">化疗</instance>
+			<instance id="d001.s013.t007" lemma="使用" pos="NOUN">使用</instance>
+			<instance id="d001.s013.t008" lemma="资质" pos="NOUN">资质</instance>
+			<instance id="d001.s013.t009" lemma="的" pos="X">的</instance>
+			<instance id="d001.s013.t010" lemma="医生" pos="NOUN">医生</instance>
+			<instance id="d001.s013.t011" lemma="的" pos="X">的</instance>
+			<instance id="d001.s013.t012" lemma="监督" pos="NOUN">监督</instance>
+			<instance id="d001.s013.t013" lemma="下" pos="X">下</instance>
+			<instance id="d001.s013.t014" lemma="使用" pos="VERB">使用</instance>
+			<instance id="d001.s013.t015" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d001.s014" source="semeval2015-en">
+			<instance id="d001.s014.t000" lemma="Alimta" pos="NOUN">Alimta</instance>
+			<instance id="d001.s014.t001" lemma="的" pos="X">的</instance>
+			<instance id="d001.s014.t002" lemma="推荐" pos="NOUN">推荐</instance>
+			<instance id="d001.s014.t003" lemma="剂量" pos="NOUN">剂量</instance>
+			<instance id="d001.s014.t004" lemma="为" pos="VERB">为</instance>
+			<instance id="d001.s014.t005" lemma="每" pos="X">每</instance>
+			<instance id="d001.s014.t006" lemma="平方米" pos="NOUN">平方米</instance>
+			<instance id="d001.s014.t007" lemma="体表" pos="NOUN">体表</instance>
+			<instance id="d001.s014.t008" lemma="面积" pos="NOUN">面积</instance>
+			<instance id="d001.s014.t009" lemma="500" pos="X">500</instance>
+			<instance id="d001.s014.t010" lemma="毫克" pos="NOUN">毫克</instance>
+			<instance id="d001.s014.t011" lemma="（" pos="X">（</instance>
+			<instance id="d001.s014.t012" lemma="根据" pos="VERB">根据</instance>
+			<instance id="d001.s014.t013" lemma="患者" pos="NOUN">患者</instance>
+			<instance id="d001.s014.t014" lemma="的" pos="X">的</instance>
+			<instance id="d001.s014.t015" lemma="身高" pos="NOUN">身高</instance>
+			<instance id="d001.s014.t016" lemma="和" pos="X">和</instance>
+			<instance id="d001.s014.t017" lemma="体重" pos="NOUN">体重</instance>
+			<instance id="d001.s014.t018" lemma="计算" pos="VERB">计算</instance>
+			<instance id="d001.s014.t019" lemma="）" pos="X">）</instance>
+			<instance id="d001.s014.t020" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d001.s015" source="semeval2015-en">
+			<instance id="d001.s015.t000" lemma="每" pos="X">每</instance>
+			<instance id="d001.s015.t001" lemma="三" pos="X">三</instance>
+			<instance id="d001.s015.t002" lemma="周" pos="NOUN">周</instance>
+			<instance id="d001.s015.t003" lemma="进行" pos="VERB">进行</instance>
+			<instance id="d001.s015.t004" lemma="一" pos="X">一</instance>
+			<instance id="d001.s015.t005" lemma="次" pos="NOUN">次</instance>
+			<instance id="d001.s015.t006" lemma="静脉" pos="ADJ">静脉</instance>
+			<instance id="d001.s015.t007" lemma="输" pos="NOUN">输</instance>
+			<instance id="d001.s015.t008" lemma="注" pos="NOUN">注</instance>
+			<instance id="d001.s015.t009" lemma="，" pos="X">，</instance>
+			<instance id="d001.s015.t010" lemma="每次" pos="ADV">每次</instance>
+			<instance id="d001.s015.t011" lemma="持续" pos="VERB">持续</instance>
+			<instance id="d001.s015.t012" lemma="10" pos="X">10</instance>
+			<instance id="d001.s015.t013" lemma="分钟" pos="NOUN">分钟</instance>
+			<instance id="d001.s015.t014" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d001.s016" source="semeval2015-en">
+			<instance id="d001.s016.t000" lemma="为了" pos="X">为了</instance>
+			<instance id="d001.s016.t001" lemma="减少" pos="VERB">减少</instance>
+			<instance id="d001.s016.t002" lemma="副作用" pos="NOUN">副作用</instance>
+			<instance id="d001.s016.t003" lemma="，" pos="X">，</instance>
+			<instance id="d001.s016.t004" lemma="患者" pos="NOUN">患者</instance>
+			<instance id="d001.s016.t005" lemma="在" pos="X">在</instance>
+			<instance id="d001.s016.t006" lemma="使用" pos="VERB">使用</instance>
+			<instance id="d001.s016.t007" lemma="Alimta" pos="NOUN">Alimta</instance>
+			<instance id="d001.s016.t008" lemma="治疗" pos="VERB">治疗</instance>
+			<instance id="d001.s016.t009" lemma="期间" pos="NOUN">期间</instance>
+			<instance id="d001.s016.t010" lemma="应该" pos="VERB">应该</instance>
+			<instance id="d001.s016.t011" lemma="服用" pos="VERB">服用</instance>
+			<instance id="d001.s016.t012" lemma="皮质类固醇" pos="NOUN">皮质类固醇</instance>
+			<instance id="d001.s016.t013" lemma="和" pos="X">和</instance>
+			<instance id="d001.s016.t014" lemma="叶酸" pos="NOUN">叶酸</instance>
+			<instance id="d001.s016.t015" lemma="（" pos="X">（</instance>
+			<instance id="d001.s016.t016" lemma="一" pos="X">一</instance>
+			<instance id="d001.s016.t017" lemma="种" pos="NOUN">种</instance>
+			<instance id="d001.s016.t018" lemma="维生素" pos="NOUN">维生素</instance>
+			<instance id="d001.s016.t019" lemma="）" pos="X">）</instance>
+			<instance id="d001.s016.t020" lemma="，" pos="X">，</instance>
+			<instance id="d001.s016.t021" lemma="并" pos="ADV">并</instance>
+			<instance id="d001.s016.t022" lemma="注射" pos="VERB">注射</instance>
+			<instance id="d001.s016.t023" lemma="维生素" pos="NOUN">维生素</instance>
+			<instance id="d001.s016.t024" lemma="B12" pos="NOUN">B12</instance>
+			<instance id="d001.s016.t025" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d001.s017" source="semeval2015-en">
+			<instance id="d001.s017.t000" lemma="当" pos="X">当</instance>
+			<instance id="d001.s017.t001" lemma="Alimta" pos="NOUN">Alimta</instance>
+			<instance id="d001.s017.t002" lemma="与" pos="X">与</instance>
+			<instance id="d001.s017.t003" lemma="顺" pos="ADJ">顺</instance>
+			<instance id="d001.s017.t004" lemma="铂" pos="NOUN">铂</instance>
+			<instance id="d001.s017.t005" lemma="一起" pos="ADV">一起</instance>
+			<instance id="d001.s017.t006" lemma="服用" pos="VERB">服用</instance>
+			<instance id="d001.s017.t007" lemma="时" pos="X">时</instance>
+			<instance id="d001.s017.t008" lemma="，" pos="X">，</instance>
+			<instance id="d001.s017.t009" lemma="还" pos="ADV">还</instance>
+			<instance id="d001.s017.t010" lemma="应" pos="VERB">应</instance>
+			<instance id="d001.s017.t011" lemma="在" pos="X">在</instance>
+			<instance id="d001.s017.t012" lemma="顺" pos="ADJ">顺</instance>
+			<instance id="d001.s017.t013" lemma="铂" pos="NOUN">铂</instance>
+			<instance id="d001.s017.t014" lemma="给" pos="VERB">给</instance>
+			<instance id="d001.s017.t015" lemma="药" pos="NOUN">药</instance>
+			<instance id="d001.s017.t016" lemma="之前" pos="ADV">之前</instance>
+			<instance id="d001.s017.t017" lemma="或" pos="X">或</instance>
+			<instance id="d001.s017.t018" lemma="之后" pos="ADV">之后</instance>
+			<instance id="d001.s017.t019" lemma="给予" pos="VERB">给予</instance>
+			<instance id="d001.s017.t020" lemma="止吐" pos="ADJ">止吐</instance>
+			<instance id="d001.s017.t021" lemma="药" pos="NOUN">药</instance>
+			<instance id="d001.s017.t022" lemma="（" pos="X">（</instance>
+			<instance id="d001.s017.t023" lemma="以" pos="X">以</instance>
+			<instance id="d001.s017.t024" lemma="防止" pos="VERB">防止</instance>
+			<instance id="d001.s017.t025" lemma="呕吐" pos="NOUN">呕吐</instance>
+			<instance id="d001.s017.t026" lemma="）" pos="X">）</instance>
+			<instance id="d001.s017.t027" lemma="和" pos="X">和</instance>
+			<instance id="d001.s017.t028" lemma="液体" pos="NOUN">液体</instance>
+			<instance id="d001.s017.t029" lemma="（" pos="X">（</instance>
+			<instance id="d001.s017.t030" lemma="以" pos="X">以</instance>
+			<instance id="d001.s017.t031" lemma="防止" pos="VERB">防止</instance>
+			<instance id="d001.s017.t032" lemma="脱水" pos="NOUN">脱水</instance>
+			<instance id="d001.s017.t033" lemma="）" pos="X">）</instance>
+			<instance id="d001.s017.t034" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d001.s018" source="semeval2015-en">
+			<instance id="d001.s018.t000" lemma="对于" pos="X">对于</instance>
+			<instance id="d001.s018.t001" lemma="血细胞" pos="NOUN">血细胞</instance>
+			<instance id="d001.s018.t002" lemma="计数" pos="NOUN">计数</instance>
+			<instance id="d001.s018.t003" lemma="异常" pos="ADJ">异常</instance>
+			<instance id="d001.s018.t004" lemma="或" pos="X">或</instance>
+			<instance id="d001.s018.t005" lemma="出现" pos="VERB">出现</instance>
+			<instance id="d001.s018.t006" lemma="其他" pos="ADJ">其他</instance>
+			<instance id="d001.s018.t007" lemma="副作用" pos="NOUN">副作用</instance>
+			<instance id="d001.s018.t008" lemma="的" pos="X">的</instance>
+			<instance id="d001.s018.t009" lemma="患者" pos="NOUN">患者</instance>
+			<instance id="d001.s018.t010" lemma="，" pos="X">，</instance>
+			<instance id="d001.s018.t011" lemma="应" pos="VERB">应</instance>
+			<instance id="d001.s018.t012" lemma="推迟" pos="VERB">推迟</instance>
+			<instance id="d001.s018.t013" lemma="或" pos="X">或</instance>
+			<instance id="d001.s018.t014" lemma="停止" pos="VERB">停止</instance>
+			<instance id="d001.s018.t015" lemma="治疗" pos="NOUN">治疗</instance>
+			<instance id="d001.s018.t016" lemma="，" pos="X">，</instance>
+			<instance id="d001.s018.t017" lemma="或" pos="X">或</instance>
+			<instance id="d001.s018.t018" lemma="减少" pos="VERB">减少</instance>
+			<instance id="d001.s018.t019" lemma="剂量" pos="NOUN">剂量</instance>
+			<instance id="d001.s018.t020" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d001.s019" source="semeval2015-en">
+			<instance id="d001.s019.t000" lemma="不" pos="ADV">不</instance>
+			<instance id="d001.s019.t001" lemma="建议" pos="VERB">建议</instance>
+			<instance id="d001.s019.t002" lemma="患有" pos="VERB">患有</instance>
+			<instance id="d001.s019.t003" lemma="中度" pos="ADJ">中度</instance>
+			<instance id="d001.s019.t004" lemma="或" pos="X">或</instance>
+			<instance id="d001.s019.t005" lemma="重度" pos="ADJ">重度</instance>
+			<instance id="d001.s019.t006" lemma="肾脏" pos="NOUN">肾脏</instance>
+			<instance id="d001.s019.t007" lemma="疾病" pos="NOUN">疾病</instance>
+			<instance id="d001.s019.t008" lemma="的" pos="X">的</instance>
+			<instance id="d001.s019.t009" lemma="患者" pos="NOUN">患者</instance>
+			<instance id="d001.s019.t010" lemma="使用" pos="VERB">使用</instance>
+			<instance id="d001.s019.t011" lemma="Alimta" pos="NOUN">Alimta</instance>
+			<instance id="d001.s019.t012" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d001.s020" source="semeval2015-en">
+			<instance id="d001.s020.t000" lemma="欲" pos="VERB">欲</instance>
+			<instance id="d001.s020.t001" lemma="了解" pos="VERB">了解</instance>
+			<instance id="d001.s020.t002" lemma="更" pos="ADV">更</instance>
+			<instance id="d001.s020.t003" lemma="多" pos="X">多</instance>
+			<instance id="d001.s020.t004" lemma="信息" pos="NOUN">信息</instance>
+			<instance id="d001.s020.t005" lemma="，" pos="X">，</instance>
+			<instance id="d001.s020.t006" lemma="请" pos="VERB">请</instance>
+			<instance id="d001.s020.t007" lemma="参阅" pos="VERB">参阅</instance>
+			<instance id="d001.s020.t008" lemma="产品" pos="NOUN">产品</instance>
+			<instance id="d001.s020.t009" lemma="特性" pos="NOUN">特性</instance>
+			<instance id="d001.s020.t010" lemma="摘要" pos="NOUN">摘要</instance>
+			<instance id="d001.s020.t011" lemma="（" pos="X">（</instance>
+			<instance id="d001.s020.t012" lemma="也" pos="ADV">也</instance>
+			<instance id="d001.s020.t013" lemma="是" pos="VERB">是</instance>
+			<instance id="d001.s020.t014" lemma="EPAR" pos="NOUN">EPAR</instance>
+			<instance id="d001.s020.t015" lemma="的" pos="X">的</instance>
+			<instance id="d001.s020.t016" lemma="一部分" pos="NOUN">一部分</instance>
+			<instance id="d001.s020.t017" lemma="）" pos="X">）</instance>
+			<instance id="d001.s020.t018" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d001.s021" source="semeval2015-en">
+			<instance id="d001.s021.t000" lemma="Alimta" pos="NOUN">Alimta</instance>
+			<instance id="d001.s021.t001" lemma="如何" pos="ADV">如何</instance>
+			<instance id="d001.s021.t002" lemma="发挥" pos="VERB">发挥</instance>
+			<instance id="d001.s021.t003" lemma="作用" pos="NOUN">作用</instance>
+			<instance id="d001.s021.t004" lemma="？" pos="X">？</instance>
+		</sentence>
+		<sentence id="d001.s022" source="semeval2015-en">
+			<instance id="d001.s022.t000" lemma="Alimta" pos="NOUN">Alimta</instance>
+			<instance id="d001.s022.t001" lemma="中" pos="X">中</instance>
+			<instance id="d001.s022.t002" lemma="的" pos="X">的</instance>
+			<instance id="d001.s022.t003" lemma="活性" pos="ADJ">活性</instance>
+			<instance id="d001.s022.t004" lemma="成分" pos="NOUN">成分</instance>
+			<instance id="d001.s022.t005" lemma="培美曲塞" pos="NOUN">培美曲塞</instance>
+			<instance id="d001.s022.t006" lemma="是" pos="VERB">是</instance>
+			<instance id="d001.s022.t007" lemma="一" pos="X">一</instance>
+			<instance id="d001.s022.t008" lemma="种" pos="NOUN">种</instance>
+			<instance id="d001.s022.t009" lemma="细胞" pos="NOUN">细胞</instance>
+			<instance id="d001.s022.t010" lemma="毒" pos="ADJ">毒</instance>
+			<instance id="d001.s022.t011" lemma="药物" pos="NOUN">药物</instance>
+			<instance id="d001.s022.t012" lemma="（" pos="X">（</instance>
+			<instance id="d001.s022.t013" lemma="杀死" pos="VERB">杀死</instance>
+			<instance id="d001.s022.t014" lemma="正在" pos="ADV">正在</instance>
+			<instance id="d001.s022.t015" lemma="分裂" pos="VERB">分裂</instance>
+			<instance id="d001.s022.t016" lemma="的" pos="X">的</instance>
+			<instance id="d001.s022.t017" lemma="细胞" pos="NOUN">细胞</instance>
+			<instance id="d001.s022.t018" lemma="，" pos="X">，</instance>
+			<instance id="d001.s022.t019" lemma="如" pos="ADV">如</instance>
+			<instance id="d001.s022.t020" lemma="癌细胞" pos="NOUN">癌细胞</instance>
+			<instance id="d001.s022.t021" lemma="的" pos="X">的</instance>
+			<instance id="d001.s022.t022" lemma="药物" pos="NOUN">药物</instance>
+			<instance id="d001.s022.t023" lemma="）" pos="X">）</instance>
+			<instance id="d001.s022.t024" lemma="，" pos="X">，</instance>
+			<instance id="d001.s022.t025" lemma="属于" pos="VERB">属于</instance>
+			<instance id="d001.s022.t026" lemma="抗代谢药" pos="NOUN">抗代谢药</instance>
+			<instance id="d001.s022.t027" lemma="类" pos="NOUN">类</instance>
+			<instance id="d001.s022.t028" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d001.s023" source="semeval2015-en">
+			<instance id="d001.s023.t000" lemma="在" pos="X">在</instance>
+			<instance id="d001.s023.t001" lemma="体内" pos="NOUN">体内</instance>
+			<instance id="d001.s023.t002" lemma="，" pos="X">，</instance>
+			<instance id="d001.s023.t003" lemma="培美" pos="NOUN">培美</instance>
+			<instance id="d001.s023.t004" lemma="曲" pos="NOUN">曲</instance>
+			<instance id="d001.s023.t005" lemma="塞" pos="NOUN">塞</instance>
+			<instance id="d001.s023.t006" lemma="被" pos="X">被</instance>
+			<instance id="d001.s023.t007" lemma="转化" pos="VERB">转化</instance>
+			<instance id="d001.s023.t008" lemma="成" pos="X">成</instance>
+			<instance id="d001.s023.t009" lemma="活性" pos="ADJ">活性</instance>
+			<instance id="d001.s023.t010" lemma="形式" pos="NOUN">形式</instance>
+			<instance id="d001.s023.t011" lemma="，" pos="X">，</instance>
+			<instance id="d001.s023.t012" lemma="从而" pos="ADV">从而</instance>
+			<instance id="d001.s023.t013" lemma="抑制" pos="VERB">抑制</instance>
+			<instance id="d001.s023.t014" lemma="参与" pos="VERB">参与</instance>
+			<instance id="d001.s023.t015" lemma="生成" pos="VERB">生成</instance>
+			<instance id="d001.s023.t016" lemma="核苷酸" pos="NOUN">核苷酸</instance>
+			<instance id="d001.s023.t017" lemma="（" pos="X">（</instance>
+			<instance id="d001.s023.t018" lemma="DNA" pos="NOUN">DNA</instance>
+			<instance id="d001.s023.t019" lemma="和" pos="X">和</instance>
+			<instance id="d001.s023.t020" lemma="RNA" pos="NOUN">RNA</instance>
+			<instance id="d001.s023.t021" lemma="的" pos="X">的</instance>
+			<instance id="d001.s023.t022" lemma="组成部分" pos="NOUN">组成部分</instance>
+			<instance id="d001.s023.t023" lemma="，" pos="X">，</instance>
+			<instance id="d001.s023.t024" lemma="即" pos="VERB">即</instance>
+			<instance id="d001.s023.t025" lemma="细胞" pos="NOUN">细胞</instance>
+			<instance id="d001.s023.t026" lemma="的" pos="X">的</instance>
+			<instance id="d001.s023.t027" lemma="遗传物质" pos="NOUN">遗传物质</instance>
+			<instance id="d001.s023.t028" lemma="）" pos="X">）</instance>
+			<instance id="d001.s023.t029" lemma="的" pos="X">的</instance>
+			<instance id="d001.s023.t030" lemma="酶" pos="NOUN">酶</instance>
+			<instance id="d001.s023.t031" lemma="的" pos="X">的</instance>
+			<instance id="d001.s023.t032" lemma="活性" pos="NOUN">活性</instance>
+			<instance id="d001.s023.t033" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d001.s024" source="semeval2015-en">
+			<instance id="d001.s024.t000" lemma="Alimta" pos="NOUN">Alimta</instance>
+			<instance id="d001.s024.t001" lemma="的" pos="X">的</instance>
+			<instance id="d001.s024.t002" lemma="研究" pos="NOUN">研究</instance>
+			<instance id="d001.s024.t003" lemma="进展" pos="VERB">进展</instance>
+			<instance id="d001.s024.t004" lemma="如何" pos="ADV">如何</instance>
+			<instance id="d001.s024.t005" lemma="？" pos="X">？</instance>
+		</sentence>
+		<sentence id="d001.s025" source="semeval2015-en">
+			<instance id="d001.s025.t000" lemma="为了" pos="X">为了</instance>
+			<instance id="d001.s025.t001" lemma="治疗" pos="VERB">治疗</instance>
+			<instance id="d001.s025.t002" lemma="恶性" pos="ADJ">恶性</instance>
+			<instance id="d001.s025.t003" lemma="胸膜间" pos="ADJ">胸膜间</instance>
+			<instance id="d001.s025.t004" lemma="皮" pos="NOUN">皮</instance>
+			<instance id="d001.s025.t005" lemma="瘤" pos="NOUN">瘤</instance>
+			<instance id="d001.s025.t006" lemma="，" pos="X">，</instance>
+			<instance id="d001.s025.t007" lemma="Alimta" pos="NOUN">Alimta</instance>
+			<instance id="d001.s025.t008" lemma="已" pos="ADV">已</instance>
+			<instance id="d001.s025.t009" lemma="在" pos="X">在</instance>
+			<instance id="d001.s025.t010" lemma="一" pos="X">一</instance>
+			<instance id="d001.s025.t011" lemma="项" pos="NOUN">项</instance>
+			<instance id="d001.s025.t012" lemma="主要" pos="ADJ">主要</instance>
+			<instance id="d001.s025.t013" lemma="研究" pos="NOUN">研究</instance>
+			<instance id="d001.s025.t014" lemma="中" pos="X">中</instance>
+			<instance id="d001.s025.t015" lemma="对" pos="X">对</instance>
+			<instance id="d001.s025.t016" lemma="456" pos="X">456</instance>
+			<instance id="d001.s025.t017" lemma="名" pos="NOUN">名</instance>
+			<instance id="d001.s025.t018" lemma="之前" pos="ADV">之前</instance>
+			<instance id="d001.s025.t019" lemma="未" pos="ADV">未</instance>
+			<instance id="d001.s025.t020" lemma="接受" pos="VERB">接受</instance>
+			<instance id="d001.s025.t021" lemma="过" pos="X">过</instance>
+			<instance id="d001.s025.t022" lemma="化疗" pos="NOUN">化疗</instance>
+			<instance id="d001.s025.t023" lemma="的" pos="X">的</instance>
+			<instance id="d001.s025.t024" lemma="患者" pos="NOUN">患者</instance>
+			<instance id="d001.s025.t025" lemma="进行" pos="VERB">进行</instance>
+			<instance id="d001.s025.t026" lemma="了" pos="X">了</instance>
+			<instance id="d001.s025.t027" lemma="研究" pos="NOUN">研究</instance>
+			<instance id="d001.s025.t028" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d001.s026" source="semeval2015-en">
+			<instance id="d001.s026.t000" lemma="比较" pos="VERB">比较</instance>
+			<instance id="d001.s026.t001" lemma="了" pos="X">了</instance>
+			<instance id="d001.s026.t002" lemma="Alimta" pos="NOUN">Alimta</instance>
+			<instance id="d001.s026.t003" lemma="与" pos="X">与</instance>
+			<instance id="d001.s026.t004" lemma="顺" pos="ADJ">顺</instance>
+			<instance id="d001.s026.t005" lemma="铂" pos="NOUN">铂</instance>
+			<instance id="d001.s026.t006" lemma="联合" pos="ADV">联合</instance>
+			<instance id="d001.s026.t007" lemma="治疗" pos="VERB">治疗</instance>
+			<instance id="d001.s026.t008" lemma="与" pos="X">与</instance>
+			<instance id="d001.s026.t009" lemma="单独" pos="ADV">单独</instance>
+			<instance id="d001.s026.t010" lemma="使用" pos="VERB">使用</instance>
+			<instance id="d001.s026.t011" lemma="顺" pos="ADJ">顺</instance>
+			<instance id="d001.s026.t012" lemma="铂" pos="NOUN">铂</instance>
+			<instance id="d001.s026.t013" lemma="治疗" pos="VERB">治疗</instance>
+			<instance id="d001.s026.t014" lemma="的" pos="X">的</instance>
+			<instance id="d001.s026.t015" lemma="效果" pos="NOUN">效果</instance>
+			<instance id="d001.s026.t016" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d001.s027" source="semeval2015-en">
+			<instance id="d001.s027.t000" lemma="在" pos="X">在</instance>
+			<instance id="d001.s027.t001" lemma="非" pos="ADJ">非</instance>
+			<instance id="d001.s027.t002" lemma="小" pos="ADJ">小</instance>
+			<instance id="d001.s027.t003" lemma="细胞" pos="NOUN">细胞</instance>
+			<instance id="d001.s027.t004" lemma="肺癌" pos="NOUN">肺癌</instance>
+			<instance id="d001.s027.t005" lemma="的" pos="X">的</instance>
+			<instance id="d001.s027.t006" lemma="治疗" pos="NOUN">治疗</instance>
+			<instance id="d001.s027.t007" lemma="方面" pos="NOUN">方面</instance>
+			<instance id="d001.s027.t008" lemma="，" pos="X">，</instance>
+			<instance id="d001.s027.t009" lemma="一" pos="X">一</instance>
+			<instance id="d001.s027.t010" lemma="项" pos="NOUN">项</instance>
+			<instance id="d001.s027.t011" lemma="涉及" pos="VERB">涉及</instance>
+			<instance id="d001.s027.t012" lemma="571" pos="X">571</instance>
+			<instance id="d001.s027.t013" lemma="名" pos="NOUN">名</instance>
+			<instance id="d001.s027.t014" lemma="既往" pos="ADV">既往</instance>
+			<instance id="d001.s027.t015" lemma="接受" pos="VERB">接受</instance>
+			<instance id="d001.s027.t016" lemma="过" pos="X">过</instance>
+			<instance id="d001.s027.t017" lemma="化疗" pos="NOUN">化疗</instance>
+			<instance id="d001.s027.t018" lemma="的" pos="X">的</instance>
+			<instance id="d001.s027.t019" lemma="局部" pos="ADV">局部</instance>
+			<instance id="d001.s027.t020" lemma="晚期" pos="ADJ">晚期</instance>
+			<instance id="d001.s027.t021" lemma="或" pos="X">或</instance>
+			<instance id="d001.s027.t022" lemma="转移性" pos="ADJ">转移性</instance>
+			<instance id="d001.s027.t023" lemma="疾病" pos="NOUN">疾病</instance>
+			<instance id="d001.s027.t024" lemma="患者" pos="NOUN">患者</instance>
+			<instance id="d001.s027.t025" lemma="的" pos="X">的</instance>
+			<instance id="d001.s027.t026" lemma="研究" pos="NOUN">研究</instance>
+			<instance id="d001.s027.t027" lemma="比较" pos="VERB">比较</instance>
+			<instance id="d001.s027.t028" lemma="了" pos="X">了</instance>
+			<instance id="d001.s027.t029" lemma="Alimta" pos="NOUN">Alimta</instance>
+			<instance id="d001.s027.t030" lemma="与" pos="X">与</instance>
+			<instance id="d001.s027.t031" lemma="多西他赛" pos="NOUN">多西他赛</instance>
+			<instance id="d001.s027.t032" lemma="（" pos="X">（</instance>
+			<instance id="d001.s027.t033" lemma="另" pos="X">另</instance>
+			<instance id="d001.s027.t034" lemma="一" pos="X">一</instance>
+			<instance id="d001.s027.t035" lemma="种" pos="NOUN">种</instance>
+			<instance id="d001.s027.t036" lemma="抗癌" pos="ADJ">抗癌</instance>
+			<instance id="d001.s027.t037" lemma="药物" pos="NOUN">药物</instance>
+			<instance id="d001.s027.t038" lemma="）" pos="X">）</instance>
+			<instance id="d001.s027.t039" lemma="的" pos="X">的</instance>
+			<instance id="d001.s027.t040" lemma="效果" pos="NOUN">效果</instance>
+			<instance id="d001.s027.t041" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d001.s028" source="semeval2015-en">
+			<instance id="d001.s028.t000" lemma="在" pos="X">在</instance>
+			<instance id="d001.s028.t001" lemma="一" pos="X">一</instance>
+			<instance id="d001.s028.t002" lemma="项" pos="NOUN">项</instance>
+			<instance id="d001.s028.t003" lemma="涉及" pos="VERB">涉及</instance>
+			<instance id="d001.s028.t004" lemma="1725" pos="X">1725</instance>
+			<instance id="d001.s028.t005" lemma="名" pos="NOUN">名</instance>
+			<instance id="d001.s028.t006" lemma="过去" pos="NOUN">过去</instance>
+			<instance id="d001.s028.t007" lemma="未" pos="ADV">未</instance>
+			<instance id="d001.s028.t008" lemma="接受" pos="VERB">接受</instance>
+			<instance id="d001.s028.t009" lemma="过" pos="X">过</instance>
+			<instance id="d001.s028.t010" lemma="化疗" pos="NOUN">化疗</instance>
+			<instance id="d001.s028.t011" lemma="的" pos="X">的</instance>
+			<instance id="d001.s028.t012" lemma="肺癌" pos="NOUN">肺癌</instance>
+			<instance id="d001.s028.t013" lemma="患者" pos="NOUN">患者</instance>
+			<instance id="d001.s028.t014" lemma="的" pos="X">的</instance>
+			<instance id="d001.s028.t015" lemma="研究" pos="NOUN">研究</instance>
+			<instance id="d001.s028.t016" lemma="中" pos="X">中</instance>
+			<instance id="d001.s028.t017" lemma="，" pos="X">，</instance>
+			<instance id="d001.s028.t018" lemma="阿利泰" pos="NOUN">阿利泰</instance>
+			<instance id="d001.s028.t019" lemma="还" pos="ADV">还</instance>
+			<instance id="d001.s028.t020" lemma="与" pos="X">与</instance>
+			<instance id="d001.s028.t021" lemma="吉西他滨" pos="NOUN">吉西他滨</instance>
+			<instance id="d001.s028.t022" lemma="(" pos="X">(</instance>
+			<instance id="d001.s028.t023" lemma="另" pos="X">另</instance>
+			<instance id="d001.s028.t024" lemma="一" pos="X">一</instance>
+			<instance id="d001.s028.t025" lemma="种" pos="NOUN">种</instance>
+			<instance id="d001.s028.t026" lemma="抗癌" pos="ADJ">抗癌</instance>
+			<instance id="d001.s028.t027" lemma="药" pos="NOUN">药</instance>
+			<instance id="d001.s028.t028" lemma=")" pos="X">)</instance>
+			<instance id="d001.s028.t029" lemma="进行" pos="VERB">进行</instance>
+			<instance id="d001.s028.t030" lemma="了" pos="X">了</instance>
+			<instance id="d001.s028.t031" lemma="比较" pos="NOUN">比较</instance>
+			<instance id="d001.s028.t032" lemma="，" pos="X">，</instance>
+			<instance id="d001.s028.t033" lemma="两者" pos="NOUN">两者</instance>
+			<instance id="d001.s028.t034" lemma="都" pos="ADV">都</instance>
+			<instance id="d001.s028.t035" lemma="与" pos="X">与</instance>
+			<instance id="d001.s028.t036" lemma="顺" pos="ADJ">顺</instance>
+			<instance id="d001.s028.t037" lemma="铂" pos="NOUN">铂</instance>
+			<instance id="d001.s028.t038" lemma="联合" pos="ADV">联合</instance>
+			<instance id="d001.s028.t039" lemma="使用" pos="VERB">使用</instance>
+			<instance id="d001.s028.t040" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d001.s029" source="semeval2015-en">
+			<instance id="d001.s029.t000" lemma="在" pos="X">在</instance>
+			<instance id="d001.s029.t001" lemma="这" pos="X">这</instance>
+			<instance id="d001.s029.t002" lemma="三" pos="X">三</instance>
+			<instance id="d001.s029.t003" lemma="项" pos="NOUN">项</instance>
+			<instance id="d001.s029.t004" lemma="研究" pos="NOUN">研究</instance>
+			<instance id="d001.s029.t005" lemma="中" pos="X">中</instance>
+			<instance id="d001.s029.t006" lemma="，" pos="X">，</instance>
+			<instance id="d001.s029.t007" lemma="疗效" pos="NOUN">疗效</instance>
+			<instance id="d001.s029.t008" lemma="的" pos="X">的</instance>
+			<instance id="d001.s029.t009" lemma="主要" pos="ADJ">主要</instance>
+			<instance id="d001.s029.t010" lemma="衡量标准" pos="NOUN">衡量标准</instance>
+			<instance id="d001.s029.t011" lemma="是" pos="VERB">是</instance>
+			<instance id="d001.s029.t012" lemma="患者" pos="NOUN">患者</instance>
+			<instance id="d001.s029.t013" lemma="存活" pos="VERB">存活</instance>
+			<instance id="d001.s029.t014" lemma="的" pos="X">的</instance>
+			<instance id="d001.s029.t015" lemma="时间" pos="NOUN">时间</instance>
+			<instance id="d001.s029.t016" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d001.s030" source="semeval2015-en">
+			<instance id="d001.s030.t000" lemma="Alimta" pos="NOUN">Alimta</instance>
+			<instance id="d001.s030.t001" lemma="在" pos="X">在</instance>
+			<instance id="d001.s030.t002" lemma="研究" pos="NOUN">研究</instance>
+			<instance id="d001.s030.t003" lemma="期间" pos="NOUN">期间</instance>
+			<instance id="d001.s030.t004" lemma="显示出" pos="VERB">显示出</instance>
+			<instance id="d001.s030.t005" lemma="了" pos="X">了</instance>
+			<instance id="d001.s030.t006" lemma="什么" pos="X">什么</instance>
+			<instance id="d001.s030.t007" lemma="益处" pos="NOUN">益处</instance>
+			<instance id="d001.s030.t008" lemma="？" pos="X">？</instance>
+		</sentence>
+		<sentence id="d001.s031" source="semeval2015-en">
+			<instance id="d001.s031.t000" lemma="Alimta" pos="NOUN">Alimta</instance>
+			<instance id="d001.s031.t001" lemma="延长" pos="VERB">延长</instance>
+			<instance id="d001.s031.t002" lemma="了" pos="X">了</instance>
+			<instance id="d001.s031.t003" lemma="恶性" pos="ADJ">恶性</instance>
+			<instance id="d001.s031.t004" lemma="胸膜间" pos="ADJ">胸膜间</instance>
+			<instance id="d001.s031.t005" lemma="皮" pos="NOUN">皮</instance>
+			<instance id="d001.s031.t006" lemma="瘤" pos="NOUN">瘤</instance>
+			<instance id="d001.s031.t007" lemma="患者" pos="NOUN">患者</instance>
+			<instance id="d001.s031.t008" lemma="的" pos="X">的</instance>
+			<instance id="d001.s031.t009" lemma="生存" pos="NOUN">生存</instance>
+			<instance id="d001.s031.t010" lemma="时间" pos="NOUN">时间</instance>
+			<instance id="d001.s031.t011" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d001.s032" source="semeval2015-en">
+			<instance id="d001.s032.t000" lemma="接受" pos="VERB">接受</instance>
+			<instance id="d001.s032.t001" lemma="Alimta" pos="NOUN">Alimta</instance>
+			<instance id="d001.s032.t002" lemma="和" pos="X">和</instance>
+			<instance id="d001.s032.t003" lemma="顺" pos="ADJ">顺</instance>
+			<instance id="d001.s032.t004" lemma="铂" pos="NOUN">铂</instance>
+			<instance id="d001.s032.t005" lemma="治疗" pos="NOUN">治疗</instance>
+			<instance id="d001.s032.t006" lemma="的" pos="X">的</instance>
+			<instance id="d001.s032.t007" lemma="患者" pos="NOUN">患者</instance>
+			<instance id="d001.s032.t008" lemma="平均" pos="ADJ">平均</instance>
+			<instance id="d001.s032.t009" lemma="生存" pos="VERB">生存</instance>
+			<instance id="d001.s032.t010" lemma="为" pos="VERB">为</instance>
+			<instance id="d001.s032.t011" lemma="12.1" pos="X">12.1</instance>
+			<instance id="d001.s032.t012" lemma="个" pos="NOUN">个</instance>
+			<instance id="d001.s032.t013" lemma="月" pos="NOUN">月</instance>
+			<instance id="d001.s032.t014" lemma="，" pos="X">，</instance>
+			<instance id="d001.s032.t015" lemma="然而" pos="ADV">然而</instance>
+			<instance id="d001.s032.t016" lemma="仅" pos="ADV">仅</instance>
+			<instance id="d001.s032.t017" lemma="接受" pos="VERB">接受</instance>
+			<instance id="d001.s032.t018" lemma="顺铂" pos="NOUN">顺铂</instance>
+			<instance id="d001.s032.t019" lemma="治疗" pos="NOUN">治疗</instance>
+			<instance id="d001.s032.t020" lemma="的" pos="X">的</instance>
+			<instance id="d001.s032.t021" lemma="患者" pos="NOUN">患者</instance>
+			<instance id="d001.s032.t022" lemma="平均" pos="ADJ">平均</instance>
+			<instance id="d001.s032.t023" lemma="为" pos="VERB">为</instance>
+			<instance id="d001.s032.t024" lemma="9.3" pos="X">9.3</instance>
+			<instance id="d001.s032.t025" lemma="个" pos="NOUN">个</instance>
+			<instance id="d001.s032.t026" lemma="月" pos="NOUN">月</instance>
+			<instance id="d001.s032.t027" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d001.s033" source="semeval2015-en">
+			<instance id="d001.s033.t000" lemma="在" pos="X">在</instance>
+			<instance id="d001.s033.t001" lemma="治疗" pos="VERB">治疗</instance>
+			<instance id="d001.s033.t002" lemma="非" pos="ADJ">非</instance>
+			<instance id="d001.s033.t003" lemma="小" pos="ADJ">小</instance>
+			<instance id="d001.s033.t004" lemma="细胞" pos="NOUN">细胞</instance>
+			<instance id="d001.s033.t005" lemma="肺癌" pos="NOUN">肺癌</instance>
+			<instance id="d001.s033.t006" lemma="患者" pos="NOUN">患者</instance>
+			<instance id="d001.s033.t007" lemma="方面" pos="NOUN">方面</instance>
+			<instance id="d001.s033.t008" lemma="，" pos="X">，</instance>
+			<instance id="d001.s033.t009" lemma="Alimta" pos="NOUN">Alimta</instance>
+			<instance id="d001.s033.t010" lemma="与" pos="X">与</instance>
+			<instance id="d001.s033.t011" lemma="对照" pos="ADJ">对照</instance>
+			<instance id="d001.s033.t012" lemma="药物" pos="NOUN">药物</instance>
+			<instance id="d001.s033.t013" lemma="一样" pos="ADV">一样</instance>
+			<instance id="d001.s033.t014" lemma="有效" pos="ADJ">有效</instance>
+			<instance id="d001.s033.t015" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d001.s034" source="semeval2015-en">
+			<instance id="d001.s034.t000" lemma="对于" pos="X">对于</instance>
+			<instance id="d001.s034.t001" lemma="过去" pos="NOUN">过去</instance>
+			<instance id="d001.s034.t002" lemma="接受" pos="VERB">接受</instance>
+			<instance id="d001.s034.t003" lemma="过" pos="X">过</instance>
+			<instance id="d001.s034.t004" lemma="化疗" pos="NOUN">化疗</instance>
+			<instance id="d001.s034.t005" lemma="的" pos="X">的</instance>
+			<instance id="d001.s034.t006" lemma="患者" pos="NOUN">患者</instance>
+			<instance id="d001.s034.t007" lemma="，" pos="X">，</instance>
+			<instance id="d001.s034.t008" lemma="使用" pos="VERB">使用</instance>
+			<instance id="d001.s034.t009" lemma="Alimta" pos="NOUN">Alimta</instance>
+			<instance id="d001.s034.t010" lemma="治疗" pos="VERB">治疗</instance>
+			<instance id="d001.s034.t011" lemma="后" pos="X">后</instance>
+			<instance id="d001.s034.t012" lemma="平均" pos="ADJ">平均</instance>
+			<instance id="d001.s034.t013" lemma="生存" pos="NOUN">生存</instance>
+			<instance id="d001.s034.t014" lemma="期" pos="NOUN">期</instance>
+			<instance id="d001.s034.t015" lemma="为" pos="VERB">为</instance>
+			<instance id="d001.s034.t016" lemma="8.3" pos="X">8.3</instance>
+			<instance id="d001.s034.t017" lemma="个" pos="NOUN">个</instance>
+			<instance id="d001.s034.t018" lemma="月" pos="NOUN">月</instance>
+			<instance id="d001.s034.t019" lemma="，" pos="X">，</instance>
+			<instance id="d001.s034.t020" lemma="而" pos="ADV">而</instance>
+			<instance id="d001.s034.t021" lemma="使用" pos="VERB">使用</instance>
+			<instance id="d001.s034.t022" lemma="多西他赛" pos="NOUN">多西他赛</instance>
+			<instance id="d001.s034.t023" lemma="治疗" pos="VERB">治疗</instance>
+			<instance id="d001.s034.t024" lemma="后" pos="X">后</instance>
+			<instance id="d001.s034.t025" lemma="平均" pos="ADJ">平均</instance>
+			<instance id="d001.s034.t026" lemma="生存" pos="NOUN">生存</instance>
+			<instance id="d001.s034.t027" lemma="期" pos="NOUN">期</instance>
+			<instance id="d001.s034.t028" lemma="为" pos="VERB">为</instance>
+			<instance id="d001.s034.t029" lemma="7.9" pos="X">7.9</instance>
+			<instance id="d001.s034.t030" lemma="个" pos="NOUN">个</instance>
+			<instance id="d001.s034.t031" lemma="月" pos="NOUN">月</instance>
+			<instance id="d001.s034.t032" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d001.s035" source="semeval2015-en">
+			<instance id="d001.s035.t000" lemma="对于" pos="X">对于</instance>
+			<instance id="d001.s035.t001" lemma="既往" pos="ADV">既往</instance>
+			<instance id="d001.s035.t002" lemma="未" pos="ADV">未</instance>
+			<instance id="d001.s035.t003" lemma="接受" pos="VERB">接受</instance>
+			<instance id="d001.s035.t004" lemma="过" pos="X">过</instance>
+			<instance id="d001.s035.t005" lemma="化疗" pos="NOUN">化疗</instance>
+			<instance id="d001.s035.t006" lemma="的" pos="X">的</instance>
+			<instance id="d001.s035.t007" lemma="患者" pos="NOUN">患者</instance>
+			<instance id="d001.s035.t008" lemma="，" pos="X">，</instance>
+			<instance id="d001.s035.t009" lemma="两" pos="X">两</instance>
+			<instance id="d001.s035.t010" lemma="组" pos="NOUN">组</instance>
+			<instance id="d001.s035.t011" lemma="平均" pos="ADJ">平均</instance>
+			<instance id="d001.s035.t012" lemma="生存" pos="NOUN">生存</instance>
+			<instance id="d001.s035.t013" lemma="期" pos="NOUN">期</instance>
+			<instance id="d001.s035.t014" lemma="均" pos="ADV">均</instance>
+			<instance id="d001.s035.t015" lemma="为" pos="VERB">为</instance>
+			<instance id="d001.s035.t016" lemma="10.3" pos="X">10.3</instance>
+			<instance id="d001.s035.t017" lemma="个" pos="NOUN">个</instance>
+			<instance id="d001.s035.t018" lemma="月" pos="NOUN">月</instance>
+			<instance id="d001.s035.t019" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d001.s036" source="semeval2015-en">
+			<instance id="d001.s036.t000" lemma="然而" pos="ADV">然而</instance>
+			<instance id="d001.s036.t001" lemma="，" pos="X">，</instance>
+			<instance id="d001.s036.t002" lemma="在" pos="X">在</instance>
+			<instance id="d001.s036.t003" lemma="这" pos="X">这</instance>
+			<instance id="d001.s036.t004" lemma="两" pos="X">两</instance>
+			<instance id="d001.s036.t005" lemma="项" pos="NOUN">项</instance>
+			<instance id="d001.s036.t006" lemma="研究" pos="NOUN">研究</instance>
+			<instance id="d001.s036.t007" lemma="中" pos="X">中</instance>
+			<instance id="d001.s036.t008" lemma="，" pos="X">，</instance>
+			<instance id="d001.s036.t009" lemma="对于" pos="X">对于</instance>
+			<instance id="d001.s036.t010" lemma="癌症" pos="NOUN">癌症</instance>
+			<instance id="d001.s036.t011" lemma="未" pos="ADV">未</instance>
+			<instance id="d001.s036.t012" lemma="影响" pos="VERB">影响</instance>
+			<instance id="d001.s036.t013" lemma="到" pos="X">到</instance>
+			<instance id="d001.s036.t014" lemma="鳞" pos="NOUN">鳞</instance>
+			<instance id="d001.s036.t015" lemma="状" pos="NOUN">状</instance>
+			<instance id="d001.s036.t016" lemma="细胞" pos="NOUN">细胞</instance>
+			<instance id="d001.s036.t017" lemma="的" pos="X">的</instance>
+			<instance id="d001.s036.t018" lemma="患者" pos="NOUN">患者</instance>
+			<instance id="d001.s036.t019" lemma="，" pos="X">，</instance>
+			<instance id="d001.s036.t020" lemma="接受" pos="VERB">接受</instance>
+			<instance id="d001.s036.t021" lemma="Alimta" pos="NOUN">Alimta</instance>
+			<instance id="d001.s036.t022" lemma="治疗" pos="NOUN">治疗</instance>
+			<instance id="d001.s036.t023" lemma="的" pos="X">的</instance>
+			<instance id="d001.s036.t024" lemma="患者" pos="NOUN">患者</instance>
+			<instance id="d001.s036.t025" lemma="比" pos="X">比</instance>
+			<instance id="d001.s036.t026" lemma="接受" pos="VERB">接受</instance>
+			<instance id="d001.s036.t027" lemma="对照" pos="ADJ">对照</instance>
+			<instance id="d001.s036.t028" lemma="药物" pos="NOUN">药物</instance>
+			<instance id="d001.s036.t029" lemma="治疗" pos="NOUN">治疗</instance>
+			<instance id="d001.s036.t030" lemma="的" pos="X">的</instance>
+			<instance id="d001.s036.t031" lemma="患者" pos="NOUN">患者</instance>
+			<instance id="d001.s036.t032" lemma="存活" pos="NOUN">存活</instance>
+			<instance id="d001.s036.t033" lemma="时间" pos="NOUN">时间</instance>
+			<instance id="d001.s036.t034" lemma="更" pos="ADV">更</instance>
+			<instance id="d001.s036.t035" lemma="长" pos="ADJ">长</instance>
+			<instance id="d001.s036.t036" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d001.s037" source="semeval2015-en">
+			<instance id="d001.s037.t000" lemma="相反" pos="ADV">相反</instance>
+			<instance id="d001.s037.t001" lemma="，" pos="X">，</instance>
+			<instance id="d001.s037.t002" lemma="癌症" pos="NOUN">癌症</instance>
+			<instance id="d001.s037.t003" lemma="影响" pos="VERB">影响</instance>
+			<instance id="d001.s037.t004" lemma="鳞" pos="NOUN">鳞</instance>
+			<instance id="d001.s037.t005" lemma="状" pos="NOUN">状</instance>
+			<instance id="d001.s037.t006" lemma="细胞" pos="NOUN">细胞</instance>
+			<instance id="d001.s037.t007" lemma="的" pos="X">的</instance>
+			<instance id="d001.s037.t008" lemma="患者" pos="NOUN">患者</instance>
+			<instance id="d001.s037.t009" lemma="如果" pos="X">如果</instance>
+			<instance id="d001.s037.t010" lemma="接受" pos="VERB">接受</instance>
+			<instance id="d001.s037.t011" lemma="Alimta" pos="NOUN">Alimta</instance>
+			<instance id="d001.s037.t012" lemma="治疗" pos="NOUN">治疗</instance>
+			<instance id="d001.s037.t013" lemma="则" pos="ADV">则</instance>
+			<instance id="d001.s037.t014" lemma="存活" pos="NOUN">存活</instance>
+			<instance id="d001.s037.t015" lemma="时间" pos="NOUN">时间</instance>
+			<instance id="d001.s037.t016" lemma="较" pos="ADV">较</instance>
+			<instance id="d001.s037.t017" lemma="短" pos="ADJ">短</instance>
+			<instance id="d001.s037.t018" lemma="。" pos="X">。</instance>
+		</sentence>
+	</text>
+	<text id="d002">
+		<sentence id="d002.s000" source="semeval2015-en">
+			<instance id="d002.s000.t000" lemma="kalgebra" pos="NOUN">kalgebra</instance>
+			<instance id="d002.s000.t001" lemma="是" pos="VERB">是</instance>
+			<instance id="d002.s000.t002" lemma="一个" pos="X">一个</instance>
+			<instance id="d002.s000.t003" lemma="基于" pos="VERB">基于</instance>
+			<instance id="d002.s000.t004" lemma="内容" pos="NOUN">内容</instance>
+			<instance id="d002.s000.t005" lemma="标记" pos="NOUN">标记</instance>
+			<instance id="d002.s000.t006" lemma="MathML" pos="NOUN">MathML</instance>
+			<instance id="d002.s000.t007" lemma="语言" pos="NOUN">语言</instance>
+			<instance id="d002.s000.t008" lemma="的" pos="X">的</instance>
+			<instance id="d002.s000.t009" lemma="数学" pos="NOUN">数学</instance>
+			<instance id="d002.s000.t010" lemma="计算器" pos="NOUN">计算器</instance>
+			<instance id="d002.s000.t011" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s001" source="semeval2015-en">
+			<instance id="d002.s001.t000" lemma="现在" pos="ADV">现在</instance>
+			<instance id="d002.s001.t001" lemma="它" pos="X">它</instance>
+			<instance id="d002.s001.t002" lemma="能够" pos="VERB">能够</instance>
+			<instance id="d002.s001.t003" lemma="进行" pos="VERB">进行</instance>
+			<instance id="d002.s001.t004" lemma="简单" pos="ADJ">简单</instance>
+			<instance id="d002.s001.t005" lemma="的" pos="X">的</instance>
+			<instance id="d002.s001.t006" lemma="MathML" pos="NOUN">MathML</instance>
+			<instance id="d002.s001.t007" lemma="运算" pos="NOUN">运算</instance>
+			<instance id="d002.s001.t008" lemma="（" pos="X">（</instance>
+			<instance id="d002.s001.t009" lemma="算术的" pos="ADJ">算术的</instance>
+			<instance id="d002.s001.t010" lemma="和" pos="X">和</instance>
+			<instance id="d002.s001.t011" lemma="逻辑的" pos="ADJ">逻辑的</instance>
+			<instance id="d002.s001.t012" lemma="）" pos="X">）</instance>
+			<instance id="d002.s001.t013" lemma="以及" pos="X">以及</instance>
+			<instance id="d002.s001.t014" lemma="表示" pos="VERB">表示</instance>
+			<instance id="d002.s001.t015" lemma="2D" pos="NOUN">2D</instance>
+			<instance id="d002.s001.t016" lemma="和" pos="X">和</instance>
+			<instance id="d002.s001.t017" lemma="3D" pos="NOUN">3D</instance>
+			<instance id="d002.s001.t018" lemma="图形" pos="NOUN">图形</instance>
+			<instance id="d002.s001.t019" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s002" source="semeval2015-en">
+			<instance id="d002.s002.t000" lemma="实际上" pos="ADV">实际上</instance>
+			<instance id="d002.s002.t001" lemma="，" pos="X">，</instance>
+			<instance id="d002.s002.t002" lemma="不" pos="ADV">不</instance>
+			<instance id="d002.s002.t003" lemma="需要" pos="VERB">需要</instance>
+			<instance id="d002.s002.t004" lemma="了解" pos="VERB">了解</instance>
+			<instance id="d002.s002.t005" lemma="MathML" pos="NOUN">MathML</instance>
+			<instance id="d002.s002.t006" lemma="就" pos="ADV">就</instance>
+			<instance id="d002.s002.t007" lemma="可以" pos="VERB">可以</instance>
+			<instance id="d002.s002.t008" lemma="使用" pos="VERB">使用</instance>
+			<instance id="d002.s002.t009" lemma="kalgebra" pos="NOUN">kalgebra</instance>
+			<instance id="d002.s002.t010" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s003" source="semeval2015-en">
+			<instance id="d002.s003.t000" lemma="kalgebra" pos="NOUN">kalgebra</instance>
+			<instance id="d002.s003.t001" lemma="是" pos="VERB">是</instance>
+			<instance id="d002.s003.t002" lemma="一个" pos="X">一个</instance>
+			<instance id="d002.s003.t003" lemma="基于" pos="VERB">基于</instance>
+			<instance id="d002.s003.t004" lemma="MathML" pos="NOUN">MathML</instance>
+			<instance id="d002.s003.t005" lemma="的" pos="X">的</instance>
+			<instance id="d002.s003.t006" lemma="图形" pos="NOUN">图形</instance>
+			<instance id="d002.s003.t007" lemma="计算器" pos="NOUN">计算器</instance>
+			<instance id="d002.s003.t008" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s004" source="semeval2015-en">
+			<instance id="d002.s004.t000" lemma="尽管" pos="X">尽管</instance>
+			<instance id="d002.s004.t001" lemma="它" pos="X">它</instance>
+			<instance id="d002.s004.t002" lemma="最初" pos="ADV">最初</instance>
+			<instance id="d002.s004.t003" lemma="是" pos="VERB">是</instance>
+			<instance id="d002.s004.t004" lemma="面向" pos="VERB">面向</instance>
+			<instance id="d002.s004.t005" lemma="MathML" pos="NOUN">MathML</instance>
+			<instance id="d002.s004.t006" lemma="的" pos="X">的</instance>
+			<instance id="d002.s004.t007" lemma="，" pos="X">，</instance>
+			<instance id="d002.s004.t008" lemma="但是" pos="ADV">但是</instance>
+			<instance id="d002.s004.t009" lemma="现在" pos="ADV">现在</instance>
+			<instance id="d002.s004.t010" lemma="任何" pos="X">任何</instance>
+			<instance id="d002.s004.t011" lemma="具有" pos="VERB">具有</instance>
+			<instance id="d002.s004.t012" lemma="少量" pos="ADJ">少量</instance>
+			<instance id="d002.s004.t013" lemma="数学" pos="ADJ">数学</instance>
+			<instance id="d002.s004.t014" lemma="知识" pos="NOUN">知识</instance>
+			<instance id="d002.s004.t015" lemma="的" pos="X">的</instance>
+			<instance id="d002.s004.t016" lemma="人" pos="NOUN">人</instance>
+			<instance id="d002.s004.t017" lemma="都" pos="ADV">都</instance>
+			<instance id="d002.s004.t018" lemma="可以" pos="VERB">可以</instance>
+			<instance id="d002.s004.t019" lemma="使用" pos="VERB">使用</instance>
+			<instance id="d002.s004.t020" lemma="它" pos="X">它</instance>
+			<instance id="d002.s004.t021" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s005" source="semeval2015-en">
+			<instance id="d002.s005.t000" lemma="这" pos="X">这</instance>
+			<instance id="d002.s005.t001" lemma="是" pos="VERB">是</instance>
+			<instance id="d002.s005.t002" lemma="kalgebra" pos="NOUN">kalgebra</instance>
+			<instance id="d002.s005.t003" lemma="主" pos="ADJ">主</instance>
+			<instance id="d002.s005.t004" lemma="窗口" pos="NOUN">窗口</instance>
+			<instance id="d002.s005.t005" lemma="的" pos="X">的</instance>
+			<instance id="d002.s005.t006" lemma="屏幕截图" pos="NOUN">屏幕截图</instance>
+		</sentence>
+		<sentence id="d002.s006" source="semeval2015-en">
+			<instance id="d002.s006.t000" lemma="kalgebra" pos="NOUN">kalgebra</instance>
+			<instance id="d002.s006.t001" lemma="主窗口" pos="NOUN">主窗口</instance>
+		</sentence>
+		<sentence id="d002.s007" source="semeval2015-en">
+			<instance id="d002.s007.t000" lemma="kalgebra" pos="NOUN">kalgebra</instance>
+			<instance id="d002.s007.t001" lemma="主窗口" pos="NOUN">主窗口</instance>
+			<instance id="d002.s007.t002" lemma="由" pos="X">由</instance>
+			<instance id="d002.s007.t003" lemma="一" pos="X">一</instance>
+			<instance id="d002.s007.t004" lemma="个" pos="NOUN">个</instance>
+			<instance id="d002.s007.t005" lemma="控制台" pos="NOUN">控制台</instance>
+			<instance id="d002.s007.t006" lemma="选项" pos="NOUN">选项</instance>
+			<instance id="d002.s007.t007" lemma="卡" pos="NOUN">卡</instance>
+			<instance id="d002.s007.t008" lemma="、" pos="X">、</instance>
+			<instance id="d002.s007.t009" lemma="一" pos="X">一</instance>
+			<instance id="d002.s007.t010" lemma="个" pos="NOUN">个</instance>
+			<instance id="d002.s007.t011" lemma="二维" pos="NOUN">二维</instance>
+			<instance id="d002.s007.t012" lemma="图形" pos="NOUN">图形</instance>
+			<instance id="d002.s007.t013" lemma="选项" pos="NOUN">选项</instance>
+			<instance id="d002.s007.t014" lemma="卡" pos="NOUN">卡</instance>
+			<instance id="d002.s007.t015" lemma="、" pos="X">、</instance>
+			<instance id="d002.s007.t016" lemma="一个" pos="X">一个</instance>
+			<instance id="d002.s007.t017" lemma="三维" pos="NOUN">三维</instance>
+			<instance id="d002.s007.t018" lemma="图形" pos="NOUN">图形</instance>
+			<instance id="d002.s007.t019" lemma="选项" pos="NOUN">选项</instance>
+			<instance id="d002.s007.t020" lemma="卡" pos="NOUN">卡</instance>
+			<instance id="d002.s007.t021" lemma="和" pos="X">和</instance>
+			<instance id="d002.s007.t022" lemma="一" pos="X">一</instance>
+			<instance id="d002.s007.t023" lemma="个" pos="NOUN">个</instance>
+			<instance id="d002.s007.t024" lemma="词典" pos="NOUN">词典</instance>
+			<instance id="d002.s007.t025" lemma="选项" pos="NOUN">选项</instance>
+			<instance id="d002.s007.t026" lemma="卡" pos="NOUN">卡</instance>
+			<instance id="d002.s007.t027" lemma="组成" pos="VERB">组成</instance>
+			<instance id="d002.s007.t028" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s008" source="semeval2015-en">
+			<instance id="d002.s008.t000" lemma="在" pos="X">在</instance>
+			<instance id="d002.s008.t001" lemma="这些" pos="X">这些</instance>
+			<instance id="d002.s008.t002" lemma="选项卡" pos="NOUN">选项卡</instance>
+			<instance id="d002.s008.t003" lemma="下面" pos="ADV">下面</instance>
+			<instance id="d002.s008.t004" lemma="，" pos="X">，</instance>
+			<instance id="d002.s008.t005" lemma="您" pos="X">您</instance>
+			<instance id="d002.s008.t006" lemma="将" pos="X">将</instance>
+			<instance id="d002.s008.t007" lemma="看到" pos="VERB">看到</instance>
+			<instance id="d002.s008.t008" lemma="一" pos="X">一</instance>
+			<instance id="d002.s008.t009" lemma="个" pos="NOUN">个</instance>
+			<instance id="d002.s008.t010" lemma="输入" pos="NOUN">输入</instance>
+			<instance id="d002.s008.t011" lemma="字段" pos="NOUN">字段</instance>
+			<instance id="d002.s008.t012" lemma="，" pos="X">，</instance>
+			<instance id="d002.s008.t013" lemma="您" pos="X">您</instance>
+			<instance id="d002.s008.t014" lemma="可以" pos="VERB">可以</instance>
+			<instance id="d002.s008.t015" lemma="用" pos="VERB">用</instance>
+			<instance id="d002.s008.t016" lemma="它" pos="X">它</instance>
+			<instance id="d002.s008.t017" lemma="来" pos="X">来</instance>
+			<instance id="d002.s008.t018" lemma="输入" pos="VERB">输入</instance>
+			<instance id="d002.s008.t019" lemma="函数" pos="NOUN">函数</instance>
+			<instance id="d002.s008.t020" lemma="或" pos="X">或</instance>
+			<instance id="d002.s008.t021" lemma="进行" pos="VERB">进行</instance>
+			<instance id="d002.s008.t022" lemma="计算" pos="NOUN">计算</instance>
+			<instance id="d002.s008.t023" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s009" source="semeval2015-en">
+			<instance id="d002.s009.t000" lemma="如果" pos="X">如果</instance>
+			<instance id="d002.s009.t001" lemma="我们" pos="X">我们</instance>
+			<instance id="d002.s009.t002" lemma="想" pos="VERB">想</instance>
+			<instance id="d002.s009.t003" lemma="了解" pos="VERB">了解</instance>
+			<instance id="d002.s009.t004" lemma="它" pos="X">它</instance>
+			<instance id="d002.s009.t005" lemma="是" pos="VERB">是</instance>
+			<instance id="d002.s009.t006" lemma="如何" pos="ADV">如何</instance>
+			<instance id="d002.s009.t007" lemma="工作" pos="VERB">工作</instance>
+			<instance id="d002.s009.t008" lemma="的" pos="X">的</instance>
+			<instance id="d002.s009.t009" lemma="，" pos="X">，</instance>
+			<instance id="d002.s009.t010" lemma="我们" pos="X">我们</instance>
+			<instance id="d002.s009.t011" lemma="能" pos="VERB">能</instance>
+			<instance id="d002.s009.t012" lemma="做" pos="VERB">做</instance>
+			<instance id="d002.s009.t013" lemma="的" pos="X">的</instance>
+			<instance id="d002.s009.t014" lemma="最" pos="ADV">最</instance>
+			<instance id="d002.s009.t015" lemma="好" pos="ADJ">好</instance>
+			<instance id="d002.s009.t016" lemma="的" pos="X">的</instance>
+			<instance id="d002.s009.t017" lemma="事情" pos="NOUN">事情</instance>
+			<instance id="d002.s009.t018" lemma="就是" pos="ADV">就是</instance>
+			<instance id="d002.s009.t019" lemma="意识到" pos="VERB">意识到</instance>
+			<instance id="d002.s009.t020" lemma="我们" pos="X">我们</instance>
+			<instance id="d002.s009.t021" lemma="的" pos="X">的</instance>
+			<instance id="d002.s009.t022" lemma="输入" pos="NOUN">输入</instance>
+			<instance id="d002.s009.t023" lemma="正在" pos="ADV">正在</instance>
+			<instance id="d002.s009.t024" lemma="转换" pos="VERB">转换</instance>
+			<instance id="d002.s009.t025" lemma="成" pos="VERB">成</instance>
+			<instance id="d002.s009.t026" lemma="MathML" pos="NOUN">MathML</instance>
+			<instance id="d002.s009.t027" lemma="，" pos="X">，</instance>
+			<instance id="d002.s009.t028" lemma="尽管" pos="X">尽管</instance>
+			<instance id="d002.s009.t029" lemma="没有" pos="VERB">没有</instance>
+			<instance id="d002.s009.t030" lemma="必要" pos="NOUN">必要</instance>
+			<instance id="d002.s009.t031" lemma="了解" pos="VERB">了解</instance>
+			<instance id="d002.s009.t032" lemma="MathML" pos="NOUN">MathML</instance>
+			<instance id="d002.s009.t033" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s010" source="semeval2015-en">
+			<instance id="d002.s010.t000" lemma="我" pos="X">我</instance>
+			<instance id="d002.s010.t001" lemma="的" pos="X">的</instance>
+			<instance id="d002.s010.t002" lemma="语法" pos="NOUN">语法</instance>
+			<instance id="d002.s010.t003" lemma="基本上" pos="ADV">基本上</instance>
+			<instance id="d002.s010.t004" lemma="是" pos="VERB">是</instance>
+			<instance id="d002.s010.t005" lemma="基于" pos="VERB">基于</instance>
+			<instance id="d002.s010.t006" lemma="常识" pos="NOUN">常识</instance>
+			<instance id="d002.s010.t007" lemma="的" pos="X">的</instance>
+			<instance id="d002.s010.t008" lemma="，" pos="X">，</instance>
+			<instance id="d002.s010.t009" lemma="对于" pos="X">对于</instance>
+			<instance id="d002.s010.t010" lemma="任何" pos="X">任何</instance>
+			<instance id="d002.s010.t011" lemma="人" pos="NOUN">人</instance>
+			<instance id="d002.s010.t012" lemma="来说" pos="X">来说</instance>
+			<instance id="d002.s010.t013" lemma="这" pos="X">这</instance>
+			<instance id="d002.s010.t014" lemma="都" pos="ADV">都</instance>
+			<instance id="d002.s010.t015" lemma="应该" pos="VERB">应该</instance>
+			<instance id="d002.s010.t016" lemma="不" pos="ADV">不</instance>
+			<instance id="d002.s010.t017" lemma="难" pos="ADJ">难</instance>
+			<instance id="d002.s010.t018" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s011" source="semeval2015-en">
+			<instance id="d002.s011.t000" lemma="我" pos="X">我</instance>
+			<instance id="d002.s011.t001" lemma="仔细" pos="ADV">仔细</instance>
+			<instance id="d002.s011.t002" lemma="研究" pos="VERB">研究</instance>
+			<instance id="d002.s011.t003" lemma="了" pos="X">了</instance>
+			<instance id="d002.s011.t004" lemma="maxima" pos="NOUN">maxima</instance>
+			<instance id="d002.s011.t005" lemma="和" pos="X">和</instance>
+			<instance id="d002.s011.t006" lemma="maple" pos="NOUN">maple</instance>
+			<instance id="d002.s011.t007" lemma="的" pos="X">的</instance>
+			<instance id="d002.s011.t008" lemma="语法" pos="NOUN">语法</instance>
+			<instance id="d002.s011.t009" lemma="，" pos="X">，</instance>
+			<instance id="d002.s011.t010" lemma="发现" pos="VERB">发现</instance>
+			<instance id="d002.s011.t011" lemma="它们" pos="X">它们</instance>
+			<instance id="d002.s011.t012" lemma="看起来" pos="VERB">看起来</instance>
+			<instance id="d002.s011.t013" lemma="非常" pos="ADV">非常</instance>
+			<instance id="d002.s011.t014" lemma="相似" pos="ADJ">相似</instance>
+			<instance id="d002.s011.t015" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s012" source="semeval2015-en">
+			<instance id="d002.s012.t000" lemma="#ERROR!" pos="X">#ERROR!</instance>
+			<instance id="d002.s012.t001" lemma="-" pos="X">-</instance>
+			<instance id="d002.s012.t002" lemma="*" pos="X">*</instance>
+			<instance id="d002.s012.t003" lemma="/" pos="X">/</instance>
+			<instance id="d002.s012.t004" lemma="：" pos="X">：</instance>
+			<instance id="d002.s012.t005" lemma="加" pos="NOUN">加</instance>
+			<instance id="d002.s012.t006" lemma="、" pos="X">、</instance>
+			<instance id="d002.s012.t007" lemma="减" pos="NOUN">减</instance>
+			<instance id="d002.s012.t008" lemma="、" pos="X">、</instance>
+			<instance id="d002.s012.t009" lemma="乘" pos="NOUN">乘</instance>
+			<instance id="d002.s012.t010" lemma="、" pos="X">、</instance>
+			<instance id="d002.s012.t011" lemma="除" pos="NOUN">除</instance>
+			<instance id="d002.s012.t012" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s013" source="semeval2015-en">
+			<instance id="d002.s013.t000" lemma="^" pos="X">^</instance>
+			<instance id="d002.s013.t001" lemma="，" pos="X">，</instance>
+			<instance id="d002.s013.t002" lemma="*" pos="X">*</instance>
+			<instance id="d002.s013.t003" lemma="*" pos="X">*</instance>
+			<instance id="d002.s013.t004" lemma="：" pos="X">：</instance>
+			<instance id="d002.s013.t005" lemma="幂" pos="NOUN">幂</instance>
+			<instance id="d002.s013.t006" lemma="，" pos="X">，</instance>
+			<instance id="d002.s013.t007" lemma="你" pos="X">你</instance>
+			<instance id="d002.s013.t008" lemma="可以" pos="VERB">可以</instance>
+			<instance id="d002.s013.t009" lemma="同时" pos="ADV">同时</instance>
+			<instance id="d002.s013.t010" lemma="使用" pos="VERB">使用</instance>
+			<instance id="d002.s013.t011" lemma="它们" pos="X">它们</instance>
+			<instance id="d002.s013.t012" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s014" source="semeval2015-en">
+			<instance id="d002.s014.t000" lemma="也" pos="ADV">也</instance>
+			<instance id="d002.s014.t001" lemma="可以" pos="VERB">可以</instance>
+			<instance id="d002.s014.t002" lemma="使用" pos="VERB">使用</instance>
+			<instance id="d002.s014.t003" lemma="unicode²" pos="NOUN">unicode²</instance>
+			<instance id="d002.s014.t004" lemma="字符" pos="NOUN">字符</instance>
+			<instance id="d002.s014.t005" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s015" source="semeval2015-en">
+			<instance id="d002.s015.t000" lemma="幂" pos="NOUN">幂</instance>
+			<instance id="d002.s015.t001" lemma="也是" pos="VERB">也是</instance>
+			<instance id="d002.s015.t002" lemma="建立" pos="VERB">建立</instance>
+			<instance id="d002.s015.t003" lemma="根" pos="NOUN">根</instance>
+			<instance id="d002.s015.t004" lemma="的" pos="X">的</instance>
+			<instance id="d002.s015.t005" lemma="一" pos="X">一</instance>
+			<instance id="d002.s015.t006" lemma="种" pos="NOUN">种</instance>
+			<instance id="d002.s015.t007" lemma="方法" pos="NOUN">方法</instance>
+			<instance id="d002.s015.t008" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s016" source="semeval2015-en">
+			<instance id="d002.s016.t000" lemma="-" pos="X">-</instance>
+			<instance id="d002.s016.t001" lemma="gt" pos="NOUN">gt</instance>
+			<instance id="d002.s016.t002" lemma="：" pos="X">：</instance>
+			<instance id="d002.s016.t003" lemma="这" pos="X">这</instance>
+			<instance id="d002.s016.t004" lemma="是" pos="VERB">是</instance>
+			<instance id="d002.s016.t005" lemma="在" pos="X">在</instance>
+			<instance id="d002.s016.t006" lemma="函数" pos="NOUN">函数</instance>
+			<instance id="d002.s016.t007" lemma="中" pos="X">中</instance>
+			<instance id="d002.s016.t008" lemma="指定" pos="VERB">指定</instance>
+			<instance id="d002.s016.t009" lemma="有" pos="VERB">有</instance>
+			<instance id="d002.s016.t010" lemma="界" pos="NOUN">界</instance>
+			<instance id="d002.s016.t011" lemma="变量" pos="NOUN">变量</instance>
+			<instance id="d002.s016.t012" lemma="的" pos="X">的</instance>
+			<instance id="d002.s016.t013" lemma="方法" pos="NOUN">方法</instance>
+			<instance id="d002.s016.t014" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s017" source="semeval2015-en">
+			<instance id="d002.s017.t000" lemma="（" pos="X">（</instance>
+			<instance id="d002.s017.t001" lemma="）" pos="X">）</instance>
+			<instance id="d002.s017.t002" lemma="：" pos="X">：</instance>
+			<instance id="d002.s017.t003" lemma="用于" pos="VERB">用于</instance>
+			<instance id="d002.s017.t004" lemma="指定" pos="VERB">指定</instance>
+			<instance id="d002.s017.t005" lemma="较" pos="ADV">较</instance>
+			<instance id="d002.s017.t006" lemma="高" pos="ADJ">高</instance>
+			<instance id="d002.s017.t007" lemma="的" pos="X">的</instance>
+			<instance id="d002.s017.t008" lemma="优先级" pos="NOUN">优先级</instance>
+			<instance id="d002.s017.t009" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s018" source="semeval2015-en">
+			<instance id="d002.s018.t000" lemma="abc" pos="NOUN">abc</instance>
+			<instance id="d002.s018.t001" lemma="(" pos="X">(</instance>
+			<instance id="d002.s018.t002" lemma="params" pos="NOUN">params</instance>
+			<instance id="d002.s018.t003" lemma=")" pos="X">)</instance>
+			<instance id="d002.s018.t004" lemma="：" pos="X">：</instance>
+			<instance id="d002.s018.t005" lemma="当" pos="X">当</instance>
+			<instance id="d002.s018.t006" lemma="解析器" pos="NOUN">解析器</instance>
+			<instance id="d002.s018.t007" lemma="找到" pos="VERB">找到</instance>
+			<instance id="d002.s018.t008" lemma="一个" pos="X">一个</instance>
+			<instance id="d002.s018.t009" lemma="函数" pos="NOUN">函数</instance>
+			<instance id="d002.s018.t010" lemma="时" pos="X">时</instance>
+			<instance id="d002.s018.t011" lemma="，" pos="X">，</instance>
+			<instance id="d002.s018.t012" lemma="它" pos="X">它</instance>
+			<instance id="d002.s018.t013" lemma="会" pos="VERB">会</instance>
+			<instance id="d002.s018.t014" lemma="检查" pos="VERB">检查</instance>
+			<instance id="d002.s018.t015" lemma="abc" pos="NOUN">abc</instance>
+			<instance id="d002.s018.t016" lemma="是否" pos="ADV">是否</instance>
+			<instance id="d002.s018.t017" lemma="是" pos="VERB">是</instance>
+			<instance id="d002.s018.t018" lemma="一个" pos="X">一个</instance>
+			<instance id="d002.s018.t019" lemma="运算" pos="NOUN">运算</instance>
+			<instance id="d002.s018.t020" lemma="符" pos="NOUN">符</instance>
+			<instance id="d002.s018.t021" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s019" source="semeval2015-en">
+			<instance id="d002.s019.t000" lemma="如果" pos="X">如果</instance>
+			<instance id="d002.s019.t001" lemma="是" pos="VERB">是</instance>
+			<instance id="d002.s019.t002" lemma="，" pos="X">，</instance>
+			<instance id="d002.s019.t003" lemma="它" pos="X">它</instance>
+			<instance id="d002.s019.t004" lemma="将" pos="X">将</instance>
+			<instance id="d002.s019.t005" lemma="被" pos="X">被</instance>
+			<instance id="d002.s019.t006" lemma="视为" pos="VERB">视为</instance>
+			<instance id="d002.s019.t007" lemma="运算符" pos="NOUN">运算符</instance>
+			<instance id="d002.s019.t008" lemma="，" pos="X">，</instance>
+			<instance id="d002.s019.t009" lemma="如果" pos="X">如果</instance>
+			<instance id="d002.s019.t010" lemma="不是" pos="VERB">不是</instance>
+			<instance id="d002.s019.t011" lemma="，" pos="X">，</instance>
+			<instance id="d002.s019.t012" lemma="它" pos="X">它</instance>
+			<instance id="d002.s019.t013" lemma="将" pos="ADV">将</instance>
+			<instance id="d002.s019.t014" lemma="被" pos="X">被</instance>
+			<instance id="d002.s019.t015" lemma="视为" pos="VERB">视为</instance>
+			<instance id="d002.s019.t016" lemma="用户" pos="NOUN">用户</instance>
+			<instance id="d002.s019.t017" lemma="函数" pos="NOUN">函数</instance>
+			<instance id="d002.s019.t018" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s020" source="semeval2015-en">
+			<instance id="d002.s020.t000" lemma="：" pos="X">：</instance>
+			<instance id="d002.s020.t001" lemma="#ERROR!" pos="X">#ERROR!</instance>
+			<instance id="d002.s020.t002" lemma="：" pos="X">：</instance>
+			<instance id="d002.s020.t003" lemma="用于" pos="VERB">用于</instance>
+			<instance id="d002.s020.t004" lemma="定义" pos="VERB">定义</instance>
+			<instance id="d002.s020.t005" lemma="一个" pos="X">一个</instance>
+			<instance id="d002.s020.t006" lemma="变量" pos="NOUN">变量</instance>
+			<instance id="d002.s020.t007" lemma="值" pos="NOUN">值</instance>
+			<instance id="d002.s020.t008" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s021" source="semeval2015-en">
+			<instance id="d002.s021.t000" lemma="？" pos="X">？</instance>
+			<instance id="d002.s021.t001" lemma="：" pos="X">：</instance>
+			<instance id="d002.s021.t002" lemma="分段" pos="NOUN">分段</instance>
+			<instance id="d002.s021.t003" lemma="条件" pos="ADJ">条件</instance>
+			<instance id="d002.s021.t004" lemma="定义" pos="NOUN">定义</instance>
+			<instance id="d002.s021.t005" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s022" source="semeval2015-en">
+			<instance id="d002.s022.t000" lemma="我们" pos="X">我们</instance>
+			<instance id="d002.s022.t001" lemma="可以" pos="VERB">可以</instance>
+			<instance id="d002.s022.t002" lemma="在" pos="X">在</instance>
+			<instance id="d002.s022.t003" lemma="kalgebra" pos="NOUN">kalgebra</instance>
+			<instance id="d002.s022.t004" lemma="中" pos="X">中</instance>
+			<instance id="d002.s022.t005" lemma="定义" pos="VERB">定义</instance>
+			<instance id="d002.s022.t006" lemma="条件" pos="ADJ">条件</instance>
+			<instance id="d002.s022.t007" lemma="运算" pos="NOUN">运算</instance>
+			<instance id="d002.s022.t008" lemma="的" pos="X">的</instance>
+			<instance id="d002.s022.t009" lemma="方式" pos="NOUN">方式</instance>
+			<instance id="d002.s022.t010" lemma="是" pos="VERB">是</instance>
+			<instance id="d002.s022.t011" lemma="分段" pos="NOUN">分段</instance>
+			<instance id="d002.s022.t012" lemma="方式" pos="NOUN">方式</instance>
+			<instance id="d002.s022.t013" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s023" source="semeval2015-en">
+			<instance id="d002.s023.t000" lemma="如果" pos="X">如果</instance>
+			<instance id="d002.s023.t001" lemma="我们" pos="X">我们</instance>
+			<instance id="d002.s023.t002" lemma="在" pos="X">在</instance>
+			<instance id="d002.s023.t003" lemma="?" pos="X">?</instance>
+			<instance id="d002.s023.t004" lemma="之前" pos="NOUN">之前</instance>
+			<instance id="d002.s023.t005" lemma="引入" pos="VERB">引入</instance>
+			<instance id="d002.s023.t006" lemma="条件" pos="NOUN">条件</instance>
+			<instance id="d002.s023.t007" lemma="，" pos="X">，</instance>
+			<instance id="d002.s023.t008" lemma="则" pos="ADV">则</instance>
+			<instance id="d002.s023.t009" lemma="仅" pos="ADV">仅</instance>
+			<instance id="d002.s023.t010" lemma="当" pos="X">当</instance>
+			<instance id="d002.s023.t011" lemma="条件" pos="NOUN">条件</instance>
+			<instance id="d002.s023.t012" lemma="为" pos="VERB">为</instance>
+			<instance id="d002.s023.t013" lemma="真" pos="NOUN">真</instance>
+			<instance id="d002.s023.t014" lemma="时" pos="X">时</instance>
+			<instance id="d002.s023.t015" lemma="才" pos="X">才</instance>
+			<instance id="d002.s023.t016" lemma="会" pos="X">会</instance>
+			<instance id="d002.s023.t017" lemma="使用" pos="VERB">使用</instance>
+			<instance id="d002.s023.t018" lemma="此" pos="X">此</instance>
+			<instance id="d002.s023.t019" lemma="条件" pos="NOUN">条件</instance>
+			<instance id="d002.s023.t020" lemma="，" pos="X">，</instance>
+			<instance id="d002.s023.t021" lemma="如果" pos="X">如果</instance>
+			<instance id="d002.s023.t022" lemma="发现" pos="VERB">发现</instance>
+			<instance id="d002.s023.t023" lemma="没有" pos="VERB">没有</instance>
+			<instance id="d002.s023.t024" lemma="任何" pos="X">任何</instance>
+			<instance id="d002.s023.t025" lemma="条件" pos="NOUN">条件</instance>
+			<instance id="d002.s023.t026" lemma="的" pos="X">的</instance>
+			<instance id="d002.s023.t027" lemma="?" pos="X">?</instance>
+			<instance id="d002.s023.t028" lemma="，" pos="X">，</instance>
+			<instance id="d002.s023.t029" lemma="它" pos="X">它</instance>
+			<instance id="d002.s023.t030" lemma="将" pos="X">将</instance>
+			<instance id="d002.s023.t031" lemma="进入" pos="VERB">进入</instance>
+			<instance id="d002.s023.t032" lemma="最后" pos="ADJ">最后</instance>
+			<instance id="d002.s023.t033" lemma="一" pos="X">一</instance>
+			<instance id="d002.s023.t034" lemma="个" pos="NOUN">个</instance>
+			<instance id="d002.s023.t035" lemma="实例" pos="NOUN">实例</instance>
+			<instance id="d002.s023.t036" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s024" source="semeval2015-en">
+			<instance id="d002.s024.t000" lemma="{" pos="X">{</instance>
+			<instance id="d002.s024.t001" lemma="}" pos="X">}</instance>
+			<instance id="d002.s024.t002" lemma="：" pos="X">：</instance>
+			<instance id="d002.s024.t003" lemma="MathML" pos="NOUN">MathML</instance>
+			<instance id="d002.s024.t004" lemma="容器" pos="NOUN">容器</instance>
+			<instance id="d002.s024.t005" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s025" source="semeval2015-en">
+			<instance id="d002.s025.t000" lemma="它" pos="X">它</instance>
+			<instance id="d002.s025.t001" lemma="可" pos="VERB">可</instance>
+			<instance id="d002.s025.t002" lemma="用于" pos="VERB">用于</instance>
+			<instance id="d002.s025.t003" lemma="定义" pos="VERB">定义</instance>
+			<instance id="d002.s025.t004" lemma="一个" pos="X">一个</instance>
+			<instance id="d002.s025.t005" lemma="容器" pos="NOUN">容器</instance>
+			<instance id="d002.s025.t006" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s026" source="semeval2015-en">
+			<instance id="d002.s026.t000" lemma="主要" pos="ADV">主要</instance>
+			<instance id="d002.s026.t001" lemma="用于" pos="VERB">用于</instance>
+			<instance id="d002.s026.t002" lemma="分段" pos="NOUN">分段</instance>
+			<instance id="d002.s026.t003" lemma="工作" pos="NOUN">工作</instance>
+			<instance id="d002.s026.t004" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s027" source="semeval2015-en">
+			<instance id="d002.s027.t000" lemma="现在" pos="ADV">现在</instance>
+			<instance id="d002.s027.t001" lemma="您" pos="X">您</instance>
+			<instance id="d002.s027.t002" lemma="可能" pos="VERB">可能</instance>
+			<instance id="d002.s027.t003" lemma="会" pos="VERB">会</instance>
+			<instance id="d002.s027.t004" lemma="问" pos="VERB">问</instance>
+			<instance id="d002.s027.t005" lemma="我" pos="X">我</instance>
+			<instance id="d002.s027.t006" lemma="，" pos="X">，</instance>
+			<instance id="d002.s027.t007" lemma="用户" pos="NOUN">用户</instance>
+			<instance id="d002.s027.t008" lemma="为什么" pos="ADV">为什么</instance>
+			<instance id="d002.s027.t009" lemma="要" pos="VERB">要</instance>
+			<instance id="d002.s027.t010" lemma="介意" pos="VERB">介意</instance>
+			<instance id="d002.s027.t011" lemma="MathML" pos="NOUN">MathML</instance>
+			<instance id="d002.s027.t012" lemma="？" pos="X">？</instance>
+		</sentence>
+		<sentence id="d002.s028" source="semeval2015-en">
+			<instance id="d002.s028.t000" lemma="这" pos="X">这</instance>
+			<instance id="d002.s028.t001" lemma="很" pos="ADV">很</instance>
+			<instance id="d002.s028.t002" lemma="简单" pos="ADJ">简单</instance>
+			<instance id="d002.s028.t003" lemma="。" pos="X">。</instance>
+			<instance id="d002.s028.t004" lemma="有" pos="VERB">有</instance>
+			<instance id="d002.s028.t005" lemma="了" pos="X">了</instance>
+			<instance id="d002.s028.t006" lemma="它" pos="X">它</instance>
+			<instance id="d002.s028.t007" lemma="，" pos="X">，</instance>
+			<instance id="d002.s028.t008" lemma="我们" pos="X">我们</instance>
+			<instance id="d002.s028.t009" lemma="就" pos="ADV">就</instance>
+			<instance id="d002.s028.t010" lemma="可以" pos="VERB">可以</instance>
+			<instance id="d002.s028.t011" lemma="操作" pos="VERB">操作</instance>
+			<instance id="d002.s028.t012" lemma="cos" pos="NOUN">cos</instance>
+			<instance id="d002.s028.t013" lemma="(" pos="X">(</instance>
+			<instance id="d002.s028.t014" lemma=")" pos="X">)</instance>
+			<instance id="d002.s028.t015" lemma="、" pos="X">、</instance>
+			<instance id="d002.s028.t016" lemma="sin" pos="NOUN">sin</instance>
+			<instance id="d002.s028.t017" lemma="(" pos="X">(</instance>
+			<instance id="d002.s028.t018" lemma=")" pos="X">)</instance>
+			<instance id="d002.s028.t019" lemma="等" pos="ADV">等</instance>
+			<instance id="d002.s028.t020" lemma="函数" pos="NOUN">函数</instance>
+			<instance id="d002.s028.t021" lemma="，" pos="X">，</instance>
+			<instance id="d002.s028.t022" lemma="以及" pos="X">以及</instance>
+			<instance id="d002.s028.t023" lemma="任何" pos="X">任何</instance>
+			<instance id="d002.s028.t024" lemma="其他" pos="ADJ">其他</instance>
+			<instance id="d002.s028.t025" lemma="三角" pos="NOUN">三角</instance>
+			<instance id="d002.s028.t026" lemma="函数" pos="NOUN">函数</instance>
+			<instance id="d002.s028.t027" lemma="、" pos="X">、</instance>
+			<instance id="d002.s028.t028" lemma="sum" pos="NOUN">sum</instance>
+			<instance id="d002.s028.t029" lemma="(" pos="X">(</instance>
+			<instance id="d002.s028.t030" lemma=")" pos="X">)</instance>
+			<instance id="d002.s028.t031" lemma="或" pos="X">或</instance>
+			<instance id="d002.s028.t032" lemma="product" pos="NOUN">product</instance>
+			<instance id="d002.s028.t033" lemma="(" pos="X">(</instance>
+			<instance id="d002.s028.t034" lemma=")" pos="X">)</instance>
+			<instance id="d002.s028.t035" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s029" source="semeval2015-en">
+			<instance id="d002.s029.t000" lemma="不管" pos="ADV">不管</instance>
+			<instance id="d002.s029.t001" lemma="是" pos="VERB">是</instance>
+			<instance id="d002.s029.t002" lemma="哪" pos="X">哪</instance>
+			<instance id="d002.s029.t003" lemma="种" pos="NOUN">种</instance>
+			<instance id="d002.s029.t004" lemma="类型" pos="NOUN">类型</instance>
+			<instance id="d002.s029.t005" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s030" source="semeval2015-en">
+			<instance id="d002.s030.t000" lemma="我们" pos="X">我们</instance>
+			<instance id="d002.s030.t001" lemma="可以" pos="VERB">可以</instance>
+			<instance id="d002.s030.t002" lemma="使用" pos="VERB">使用</instance>
+			<instance id="d002.s030.t003" lemma="plus" pos="NOUN">plus</instance>
+			<instance id="d002.s030.t004" lemma="(" pos="X">(</instance>
+			<instance id="d002.s030.t005" lemma=")" pos="X">)</instance>
+			<instance id="d002.s030.t006" lemma="、" pos="X">、</instance>
+			<instance id="d002.s030.t007" lemma="times" pos="NOUN">times</instance>
+			<instance id="d002.s030.t008" lemma="(" pos="X">(</instance>
+			<instance id="d002.s030.t009" lemma=")" pos="X">)</instance>
+			<instance id="d002.s030.t010" lemma="以及" pos="X">以及</instance>
+			<instance id="d002.s030.t011" lemma="所有" pos="X">所有</instance>
+			<instance id="d002.s030.t012" lemma="带有" pos="VERB">带有</instance>
+			<instance id="d002.s030.t013" lemma="其" pos="X">其</instance>
+			<instance id="d002.s030.t014" lemma="运算符" pos="NOUN">运算符</instance>
+			<instance id="d002.s030.t015" lemma="的" pos="X">的</instance>
+			<instance id="d002.s030.t016" lemma="函数" pos="NOUN">函数</instance>
+			<instance id="d002.s030.t017" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s031" source="semeval2015-en">
+			<instance id="d002.s031.t000" lemma="kalgebra" pos="NOUN">kalgebra</instance>
+			<instance id="d002.s031.t001" lemma="的" pos="X">的</instance>
+			<instance id="d002.s031.t002" lemma="控制台" pos="NOUN">控制台</instance>
+			<instance id="d002.s031.t003" lemma="可" pos="VERB">可</instance>
+			<instance id="d002.s031.t004" lemma="用作" pos="VERB">用作</instance>
+			<instance id="d002.s031.t005" lemma="计算器" pos="NOUN">计算器</instance>
+			<instance id="d002.s031.t006" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s032" source="semeval2015-en">
+			<instance id="d002.s032.t000" lemma="这里" pos="X">这里</instance>
+			<instance id="d002.s032.t001" lemma="有" pos="VERB">有</instance>
+			<instance id="d002.s032.t002" lemma="一个" pos="X">一个</instance>
+			<instance id="d002.s032.t003" lemma="已" pos="ADV">已</instance>
+			<instance id="d002.s032.t004" lemma="声明" pos="VERB">声明</instance>
+			<instance id="d002.s032.t005" lemma="变量" pos="NOUN">变量</instance>
+			<instance id="d002.s032.t006" lemma="的" pos="X">的</instance>
+			<instance id="d002.s032.t007" lemma="列表" pos="NOUN">列表</instance>
+			<instance id="d002.s032.t008" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s033" source="semeval2015-en">
+			<instance id="d002.s033.t000" lemma="通过" pos="X">通过</instance>
+			<instance id="d002.s033.t001" lemma="双击" pos="VERB">双击</instance>
+			<instance id="d002.s033.t002" lemma="它们" pos="X">它们</instance>
+			<instance id="d002.s033.t003" lemma="，" pos="X">，</instance>
+			<instance id="d002.s033.t004" lemma="您" pos="X">您</instance>
+			<instance id="d002.s033.t005" lemma="将" pos="X">将</instance>
+			<instance id="d002.s033.t006" lemma="看到" pos="VERB">看到</instance>
+			<instance id="d002.s033.t007" lemma="一" pos="X">一</instance>
+			<instance id="d002.s033.t008" lemma="个" pos="NOUN">个</instance>
+			<instance id="d002.s033.t009" lemma="对话框" pos="NOUN">对话框</instance>
+			<instance id="d002.s033.t010" lemma="，" pos="X">，</instance>
+			<instance id="d002.s033.t011" lemma="您" pos="X">您</instance>
+			<instance id="d002.s033.t012" lemma="可以" pos="VERB">可以</instance>
+			<instance id="d002.s033.t013" lemma="更改" pos="VERB">更改</instance>
+			<instance id="d002.s033.t014" lemma="它们" pos="X">它们</instance>
+			<instance id="d002.s033.t015" lemma="的" pos="X">的</instance>
+			<instance id="d002.s033.t016" lemma="值" pos="NOUN">值</instance>
+			<instance id="d002.s033.t017" lemma="（" pos="X">（</instance>
+			<instance id="d002.s033.t018" lemma="这" pos="X">这</instance>
+			<instance id="d002.s033.t019" lemma="只" pos="ADV">只</instance>
+			<instance id="d002.s033.t020" lemma="是" pos="VERB">是</instance>
+			<instance id="d002.s033.t021" lemma="一" pos="X">一</instance>
+			<instance id="d002.s033.t022" lemma="种" pos="NOUN">种</instance>
+			<instance id="d002.s033.t023" lemma="欺骗" pos="VERB">欺骗</instance>
+			<instance id="d002.s033.t024" lemma="日志" pos="NOUN">日志</instance>
+			<instance id="d002.s033.t025" lemma="的" pos="X">的</instance>
+			<instance id="d002.s033.t026" lemma="方法" pos="NOUN">方法</instance>
+			<instance id="d002.s033.t027" lemma="）" pos="X">）</instance>
+			<instance id="d002.s033.t028" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s034" source="semeval2015-en">
+			<instance id="d002.s034.t000" lemma="每次" pos="ADV">每次</instance>
+			<instance id="d002.s034.t001" lemma="输入" pos="VERB">输入</instance>
+			<instance id="d002.s034.t002" lemma="表达式" pos="NOUN">表达式</instance>
+			<instance id="d002.s034.t003" lemma="时" pos="X">时</instance>
+			<instance id="d002.s034.t004" lemma="，" pos="X">，</instance>
+			<instance id="d002.s034.t005" lemma="“" pos="X">“</instance>
+			<instance id="d002.s034.t006" lemma="”" pos="X">”</instance>
+			<instance id="d002.s034.t007" lemma="和" pos="X">和</instance>
+			<instance id="d002.s034.t008" lemma="“" pos="X">“</instance>
+			<instance id="d002.s034.t009" lemma="”" pos="X">”</instance>
+			<instance id="d002.s034.t010" lemma="变量" pos="NOUN">变量</instance>
+			<instance id="d002.s034.t011" lemma="值" pos="NOUN">值</instance>
+			<instance id="d002.s034.t012" lemma="都会" pos="VERB">都会</instance>
+			<instance id="d002.s034.t013" lemma="更改" pos="VERB">更改</instance>
+			<instance id="d002.s034.t014" lemma="为" pos="X">为</instance>
+			<instance id="d002.s034.t015" lemma="最后" pos="ADJ">最后</instance>
+			<instance id="d002.s034.t016" lemma="一个" pos="X">一个</instance>
+			<instance id="d002.s034.t017" lemma="结果" pos="NOUN">结果</instance>
+			<instance id="d002.s034.t018" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s035" source="semeval2015-en">
+			<instance id="d002.s035.t000" lemma="Ctrl" pos="NOUN">Ctrl</instance>
+			<instance id="d002.s035.t001" lemma="N" pos="NOUN">N</instance>
+			<instance id="d002.s035.t002" lemma="新" pos="ADJ">新</instance>
+			<instance id="d002.s035.t003" lemma="窗口" pos="NOUN">窗口</instance>
+		</sentence>
+		<sentence id="d002.s036" source="semeval2015-en">
+			<instance id="d002.s036.t000" lemma="刷新" pos="VERB">刷新</instance>
+			<instance id="d002.s036.t001" lemma="日志" pos="NOUN">日志</instance>
+			<instance id="d002.s036.t002" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s037" source="semeval2015-en">
+			<instance id="d002.s037.t000" lemma="Ctrl" pos="NOUN">Ctrl</instance>
+			<instance id="d002.s037.t001" lemma="L" pos="NOUN">L</instance>
+			<instance id="d002.s037.t002" lemma="加载" pos="VERB">加载</instance>
+			<instance id="d002.s037.t003" lemma="脚本" pos="NOUN">脚本</instance>
+		</sentence>
+		<sentence id="d002.s038" source="semeval2015-en">
+			<instance id="d002.s038.t000" lemma="按" pos="X">按</instance>
+			<instance id="d002.s038.t001" lemma="顺序" pos="NOUN">顺序</instance>
+			<instance id="d002.s038.t002" lemma="执行" pos="VERB">执行</instance>
+			<instance id="d002.s038.t003" lemma="文件" pos="NOUN">文件</instance>
+			<instance id="d002.s038.t004" lemma="中" pos="X">中</instance>
+			<instance id="d002.s038.t005" lemma="的" pos="X">的</instance>
+			<instance id="d002.s038.t006" lemma="指令" pos="NOUN">指令</instance>
+			<instance id="d002.s038.t007" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s039" source="semeval2015-en">
+			<instance id="d002.s039.t000" lemma="如果" pos="X">如果</instance>
+			<instance id="d002.s039.t001" lemma="您" pos="X">您</instance>
+			<instance id="d002.s039.t002" lemma="想" pos="VERB">想</instance>
+			<instance id="d002.s039.t003" lemma="定义" pos="VERB">定义</instance>
+			<instance id="d002.s039.t004" lemma="一些" pos="ADJ">一些</instance>
+			<instance id="d002.s039.t005" lemma="库" pos="NOUN">库</instance>
+			<instance id="d002.s039.t006" lemma="或者" pos="X">或者</instance>
+			<instance id="d002.s039.t007" lemma="恢复" pos="VERB">恢复</instance>
+			<instance id="d002.s039.t008" lemma="一些" pos="ADJ">一些</instance>
+			<instance id="d002.s039.t009" lemma="以前" pos="ADJ">以前</instance>
+			<instance id="d002.s039.t010" lemma="的" pos="X">的</instance>
+			<instance id="d002.s039.t011" lemma="工作" pos="NOUN">工作</instance>
+			<instance id="d002.s039.t012" lemma="，" pos="X">，</instance>
+			<instance id="d002.s039.t013" lemma="那" pos="ADV">那</instance>
+			<instance id="d002.s039.t014" lemma="就" pos="X">就</instance>
+			<instance id="d002.s039.t015" lemma="太" pos="ADV">太</instance>
+			<instance id="d002.s039.t016" lemma="好" pos="ADJ">好</instance>
+			<instance id="d002.s039.t017" lemma="了" pos="X">了</instance>
+			<instance id="d002.s039.t018" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s040" source="semeval2015-en">
+			<instance id="d002.s040.t000" lemma="Ctrl" pos="NOUN">Ctrl</instance>
+			<instance id="d002.s040.t001" lemma="G" pos="NOUN">G</instance>
+			<instance id="d002.s040.t002" lemma="保存" pos="VERB">保存</instance>
+			<instance id="d002.s040.t003" lemma="脚本" pos="NOUN">脚本</instance>
+		</sentence>
+		<sentence id="d002.s041" source="semeval2015-en">
+			<instance id="d002.s041.t000" lemma="保存" pos="VERB">保存</instance>
+			<instance id="d002.s041.t001" lemma="您" pos="X">您</instance>
+			<instance id="d002.s041.t002" lemma="自" pos="X">自</instance>
+			<instance id="d002.s041.t003" lemma="会话" pos="NOUN">会话</instance>
+			<instance id="d002.s041.t004" lemma="开始" pos="VERB">开始</instance>
+			<instance id="d002.s041.t005" lemma="以来" pos="X">以来</instance>
+			<instance id="d002.s041.t006" lemma="键入" pos="VERB">键入</instance>
+			<instance id="d002.s041.t007" lemma="的" pos="X">的</instance>
+			<instance id="d002.s041.t008" lemma="指令" pos="NOUN">指令</instance>
+			<instance id="d002.s041.t009" lemma="，" pos="X">，</instance>
+			<instance id="d002.s041.t010" lemma="以便" pos="ADV">以便</instance>
+			<instance id="d002.s041.t011" lemma="能够" pos="VERB">能够</instance>
+			<instance id="d002.s041.t012" lemma="重复使用" pos="VERB">重复使用</instance>
+			<instance id="d002.s041.t013" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s042" source="semeval2015-en">
+			<instance id="d002.s042.t000" lemma="生成" pos="VERB">生成</instance>
+			<instance id="d002.s042.t001" lemma="文本" pos="NOUN">文本</instance>
+			<instance id="d002.s042.t002" lemma="文件" pos="NOUN">文件</instance>
+			<instance id="d002.s042.t003" lemma="，" pos="X">，</instance>
+			<instance id="d002.s042.t004" lemma="因此" pos="ADV">因此</instance>
+			<instance id="d002.s042.t005" lemma="使用" pos="VERB">使用</instance>
+			<instance id="d002.s042.t006" lemma="任何" pos="X">任何</instance>
+			<instance id="d002.s042.t007" lemma="文本" pos="NOUN">文本</instance>
+			<instance id="d002.s042.t008" lemma="编辑器" pos="NOUN">编辑器</instance>
+			<instance id="d002.s042.t009" lemma="（" pos="X">（</instance>
+			<instance id="d002.s042.t010" lemma="如" pos="X">如</instance>
+			<instance id="d002.s042.t011" lemma="Kate" pos="NOUN">Kate</instance>
+			<instance id="d002.s042.t012" lemma="）" pos="X">）</instance>
+			<instance id="d002.s042.t013" lemma="都" pos="ADV">都</instance>
+			<instance id="d002.s042.t014" lemma="可以" pos="VERB">可以</instance>
+			<instance id="d002.s042.t015" lemma="轻松" pos="ADV">轻松</instance>
+			<instance id="d002.s042.t016" lemma="修复" pos="VERB">修复</instance>
+			<instance id="d002.s042.t017" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s043" source="semeval2015-en">
+			<instance id="d002.s043.t000" lemma="Ctrl" pos="NOUN">Ctrl</instance>
+			<instance id="d002.s043.t001" lemma="S" pos="NOUN">S</instance>
+			<instance id="d002.s043.t002" lemma="保存" pos="NOUN">保存</instance>
+			<instance id="d002.s043.t003" lemma="日志" pos="NOUN">日志</instance>
+		</sentence>
+		<sentence id="d002.s044" source="semeval2015-en">
+			<instance id="d002.s044.t000" lemma="将" pos="X">将</instance>
+			<instance id="d002.s044.t001" lemma="所有" pos="X">所有</instance>
+			<instance id="d002.s044.t002" lemma="结果" pos="NOUN">结果</instance>
+			<instance id="d002.s044.t003" lemma="的" pos="X">的</instance>
+			<instance id="d002.s044.t004" lemma="日志" pos="NOUN">日志</instance>
+			<instance id="d002.s044.t005" lemma="保存" pos="VERB">保存</instance>
+			<instance id="d002.s044.t006" lemma="到" pos="X">到</instance>
+			<instance id="d002.s044.t007" lemma="HTML" pos="NOUN">HTML</instance>
+			<instance id="d002.s044.t008" lemma="文件" pos="NOUN">文件</instance>
+			<instance id="d002.s044.t009" lemma="中" pos="X">中</instance>
+			<instance id="d002.s044.t010" lemma="，" pos="X">，</instance>
+			<instance id="d002.s044.t011" lemma="以便" pos="ADV">以便</instance>
+			<instance id="d002.s044.t012" lemma="打印" pos="VERB">打印</instance>
+			<instance id="d002.s044.t013" lemma="或" pos="X">或</instance>
+			<instance id="d002.s044.t014" lemma="发布" pos="VERB">发布</instance>
+			<instance id="d002.s044.t015" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s045" source="semeval2015-en">
+			<instance id="d002.s045.t000" lemma="Ctrl" pos="NOUN">Ctrl</instance>
+			<instance id="d002.s045.t001" lemma="Q" pos="NOUN">Q</instance>
+			<instance id="d002.s045.t002" lemma="退出" pos="VERB">退出</instance>
+		</sentence>
+		<sentence id="d002.s046" source="semeval2015-en">
+			<instance id="d002.s046.t000" lemma="关闭" pos="VERB">关闭</instance>
+			<instance id="d002.s046.t001" lemma="程序" pos="NOUN">程序</instance>
+			<instance id="d002.s046.t002" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s047" source="semeval2015-en">
+			<instance id="d002.s047.t000" lemma="要" pos="VERB">要</instance>
+			<instance id="d002.s047.t001" lemma="在" pos="X">在</instance>
+			<instance id="d002.s047.t002" lemma="kalgebra" pos="NOUN">kalgebra</instance>
+			<instance id="d002.s047.t003" lemma="上" pos="X">上</instance>
+			<instance id="d002.s047.t004" lemma="添加" pos="VERB">添加</instance>
+			<instance id="d002.s047.t005" lemma="新" pos="ADJ">新</instance>
+			<instance id="d002.s047.t006" lemma="的" pos="X">的</instance>
+			<instance id="d002.s047.t007" lemma="2D" pos="NOUN">2D</instance>
+			<instance id="d002.s047.t008" lemma="图形" pos="NOUN">图形</instance>
+			<instance id="d002.s047.t009" lemma="，" pos="X">，</instance>
+			<instance id="d002.s047.t010" lemma="您" pos="X">您</instance>
+			<instance id="d002.s047.t011" lemma="需要" pos="VERB">需要</instance>
+			<instance id="d002.s047.t012" lemma="做" pos="VERB">做</instance>
+			<instance id="d002.s047.t013" lemma="的" pos="X">的</instance>
+			<instance id="d002.s047.t014" lemma="是" pos="VERB">是</instance>
+			<instance id="d002.s047.t015" lemma="转到" pos="VERB">转到</instance>
+			<instance id="d002.s047.t016" lemma="“" pos="X">“</instance>
+			<instance id="d002.s047.t017" lemma="2D" pos="NOUN">2D</instance>
+			<instance id="d002.s047.t018" lemma="图形" pos="NOUN">图形</instance>
+			<instance id="d002.s047.t019" lemma="”" pos="X">”</instance>
+			<instance id="d002.s047.t020" lemma="选项" pos="NOUN">选项</instance>
+			<instance id="d002.s047.t021" lemma="，" pos="X">，</instance>
+			<instance id="d002.s047.t022" lemma="然后" pos="ADV">然后</instance>
+			<instance id="d002.s047.t023" lemma="单击" pos="VERB">单击</instance>
+			<instance id="d002.s047.t024" lemma="“" pos="X">“</instance>
+			<instance id="d002.s047.t025" lemma="添加" pos="VERB">添加</instance>
+			<instance id="d002.s047.t026" lemma="”" pos="X">”</instance>
+			<instance id="d002.s047.t027" lemma="选项" pos="NOUN">选项</instance>
+			<instance id="d002.s047.t028" lemma="卡" pos="NOUN">卡</instance>
+			<instance id="d002.s047.t029" lemma="以" pos="X">以</instance>
+			<instance id="d002.s047.t030" lemma="添加" pos="VERB">添加</instance>
+			<instance id="d002.s047.t031" lemma="新" pos="ADJ">新</instance>
+			<instance id="d002.s047.t032" lemma="函数" pos="NOUN">函数</instance>
+			<instance id="d002.s047.t033" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s048" source="semeval2015-en">
+			<instance id="d002.s048.t000" lemma="然后" pos="ADV">然后</instance>
+			<instance id="d002.s048.t001" lemma="你" pos="X">你</instance>
+			<instance id="d002.s048.t002" lemma="的" pos="X">的</instance>
+			<instance id="d002.s048.t003" lemma="焦点" pos="NOUN">焦点</instance>
+			<instance id="d002.s048.t004" lemma="将" pos="X">将</instance>
+			<instance id="d002.s048.t005" lemma="转到" pos="VERB">转到</instance>
+			<instance id="d002.s048.t006" lemma="输入" pos="NOUN">输入</instance>
+			<instance id="d002.s048.t007" lemma="文本" pos="NOUN">文本</instance>
+			<instance id="d002.s048.t008" lemma="框" pos="NOUN">框</instance>
+			<instance id="d002.s048.t009" lemma="，" pos="X">，</instance>
+			<instance id="d002.s048.t010" lemma="你" pos="X">你</instance>
+			<instance id="d002.s048.t011" lemma="可以" pos="VERB">可以</instance>
+			<instance id="d002.s048.t012" lemma="在" pos="X">在</instance>
+			<instance id="d002.s048.t013" lemma="其中" pos="X">其中</instance>
+			<instance id="d002.s048.t014" lemma="输入" pos="VERB">输入</instance>
+			<instance id="d002.s048.t015" lemma="你" pos="X">你</instance>
+			<instance id="d002.s048.t016" lemma="的" pos="X">的</instance>
+			<instance id="d002.s048.t017" lemma="函数" pos="NOUN">函数</instance>
+			<instance id="d002.s048.t018" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s049" source="semeval2015-en">
+			<instance id="d002.s049.t000" lemma="如果" pos="X">如果</instance>
+			<instance id="d002.s049.t001" lemma="您" pos="X">您</instance>
+			<instance id="d002.s049.t002" lemma="想" pos="VERB">想</instance>
+			<instance id="d002.s049.t003" lemma="使用" pos="VERB">使用</instance>
+			<instance id="d002.s049.t004" lemma="典型" pos="ADJ">典型</instance>
+			<instance id="d002.s049.t005" lemma="的" pos="X">的</instance>
+			<instance id="d002.s049.t006" lemma="f" pos="NOUN">f</instance>
+			<instance id="d002.s049.t007" lemma="(" pos="X">(</instance>
+			<instance id="d002.s049.t008" lemma="x" pos="NOUN">x</instance>
+			<instance id="d002.s049.t009" lemma=")" pos="X">)</instance>
+			<instance id="d002.s049.t010" lemma="函数" pos="NOUN">函数</instance>
+			<instance id="d002.s049.t011" lemma="，" pos="X">，</instance>
+			<instance id="d002.s049.t012" lemma="则" pos="ADV">则</instance>
+			<instance id="d002.s049.t013" lemma="无需" pos="ADV">无需</instance>
+			<instance id="d002.s049.t014" lemma="指定" pos="VERB">指定</instance>
+			<instance id="d002.s049.t015" lemma="它" pos="X">它</instance>
+			<instance id="d002.s049.t016" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s050" source="semeval2015-en">
+			<instance id="d002.s050.t000" lemma="如果" pos="X">如果</instance>
+			<instance id="d002.s050.t001" lemma="您" pos="X">您</instance>
+			<instance id="d002.s050.t002" lemma="已经" pos="ADV">已经</instance>
+			<instance id="d002.s050.t003" lemma="输入" pos="VERB">输入</instance>
+			<instance id="d002.s050.t004" lemma="该" pos="X">该</instance>
+			<instance id="d002.s050.t005" lemma="功能" pos="NOUN">功能</instance>
+			<instance id="d002.s050.t006" lemma="请" pos="VERB">请</instance>
+			<instance id="d002.s050.t007" lemma="单击" pos="VERB">单击</instance>
+			<instance id="d002.s050.t008" lemma="“" pos="X">“</instance>
+			<instance id="d002.s050.t009" lemma="确定" pos="ADJ">确定</instance>
+			<instance id="d002.s050.t010" lemma="”" pos="X">”</instance>
+			<instance id="d002.s050.t011" lemma="按钮" pos="NOUN">按钮</instance>
+			<instance id="d002.s050.t012" lemma="以" pos="X">以</instance>
+			<instance id="d002.s050.t013" lemma="在" pos="X">在</instance>
+			<instance id="d002.s050.t014" lemma="主窗口" pos="NOUN">主窗口</instance>
+			<instance id="d002.s050.t015" lemma="中" pos="X">中</instance>
+			<instance id="d002.s050.t016" lemma="显示" pos="VERB">显示</instance>
+			<instance id="d002.s050.t017" lemma="图表" pos="NOUN">图表</instance>
+			<instance id="d002.s050.t018" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s051" source="semeval2015-en">
+			<instance id="d002.s051.t000" lemma="您" pos="X">您</instance>
+			<instance id="d002.s051.t001" lemma="可以" pos="VERB">可以</instance>
+			<instance id="d002.s051.t002" lemma="在" pos="X">在</instance>
+			<instance id="d002.s051.t003" lemma="同一" pos="ADJ">同一</instance>
+			<instance id="d002.s051.t004" lemma="视图" pos="NOUN">视图</instance>
+			<instance id="d002.s051.t005" lemma="上" pos="X">上</instance>
+			<instance id="d002.s051.t006" lemma="设置" pos="VERB">设置</instance>
+			<instance id="d002.s051.t007" lemma="多" pos="ADJ">多</instance>
+			<instance id="d002.s051.t008" lemma="个" pos="NOUN">个</instance>
+			<instance id="d002.s051.t009" lemma="图表" pos="NOUN">图表</instance>
+			<instance id="d002.s051.t010" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s052" source="semeval2015-en">
+			<instance id="d002.s052.t000" lemma="当" pos="X">当</instance>
+			<instance id="d002.s052.t001" lemma="您" pos="X">您</instance>
+			<instance id="d002.s052.t002" lemma="处于" pos="VERB">处于</instance>
+			<instance id="d002.s052.t003" lemma="列表" pos="NOUN">列表</instance>
+			<instance id="d002.s052.t004" lemma="模式" pos="NOUN">模式</instance>
+			<instance id="d002.s052.t005" lemma="时" pos="X">时</instance>
+			<instance id="d002.s052.t006" lemma="，" pos="X">，</instance>
+			<instance id="d002.s052.t007" lemma="只" pos="ADV">只</instance>
+			<instance id="d002.s052.t008" lemma="需" pos="VERB">需</instance>
+			<instance id="d002.s052.t009" lemma="使用" pos="VERB">使用</instance>
+			<instance id="d002.s052.t010" lemma="添加" pos="VERB">添加</instance>
+			<instance id="d002.s052.t011" lemma="按钮" pos="NOUN">按钮</instance>
+			<instance id="d002.s052.t012" lemma="即可" pos="ADV">即可</instance>
+			<instance id="d002.s052.t013" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d002.s053" source="semeval2015-en">
+			<instance id="d002.s053.t000" lemma="您" pos="X">您</instance>
+			<instance id="d002.s053.t001" lemma="可以" pos="VERB">可以</instance>
+			<instance id="d002.s053.t002" lemma="为" pos="X">为</instance>
+			<instance id="d002.s053.t003" lemma="每" pos="X">每</instance>
+			<instance id="d002.s053.t004" lemma="个" pos="NOUN">个</instance>
+			<instance id="d002.s053.t005" lemma="图形" pos="NOUN">图形</instance>
+			<instance id="d002.s053.t006" lemma="设置" pos="VERB">设置</instance>
+			<instance id="d002.s053.t007" lemma="其" pos="X">其</instance>
+			<instance id="d002.s053.t008" lemma="自己" pos="X">自己</instance>
+			<instance id="d002.s053.t009" lemma="的" pos="X">的</instance>
+			<instance id="d002.s053.t010" lemma="颜色" pos="NOUN">颜色</instance>
+			<instance id="d002.s053.t011" lemma="。" pos="X">。</instance>
+		</sentence>
+	</text>
+	<text id="d003">
+		<sentence id="d003.s000" source="semeval2015-en" />
+		<sentence id="d003.s001" source="semeval2015-en">
+			<instance id="d003.s001.t000" lemma="该" pos="X">该</instance>
+			<instance id="d003.s001.t001" lemma="基金会" pos="NOUN">基金会</instance>
+			<instance id="d003.s001.t002" lemma="最近" pos="ADV">最近</instance>
+			<instance id="d003.s001.t003" lemma="参与" pos="VERB">参与</instance>
+			<instance id="d003.s001.t004" lemma="组织" pos="VERB">组织</instance>
+			<instance id="d003.s001.t005" lemma="了" pos="X">了</instance>
+			<instance id="d003.s001.t006" lemma="一" pos="X">一</instance>
+			<instance id="d003.s001.t007" lemma="次" pos="NOUN">次</instance>
+			<instance id="d003.s001.t008" lemma="应对" pos="VERB">应对</instance>
+			<instance id="d003.s001.t009" lemma="这" pos="X">这</instance>
+			<instance id="d003.s001.t010" lemma="一" pos="X">一</instance>
+			<instance id="d003.s001.t011" lemma="严峻" pos="ADJ">严峻</instance>
+			<instance id="d003.s001.t012" lemma="挑战" pos="NOUN">挑战</instance>
+			<instance id="d003.s001.t013" lemma="的" pos="X">的</instance>
+			<instance id="d003.s001.t014" lemma="会议" pos="NOUN">会议</instance>
+			<instance id="d003.s001.t015" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d003.s002" source="semeval2015-en">
+			<instance id="d003.s002.t000" lemma="来自" pos="VERB">来自</instance>
+			<instance id="d003.s002.t001" lemma="各" pos="X">各</instance>
+			<instance id="d003.s002.t002" lemma="主要" pos="ADJ">主要</instance>
+			<instance id="d003.s002.t003" lemma="利益" pos="NOUN">利益</instance>
+			<instance id="d003.s002.t004" lemma="群体" pos="NOUN">群体</instance>
+			<instance id="d003.s002.t005" lemma="的" pos="X">的</instance>
+			<instance id="d003.s002.t006" lemma="100" pos="X">100</instance>
+			<instance id="d003.s002.t007" lemma="多" pos="X">多</instance>
+			<instance id="d003.s002.t008" lemma="名" pos="NOUN">名</instance>
+			<instance id="d003.s002.t009" lemma="参与者" pos="NOUN">参与者</instance>
+			<instance id="d003.s002.t010" lemma="出席" pos="VERB">出席</instance>
+			<instance id="d003.s002.t011" lemma="了" pos="X">了</instance>
+			<instance id="d003.s002.t012" lemma="会议" pos="NOUN">会议</instance>
+			<instance id="d003.s002.t013" lemma="，" pos="X">，</instance>
+			<instance id="d003.s002.t014" lemma="并" pos="ADV">并</instance>
+			<instance id="d003.s002.t015" lemma="就" pos="X">就</instance>
+			<instance id="d003.s002.t016" lemma="公共" pos="ADJ">公共</instance>
+			<instance id="d003.s002.t017" lemma="当局" pos="NOUN">当局</instance>
+			<instance id="d003.s002.t018" lemma="、" pos="X">、</instance>
+			<instance id="d003.s002.t019" lemma="社会" pos="ADJ">社会</instance>
+			<instance id="d003.s002.t020" lemma="伙伴" pos="NOUN">伙伴</instance>
+			<instance id="d003.s002.t021" lemma="、" pos="X">、</instance>
+			<instance id="d003.s002.t022" lemma="志愿者" pos="ADJ">志愿者</instance>
+			<instance id="d003.s002.t023" lemma="和" pos="X">和</instance>
+			<instance id="d003.s002.t024" lemma="社区" pos="NOUN">社区</instance>
+			<instance id="d003.s002.t025" lemma="组织" pos="NOUN">组织</instance>
+			<instance id="d003.s002.t026" lemma="以及" pos="X">以及</instance>
+			<instance id="d003.s002.t027" lemma="服务" pos="NOUN">服务</instance>
+			<instance id="d003.s002.t028" lemma="用户" pos="NOUN">用户</instance>
+			<instance id="d003.s002.t029" lemma="等" pos="ADV">等</instance>
+			<instance id="d003.s002.t030" lemma="主要" pos="ADJ">主要</instance>
+			<instance id="d003.s002.t031" lemma="参与者" pos="NOUN">参与者</instance>
+			<instance id="d003.s002.t032" lemma="的" pos="X">的</instance>
+			<instance id="d003.s002.t033" lemma="作用" pos="NOUN">作用</instance>
+			<instance id="d003.s002.t034" lemma="等" pos="ADV">等</instance>
+			<instance id="d003.s002.t035" lemma="问题" pos="NOUN">问题</instance>
+			<instance id="d003.s002.t036" lemma="进行" pos="VERB">进行</instance>
+			<instance id="d003.s002.t037" lemma="了" pos="X">了</instance>
+			<instance id="d003.s002.t038" lemma="辩论" pos="NOUN">辩论</instance>
+			<instance id="d003.s002.t039" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d003.s003" source="semeval2015-en">
+			<instance id="d003.s003.t000" lemma="报告" pos="NOUN">报告</instance>
+			<instance id="d003.s003.t001" lemma="显示" pos="VERB">显示</instance>
+			<instance id="d003.s003.t002" lemma="，" pos="X">，</instance>
+			<instance id="d003.s003.t003" lemma="尝试" pos="VERB">尝试</instance>
+			<instance id="d003.s003.t004" lemma="让" pos="VERB">让</instance>
+			<instance id="d003.s003.t005" lemma="用户" pos="NOUN">用户</instance>
+			<instance id="d003.s003.t006" lemma="参与" pos="VERB">参与</instance>
+			<instance id="d003.s003.t007" lemma="服务" pos="NOUN">服务</instance>
+			<instance id="d003.s003.t008" lemma="规划" pos="NOUN">规划</instance>
+			<instance id="d003.s003.t009" lemma="的" pos="X">的</instance>
+			<instance id="d003.s003.t010" lemma="案例" pos="NOUN">案例</instance>
+			<instance id="d003.s003.t011" lemma="相对" pos="ADV">相对</instance>
+			<instance id="d003.s003.t012" lemma="较" pos="ADV">较</instance>
+			<instance id="d003.s003.t013" lemma="少" pos="ADJ">少</instance>
+			<instance id="d003.s003.t014" lemma="，" pos="X">，</instance>
+			<instance id="d003.s003.t015" lemma="但是" pos="ADV">但是</instance>
+			<instance id="d003.s003.t016" lemma="用户" pos="NOUN">用户</instance>
+			<instance id="d003.s003.t017" lemma="参与" pos="VERB">参与</instance>
+			<instance id="d003.s003.t018" lemma="服务" pos="NOUN">服务</instance>
+			<instance id="d003.s003.t019" lemma="提供" pos="NOUN">提供</instance>
+			<instance id="d003.s003.t020" lemma="的" pos="X">的</instance>
+			<instance id="d003.s003.t021" lemma="情况" pos="NOUN">情况</instance>
+			<instance id="d003.s003.t022" lemma="却" pos="ADV">却</instance>
+			<instance id="d003.s003.t023" lemma="更为" pos="ADV">更为</instance>
+			<instance id="d003.s003.t024" lemma="常见" pos="ADJ">常见</instance>
+			<instance id="d003.s003.t025" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d003.s004" source="semeval2015-en">
+			<instance id="d003.s004.t000" lemma="还" pos="ADV">还</instance>
+			<instance id="d003.s004.t001" lemma="注意" pos="VERB">注意</instance>
+			<instance id="d003.s004.t002" lemma="到" pos="X">到</instance>
+			<instance id="d003.s004.t003" lemma="公共" pos="ADJ">公共</instance>
+			<instance id="d003.s004.t004" lemma="福利" pos="NOUN">福利</instance>
+			<instance id="d003.s004.t005" lemma="发挥" pos="VERB">发挥</instance>
+			<instance id="d003.s004.t006" lemma="着" pos="X">着</instance>
+			<instance id="d003.s004.t007" lemma="各种" pos="ADJ">各种</instance>
+			<instance id="d003.s004.t008" lemma="不同" pos="ADJ">不同</instance>
+			<instance id="d003.s004.t009" lemma="的" pos="X">的</instance>
+			<instance id="d003.s004.t010" lemma="作用" pos="NOUN">作用</instance>
+		</sentence>
+		<sentence id="d003.s005" source="semeval2015-en">
+			<instance id="d003.s005.t000" lemma="该" pos="X">该</instance>
+			<instance id="d003.s005.t001" lemma="基金会" pos="NOUN">基金会</instance>
+			<instance id="d003.s005.t002" lemma="与" pos="X">与</instance>
+			<instance id="d003.s005.t003" lemma="欧盟" pos="NOUN">欧盟</instance>
+			<instance id="d003.s005.t004" lemma="委员会" pos="NOUN">委员会</instance>
+			<instance id="d003.s005.t005" lemma="、" pos="X">、</instance>
+			<instance id="d003.s005.t006" lemma="西班牙" pos="ADJ">西班牙</instance>
+			<instance id="d003.s005.t007" lemma="社会" pos="ADJ">社会</instance>
+			<instance id="d003.s005.t008" lemma="事务部" pos="NOUN">事务部</instance>
+			<instance id="d003.s005.t009" lemma="和" pos="X">和</instance>
+			<instance id="d003.s005.t010" lemma="加利西亚" pos="NOUN">加利西亚</instance>
+			<instance id="d003.s005.t011" lemma="大区" pos="ADJ">大区</instance>
+			<instance id="d003.s005.t012" lemma="政府" pos="NOUN">政府</instance>
+			<instance id="d003.s005.t013" lemma="联合" pos="ADV">联合</instance>
+			<instance id="d003.s005.t014" lemma="举办" pos="VERB">举办</instance>
+			<instance id="d003.s005.t015" lemma="了" pos="X">了</instance>
+			<instance id="d003.s005.t016" lemma="一" pos="X">一</instance>
+			<instance id="d003.s005.t017" lemma="次" pos="NOUN">次</instance>
+			<instance id="d003.s005.t018" lemma="以" pos="X">以</instance>
+			<instance id="d003.s005.t019" lemma="“" pos="X">“</instance>
+			<instance id="d003.s005.t020" lemma="社会" pos="NOUN">社会</instance>
+			<instance id="d003.s005.t021" lemma="排斥" pos="NOUN">排斥</instance>
+			<instance id="d003.s005.t022" lemma="：" pos="X">：</instance>
+			<instance id="d003.s005.t023" lemma="公共" pos="ADJ">公共</instance>
+			<instance id="d003.s005.t024" lemma="福利" pos="NOUN">福利</instance>
+			<instance id="d003.s005.t025" lemma="服务" pos="NOUN">服务</instance>
+			<instance id="d003.s005.t026" lemma="面临" pos="VERB">面临</instance>
+			<instance id="d003.s005.t027" lemma="的" pos="X">的</instance>
+			<instance id="d003.s005.t028" lemma="重大" pos="ADJ">重大</instance>
+			<instance id="d003.s005.t029" lemma="挑战" pos="NOUN">挑战</instance>
+			<instance id="d003.s005.t030" lemma="”" pos="X">”</instance>
+			<instance id="d003.s005.t031" lemma="为" pos="VERB">为</instance>
+			<instance id="d003.s005.t032" lemma="主题" pos="NOUN">主题</instance>
+			<instance id="d003.s005.t033" lemma="的" pos="X">的</instance>
+			<instance id="d003.s005.t034" lemma="欧洲" pos="ADJ">欧洲</instance>
+			<instance id="d003.s005.t035" lemma="会议" pos="NOUN">会议</instance>
+			<instance id="d003.s005.t036" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d003.s006" source="semeval2015-en">
+			<instance id="d003.s006.t000" lemma="作为" pos="X">作为</instance>
+			<instance id="d003.s006.t001" lemma="EPOC" pos="NOUN">EPOC</instance>
+			<instance id="d003.s006.t002" lemma="项目" pos="NOUN">项目</instance>
+			<instance id="d003.s006.t003" lemma="的" pos="X">的</instance>
+			<instance id="d003.s006.t004" lemma="一部分" pos="NOUN">一部分</instance>
+			<instance id="d003.s006.t005" lemma="，" pos="X">，</instance>
+			<instance id="d003.s006.t006" lemma="该" pos="X">该</instance>
+			<instance id="d003.s006.t007" lemma="基金会" pos="NOUN">基金会</instance>
+			<instance id="d003.s006.t008" lemma="最近" pos="ADV">最近</instance>
+			<instance id="d003.s006.t009" lemma="发布" pos="VERB">发布</instance>
+			<instance id="d003.s006.t010" lemma="了" pos="X">了</instance>
+			<instance id="d003.s006.t011" lemma="一" pos="X">一</instance>
+			<instance id="d003.s006.t012" lemma="项" pos="NOUN">项</instance>
+			<instance id="d003.s006.t013" lemma="比较" pos="NOUN">比较</instance>
+			<instance id="d003.s006.t014" lemma="研究" pos="NOUN">研究</instance>
+			<instance id="d003.s006.t015" lemma="，" pos="X">，</instance>
+			<instance id="d003.s006.t016" lemma="该" pos="X">该</instance>
+			<instance id="d003.s006.t017" lemma="项目" pos="NOUN">项目</instance>
+			<instance id="d003.s006.t018" lemma="评估" pos="VERB">评估</instance>
+			<instance id="d003.s006.t019" lemma="了" pos="X">了</instance>
+			<instance id="d003.s006.t020" lemma="直接" pos="ADJ">直接</instance>
+			<instance id="d003.s006.t021" lemma="参与" pos="VERB">参与</instance>
+			<instance id="d003.s006.t022" lemma="在" pos="X">在</instance>
+			<instance id="d003.s006.t023" lemma="多" pos="ADV">多</instance>
+			<instance id="d003.s006.t024" lemma="大" pos="ADJ">大</instance>
+			<instance id="d003.s006.t025" lemma="程度" pos="NOUN">程度</instance>
+			<instance id="d003.s006.t026" lemma="上" pos="X">上</instance>
+			<instance id="d003.s006.t027" lemma="可以" pos="VERB">可以</instance>
+			<instance id="d003.s006.t028" lemma="使" pos="VERB">使</instance>
+			<instance id="d003.s006.t029" lemma="工作" pos="NOUN">工作</instance>
+			<instance id="d003.s006.t030" lemma="人性化" pos="VERB">人性化</instance>
+			<instance id="d003.s006.t031" lemma="同时" pos="ADV">同时</instance>
+			<instance id="d003.s006.t032" lemma="提高" pos="VERB">提高</instance>
+			<instance id="d003.s006.t033" lemma="盈利" pos="NOUN">盈利</instance>
+			<instance id="d003.s006.t034" lemma="能力" pos="NOUN">能力</instance>
+			<instance id="d003.s006.t035" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d003.s007" source="semeval2015-en">
+			<instance id="d003.s007.t000" lemma="该" pos="X">该</instance>
+			<instance id="d003.s007.t001" lemma="研究" pos="NOUN">研究</instance>
+			<instance id="d003.s007.t002" lemma="基于" pos="VERB">基于</instance>
+			<instance id="d003.s007.t003" lemma="对" pos="X">对</instance>
+			<instance id="d003.s007.t004" lemma="来自" pos="VERB">来自</instance>
+			<instance id="d003.s007.t005" lemma="欧洲" pos="ADJ">欧洲</instance>
+			<instance id="d003.s007.t006" lemma="15" pos="X">15</instance>
+			<instance id="d003.s007.t007" lemma="个" pos="NOUN">个</instance>
+			<instance id="d003.s007.t008" lemma="国家" pos="NOUN">国家</instance>
+			<instance id="d003.s007.t009" lemma="的" pos="X">的</instance>
+			<instance id="d003.s007.t010" lemma="国家级" pos="ADJ">国家级</instance>
+			<instance id="d003.s007.t011" lemma="高峰" pos="NOUN">高峰</instance>
+			<instance id="d003.s007.t012" lemma="组织" pos="NOUN">组织</instance>
+			<instance id="d003.s007.t013" lemma="的" pos="X">的</instance>
+			<instance id="d003.s007.t014" lemma="代表" pos="VERB">代表</instance>
+			<instance id="d003.s007.t015" lemma="社会" pos="ADJ">社会</instance>
+			<instance id="d003.s007.t016" lemma="伙伴" pos="NOUN">伙伴</instance>
+			<instance id="d003.s007.t017" lemma="高级" pos="ADJ">高级</instance>
+			<instance id="d003.s007.t018" lemma="官员" pos="NOUN">官员</instance>
+			<instance id="d003.s007.t019" lemma="进行" pos="VERB">进行</instance>
+			<instance id="d003.s007.t020" lemma="的" pos="X">的</instance>
+			<instance id="d003.s007.t021" lemma="195" pos="X">195</instance>
+			<instance id="d003.s007.t022" lemma="次" pos="NOUN">次</instance>
+			<instance id="d003.s007.t023" lemma="个人" pos="ADJ">个人</instance>
+			<instance id="d003.s007.t024" lemma="访谈" pos="NOUN">访谈</instance>
+			<instance id="d003.s007.t025" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d003.s008" source="semeval2015-en">
+			<instance id="d003.s008.t000" lemma="作为" pos="X">作为</instance>
+			<instance id="d003.s008.t001" lemma="重要" pos="ADJ">重要</instance>
+			<instance id="d003.s008.t002" lemma="的" pos="X">的</instance>
+			<instance id="d003.s008.t003" lemma="工业" pos="ADJ">工业</instance>
+			<instance id="d003.s008.t004" lemma="部门" pos="NOUN">部门</instance>
+			<instance id="d003.s008.t005" lemma="，" pos="X">，</instance>
+			<instance id="d003.s008.t006" lemma="金属" pos="NOUN">金属</instance>
+			<instance id="d003.s008.t007" lemma="工业" pos="NOUN">工业</instance>
+			<instance id="d003.s008.t008" lemma="和" pos="X">和</instance>
+			<instance id="d003.s008.t009" lemma="银行业" pos="NOUN">银行业</instance>
+			<instance id="d003.s008.t010" lemma="也" pos="ADV">也</instance>
+			<instance id="d003.s008.t011" lemma="被" pos="X">被</instance>
+			<instance id="d003.s008.t012" lemma="纳入" pos="VERB">纳入</instance>
+			<instance id="d003.s008.t013" lemma="其中" pos="X">其中</instance>
+			<instance id="d003.s008.t014" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d003.s009" source="semeval2015-en">
+			<instance id="d003.s009.t000" lemma="社会" pos="ADJ">社会</instance>
+			<instance id="d003.s009.t001" lemma="排斥" pos="NOUN">排斥</instance>
+			<instance id="d003.s009.t002" lemma="会议" pos="NOUN">会议</instance>
+			<instance id="d003.s009.t003" lemma="的" pos="X">的</instance>
+			<instance id="d003.s009.t004" lemma="主要" pos="ADJ">主要</instance>
+			<instance id="d003.s009.t005" lemma="发言人" pos="NOUN">发言人</instance>
+			<instance id="d003.s009.t006" lemma="有" pos="VERB">有</instance>
+			<instance id="d003.s009.t007" lemma="（" pos="X">（</instance>
+			<instance id="d003.s009.t008" lemma="从" pos="X">从</instance>
+			<instance id="d003.s009.t009" lemma="左" pos="NOUN">左</instance>
+			<instance id="d003.s009.t010" lemma="到" pos="VERB">到</instance>
+			<instance id="d003.s009.t011" lemma="右" pos="NOUN">右</instance>
+			<instance id="d003.s009.t012" lemma="）" pos="X">）</instance>
+			<instance id="d003.s009.t013" lemma="欧盟" pos="NOUN">欧盟</instance>
+			<instance id="d003.s009.t014" lemma="委员会" pos="NOUN">委员会</instance>
+			<instance id="d003.s009.t015" lemma="就业" pos="NOUN">就业</instance>
+			<instance id="d003.s009.t016" lemma="、" pos="X">、</instance>
+			<instance id="d003.s009.t017" lemma="劳资" pos="NOUN">劳资</instance>
+			<instance id="d003.s009.t018" lemma="关系" pos="NOUN">关系</instance>
+			<instance id="d003.s009.t019" lemma="和" pos="X">和</instance>
+			<instance id="d003.s009.t020" lemma="社会" pos="ADJ">社会</instance>
+			<instance id="d003.s009.t021" lemma="事务" pos="NOUN">事务</instance>
+			<instance id="d003.s009.t022" lemma="司" pos="NOUN">司</instance>
+			<instance id="d003.s009.t023" lemma="的" pos="X">的</instance>
+			<instance id="d003.s009.t024" lemma="克里斯蒂娜·洛罗" pos="NOUN">克里斯蒂娜·洛罗</instance>
+			<instance id="d003.s009.t025" lemma="(" pos="X">(</instance>
+			<instance id="d003.s009.t026" lemma="Cristina" pos="NOUN">Cristina</instance>
+			<instance id="d003.s009.t027" lemma="Louro" pos="NOUN">Louro</instance>
+			<instance id="d003.s009.t028" lemma=")" pos="X">)</instance>
+			<instance id="d003.s009.t029" lemma="、" pos="X">、</instance>
+			<instance id="d003.s009.t030" lemma="欧洲" pos="ADJ">欧洲</instance>
+			<instance id="d003.s009.t031" lemma="议会" pos="NOUN">议会</instance>
+			<instance id="d003.s009.t032" lemma="议员" pos="NOUN">议员</instance>
+			<instance id="d003.s009.t033" lemma="、" pos="X">、</instance>
+			<instance id="d003.s009.t034" lemma="地区" pos="NOUN">地区</instance>
+			<instance id="d003.s009.t035" lemma="高级" pos="ADJ">高级</instance>
+			<instance id="d003.s009.t036" lemma="委员会" pos="NOUN">委员会</instance>
+			<instance id="d003.s009.t037" lemma="委员" pos="NOUN">委员</instance>
+			<instance id="d003.s009.t038" lemma="费尔南多·戈麦斯" pos="NOUN">费尔南多·戈麦斯</instance>
+			<instance id="d003.s009.t039" lemma="(" pos="X">(</instance>
+			<instance id="d003.s009.t040" lemma="Fernando" pos="NOUN">Fernando</instance>
+			<instance id="d003.s009.t041" lemma="Gomes" pos="NOUN">Gomes</instance>
+			<instance id="d003.s009.t042" lemma=")" pos="X">)</instance>
+			<instance id="d003.s009.t043" lemma="、" pos="X">、</instance>
+			<instance id="d003.s009.t044" lemma="欧洲" pos="ADJ">欧洲</instance>
+			<instance id="d003.s009.t045" lemma="议会" pos="NOUN">议会</instance>
+			<instance id="d003.s009.t046" lemma="议员" pos="NOUN">议员</instance>
+			<instance id="d003.s009.t047" lemma="、" pos="X">、</instance>
+			<instance id="d003.s009.t048" lemma="欧洲" pos="ADJ">欧洲</instance>
+			<instance id="d003.s009.t049" lemma="议会" pos="NOUN">议会</instance>
+			<instance id="d003.s009.t050" lemma="副主席" pos="NOUN">副主席</instance>
+			<instance id="d003.s009.t051" lemma="何塞·玛丽亚·吉尔·罗夫莱斯" pos="NOUN">何塞·玛丽亚·吉尔·罗夫莱斯</instance>
+			<instance id="d003.s009.t052" lemma="(" pos="X">(</instance>
+			<instance id="d003.s009.t053" lemma="José" pos="NOUN">José</instance>
+			<instance id="d003.s009.t054" lemma="Maria" pos="NOUN">Maria</instance>
+			<instance id="d003.s009.t055" lemma="Gil" pos="NOUN">Gil</instance>
+			<instance id="d003.s009.t056" lemma="-" pos="X">-</instance>
+			<instance id="d003.s009.t057" lemma="Robles" pos="NOUN">Robles</instance>
+			<instance id="d003.s009.t058" lemma=")" pos="X">)</instance>
+			<instance id="d003.s009.t059" lemma="和" pos="X">和</instance>
+			<instance id="d003.s009.t060" lemma="经济" pos="ADJ">经济</instance>
+			<instance id="d003.s009.t061" lemma="和" pos="X">和</instance>
+			<instance id="d003.s009.t062" lemma="社会" pos="ADJ">社会</instance>
+			<instance id="d003.s009.t063" lemma="委员会" pos="NOUN">委员会</instance>
+			<instance id="d003.s009.t064" lemma="委员" pos="NOUN">委员</instance>
+			<instance id="d003.s009.t065" lemma="约翰·卡罗尔" pos="NOUN">约翰·卡罗尔</instance>
+			<instance id="d003.s009.t066" lemma="(" pos="X">(</instance>
+			<instance id="d003.s009.t067" lemma="John" pos="NOUN">John</instance>
+			<instance id="d003.s009.t068" lemma="Carroll" pos="NOUN">Carroll</instance>
+			<instance id="d003.s009.t069" lemma=")" pos="X">)</instance>
+			<instance id="d003.s009.t070" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d003.s010" source="semeval2015-en">
+			<instance id="d003.s010.t000" lemma="案例" pos="NOUN">案例</instance>
+			<instance id="d003.s010.t001" lemma="研究" pos="NOUN">研究</instance>
+			<instance id="d003.s010.t002" lemma="每" pos="X">每</instance>
+			<instance id="d003.s010.t003" lemma="一" pos="X">一</instance>
+			<instance id="d003.s010.t004" lemma="份" pos="NOUN">份</instance>
+			<instance id="d003.s010.t005" lemma="国家" pos="ADJ">国家</instance>
+			<instance id="d003.s010.t006" lemma="报告" pos="NOUN">报告</instance>
+			<instance id="d003.s010.t007" lemma="都" pos="ADV">都</instance>
+			<instance id="d003.s010.t008" lemma="包含" pos="VERB">包含</instance>
+			<instance id="d003.s010.t009" lemma="25" pos="X">25</instance>
+			<instance id="d003.s010.t010" lemma="至" pos="X">至</instance>
+			<instance id="d003.s010.t011" lemma="30" pos="X">30</instance>
+			<instance id="d003.s010.t012" lemma="项" pos="NOUN">项</instance>
+			<instance id="d003.s010.t013" lemma="举措" pos="NOUN">举措</instance>
+			<instance id="d003.s010.t014" lemma="，" pos="X">，</instance>
+			<instance id="d003.s010.t015" lemma="这些" pos="X">这些</instance>
+			<instance id="d003.s010.t016" lemma="举措" pos="NOUN">举措</instance>
+			<instance id="d003.s010.t017" lemma="最" pos="ADV">最</instance>
+			<instance id="d003.s010.t018" lemma="好" pos="ADJ">好</instance>
+			<instance id="d003.s010.t019" lemma="地" pos="X">地</instance>
+			<instance id="d003.s010.t020" lemma="介绍" pos="VERB">介绍</instance>
+			<instance id="d003.s010.t021" lemma="了" pos="X">了</instance>
+			<instance id="d003.s010.t022" lemma="改善" pos="VERB">改善</instance>
+			<instance id="d003.s010.t023" lemma="工作" pos="NOUN">工作</instance>
+			<instance id="d003.s010.t024" lemma="地点" pos="NOUN">地点</instance>
+			<instance id="d003.s010.t025" lemma="和" pos="X">和</instance>
+			<instance id="d003.s010.t026" lemma="社区" pos="NOUN">社区</instance>
+			<instance id="d003.s010.t027" lemma="中" pos="X">中</instance>
+			<instance id="d003.s010.t028" lemma="老龄" pos="ADJ">老龄</instance>
+			<instance id="d003.s010.t029" lemma="工人" pos="NOUN">工人</instance>
+			<instance id="d003.s010.t030" lemma="的" pos="X">的</instance>
+			<instance id="d003.s010.t031" lemma="招聘" pos="NOUN">招聘</instance>
+			<instance id="d003.s010.t032" lemma="、" pos="X">、</instance>
+			<instance id="d003.s010.t033" lemma="培训" pos="NOUN">培训</instance>
+			<instance id="d003.s010.t034" lemma="和" pos="X">和</instance>
+			<instance id="d003.s010.t035" lemma="发展" pos="NOUN">发展</instance>
+			<instance id="d003.s010.t036" lemma="的" pos="X">的</instance>
+			<instance id="d003.s010.t037" lemma="政策" pos="NOUN">政策</instance>
+			<instance id="d003.s010.t038" lemma="和" pos="X">和</instance>
+			<instance id="d003.s010.t039" lemma="实践" pos="NOUN">实践</instance>
+			<instance id="d003.s010.t040" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d003.s011" source="semeval2015-en">
+			<instance id="d003.s011.t000" lemma="对于" pos="X">对于</instance>
+			<instance id="d003.s011.t001" lemma="每个" pos="X">每个</instance>
+			<instance id="d003.s011.t002" lemma="国家" pos="NOUN">国家</instance>
+			<instance id="d003.s011.t003" lemma="，" pos="X">，</instance>
+			<instance id="d003.s011.t004" lemma="我们" pos="X">我们</instance>
+			<instance id="d003.s011.t005" lemma="选取" pos="VERB">选取</instance>
+			<instance id="d003.s011.t006" lemma="了" pos="X">了</instance>
+			<instance id="d003.s011.t007" lemma="两" pos="X">两</instance>
+			<instance id="d003.s011.t008" lemma="到" pos="X">到</instance>
+			<instance id="d003.s011.t009" lemma="三" pos="X">三</instance>
+			<instance id="d003.s011.t010" lemma="个" pos="NOUN">个</instance>
+			<instance id="d003.s011.t011" lemma="举措" pos="NOUN">举措</instance>
+			<instance id="d003.s011.t012" lemma="进行" pos="VERB">进行</instance>
+			<instance id="d003.s011.t013" lemma="进一步" pos="ADJ">进一步</instance>
+			<instance id="d003.s011.t014" lemma="深入的" pos="ADJ">深入的</instance>
+			<instance id="d003.s011.t015" lemma="案例" pos="NOUN">案例</instance>
+			<instance id="d003.s011.t016" lemma="研究" pos="NOUN">研究</instance>
+			<instance id="d003.s011.t017" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d003.s012" source="semeval2015-en">
+			<instance id="d003.s012.t000" lemma="这些" pos="X">这些</instance>
+			<instance id="d003.s012.t001" lemma="案例" pos="NOUN">案例</instance>
+			<instance id="d003.s012.t002" lemma="研究" pos="NOUN">研究</instance>
+			<instance id="d003.s012.t003" lemma="分析" pos="VERB">分析</instance>
+			<instance id="d003.s012.t004" lemma="了" pos="X">了</instance>
+			<instance id="d003.s012.t005" lemma="这些" pos="X">这些</instance>
+			<instance id="d003.s012.t006" lemma="举措" pos="NOUN">举措</instance>
+			<instance id="d003.s012.t007" lemma="的" pos="X">的</instance>
+			<instance id="d003.s012.t008" lemma="背景" pos="NOUN">背景</instance>
+			<instance id="d003.s012.t009" lemma="、" pos="X">、</instance>
+			<instance id="d003.s012.t010" lemma="它们" pos="X">它们</instance>
+			<instance id="d003.s012.t011" lemma="对" pos="X">对</instance>
+			<instance id="d003.s012.t012" lemma="就业" pos="NOUN">就业</instance>
+			<instance id="d003.s012.t013" lemma="模式" pos="NOUN">模式</instance>
+			<instance id="d003.s012.t014" lemma="和" pos="X">和</instance>
+			<instance id="d003.s012.t015" lemma="工作" pos="NOUN">工作</instance>
+			<instance id="d003.s012.t016" lemma="组织" pos="NOUN">组织</instance>
+			<instance id="d003.s012.t017" lemma="的" pos="X">的</instance>
+			<instance id="d003.s012.t018" lemma="影响" pos="NOUN">影响</instance>
+			<instance id="d003.s012.t019" lemma="，" pos="X">，</instance>
+			<instance id="d003.s012.t020" lemma="并" pos="ADV">并</instance>
+			<instance id="d003.s012.t021" lemma="评估" pos="VERB">评估</instance>
+			<instance id="d003.s012.t022" lemma="了" pos="X">了</instance>
+			<instance id="d003.s012.t023" lemma="这些" pos="X">这些</instance>
+			<instance id="d003.s012.t024" lemma="举措" pos="NOUN">举措</instance>
+			<instance id="d003.s012.t025" lemma="的" pos="X">的</instance>
+			<instance id="d003.s012.t026" lemma="好处" pos="NOUN">好处</instance>
+			<instance id="d003.s012.t027" lemma="和" pos="X">和</instance>
+			<instance id="d003.s012.t028" lemma="问题" pos="NOUN">问题</instance>
+			<instance id="d003.s012.t029" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d003.s013" source="semeval2015-en">
+			<instance id="d003.s013.t000" lemma="我们" pos="X">我们</instance>
+			<instance id="d003.s013.t001" lemma="还" pos="ADV">还</instance>
+			<instance id="d003.s013.t002" lemma="对" pos="X">对</instance>
+			<instance id="d003.s013.t003" lemma="主要" pos="ADJ">主要</instance>
+			<instance id="d003.s013.t004" lemma="人员" pos="NOUN">人员</instance>
+			<instance id="d003.s013.t005" lemma="进行" pos="VERB">进行</instance>
+			<instance id="d003.s013.t006" lemma="了" pos="X">了</instance>
+			<instance id="d003.s013.t007" lemma="走访" pos="NOUN">走访</instance>
+			<instance id="d003.s013.t008" lemma="和" pos="X">和</instance>
+			<instance id="d003.s013.t009" lemma="访谈" pos="NOUN">访谈</instance>
+			<instance id="d003.s013.t010" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d003.s014" source="semeval2015-en">
+			<instance id="d003.s014.t000" lemma="这些" pos="X">这些</instance>
+			<instance id="d003.s014.t001" lemma="国家" pos="ADJ">国家</instance>
+			<instance id="d003.s014.t002" lemma="研究" pos="NOUN">研究</instance>
+			<instance id="d003.s014.t003" lemma="将" pos="X">将</instance>
+			<instance id="d003.s014.t004" lemma="形成" pos="VERB">形成</instance>
+			<instance id="d003.s014.t005" lemma="一" pos="X">一</instance>
+			<instance id="d003.s014.t006" lemma="份" pos="NOUN">份</instance>
+			<instance id="d003.s014.t007" lemma="综合" pos="VERB">综合</instance>
+			<instance id="d003.s014.t008" lemma="整体" pos="ADJ">整体</instance>
+			<instance id="d003.s014.t009" lemma="实践" pos="NOUN">实践</instance>
+			<instance id="d003.s014.t010" lemma="的" pos="X">的</instance>
+			<instance id="d003.s014.t011" lemma="欧洲" pos="ADJ">欧洲</instance>
+			<instance id="d003.s014.t012" lemma="报告" pos="NOUN">报告</instance>
+			<instance id="d003.s014.t013" lemma="的" pos="X">的</instance>
+			<instance id="d003.s014.t014" lemma="基础" pos="NOUN">基础</instance>
+			<instance id="d003.s014.t015" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d003.s015" source="semeval2015-en">
+			<instance id="d003.s015.t000" lemma="该" pos="X">该</instance>
+			<instance id="d003.s015.t001" lemma="报告" pos="NOUN">报告</instance>
+			<instance id="d003.s015.t002" lemma="及" pos="X">及</instance>
+			<instance id="d003.s015.t003" lemma="一系列" pos="X">一系列</instance>
+			<instance id="d003.s015.t004" lemma="举措" pos="NOUN">举措</instance>
+			<instance id="d003.s015.t005" lemma="案例" pos="NOUN">案例</instance>
+			<instance id="d003.s015.t006" lemma="将" pos="X">将</instance>
+			<instance id="d003.s015.t007" lemma="于" pos="X">于</instance>
+			<instance id="d003.s015.t008" lemma="1996" pos="X">1996</instance>
+			<instance id="d003.s015.t009" lemma="年" pos="NOUN">年</instance>
+			<instance id="d003.s015.t010" lemma="出版" pos="VERB">出版</instance>
+			<instance id="d003.s015.t011" lemma="，" pos="X">，</instance>
+			<instance id="d003.s015.t012" lemma="并" pos="ADV">并</instance>
+			<instance id="d003.s015.t013" lemma="为" pos="X">为</instance>
+			<instance id="d003.s015.t014" lemma="1996" pos="X">1996</instance>
+			<instance id="d003.s015.t015" lemma="年" pos="NOUN">年</instance>
+			<instance id="d003.s015.t016" lemma="秋季" pos="NOUN">秋季</instance>
+			<instance id="d003.s015.t017" lemma="举行" pos="VERB">举行</instance>
+			<instance id="d003.s015.t018" lemma="的" pos="X">的</instance>
+			<instance id="d003.s015.t019" lemma="会议" pos="NOUN">会议</instance>
+			<instance id="d003.s015.t020" lemma="提供" pos="VERB">提供</instance>
+			<instance id="d003.s015.t021" lemma="背景" pos="NOUN">背景</instance>
+			<instance id="d003.s015.t022" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d003.s016" source="semeval2015-en">
+			<instance id="d003.s016.t000" lemma="该" pos="X">该</instance>
+			<instance id="d003.s016.t001" lemma="基金会" pos="NOUN">基金会</instance>
+			<instance id="d003.s016.t002" lemma="的" pos="X">的</instance>
+			<instance id="d003.s016.t003" lemma="目标" pos="NOUN">目标</instance>
+			<instance id="d003.s016.t004" lemma="是" pos="VERB">是</instance>
+			<instance id="d003.s016.t005" lemma="记录" pos="VERB">记录</instance>
+			<instance id="d003.s016.t006" lemma="求职" pos="NOUN">求职</instance>
+			<instance id="d003.s016.t007" lemma="招聘" pos="NOUN">招聘</instance>
+			<instance id="d003.s016.t008" lemma="和" pos="X">和</instance>
+			<instance id="d003.s016.t009" lemma="培训" pos="NOUN">培训</instance>
+			<instance id="d003.s016.t010" lemma="中" pos="X">中</instance>
+			<instance id="d003.s016.t011" lemma="年龄" pos="NOUN">年龄</instance>
+			<instance id="d003.s016.t012" lemma="障碍" pos="NOUN">障碍</instance>
+			<instance id="d003.s016.t013" lemma="的" pos="X">的</instance>
+			<instance id="d003.s016.t014" lemma="特点" pos="NOUN">特点</instance>
+			<instance id="d003.s016.t015" lemma="并" pos="ADV">并</instance>
+			<instance id="d003.s016.t016" lemma="分析" pos="VERB">分析</instance>
+			<instance id="d003.s016.t017" lemma="其" pos="X">其</instance>
+			<instance id="d003.s016.t018" lemma="原因" pos="NOUN">原因</instance>
+			<instance id="d003.s016.t019" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d003.s017" source="semeval2015-en">
+			<instance id="d003.s017.t000" lemma="社会" pos="ADJ">社会</instance>
+			<instance id="d003.s017.t001" lemma="伙伴" pos="NOUN">伙伴</instance>
+			<instance id="d003.s017.t002" lemma="的" pos="X">的</instance>
+			<instance id="d003.s017.t003" lemma="观点" pos="NOUN">观点</instance>
+			<instance id="d003.s017.t004" lemma="也" pos="ADV">也</instance>
+			<instance id="d003.s017.t005" lemma="正在" pos="ADV">正在</instance>
+			<instance id="d003.s017.t006" lemma="接受" pos="VERB">接受</instance>
+			<instance id="d003.s017.t007" lemma="审查" pos="NOUN">审查</instance>
+			<instance id="d003.s017.t008" lemma="," pos="X">,</instance>
+			<instance id="d003.s017.t009" lemma="其中" pos="X">其中</instance>
+			<instance id="d003.s017.t010" lemma="特别" pos="ADV">特别</instance>
+			<instance id="d003.s017.t011" lemma="关注" pos="VERB">关注</instance>
+			<instance id="d003.s017.t012" lemma="消除" pos="VERB">消除</instance>
+			<instance id="d003.s017.t013" lemma="年龄" pos="NOUN">年龄</instance>
+			<instance id="d003.s017.t014" lemma="障碍" pos="NOUN">障碍</instance>
+			<instance id="d003.s017.t015" lemma="的" pos="X">的</instance>
+			<instance id="d003.s017.t016" lemma="建议" pos="NOUN">建议</instance>
+			<instance id="d003.s017.t017" lemma="." pos="X">.</instance>
+		</sentence>
+		<sentence id="d003.s018" source="semeval2015-en">
+			<instance id="d003.s018.t000" lemma="第" pos="X">第</instance>
+			<instance id="d003.s018.t001" lemma="三" pos="X">三</instance>
+			<instance id="d003.s018.t002" lemma="，" pos="X">，</instance>
+			<instance id="d003.s018.t003" lemma="该" pos="X">该</instance>
+			<instance id="d003.s018.t004" lemma="项目" pos="NOUN">项目</instance>
+			<instance id="d003.s018.t005" lemma="记录" pos="VERB">记录</instance>
+			<instance id="d003.s018.t006" lemma="并" pos="ADV">并</instance>
+			<instance id="d003.s018.t007" lemma="评估" pos="VERB">评估</instance>
+			<instance id="d003.s018.t008" lemma="了" pos="X">了</instance>
+			<instance id="d003.s018.t009" lemma="公共" pos="ADJ">公共</instance>
+			<instance id="d003.s018.t010" lemma="和" pos="X">和</instance>
+			<instance id="d003.s018.t011" lemma="私营" pos="ADJ">私营</instance>
+			<instance id="d003.s018.t012" lemma="部门" pos="NOUN">部门</instance>
+			<instance id="d003.s018.t013" lemma="消除" pos="VERB">消除</instance>
+			<instance id="d003.s018.t014" lemma="年龄" pos="NOUN">年龄</instance>
+			<instance id="d003.s018.t015" lemma="障碍" pos="NOUN">障碍</instance>
+			<instance id="d003.s018.t016" lemma="（" pos="X">（</instance>
+			<instance id="d003.s018.t017" lemma="特别" pos="ADV">特别</instance>
+			<instance id="d003.s018.t018" lemma="是" pos="VERB">是</instance>
+			<instance id="d003.s018.t019" lemma="针对" pos="VERB">针对</instance>
+			<instance id="d003.s018.t020" lemma="老年" pos="ADJ">老年</instance>
+			<instance id="d003.s018.t021" lemma="工人" pos="NOUN">工人</instance>
+			<instance id="d003.s018.t022" lemma="）" pos="X">）</instance>
+			<instance id="d003.s018.t023" lemma="的" pos="X">的</instance>
+			<instance id="d003.s018.t024" lemma="举措" pos="NOUN">举措</instance>
+			<instance id="d003.s018.t025" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d003.s019" source="semeval2015-en">
+			<instance id="d003.s019.t000" lemma="为了" pos="X">为了</instance>
+			<instance id="d003.s019.t001" lemma="寻求" pos="VERB">寻求</instance>
+			<instance id="d003.s019.t002" lemma="提前" pos="ADJ">提前</instance>
+			<instance id="d003.s019.t003" lemma="退休" pos="NOUN">退休</instance>
+			<instance id="d003.s019.t004" lemma="和" pos="X">和</instance>
+			<instance id="d003.s019.t005" lemma="裁员" pos="NOUN">裁员</instance>
+			<instance id="d003.s019.t006" lemma="的" pos="X">的</instance>
+			<instance id="d003.s019.t007" lemma="替代" pos="NOUN">替代</instance>
+			<instance id="d003.s019.t008" lemma="方案" pos="NOUN">方案</instance>
+			<instance id="d003.s019.t009" lemma="，" pos="X">，</instance>
+			<instance id="d003.s019.t010" lemma="该" pos="X">该</instance>
+			<instance id="d003.s019.t011" lemma="项目" pos="NOUN">项目</instance>
+			<instance id="d003.s019.t012" lemma="主要" pos="ADV">主要</instance>
+			<instance id="d003.s019.t013" lemma="关注" pos="VERB">关注</instance>
+			<instance id="d003.s019.t014" lemma="老年" pos="ADJ">老年</instance>
+			<instance id="d003.s019.t015" lemma="工人" pos="NOUN">工人</instance>
+			<instance id="d003.s019.t016" lemma="的" pos="X">的</instance>
+			<instance id="d003.s019.t017" lemma="保留" pos="NOUN">保留</instance>
+			<instance id="d003.s019.t018" lemma="、" pos="X">、</instance>
+			<instance id="d003.s019.t019" lemma="重返社会" pos="NOUN">重返社会</instance>
+			<instance id="d003.s019.t020" lemma="和" pos="X">和</instance>
+			<instance id="d003.s019.t021" lemma="再培训" pos="NOUN">再培训</instance>
+			<instance id="d003.s019.t022" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d003.s020" source="semeval2015-en">
+			<instance id="d003.s020.t000" lemma="研究" pos="VERB">研究</instance>
+			<instance id="d003.s020.t001" lemma="了" pos="X">了</instance>
+			<instance id="d003.s020.t002" lemma="工人" pos="NOUN">工人</instance>
+			<instance id="d003.s020.t003" lemma="的" pos="X">的</instance>
+			<instance id="d003.s020.t004" lemma="性别" pos="NOUN">性别</instance>
+			<instance id="d003.s020.t005" lemma="和" pos="X">和</instance>
+			<instance id="d003.s020.t006" lemma="种族" pos="NOUN">种族</instance>
+			<instance id="d003.s020.t007" lemma="背景" pos="NOUN">背景</instance>
+			<instance id="d003.s020.t008" lemma="以及" pos="X">以及</instance>
+			<instance id="d003.s020.t009" lemma="这些" pos="X">这些</instance>
+			<instance id="d003.s020.t010" lemma="与" pos="X">与</instance>
+			<instance id="d003.s020.t011" lemma="年龄" pos="NOUN">年龄</instance>
+			<instance id="d003.s020.t012" lemma="歧视" pos="NOUN">歧视</instance>
+			<instance id="d003.s020.t013" lemma="的" pos="X">的</instance>
+			<instance id="d003.s020.t014" lemma="关系" pos="NOUN">关系</instance>
+			<instance id="d003.s020.t015" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d003.s021" source="semeval2015-en">
+			<instance id="d003.s021.t000" lemma="该" pos="X">该</instance>
+			<instance id="d003.s021.t001" lemma="项目" pos="NOUN">项目</instance>
+			<instance id="d003.s021.t002" lemma="还" pos="ADV">还</instance>
+			<instance id="d003.s021.t003" lemma="考虑" pos="VERB">考虑</instance>
+			<instance id="d003.s021.t004" lemma="采取" pos="VERB">采取</instance>
+			<instance id="d003.s021.t005" lemma="举措" pos="NOUN">举措</instance>
+			<instance id="d003.s021.t006" lemma="，" pos="X">，</instance>
+			<instance id="d003.s021.t007" lemma="打击" pos="VERB">打击</instance>
+			<instance id="d003.s021.t008" lemma="农村" pos="ADJ">农村</instance>
+			<instance id="d003.s021.t009" lemma="地区" pos="NOUN">地区</instance>
+			<instance id="d003.s021.t010" lemma="和" pos="X">和</instance>
+			<instance id="d003.s021.t011" lemma="中小" pos="ADJ">中小</instance>
+			<instance id="d003.s021.t012" lemma="企业" pos="NOUN">企业</instance>
+			<instance id="d003.s021.t013" lemma="中" pos="X">中</instance>
+			<instance id="d003.s021.t014" lemma="的" pos="X">的</instance>
+			<instance id="d003.s021.t015" lemma="年龄" pos="NOUN">年龄</instance>
+			<instance id="d003.s021.t016" lemma="歧视" pos="NOUN">歧视</instance>
+			<instance id="d003.s021.t017" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d003.s022" source="semeval2015-en">
+			<instance id="d003.s022.t000" lemma="此" pos="X">此</instance>
+			<instance id="d003.s022.t001" lemma="项目" pos="NOUN">项目</instance>
+			<instance id="d003.s022.t002" lemma="覆盖" pos="VERB">覆盖</instance>
+			<instance id="d003.s022.t003" lemma="七" pos="X">七</instance>
+			<instance id="d003.s022.t004" lemma="个" pos="NOUN">个</instance>
+			<instance id="d003.s022.t005" lemma="成员国" pos="NOUN">成员国</instance>
+			<instance id="d003.s022.t006" lemma="：" pos="X">：</instance>
+			<instance id="d003.s022.t007" lemma="比利时" pos="NOUN">比利时</instance>
+			<instance id="d003.s022.t008" lemma="、" pos="X">、</instance>
+			<instance id="d003.s022.t009" lemma="法国" pos="NOUN">法国</instance>
+			<instance id="d003.s022.t010" lemma="、" pos="X">、</instance>
+			<instance id="d003.s022.t011" lemma="德国" pos="NOUN">德国</instance>
+			<instance id="d003.s022.t012" lemma="、" pos="X">、</instance>
+			<instance id="d003.s022.t013" lemma="希腊" pos="NOUN">希腊</instance>
+			<instance id="d003.s022.t014" lemma="、" pos="X">、</instance>
+			<instance id="d003.s022.t015" lemma="意大利" pos="NOUN">意大利</instance>
+			<instance id="d003.s022.t016" lemma="、" pos="X">、</instance>
+			<instance id="d003.s022.t017" lemma="荷兰" pos="NOUN">荷兰</instance>
+			<instance id="d003.s022.t018" lemma="和" pos="X">和</instance>
+			<instance id="d003.s022.t019" lemma="英国" pos="NOUN">英国</instance>
+			<instance id="d003.s022.t020" lemma="。" pos="X">。</instance>
+		</sentence>
+	</text>
+	<text id="d004">
+		<sentence id="d004.s000" source="semeval2015-en">
+			<instance id="d004.s000.t000" lemma="本" pos="X">本</instance>
+			<instance id="d004.s000.t001" lemma="文件" pos="NOUN">文件</instance>
+			<instance id="d004.s000.t002" lemma="是" pos="VERB">是</instance>
+			<instance id="d004.s000.t003" lemma="欧洲" pos="ADJ">欧洲</instance>
+			<instance id="d004.s000.t004" lemma="公共" pos="ADJ">公共</instance>
+			<instance id="d004.s000.t005" lemma="评估" pos="NOUN">评估</instance>
+			<instance id="d004.s000.t006" lemma="报告" pos="NOUN">报告</instance>
+			<instance id="d004.s000.t007" lemma="的" pos="X">的</instance>
+			<instance id="d004.s000.t008" lemma="摘要" pos="NOUN">摘要</instance>
+			<instance id="d004.s000.t009" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d004.s001" source="semeval2015-en">
+			<instance id="d004.s001.t000" lemma="它" pos="X">它</instance>
+			<instance id="d004.s001.t001" lemma="解释" pos="VERB">解释</instance>
+			<instance id="d004.s001.t002" lemma="了" pos="X">了</instance>
+			<instance id="d004.s001.t003" lemma="兽" pos="ADJ">兽</instance>
+			<instance id="d004.s001.t004" lemma="药" pos="ADJ">药</instance>
+			<instance id="d004.s001.t005" lemma="委员会" pos="NOUN">委员会</instance>
+			<instance id="d004.s001.t006" lemma="(" pos="X">(</instance>
+			<instance id="d004.s001.t007" lemma="CVMP" pos="NOUN">CVMP</instance>
+			<instance id="d004.s001.t008" lemma=")" pos="X">)</instance>
+			<instance id="d004.s001.t009" lemma="如何" pos="ADV">如何</instance>
+			<instance id="d004.s001.t010" lemma="评估" pos="VERB">评估</instance>
+			<instance id="d004.s001.t011" lemma="所" pos="X">所</instance>
+			<instance id="d004.s001.t012" lemma="进行" pos="VERB">进行</instance>
+			<instance id="d004.s001.t013" lemma="的" pos="X">的</instance>
+			<instance id="d004.s001.t014" lemma="研究" pos="NOUN">研究</instance>
+			<instance id="d004.s001.t015" lemma="，" pos="X">，</instance>
+			<instance id="d004.s001.t016" lemma="以" pos="X">以</instance>
+			<instance id="d004.s001.t017" lemma="得出" pos="VERB">得出</instance>
+			<instance id="d004.s001.t018" lemma="关于" pos="X">关于</instance>
+			<instance id="d004.s001.t019" lemma="如何" pos="ADV">如何</instance>
+			<instance id="d004.s001.t020" lemma="使用" pos="VERB">使用</instance>
+			<instance id="d004.s001.t021" lemma="该" pos="X">该</instance>
+			<instance id="d004.s001.t022" lemma="药物" pos="NOUN">药物</instance>
+			<instance id="d004.s001.t023" lemma="的" pos="X">的</instance>
+			<instance id="d004.s001.t024" lemma="建议" pos="NOUN">建议</instance>
+			<instance id="d004.s001.t025" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d004.s002" source="semeval2015-en">
+			<instance id="d004.s002.t000" lemma="Cerenia" pos="NOUN">Cerenia</instance>
+			<instance id="d004.s002.t001" lemma="是" pos="VERB">是</instance>
+			<instance id="d004.s002.t002" lemma="什么" pos="X">什么</instance>
+			<instance id="d004.s002.t003" lemma="？" pos="X">？</instance>
+		</sentence>
+		<sentence id="d004.s003" source="semeval2015-en">
+			<instance id="d004.s003.t000" lemma="Cerenia" pos="NOUN">Cerenia</instance>
+			<instance id="d004.s003.t001" lemma="含有" pos="VERB">含有</instance>
+			<instance id="d004.s003.t002" lemma="活性" pos="ADJ">活性</instance>
+			<instance id="d004.s003.t003" lemma="物质" pos="NOUN">物质</instance>
+			<instance id="d004.s003.t004" lemma="马罗匹坦" pos="NOUN">马罗匹坦</instance>
+			<instance id="d004.s003.t005" lemma="，" pos="X">，</instance>
+			<instance id="d004.s003.t006" lemma="有片剂" pos="NOUN">有片剂</instance>
+			<instance id="d004.s003.t007" lemma="和" pos="X">和</instance>
+			<instance id="d004.s003.t008" lemma="注射液" pos="NOUN">注射液</instance>
+			<instance id="d004.s003.t009" lemma="两" pos="X">两</instance>
+			<instance id="d004.s003.t010" lemma="种" pos="NOUN">种</instance>
+			<instance id="d004.s003.t011" lemma="形式" pos="NOUN">形式</instance>
+			<instance id="d004.s003.t012" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d004.s004" source="semeval2015-en">
+			<instance id="d004.s004.t000" lemma="药片" pos="NOUN">药片</instance>
+			<instance id="d004.s004.t001" lemma="呈" pos="VERB">呈</instance>
+			<instance id="d004.s004.t002" lemma="淡" pos="ADJ">淡</instance>
+			<instance id="d004.s004.t003" lemma="橙色" pos="NOUN">橙色</instance>
+			<instance id="d004.s004.t004" lemma="，" pos="X">，</instance>
+			<instance id="d004.s004.t005" lemma="两面" pos="NOUN">两面</instance>
+			<instance id="d004.s004.t006" lemma="都" pos="ADV">都</instance>
+			<instance id="d004.s004.t007" lemma="有" pos="VERB">有</instance>
+			<instance id="d004.s004.t008" lemma="刻痕" pos="NOUN">刻痕</instance>
+			<instance id="d004.s004.t009" lemma="，" pos="X">，</instance>
+			<instance id="d004.s004.t010" lemma="可以" pos="VERB">可以</instance>
+			<instance id="d004.s004.t011" lemma="切成" pos="VERB">切成</instance>
+			<instance id="d004.s004.t012" lemma="两" pos="X">两</instance>
+			<instance id="d004.s004.t013" lemma="半" pos="NOUN">半</instance>
+			<instance id="d004.s004.t014" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d004.s005" source="semeval2015-en">
+			<instance id="d004.s005.t000" lemma="每" pos="X">每</instance>
+			<instance id="d004.s005.t001" lemma="片" pos="NOUN">片</instance>
+			<instance id="d004.s005.t002" lemma="药片" pos="NOUN">药片</instance>
+			<instance id="d004.s005.t003" lemma="一面" pos="NOUN">一面</instance>
+			<instance id="d004.s005.t004" lemma="标有" pos="VERB">标有</instance>
+			<instance id="d004.s005.t005" lemma="辉瑞" pos="NOUN">辉瑞</instance>
+			<instance id="d004.s005.t006" lemma="标志" pos="NOUN">标志</instance>
+			<instance id="d004.s005.t007" lemma="，" pos="X">，</instance>
+			<instance id="d004.s005.t008" lemma="另一面" pos="NOUN">另一面</instance>
+			<instance id="d004.s005.t009" lemma="标有" pos="VERB">标有</instance>
+			<instance id="d004.s005.t010" lemma="字母" pos="NOUN">字母</instance>
+			<instance id="d004.s005.t011" lemma="MPT" pos="NOUN">MPT</instance>
+			<instance id="d004.s005.t012" lemma="和" pos="X">和</instance>
+			<instance id="d004.s005.t013" lemma="马罗匹坦" pos="NOUN">马罗匹坦</instance>
+			<instance id="d004.s005.t014" lemma="的" pos="X">的</instance>
+			<instance id="d004.s005.t015" lemma="数量" pos="NOUN">数量</instance>
+			<instance id="d004.s005.t016" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d004.s006" source="semeval2015-en">
+			<instance id="d004.s006.t000" lemma="Cerenia" pos="NOUN">Cerenia</instance>
+			<instance id="d004.s006.t001" lemma="用于" pos="VERB">用于</instance>
+			<instance id="d004.s006.t002" lemma="什么" pos="X">什么</instance>
+			<instance id="d004.s006.t003" lemma="？" pos="X">？</instance>
+		</sentence>
+		<sentence id="d004.s007" source="semeval2015-en">
+			<instance id="d004.s007.t000" lemma="Cerenia" pos="NOUN">Cerenia</instance>
+			<instance id="d004.s007.t001" lemma="是" pos="VERB">是</instance>
+			<instance id="d004.s007.t002" lemma="一" pos="X">一</instance>
+			<instance id="d004.s007.t003" lemma="种" pos="NOUN">种</instance>
+			<instance id="d004.s007.t004" lemma="止吐药" pos="NOUN">止吐药</instance>
+			<instance id="d004.s007.t005" lemma="，" pos="X">，</instance>
+			<instance id="d004.s007.t006" lemma="这" pos="X">这</instance>
+			<instance id="d004.s007.t007" lemma="意味" pos="VERB">意味</instance>
+			<instance id="d004.s007.t008" lemma="着" pos="X">着</instance>
+			<instance id="d004.s007.t009" lemma="它" pos="X">它</instance>
+			<instance id="d004.s007.t010" lemma="可以" pos="VERB">可以</instance>
+			<instance id="d004.s007.t011" lemma="停止" pos="VERB">停止</instance>
+			<instance id="d004.s007.t012" lemma="呕吐" pos="NOUN">呕吐</instance>
+			<instance id="d004.s007.t013" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d004.s008" source="semeval2015-en">
+			<instance id="d004.s008.t000" lemma="它" pos="X">它</instance>
+			<instance id="d004.s008.t001" lemma="用于" pos="VERB">用于</instance>
+			<instance id="d004.s008.t002" lemma="防止" pos="VERB">防止</instance>
+			<instance id="d004.s008.t003" lemma="狗" pos="NOUN">狗</instance>
+			<instance id="d004.s008.t004" lemma="出现" pos="VERB">出现</instance>
+			<instance id="d004.s008.t005" lemma="呕吐" pos="NOUN">呕吐</instance>
+			<instance id="d004.s008.t006" lemma="，" pos="X">，</instance>
+			<instance id="d004.s008.t007" lemma="例如" pos="ADV">例如</instance>
+			<instance id="d004.s008.t008" lemma="化疗" pos="NOUN">化疗</instance>
+			<instance id="d004.s008.t009" lemma="引起" pos="VERB">引起</instance>
+			<instance id="d004.s008.t010" lemma="的" pos="X">的</instance>
+			<instance id="d004.s008.t011" lemma="呕吐" pos="NOUN">呕吐</instance>
+			<instance id="d004.s008.t012" lemma="（" pos="X">（</instance>
+			<instance id="d004.s008.t013" lemma="用于" pos="VERB">用于</instance>
+			<instance id="d004.s008.t014" lemma="治疗" pos="VERB">治疗</instance>
+			<instance id="d004.s008.t015" lemma="癌症" pos="NOUN">癌症</instance>
+			<instance id="d004.s008.t016" lemma="的" pos="X">的</instance>
+			<instance id="d004.s008.t017" lemma="药物" pos="NOUN">药物</instance>
+			<instance id="d004.s008.t018" lemma="，" pos="X">，</instance>
+			<instance id="d004.s008.t019" lemma="其中" pos="X">其中</instance>
+			<instance id="d004.s008.t020" lemma="一些" pos="NOUN">一些</instance>
+			<instance id="d004.s008.t021" lemma="已知" pos="VERB">已知</instance>
+			<instance id="d004.s008.t022" lemma="会" pos="VERB">会</instance>
+			<instance id="d004.s008.t023" lemma="引起" pos="VERB">引起</instance>
+			<instance id="d004.s008.t024" lemma="呕吐" pos="NOUN">呕吐</instance>
+			<instance id="d004.s008.t025" lemma="）" pos="X">）</instance>
+			<instance id="d004.s008.t026" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d004.s009" source="semeval2015-en">
+			<instance id="d004.s009.t000" lemma="与" pos="X">与</instance>
+			<instance id="d004.s009.t001" lemma="其他" pos="ADJ">其他</instance>
+			<instance id="d004.s009.t002" lemma="兽医" pos="ADJ">兽医</instance>
+			<instance id="d004.s009.t003" lemma="治疗" pos="NOUN">治疗</instance>
+			<instance id="d004.s009.t004" lemma="或" pos="X">或</instance>
+			<instance id="d004.s009.t005" lemma="特殊" pos="ADJ">特殊</instance>
+			<instance id="d004.s009.t006" lemma="饮食" pos="NOUN">饮食</instance>
+			<instance id="d004.s009.t007" lemma="等" pos="ADV">等</instance>
+			<instance id="d004.s009.t008" lemma="支持" pos="ADJ">支持</instance>
+			<instance id="d004.s009.t009" lemma="措施" pos="NOUN">措施</instance>
+			<instance id="d004.s009.t010" lemma="相" pos="X">相</instance>
+			<instance id="d004.s009.t011" lemma="结合" pos="VERB">结合</instance>
+			<instance id="d004.s009.t012" lemma="，" pos="X">，</instance>
+			<instance id="d004.s009.t013" lemma="Cerenia" pos="NOUN">Cerenia</instance>
+			<instance id="d004.s009.t014" lemma="也" pos="ADV">也</instance>
+			<instance id="d004.s009.t015" lemma="可" pos="VERB">可</instance>
+			<instance id="d004.s009.t016" lemma="用于" pos="VERB">用于</instance>
+			<instance id="d004.s009.t017" lemma="治疗" pos="VERB">治疗</instance>
+			<instance id="d004.s009.t018" lemma="呕吐" pos="NOUN">呕吐</instance>
+			<instance id="d004.s009.t019" lemma="（" pos="X">（</instance>
+			<instance id="d004.s009.t020" lemma="注射" pos="NOUN">注射</instance>
+			<instance id="d004.s009.t021" lemma="或" pos="X">或</instance>
+			<instance id="d004.s009.t022" lemma="注射" pos="NOUN">注射</instance>
+			<instance id="d004.s009.t023" lemma="后" pos="X">后</instance>
+			<instance id="d004.s009.t024" lemma="服用" pos="VERB">服用</instance>
+			<instance id="d004.s009.t025" lemma="药片" pos="NOUN">药片</instance>
+			<instance id="d004.s009.t026" lemma="）" pos="X">）</instance>
+			<instance id="d004.s009.t027" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d004.s010" source="semeval2015-en">
+			<instance id="d004.s010.t000" lemma="为了" pos="X">为了</instance>
+			<instance id="d004.s010.t001" lemma="达到" pos="VERB">达到</instance>
+			<instance id="d004.s010.t002" lemma="这些" pos="X">这些</instance>
+			<instance id="d004.s010.t003" lemma="目的" pos="NOUN">目的</instance>
+			<instance id="d004.s010.t004" lemma="，" pos="X">，</instance>
+			<instance id="d004.s010.t005" lemma="Cerenia" pos="NOUN">Cerenia</instance>
+			<instance id="d004.s010.t006" lemma="最多" pos="ADV">最多</instance>
+			<instance id="d004.s010.t007" lemma="可以" pos="VERB">可以</instance>
+			<instance id="d004.s010.t008" lemma="服用" pos="VERB">服用</instance>
+			<instance id="d004.s010.t009" lemma="五" pos="X">五</instance>
+			<instance id="d004.s010.t010" lemma="天" pos="NOUN">天</instance>
+		</sentence>
+		<sentence id="d004.s011" source="semeval2015-en">
+			<instance id="d004.s011.t000" lemma="Cerenia" pos="NOUN">Cerenia</instance>
+			<instance id="d004.s011.t001" lemma="如何" pos="ADV">如何</instance>
+			<instance id="d004.s011.t002" lemma="发挥" pos="VERB">发挥</instance>
+			<instance id="d004.s011.t003" lemma="作用" pos="NOUN">作用</instance>
+			<instance id="d004.s011.t004" lemma="？" pos="X">？</instance>
+		</sentence>
+		<sentence id="d004.s012" source="semeval2015-en">
+			<instance id="d004.s012.t000" lemma="Cerenia" pos="NOUN">Cerenia</instance>
+			<instance id="d004.s012.t001" lemma="可" pos="VERB">可</instance>
+			<instance id="d004.s012.t002" lemma="阻断" pos="VERB">阻断</instance>
+			<instance id="d004.s012.t003" lemma="神经" pos="NOUN">神经</instance>
+			<instance id="d004.s012.t004" lemma="激肽" pos="NOUN">激肽</instance>
+			<instance id="d004.s012.t005" lemma="1" pos="X">1</instance>
+			<instance id="d004.s012.t006" lemma="(" pos="X">(</instance>
+			<instance id="d004.s012.t007" lemma="NK1" pos="NOUN">NK1</instance>
+			<instance id="d004.s012.t008" lemma=")" pos="X">)</instance>
+			<instance id="d004.s012.t009" lemma="受体" pos="NOUN">受体</instance>
+			<instance id="d004.s012.t010" lemma="，" pos="X">，</instance>
+			<instance id="d004.s012.t011" lemma="该" pos="X">该</instance>
+			<instance id="d004.s012.t012" lemma="受体" pos="NOUN">受体</instance>
+			<instance id="d004.s012.t013" lemma="在" pos="X">在</instance>
+			<instance id="d004.s012.t014" lemma="中枢神经" pos="ADJ">中枢神经</instance>
+			<instance id="d004.s012.t015" lemma="系统" pos="NOUN">系统</instance>
+			<instance id="d004.s012.t016" lemma="中" pos="X">中</instance>
+			<instance id="d004.s012.t017" lemma="起作用" pos="VERB">起作用</instance>
+			<instance id="d004.s012.t018" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d004.s013" source="semeval2015-en">
+			<instance id="d004.s013.t000" lemma="如何" pos="ADV">如何</instance>
+			<instance id="d004.s013.t001" lemma="对" pos="X">对</instance>
+			<instance id="d004.s013.t002" lemma="Cerenia" pos="NOUN">Cerenia</instance>
+			<instance id="d004.s013.t003" lemma="进行" pos="VERB">进行</instance>
+			<instance id="d004.s013.t004" lemma="研究" pos="NOUN">研究</instance>
+			<instance id="d004.s013.t005" lemma="？" pos="X">？</instance>
+		</sentence>
+		<sentence id="d004.s014" source="semeval2015-en">
+			<instance id="d004.s014.t000" lemma="在" pos="X">在</instance>
+			<instance id="d004.s014.t001" lemma="欧洲" pos="ADJ">欧洲</instance>
+			<instance id="d004.s014.t002" lemma="多" pos="ADJ">多</instance>
+			<instance id="d004.s014.t003" lemma="个" pos="NOUN">个</instance>
+			<instance id="d004.s014.t004" lemma="国家" pos="NOUN">国家</instance>
+			<instance id="d004.s014.t005" lemma="和" pos="X">和</instance>
+			<instance id="d004.s014.t006" lemma="美国" pos="NOUN">美国</instance>
+			<instance id="d004.s014.t007" lemma="的" pos="X">的</instance>
+			<instance id="d004.s014.t008" lemma="兽医" pos="NOUN">兽医</instance>
+			<instance id="d004.s014.t009" lemma="诊所" pos="NOUN">诊所</instance>
+			<instance id="d004.s014.t010" lemma="中" pos="X">中</instance>
+			<instance id="d004.s014.t011" lemma="，" pos="X">，</instance>
+			<instance id="d004.s014.t012" lemma="对" pos="X">对</instance>
+			<instance id="d004.s014.t013" lemma="实验" pos="NOUN">实验</instance>
+			<instance id="d004.s014.t014" lemma="犬" pos="NOUN">犬</instance>
+			<instance id="d004.s014.t015" lemma="和" pos="X">和</instance>
+			<instance id="d004.s014.t016" lemma="动物" pos="NOUN">动物</instance>
+			<instance id="d004.s014.t017" lemma="患者" pos="NOUN">患者</instance>
+			<instance id="d004.s014.t018" lemma="进行" pos="VERB">进行</instance>
+			<instance id="d004.s014.t019" lemma="了" pos="X">了</instance>
+			<instance id="d004.s014.t020" lemma="大量" pos="ADJ">大量</instance>
+			<instance id="d004.s014.t021" lemma="有关" pos="VERB">有关</instance>
+			<instance id="d004.s014.t022" lemma="Cerenia" pos="NOUN">Cerenia</instance>
+			<instance id="d004.s014.t023" lemma="的" pos="X">的</instance>
+			<instance id="d004.s014.t024" lemma="研究" pos="NOUN">研究</instance>
+			<instance id="d004.s014.t025" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d004.s015" source="semeval2015-en">
+			<instance id="d004.s015.t000" lemma="Cerenia" pos="NOUN">Cerenia</instance>
+			<instance id="d004.s015.t001" lemma="在" pos="X">在</instance>
+			<instance id="d004.s015.t002" lemma="研究" pos="NOUN">研究</instance>
+			<instance id="d004.s015.t003" lemma="期间" pos="NOUN">期间</instance>
+			<instance id="d004.s015.t004" lemma="表现" pos="VERB">表现</instance>
+			<instance id="d004.s015.t005" lemma="出" pos="X">出</instance>
+			<instance id="d004.s015.t006" lemma="了" pos="X">了</instance>
+			<instance id="d004.s015.t007" lemma="什么" pos="X">什么</instance>
+			<instance id="d004.s015.t008" lemma="益处" pos="NOUN">益处</instance>
+			<instance id="d004.s015.t009" lemma="？" pos="X">？</instance>
+		</sentence>
+		<sentence id="d004.s016" source="semeval2015-en">
+			<instance id="d004.s016.t000" lemma="研究" pos="NOUN">研究</instance>
+			<instance id="d004.s016.t001" lemma="结果" pos="NOUN">结果</instance>
+			<instance id="d004.s016.t002" lemma="表明" pos="VERB">表明</instance>
+			<instance id="d004.s016.t003" lemma="，" pos="X">，</instance>
+			<instance id="d004.s016.t004" lemma="Cerenia" pos="NOUN">Cerenia</instance>
+			<instance id="d004.s016.t005" lemma="比" pos="X">比</instance>
+			<instance id="d004.s016.t006" lemma="安慰剂" pos="NOUN">安慰剂</instance>
+			<instance id="d004.s016.t007" lemma="更" pos="ADV">更</instance>
+			<instance id="d004.s016.t008" lemma="有效" pos="ADJ">有效</instance>
+			<instance id="d004.s016.t009" lemma="：" pos="X">：</instance>
+			<instance id="d004.s016.t010" lemma="无论" pos="ADV">无论</instance>
+			<instance id="d004.s016.t011" lemma="是" pos="VERB">是</instance>
+			<instance id="d004.s016.t012" lemma="在" pos="X">在</instance>
+			<instance id="d004.s016.t013" lemma="治疗" pos="NOUN">治疗</instance>
+			<instance id="d004.s016.t014" lemma="还是" pos="X">还是</instance>
+			<instance id="d004.s016.t015" lemma="预防" pos="VERB">预防</instance>
+			<instance id="d004.s016.t016" lemma="呕吐" pos="NOUN">呕吐</instance>
+			<instance id="d004.s016.t017" lemma="方面" pos="NOUN">方面</instance>
+			<instance id="d004.s016.t018" lemma="，" pos="X">，</instance>
+			<instance id="d004.s016.t019" lemma="服用" pos="VERB">服用</instance>
+			<instance id="d004.s016.t020" lemma="该" pos="X">该</instance>
+			<instance id="d004.s016.t021" lemma="药物" pos="NOUN">药物</instance>
+			<instance id="d004.s016.t022" lemma="的" pos="X">的</instance>
+			<instance id="d004.s016.t023" lemma="狗" pos="NOUN">狗</instance>
+			<instance id="d004.s016.t024" lemma="的" pos="X">的</instance>
+			<instance id="d004.s016.t025" lemma="呕吐" pos="NOUN">呕吐</instance>
+			<instance id="d004.s016.t026" lemma="次数" pos="NOUN">次数</instance>
+			<instance id="d004.s016.t027" lemma="都" pos="ADV">都</instance>
+			<instance id="d004.s016.t028" lemma="比" pos="X">比</instance>
+			<instance id="d004.s016.t029" lemma="服用" pos="VERB">服用</instance>
+			<instance id="d004.s016.t030" lemma="安慰剂" pos="NOUN">安慰剂</instance>
+			<instance id="d004.s016.t031" lemma="的" pos="X">的</instance>
+			<instance id="d004.s016.t032" lemma="狗" pos="NOUN">狗</instance>
+			<instance id="d004.s016.t033" lemma="少" pos="ADJ">少</instance>
+			<instance id="d004.s016.t034" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d004.s017" source="semeval2015-en">
+			<instance id="d004.s017.t000" lemma="治疗" pos="VERB">治疗</instance>
+			<instance id="d004.s017.t001" lemma="呕吐" pos="VERB">呕吐</instance>
+			<instance id="d004.s017.t002" lemma="的" pos="X">的</instance>
+			<instance id="d004.s017.t003" lemma="狗" pos="NOUN">狗</instance>
+			<instance id="d004.s017.t004" lemma="应该" pos="VERB">应该</instance>
+			<instance id="d004.s017.t005" lemma="从" pos="X">从</instance>
+			<instance id="d004.s017.t006" lemma="注射" pos="NOUN">注射</instance>
+			<instance id="d004.s017.t007" lemma="开始" pos="VERB">开始</instance>
+			<instance id="d004.s017.t008" lemma="，" pos="X">，</instance>
+			<instance id="d004.s017.t009" lemma="因为" pos="X">因为</instance>
+			<instance id="d004.s017.t010" lemma="呕吐" pos="VERB">呕吐</instance>
+			<instance id="d004.s017.t011" lemma="的" pos="X">的</instance>
+			<instance id="d004.s017.t012" lemma="动物" pos="NOUN">动物</instance>
+			<instance id="d004.s017.t013" lemma="可能" pos="VERB">可能</instance>
+			<instance id="d004.s017.t014" lemma="没有" pos="VERB">没有</instance>
+			<instance id="d004.s017.t015" lemma="方法" pos="NOUN">方法</instance>
+			<instance id="d004.s017.t016" lemma="吞下" pos="VERB">吞下</instance>
+			<instance id="d004.s017.t017" lemma="药片" pos="NOUN">药片</instance>
+			<instance id="d004.s017.t018" lemma="（" pos="X">（</instance>
+			<instance id="d004.s017.t019" lemma="因为" pos="X">因为</instance>
+			<instance id="d004.s017.t020" lemma="它们" pos="X">它们</instance>
+			<instance id="d004.s017.t021" lemma="可能" pos="VERB">可能</instance>
+			<instance id="d004.s017.t022" lemma="会" pos="VERB">会</instance>
+			<instance id="d004.s017.t023" lemma="再次" pos="ADV">再次</instance>
+			<instance id="d004.s017.t024" lemma="将" pos="X">将</instance>
+			<instance id="d004.s017.t025" lemma="完整" pos="ADJ">完整</instance>
+			<instance id="d004.s017.t026" lemma="的" pos="X">的</instance>
+			<instance id="d004.s017.t027" lemma="药片" pos="NOUN">药片</instance>
+			<instance id="d004.s017.t028" lemma="吐" pos="VERB">吐</instance>
+			<instance id="d004.s017.t029" lemma="出来" pos="VERB">出来</instance>
+			<instance id="d004.s017.t030" lemma="）" pos="X">）</instance>
+			<instance id="d004.s017.t031" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d004.s018" source="semeval2015-en">
+			<instance id="d004.s018.t000" lemma="为了" pos="X">为了</instance>
+			<instance id="d004.s018.t001" lemma="进行" pos="VERB">进行</instance>
+			<instance id="d004.s018.t002" lemma="后续" pos="ADJ">后续</instance>
+			<instance id="d004.s018.t003" lemma="治疗" pos="NOUN">治疗</instance>
+			<instance id="d004.s018.t004" lemma="，" pos="X">，</instance>
+			<instance id="d004.s018.t005" lemma="动物" pos="NOUN">动物</instance>
+			<instance id="d004.s018.t006" lemma="主人" pos="NOUN">主人</instance>
+			<instance id="d004.s018.t007" lemma="可以" pos="VERB">可以</instance>
+			<instance id="d004.s018.t008" lemma="给" pos="X">给</instance>
+			<instance id="d004.s018.t009" lemma="狗" pos="NOUN">狗</instance>
+			<instance id="d004.s018.t010" lemma="服用" pos="VERB">服用</instance>
+			<instance id="d004.s018.t011" lemma="药片" pos="NOUN">药片</instance>
+			<instance id="d004.s018.t012" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d004.s019" source="semeval2015-en">
+			<instance id="d004.s019.t000" lemma="此外" pos="ADV">此外</instance>
+			<instance id="d004.s019.t001" lemma="，" pos="X">，</instance>
+			<instance id="d004.s019.t002" lemma="呕吐" pos="NOUN">呕吐</instance>
+			<instance id="d004.s019.t003" lemma="的" pos="X">的</instance>
+			<instance id="d004.s019.t004" lemma="治疗" pos="NOUN">治疗</instance>
+			<instance id="d004.s019.t005" lemma="应" pos="VERB">应</instance>
+			<instance id="d004.s019.t006" lemma="与" pos="X">与</instance>
+			<instance id="d004.s019.t007" lemma="其他" pos="ADJ">其他</instance>
+			<instance id="d004.s019.t008" lemma="支持" pos="ADJ">支持</instance>
+			<instance id="d004.s019.t009" lemma="措施" pos="NOUN">措施</instance>
+			<instance id="d004.s019.t010" lemma="或" pos="X">或</instance>
+			<instance id="d004.s019.t011" lemma="其他" pos="ADJ">其他</instance>
+			<instance id="d004.s019.t012" lemma="兽医" pos="ADJ">兽医</instance>
+			<instance id="d004.s019.t013" lemma="疗法" pos="NOUN">疗法</instance>
+			<instance id="d004.s019.t014" lemma="一起" pos="ADV">一起</instance>
+			<instance id="d004.s019.t015" lemma="进行" pos="VERB">进行</instance>
+			<instance id="d004.s019.t016" lemma="，" pos="X">，</instance>
+			<instance id="d004.s019.t017" lemma="同时" pos="ADV">同时</instance>
+			<instance id="d004.s019.t018" lemma="解决" pos="VERB">解决</instance>
+			<instance id="d004.s019.t019" lemma="呕吐" pos="NOUN">呕吐</instance>
+			<instance id="d004.s019.t020" lemma="的" pos="X">的</instance>
+			<instance id="d004.s019.t021" lemma="根本" pos="ADJ">根本</instance>
+			<instance id="d004.s019.t022" lemma="原因" pos="NOUN">原因</instance>
+			<instance id="d004.s019.t023" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d004.s020" source="semeval2015-en">
+			<instance id="d004.s020.t000" lemma="Cerenia" pos="NOUN">Cerenia</instance>
+			<instance id="d004.s020.t001" lemma="有" pos="VERB">有</instance>
+			<instance id="d004.s020.t002" lemma="哪些" pos="X">哪些</instance>
+			<instance id="d004.s020.t003" lemma="风险" pos="NOUN">风险</instance>
+			<instance id="d004.s020.t004" lemma="？" pos="X">？</instance>
+		</sentence>
+		<sentence id="d004.s021" source="semeval2015-en">
+			<instance id="d004.s021.t000" lemma="当" pos="X">当</instance>
+			<instance id="d004.s021.t001" lemma="每日" pos="ADV">每日</instance>
+			<instance id="d004.s021.t002" lemma="服用" pos="VERB">服用</instance>
+			<instance id="d004.s021.t003" lemma="剂量" pos="NOUN">剂量</instance>
+			<instance id="d004.s021.t004" lemma="高达" pos="VERB">高达</instance>
+			<instance id="d004.s021.t005" lemma="推荐" pos="NOUN">推荐</instance>
+			<instance id="d004.s021.t006" lemma="剂量" pos="NOUN">剂量</instance>
+			<instance id="d004.s021.t007" lemma="的" pos="X">的</instance>
+			<instance id="d004.s021.t008" lemma="5" pos="X">5</instance>
+			<instance id="d004.s021.t009" lemma="倍" pos="NOUN">倍</instance>
+			<instance id="d004.s021.t010" lemma="并且" pos="ADV">并且</instance>
+			<instance id="d004.s021.t011" lemma="持续" pos="VERB">持续</instance>
+			<instance id="d004.s021.t012" lemma="较" pos="ADV">较</instance>
+			<instance id="d004.s021.t013" lemma="长" pos="ADJ">长</instance>
+			<instance id="d004.s021.t014" lemma="时间" pos="NOUN">时间</instance>
+			<instance id="d004.s021.t015" lemma="（" pos="X">（</instance>
+			<instance id="d004.s021.t016" lemma="高达" pos="VERB">高达</instance>
+			<instance id="d004.s021.t017" lemma="建议" pos="VERB">建议</instance>
+			<instance id="d004.s021.t018" lemma="最大" pos="ADJ">最大</instance>
+			<instance id="d004.s021.t019" lemma="治疗" pos="NOUN">治疗</instance>
+			<instance id="d004.s021.t020" lemma="时间" pos="NOUN">时间</instance>
+			<instance id="d004.s021.t021" lemma="的" pos="X">的</instance>
+			<instance id="d004.s021.t022" lemma="3" pos="X">3</instance>
+			<instance id="d004.s021.t023" lemma="倍" pos="NOUN">倍</instance>
+			<instance id="d004.s021.t024" lemma="）" pos="X">）</instance>
+			<instance id="d004.s021.t025" lemma="时" pos="X">时</instance>
+			<instance id="d004.s021.t026" lemma="，" pos="X">，</instance>
+			<instance id="d004.s021.t027" lemma="Cerenia" pos="NOUN">Cerenia</instance>
+			<instance id="d004.s021.t028" lemma="通常" pos="ADV">通常</instance>
+			<instance id="d004.s021.t029" lemma="耐受性" pos="NOUN">耐受性</instance>
+			<instance id="d004.s021.t030" lemma="良好" pos="ADJ">良好</instance>
+			<instance id="d004.s021.t031" lemma="。" pos="X">。</instance>
+		</sentence>
+		<sentence id="d004.s022" source="semeval2015-en">
+			<instance id="d004.s022.t000" lemma="给" pos="X">给</instance>
+			<instance id="d004.s022.t001" lemma="动物" pos="NOUN">动物</instance>
+			<instance id="d004.s022.t002" lemma="注射" pos="VERB">注射</instance>
+			<instance id="d004.s022.t003" lemma="药物" pos="NOUN">药物</instance>
+			<instance id="d004.s022.t004" lemma="或者" pos="X">或者</instance>
+			<instance id="d004.s022.t005" lemma="接触" pos="VERB">接触</instance>
+			<instance id="d004.s022.t006" lemma="动物" pos="NOUN">动物</instance>
+			<instance id="d004.s022.t007" lemma="的" pos="X">的</instance>
+			<instance id="d004.s022.t008" lemma="人" pos="NOUN">人</instance>
+			<instance id="d004.s022.t009" lemma="需要" pos="VERB">需要</instance>
+			<instance id="d004.s022.t010" lemma="注意" pos="VERB">注意</instance>
+			<instance id="d004.s022.t011" lemma="什么" pos="X">什么</instance>
+			<instance id="d004.s022.t012" lemma="？" pos="X">？</instance>
+		</sentence>
+		<sentence id="d004.s023" source="semeval2015-en">
+			<instance id="d004.s023.t000" lemma="Cerenia" pos="NOUN">Cerenia</instance>
+			<instance id="d004.s023.t001" lemma="并" pos="ADV">并</instance>
+			<instance id="d004.s023.t002" lemma="不会" pos="VERB">不会</instance>
+			<instance id="d004.s023.t003" lemma="对" pos="X">对</instance>
+			<instance id="d004.s023.t004" lemma="人体" pos="NOUN">人体</instance>
+			<instance id="d004.s023.t005" lemma="造成" pos="VERB">造成</instance>
+			<instance id="d004.s023.t006" lemma="特别" pos="ADJ">特别</instance>
+			<instance id="d004.s023.t007" lemma="的" pos="X">的</instance>
+			<instance id="d004.s023.t008" lemma="风险" pos="NOUN">风险</instance>
+			<instance id="d004.s023.t009" lemma="。" pos="X">。</instance>
+		</sentence>
+	</text>
+</corpus>

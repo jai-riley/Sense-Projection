@@ -20,6 +20,7 @@ def calculate_scores(gs_file, system_file):
 
 
 def score(gs, system):
+    d = []
     # Read the input files.
     gs_map = {}
     read_file(gs, gs_map)
@@ -31,18 +32,25 @@ def score(gs, system):
     notok = 0
     extras = 0
     for key in gs_map.keys():
-        dict_d[key] = -1
+        dict_d[key] = None
     for key in system_map.keys():
+        if key == "d004.s004.t009":
+            print(gs_map[key])
+            print(system_map[key])
         if key not in gs_map:
             extras += 1
+            # print(key)
             continue
         for answer in system_map[key]:
             if answer in gs_map[key]:
                 ok += 1
-                dict_d[key] = 1
+                dict_d[key] = True
             elif answer != "<unk>":
+                # print(key)
                 notok += 1
-                dict_d[key] = 0
+                dict_d[key] = False
+
+
 
 
     print(f"Correct Tags: {ok}\n"
@@ -66,16 +74,24 @@ def score(gs, system):
 def read_file(file, map):
     with open(file, 'r') as f:
         cnt = 0
+        count = 0
         for line in f:
             # print(line)
             cnt += 1
             ll = line.strip().split(" ")
+            # print(ll)
             if len(ll) < 2:
-                print(f"line number {cnt} not complete: {line.strip()}")
+                # print(ll[0])
+                # if ll[0][0] != "d":
+                #     count += 1
+                # print(f"line number {cnt} not complete: {line.strip()}")
                 continue
+            # print(ll[0][0:4])
+            # if ll[0][0:4] == "d001":
             if ll[0] not in map:
                 map[ll[0]] = set()
             # else:
             #     print(int(ll[0][6:9])-1,int(ll[0][-3:])-1)
             for i in range(1, len(ll)):
                 map[ll[0]].add(ll[i])
+        print(f"Number of Tags not in Gold: {count}")

@@ -1,0 +1,2545 @@
+Token ID	Token	POS	EN Token	BN Synset
+d001.s001.t001	本	X	This	
+d001.s001.t002	文件	N	document	bn:00028015n
+d001.s001.t003	是	V	is	
+d001.s001.t004	欧洲	A	European	bn:00102440a
+d001.s001.t005	公共	A	Public	bn:00109211a
+d001.s001.t006	评估	N	Assessment	bn:00006502n
+d001.s001.t007	报告	N	Report	bn:00067181n
+d001.s001.t008	(	X	(	
+d001.s001.t009	EPAR	N	EPAR	
+d001.s001.t010	)	X	)	
+d001.s001.t011	的	X	the	
+d001.s001.t012	摘要	N	summary	bn:00075142n
+d001.s001.t013	。	X	.	
+d001.s002.t001	它	X	It	
+d001.s002.t002	解释	V		bn:00087869v
+d001.s002.t003	了	X		
+d001.s002.t004	人	A	Human	bn:00104385a
+d001.s002.t005	用	N	Use	bn:00030627n
+d001.s002.t006	药品	N	Medicinal Products	bn:00054128n
+d001.s002.t007	委员会	N	Committee	bn:00021015n
+d001.s002.t008	(	X	(	
+d001.s002.t009	CHMP	N	CHMP	bn:00302314n
+d001.s002.t010	)	X	)	
+d001.s002.t011	如何	R	how	bn:13606173r
+d001.s002.t012	评估	V		bn:00082720v
+d001.s002.t013	所	X		
+d001.s002.t014	进行	V	performed	bn:00087107v
+d001.s002.t015	的	X	the	
+d001.s002.t016	研究	N	studies	bn:00074790n
+d001.s002.t017	，	X	,	
+d001.s002.t018	以	X	to	
+d001.s002.t019	得出	V	reach	bn:00082226v
+d001.s002.t020	关于	X	on	
+d001.s002.t021	如何	R	how	bn:13606173r
+d001.s002.t022	使用	V	use	bn:00082705v
+d001.s002.t023	药物	N	medicine	bn:00054128n
+d001.s002.t024	的	X		
+d001.s002.t025	建议	N	recommendations	bn:00066562n
+d001.s002.t026	。	X	.	
+d001.s003.t001	如果	X	If	
+d001.s003.t002	您	X	you	
+d001.s003.t003	需要	V	need	bn:00091028v
+d001.s003.t004	更	R	more	bn:00116285r
+d001.s003.t005	多	A		bn:00105858a
+d001.s003.t006	有关	X	about	
+d001.s003.t007	您	X	your	
+d001.s003.t008	的	X		
+d001.s003.t009	医疗	A	medical	bn:00106555a
+d001.s003.t010	状况	N	condition	bn:00021648n
+d001.s003.t011	或	X	or	
+d001.s003.t012	治疗	A	treatment	bn:00111810a
+d001.s003.t013	的	X	the	
+d001.s003.t014	信息	N	information	bn:00025314n
+d001.s003.t015	，	X	,	
+d001.s003.t016	请	V		
+d001.s003.t017	阅读	V	read	bn:00092424v
+d001.s003.t018	药品	N		bn:00054128n
+d001.s003.t019	说明书	N	Leaflet	bn:00012133n
+d001.s003.t020	（	X	(	
+d001.s003.t021	也	R	also	bn:00114246r
+d001.s003.t022	是	V		
+d001.s003.t023	EPAR	N	EPAR	
+d001.s003.t024	的	X	of	
+d001.s003.t025	一部分	N	part	bn:00021395n
+d001.s003.t026	）	X	)	
+d001.s003.t027	或	X	or	
+d001.s003.t028	联系	V	contact	bn:00085696v
+d001.s003.t029	您	X	your	
+d001.s003.t030	的	X		
+d001.s003.t031	医生	N	doctor	bn:00027976n
+d001.s003.t032	或	X	or	
+d001.s003.t033	药剂师	N	pharmacist	bn:00004992n
+d001.s003.t034	。	X	.	
+d001.s004.t001	如果	X	If	
+d001.s004.t002	您	X	you	
+d001.s004.t003	想	V	want	bn:00086682v
+d001.s004.t004	了解	V	on	bn:00095375v
+d001.s004.t005	有关	A		bn:00109659a
+d001.s004.t006	CHMP	N	CHMP	bn:00302314n
+d001.s004.t007	建议	N	recommendations	bn:00066562n
+d001.s004.t008	的	X	the	
+d001.s004.t009	更	R	more	bn:00116285r
+d001.s004.t010	多	X		
+d001.s004.t011	信息	N	information	bn:00025314n
+d001.s004.t012	，	X	,	
+d001.s004.t013	请	V		
+d001.s004.t014	阅读	V	read	bn:00092424v
+d001.s004.t015	科学	A	Scientific	bn:00110175a
+d001.s004.t016	讨论	N	Discussion	bn:00027523n
+d001.s004.t017	（	X	(	
+d001.s004.t018	也	R	also	bn:00114246r
+d001.s004.t019	是	V		
+d001.s004.t020	EPAR	N	EPAR	
+d001.s004.t021	的	X	the	
+d001.s004.t022	一部分	N	part	bn:00021395n
+d001.s004.t023	）	X	)	
+d001.s004.t024	。	X	.	
+d001.s005.t001	什么	X	What	
+d001.s005.t002	是	V	is	
+d001.s005.t003	Alimta	N	Alimta	bn:00602447n
+d001.s005.t004	？	X	?	
+d001.s006.t001	Alimta	N	Alimta	bn:00602447n
+d001.s006.t002	是	V	is	
+d001.s006.t003	一	X	a	
+d001.s006.t004	种	N		bn:00078798n
+d001.s006.t005	粉末	N	powder	bn:00063926n
+d001.s006.t006	，	X	that	
+d001.s006.t007	可	V		
+d001.s006.t008	制成	V	into	bn:00083187v
+d001.s006.t009	输液	N	infusion	bn:00046734n
+d001.s006.t010	溶液	N	solution	bn:00072760n
+d001.s006.t011	（	X	(	
+d001.s006.t012	滴入	V	into	bn:00087306v
+d001.s006.t013	静脉	N	vein	bn:00079681n
+d001.s006.t014	）	X	)	
+d001.s006.t015	。	X	.	
+d001.s007.t001	它	X	It	
+d001.s007.t002	含有	V		bn:00085499v
+d001.s007.t003	活性	A	active	bn:00096387a
+d001.s007.t004	成分	N	substance	bn:00074986n
+d001.s007.t005	培美	N		
+d001.s007.t006	曲塞	N		
+d001.s007.t007	。	X	.	
+d001.s008.t001	Alimta	N	Alimta	bn:00602447n
+d001.s008.t002	的	X		
+d001.s008.t003	用途	N		bn:00036822n
+d001.s008.t004	是	V	is	
+d001.s008.t005	什么	X	What	
+d001.s008.t006	？	X	?	
+d001.s009.t001	Alimta	N	Alimta	bn:00602447n
+d001.s009.t002	用于	V	used	bn:00082705v
+d001.s009.t003	治疗	V	treat	bn:00084532v
+d001.s009.t004	两	X	two	
+d001.s009.t005	种	N		bn:00078798n
+d001.s009.t006	类型	N	types	bn:00078798n
+d001.s009.t007	的	X	of	
+d001.s009.t008	癌症	N	cancer	bn:00015180n
+d001.s009.t009	：	X	:	
+d001.s009.t010	胸膜	N	lining	bn:00051366n
+d001.s009.t011	间	X		
+d001.s009.t012	皮	N		
+d001.s009.t013	瘤	N		
+d001.s009.t014	（	X	(	
+d001.s009.t015	肺部	N	lungs	bn:00052341n
+d001.s009.t016	内膜	N		bn:00054285n
+d001.s009.t017	癌症	N	cancer	bn:00015180n
+d001.s009.t018	，	X	that	
+d001.s009.t019	通常	R	usually	bn:00114778r
+d001.s009.t020	由	X	by	
+d001.s009.t021	接触	V	exposure	bn:00095040v
+d001.s009.t022	石棉	N	asbestos	bn:00006236n
+d001.s009.t023	引起	V	caused	bn:00084069v
+d001.s009.t024	）	X	)	
+d001.s009.t025	。	X	.	
+d001.s010.t001	当	X	when	
+d001.s010.t002	癌症	N	cancer	bn:00015180n
+d001.s010.t003	无法切除	A	unresectable	bn:13653537a
+d001.s010.t004	（	X	(	
+d001.s010.t005	不能	R	cannot	
+d001.s010.t006	仅	R	alone	bn:00114234r
+d001.s010.t007	通过	X	by	
+d001.s010.t008	手术	N	surgery	bn:00059129n
+d001.s010.t009	切除	V	removed	bn:00082590v
+d001.s010.t010	）	X	)	
+d001.s010.t011	且	X	and	
+d001.s010.t012	为	X		
+d001.s010.t013	恶性	A	malignant	bn:00106363a
+d001.s010.t014	（	X	(	
+d001.s010.t015	已经	R	has	bn:00114245r
+d001.s010.t016	扩散	V	spread	bn:00092083v
+d001.s010.t017	或	X	or	
+d001.s010.t018	可能	R	likely	bn:00114523r
+d001.s010.t019	轻易	R	easily	bn:00115155r
+d001.s010.t020	扩散	V	spread	bn:00092083v
+d001.s010.t021	到	X	to	
+d001.s010.t022	身体	N	body	bn:00011744n
+d001.s010.t023	其他	A	other	bn:00108011a
+d001.s010.t024	部位	N	parts	bn:00021395n
+d001.s010.t025	）	X	)	
+d001.s010.t026	，	X	,	
+d001.s010.t027	且	X		
+d001.s010.t028	之前	R	before	bn:00114512r
+d001.s010.t029	未	R	not	bn:00116360r
+d001.s010.t030	接受	V	received	bn:00087863v
+d001.s010.t031	过	X	have	
+d001.s010.t032	化疗	N	chemotherapy	bn:00018141n
+d001.s010.t033	（	X	(	
+d001.s010.t034	抗癌	A	cancer	bn:00097220a
+d001.s010.t035	药物	N		bn:00054128n
+d001.s010.t036	）	X	)	
+d001.s010.t037	的	X		
+d001.s010.t038	晚期	A	advanced	bn:00096528a
+d001.s010.t039	或	X	or	
+d001.s010.t040	转移	A	metastatic	bn:00106664a
+d001.s010.t041	性	A		
+d001.s010.t042	非	A		
+d001.s010.t043	小	A		
+d001.s010.t044	细胞	N	cell	bn:00017027n
+d001.s010.t045	肺癌	N	squamous	bn:00015180n
+d001.s010.t046	患者	N	patients	bn:00061017n
+d001.s010.t047	（	X	(	
+d001.s010.t048	未	R	not	bn:00116360r
+d001.s010.t049	影响	V	affecting	bn:00082427v
+d001.s010.t050	鳞	N		
+d001.s010.t051	状	N		
+d001.s010.t052	细胞	N		
+d001.s010.t053	）	X	)	
+d001.s010.t054	时	X		
+d001.s010.t055	，	X	,	
+d001.s010.t056	Alimta	N	Alimta	bn:00602447n
+d001.s010.t057	与	X	with	
+d001.s010.t058	顺	A		
+d001.s010.t059	铂	N	cisplatin	bn:00577781n
+d001.s010.t060	（	X		
+d001.s010.t061	另	X	another	
+d001.s010.t062	一	X		
+d001.s010.t063	种	N		bn:00078798n
+d001.s010.t064	抗癌	A		bn:00097220a
+d001.s010.t065	药物	N	medicine	bn:00054128n
+d001.s010.t066	）	X		
+d001.s010.t067	一起	R	together	bn:00114206r
+d001.s010.t068	使用	V	used	bn:00082705v
+d001.s010.t069	。	X	.	
+d001.s011.t001	对于	X	in	
+d001.s011.t002	以前	R	before	bn:00114512r
+d001.s011.t003	未	R	not	bn:00116360r
+d001.s011.t004	接受	V	been	bn:00087863v
+d001.s011.t005	过	X		
+d001.s011.t006	治疗	N	treated	bn:00047235n
+d001.s011.t007	的	X	who	
+d001.s011.t008	患者	N	patients	bn:00061017n
+d001.s011.t009	，	X	,	
+d001.s011.t010	Alimta	N	Alimta	bn:00602447n
+d001.s011.t011	与	X	with	
+d001.s011.t012	顺铂	N		bn:00577781n
+d001.s011.t013	联合	R	combination	bn:00115794r
+d001.s011.t014	使用	V		bn:00082705v
+d001.s011.t015	；	X	and	
+d001.s011.t016	对于	X	in	
+d001.s011.t017	以前	R	past	bn:00114512r
+d001.s011.t018	接受	V	received	bn:00087863v
+d001.s011.t019	过	X		
+d001.s011.t020	其他	A	another	bn:00108011a
+d001.s011.t021	类型	N	type	bn:00078798n
+d001.s011.t022	化疗	N	chemotherapy	bn:00018141n
+d001.s011.t023	的	X	in	
+d001.s011.t024	患者	N	patients	bn:00061017n
+d001.s011.t025	，	X		
+d001.s011.t026	Alimta	N	cisplatin	bn:00577781n
+d001.s011.t027	可	V		
+d001.s011.t028	单独	R	own	bn:00114234r
+d001.s011.t029	使用	V	used	bn:00082705v
+d001.s011.t030	。	X		
+d001.s012.t001	这	X	The	
+d001.s012.t002	种	N		bn:00078798n
+d001.s012.t003	药	N	medicine	bn:00054128n
+d001.s012.t004	必须	R		
+d001.s012.t005	凭	X	with	
+d001.s012.t006	处方	N	prescription	bn:00064195n
+d001.s012.t007	才	R		
+d001.s012.t008	能	V	can	
+d001.s012.t009	买到	V	obtained	bn:00082276v
+d001.s012.t010	。	X	.	
+d001.s013.t001	Alimta	N	Alimta	bn:00602447n
+d001.s013.t002	如何	R	How	bn:13606173r
+d001.s013.t003	使用	V	used	bn:00082705v
+d001.s013.t004	？	X	?	
+d001.s014.t001	Alimta	N	Alimta	bn:00602447n
+d001.s014.t002	只	R	only	bn:00116450r
+d001.s014.t003	能	V	should	
+d001.s014.t004	在	X	of	
+d001.s014.t005	具有	V		bn:00089241v
+d001.s014.t006	抗癌	A		bn:00097220a
+d001.s014.t007	化疗	N	chemotherapy	bn:00018141n
+d001.s014.t008	使用	N	use	bn:00030627n
+d001.s014.t009	资质	N	qualified	bn:00007294n
+d001.s014.t010	的	X	who	
+d001.s014.t011	医生	N	doctor	bn:00027976n
+d001.s014.t012	的	X	the	
+d001.s014.t013	监督	N	supervision	bn:00059908n
+d001.s014.t014	下	X	under	
+d001.s014.t015	使用	V	given	bn:00082705v
+d001.s014.t016	。	X	.	
+d001.s015.t001	Alimta	N	Alimta	bn:00602447n
+d001.s015.t002	的	X	The	
+d001.s015.t003	推荐	N	recommended	bn:00041086n
+d001.s015.t004	剂量	N	dose	bn:00028320n
+d001.s015.t005	为	V	is	
+d001.s015.t006	每	X	per	
+d001.s015.t007	平方米	N	metre	bn:00052501n
+d001.s015.t008	体表	N	surface	bn:00075374n
+d001.s015.t009	面积	N	area	bn:00005518n
+d001.s015.t010	500	X	500	
+d001.s015.t011	毫克	N	mg	bn:00054701n
+d001.s015.t012	（	X	(	
+d001.s015.t013	根据	V	using	bn:00082705v
+d001.s015.t014	患者	N	patient	bn:00061017n
+d001.s015.t015	的	X		
+d001.s015.t016	身高	N	height	bn:00043545n
+d001.s015.t017	和	X	and	
+d001.s015.t018	体重	N	weight	bn:00080831n
+d001.s015.t019	计算	V	calculated	bn:00084373v
+d001.s015.t020	）	X	)	
+d001.s015.t021	。	X	.	
+d001.s016.t001	每	X	every	
+d001.s016.t002	三	X	three	
+d001.s016.t003	周	N	weeks	bn:00043484n
+d001.s016.t004	进行	V	given	bn:00095355v
+d001.s016.t005	一	X		
+d001.s016.t006	次	N	once	bn:00000443n
+d001.s016.t007	静脉	A	intravenous	bn:00102230a
+d001.s016.t008	输	N		
+d001.s016.t009	注	N		
+d001.s016.t010	，	X		
+d001.s016.t011	每次	R		
+d001.s016.t012	持续	V		bn:00087620v
+d001.s016.t013	10	X	10	
+d001.s016.t014	分钟	N	minutes	bn:00055094n
+d001.s016.t015	。	X	.	
+d001.s017.t001	为了	X	To	
+d001.s017.t002	减少	V	reduce	bn:00084079v
+d001.s017.t003	副作用	N	effects	bn:00029874n
+d001.s017.t004	，	X	,	
+d001.s017.t005	患者	N	patients	bn:00061017n
+d001.s017.t006	在	X		
+d001.s017.t007	使用	V	with	bn:00082705v
+d001.s017.t008	Alimta	N	Alimta	bn:00602447n
+d001.s017.t009	治疗	V	treatment	bn:00084532v
+d001.s017.t010	期间	N	during	bn:00061605n
+d001.s017.t011	应该	V	should	
+d001.s017.t012	服用	V	receive	bn:00089246v
+d001.s017.t013	皮质类固醇	N	corticosteroid	bn:00001507n
+d001.s017.t014	和	X	and	
+d001.s017.t015	叶酸	N	folic acid	bn:00035585n
+d001.s017.t016	（	X	(	
+d001.s017.t017	一	X	a	
+d001.s017.t018	种	N	type	bn:00078798n
+d001.s017.t019	维生素	N	vitamin	bn:00080147n
+d001.s017.t020	）	X	)	
+d001.s017.t021	，	X	,	
+d001.s017.t022	并	R	and	bn:00114281r
+d001.s017.t023	注射	V	injections	bn:00089749v
+d001.s017.t024	维生素	N	vitamin	bn:00080147n
+d001.s017.t025	B12	N	B12	
+d001.s017.t026	。	X	.	
+d001.s018.t001	当	X	When	
+d001.s018.t002	Alimta	N	Alimta	bn:00602447n
+d001.s018.t003	与	X	with	
+d001.s018.t004	顺	A		
+d001.s018.t005	铂	N		
+d001.s018.t006	一起	R		bn:00114206r
+d001.s018.t007	服用	V	given	bn:00088826v
+d001.s018.t008	时	X		
+d001.s018.t009	，	X	,	
+d001.s018.t010	还	R	also	bn:00114246r
+d001.s018.t011	应	V	should	
+d001.s018.t012	在	X	the	
+d001.s018.t013	顺	A		
+d001.s018.t014	铂	N		
+d001.s018.t015	给	V		
+d001.s018.t016	药	N	dose	bn:00028320n
+d001.s018.t017	之前	R	before	bn:00114512r
+d001.s018.t018	或	X	or	
+d001.s018.t019	之后	R	after	bn:00114165r
+d001.s018.t020	给予	V	given	bn:00088826v
+d001.s018.t021	止吐	A	anti-emetic	bn:13787881a
+d001.s018.t022	药	N	medicine	bn:00054128n
+d001.s018.t023	（	X	(	
+d001.s018.t024	以	X	to	
+d001.s018.t025	防止	V	prevent	bn:00088454v
+d001.s018.t026	呕吐	N	vomiting	bn:00027565n
+d001.s018.t027	）	X	)	
+d001.s018.t028	和	X	and	
+d001.s018.t029	液体	N	fluids	bn:00035426n
+d001.s018.t030	（	X	(	
+d001.s018.t031	以	X	to	
+d001.s018.t032	防止	V	prevent	bn:00088454v
+d001.s018.t033	脱水	N		bn:00025983n
+d001.s018.t034	）	X	)	
+d001.s018.t035	。	X	.	
+d001.s019.t001	对于	X	in	
+d001.s019.t002	血细胞	N	blood	bn:00011346n
+d001.s019.t003	计数	N		bn:00023140n
+d001.s019.t004	异常	A	abnormal	bn:00096158a
+d001.s019.t005	或	X	or	
+d001.s019.t006	出现	V	have	bn:00088745v
+d001.s019.t007	其他	A	other	bn:00108011a
+d001.s019.t008	副作用	N	effects	bn:00029874n
+d001.s019.t009	的	X		
+d001.s019.t010	患者	N	patients	bn:00061017n
+d001.s019.t011	，	X	,	
+d001.s019.t012	应	V	should	
+d001.s019.t013	推迟	V	delayed	bn:00086514v
+d001.s019.t014	或	X	or	
+d001.s019.t015	停止	V	discontinued	bn:00083908v
+d001.s019.t016	治疗	N	Treatment	bn:00047235n
+d001.s019.t017	，	X	,	
+d001.s019.t018	或	X	or	
+d001.s019.t019	减少	V	reduced	bn:00084079v
+d001.s019.t020	剂量	N	dose	bn:00028320n
+d001.s019.t021	。	X	.	
+d001.s020.t001	不	R	not	bn:00116360r
+d001.s020.t002	建议	V	recommended	bn:00082418v
+d001.s020.t003	患有	V	with	bn:27229268v
+d001.s020.t004	中度	A	moderate	bn:00106826a
+d001.s020.t005	或	X	or	
+d001.s020.t006	重度	A	severe	bn:00110473a
+d001.s020.t007	肾脏	N	kidney	bn:00049083n
+d001.s020.t008	疾病	N	problems	bn:00048242n
+d001.s020.t009	的	X		
+d001.s020.t010	患者	N	patients	bn:00061017n
+d001.s020.t011	使用	V	use	bn:00082705v
+d001.s020.t012	Alimta	N	Alimta	bn:00602447n
+d001.s020.t013	。	X	.	
+d001.s021.t001	欲	V	For	
+d001.s021.t002	了解	V		bn:00095375v
+d001.s021.t003	更	R	more	bn:00116285r
+d001.s021.t004	多	X		
+d001.s021.t005	信息	N	information	bn:00025314n
+d001.s021.t006	，	X	,	
+d001.s021.t007	请	V		
+d001.s021.t008	参阅	V	see	bn:00087787v
+d001.s021.t009	产品	N	Product	bn:00064584n
+d001.s021.t010	特性	N	Characteristics	bn:00017761n
+d001.s021.t011	摘要	N	Summary	bn:00075142n
+d001.s021.t012	（	X	(	
+d001.s021.t013	也	R	also	bn:00114246r
+d001.s021.t014	是	V		
+d001.s021.t015	EPAR	N	EPAR	
+d001.s021.t016	的	X	the	
+d001.s021.t017	一部分	N	part	bn:00021395n
+d001.s021.t018	）	X	)	
+d001.s021.t019	。	X	.	
+d001.s022.t001	Alimta	N	Alimta	bn:00602447n
+d001.s022.t002	如何	R	How	bn:13606173r
+d001.s022.t003	发挥	V	work	bn:00087833v
+d001.s022.t004	作用	N		bn:00036822n
+d001.s022.t005	？	X	?	
+d001.s023.t001	Alimta	N	Alimta	bn:00602447n
+d001.s023.t002	中	X	,	
+d001.s023.t003	的	X	The	
+d001.s023.t004	活性	A	active	bn:00096387a
+d001.s023.t005	成分	N	substance	bn:00074986n
+d001.s023.t006	培美曲塞	N	pemetrexed	bn:00602447n
+d001.s023.t007	是	V	is	
+d001.s023.t008	一	X	a	
+d001.s023.t009	种	N		bn:00078798n
+d001.s023.t010	细胞	N		bn:00017027n
+d001.s023.t011	毒	A	cytotoxic	bn:00100866a
+d001.s023.t012	药物	N	medicine	bn:00054128n
+d001.s023.t013	（	X	(	
+d001.s023.t014	杀死	V	kills	bn:00090098v
+d001.s023.t015	正在	R	are	
+d001.s023.t016	分裂	V	dividing	bn:00087100v
+d001.s023.t017	的	X		
+d001.s023.t018	细胞	N		
+d001.s023.t019	，	X	,	
+d001.s023.t020	如	R	such as	bn:00115147r
+d001.s023.t021	癌细胞	N	cancer	bn:00015180n
+d001.s023.t022	的	X		
+d001.s023.t023	药物	N	medicine	bn:00054128n
+d001.s023.t024	）	X	)	
+d001.s023.t025	，	X	,	
+d001.s023.t026	属于	V	belongs	bn:00083389v
+d001.s023.t027	抗代谢药	N	antimetabolites	bn:00004691n
+d001.s023.t028	类	N	group	bn:00018111n
+d001.s023.t029	。	X	.	
+d001.s024.t001	在	X	In	
+d001.s024.t002	体内	N	body	bn:00011744n
+d001.s024.t003	，	X	,	
+d001.s024.t004	培美	N		
+d001.s024.t005	曲	N		
+d001.s024.t006	塞	N		
+d001.s024.t007	被	X	is	
+d001.s024.t008	转化	V		bn:00095091v
+d001.s024.t009	成	X	into	
+d001.s024.t010	活性	A	active	bn:00096387a
+d001.s024.t011	形式	N	form	bn:00035913n
+d001.s024.t012	，	X		
+d001.s024.t013	从而	R	that	bn:00117263r
+d001.s024.t014	抑制	V		bn:00084850v
+d001.s024.t015	参与	V	involved	bn:00089893v
+d001.s024.t016	生成	V	producing	bn:00084082v
+d001.s024.t017	核苷酸	N	nucleotides	bn:00008788n
+d001.s024.t018	（	X	(	
+d001.s024.t019	DNA	N	DNA	bn:00026301n
+d001.s024.t020	和	X	and	
+d001.s024.t021	RNA	N	RNA	bn:00067714n
+d001.s024.t022	的	X	of	
+d001.s024.t023	组成部分	N	building blocks	bn:00013726n
+d001.s024.t024	，	X	,	
+d001.s024.t025	即	V	the	
+d001.s024.t026	细胞	N	cells	bn:00017027n
+d001.s024.t027	的	X		
+d001.s024.t028	遗传物质	N	material	bn:00053801n
+d001.s024.t029	）	X	)	
+d001.s024.t030	的	X		
+d001.s024.t031	酶	N	enzymes	bn:00031085n
+d001.s024.t032	的	X		
+d001.s024.t033	活性	N	activity	bn:00001130n
+d001.s024.t034	。	X	.	
+d001.s025.t001	Alimta	N	Alimta	bn:00602447n
+d001.s025.t002	的	X		
+d001.s025.t003	研究	N	studied	bn:00067280n
+d001.s025.t004	进展	V	been	bn:00082400v
+d001.s025.t005	如何	R	How	bn:13703919r
+d001.s025.t006	？	X	?	
+d001.s026.t001	为了	X	For	
+d001.s026.t002	治疗	V	treatment	bn:00084532v
+d001.s026.t003	恶性	A	malignant	bn:00106363a
+d001.s026.t004	胸膜间	A	pleural	bn:00108692a
+d001.s026.t005	皮	N		
+d001.s026.t006	瘤	N		
+d001.s026.t007	，	X	,	
+d001.s026.t008	Alimta	N	Alimta	bn:00602447n
+d001.s026.t009	已	R	has	bn:00114245r
+d001.s026.t010	在	X	in	
+d001.s026.t011	一	X	one	
+d001.s026.t012	项	N		bn:00047730n
+d001.s026.t013	主要	A	main	bn:00099598a
+d001.s026.t014	研究	N	study	bn:00074790n
+d001.s026.t015	中	X		
+d001.s026.t016	对	X	in	
+d001.s026.t017	456	X	456	
+d001.s026.t018	名	N		bn:18091809n
+d001.s026.t019	之前	R	before	bn:00114512r
+d001.s026.t020	未	R	not	bn:00116360r
+d001.s026.t021	接受	V	received	bn:00087863v
+d001.s026.t022	过	X		
+d001.s026.t023	化疗	N	chemotherapy	bn:00018141n
+d001.s026.t024	的	X	who	
+d001.s026.t025	患者	N	patients	bn:00061017n
+d001.s026.t026	进行	V		bn:00087628v
+d001.s026.t027	了	X		
+d001.s026.t028	研究	N	studied	bn:00074790n
+d001.s026.t029	。	X	.	
+d001.s027.t001	比较	V	compared	bn:00085450v
+d001.s027.t002	了	X		
+d001.s027.t003	Alimta	N	Alimta	bn:00602447n
+d001.s027.t004	与	X	with	
+d001.s027.t005	顺	A		
+d001.s027.t006	铂	N		
+d001.s027.t007	联合	R	combination	bn:00115794r
+d001.s027.t008	治疗	V		bn:00084532v
+d001.s027.t009	与	X	with	
+d001.s027.t010	单独	R	alone	bn:00114234r
+d001.s027.t011	使用	V		bn:00082705v
+d001.s027.t012	顺	A		
+d001.s027.t013	铂	N		
+d001.s027.t014	治疗	V		bn:00084532v
+d001.s027.t015	的	X		
+d001.s027.t016	效果	N	effects	bn:00029874n
+d001.s027.t017	。	X	.	
+d001.s028.t001	在	X	For	
+d001.s028.t002	非	A		
+d001.s028.t003	小	A		
+d001.s028.t004	细胞	N	cell	bn:00017027n
+d001.s028.t005	肺癌	N	cancer	bn:00015180n
+d001.s028.t006	的	X	the	
+d001.s028.t007	治疗	N	treatment	bn:00047235n
+d001.s028.t008	方面	N		bn:00006382n
+d001.s028.t009	，	X	,	
+d001.s028.t010	一	X	one	
+d001.s028.t011	项	N	were	bn:00047730n
+d001.s028.t012	涉及	V	involving	bn:00089893v
+d001.s028.t013	571	X		
+d001.s028.t014	名	N		bn:18091809n
+d001.s028.t015	既往	R	past	bn:00114512r
+d001.s028.t016	接受	V	received	bn:00087863v
+d001.s028.t017	过	X		
+d001.s028.t018	化疗	N	chemotherapy	bn:00018141n
+d001.s028.t019	的	X	who	
+d001.s028.t020	局部	R	locally	bn:00116147r
+d001.s028.t021	晚期	A	advanced	bn:00096528a
+d001.s028.t022	或	X	or	
+d001.s028.t023	转移性	A	metastatic	bn:00096528a
+d001.s028.t024	疾病	N	disease	bn:00027546n
+d001.s028.t025	患者	N	patients	bn:00061017n
+d001.s028.t026	的	X		
+d001.s028.t027	研究	N	study	bn:00074790n
+d001.s028.t028	比较	V	compared	bn:00085450v
+d001.s028.t029	了	X		
+d001.s028.t030	Alimta	N	Alimta	bn:00602447n
+d001.s028.t031	与	X	with	
+d001.s028.t032	多西他赛	N	docetaxel	bn:01537207n
+d001.s028.t033	（	X	(	
+d001.s028.t034	另	X	another	
+d001.s028.t035	一	X		
+d001.s028.t036	种	N		bn:00078798n
+d001.s028.t037	抗癌	A	anticancer	bn:00097220a
+d001.s028.t038	药物	N	medicine	bn:00054128n
+d001.s028.t039	）	X	)	
+d001.s028.t040	的	X		
+d001.s028.t041	效果	N	effects	bn:00029874n
+d001.s028.t042	。	X	.	
+d001.s029.t001	在	X	in	
+d001.s029.t002	一	X	a	
+d001.s029.t003	项	N		bn:00047730n
+d001.s029.t004	涉及	V	involving	bn:00089893v
+d001.s029.t005	1725	X	1,725	
+d001.s029.t006	名	N		bn:18091809n
+d001.s029.t007	过去	N	past	bn:00060927n
+d001.s029.t008	未	R	not	bn:00116360r
+d001.s029.t009	接受	V	received	bn:00087863v
+d001.s029.t010	过	X		
+d001.s029.t011	化疗	N	chemotherapy	bn:00018141n
+d001.s029.t012	的	X	who	
+d001.s029.t013	肺癌	N	cancer	bn:00015180n
+d001.s029.t014	患者	N	patients	bn:00061017n
+d001.s029.t015	的	X	in	
+d001.s029.t016	研究	N	study	bn:00074790n
+d001.s029.t017	中	X		
+d001.s029.t018	，	X	,	
+d001.s029.t019	阿利泰	N		
+d001.s029.t020	还	R	also	bn:00114246r
+d001.s029.t021	与	X	with	
+d001.s029.t022	吉西他滨	N	cisplatin	bn:00577781n
+d001.s029.t023	(	X	(	
+d001.s029.t024	另	X	another	
+d001.s029.t025	一	X		
+d001.s029.t026	种	N		bn:00078798n
+d001.s029.t027	抗癌	A	anticancer	bn:00097220a
+d001.s029.t028	药	N	medicine	bn:00054128n
+d001.s029.t029	)	X	)	
+d001.s029.t030	进行	V		bn:00087628v
+d001.s029.t031	了	X		
+d001.s029.t032	比较	N	compared	bn:23824760n
+d001.s029.t033	，	X		
+d001.s029.t034	两者	N	both	
+d001.s029.t035	都	R		bn:00114203r
+d001.s029.t036	与	X	with	
+d001.s029.t037	顺	A		
+d001.s029.t038	铂	N		
+d001.s029.t039	联合	R	combination	bn:00115794r
+d001.s029.t040	使用	V		bn:00082705v
+d001.s029.t041	。	X		
+d001.s030.t001	在	X	In	
+d001.s030.t002	这	X	all	
+d001.s030.t003	三	X	three	
+d001.s030.t004	项	N		bn:00047730n
+d001.s030.t005	研究	N	studies	bn:00067181n
+d001.s030.t006	中	X		
+d001.s030.t007	，	X	,	
+d001.s030.t008	疗效	N	the	bn:00029876n
+d001.s030.t009	的	X	the	
+d001.s030.t010	主要	A	main	bn:00099598a
+d001.s030.t011	衡量标准	N	measure	bn:00054019n
+d001.s030.t012	是	V	was	
+d001.s030.t013	患者	N	patients	bn:00061017n
+d001.s030.t014	存活	V	survived	bn:00085382v
+d001.s030.t015	的	X	of	
+d001.s030.t016	时间	N	long	bn:00077267n
+d001.s030.t017	。	X	.	
+d001.s031.t001	Alimta	N	Alimta	bn:00602447n
+d001.s031.t002	在	X	the	
+d001.s031.t003	研究	N	studies	bn:00074790n
+d001.s031.t004	期间	N	during	bn:00061605n
+d001.s031.t005	显示出	V	shown	bn:00086567v
+d001.s031.t006	了	X		
+d001.s031.t007	什么	X	What	
+d001.s031.t008	益处	N	benefit	bn:00037022n
+d001.s031.t009	？	X	?	
+d001.s032.t001	Alimta	N	Alimta	bn:00602447n
+d001.s032.t002	延长	V	the	bn:00089667v
+d001.s032.t003	了	X		
+d001.s032.t004	恶性	A	malignant	bn:00106363a
+d001.s032.t005	胸膜间	A	pleural	bn:00108692a
+d001.s032.t006	皮	N		
+d001.s032.t007	瘤	N		
+d001.s032.t008	患者	N	patients	bn:00061017n
+d001.s032.t009	的	X		
+d001.s032.t010	生存	N	survival	bn:00030811n
+d001.s032.t011	时间	N	time	bn:00077268n
+d001.s032.t012	。	X	.	
+d001.s033.t001	接受	V	receiving	bn:00087863v
+d001.s033.t002	Alimta	N	Alimta	bn:00602447n
+d001.s033.t003	和	X	and	
+d001.s033.t004	顺	A		
+d001.s033.t005	铂	N		
+d001.s033.t006	治疗	N		bn:00047235n
+d001.s033.t007	的	X		
+d001.s033.t008	患者	N		bn:00061017n
+d001.s033.t009	平均	A	average	bn:00097854a
+d001.s033.t010	生存	V	survived	bn:00085382v
+d001.s033.t011	为	V	of	
+d001.s033.t012	12.1	X	12.1	
+d001.s033.t013	个	N		
+d001.s033.t014	月	N	months	bn:00055794n
+d001.s033.t015	，	X	,	
+d001.s033.t016	然而	R	compared	bn:00114627r
+d001.s033.t017	仅	R		bn:00114234r
+d001.s033.t018	接受	V	receiving	bn:00087863v
+d001.s033.t019	顺铂	N	cisplatin	bn:00577781n
+d001.s033.t020	治疗	N	alone	bn:00047235n
+d001.s033.t021	的	X		
+d001.s033.t022	患者	N	those	
+d001.s033.t023	平均	A		bn:00097854a
+d001.s033.t024	为	V		
+d001.s033.t025	9.3	X	9.3	
+d001.s033.t026	个	N		
+d001.s033.t027	月	N	months	bn:00055794n
+d001.s033.t028	。	X	.	
+d001.s034.t001	在	X	In	
+d001.s034.t002	治疗	V	treatment	bn:00084532v
+d001.s034.t003	非	A		
+d001.s034.t004	小	A		
+d001.s034.t005	细胞	N	cell	bn:00017027n
+d001.s034.t006	肺癌	N	cancer	bn:00015180n
+d001.s034.t007	患者	N	patients	bn:00061017n
+d001.s034.t008	方面	N		bn:00006382n
+d001.s034.t009	，	X	,	
+d001.s034.t010	Alimta	N	Alimta	bn:00602447n
+d001.s034.t011	与	X	as	
+d001.s034.t012	对照	A		bn:00097269a
+d001.s034.t013	药物	N		bn:00054128n
+d001.s034.t014	一样	R	as	bn:00114354r
+d001.s034.t015	有效	A	effective	bn:00102038a
+d001.s034.t016	。	X	.	
+d001.s035.t001	对于	X	In	
+d001.s035.t002	过去	N	past	bn:00060927n
+d001.s035.t003	接受	V	received	bn:00087863v
+d001.s035.t004	过	X	had	
+d001.s035.t005	化疗	N	chemotherapy	bn:00018141n
+d001.s035.t006	的	X	who	
+d001.s035.t007	患者	N	patients	bn:00061017n
+d001.s035.t008	，	X	,	
+d001.s035.t009	使用	V	with	bn:00082705v
+d001.s035.t010	Alimta	N	Alimta	bn:00602447n
+d001.s035.t011	治疗	V		bn:00084532v
+d001.s035.t012	后	X		
+d001.s035.t013	平均	A	average	bn:00097854a
+d001.s035.t014	生存	N		bn:00030811n
+d001.s035.t015	期	N	time	bn:00077268n
+d001.s035.t016	为	V	was	
+d001.s035.t017	8.3	X	8.3	
+d001.s035.t018	个	N		
+d001.s035.t019	月	N	months	bn:00055794n
+d001.s035.t020	，	X		
+d001.s035.t021	而	R	with	
+d001.s035.t022	使用	V	with	bn:00082705v
+d001.s035.t023	多西他赛	N	docetaxel	bn:01537207n
+d001.s035.t024	治疗	V		bn:00084532v
+d001.s035.t025	后	X		
+d001.s035.t026	平均	A		bn:00097854a
+d001.s035.t027	生存	N		bn:00030811n
+d001.s035.t028	期	N		bn:00077268n
+d001.s035.t029	为	V		
+d001.s035.t030	7.9	X	7.9	
+d001.s035.t031	个	N		
+d001.s035.t032	月	N	months	bn:00055794n
+d001.s035.t033	。	X		
+d001.s036.t001	对于	X	In	
+d001.s036.t002	既往	R	past	bn:00114512r
+d001.s036.t003	未	R	not	bn:00116360r
+d001.s036.t004	接受	V	received	bn:00087863v
+d001.s036.t005	过	X	had	
+d001.s036.t006	化疗	N	chemotherapy	bn:00018141n
+d001.s036.t007	的	X	who	
+d001.s036.t008	患者	N	patients	bn:00061017n
+d001.s036.t009	，	X	,	
+d001.s036.t010	两	X	both	
+d001.s036.t011	组	N	groups	bn:00041942n
+d001.s036.t012	平均	A	average	bn:00097854a
+d001.s036.t013	生存	N		bn:00030811n
+d001.s036.t014	期	N	time	bn:00077268n
+d001.s036.t015	均	R		bn:00114203r
+d001.s036.t016	为	V	was	
+d001.s036.t017	10.3	X	10.3	
+d001.s036.t018	个	N		
+d001.s036.t019	月	N	months	bn:00055794n
+d001.s036.t020	。	X	.	
+d001.s037.t001	然而	R	However	bn:00114627r
+d001.s037.t002	，	X	,	
+d001.s037.t003	在	X	in	
+d001.s037.t004	这	X		
+d001.s037.t005	两	X	both	
+d001.s037.t006	项	N		bn:00047730n
+d001.s037.t007	研究	N	studies	bn:00074790n
+d001.s037.t008	中	X		
+d001.s037.t009	，	X	,	
+d001.s037.t010	对于	X	whose	
+d001.s037.t011	癌症	N	cancer	bn:00015180n
+d001.s037.t012	未	R	not	bn:00116360r
+d001.s037.t013	影响	V		bn:00082427v
+d001.s037.t014	到	X		
+d001.s037.t015	鳞	N	squamous	
+d001.s037.t016	状	N		
+d001.s037.t017	细胞	N	cells	bn:00017027n
+d001.s037.t018	的	X		
+d001.s037.t019	患者	N	patients	bn:00061017n
+d001.s037.t020	，	X		
+d001.s037.t021	接受	V	received	bn:00087863v
+d001.s037.t022	Alimta	N	Alimta	bn:00602447n
+d001.s037.t023	治疗	N		bn:00047235n
+d001.s037.t024	的	X		
+d001.s037.t025	患者	N		
+d001.s037.t026	比	X	than	
+d001.s037.t027	接受	V	received	bn:00087863v
+d001.s037.t028	对照	A		bn:00097269a
+d001.s037.t029	药物	N		bn:00054128n
+d001.s037.t030	治疗	N		bn:00047235n
+d001.s037.t031	的	X		
+d001.s037.t032	患者	N	they	
+d001.s037.t033	存活	N	survival	bn:00030811n
+d001.s037.t034	时间	N	times	bn:00077268n
+d001.s037.t035	更	R		bn:00116285r
+d001.s037.t036	长	A	longer	bn:00106124a
+d001.s037.t037	。	X		
+d001.s038.t001	相反	R	contrast	bn:00114842r
+d001.s038.t002	，	X	,	
+d001.s038.t003	癌症	N	cancer	bn:00015180n
+d001.s038.t004	影响	V	affecting	bn:00082427v
+d001.s038.t005	鳞	N		
+d001.s038.t006	状	N		
+d001.s038.t007	细胞	N		bn:00017027n
+d001.s038.t008	的	X		
+d001.s038.t009	患者	N	patients	bn:00061017n
+d001.s038.t010	如果	X	if	
+d001.s038.t011	接受	V	received	bn:00087863v
+d001.s038.t012	Alimta	N	Alimta	bn:00602447n
+d001.s038.t013	治疗	N		bn:00047235n
+d001.s038.t014	则	R		bn:00117250r
+d001.s038.t015	存活	N	survival	bn:00030811n
+d001.s038.t016	时间	N	times	bn:00077268n
+d001.s038.t017	较	R		
+d001.s038.t018	短	A		
+d001.s038.t019	。	X	.	
+d002.s001.t001	kalgebra	N	kalgebra	bn:08534138n
+d002.s001.t002	是	V	is	
+d002.s001.t003	一个	X	a	
+d002.s001.t004	基于	V	based	bn:00083141v
+d002.s001.t005	内容	N	content	bn:00022153n
+d002.s001.t006	标记	N	markup	bn:00053491n
+d002.s001.t007	MathML	N	MathML	bn:03313895n
+d002.s001.t008	语言	N	language	bn:00213650n
+d002.s001.t009	的	X		
+d002.s001.t010	数学	N		bn:00053823n
+d002.s001.t011	计算器	N	calculator	bn:00946167n
+d002.s001.t012	。	X	.	
+d002.s002.t001	现在	R	Nowadays	bn:00116382r
+d002.s002.t002	它	X	it	
+d002.s002.t003	能够	V	capable	bn:13601970v
+d002.s002.t004	进行	V	make	bn:00090557v
+d002.s002.t005	简单	A	simple	bn:00102111a
+d002.s002.t006	的	X		
+d002.s002.t007	MathML	N	MathML	bn:03313895n
+d002.s002.t008	运算	N		bn:00059128n
+d002.s002.t009	（	X	(	
+d002.s002.t010	算术的	A	arithmetic	bn:00097495a
+d002.s002.t011	和	X	and	
+d002.s002.t012	逻辑的	A	logical	bn:00105862a
+d002.s002.t013	）	X	)	
+d002.s002.t014	以及	X	and	
+d002.s002.t015	表示	V	representate	bn:00086557v
+d002.s002.t016	2D	N	2D	
+d002.s002.t017	和	X	and	
+d002.s002.t018	3D	N	3D	bn:00000102n
+d002.s002.t019	图形	N	graphs	bn:00041412n
+d002.s002.t020	。	X	.	
+d002.s003.t001	实际上	R	actually	bn:00114118r
+d002.s003.t002	，	X		
+d002.s003.t003	不	R	not	bn:00116360r
+d002.s003.t004	需要	V	necessary	bn:00091028v
+d002.s003.t005	了解	V	know	bn:00085261v
+d002.s003.t006	MathML	N	MathML	bn:03313895n
+d002.s003.t007	就	R		bn:00114626r
+d002.s003.t008	可以	V	to	
+d002.s003.t009	使用	V	use	bn:00082705v
+d002.s003.t010	kalgebra	N	kalgebra	bn:08534138n
+d002.s003.t011	。	X	.	
+d002.s004.t001	kalgebra	N	kalgebra	bn:08534138n
+d002.s004.t002	是	V	is	
+d002.s004.t003	一个	X	a	
+d002.s004.t004	基于	V	based	bn:00083141v
+d002.s004.t005	MathML	N	MathML	bn:03313895n
+d002.s004.t006	的	X		
+d002.s004.t007	图形	N	graph	bn:00041412n
+d002.s004.t008	计算器	N	calculator	bn:00946167n
+d002.s004.t009	。	X	.	
+d002.s005.t001	尽管	X	Although	
+d002.s005.t002	它	X	it	
+d002.s005.t003	最初	R	initially	bn:00114055r
+d002.s005.t004	是	V	was	
+d002.s005.t005	面向	V	oriented	bn:00091201v
+d002.s005.t006	MathML	N	MathML	bn:03313895n
+d002.s005.t007	的	X		
+d002.s005.t008	，	X		
+d002.s005.t009	但是	R		bn:00114216r
+d002.s005.t010	现在	R	now	bn:00114424r
+d002.s005.t011	任何	X	everyone	
+d002.s005.t012	具有	V	with	bn:00089241v
+d002.s005.t013	少量	A	little	bn:00106058a
+d002.s005.t014	数学	A	mathematical	bn:00106488a
+d002.s005.t015	知识	N	knowledge	bn:00020452n
+d002.s005.t016	的	X		
+d002.s005.t017	人	N	by	bn:00061450n
+d002.s005.t018	都	R		bn:00114203r
+d002.s005.t019	可以	V	can	
+d002.s005.t020	使用	V	used	bn:00082705v
+d002.s005.t021	它	X	it	
+d002.s005.t022	。	X		
+d002.s006.t001	这	X	Here	
+d002.s006.t002	是	V	s	
+d002.s006.t003	kalgebra	N	kalgebra	bn:08534138n
+d002.s006.t004	主	A	main	bn:00099598a
+d002.s006.t005	窗口	N	window	bn:00081292n
+d002.s006.t006	的	X	of	
+d002.s006.t007	屏幕截图	N	screenshot	bn:01157212n
+d002.s007.t001	kalgebra	N	kalgebra	bn:08534138n
+d002.s007.t002	主窗口	N	window	bn:00081292n
+d002.s008.t001	kalgebra	N	kalgebra	bn:08534138n
+d002.s008.t002	主窗口	N	window	bn:00081292n
+d002.s008.t003	由	X	in	
+d002.s008.t004	一	X	a	
+d002.s008.t005	个	N		
+d002.s008.t006	控制台	N	Console	bn:00020949n
+d002.s008.t007	选项	N		
+d002.s008.t008	卡	N	tab	bn:00120018n
+d002.s008.t009	、	X	,	
+d002.s008.t010	一	X	a	
+d002.s008.t011	个	N		
+d002.s008.t012	二维	N	2D	bn:00780722n
+d002.s008.t013	图形	N	Graph	bn:00041412n
+d002.s008.t014	选项	N		
+d002.s008.t015	卡	N	tab	bn:00120018n
+d002.s008.t016	、	X	,	
+d002.s008.t017	一个	X	a	
+d002.s008.t018	三维	N	3D	bn:15649186n
+d002.s008.t019	图形	N		
+d002.s008.t020	选项	N		
+d002.s008.t021	卡	N	tab	bn:00120018n
+d002.s008.t022	和	X	and	
+d002.s008.t023	一	X		
+d002.s008.t024	个	N		
+d002.s008.t025	词典	N	Dictionary	bn:00026967n
+d002.s008.t026	选项	N		
+d002.s008.t027	卡	N		
+d002.s008.t028	组成	V	consists	bn:00085498v
+d002.s008.t029	。	X	.	
+d002.s009.t001	在	X		
+d002.s009.t002	这些	X	these	
+d002.s009.t003	选项卡	N	tabs	bn:00120018n
+d002.s009.t004	下面	R	Below	bn:00114401r
+d002.s009.t005	，	X		
+d002.s009.t006	您	X	you	
+d002.s009.t007	将	X	will	
+d002.s009.t008	看到	V	find	bn:00086708v
+d002.s009.t009	一	X	an	
+d002.s009.t010	个	N		
+d002.s009.t011	输入	N	input	bn:00046850n
+d002.s009.t012	字段	N	field	bn:00034274n
+d002.s009.t013	，	X		
+d002.s009.t014	您	X	your	
+d002.s009.t015	可以	V		
+d002.s009.t016	用	V		bn:00082711v
+d002.s009.t017	它	X		
+d002.s009.t018	来	X	to	
+d002.s009.t019	输入	V	type	bn:00095295v
+d002.s009.t020	函数	N	functions	bn:00036821n
+d002.s009.t021	或	X	or	
+d002.s009.t022	进行	V	do	bn:00087107v
+d002.s009.t023	计算	N	calculations	bn:00014688n
+d002.s009.t024	。	X		
+d002.s010.t001	如果	X	If	
+d002.s010.t002	我们	X	we	
+d002.s010.t003	想	V	want	bn:00086682v
+d002.s010.t004	了解	V	understand	bn:00092443v
+d002.s010.t005	它	X	it	
+d002.s010.t006	是	V	is	
+d002.s010.t007	如何	R	how	bn:13606173r
+d002.s010.t008	工作	V	works	bn:00088629v
+d002.s010.t009	的	X		
+d002.s010.t010	，	X	,	
+d002.s010.t011	我们	X	we	
+d002.s010.t012	能	V	can	
+d002.s010.t013	做	V	do	bn:00087107v
+d002.s010.t014	的	X		
+d002.s010.t015	最	R		
+d002.s010.t016	好	A	best	bn:00098274a
+d002.s010.t017	的	X	the	
+d002.s010.t018	事情	N	thing	bn:00076919n
+d002.s010.t019	就是	R	is	bn:00115715r
+d002.s010.t020	意识到	V	realize	bn:00082472v
+d002.s010.t021	我们	X	our	
+d002.s010.t022	的	X		
+d002.s010.t023	输入	N	input	bn:00046850n
+d002.s010.t024	正在	R	being	
+d002.s010.t025	转换	V	converted	bn:00084772v
+d002.s010.t026	成	V	into	bn:00083294v
+d002.s010.t027	MathML	N	MathML	bn:03313895n
+d002.s010.t028	，	X	it	
+d002.s010.t029	尽管	X	although	
+d002.s010.t030	没有	V	not	bn:00090161v
+d002.s010.t031	必要	N	necessary	bn:00057131n
+d002.s010.t032	了解	V	know	bn:00085261v
+d002.s010.t033	MathML	N	MathML	bn:03313895n
+d002.s010.t034	。	X		
+d002.s011.t001	我	X	I	
+d002.s011.t002	的	X	the	
+d002.s011.t003	语法	N	syntax	bn:02561609n
+d002.s011.t004	基本上	R	basically	bn:00114508r
+d002.s011.t005	是	V	have	
+d002.s011.t006	基于	V	based	bn:00083141v
+d002.s011.t007	常识	N	sense	bn:00021164n
+d002.s011.t008	的	X		
+d002.s011.t009	，	X	,	
+d002.s011.t010	对于	X	for	
+d002.s011.t011	任何	X		
+d002.s011.t012	人	N	anyone	bn:02268723n
+d002.s011.t013	来说	X		
+d002.s011.t014	这	X	it	
+d002.s011.t015	都	R		bn:00114203r
+d002.s011.t016	应该	V	should	
+d002.s011.t017	不	R	not	bn:00116360r
+d002.s011.t018	难	A	hard	bn:00101358a
+d002.s011.t019	。	X	.	
+d002.s012.t001	我	X	I	
+d002.s012.t002	仔细	R	closely	bn:00114748r
+d002.s012.t003	研究	V	looked	bn:00090448v
+d002.s012.t004	了	X		
+d002.s012.t005	maxima	N	maxima	bn:03857246n
+d002.s012.t006	和	X	and	
+d002.s012.t007	maple	N	maple	bn:03668936n
+d002.s012.t008	的	X	s	
+d002.s012.t009	语法	N	syntax	bn:02561609n
+d002.s012.t010	，	X	so	
+d002.s012.t011	发现	V		bn:00086708v
+d002.s012.t012	它们	X	they	
+d002.s012.t013	看起来	V	look	bn:00090452v
+d002.s012.t014	非常	R	very	bn:00116789r
+d002.s012.t015	相似	A	similar	bn:00096782a
+d002.s012.t016	。	X	.	
+d002.s013.t001	#ERROR!	X	#ERROR!	
+d002.s013.t002	-	X	-	
+d002.s013.t003	*	X	*	
+d002.s013.t004	/	X	/	
+d002.s013.t005	：	X	:	
+d002.s013.t006	加	N	Addition	bn:00001296n
+d002.s013.t007	、	X		
+d002.s013.t008	减	N	subtraction	bn:00055233n
+d002.s013.t009	、	X	,	
+d002.s013.t010	乘	N		bn:00056300n
+d002.s013.t011	、	X		
+d002.s013.t012	除	N		bn:00027919n
+d002.s013.t013	。	X	.	
+d002.s014.t001	^	X	^	
+d002.s014.t002	，	X	,	
+d002.s014.t003	*	X		
+d002.s014.t004	*	X		
+d002.s014.t005	：	X	:	
+d002.s014.t006	幂	N	Power	bn:00032355n
+d002.s014.t007	，	X		
+d002.s014.t008	你	X	you	
+d002.s014.t009	可以	V	can	
+d002.s014.t010	同时	R	both	bn:00114206r
+d002.s014.t011	使用	V	use	bn:00082705v
+d002.s014.t012	它们	X	them	
+d002.s014.t013	。	X		
+d002.s015.t001	也	R	Also	bn:00114246r
+d002.s015.t002	可以	V	possible	
+d002.s015.t003	使用	V	use	bn:00082705v
+d002.s015.t004	unicode²	N	²	bn:02529895n
+d002.s015.t005	字符	N	characters	bn:16907601n
+d002.s015.t006	。	X	.	
+d002.s016.t001	幂	N	Powers	bn:00032355n
+d002.s016.t002	也是	V	are	
+d002.s016.t003	建立	V	make	bn:00090557v
+d002.s016.t004	根	N	roots	bn:00068247n
+d002.s016.t005	的	X		
+d002.s016.t006	一	X	one	
+d002.s016.t007	种	N		bn:00078798n
+d002.s016.t008	方法	N	way	bn:00001965n
+d002.s016.t009	。	X	.	
+d002.s017.t001	-	X		
+d002.s017.t002	gt	N		
+d002.s017.t003	：	X	:	
+d002.s017.t004	这	X	It	
+d002.s017.t005	是	V	the	
+d002.s017.t006	在	X	in	
+d002.s017.t007	函数	N	function	bn:00036821n
+d002.s017.t008	中	X		
+d002.s017.t009	指定	V	specify	bn:00086468v
+d002.s017.t010	有	V		
+d002.s017.t011	界	N		
+d002.s017.t012	变量	N	variable	bn:00079583n
+d002.s017.t013	的	X	the	
+d002.s017.t014	方法	N		bn:00001965n
+d002.s017.t015	。	X	.	
+d002.s018.t001	（	X	(	
+d002.s018.t002	）	X	)	
+d002.s018.t003	：	X	:	
+d002.s018.t004	用于	V	used	bn:00082705v
+d002.s018.t005	指定	V	specify	bn:00086468v
+d002.s018.t006	较	R		
+d002.s018.t007	高	A	higher	bn:00104162a
+d002.s018.t008	的	X	a	
+d002.s018.t009	优先级	N	priority	bn:00004489n
+d002.s018.t010	。	X	.	
+d002.s019.t001	abc	N		
+d002.s019.t002	(	X		
+d002.s019.t003	params	N		
+d002.s019.t004	)	X		
+d002.s019.t005	：	X	:	
+d002.s019.t006	当	X	When	
+d002.s019.t007	解析器	N	parser	bn:00060753n
+d002.s019.t008	找到	V	finds	bn:00082811v
+d002.s019.t009	一个	X	a	
+d002.s019.t010	函数	N	function	bn:00036821n
+d002.s019.t011	时	X		
+d002.s019.t012	，	X	,	
+d002.s019.t013	它	X	it	
+d002.s019.t014	会	V		
+d002.s019.t015	检查	V	checks	bn:00082813v
+d002.s019.t016	abc	N	abc	
+d002.s019.t017	是否	R	if	
+d002.s019.t018	是	V	is	
+d002.s019.t019	一个	X	an	
+d002.s019.t020	运算	N	operator	bn:00059141n
+d002.s019.t021	符	N		
+d002.s019.t022	。	X	.	
+d002.s020.t001	如果	X	If	
+d002.s020.t002	是	V	is	
+d002.s020.t003	，	X	,	
+d002.s020.t004	它	X	it	
+d002.s020.t005	将	X	will	
+d002.s020.t006	被	X	be	
+d002.s020.t007	视为	V	treated	bn:00095141v
+d002.s020.t008	运算符	N	operator	bn:00059141n
+d002.s020.t009	，	X	,	
+d002.s020.t010	如果	X	if	
+d002.s020.t011	不是	V	not	bn:27110432v
+d002.s020.t012	，	X	,	
+d002.s020.t013	它	X	it	
+d002.s020.t014	将	R	will	
+d002.s020.t015	被	X	be	
+d002.s020.t016	视为	V	treated	bn:00095141v
+d002.s020.t017	用户	N	user	bn:00079373n
+d002.s020.t018	函数	N	function	bn:00036821n
+d002.s020.t019	。	X	.	
+d002.s021.t001	：	X	:	
+d002.s021.t002	#ERROR!	X	#ERROR!	
+d002.s021.t003	：	X	:	
+d002.s021.t004	用于	V	used	bn:00082705v
+d002.s021.t005	定义	V	define	bn:00086468v
+d002.s021.t006	一个	X	a	
+d002.s021.t007	变量	N	variable	bn:00079583n
+d002.s021.t008	值	N	value	bn:00079508n
+d002.s021.t009	。	X	.	
+d002.s022.t001	？	X	?	
+d002.s022.t002	：	X	:	
+d002.s022.t003	分段	N		bn:03132721n
+d002.s022.t004	条件	A	condition	bn:00100214a
+d002.s022.t005	定义	N	definition	bn:00025928n
+d002.s022.t006	。	X	.	
+d002.s023.t001	我们	X	we	
+d002.s023.t002	可以	V	can	
+d002.s023.t003	在	X	in	
+d002.s023.t004	kalgebra	N	kalgebra	bn:08534138n
+d002.s023.t005	中	X		
+d002.s023.t006	定义	V	define	bn:00086468v
+d002.s023.t007	条件	A	conditional	bn:00100214a
+d002.s023.t008	运算	N	operations	bn:00053826n
+d002.s023.t009	的	X		
+d002.s023.t010	方式	N	way	bn:00054625n
+d002.s023.t011	是	V	is	
+d002.s023.t012	分段	N	Piecewise	bn:03132721n
+d002.s023.t013	方式	N		
+d002.s023.t014	。	X	.	
+d002.s024.t001	如果	X	If	
+d002.s024.t002	我们	X	we	
+d002.s024.t003	在			
+d002.s024.t004	?	X	?	
+d002.s024.t005	之前	N	before	bn:00060927n
+d002.s024.t006	引入	V	introduce	bn:00087681v
+d002.s024.t007	条件	N	condition	bn:00021645n
+d002.s024.t008	，	X		
+d002.s024.t009	则	R		bn:00117250r
+d002.s024.t010	仅	R	only	bn:00114626r
+d002.s024.t011	当	X	if	
+d002.s024.t012	条件	N		
+d002.s024.t013	为	V		
+d002.s024.t014	真	N	TRUE	bn:00855623n
+d002.s024.t015	时	X		
+d002.s024.t016	才	X		
+d002.s024.t017	会	X	will	
+d002.s024.t018	使用	V	use	bn:00082705v
+d002.s024.t019	此	X	this	
+d002.s024.t020	条件	N	condition	bn:00021645n
+d002.s024.t021	，	X	,	
+d002.s024.t022	如果	X	if	
+d002.s024.t023	发现	V	finds	bn:00086708v
+d002.s024.t024	没有	V	without	bn:00090161v
+d002.s024.t025	任何	X	any	
+d002.s024.t026	条件	N	condition	bn:00021645n
+d002.s024.t027	的	X		
+d002.s024.t028	?	X	?	
+d002.s024.t029	，	X		
+d002.s024.t030	它	X	it	
+d002.s024.t031	将	X	will	
+d002.s024.t032	进入	V	enter	bn:00085363v
+d002.s024.t033	最后	A	last	bn:00102969a
+d002.s024.t034	一	X		
+d002.s024.t035	个	N	the	
+d002.s024.t036	实例	N	instance	bn:00016401n
+d002.s024.t037	。	X	.	
+d002.s025.t001	{	X	{	
+d002.s025.t002	}	X	}	
+d002.s025.t003	：	X	:	
+d002.s025.t004	MathML	N	MathML	bn:03313895n
+d002.s025.t005	容器	N	container	bn:03305154n
+d002.s025.t006	。	X	.	
+d002.s026.t001	它	X	It	
+d002.s026.t002	可	V	can	
+d002.s026.t003	用于	V	used	bn:00082705v
+d002.s026.t004	定义	V	define	bn:00086466v
+d002.s026.t005	一个	X	a	
+d002.s026.t006	容器	N	container	bn:03305154n
+d002.s026.t007	。	X	.	
+d002.s027.t001	主要	R	Mainly	bn:00114714r
+d002.s027.t002	用于	V	for	bn:00082705v
+d002.s027.t003	分段	N	piecewise	bn:03132721n
+d002.s027.t004	工作	N	working	bn:00081568n
+d002.s027.t005	。	X	.	
+d002.s028.t001	现在	R	Now	bn:00114424r
+d002.s028.t002	您	X	you	
+d002.s028.t003	可能	V	could	
+d002.s028.t004	会	V		
+d002.s028.t005	问	V	ask	bn:00082821v
+d002.s028.t006	我	X	me	
+d002.s028.t007	，	X	,	
+d002.s028.t008	用户	N	user	bn:00079373n
+d002.s028.t009	为什么	R	why	
+d002.s028.t010	要	V	should	
+d002.s028.t011	介意	V	about	
+d002.s028.t012	MathML	N	MathML	bn:03313895n
+d002.s028.t013	？	X	?	
+d002.s029.t001	这	X	this	
+d002.s029.t002	很	R	That	bn:00115619r
+d002.s029.t003	简单	A	easy	bn:00101973a
+d002.s029.t004	。	X	.	
+d002.s029.t005	有	V	With	
+d002.s029.t006	了	X		
+d002.s029.t007	它	X		
+d002.s029.t008	，	X	,	
+d002.s029.t009	我们	X	we	
+d002.s029.t010	就	R		bn:00114626r
+d002.s029.t011	可以	V	can	
+d002.s029.t012	操作	V	operate	bn:00085744v
+d002.s029.t013	cos	N		
+d002.s029.t014	(	X		
+d002.s029.t015	)	X		
+d002.s029.t016	、	X	,	
+d002.s029.t017	sin	N		
+d002.s029.t018	(	X		
+d002.s029.t019	)	X		
+d002.s029.t020	等	R		bn:00114282r
+d002.s029.t021	函数	N	functions	bn:00036821n
+d002.s029.t022	，	X		
+d002.s029.t023	以及	X		
+d002.s029.t024	任何	X	any	
+d002.s029.t025	其他	A	other	bn:00108011a
+d002.s029.t026	三角	N		
+d002.s029.t027	函数	N	functions	bn:00036821n
+d002.s029.t028	、	X		
+d002.s029.t029	sum	N		
+d002.s029.t030	(	X		
+d002.s029.t031	)	X		
+d002.s029.t032	或	X	or	
+d002.s029.t033	product	N		
+d002.s029.t034	(	X		
+d002.s029.t035	)	X		
+d002.s029.t036	。	X	.	
+d002.s030.t001	不管	R	matter	bn:00115067r
+d002.s030.t002	是	V	is	
+d002.s030.t003	哪	X	what	
+d002.s030.t004	种	N		bn:00078798n
+d002.s030.t005	类型	N	kind	bn:00035907n
+d002.s030.t006	。	X	.	
+d002.s031.t001	我们	X	We	
+d002.s031.t002	可以	V	can	
+d002.s031.t003	使用	V	use	bn:00082705v
+d002.s031.t004	plus	N		
+d002.s031.t005	(	X		
+d002.s031.t006	)	X		
+d002.s031.t007	、	X	,	
+d002.s031.t008	times	N		
+d002.s031.t009	(	X		
+d002.s031.t010	)	X		
+d002.s031.t011	以及	X	and	
+d002.s031.t012	所有	X	everything	
+d002.s031.t013	带有	V	has	bn:00088078v
+d002.s031.t014	其	X	its	
+d002.s031.t015	运算符	N		
+d002.s031.t016	的	X		
+d002.s031.t017	函数	N	operator	bn:00059141n
+d002.s031.t018	。	X	.	
+d002.s032.t001	kalgebra	N	kalgebra	bn:08534138n
+d002.s032.t002	的	X	s	
+d002.s032.t003	控制台	N	console	
+d002.s032.t004	可	V	is	
+d002.s032.t005	用作	V	as	bn:00082295v
+d002.s032.t006	计算器	N	calculator	bn:00946167n
+d002.s032.t007	。	X	.	
+d002.s033.t001	这里	X	There	
+d002.s033.t002	有	V	have	bn:00088078v
+d002.s033.t003	一个	X	a	
+d002.s033.t004	已	R		bn:00114245r
+d002.s033.t005	声明	V	declared	bn:00082638v
+d002.s033.t006	变量	N	variables	bn:00079583n
+d002.s033.t007	的	X	the	
+d002.s033.t008	列表	N	list	bn:00051508n
+d002.s033.t009	。	X	.	
+d002.s034.t001	通过	X	By	
+d002.s034.t002	双击	V	double	
+d002.s034.t003	它们	X	them	
+d002.s034.t004	，	X		
+d002.s034.t005	您	X	you	
+d002.s034.t006	将	X	will	
+d002.s034.t007	看到	V	see	bn:00084662v
+d002.s034.t008	一	X	a	
+d002.s034.t009	个	N		
+d002.s034.t010	对话框	N	log	bn:00051831n
+d002.s034.t011	，	X	lets	
+d002.s034.t012	您	X	you	
+d002.s034.t013	可以	V	to	
+d002.s034.t014	更改	V	change	bn:00082553v
+d002.s034.t015	它们	X	their	
+d002.s034.t016	的	X	the	
+d002.s034.t017	值	N	values	bn:00079508n
+d002.s034.t018	（	X	(	
+d002.s034.t019	这	X		
+d002.s034.t020	只	R	just	bn:00114626r
+d002.s034.t021	是	V		
+d002.s034.t022	一	X	a	
+d002.s034.t023	种	N		bn:00078798n
+d002.s034.t024	欺骗	V	trick	bn:00088310v
+d002.s034.t025	日志	N		bn:00051831n
+d002.s034.t026	的	X		
+d002.s034.t027	方法	N	way	bn:00001965n
+d002.s034.t028	）	X	)	
+d002.s034.t029	。	X	.	
+d002.s035.t001	每次	R	Every	
+d002.s035.t002	输入	V	enter	bn:00087679v
+d002.s035.t003	表达式	N	expression	bn:00032395n
+d002.s035.t004	时	X	time	
+d002.s035.t005	，	X	,	
+d002.s035.t006	“	X		
+d002.s035.t007	”	X		
+d002.s035.t008	和	X	ans	
+d002.s035.t009	“	X		
+d002.s035.t010	”	X		
+d002.s035.t011	变量	N	variable	bn:00079583n
+d002.s035.t012	值	N	value	bn:00079508n
+d002.s035.t013	都会	V	will	
+d002.s035.t014	更改	V	changed	bn:00082553v
+d002.s035.t015	为	X	to	
+d002.s035.t016	最后	A	last	bn:00100203a
+d002.s035.t017	一个	X	the	
+d002.s035.t018	结果	N	result	bn:00034520n
+d002.s035.t019	。	X	.	
+d002.s036.t001	Ctrl	N	Ctrl	bn:00020947n
+d002.s036.t002	N	N	N	bn:00056688n
+d002.s036.t003	新	A	New	bn:00107267a
+d002.s036.t004	窗口	N	Window	bn:00081292n
+d002.s037.t001	刷新	V	Flushes	
+d002.s037.t002	日志	N	log	bn:00051831n
+d002.s037.t003	。	X	.	
+d002.s038.t001	Ctrl	N	Ctrl	bn:00020947n
+d002.s038.t002	L	N	L	bn:00049538n
+d002.s038.t003	加载	V	Load	bn:00090416v
+d002.s038.t004	脚本	N	Script	bn:00012062n
+d002.s039.t001	按	X		
+d002.s039.t002	顺序	N	sequentially	bn:00059306n
+d002.s039.t003	执行	V		bn:00087823v
+d002.s039.t004	文件	N	file	bn:00021475n
+d002.s039.t005	中	X	in	
+d002.s039.t006	的	X	the	
+d002.s039.t007	指令	N	instructions	bn:00020945n
+d002.s039.t008	。	X	.	
+d002.s040.t001	如果	X	if	
+d002.s040.t002	您	X	you	
+d002.s040.t003	想	V	want	bn:00086682v
+d002.s040.t004	定义	V	define	bn:00086466v
+d002.s040.t005	一些	A	some	bn:00110911a
+d002.s040.t006	库	N	libraries	bn:00050969n
+d002.s040.t007	或者	X	or	
+d002.s040.t008	恢复	V	resume	bn:00092413v
+d002.s040.t009	一些	A	some	bn:00110911a
+d002.s040.t010	以前	A	previous	bn:00107791a
+d002.s040.t011	的	X		
+d002.s040.t012	工作	N	work	bn:00081568n
+d002.s040.t013	，	X		
+d002.s040.t014	那	R		
+d002.s040.t015	就	X		
+d002.s040.t016	太	R		
+d002.s040.t017	好	A	Nice	bn:00107292a
+d002.s040.t018	了	X		
+d002.s040.t019	。	X		
+d002.s041.t001	Ctrl	N	Ctrl	bn:00020947n
+d002.s041.t002	G	N	G	bn:00036962n
+d002.s041.t003	保存	V	Save	bn:00093281v
+d002.s041.t004	脚本	N	Script	bn:00012062n
+d002.s042.t001	保存	V	Saves	bn:00093281v
+d002.s042.t002	您	X	you	
+d002.s042.t003	自	X		
+d002.s042.t004	会话	N	session	bn:03751534n
+d002.s042.t005	开始	V	began	bn:00083344v
+d002.s042.t006	以来	X	since	
+d002.s042.t007	键入	V	typed	bn:00095295v
+d002.s042.t008	的	X	the	
+d002.s042.t009	指令	N	instructions	bn:00020945n
+d002.s042.t010	，	X		
+d002.s042.t011	以便	R		
+d002.s042.t012	能够	V	able	bn:13601970v
+d002.s042.t013	重复使用	V	reuse	bn:00092558v
+d002.s042.t014	。	X	.	
+d002.s043.t001	生成	V	Generates	bn:00084080v
+d002.s043.t002	文本	N	text	bn:00076732n
+d002.s043.t003	文件	N	files	bn:00021475n
+d002.s043.t004	，	X	,	
+d002.s043.t005	因此	R	so	
+d002.s043.t006	使用	V	using	bn:00082705v
+d002.s043.t007	任何	X	any	
+d002.s043.t008	文本	N	text	bn:00076732n
+d002.s043.t009	编辑器	N	editor	bn:00029775n
+d002.s043.t010	（	X		
+d002.s043.t011	如	X	like	
+d002.s043.t012	Kate	N	Kate	bn:03628723n
+d002.s043.t013	）	X		
+d002.s043.t014	都	R		bn:00114203r
+d002.s043.t015	可以	V	should	
+d002.s043.t016	轻松	R	easy	bn:00115155r
+d002.s043.t017	修复	V	fix	bn:00084308v
+d002.s043.t018	。	X	.	
+d002.s044.t001	Ctrl	N	Ctrl	bn:00020947n
+d002.s044.t002	S	N	S	bn:00068673n
+d002.s044.t003	保存	N	Log	bn:00051831n
+d002.s044.t004	日志	N		bn:00051831n
+d002.s045.t001	将	X		
+d002.s045.t002	所有	X	all	
+d002.s045.t003	结果	N	results	bn:00034520n
+d002.s045.t004	的	X	the	
+d002.s045.t005	日志	N	log	bn:00051831n
+d002.s045.t006	保存	V		bn:00085644v
+d002.s045.t007	到	X	into	
+d002.s045.t008	HTML	N	HTML	bn:00045087n
+d002.s045.t009	文件	N	file	bn:00021475n
+d002.s045.t010	中	X	an	
+d002.s045.t011	，	X	to	
+d002.s045.t012	以便	R		
+d002.s045.t013	打印	V	print	bn:00089639v
+d002.s045.t014	或	X	or	
+d002.s045.t015	发布	V	publish	bn:00084099v
+d002.s045.t016	。	X	.	
+d002.s046.t001	Ctrl	N	Ctrl	bn:00020947n
+d002.s046.t002	Q	N	Q	bn:00065472n
+d002.s046.t003	退出	V	Quit	bn:00084710v
+d002.s047.t001	关闭	V	Shuts	bn:00085170v
+d002.s047.t002	程序	N	program	bn:00021492n
+d002.s047.t003	。	X	.	
+d002.s048.t001	要	V	To	
+d002.s048.t002	在	X	in	
+d002.s048.t003	kalgebra	N	kalgebra	bn:08534138n
+d002.s048.t004	上	X	on	
+d002.s048.t005	添加	V	add	bn:00082317v
+d002.s048.t006	新	A	new	bn:00107267a
+d002.s048.t007	的	X	the	
+d002.s048.t008	2D	N	2D	
+d002.s048.t009	图形	N	graph	bn:00041412n
+d002.s048.t010	，	X	,	
+d002.s048.t011	您	X	you	
+d002.s048.t012	需要	V	have	bn:00091028v
+d002.s048.t013	做	V	do	bn:00087107v
+d002.s048.t014	的	X	what	
+d002.s048.t015	是	V	is	
+d002.s048.t016	转到	V	to	bn:00088912v
+d002.s048.t017	“	X	the	
+d002.s048.t018	2D	N	2D	
+d002.s048.t019	图形	N	Graph	bn:00041412n
+d002.s048.t020	”	X		
+d002.s048.t021	选项	N	tab	bn:00120018n
+d002.s048.t022	，	X	and	
+d002.s048.t023	然后	R		bn:00114281r
+d002.s048.t024	单击	V	click	
+d002.s048.t025	“	X		
+d002.s048.t026	添加	V	Add	bn:00082317v
+d002.s048.t027	”	X		
+d002.s048.t028	选项	N	tab	bn:00120018n
+d002.s048.t029	卡	N		
+d002.s048.t030	以	X	to	
+d002.s048.t031	添加	V	add	bn:00082317v
+d002.s048.t032	新	A	new	bn:00107267a
+d002.s048.t033	函数	N	function	bn:00036821n
+d002.s048.t034	。	X		
+d002.s049.t001	然后	R	Then	bn:00114281r
+d002.s049.t002	你	X	your	
+d002.s049.t003	的	X	an	
+d002.s049.t004	焦点	N	focus	bn:00007023n
+d002.s049.t005	将	X	will	
+d002.s049.t006	转到	V	to	bn:00088912v
+d002.s049.t007	输入	N	input	bn:00046850n
+d002.s049.t008	文本	N	text	bn:00076732n
+d002.s049.t009	框	N	box	bn:00012528n
+d002.s049.t010	，	X	where	
+d002.s049.t011	你	X	you	
+d002.s049.t012	可以	V	can	
+d002.s049.t013	在	X		
+d002.s049.t014	其中	X		
+d002.s049.t015	输入	V	type	bn:00095295v
+d002.s049.t016	你	X	your	
+d002.s049.t017	的	X		
+d002.s049.t018	函数	N	function	bn:00036821n
+d002.s049.t019	。	X		
+d002.s050.t001	如果	X	If	
+d002.s050.t002	您	X	you	
+d002.s050.t003	想	V	want	bn:00086682v
+d002.s050.t004	使用	V	use	bn:00082705v
+d002.s050.t005	典型	A	typical	bn:00112217a
+d002.s050.t006	的	X	a	
+d002.s050.t007	f	N		
+d002.s050.t008	(	X		
+d002.s050.t009	x	N		
+d002.s050.t010	)	X		
+d002.s050.t011	函数	N	function	bn:00036821n
+d002.s050.t012	，	X	it	
+d002.s050.t013	则	R		bn:00117250r
+d002.s050.t014	无需	R	necessary	bn:00117479r
+d002.s050.t015	指定	V	specify	bn:00086468v
+d002.s050.t016	它	X	it	
+d002.s050.t017	。	X	.	
+d002.s051.t001	如果	X	If	
+d002.s051.t002	您	X	you	
+d002.s051.t003	已经	R	have	bn:00114245r
+d002.s051.t004	输入	V		bn:00089626v
+d002.s051.t005	该	X	the	
+d002.s051.t006	功能	N	function	bn:00036821n
+d002.s051.t007	请	V		
+d002.s051.t008	单击	V	on	bn:00091986v
+d002.s051.t009	“	X		
+d002.s051.t010	确定	A	the	bn:00096817a
+d002.s051.t011	”	X		
+d002.s051.t012	按钮	N	button	bn:03843242n
+d002.s051.t013	以	X	in	
+d002.s051.t014	在	X	the	
+d002.s051.t015	主窗口	N	window	bn:00081292n
+d002.s051.t016	中	X		
+d002.s051.t017	显示	V	display	bn:00087013v
+d002.s051.t018	图表	N	graph	bn:00041412n
+d002.s051.t019	。	X	.	
+d002.s052.t001	您	X	You	
+d002.s052.t002	可以	V	can	
+d002.s052.t003	在	X	the	
+d002.s052.t004	同一	A	same	bn:00110075a
+d002.s052.t005	视图	N	view	bn:00079985n
+d002.s052.t006	上	X	on	
+d002.s052.t007	设置	V	set	bn:00090224v
+d002.s052.t008	多	A	several	bn:00110469a
+d002.s052.t009	个	N		
+d002.s052.t010	图表	N		bn:00041412n
+d002.s052.t011	。	X	.	
+d002.s053.t001	当	X	when	
+d002.s053.t002	您	X	you	
+d002.s053.t003	处于	V	in	
+d002.s053.t004	列表	N	List	bn:00051508n
+d002.s053.t005	模式	N	mode	bn:00055444n
+d002.s053.t006	时	X		
+d002.s053.t007	，	X		
+d002.s053.t008	只	R	Just	bn:00114626r
+d002.s053.t009	需	V		
+d002.s053.t010	使用	V	use	bn:00082705v
+d002.s053.t011	添加	V	Add	bn:00082322v
+d002.s053.t012	按钮	N	button	bn:03843242n
+d002.s053.t013	即可	R		
+d002.s053.t014	。	X		
+d002.s054.t001	您	X	You	
+d002.s054.t002	可以	V	can	
+d002.s054.t003	为	X		
+d002.s054.t004	每	X	each	
+d002.s054.t005	个	N		
+d002.s054.t006	图形	N	graph	bn:00041412n
+d002.s054.t007	设置	V	set	bn:00090224v
+d002.s054.t008	其	X	its	
+d002.s054.t009	自己	X	own	
+d002.s054.t010	的	X		
+d002.s054.t011	颜色	N	color	bn:00020726n
+d002.s054.t012	。	X	.	
+d003.s002.t001	该	X	which	
+d003.s002.t002	基金会	N	Foundation	bn:00036064n
+d003.s002.t003	最近	R	recently	bn:00116085r
+d003.s002.t004	参与	V	involved	bn:00089893v
+d003.s002.t005	组织	V	organising	bn:00091196v
+d003.s002.t006	了	X		
+d003.s002.t007	一	X	a	
+d003.s002.t008	次	N		bn:00000443n
+d003.s002.t009	应对	V	dealt	bn:00084527v
+d003.s002.t010	这	X	this	
+d003.s002.t011	一	X		
+d003.s002.t012	严峻	A	critical	bn:00100676a
+d003.s002.t013	挑战	N	challenge	bn:00017557n
+d003.s002.t014	的	X	in	
+d003.s002.t015	会议	N	conference	bn:00021721n
+d003.s002.t016	。	X	.	
+d003.s003.t001	来自	V	from	
+d003.s003.t002	各	X		
+d003.s003.t003	主要	A	main	bn:00099598a
+d003.s003.t004	利益	N	interest	bn:00047078n
+d003.s003.t005	群体	N	groups	bn:00072536n
+d003.s003.t006	的	X		
+d003.s003.t007	100	X	100	
+d003.s003.t008	多	X		
+d003.s003.t009	名	N		bn:18091809n
+d003.s003.t010	参与者	N	participants	bn:00060798n
+d003.s003.t011	出席	V	attended	bn:00082907v
+d003.s003.t012	了	X		
+d003.s003.t013	会议	N		bn:00041948n
+d003.s003.t014	，	X		
+d003.s003.t015	并	R		bn:00114281r
+d003.s003.t016	就	X		
+d003.s003.t017	公共	A	public	bn:00109211a
+d003.s003.t018	当局	N	authorities	bn:00001961n
+d003.s003.t019	、	X		
+d003.s003.t020	社会	A	social	bn:00110842a
+d003.s003.t021	伙伴	N	partners	bn:00060819n
+d003.s003.t022	、	X		
+d003.s003.t023	志愿者	A	voluntary	bn:00113672a
+d003.s003.t024	和	X	and	
+d003.s003.t025	社区	N	community	bn:00021248n
+d003.s003.t026	组织	N	organisations	bn:00001423n
+d003.s003.t027	以及	X	as	
+d003.s003.t028	服务	N	service	bn:00070651n
+d003.s003.t029	用户	N	users	bn:00079373n
+d003.s003.t030	等	R		bn:00115237r
+d003.s003.t031	主要	A	key	bn:00099258a
+d003.s003.t032	参与者	N	actors	bn:00001177n
+d003.s003.t033	的	X		
+d003.s003.t034	作用	N	role	bn:00036823n
+d003.s003.t035	等	R		
+d003.s003.t036	问题	N	issues	bn:00047688n
+d003.s003.t037	进行	V		bn:00087628v
+d003.s003.t038	了	X		
+d003.s003.t039	辩论	N	debated	bn:00005601n
+d003.s003.t040	。	X	.	
+d003.s004.t001	报告	N	reported	bn:00067181n
+d003.s004.t002	显示	V	found	bn:00082811v
+d003.s004.t003	，	X		
+d003.s004.t004	尝试	V	attempts	bn:00082844v
+d003.s004.t005	让	V		bn:00082536v
+d003.s004.t006	用户	N	users	bn:00079373n
+d003.s004.t007	参与	V	in	bn:00089893v
+d003.s004.t008	服务	N	service	bn:00070651n
+d003.s004.t009	规划	N	planning	bn:00062794n
+d003.s004.t010	的	X		
+d003.s004.t011	案例	N	cases	bn:00016401n
+d003.s004.t012	相对	R	relatively	bn:00114784r
+d003.s004.t013	较	R	be	
+d003.s004.t014	少	A	few	bn:00102920a
+d003.s004.t015	，	X		
+d003.s004.t016	但是	R	but	bn:00114216r
+d003.s004.t017	用户	N	their	
+d003.s004.t018	参与	V		bn:00089893v
+d003.s004.t019	服务	N	service	bn:00070651n
+d003.s004.t020	提供	N	provision	bn:00064922n
+d003.s004.t021	的	X		
+d003.s004.t022	情况	N		bn:00016401n
+d003.s004.t023	却	R		bn:00114216r
+d003.s004.t024	更为	R	more	bn:00116284r
+d003.s004.t025	常见	A	common	bn:00100093a
+d003.s004.t026	。	X		
+d003.s005.t001	还	R	also	bn:00114246r
+d003.s005.t002	注意	V	Note	bn:00092541v
+d003.s005.t003	到	X	of	
+d003.s005.t004	公共	A	public	bn:00109211a
+d003.s005.t005	福利	N	welfare	bn:00009905n
+d003.s005.t006	发挥	V	played	bn:00091709v
+d003.s005.t007	着	X		
+d003.s005.t008	各种	A	different	bn:00113514a
+d003.s005.t009	不同	A	variety	bn:00101350a
+d003.s005.t010	的	X		
+d003.s005.t011	作用	N		bn:00036822n
+d003.s006.t001	该	X	The	
+d003.s006.t002	基金会	N	Foundation	bn:00036064n
+d003.s006.t003	与	X	with	
+d003.s006.t004	欧盟	N	European	bn:00021127n
+d003.s006.t005	委员会	N	Commission	bn:00021015n
+d003.s006.t006	、	X	,	
+d003.s006.t007	西班牙	A	Spanish	bn:00110978a
+d003.s006.t008	社会	A	Social	bn:00110842a
+d003.s006.t009	事务部	N	Affairs	bn:00001739n
+d003.s006.t010	和	X	and	
+d003.s006.t011	加利西亚	N	Galician	
+d003.s006.t012	大区	A	regional	bn:00109624a
+d003.s006.t013	政府	N	government	bn:00007299n
+d003.s006.t014	联合	R	together	bn:00115794r
+d003.s006.t015	举办	V		bn:00088488v
+d003.s006.t016	了	X		
+d003.s006.t017	一	X	a	
+d003.s006.t018	次	N		bn:00000443n
+d003.s006.t019	以	X		
+d003.s006.t020	“	X		
+d003.s006.t021	社会	N	social	bn:00110842a
+d003.s006.t022	排斥	N		bn:00032152n
+d003.s006.t023	：	X	:	
+d003.s006.t024	公共	A	public	bn:00109211a
+d003.s006.t025	福利	N	welfare	bn:00009905n
+d003.s006.t026	服务	N	services	bn:00070651n
+d003.s006.t027	面临	V		bn:00089244v
+d003.s006.t028	的	X	a	
+d003.s006.t029	重大	A	major	bn:00106332a
+d003.s006.t030	挑战	N	challenge	bn:00017557n
+d003.s006.t031	”	X		
+d003.s006.t032	为	V		
+d003.s006.t033	主题	N		bn:00074900n
+d003.s006.t034	的	X		
+d003.s006.t035	欧洲	A	European	bn:00102440a
+d003.s006.t036	会议	N	conference	bn:00021721n
+d003.s006.t037	。	X	.	
+d003.s007.t001	作为	X	as	
+d003.s007.t002	EPOC	N	EPOC	
+d003.s007.t003	项目	N	project	bn:00064665n
+d003.s007.t004	的	X		
+d003.s007.t005	一部分	N	part	bn:00021395n
+d003.s007.t006	，	X		
+d003.s007.t007	该	X	the	
+d003.s007.t008	基金会	N	Foundation	bn:00036064n
+d003.s007.t009	最近	R	recently	bn:00116085r
+d003.s007.t010	发布	V	published	bn:00084099v
+d003.s007.t011	了	X		
+d003.s007.t012	一	X	a	
+d003.s007.t013	项	N		bn:00047730n
+d003.s007.t014	比较	N	comparative	bn:23824760n
+d003.s007.t015	研究	N	study	bn:00067181n
+d003.s007.t016	，	X	which	
+d003.s007.t017	该	X		
+d003.s007.t018	项目	N		
+d003.s007.t019	评估	V	assesses	bn:00082720v
+d003.s007.t020	了	X		
+d003.s007.t021	直接	A	direct	bn:00101412a
+d003.s007.t022	参与	V	participation	bn:00089893v
+d003.s007.t023	在	X		
+d003.s007.t024	多	R		
+d003.s007.t025	大	A		
+d003.s007.t026	程度	N	extent	bn:00032425n
+d003.s007.t027	上	X		
+d003.s007.t028	可以	V	can	
+d003.s007.t029	使	V		bn:00086008v
+d003.s007.t030	工作	N	work	bn:00014138n
+d003.s007.t031	人性化	V		
+d003.s007.t032	同时	R	while	bn:00114428r
+d003.s007.t033	提高	V	increasing	bn:00089667v
+d003.s007.t034	盈利	N		bn:00632106n
+d003.s007.t035	能力	N		bn:00000317n
+d003.s007.t036	。	X		
+d003.s008.t001	该	X	The	
+d003.s008.t002	研究	N	study	bn:00074790n
+d003.s008.t003	基于	V	based	bn:00083141v
+d003.s008.t004	对	X	with	
+d003.s008.t005	来自	V		
+d003.s008.t006	欧洲	A	European	bn:00102440a
+d003.s008.t007	15	X	fifteen	
+d003.s008.t008	个	N		
+d003.s008.t009	国家	N	countries	bn:00011771n
+d003.s008.t010	的	X		
+d003.s008.t011	国家级	A	national	bn:00107136a
+d003.s008.t012	高峰	N	peak	bn:00023758n
+d003.s008.t013	组织	N	organisations	bn:00001423n
+d003.s008.t014	的	X	of	
+d003.s008.t015	代表	V	representatives	bn:00092839v
+d003.s008.t016	社会	A	social	bn:00110842a
+d003.s008.t017	伙伴	N	partners	bn:00060819n
+d003.s008.t018	高级	A	senior	bn:00110401a
+d003.s008.t019	官员	N		bn:00036837n
+d003.s008.t020	进行	V		bn:00087628v
+d003.s008.t021	的	X		
+d003.s008.t022	195	X	195	
+d003.s008.t023	次	N		bn:00000443n
+d003.s008.t024	个人	A	personal	bn:00108489a
+d003.s008.t025	访谈	N	interviews	bn:00047238n
+d003.s008.t026	。	X	.	
+d003.s009.t001	作为	X	As	
+d003.s009.t002	重要	A	important	bn:00104680a
+d003.s009.t003	的	X		
+d003.s009.t004	工业	A	industrial	bn:00104995a
+d003.s009.t005	部门	N		bn:00027914n
+d003.s009.t006	，	X	,	
+d003.s009.t007	金属	N	metal	bn:00002936n
+d003.s009.t008	工业	N	sector	bn:00070206n
+d003.s009.t009	和	X	and	
+d003.s009.t010	银行业	N	banking	bn:00008412n
+d003.s009.t011	也	R	also	bn:00114246r
+d003.s009.t012	被	X	were	
+d003.s009.t013	纳入	V	included	bn:00089660v
+d003.s009.t014	其中	X		
+d003.s009.t015	。	X	.	
+d003.s010.t001	社会	A	social	bn:00110842a
+d003.s010.t002	排斥	N	exclusion	bn:00032152n
+d003.s010.t003	会议	N	conference	bn:00021721n
+d003.s010.t004	的	X		
+d003.s010.t005	主要	A	Key	bn:00099598a
+d003.s010.t006	发言人	N		
+d003.s010.t007	有	V	were	bn:00083187v
+d003.s010.t008	（	X	(	
+d003.s010.t009	从	X		
+d003.s010.t010	左	N	left	bn:00050521n
+d003.s010.t011	到	V	to	bn:00082788v
+d003.s010.t012	右	N	right	bn:00067808n
+d003.s010.t013	）	X	)	
+d003.s010.t014	欧盟	N	European	bn:00021127n
+d003.s010.t015	委员会	N	Directorate	bn:00011651n
+d003.s010.t016	就业	N	Employment	bn:00030625n
+d003.s010.t017	、	X	,	
+d003.s010.t018	劳资	N	Industrial	bn:00042833n
+d003.s010.t019	关系	N	Relations	bn:00025569n
+d003.s010.t020	和	X	and	
+d003.s010.t021	社会	A	Social	bn:00110842a
+d003.s010.t022	事务	N	Affairs	bn:00001738n
+d003.s010.t023	司	N		
+d003.s010.t024	的	X	of	
+d003.s010.t025	克里斯蒂娜·洛罗	N	Weiler	
+d003.s010.t026	(	X		
+d003.s010.t027	Cristina	N	Cristina	
+d003.s010.t028	Louro	N	Louro	
+d003.s010.t029	)	X		
+d003.s010.t030	、	X	,	
+d003.s010.t031	欧洲	A	European	bn:00102440a
+d003.s010.t032	议会	N	Parliament	bn:00060708n
+d003.s010.t033	议员	N	Member	bn:00034004n
+d003.s010.t034	、	X	,	
+d003.s010.t035	地区	N	Regions	bn:03359468n
+d003.s010.t036	高级	A	high	bn:00102158a
+d003.s010.t037	委员会	N	Committee	bn:00021015n
+d003.s010.t038	委员	N		bn:00021030n
+d003.s010.t039	费尔南多·戈麦斯	N		
+d003.s010.t040	(	X		
+d003.s010.t041	Fernando	N	Fernando	
+d003.s010.t042	Gomes	N	Gomes	
+d003.s010.t043	)	X		
+d003.s010.t044	、	X	,	
+d003.s010.t045	欧洲	A		bn:00102440a
+d003.s010.t046	议会	N		bn:00060708n
+d003.s010.t047	议员	N		bn:00034004n
+d003.s010.t048	、	X	,	
+d003.s010.t049	欧洲	A	European	bn:00102440a
+d003.s010.t050	议会	N	Parliament	bn:00060708n
+d003.s010.t051	副主席	N	Vice-President	bn:00079435n
+d003.s010.t052	何塞·玛丽亚·吉尔·罗夫莱斯	N		
+d003.s010.t053	(	X		
+d003.s010.t054	José	N	José	
+d003.s010.t055	Maria	N	Maria	
+d003.s010.t056	Gil	N		
+d003.s010.t057	-	X		
+d003.s010.t058	Robles	N		
+d003.s010.t059	)	X		
+d003.s010.t060	和	X	and	
+d003.s010.t061	经济	A	Economic	bn:00102001a
+d003.s010.t062	和	X	and	
+d003.s010.t063	社会	A	Social	bn:00110842a
+d003.s010.t064	委员会	N		
+d003.s010.t065	委员	N		
+d003.s010.t066	约翰·卡罗尔	N		
+d003.s010.t067	(	X		
+d003.s010.t068	John	N	John	
+d003.s010.t069	Carroll	N	Carroll	
+d003.s010.t070	)	X		
+d003.s010.t071	。	X	.	
+d003.s011.t001	案例	N	Case	bn:00016401n
+d003.s011.t002	研究	N	Studies	bn:00074790n
+d003.s011.t003	每	X	Each	
+d003.s011.t004	一	X	a	
+d003.s011.t005	份	N		bn:00077944n
+d003.s011.t006	国家	A	national	bn:00107136a
+d003.s011.t007	报告	N	report	bn:00067181n
+d003.s011.t008	都	R		bn:00114203r
+d003.s011.t009	包含	V	contains	bn:00085499v
+d003.s011.t010	25	X	25	
+d003.s011.t011	至	X	and	
+d003.s011.t012	30	X	30	
+d003.s011.t013	项	N		bn:00047730n
+d003.s011.t014	举措	N		bn:00034797n
+d003.s011.t015	，	X	which	
+d003.s011.t016	这些	X		
+d003.s011.t017	举措	N		bn:00034797n
+d003.s011.t018	最	R	best	
+d003.s011.t019	好	A		
+d003.s011.t020	地	X		
+d003.s011.t021	介绍	V	present	bn:00090234v
+d003.s011.t022	了	X		
+d003.s011.t023	改善	V	improve	bn:00082573v
+d003.s011.t024	工作	N	work	bn:00014138n
+d003.s011.t025	地点	N	place	bn:00051760n
+d003.s011.t026	和	X	and	
+d003.s011.t027	社区	N	community	bn:00021248n
+d003.s011.t028	中	X		
+d003.s011.t029	老龄	A	ageing	bn:00096649a
+d003.s011.t030	工人	N	workers	bn:00081593n
+d003.s011.t031	的	X	the	
+d003.s011.t032	招聘	N	recruitment	bn:00030933n
+d003.s011.t033	、	X		
+d003.s011.t034	培训	N	training	bn:00041853n
+d003.s011.t035	和	X	and	
+d003.s011.t036	发展	N	development	bn:00026695n
+d003.s011.t037	的	X		
+d003.s011.t038	政策	N	policies	bn:00063329n
+d003.s011.t039	和	X	and	
+d003.s011.t040	实践	N	practices	bn:00061054n
+d003.s011.t041	。	X		
+d003.s012.t001	对于	X	For	
+d003.s012.t002	每个	X	each	
+d003.s012.t003	国家	N	country	bn:00011771n
+d003.s012.t004	，	X	,	
+d003.s012.t005	我们	X		
+d003.s012.t006	选取	V	selected	bn:00084931v
+d003.s012.t007	了	X		
+d003.s012.t008	两	X	two	
+d003.s012.t009	到	X	or	
+d003.s012.t010	三	X	three	
+d003.s012.t011	个	N		
+d003.s012.t012	举措	N		bn:00034797n
+d003.s012.t013	进行	V	for	bn:00087628v
+d003.s012.t014	进一步	A	further	bn:00102794a
+d003.s012.t015	深入的	A		bn:00101045a
+d003.s012.t016	案例	N	case	bn:00016401n
+d003.s012.t017	研究	N	study	bn:00074790n
+d003.s012.t018	。	X	.	
+d003.s013.t001	这些	X	These	
+d003.s013.t002	案例	N	studies	bn:00074790n
+d003.s013.t003	研究	N	case	bn:00016401n
+d003.s013.t004	分析	V	analysed	bn:00082596v
+d003.s013.t005	了	X		
+d003.s013.t006	这些	X	the	
+d003.s013.t007	举措	N	initiatives	bn:00034797n
+d003.s013.t008	的	X	the	
+d003.s013.t009	背景	N	background	bn:00007783n
+d003.s013.t010	、	X	,	
+d003.s013.t011	它们	X	their	
+d003.s013.t012	对	X	on	
+d003.s013.t013	就业	N	employment	bn:00030626n
+d003.s013.t014	模式	N	patterns	bn:00061054n
+d003.s013.t015	和	X	and	
+d003.s013.t016	工作	N	work	bn:00014138n
+d003.s013.t017	组织	N	organisations	bn:00001423n
+d003.s013.t018	的	X	the	
+d003.s013.t019	影响	N	impact	bn:00030709n
+d003.s013.t020	，	X	and	
+d003.s013.t021	并	R		bn:00114281r
+d003.s013.t022	评估	V		bn:00082720v
+d003.s013.t023	了	X		
+d003.s013.t024	这些	X		
+d003.s013.t025	举措	N	initiative	bn:00034797n
+d003.s013.t026	的	X		
+d003.s013.t027	好处	N	benefits	bn:00037022n
+d003.s013.t028	和	X	and	
+d003.s013.t029	问题	N	problems	bn:00048242n
+d003.s013.t030	。	X		
+d003.s014.t001	我们	X	were	
+d003.s014.t002	还	R	also	bn:00114246r
+d003.s014.t003	对	X	with	
+d003.s014.t004	主要	A	key	bn:00099258a
+d003.s014.t005	人员	N	personnel	bn:00035770n
+d003.s014.t006	进行	V	undertaken	bn:00082906v
+d003.s014.t007	了	X		
+d003.s014.t008	走访	N	Visits	bn:00080113n
+d003.s014.t009	和	X	and	
+d003.s014.t010	访谈	N	interviews	bn:00047238n
+d003.s014.t011	。	X	.	
+d003.s015.t001	这些	X	which	
+d003.s015.t002	国家	A	national	bn:00107136a
+d003.s015.t003	研究	N	studies	bn:00074790n
+d003.s015.t004	将	X	will	
+d003.s015.t005	形成	V	form	bn:00085670v
+d003.s015.t006	一	X	a	
+d003.s015.t007	份	N		bn:00077944n
+d003.s015.t008	综合	V	synthesises	bn:00094713v
+d003.s015.t009	整体	A	overall	bn:00108083a
+d003.s015.t010	实践	N		bn:00063989n
+d003.s015.t011	的	X		
+d003.s015.t012	欧洲	A	European	bn:00102440a
+d003.s015.t013	报告	N	report	bn:00067181n
+d003.s015.t014	的	X	the	
+d003.s015.t015	基础	N	basis	bn:00008790n
+d003.s015.t016	。	X	.	
+d003.s016.t001	该	X	The	
+d003.s016.t002	报告	N	report	bn:00067181n
+d003.s016.t003	及	X	and	
+d003.s016.t004	一系列	X		
+d003.s016.t005	举措	N		bn:00034797n
+d003.s016.t006	案例	N		bn:00016433n
+d003.s016.t007	将	X	will	
+d003.s016.t008	于	X	in	
+d003.s016.t009	1996	X	1996	
+d003.s016.t010	年	N		bn:00081857n
+d003.s016.t011	出版	V	published	bn:00084099v
+d003.s016.t012	，	X	,	
+d003.s016.t013	并	R		bn:00114281r
+d003.s016.t014	为	X	for	
+d003.s016.t015	1996	X	1996	
+d003.s016.t016	年	N		bn:00081857n
+d003.s016.t017	秋季	N	Autumn	bn:00007406n
+d003.s016.t018	举行	V	staged	bn:00082779v
+d003.s016.t019	的	X		
+d003.s016.t020	会议	N	conference	bn:00021721n
+d003.s016.t021	提供	V	provide	bn:00084692v
+d003.s016.t022	背景	N	backdrop	bn:00007781n
+d003.s016.t023	。	X	.	
+d003.s017.t001	该	X	The	
+d003.s017.t002	基金会	N	Foundation	bn:00036064n
+d003.s017.t003	的	X	the	
+d003.s017.t004	目标	N	aims	bn:00002178n
+d003.s017.t005	是	V		
+d003.s017.t006	记录	V	document	bn:00087137v
+d003.s017.t007	求职	N	job	bn:02159608n
+d003.s017.t008	招聘	N	recruitment	bn:00030933n
+d003.s017.t009	和	X	and	
+d003.s017.t010	培训	N	training	bn:00041853n
+d003.s017.t011	中	X	in	
+d003.s017.t012	年龄	N	age	bn:00001936n
+d003.s017.t013	障碍	N		bn:00027407n
+d003.s017.t014	的	X		
+d003.s017.t015	特点	N		bn:00077930n
+d003.s017.t016	并	R	and	bn:00114281r
+d003.s017.t017	分析	V	analyse	bn:00082596v
+d003.s017.t018	其	X	their	
+d003.s017.t019	原因	N	causes	bn:00066443n
+d003.s017.t020	。	X	.	
+d003.s018.t001	社会	A	social	bn:00110842a
+d003.s018.t002	伙伴	N	partners	bn:00060819n
+d003.s018.t003	的	X		
+d003.s018.t004	观点	N	the	bn:00061746n
+d003.s018.t005	也	R	also	bn:00114246r
+d003.s018.t006	正在	R	being	
+d003.s018.t007	接受	V		bn:00095355v
+d003.s018.t008	审查	N	examined	bn:03409865n
+d003.s018.t009	,	X	,	
+d003.s018.t010	其中	X	with	
+d003.s018.t011	特别	R	particular	bn:00115814r
+d003.s018.t012	关注	V	attention	bn:00094767v
+d003.s018.t013	消除	V	removing	bn:00088783v
+d003.s018.t014	年龄	N	age	bn:00001936n
+d003.s018.t015	障碍	N		bn:00027407n
+d003.s018.t016	的	X		
+d003.s018.t017	建议	N	proposals	bn:00064776n
+d003.s018.t018	.	X	.	
+d003.s019.t001	第	X		
+d003.s019.t002	三	X		
+d003.s019.t003	，	X	,	
+d003.s019.t004	该	X	the	
+d003.s019.t005	项目	N	project	bn:00064665n
+d003.s019.t006	记录	V	documents	bn:00087679v
+d003.s019.t007	并	R	,	bn:00114281r
+d003.s019.t008	评估	V		bn:00082720v
+d003.s019.t009	了	X		
+d003.s019.t010	公共	A	public	bn:00109211a
+d003.s019.t011	和	X	,	
+d003.s019.t012	私营	A	private	bn:00104973a
+d003.s019.t013	部门	N	sectors	bn:00070206n
+d003.s019.t014	消除	V	combat	bn:00087115v
+d003.s019.t015	年龄	N	age	bn:00001936n
+d003.s019.t016	障碍	N	barriers	bn:00008714n
+d003.s019.t017	（	X		
+d003.s019.t018	特别	R	especially	bn:00115235r
+d003.s019.t019	是	V		
+d003.s019.t020	针对	V	for	bn:00082489v
+d003.s019.t021	老年	A	older	bn:00096644a
+d003.s019.t022	工人	N	workers	bn:00081593n
+d003.s019.t023	）	X		
+d003.s019.t024	的	X		
+d003.s019.t025	举措	N	initiatives	bn:00034797n
+d003.s019.t026	。	X	.	
+d003.s020.t001	为了	X		
+d003.s020.t002	寻求	V		bn:00082844v
+d003.s020.t003	提前	A	early	bn:00101935a
+d003.s020.t004	退休	N	retirement	bn:00067456n
+d003.s020.t005	和	X	and	
+d003.s020.t006	裁员	N	redundancy	bn:00066743n
+d003.s020.t007	的	X		
+d003.s020.t008	替代	N		bn:00061666n
+d003.s020.t009	方案	N		bn:00049573n
+d003.s020.t010	，	X	,	
+d003.s020.t011	该	X	the	
+d003.s020.t012	项目	N	project	bn:00064665n
+d003.s020.t013	主要	R	primarily	bn:00114714r
+d003.s020.t014	关注	V	concerned	bn:00083240v
+d003.s020.t015	老年	A	older	bn:00096644a
+d003.s020.t016	工人	N	workers	bn:00081593n
+d003.s020.t017	的	X	the	
+d003.s020.t018	保留	N		bn:00044396n
+d003.s020.t019	、	X	,	
+d003.s020.t020	重返社会	N		bn:13789669n
+d003.s020.t021	和	X	and	
+d003.s020.t022	再培训	N		bn:00067463n
+d003.s020.t023	。	X	.	
+d003.s021.t001	研究	V	examined	bn:00082596v
+d003.s021.t002	了	X		
+d003.s021.t003	工人	N	workers	bn:00081593n
+d003.s021.t004	的	X		
+d003.s021.t005	性别	N		bn:00037634n
+d003.s021.t006	和	X	and	
+d003.s021.t007	种族	N	gender	bn:00065800n
+d003.s021.t008	背景	N	backgrounds	bn:00007781n
+d003.s021.t009	以及	X	and	
+d003.s021.t010	这些	X	these	
+d003.s021.t011	与	X	to	
+d003.s021.t012	年龄	N	age	bn:00001936n
+d003.s021.t013	歧视	N	discrimination	bn:00027538n
+d003.s021.t014	的	X		
+d003.s021.t015	关系	N	relate	bn:00025569n
+d003.s021.t016	。	X	.	
+d003.s022.t001	该	X	The	
+d003.s022.t002	项目	N	project	bn:00064665n
+d003.s022.t003	还	R	also	bn:00114246r
+d003.s022.t004	考虑	V		bn:00085651v
+d003.s022.t005	采取	V		bn:00085651v
+d003.s022.t006	举措	N	initiatives	bn:00034797n
+d003.s022.t007	，	X		
+d003.s022.t008	打击	V	combat	bn:00085293v
+d003.s022.t009	农村	A	rural	bn:00109998a
+d003.s022.t010	地区	N	areas	bn:00005513n
+d003.s022.t011	和	X	and	
+d003.s022.t012	中小	A	medium	bn:00106773a
+d003.s022.t013	企业	N		bn:00021286n
+d003.s022.t014	中	X	in	
+d003.s022.t015	的	X		
+d003.s022.t016	年龄	N	age	bn:00001936n
+d003.s022.t017	歧视	N	discrimination	bn:00027538n
+d003.s022.t018	。	X	.	
+d003.s023.t001	此	X		
+d003.s023.t002	项目	N	project	bn:00064665n
+d003.s023.t003	覆盖	V	covered	bn:00085497v
+d003.s023.t004	七	X	Seven	
+d003.s023.t005	个	N		
+d003.s023.t006	成员国	N	states	bn:00011771n
+d003.s023.t007	：	X	:	
+d003.s023.t008	比利时	N	Belgium	bn:00009714n
+d003.s023.t009	、	X	,	
+d003.s023.t010	法国	N	France	bn:00036202n
+d003.s023.t011	、	X	,	
+d003.s023.t012	德国	N	Germany	bn:00026684n
+d003.s023.t013	、	X	,	
+d003.s023.t014	希腊	N	Greece	bn:00030401n
+d003.s023.t015	、	X	,	
+d003.s023.t016	意大利	N	Italy	bn:00047705n
+d003.s023.t017	、	X	,	
+d003.s023.t018	荷兰	N	Netherlands	bn:00044423n
+d003.s023.t019	和	X	and	
+d003.s023.t020	英国	N	Kingdom	bn:00049168n
+d003.s023.t021	。	X	.	
+d004.s001.t001	本	X	This	
+d004.s001.t002	文件	N	document	bn:00028015n
+d004.s001.t003	是	V	is	
+d004.s001.t004	欧洲	A	European	bn:00102440a
+d004.s001.t005	公共	A	Public	bn:00109211a
+d004.s001.t006	评估	N	Assessment	bn:00005120n
+d004.s001.t007	报告	N	Report	bn:00067181n
+d004.s001.t008	的	X		
+d004.s001.t009	摘要	N	summary	bn:00075142n
+d004.s001.t010	。	X	.	
+d004.s002.t001	它	X	It	
+d004.s002.t002	解释	V		bn:00087869v
+d004.s002.t003	了	X		
+d004.s002.t004	兽	A	Veterinary	bn:00113583a
+d004.s002.t005	药	A		bn:00106556a
+d004.s002.t006	委员会	N	Medicinal	bn:00021015n
+d004.s002.t007	(	X	(	
+d004.s002.t008	CVMP	N	CVMP	
+d004.s002.t009	)	X	)	
+d004.s002.t010	如何	R	how	bn:13606173r
+d004.s002.t011	评估	V		bn:00082720v
+d004.s002.t012	所	X		
+d004.s002.t013	进行	V		bn:00087628v
+d004.s002.t014	的	X	the	
+d004.s002.t015	研究	N	studies	bn:00074790n
+d004.s002.t016	，	X	,	
+d004.s002.t017	以	X	to	
+d004.s002.t018	得出	V	reach	bn:00088789v
+d004.s002.t019	关于	X	on	
+d004.s002.t020	如何	R	how	bn:13606173r
+d004.s002.t021	使用	V	use	bn:00082705v
+d004.s002.t022	该	X	the	
+d004.s002.t023	药物	N	medicine	bn:00054128n
+d004.s002.t024	的	X		
+d004.s002.t025	建议	N	recommendations	bn:00066562n
+d004.s002.t026	。	X	.	
+d004.s003.t001	Cerenia	N	Cerenia	bn:00923812n
+d004.s003.t002	是	V	is	
+d004.s003.t003	什么	X	What	
+d004.s003.t004	？	X	?	
+d004.s004.t001	Cerenia	N	Cerenia	bn:00923812n
+d004.s004.t002	含有	V	contains	bn:00085499v
+d004.s004.t003	活性	A	active	bn:00096387a
+d004.s004.t004	物质	N	substance	bn:00074985n
+d004.s004.t005	马罗匹坦	N	maropitant	bn:00923812n
+d004.s004.t006	，	X	and	
+d004.s004.t007	有片剂	N		
+d004.s004.t008	和	X		
+d004.s004.t009	注射液	N	solution	bn:00072760n
+d004.s004.t010	两	X		
+d004.s004.t011	种	N		bn:00078798n
+d004.s004.t012	形式	N	available	bn:00055444n
+d004.s004.t013	。	X		
+d004.s005.t001	药片	N	tablets	bn:00052222n
+d004.s005.t002	呈	V		bn:00087841v
+d004.s005.t003	淡	A		
+d004.s005.t004	橙色	N		
+d004.s005.t005	，	X	and	
+d004.s005.t006	两面	N	sides	bn:00032604n
+d004.s005.t007	都	R		bn:00114203r
+d004.s005.t008	有	V	have	bn:00088078v
+d004.s005.t009	刻痕	N	line	bn:00069754n
+d004.s005.t010	，	X		
+d004.s005.t011	可以	V	can	
+d004.s005.t012	切成	V	halved	bn:00089157v
+d004.s005.t013	两	X		
+d004.s005.t014	半	N		bn:00042601n
+d004.s005.t015	。	X		
+d004.s006.t001	每	X	is	
+d004.s006.t002	片	N		
+d004.s006.t003	药片	N	tablet	bn:00052222n
+d004.s006.t004	一面	N	side	bn:00032604n
+d004.s006.t005	标有	V	marked	bn:00090663v
+d004.s006.t006	辉瑞	N	Pfizer	bn:03463336n
+d004.s006.t007	标志	N	logo	bn:00051872n
+d004.s006.t008	，	X	and	
+d004.s006.t009	另一面	N	other	bn:00035251n
+d004.s006.t010	标有	V		
+d004.s006.t011	字母	N	letters	bn:00003057n
+d004.s006.t012	MPT	N	MPT	
+d004.s006.t013	和	X	and	
+d004.s006.t014	马罗匹坦	N	maropitant	bn:00923812n
+d004.s006.t015	的	X	of	
+d004.s006.t016	数量	N	quantity	bn:00003603n
+d004.s006.t017	。	X	.	
+d004.s007.t001	Cerenia	N	Cerenia	bn:00923812n
+d004.s007.t002	用于	V	used	bn:00082705v
+d004.s007.t003	什么	X	What	
+d004.s007.t004	？	X	?	
+d004.s008.t001	Cerenia	N	Cerenia	bn:00923812n
+d004.s008.t002	是	V	is	
+d004.s008.t003	一	X	an	
+d004.s008.t004	种	N		bn:00078798n
+d004.s008.t005	止吐药	N	anti-emetic	bn:00004656n
+d004.s008.t006	，	X	,	
+d004.s008.t007	这	X	this	
+d004.s008.t008	意味	V	means	bn:00089805v
+d004.s008.t009	着	X		
+d004.s008.t010	它	X	it	
+d004.s008.t011	可以	V		
+d004.s008.t012	停止	V		bn:00084710v
+d004.s008.t013	呕吐	N	vomiting	bn:00027565n
+d004.s008.t014	。	X	.	
+d004.s009.t001	它	X	It	
+d004.s009.t002	用于	V	used	bn:00082705v
+d004.s009.t003	防止	V	prevent	bn:00088454v
+d004.s009.t004	狗	N	dogs	bn:00015267n
+d004.s009.t005	出现	V		bn:00082788v
+d004.s009.t006	呕吐	N	vomiting	bn:00027565n
+d004.s009.t007	，	X	as	
+d004.s009.t008	例如	R	such	bn:00115147r
+d004.s009.t009	化疗	N	chemotherapy	bn:00018141n
+d004.s009.t010	引起	V	caused	bn:00084069v
+d004.s009.t011	的	X		
+d004.s009.t012	呕吐	N	vomiting	bn:00027565n
+d004.s009.t013	（	X	(	
+d004.s009.t014	用于	V	used	bn:00082705v
+d004.s009.t015	治疗	V	treatment	bn:00084532v
+d004.s009.t016	癌症	N	cancer	bn:00015180n
+d004.s009.t017	的	X		
+d004.s009.t018	药物	N		bn:00054128n
+d004.s009.t019	，	X	,	
+d004.s009.t020	其中	X	which	
+d004.s009.t021	一些	N	some	bn:29799485n
+d004.s009.t022	已知	V	known	bn:00090142v
+d004.s009.t023	会	V	to	
+d004.s009.t024	引起	V	cause	bn:00084069v
+d004.s009.t025	呕吐	N	vomiting	bn:00027565n
+d004.s009.t026	）	X	)	
+d004.s009.t027	。	X	.	
+d004.s010.t001	与	X	with	
+d004.s010.t002	其他	A	other	bn:00108011a
+d004.s010.t003	兽医	A	veterinary	bn:00113583a
+d004.s010.t004	治疗	N	treatment	bn:00047235n
+d004.s010.t005	或	X	or	
+d004.s010.t006	特殊	A	special	bn:00108295a
+d004.s010.t007	饮食	N	diet	bn:00027011n
+d004.s010.t008	等	R	such	bn:00115237r
+d004.s010.t009	支持	A	supportive	bn:00111492a
+d004.s010.t010	措施	N	measures	bn:00054018n
+d004.s010.t011	相	X		
+d004.s010.t012	结合	V	combination	bn:00085317v
+d004.s010.t013	，	X	,	
+d004.s010.t014	Cerenia	N	Cerenia	bn:00923812n
+d004.s010.t015	也	R	also	bn:00114246r
+d004.s010.t016	可	V	can	
+d004.s010.t017	用于	V	used	bn:00082705v
+d004.s010.t018	治疗	V	treatment	bn:00084532v
+d004.s010.t019	呕吐	N	vomiting	bn:00027565n
+d004.s010.t020	（	X	(	
+d004.s010.t021	注射	N	injection	bn:00046787n
+d004.s010.t022	或	X	or	
+d004.s010.t023	注射	N	injection	bn:00046787n
+d004.s010.t024	后	X	by	
+d004.s010.t025	服用	V		bn:00082365v
+d004.s010.t026	药片	N	tablets	bn:00052222n
+d004.s010.t027	）	X	)	
+d004.s010.t028	。	X	.	
+d004.s011.t001	为了	X	For	
+d004.s011.t002	达到	V		bn:00082901v
+d004.s011.t003	这些	X	these	
+d004.s011.t004	目的	N		bn:00002178n
+d004.s011.t005	，	X	,	
+d004.s011.t006	Cerenia	N	Cerenia	bn:00923812n
+d004.s011.t007	最多	R	up to	bn:00116290r
+d004.s011.t008	可以	V	can	
+d004.s011.t009	服用	V	given	bn:00082365v
+d004.s011.t010	五	X	five	
+d004.s011.t011	天	N	days	bn:00025419n
+d004.s012.t001	Cerenia	N	Cerenia	bn:00923812n
+d004.s012.t002	如何	R	How	bn:13606173r
+d004.s012.t003	发挥	V	work	bn:00087833v
+d004.s012.t004	作用	N		bn:00036822n
+d004.s012.t005	？	X	?	
+d004.s013.t001	Cerenia	N	Cerenia	bn:00923812n
+d004.s013.t002	可	V		
+d004.s013.t003	阻断	V		bn:00083627v
+d004.s013.t004	神经	N		bn:00057322n
+d004.s013.t005	激肽	N		bn:27268665n
+d004.s013.t006	1	X	1	
+d004.s013.t007	(	X	(	
+d004.s013.t008	NK1	N	NK1	
+d004.s013.t009	)	X	)	
+d004.s013.t010	受体	N		bn:00000658n
+d004.s013.t011	，	X	,	
+d004.s013.t012	该	X	which	
+d004.s013.t013	受体	N		
+d004.s013.t014	在	X	in	
+d004.s013.t015	中枢神经	A	central	bn:00099258a
+d004.s013.t016	系统	N	system	bn:00075762n
+d004.s013.t017	中	X		
+d004.s013.t018	起作用	V	acts	bn:00082285v
+d004.s013.t019	。	X	.	
+d004.s014.t001	如何	R	has	bn:13606173r
+d004.s014.t002	对	X		
+d004.s014.t003	Cerenia	N	Cerenia	bn:00923812n
+d004.s014.t004	进行	V	been	bn:00087628v
+d004.s014.t005	研究	N		bn:00067280n
+d004.s014.t006	？	X	?	
+d004.s015.t001	在	X	in	
+d004.s015.t002	欧洲	A	European	bn:00102440a
+d004.s015.t003	多	A	several	bn:00110469a
+d004.s015.t004	个	N		
+d004.s015.t005	国家	N	countries	bn:00011771n
+d004.s015.t006	和	X	and	
+d004.s015.t007	美国	N	USA	bn:00003341n
+d004.s015.t008	的	X		
+d004.s015.t009	兽医	N	veterinary	bn:00079883n
+d004.s015.t010	诊所	N	practises	
+d004.s015.t011	中	X		
+d004.s015.t012	，	X	A	
+d004.s015.t013	对	X		
+d004.s015.t014	实验	N	laboratory	bn:00049551n
+d004.s015.t015	犬	N		
+d004.s015.t016	和	X	in	
+d004.s015.t017	动物	N	animal	bn:00004222n
+d004.s015.t018	患者	N	patients	bn:00061017n
+d004.s015.t019	进行	V	carried	bn:00087628v
+d004.s015.t020	了	X		
+d004.s015.t021	大量	A	large	bn:00110620a
+d004.s015.t022	有关	V		bn:00083240v
+d004.s015.t023	Cerenia	N	Cerenia	bn:00923812n
+d004.s015.t024	的	X		
+d004.s015.t025	研究	N	studies	bn:00074790n
+d004.s015.t026	。	X	.	
+d004.s016.t001	Cerenia	N	Cerenia	bn:00923812n
+d004.s016.t002	在	X	the	
+d004.s016.t003	研究	N	studies	bn:00074790n
+d004.s016.t004	期间	N	during	bn:00061605n
+d004.s016.t005	表现	V	shown	bn:00083245v
+d004.s016.t006	出	X		
+d004.s016.t007	了	X		
+d004.s016.t008	什么	X	What	
+d004.s016.t009	益处	N	benefit	bn:00009905n
+d004.s016.t010	？	X	?	
+d004.s017.t001	研究	N	studies	bn:00074790n
+d004.s017.t002	结果	N	results	bn:00021961n
+d004.s017.t003	表明	V	showed	bn:00083245v
+d004.s017.t004	，	X	that	
+d004.s017.t005	Cerenia	N	Cerenia	bn:00923812n
+d004.s017.t006	比	X	than	
+d004.s017.t007	安慰剂	N	the	bn:00062717n
+d004.s017.t008	更	R	more	bn:00116284r
+d004.s017.t009	有效	A	effective	bn:00102038a
+d004.s017.t010	：	X	:	
+d004.s017.t011	无论	R	both	
+d004.s017.t012	是	V		
+d004.s017.t013	在	X	in	
+d004.s017.t014	治疗	N	treatment	bn:00047235n
+d004.s017.t015	还是	X	or	
+d004.s017.t016	预防	V	prevention	bn:00086709v
+d004.s017.t017	呕吐	N	vomiting	bn:00027565n
+d004.s017.t018	方面	N		bn:03635987n
+d004.s017.t019	，	X	,	
+d004.s017.t020	服用	V	the	bn:00087863v
+d004.s017.t021	该	X	the	
+d004.s017.t022	药物	N	medicine	bn:00054128n
+d004.s017.t023	的	X		
+d004.s017.t024	狗	N	dogs	bn:00015267n
+d004.s017.t025	的	X	the	
+d004.s017.t026	呕吐	N		bn:00027565n
+d004.s017.t027	次数	N		bn:00000443n
+d004.s017.t028	都	R		bn:00114203r
+d004.s017.t029	比	X	than	
+d004.s017.t030	服用	V	received	bn:00087863v
+d004.s017.t031	安慰剂	N	a	
+d004.s017.t032	的	X		
+d004.s017.t033	狗	N	dogs	bn:00015267n
+d004.s017.t034	少	A	less	bn:00105886a
+d004.s017.t035	。	X	.	
+d004.s018.t001	治疗	V	treatment	bn:00047235n
+d004.s018.t002	呕吐	V		bn:00083115v
+d004.s018.t003	的	X	of	
+d004.s018.t004	狗	N	dog	bn:00015267n
+d004.s018.t005	应该	V	the	
+d004.s018.t006	从	X	with	
+d004.s018.t007	注射	N	injection	bn:00046787n
+d004.s018.t008	开始	V	started	bn:00083347v
+d004.s018.t009	，	X	,	
+d004.s018.t010	因为	X	since	
+d004.s018.t011	呕吐	V	vomiting	bn:00083115v
+d004.s018.t012	的	X		
+d004.s018.t013	动物	N	animals	bn:00004222n
+d004.s018.t014	可能	V	might	
+d004.s018.t015	没有	V	able	bn:00090161v
+d004.s018.t016	方法	N		bn:00054625n
+d004.s018.t017	吞下	V	throw	bn:00088759v
+d004.s018.t018	药片	N	tablet	bn:00052222n
+d004.s018.t019	（	X	(	
+d004.s018.t020	因为	X	as	
+d004.s018.t021	它们	X	they	
+d004.s018.t022	可能	V	might	
+d004.s018.t023	会	V		
+d004.s018.t024	再次	R	again	bn:00114171r
+d004.s018.t025	将	X	keep	
+d004.s018.t026	完整	A	intact	bn:00102278a
+d004.s018.t027	的	X		
+d004.s018.t028	药片	N	tablet	bn:00052222n
+d004.s018.t029	吐	V		bn:00092122v
+d004.s018.t030	出来	V	up	bn:00085324v
+d004.s018.t031	）	X	)	
+d004.s018.t032	。	X	.	
+d004.s019.t001	为了	X	For	
+d004.s019.t002	进行	V		bn:00087628v
+d004.s019.t003	后续	A	follow-up	bn:00111392a
+d004.s019.t004	治疗	N	treatment	bn:00047235n
+d004.s019.t005	，	X	,	
+d004.s019.t006	动物	N	animal	bn:00004222n
+d004.s019.t007	主人	N	owner	bn:00059954n
+d004.s019.t008	可以	V	can	
+d004.s019.t009	给	X	to	
+d004.s019.t010	狗	N	dog	bn:00015267n
+d004.s019.t011	服用	V	administer	bn:00082365v
+d004.s019.t012	药片	N	tablets	bn:00052222n
+d004.s019.t013	。	X	.	
+d004.s020.t001	此外	R	Also	bn:00114246r
+d004.s020.t002	，	X	,	
+d004.s020.t003	呕吐	N	vomiting	bn:00027565n
+d004.s020.t004	的	X		
+d004.s020.t005	治疗	N	treatment	bn:00047235n
+d004.s020.t006	应	V	should	
+d004.s020.t007	与	X	with	
+d004.s020.t008	其他	A	other	bn:00108011a
+d004.s020.t009	支持	A	supportive	bn:00111492a
+d004.s020.t010	措施	N	measure	bn:00054018n
+d004.s020.t011	或	X	or	
+d004.s020.t012	其他	A	other	bn:00108011a
+d004.s020.t013	兽医	A	veterinary	bn:00113583a
+d004.s020.t014	疗法	N	therapy	bn:00076843n
+d004.s020.t015	一起	R	together	bn:00117321r
+d004.s020.t016	进行	V	be	bn:00087628v
+d004.s020.t017	，	X		
+d004.s020.t018	同时	R	while	bn:00114206r
+d004.s020.t019	解决	V	addressing	bn:00088162v
+d004.s020.t020	呕吐	N	vomiting	bn:00027565n
+d004.s020.t021	的	X	the	
+d004.s020.t022	根本	A	underlying	bn:00104676a
+d004.s020.t023	原因	N	causes	bn:00016850n
+d004.s020.t024	。	X	.	
+d004.s021.t001	Cerenia	N	Cerenia	bn:00923812n
+d004.s021.t002	有	V	with	bn:00088078v
+d004.s021.t003	哪些	X	is	
+d004.s021.t004	风险	N	risk	bn:00030747n
+d004.s021.t005	？	X	?	
+d004.s022.t001	当	X		
+d004.s022.t002	每日	R	daily	bn:00114917r
+d004.s022.t003	服用	V	administered	bn:00082365v
+d004.s022.t004	剂量	N	dosages	bn:00028320n
+d004.s022.t005	高达	V		bn:00082901v
+d004.s022.t006	推荐	N	recommended	bn:00041086n
+d004.s022.t007	剂量	N	doses	bn:00028320n
+d004.s022.t008	的	X	the	
+d004.s022.t009	5	X	5	
+d004.s022.t010	倍	N	times	bn:00056285n
+d004.s022.t011	并且	R	when	bn:13672175r
+d004.s022.t012	持续	V	for	bn:00086793v
+d004.s022.t013	较	R		
+d004.s022.t014	长	A	extended	bn:00101795a
+d004.s022.t015	时间	N	time	bn:00077267n
+d004.s022.t016	（	X	(	
+d004.s022.t017	高达	V	up	
+d004.s022.t018	建议	V	recommended	bn:00082417v
+d004.s022.t019	最大	A	maximum	bn:00106517a
+d004.s022.t020	治疗	N	treatment	bn:00047235n
+d004.s022.t021	时间	N	duration	bn:00022191n
+d004.s022.t022	的	X	the	
+d004.s022.t023	3	X	3	
+d004.s022.t024	倍	N	times	bn:00019848n
+d004.s022.t025	）	X	)	
+d004.s022.t026	时	X		
+d004.s022.t027	，	X		
+d004.s022.t028	Cerenia	N	Cerenia	bn:00923812n
+d004.s022.t029	通常	R	generally	bn:00114634r
+d004.s022.t030	耐受性	N	tolerated	bn:02005542n
+d004.s022.t031	良好	A	well	bn:00098243a
+d004.s022.t032	。	X	.	
+d004.s023.t001	给	X	gives	
+d004.s023.t002	动物	N		bn:00004222n
+d004.s023.t003	注射	V		bn:00089749v
+d004.s023.t004	药物	N	medicine	bn:00054128n
+d004.s023.t005	或者	X	or	
+d004.s023.t006	接触	V	the	bn:00095040v
+d004.s023.t007	动物	N	animal	bn:00004222n
+d004.s023.t008	的	X		
+d004.s023.t009	人	N	person	bn:00046516n
+d004.s023.t010	需要	V		bn:00091028v
+d004.s023.t011	注意	V		bn:00094754v
+d004.s023.t012	什么	X	What	
+d004.s023.t013	？	X	?	
+d004.s024.t001	Cerenia	N	Cerenia	bn:00923812n
+d004.s024.t002	并	R	does	bn:00114281r
+d004.s024.t003	不会	V	not	bn:27249949v
+d004.s024.t004	对	X	for	
+d004.s024.t005	人体	N	people	bn:00044382n
+d004.s024.t006	造成	V	represent	bn:00083187v
+d004.s024.t007	特别	A	particular	bn:00102398a
+d004.s024.t008	的	X	a	
+d004.s024.t009	风险	N	risk	bn:00030747n
+d004.s024.t010	。	X	.	

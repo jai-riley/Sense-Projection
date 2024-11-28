@@ -1,0 +1,2974 @@
+Token ID	Token	Lemma	POS	BN Synset
+	En		X
+	el		X	
+d000.s000.t000	presente	presente	ADJ	bn:00108977a
+d000.s000.t001	documento	documento	NOUN	bn:00028015n;bn:00028017n
+	se		X	
+d000.s000.t002	resume	resumir	VERB	bn:00082392v;bn:00086822v;bn:00092916v
+	el		X	
+d000.s000.t003	Informe	informe	NOUN	bn:00067181n;wiki:informe
+d000.s000.t004	Público	público	ADJ	bn:00109211a;bn:00109212a
+d000.s000.t005	Europeo	europeo	ADJ	bn:00102440a
+	de		X	
+d000.s000.t006	Evaluación	evaluación	NOUN	bn:00005120n;bn:00031972n
+	(		X	
+	EPAR	epar	NOUN	
+	)		X	
+	.		X	
+	-end-		X	
+	En		X	
+	él		X	
+	se		X	
+d000.s001.t000	explica	explicar	VERB	bn:00087869v;bn:00087870v
+	cómo	cómo	ADV	
+	el		X	
+d000.s001.t001	Comité	comité	NOUN	bn:00021015n;wiki:comité
+	de		X	
+d000.s001.t002	Medicamentos	medicamento	NOUN	bn:00031708n;bn:00054128n;bn:00061887n;wiki:medicamento;wiki:prescripción_(medicina)
+	de		X	
+d000.s001.t003	Uso	uso	NOUN	bn:00030627n;bn:00079370n
+d000.s001.t004	Humano	humano	ADJ	bn:00104385a
+	(		X	
+	CHMP	chmp	NOUN	
+	)		X	
+	ha	haber	VERB	
+d000.s001.t005	evaluado	evaluar	VERB	bn:00082720v
+	los		X	
+d000.s001.t006	estudios	estudio	NOUN	bn:00074790n
+d000.s001.t007	realizados	realizar	VERB	bn:00082225v;bn:00082311v;bn:00087107v
+	con		X	
+	el		X	
+d000.s001.t008	medicamento	medicamento	NOUN	bn:00031708n;bn:00054128n;bn:00061887n;wiki:medicamento;wiki:prescripción_(medicina)
+	a fin de		X	
+d000.s001.t009	emitir	emitir	VERB	bn:00084099v;bn:00086535v
+	unas		X	
+d000.s001.t010	recomendaciones	recomendación	NOUN	bn:00066562n
+	sobre		X	
+	su		X	
+d000.s001.t011	uso	uso	NOUN	bn:00030627n;bn:00036822n
+	.		X	
+	-end-		X	
+	Si		X	
+d000.s002.t000	desea	desear	VERB	bn:00086682v;bn:00086684v
+d000.s002.t001	más	más	ADV	bn:00116285r
+d000.s002.t002	información	información	NOUN	bn:00046705n;wiki:información
+	sobre		X	
+	su		X	
+d000.s002.t003	enfermedad	enfermedad	NOUN	bn:00002171n;bn:00027546n;bn:00045952n;bn:00071428n;wiki:enfermedad
+	o		X	
+	el		X	
+d000.s002.t004	tratamiento	tratamiento	NOUN	bn:00047235n;bn:00076843n;wiki:tratamiento_(medicina)
+	de		X	
+	la		X	
+d000.s002.t005	misma	mismo	ADJ	bn:00110075a
+	,		X	
+	le		X	
+d000.s002.t006	aconsejamos	aconsejar	VERB	bn:00082418v
+	que		X	
+d000.s002.t007	lea	leer	VERB	bn:00092424v;bn:00092432v
+	el		X	
+d000.s002.t008	prospecto	prospecto	NOUN	bn:02573503n;wiki:prospecto
+	(		X	
+d000.s002.t009	incluido	incluir	VERB	bn:00085499v;bn:00089660v;bn:00089662v
+	en		X	
+	el		X	
+	EPAR	epar	NOUN	
+	)		X	
+	o		X	
+d000.s002.t010	pregunte	preguntar	VERB	bn:00082821v;bn:00092261v
+	a		X	
+	su		X	
+d000.s002.t011	médico	médico	NOUN	bn:00027976n;bn:00054116n;wiki:médico
+	o		X	
+	su		X	
+d000.s002.t012	farmacéutico	farmacéutico	NOUN	bn:00004992n;wiki:boticario;wiki:farmacéutico
+	.		X	
+	-end-		X	
+	Si		X	
+d000.s003.t000	desea	desear	VERB	bn:00086682v;bn:00086684v;bn:00095628v
+d000.s003.t001	más	más	ADV	bn:00116285r
+d000.s003.t002	información	información	NOUN	bn:00046705n;wiki:información
+	sobre		X	
+	el		X	
+d000.s003.t003	fundamento	fundamento	NOUN	bn:00008786n
+	en		X	
+	el		X	
+	que		X	
+	se		X	
+	han	haber	VERB	
+d000.s003.t004	basado	basar	VERB	bn:00083141v
+	las		X	
+d000.s003.t005	recomendaciones	recomendación	NOUN	bn:00066562n
+	del		X	
+d000.s003.t006	CHMP	chmp	NOUN	bn:00302314n
+	,		X	
+	le		X	
+d000.s003.t007	aconsejamos	aconsejar	VERB	bn:00082418v
+	que		X	
+d000.s003.t008	lea	leer	VERB	bn:00092424v;bn:00092432v
+	el		X	
+d000.s003.t009	Debate	debate	NOUN	bn:00005601n;wiki:debate
+d000.s003.t010	Científico	científico	ADJ	bn:00110175a
+	(		X	
+d000.s003.t011	también	también	ADV	bn:00114246r
+d000.s003.t012	incluido	incluir	VERB	bn:00085499v;bn:00089660v;bn:00089662v
+	en		X	
+	el		X	
+	EPAR	epar	NOUN	
+	)		X	
+	.		X	
+	-end-		X	
+	¿Qué		X	
+	es	ser	VERB	
+	Alimta	alimta	NOUN	
+	?		X	
+	-end-		X	
+	Alimta	alimta	NOUN	
+	es	ser	VERB	
+	un		X	
+d000.s005.t000	polvo	polvo	NOUN	bn:00063926n
+	con		X	
+	el		X	
+	que		X	
+	se		X	
+d000.s005.t001	prepara	preparar	VERB	bn:00090556v
+	una		X	
+d000.s005.t002	solución	solución	NOUN	bn:00072760n;wiki:disolución
+	para		X	
+d000.s005.t003	perfusión	perfusión	NOUN	bn:00061571n
+	(		X	
+d000.s005.t004	goteo	goteo	NOUN	bn:00028771n
+	en		X	
+d000.s005.t005	vena	vena	NOUN	bn:00057343n;bn:00079681n;wiki:vena
+	)		X	
+	.		X	
+	-end-		X	
+d000.s006.t000	Contiene	contener	VERB	bn:00085499v
+	el		X	
+d000.s006.t001	principio	principio	NOUN	bn:00377649n;wiki:fármaco
+d000.s006.t002	activo	activo	ADJ	bn:00096382a;bn:00096387a
+	pemetrexed	pemetrexed	NOUN	
+	.		X	
+	-end-		X	
+	¿Para		X	
+	qué		X	
+	se		X	
+d000.s007.t000	utiliza	utilizar	VERB	bn:00082705v;bn:00089140v
+	Alimta	alimta	NOUN	
+	?		X	
+	-end-		X	
+	Alimta	alimta	NOUN	
+	está	estar	VERB	
+d000.s008.t000	indicado	indicar	VERB	bn:00087644v
+	para		X	
+	el		X	
+d000.s008.t001	tratamiento	tratamiento	NOUN	bn:00047235n;bn:00076843n;wiki:tratamiento_(medicina)
+	de		X	
+	dos		X	
+d000.s008.t002	tipos	tipo	NOUN	bn:00035907n;bn:00073211n;bn:00078798n;bn:00078799n;wiki:tipo_nomenclatural
+	de		X	
+d000.s008.t003	cáncer	cáncer	NOUN	bn:00015180n;wiki:cáncer
+	:		X	
+d000.s008.t004	mesotelioma	mesotelioma	NOUN	bn:00054512n;wiki:mesotelioma
+d000.s008.t005	pleural	pleural	ADJ	bn:00108692a
+	(		X	
+d000.s008.t006	cáncer	cáncer	NOUN	bn:00015180n;wiki:cáncer
+	del		X	
+d000.s008.t007	revestimiento	revestimiento	NOUN	bn:00020185n;wiki:recubrimiento
+	de		X	
+	los		X	
+d000.s008.t008	pulmones	pulmón	NOUN	bn:00052341n;wiki:pulmón
+d000.s008.t009	causado	causar	VERB	bn:00084069v;bn:00084699v
+d000.s008.t010	generalmente	generalmente	ADV	bn:00114634r;bn:00114778r
+	por		X	
+	la		X	
+d000.s008.t011	exposición	exposición	NOUN	bn:00032375n
+	al		X	
+d000.s008.t012	amianto	amianto	NOUN	bn:00006236n;wiki:asbesto
+	)		X	
+	.		X	
+	-end-		X	
+	Alimta	alimta	NOUN	
+	se		X	
+d000.s009.t000	administra	administrar	VERB	bn:00082365v
+	en		X	
+d000.s009.t001	combinación	combinación	NOUN	bn:00020872n;bn:00020878n;bn:00020884n
+	con		X	
+d000.s009.t002	cisplatino	cisplatino	NOUN	bn:00577781n;wiki:cisplatino
+	(		X	
+	otro		X	
+d000.s009.t003	medicamento	medicamento	NOUN	bn:00031708n;bn:00054128n;bn:00061887n;wiki:medicamento;wiki:prescripción_(medicina)
+	contra		X	
+	el		X	
+d000.s009.t004	cáncer	cáncer	NOUN	bn:00015180n;wiki:cáncer
+	)		X	
+	cuando		X	
+	el		X	
+d000.s009.t005	tumor	tumor	NOUN	bn:00057267n;wiki:tumor
+	«		X	
+d000.s009.t006	no	no	ADV	bn:00116348r
+	es	ser	VERB	
+	resecable	resecable	ADJ	
+	»		X	
+	(		X	
+	no		X	
+	puede	poder	VERB	
+d000.s009.t007	extirparse	extirpar	VERB	bn:00087923v
+d000.s009.t008	sólo	sólo	ADV	bn:00114234r
+	mediante		X	
+d000.s009.t009	cirugía	cirugía	NOUN	bn:00059129n;wiki:cirugía
+	)		X	
+	y		X	
+	es	ser	VERB	
+	«		X	
+d000.s009.t010	maligno	maligno	ADJ	bn:00106363a
+	»		X	
+	(		X	
+	se		X	
+	ha	haber	VERB	
+d000.s009.t011	extendido	extender	VERB	bn:00087063v
+	,		X	
+	o		X	
+	es	ser	VERB	
+d000.s009.t012	probable	probable	ADJ	bn:00105981a;bn:00105982a;bn:00105984a
+	que		X	
+	se		X	
+d000.s009.t013	extienda	extender	VERB	bn:00087063v
+d000.s009.t014	fácilmente	fácilmente	ADV	bn:00115155r;bn:00115181r
+	,		X	
+	a		X	
+	otras		X	
+d000.s009.t015	partes	parte	NOUN	bn:00011769n
+	del		X	
+d000.s009.t016	cuerpo	cuerpo	NOUN	bn:00003882n;bn:00011744n;wiki:cuerpo_(anatomía);wiki:cuerpo_humano
+	)		X	
+	,		X	
+	en		X	
+d000.s009.t017	pacientes	paciente	NOUN	bn:00061017n;wiki:paciente
+	que		X	
+d000.s009.t018	no	no	ADV	bn:00116360r
+	han	haber	VERB	
+d000.s009.t019	recibido	recibir	VERB	bn:00089246v
+d000.s009.t020	quimioterapia	quimioterapia	NOUN	bn:00018141n;wiki:quimioterapia
+	(		X	
+d000.s009.t021	medicamentos	medicamento	NOUN	bn:00031708n;bn:00054128n;bn:00061887n;wiki:medicamento;wiki:prescripción_(medicina)
+	contra		X	
+	el		X	
+d000.s009.t022	cáncer	cáncer	NOUN	bn:00015180n;wiki:cáncer
+	)		X	
+d000.s009.t023	previamente	previamente	ADV	bn:00114297r;bn:00114512r
+	,		X	
+d000.s009.t024	cáncer	cáncer	NOUN	bn:00052343n;wiki:cáncer_de_pulmón
+	de		X	
+d000.s009.t025	pulmón	pulmón	NOUN	bn:00052341n;wiki:pulmón
+	«		X	
+	no	no	NOUN	
+d000.s009.t026	microcítico	microcito	NOUN	bn:00054742n
+	»		X	
+d000.s009.t027	avanzado	avanzado	ADJ	bn:00096528a
+	o		X	
+d000.s009.t028	metastásico	metastásico	NOUN	bn:00054585n;wiki:metástasis
+	que		X	
+d000.s009.t029	no	no	ADV	bn:00116360r
+d000.s009.t030	afecte	afectar	VERB	bn:00082426v;bn:00082427v
+	a		X	
+	las		X	
+d000.s009.t031	células	célula	NOUN	bn:00017027n;wiki:célula
+	«		X	
+	escamosas	escamoso	ADJ	
+	»		X	
+	.		X	
+	-end-		X	
+	Alimta	alimta	NOUN	
+	se		X	
+d000.s010.t000	utiliza	utilizar	VERB	bn:00082705v;bn:00089140v
+	en		X	
+d000.s010.t001	combinación	combinación	NOUN	bn:00020872n;bn:00020878n;bn:00020884n
+	con		X	
+d000.s010.t002	cisplatino	cisplatino	NOUN	bn:00577781n;wiki:cisplatino
+	en		X	
+d000.s010.t003	pacientes	paciente	NOUN	bn:00061017n;wiki:paciente
+	que		X	
+d000.s010.t004	no	no	ADV	bn:00116360r
+	han	haber	VERB	
+	sido	ser	VERB	
+d000.s010.t005	tratados	tratar	VERB	bn:00084532v;bn:00087136v
+d000.s010.t006	previamente	previamente	ADV	bn:00114297r;bn:00114512r
+	y		X	
+	en		X	
+d000.s010.t007	monoterapia	monoterapia	NOUN	bn:00749648n
+	en		X	
+d000.s010.t008	pacientes	paciente	NOUN	bn:00061017n;wiki:paciente
+	que		X	
+	han	haber	VERB	
+	sido	ser	VERB	
+d000.s010.t009	tratado	tratar	VERB	bn:00084532v;bn:00087136v
+d000.s010.t010	previamente	previamente	ADV	bn:00114297r;bn:00114512r
+	con		X	
+	otros		X	
+d000.s010.t011	tipos	tipo	NOUN	bn:00035907n;bn:00073211n;bn:00078798n;bn:00078799n;wiki:tipo_nomenclatural
+	de		X	
+d000.s010.t012	quimioterapia	quimioterapia	NOUN	bn:00018141n;wiki:quimioterapia
+	.		X	
+	-end-		X	
+	Este		X	
+d000.s011.t000	medicamento	medicamento	NOUN	bn:00031708n;bn:00054128n;bn:00061887n;wiki:medicamento;wiki:prescripción_(medicina)
+d000.s011.t001	sólo	sólo	ADV	bn:00114234r
+	podrá	poder	VERB	
+d000.s011.t002	dispensarse	dispensar	VERB	bn:00082365v
+	con		X	
+d000.s011.t003	receta	receta	NOUN	bn:00031708n;wiki:medicamento;wiki:prescripción_(medicina)
+d000.s011.t004	médica	médico	ADJ	bn:00106554a;bn:00106555a
+	.		X	
+	-end-		X	
+	¿Cómo	¿cómo	NOUN	
+	se		X	
+d000.s012.t000	usa	usar	VERB	bn:00082705v
+	Alimta	alimta	NOUN	
+	?		X	
+	-end-		X	
+	Alimta	alimta	NOUN	
+d000.s013.t000	sólo	sólo	ADV	bn:00114234r
+	debe	deber	VERB	
+d000.s013.t001	administrarse	administrar	VERB	bn:00082365v
+	bajo		X	
+	la		X	
+d000.s013.t002	supervisión	supervisión	NOUN	bn:00059908n
+	de		X	
+	un		X	
+d000.s013.t003	médico	médico	NOUN	bn:00027976n;bn:00028003n;bn:00054116n;wiki:doctor_en_medicina;wiki:médico
+d000.s013.t004	cualificado	cualificar	VERB	bn:00092243v
+	en		X	
+	el		X	
+d000.s013.t005	uso	uso	NOUN	bn:00030627n;bn:00036822n;bn:00079370n
+	de		X	
+d000.s013.t006	quimioterapia	quimioterapia	NOUN	bn:00018141n;wiki:quimioterapia
+	contra		X	
+	el		X	
+d000.s013.t007	cáncer	cáncer	NOUN	bn:00015180n;wiki:cáncer
+	.		X	
+	-end-		X	
+	La		X	
+d000.s014.t000	dosis	dosis	NOUN	bn:00028320n;wiki:dosis
+d000.s014.t001	recomendada	recomendar	VERB	bn:00082418v
+	de		X	
+	Alimta	alimta	NOUN	
+	es	ser	VERB	
+	de		X	
+	500		X	
+d000.s014.t002	mg	mg	NOUN	bn:00054701n;wiki:órdenes_de_magnitud_(masa)
+	por		X	
+d000.s014.t003	metro	metro	NOUN	bn:00017102n;wiki:metro_cuadrado
+d000.s014.t004	cuadrado	cuadrado	ADJ	bn:00111084a
+	de		X	
+d000.s014.t005	superficie	superficie	NOUN	bn:03551355n;wiki:área_de_superficie_corporal
+d000.s014.t006	corporal	corporal	ADJ	bn:00098648a
+	(		X	
+d000.s014.t007	calculada	calcular	VERB	bn:00084373v
+	a partir de		X	
+	la		X	
+d000.s014.t008	estatura	estatura	NOUN	bn:00043545n;wiki:estatura
+	y		X	
+	el		X	
+d000.s014.t009	peso	peso	NOUN	bn:00011779n;bn:00080831n;wiki:peso;wiki:peso#el_peso_de_un_ser_humano
+	del		X	
+d000.s014.t010	paciente	paciente	NOUN	bn:00061017n;wiki:paciente
+	)		X	
+	.		X	
+	Se		X	
+d000.s014.t011	administra	administrar	VERB	bn:00082365v
+	una		X	
+d000.s014.t012	vez	vez	NOUN	bn:00019848n
+	cada		X	
+	tres		X	
+d000.s014.t013	semanas	semana	NOUN	bn:00043484n;wiki:semana
+	por		X	
+d000.s014.t014	perfusión	perfusión	NOUN	bn:00061571n
+d000.s014.t015	intravenosa	intravenoso	ADJ	bn:00102230a
+	durante		X	
+	10		X	
+d000.s014.t016	minutos	minuto	NOUN	bn:00055094n;wiki:minuto
+	.		X	
+	-end-		X	
+	Con		X	
+	el		X	
+d000.s015.t000	fin	fin	NOUN	bn:00030721n
+	de		X	
+d000.s015.t001	reducir	reducir	VERB	bn:00082125v;bn:00084079v
+	los		X	
+d000.s015.t002	efectos	efecto	NOUN	bn:00071445n;bn:00450782n;bn:00686074n;wiki:reacción_adversa_a_medicamento
+d000.s015.t003	secundarios	secundario	ADJ	bn:00110247a;bn:00110248a;bn:00110249a
+	,		X	
+	los		X	
+d000.s015.t004	pacientes	paciente	NOUN	bn:00061017n;wiki:paciente
+	deben	deber	VERB	
+d000.s015.t005	recibir	recibir	VERB	bn:00089246v
+	un		X	
+d000.s015.t006	corticosteroide	corticosteroide	NOUN	bn:00001507n;wiki:corticosteroide
+	y		X	
+d000.s015.t007	ácido	ácido	NOUN	bn:00035585n;wiki:ácido_fólico
+	fólico	fólico	ADJ	
+	(		X	
+	un		X	
+d000.s015.t008	tipo	tipo	NOUN	bn:00035907n;bn:00073211n;bn:00078798n;bn:00078799n;wiki:tipo_nomenclatural
+	de		X	
+d000.s015.t009	vitamina	vitamina	NOUN	bn:00080147n;wiki:vitamina
+	)		X	
+	,		X	
+	así como		X	
+d000.s015.t010	inyecciones	inyección	NOUN	bn:00046787n;wiki:inyección_(medicina)
+	de		X	
+d000.s015.t011	vitamina	vitamina	NOUN	bn:00004712n;wiki:cianocobalamina
+	B12		X	
+	durante		X	
+	el		X	
+d000.s015.t012	tratamiento	tratamiento	NOUN	bn:00047235n;bn:00076843n;wiki:tratamiento_(medicina)
+	con		X	
+	Alimta	alimta	NOUN	
+	.		X	
+	-end-		X	
+	Cuando		X	
+	Alimta	alimta	NOUN	
+	se		X	
+d000.s016.t000	utiliza	utilizar	VERB	bn:00082705v;bn:00089140v
+d000.s016.t001	conjuntamente	conjuntamente	ADV	bn:00114766r
+	con		X	
+d000.s016.t002	cisplatino	cisplatino	NOUN	bn:00577781n;wiki:cisplatino
+	,		X	
+	hay que	haber~que	VERB	
+d000.s016.t003	administrar	administrar	VERB	bn:00082365v
+d000.s016.t004	además	además	ADV	bn:00114134r;bn:00114246r;bn:00115484r
+	un		X	
+d000.s016.t005	medicamento	medicamento	NOUN	bn:00031708n;bn:00054128n;bn:00061887n;wiki:medicamento;wiki:prescripción_(medicina)
+	«		X	
+d000.s016.t006	antiemético	antiemético	NOUN	bn:00004656n;wiki:antiemético
+	»		X	
+	(		X	
+	para		X	
+d000.s016.t007	evitar	evitar	VERB	bn:00088454v;bn:00090033v
+	los		X	
+d000.s016.t008	vómitos	vómito	NOUN	bn:00027565n;wiki:regurgitación;wiki:vómito
+	)		X	
+	y		X	
+d000.s016.t009	líquidos	líquido	NOUN	bn:00051471n;bn:00051473n
+	(		X	
+	para		X	
+d000.s016.t010	evitar	evitar	VERB	bn:00088454v;bn:00090033v
+	la		X	
+d000.s016.t011	deshidratación	deshidratación	NOUN	bn:00025982n;bn:00025983n;wiki:deshidratación
+	)		X	
+	antes		X	
+	o		X	
+	después de		X	
+	la		X	
+d000.s016.t012	dosis	dosis	NOUN	bn:00028320n;wiki:dosis
+	de		X	
+d000.s016.t013	cisplatino	cisplatino	NOUN	bn:00577781n;wiki:cisplatino
+	.		X	
+	-end-		X	
+	Será	ser	VERB	
+d000.s017.t000	necesario	necesario	ADJ	bn:00107194a
+	retrasar	retrasar	VERB	
+	o		X	
+d000.s017.t001	suspender	suspender	VERB	bn:00083908v;bn:00083995v
+	el		X	
+d000.s017.t002	tratamiento	tratamiento	NOUN	bn:00047235n;bn:00076843n;wiki:tratamiento_(medicina)
+	,		X	
+	o		X	
+d000.s017.t003	reducir	reducir	VERB	bn:00084079v;bn:00086418v
+	la		X	
+d000.s017.t004	dosis	dosis	NOUN	bn:00028320n;wiki:dosis
+	,		X	
+	en		X	
+d000.s017.t005	pacientes	paciente	NOUN	bn:00061017n;wiki:paciente
+	que		X	
+d000.s017.t006	presenten	presentar	VERB	bn:00087013v;bn:00088078v
+d000.s017.t007	alteraciones	alteración	NOUN	bn:00003125n;bn:00017651n
+	en		X	
+	los		X	
+	recuentos	recuento	NOUN	
+	sanguíneos	sanguíneo	ADJ	
+	o		X	
+d000.s017.t008	determinados	determinado	ADJ	bn:00103595a
+d000.s017.t009	efectos	efecto	NOUN	bn:00071445n;bn:00450782n;bn:00686074n;wiki:reacción_adversa_a_medicamento
+d000.s017.t010	secundarios	secundario	ADJ	bn:00110247a;bn:00110248a;bn:00110249a
+	.		X	
+	-end-		X	
+d000.s018.t000	No	no	ADV	bn:00116360r
+	se		X	
+d000.s018.t001	recomienda	recomendar	VERB	bn:00082418v;bn:00085410v
+d000.s018.t002	administrar	administrar	VERB	bn:00082365v
+	Alimta	alimta	NOUN	
+	a		X	
+d000.s018.t003	pacientes	paciente	NOUN	bn:00061017n;wiki:paciente
+	con		X	
+d000.s018.t004	problemas	problema	NOUN	bn:00002171n;bn:00048242n
+d000.s018.t005	renales	renal	ADJ	bn:00107226a
+d000.s018.t006	moderados	moderado	ADJ	bn:00106826a;bn:00106827a
+	o		X	
+d000.s018.t007	graves	grave	ADJ	bn:00100896a
+	.		X	
+	-end-		X	
+	Si		X	
+d000.s019.t000	desea	desear	VERB	bn:00086682v;bn:00086684v
+d000.s019.t001	más	más	ADV	bn:00116285r
+d000.s019.t002	información	información	NOUN	bn:00046705n;wiki:información
+	,		X	
+d000.s019.t003	consulte	consultar	VERB	bn:00085686v
+	el		X	
+d000.s019.t004	Resumen	resumen	NOUN	bn:00031259n;bn:00075142n
+	de		X	
+	las		X	
+d000.s019.t005	Características	característica	NOUN	bn:00017747n;bn:00017761n;bn:00017762n
+	del		X	
+d000.s019.t006	Producto	producto	NOUN	bn:00064584n;bn:00064585n
+	,		X	
+	que		X	
+d000.s019.t007	también	también	ADV	bn:00114246r
+d000.s019.t008	forma	formar	VERB	bn:00085670v
+d000.s019.t009	parte	parte	NOUN	bn:00027912n;bn:00070193n;wiki:segmento
+	del		X	
+	EPAR	epar	NOUN	
+	.		X	
+	-end-		X	
+	¿Cómo	cómo	ADV	
+d000.s020.t000	actúa	actuar	VERB	bn:00082286v
+	Alimta	alimta	NOUN	
+	?		X	
+	-end-		X	
+	El		X	
+d000.s021.t000	principio	principio	NOUN	bn:00377649n;wiki:fármaco
+d000.s021.t001	activo	activo	ADJ	bn:00096382a;bn:00096387a
+	de		X	
+	Alimta	alimta	NOUN	
+	,		X	
+	el		X	
+d000.s021.t002	pemetrexed	pemetrexed	NOUN	bn:00602447n
+	,		X	
+	es	ser	VERB	
+	un		X	
+d000.s021.t003	medicamento	medicamento	NOUN	bn:00031708n;bn:00054128n;bn:00061887n;wiki:medicamento;wiki:prescripción_(medicina)
+d000.s021.t004	citotóxico	citotóxico	NOUN	bn:00024920n;wiki:citotoxicidad
+	(		X	
+	un		X	
+d000.s021.t005	medicamento	medicamento	NOUN	bn:00031708n;bn:00054128n;bn:00061887n;wiki:medicamento;wiki:prescripción_(medicina)
+	que		X	
+d000.s021.t006	destruye	destruir	VERB	bn:00086698v;bn:00086699v;bn:00090134v
+	las		X	
+d000.s021.t007	células	célula	NOUN	bn:00017027n;wiki:célula
+	que		X	
+	están	estar	VERB	
+	en		X	
+d000.s021.t008	fase	fase	NOUN	bn:00025966n;bn:00061898n
+	de		X	
+d000.s021.t009	división	división	NOUN	bn:00027913n;bn:00027920n;bn:00070547n
+	,		X	
+	como		X	
+	las		X	
+d000.s021.t010	cancerosas	canceroso	ADJ	bn:00099180a
+	)		X	
+	que		X	
+d000.s021.t011	pertenece	pertenecer	VERB	bn:00083389v
+	al		X	
+d000.s021.t012	grupo	grupo	NOUN	bn:00041942n
+	de		X	
+	los		X	
+	«		X	
+d000.s021.t013	antimetabolitos	antimetabolitos	NOUN	bn:00004691n;wiki:antimetabolito
+	»		X	
+	.		X	
+	-end-		X	
+	En		X	
+	el		X	
+d000.s022.t000	organismo	organismo	NOUN	bn:00004257n;bn:00009677n;wiki:ser_vivo
+	,		X	
+	el		X	
+d000.s022.t001	pemetrexed	pemetrexed	NOUN	bn:00602447n
+	se		X	
+d000.s022.t002	convierte	convertir	VERB	bn:00085761v;bn:00085768v
+	en		X	
+	una		X	
+d000.s022.t003	forma	forma	NOUN	bn:00035908n;wiki:forma_musical
+d000.s022.t004	activa	activo	ADJ	bn:00096382a;bn:00096387a
+	que		X	
+d000.s022.t005	bloquea	bloquear	VERB	bn:00083629v;bn:00083630v;bn:00083636v;bn:00083642v
+	la		X	
+d000.s022.t006	actividad	actividad	NOUN	bn:00001173n
+	de		X	
+	las		X	
+d000.s022.t007	enzimas	enzima	NOUN	bn:00031085n;wiki:enzima
+	que		X	
+d000.s022.t008	participan	participar	VERB	bn:00087628v;bn:00087677v
+	en		X	
+	la		X	
+d000.s022.t009	producción	producción	NOUN	bn:00064590n
+	de		X	
+	«		X	
+d000.s022.t010	nucleótidos	nucleótido	NOUN	bn:00008788n;wiki:nucleótido
+	»		X	
+	(		X	
+d000.s022.t011	elementos	elemento	NOUN	bn:00021396n
+d000.s022.t012	esenciales	esencial	ADJ	bn:00099258a;bn:00102400a;bn:00102401a
+	del		X	
+d000.s022.t013	ADN	adn	NOUN	bn:00026301n;wiki:ácido_desoxirribonucleico
+	y		X	
+	el		X	
+	ARN	arn	NOUN	
+	,		X	
+	el		X	
+d000.s022.t014	material	material	NOUN	bn:00037738n;wiki:genoma
+d000.s022.t015	genético	genético	ADJ	bn:00103522a
+	de		X	
+	las		X	
+d000.s022.t016	células	célula	NOUN	bn:00017027n;wiki:célula
+	)		X	
+	.		X	
+	-end-		X	
+	¿Qué	qué	ADJ	
+d000.s023.t000	tipo	tipo	NOUN	bn:00035907n;bn:00073211n;bn:00078798n
+	de		X	
+d000.s023.t001	estudios	estudio	NOUN	bn:00030952n;bn:00074790n
+	se		X	
+	han	haber	VERB	
+d000.s023.t002	realizado	realizar	VERB	bn:00082225v;bn:00082311v;bn:00087107v
+	con		X	
+	Alimta	alimta	NOUN	
+	?		X	
+	-end-		X	
+	Por		X	
+	lo		X	
+	que		X	
+	se		X	
+d000.s024.t000	refiere	referir	VERB	bn:00083240v
+	al		X	
+d000.s024.t001	tratamiento	tratamiento	NOUN	bn:00047235n;bn:00076843n;wiki:tratamiento_(medicina)
+	del		X	
+d000.s024.t002	mesotelioma	mesotelioma	NOUN	bn:00054512n;wiki:mesotelioma
+d000.s024.t003	pleural	pleural	ADJ	bn:00108692a
+d000.s024.t004	maligno	maligno	ADJ	bn:00106363a
+	,		X	
+	Alimta	alimta	NOUN	
+	ha	haber	VERB	
+	sido	ser	VERB	
+d000.s024.t005	evaluado	evaluar	VERB	bn:00082720v
+	en		X	
+	un		X	
+d000.s024.t006	estudio	estudio	NOUN	bn:00030952n;bn:00067181n;bn:00074790n;wiki:informe
+d000.s024.t007	principal	principal	ADJ	bn:00098086a;bn:00105809a;bn:00106332a
+d000.s024.t008	realizado	realizar	VERB	bn:00082225v;bn:00082311v;bn:00087107v;bn:00087108v
+	en		X	
+	456		X	
+d000.s024.t009	pacientes	paciente	NOUN	bn:00061017n;wiki:paciente
+	que		X	
+d000.s024.t010	no	no	ADV	bn:00116360r
+	habían	haber	VERB	
+d000.s024.t011	recibido	recibir	VERB	bn:00089246v
+d000.s024.t012	quimioterapia	quimioterapia	NOUN	bn:00018141n;wiki:quimioterapia
+d000.s024.t013	anteriormente	anteriormente	ADV	bn:00114297r;bn:00114423r
+	.		X	
+	-end-		X	
+	Se		X	
+d000.s025.t000	compararon	comparar	VERB	bn:00085450v
+	los		X	
+d000.s025.t001	efectos	efecto	NOUN	bn:00021961n;bn:00046065n
+	de		X	
+	Alimta	alimta	NOUN	
+	en		X	
+d000.s025.t002	combinación	combinación	NOUN	bn:00020872n;bn:00020878n;bn:00020884n
+	con		X	
+d000.s025.t003	cisplatino	cisplatino	NOUN	bn:00577781n;wiki:cisplatino
+	con		X	
+	los		X	
+d000.s025.t004	efectos	efecto	NOUN	bn:00021961n;bn:00046065n
+	del		X	
+d000.s025.t005	cisplatino	cisplatino	NOUN	bn:00577781n;wiki:cisplatino
+d000.s025.t006	administrado	administrar	VERB	bn:00082365v
+	en		X	
+d000.s025.t007	solitario	solitario	ADJ	bn:00106121a
+	.		X	
+	-end-		X	
+	En		X	
+	cuanto		X	
+	al		X	
+d000.s026.t000	tratamiento	tratamiento	NOUN	bn:08342574n;wiki:tratamiento_del_cáncer_de_pulmón
+	del		X	
+d000.s026.t001	cáncer	cáncer	NOUN	bn:00052343n;wiki:cáncer_de_pulmón
+	de		X	
+d000.s026.t002	pulmón	pulmón	NOUN	bn:00052341n;wiki:pulmón
+	no	no	NOUN	
+d000.s026.t003	microcítico	microcito	NOUN	bn:00054742n
+	,		X	
+	se		X	
+d000.s026.t004	compararon	comparar	VERB	bn:00085450v
+	los		X	
+d000.s026.t005	efectos	efecto	NOUN	bn:00021961n;bn:00046065n
+	de		X	
+	Alimta	alimta	NOUN	
+	con		X	
+	los		X	
+	del		X	
+d000.s026.t006	docetaxel	docetaxel	NOUN	bn:01537207n;wiki:docetaxel
+	(		X	
+	otro		X	
+d000.s026.t007	medicamento	medicamento	NOUN	bn:00031708n;bn:00054128n;bn:00061887n;wiki:medicamento;wiki:prescripción_(medicina)
+	contra		X	
+	el		X	
+d000.s026.t008	cáncer	cáncer	NOUN	bn:00015180n;wiki:cáncer
+	)		X	
+	en		X	
+	un		X	
+d000.s026.t009	estudio	estudio	NOUN	bn:00030952n;bn:00067181n;bn:00074790n;wiki:informe
+d000.s026.t010	realizado	realizar	VERB	bn:00082225v;bn:00082311v;bn:00087107v;bn:00087108v
+	en		X	
+	571		X	
+d000.s026.t011	pacientes	paciente	NOUN	bn:00061017n;wiki:paciente
+	con		X	
+d000.s026.t012	enfermedad	enfermedad	NOUN	bn:00002171n;bn:00027546n;bn:00045952n;bn:00071428n;wiki:enfermedad
+	localmente	localmente	ADV	
+d000.s026.t013	avanzada	avanzar	VERB	bn:00088478v
+	o		X	
+d000.s026.t014	metastásica	metastásico	NOUN	bn:00054585n;wiki:metástasis
+	que		X	
+	habían	haber	VERB	
+d000.s026.t015	recibido	recibir	VERB	bn:00089246v
+d000.s026.t016	quimioterapia	quimioterapia	NOUN	bn:00018141n;wiki:quimioterapia
+d000.s026.t017	previamente	previamente	ADV	bn:00114297r;bn:00114512r
+	.		X	
+	-end-		X	
+	Alimta	alimta	NOUN	
+d000.s027.t000	también	también	ADV	bn:00114246r
+	se		X	
+d000.s027.t001	comparó	comparar	VERB	bn:00085450v
+	con		X	
+d000.s027.t002	gemcitabina	gemcitabina	NOUN	bn:00848690n;wiki:gemcitabina
+	(		X	
+	otro		X	
+d000.s027.t003	medicamento	medicamento	NOUN	bn:00031708n;bn:00054128n;bn:00061887n;wiki:medicamento;wiki:prescripción_(medicina)
+	contra		X	
+	el		X	
+d000.s027.t004	cáncer	cáncer	NOUN	bn:00015180n;wiki:cáncer
+	)		X	
+	,		X	
+	ambos		X	
+	en		X	
+d000.s027.t005	combinación	combinación	NOUN	bn:00020872n;bn:00020878n;bn:00020884n
+	con		X	
+d000.s027.t006	cisplatino	cisplatino	NOUN	bn:00577781n;wiki:cisplatino
+	,		X	
+	en		X	
+	un		X	
+d000.s027.t007	estudio	estudio	NOUN	bn:00030952n;bn:00067181n;bn:00074790n;wiki:informe
+	con		X	
+	1.725		X	
+d000.s027.t008	pacientes	paciente	NOUN	bn:00061017n;wiki:paciente
+	que		X	
+	no	no	NOUN	
+	habían	haber	VERB	
+d000.s027.t009	recibido	recibir	VERB	bn:00089246v
+d000.s027.t010	quimioterapia	quimioterapia	NOUN	bn:00018141n;wiki:quimioterapia
+	contra		X	
+	el		X	
+d000.s027.t011	cáncer	cáncer	NOUN	bn:00052343n;wiki:cáncer_de_pulmón
+	de		X	
+d000.s027.t012	pulmón	pulmón	NOUN	bn:00052341n;wiki:pulmón
+d000.s027.t013	previamente	previamente	ADV	bn:00114297r;bn:00114512r
+	.		X	
+	-end-		X	
+	En		X	
+	los		X	
+	tres		X	
+d000.s028.t000	estudios	estudio	NOUN	bn:00030952n;bn:00067181n;bn:00074790n;wiki:informe
+	,		X	
+	el		X	
+d000.s028.t001	criterio	criterio	NOUN	bn:00023853n;wiki:norma_(tecnología)
+d000.s028.t002	principal	principal	ADJ	bn:00098086a;bn:00105809a;bn:00106332a
+	de		X	
+d000.s028.t003	valoración	valoración	NOUN	bn:00005164n;bn:00006502n;wiki:aproximación;wiki:estimación
+	de		X	
+	la		X	
+d000.s028.t004	eficacia	eficacia	NOUN	bn:00029876n;bn:00029877n;bn:00029888n;wiki:efectividad
+	fue	ser	VERB	
+	el		X	
+d000.s028.t005	tiempo	tiempo	NOUN	bn:00077268n
+	de		X	
+d000.s028.t006	supervivencia	supervivencia	NOUN	bn:00030811n;bn:03155178n
+	de		X	
+	los		X	
+d000.s028.t007	pacientes	paciente	NOUN	bn:00061017n;wiki:paciente
+	.		X	
+	-end-		X	
+	¿Qué	¿qué	NOUN	
+d000.s029.t000	beneficio	beneficio	NOUN	bn:00009905n;bn:00037022n
+	ha	haber	VERB	
+d000.s029.t001	demostrado	demostrar	VERB	bn:00086567v;bn:00092109v
+d000.s029.t002	tener	tener	VERB	bn:00089240v
+	Alimta	alimta	NOUN	
+	durante		X	
+	los		X	
+d000.s029.t003	estudios	estudio	NOUN	bn:00030952n;bn:00067181n;bn:00074790n;wiki:informe
+	?		X	
+	-end-		X	
+	Alimta	alimta	NOUN	
+d000.s030.t000	prolongó	prolongar	VERB	bn:00087274v;bn:00090070v
+	el		X	
+d000.s030.t001	tiempo	tiempo	NOUN	bn:00077268n
+	de		X	
+d000.s030.t002	supervivencia	supervivencia	NOUN	bn:00030811n;bn:00075436n;bn:03155178n
+	de		X	
+	los		X	
+d000.s030.t003	pacientes	paciente	NOUN	bn:00061017n;wiki:paciente
+	con		X	
+d000.s030.t004	mesotelioma	mesotelioma	NOUN	bn:00054512n;wiki:mesotelioma
+d000.s030.t005	pleural	pleural	ADJ	bn:00108692a
+d000.s030.t006	maligno	maligno	ADJ	bn:00106363a
+	.		X	
+	-end-		X	
+	Los		X	
+d000.s031.t000	pacientes	paciente	NOUN	bn:00061017n;wiki:paciente
+	que		X	
+d000.s031.t001	recibieron	recibir	VERB	bn:00089246v
+	Alimta	alimta	NOUN	
+	y		X	
+d000.s031.t002	cisplatino	cisplatino	NOUN	bn:00577781n;wiki:cisplatino
+d000.s031.t003	sobrevivieron	sobrevivir	VERB	bn:00085382v;bn:00087617v
+	una		X	
+d000.s031.t004	media	media	NOUN	bn:00005677n;bn:00007449n;bn:00054001n;wiki:esperanza_matemática;wiki:media;wiki:media_(matemáticas);wiki:media_aritmética
+	de		X	
+	12,1		X	
+d000.s031.t005	meses	mes	NOUN	bn:00055794n;wiki:mes
+	,		X	
+	mientras que		X	
+	la		X	
+d000.s031.t006	supervivencia	supervivencia	NOUN	bn:00030811n;bn:03155178n
+	de		X	
+	los		X	
+d000.s031.t007	enfermos	enfermo	NOUN	bn:00071414n
+d000.s031.t008	tratados	tratar	VERB	bn:00084532v;bn:00087136v
+d000.s031.t009	sólo	sólo	ADV	bn:00114234r;bn:00114626r
+	con		X	
+d000.s031.t010	cisplatino	cisplatino	NOUN	bn:00577781n;wiki:cisplatino
+	fue	ser	VERB	
+	de		X	
+	9,3		X	
+d000.s031.t011	meses	mes	NOUN	bn:00055794n;wiki:mes
+	.		X	
+	-end-		X	
+	En		X	
+	el		X	
+d000.s032.t000	tratamiento	tratamiento	NOUN	bn:00047235n;bn:00076843n;wiki:tratamiento_(medicina)
+	de		X	
+d000.s032.t001	pacientes	paciente	NOUN	bn:00061017n;wiki:paciente
+	con		X	
+d000.s032.t002	cáncer	cáncer	NOUN	bn:00052343n;wiki:cáncer_de_pulmón
+	de		X	
+d000.s032.t003	pulmón	pulmón	NOUN	bn:00052341n;wiki:pulmón
+	no	no	NOUN	
+d000.s032.t004	microcítico	microcito	NOUN	bn:00054742n
+	,		X	
+	Alimta	alimta	NOUN	
+	fue	ser	VERB	
+d000.s032.t005	tan	tan	ADV	bn:00114354r
+d000.s032.t006	efectivo	efectivo	ADJ	bn:00102038a;bn:00102040a
+	como		X	
+	los		X	
+d000.s032.t007	medicamentos	medicamento	NOUN	bn:00031708n;bn:00054128n;bn:00061887n;wiki:medicamento;wiki:prescripción_(medicina)
+	de		X	
+d000.s032.t008	comparación	comparación	NOUN	bn:00021297n;bn:00021303n
+	.		X	
+	-end-		X	
+	En		X	
+	los		X	
+d000.s033.t000	pacientes	paciente	NOUN	bn:00061017n;wiki:paciente
+	que		X	
+	habían	haber	VERB	
+d000.s033.t001	recibido	recibir	VERB	bn:00089246v
+d000.s033.t002	quimioterapia	quimioterapia	NOUN	bn:00018141n;wiki:quimioterapia
+d000.s033.t003	previamente	previamente	ADV	bn:00114297r;bn:00114512r
+	,		X	
+	el		X	
+d000.s033.t004	tiempo	tiempo	NOUN	bn:00077268n
+d000.s033.t005	medio	medio	ADJ	bn:00097854a
+	de		X	
+d000.s033.t006	supervivencia	supervivencia	NOUN	bn:00030811n;bn:00075436n;bn:03155178n
+	fue	ser	VERB	
+	de		X	
+	8,3		X	
+d000.s033.t007	meses	mes	NOUN	bn:00055794n;wiki:mes
+	con		X	
+	Alimta	alimta	NOUN	
+	frente a		X	
+	7,9		X	
+d000.s033.t008	meses	mes	NOUN	bn:00055794n;wiki:mes
+	con		X	
+d000.s033.t009	docetaxel	docetaxel	NOUN	bn:01537207n;wiki:docetaxel
+	.		X	
+	-end-		X	
+	En		X	
+d000.s034.t000	pacientes	paciente	NOUN	bn:00061017n;wiki:paciente
+	que		X	
+	no	no	NOUN	
+	habían	haber	VERB	
+d000.s034.t001	recibido	recibir	VERB	bn:00089246v
+d000.s034.t002	previamente	previamente	ADV	bn:00114297r;bn:00114512r
+d000.s034.t003	quimioterapia	quimioterapia	NOUN	bn:00018141n;wiki:quimioterapia
+	,		X	
+d000.s034.t004	el		X	bn:00077267n;bn:00077268n
+d000.s034.t005	tiempo	tiempo	NOUN	bn:00077268n
+d000.s034.t006	medio	medio	ADJ	bn:00097854a
+	de		X	
+d000.s034.t007	supervivencia	supervivencia	NOUN	bn:00030811n;bn:00075436n;bn:03155178n
+	fue	ser	VERB	
+	de		X	
+	10,3		X	
+d000.s034.t008	meses	mes	NOUN	bn:00055794n;wiki:mes
+	en		X	
+	ambos		X	
+d000.s034.t009	grupos	grupo	NOUN	bn:00041942n;bn:00072536n;wiki:grupo_social
+	.		X	
+	-end-		X	
+d000.s035.t000	No obstante	no~obstante	ADV	bn:00114216r
+	,		X	
+	los		X	
+d000.s035.t001	pacientes	paciente	NOUN	bn:00061017n;wiki:paciente
+	de		X	
+	ambos		X	
+d000.s035.t002	estudios	estudio	NOUN	bn:00030952n;bn:00067181n;bn:00074790n;wiki:informe
+	cuyo		X	
+d000.s035.t003	cáncer	cáncer	NOUN	bn:00015180n;wiki:cáncer
+	no	no	NOUN	
+d000.s035.t004	afectaba	afectar	VERB	bn:00082426v;bn:00082427v
+	a		X	
+	las		X	
+d000.s035.t005	células	célula	NOUN	bn:00073708n;bn:08363874n;wiki:células_escamosas;wiki:epitelio_escamoso_estratificado
+	escamosas	escamosas	ADJ	
+d000.s035.t006	presentaban	presentar	VERB	bn:00087013v;bn:00088078v
+	un		X	
+d000.s035.t007	mayor	grande	ADJ	bn:00098342a
+d000.s035.t008	tiempo	tiempo	NOUN	bn:00077268n
+	de		X	
+d000.s035.t009	supervivencia	supervivencia	NOUN	bn:00030811n;bn:00075436n;bn:03155178n
+	cuando		X	
+d000.s035.t010	recibían	recibir	VERB	bn:00089246v
+	Alimta	alimta	NOUN	
+	que		X	
+	cuando		X	
+d000.s035.t011	recibían	recibir	VERB	bn:00089246v
+	el		X	
+d000.s035.t012	medicamento	medicamento	NOUN	bn:00031708n;bn:00054128n;bn:00061887n;wiki:medicamento;wiki:prescripción_(medicina)
+	de		X	
+d000.s035.t013	comparación	comparación	NOUN	bn:00021297n;bn:00021303n
+	.		X	
+	-end-		X	
+d000.s036.t000	Por el contrario	por el contrario	ADV	bn:00114842r
+	,		X	
+	los		X	
+d000.s036.t001	pacientes	paciente	NOUN	bn:00061017n;wiki:paciente
+	cuyo		X	
+d000.s036.t002	cáncer	cáncer	NOUN	bn:00015180n;wiki:cáncer
+	estaba	estar	VERB	
+d000.s036.t003	afectando	afectar	VERB	bn:00082426v;bn:00082427v
+	a		X	
+	las		X	
+d000.s036.t004	células	célula	NOUN	bn:00073708n;bn:08363874n;wiki:células_escamosas;wiki:epitelio_escamoso_estratificado
+	escamosas	escamosas	ADJ	
+d000.s036.t005	presentaron	presentar	VERB	bn:00087013v;bn:00088078v
+d000.s036.t006	tiempos	tiempo	NOUN	bn:00077268n
+	de		X	
+d000.s036.t007	supervivencia	supervivencia	NOUN	bn:00030811n;bn:00075436n;bn:03155178n
+d000.s036.t008	más	más	ADV	bn:00116284r
+d000.s036.t009	breve	breve	ADJ	bn:00098854a;bn:00102300a
+	si		X	
+	se		X	
+	les		X	
+d000.s036.t010	trataba	tratar	VERB	bn:00084532v;bn:00087136v
+	con		X	
+	Alimta	alimta	NOUN	
+	.		X	
+	kalgebra	kalgebra	NOUN	
+	es	ser	VERB	
+	una		X	
+d000.s036.t011	calculadora	calculadora	NOUN	bn:03466887n;wiki:calculadora_(windows)
+d000.s036.t012	matemática	matemático	ADJ	bn:00106488a;bn:00106489a
+d000.s036.t013	basada	basar	VERB	bn:00083141v
+	en		X	
+	el		X	
+d000.s036.t014	lenguaje	lenguaje	NOUN	bn:00053492n;wiki:lenguaje_de_marcado
+	de		X	
+	marcado	marcado	NOUN	
+	MathML	mathml	NOUN	
+	.		X	
+	-end-		X	
+d000.s037.t000	Hoy	hoy	ADV	bn:00058218n;wiki:presente_(tiempo)
+	en		X	
+	día	día	NOUN	
+	es	ser	VERB	
+d000.s037.t001	capaz	capaz	ADJ	bn:00096151a;bn:00111427a
+	de		X	
+d000.s037.t002	realizar	realizar	VERB	bn:00082225v;bn:00082311v;bn:00087107v;bn:00087108v
+d000.s037.t003	operaciones	operación	NOUN	bn:00053826n;bn:00059128n;wiki:operación_matemática
+d000.s037.t004	simples	simple	ADJ	bn:00102111a
+	(		X	
+d000.s037.t005	aritméticas	aritmético	ADJ	bn:00097495a
+	y		X	
+d000.s037.t006	lógicas	lógico	ADJ	bn:00106117a
+	)		X	
+d000.s037.t007	usando	usar	VERB	bn:00082705v
+	MathML	mathml	NOUN	
+	y		X	
+	de		X	
+d000.s037.t008	representarlas	representar	VERB	bn:00089839v
+	en		X	
+d000.s037.t009	gráficas	gráfica	NOUN	bn:00017904n;bn:00041412n;wiki:diagrama;wiki:gráfica_de_una_función
+	de		X	
+	dos		X	
+	y		X	
+d000.s037.t010	tres		X	bn:00076958n;bn:03099624n;wiki:dimensión_de_un_espacio_vectorial;wiki:tridimensional
+d000.s037.t011	dimensiones	dimensión	NOUN	bn:00027152n;bn:03099624n;wiki:dimensión_de_un_espacio_vectorial
+	.		X	
+	-end-		X	
+	No	no	NOUN	
+	es	ser	VERB	
+d000.s038.t000	necesario	necesario	ADJ	bn:00107182a;bn:00107194a
+d000.s038.t001	conocer	conocer	VERB	bn:00090141v;bn:00090143v
+	MathML	mathml	NOUN	
+	para		X	
+d000.s038.t002	usar	usar	VERB	bn:00082705v;bn:00095474v
+	kalgebra	kalgebra	NOUN	
+	.		X	
+	kalgebra	kalgebra	NOUN	
+	es	ser	VERB	
+	una		X	
+d000.s038.t003	calculadora	calculadora	NOUN	bn:02710162n;wiki:calculadora_gráfica
+d000.s038.t004	gráfica	gráfico	ADJ	bn:00103741a
+d000.s038.t005	basada	basar	VERB	bn:00083141v
+	en		X	
+	MathML	mathml	NOUN	
+	.		X	
+	-end-		X	
+	Aunque		X	
+	en		X	
+	un		X	
+d000.s039.t000	principio	principio	NOUN	bn:00009632n;bn:00009633n
+	estuvo	estar	VERB	
+d000.s039.t001	orientado	orientar	VERB	bn:00091199v
+	a		X	
+	MathML	mathml	NOUN	
+	,		X	
+d000.s039.t002	actualmente	actualmente	ADV	bn:00114119r;bn:00114905r
+	puede	poder	VERB	
+	ser	ser	VERB	
+d000.s039.t003	usado	usar	VERB	bn:00082705v;bn:00095474v
+	por		X	
+	cualquier		X	
+d000.s039.t004	persona	persona	NOUN	bn:00023661n;bn:00046516n;wiki:alma_en_pena;wiki:individuo;wiki:persona
+	,		X	
+	aunque		X	
+d000.s039.t005	posea	poseer	VERB	bn:00089240v
+	pocos		X	
+d000.s039.t006	conocimientos	conocimiento	NOUN	bn:00020452n;bn:00030716n;wiki:aprendizaje;wiki:conocimiento
+d000.s039.t007	matemáticos	matemático	ADJ	bn:00106488a;bn:00106489a
+	.		X	
+	-end-		X	
+d000.s040.t000	Aquí	aquí	ADV	bn:00115639r;bn:00115640r
+	se		X	
+d000.s040.t001	muestra	mostrar	VERB	bn:00086611v;bn:00093682v
+	una		X	
+	captura	captura	NOUN	
+	de		X	
+	la		X	
+d000.s040.t002	ventana	ventana	NOUN	bn:00081292n;wiki:ventana_(informática)
+d000.s040.t003	principal	principal	ADJ	bn:00098086a;bn:00099598a;bn:00106332a
+	de		X	
+	kalgebra	kalgebra	NOUN	
+	.		X	
+d000.s040.t004	Ventana	ventana	NOUN	bn:00081292n;wiki:ventana_(informática)
+d000.s040.t005	principal	principal	ADJ	bn:00098086a;bn:00099598a;bn:00106332a
+	de		X	
+	kalgebra	kalgebra	NOUN	
+	La		X	
+d000.s040.t006	ventana	ventana	NOUN	bn:00081292n;wiki:ventana_(informática)
+d000.s040.t007	principal	principal	ADJ	bn:00098086a;bn:00099598a;bn:00106332a
+	de		X	
+	kalgebra	kalgebra	NOUN	
+d000.s040.t008	consta	constar	VERB	bn:00085498v
+	de		X	
+	cuatro		X	
+d000.s040.t009	pestañas	pestaña	NOUN	bn:00120018n;wiki:navegación_por_pestañas
+	:		X	
+d000.s040.t010	Consola	consola	NOUN	bn:00020949n;wiki:línea_de_comandos
+	,		X	
+d000.s040.t011	Gráfica	gráfica	NOUN	bn:00017904n;bn:00041412n;wiki:diagrama;wiki:gráfica_de_una_función
+d000.s040.t012	2D	2d	NOUN	bn:00780722n;wiki:bidimensional
+	,		X	
+d000.s040.t013	Gráfica	gráfica	NOUN	bn:00017904n;bn:00041412n;wiki:diagrama;wiki:gráfica_de_una_función
+d000.s040.t014	3D	3d	NOUN	bn:00076958n;wiki:tridimensional
+	y		X	
+d000.s040.t015	Diccionario	diccionario	NOUN	bn:00026967n;wiki:diccionario
+	.		X	
+	-end-		X	
+	Bajo		X	
+	estas		X	
+d000.s041.t000	pestañas	pestaña	NOUN	bn:00120018n;wiki:navegación_por_pestañas
+d000.s041.t001	encontrará	encontrar	VERB	bn:00082811v;bn:00084231v;bn:00086708v;bn:00088204v
+	un		X	
+d000.s041.t002	campo	campo	NOUN	bn:00034274n;wiki:campo_(informática)
+	de		X	
+d000.s041.t003	entrada	entrada	NOUN	bn:00031062n;bn:04599439n;wiki:entrada
+	donde	donde	ADV	
+	podrá	poder	VERB	
+d000.s041.t004	introducir	introducir	VERB	bn:00087594v;bn:00089861v
+	sus		X	
+d000.s041.t005	funciones	función	NOUN	bn:00036821n;wiki:función_matemática
+	o		X	
+d000.s041.t006	realizar	realizar	VERB	bn:00082225v;bn:00087107v;bn:00087108v
+	sus		X	
+d000.s041.t007	cálculos	cálculo	NOUN	bn:00014688n;bn:00014689n;wiki:cuenta_(matemáticas)
+	.		X	
+	-end-		X	
+	Para		X	
+d000.s042.t000	entender	entender	VERB	bn:00092443v;bn:00095375v
+	cómo	cómo	ADV	
+d000.s042.t001	funciona	funcionar	VERB	bn:00088629v
+	,		X	
+	conviene	convenir	VERB	
+d000.s042.t002	comprender	comprender	VERB	bn:00082723v;bn:00095375v
+	que		X	
+	lo		X	
+	que		X	
+d000.s042.t003	introducimos	introducir	VERB	bn:00087594v;bn:00089861v
+	está	estar	VERB	
+	siendo	ser	VERB	
+d000.s042.t004	convertido	convertir	VERB	bn:00084785v;bn:00085761v
+	a		X	
+	MathML	mathml	NOUN	
+	,		X	
+	aunque		X	
+	no	no	NOUN	
+	es	ser	VERB	
+d000.s042.t005	necesario	necesario	ADJ	bn:00107182a;bn:00107194a
+d000.s042.t006	conocer	conocer	VERB	bn:00090141v;bn:00090143v
+d000.s042.t007	MathML	mathml	NOUN	bn:03313895n;wiki:mathml
+	.		X	
+	-end-		X	
+	He	haber	VERB	
+d000.s043.t000	basado	basar	VERB	bn:00083141v
+	la		X	
+d000.s043.t001	sintaxis	sintaxis	NOUN	bn:02561609n
+	en		X	
+	el		X	
+d000.s043.t002	sentido	sentido	NOUN	bn:00021164n;wiki:sentido_común
+d000.s043.t003	común	común	ADJ	bn:00100090a;bn:00100091a;bn:00100095a
+	,		X	
+	por		X	
+	lo		X	
+	que		X	
+	debería	deber	VERB	
+	ser	ser	VERB	
+d000.s043.t004	asequible	asequible	ADJ	bn:00097717a
+	para		X	
+	todos		X	
+	.		X	
+	-end-		X	
+	He	haber	VERB	
+	tenido	tener	VERB	
+d000.s044.t000	también	también	ADV	bn:00114246r
+	en		X	
+	cuenta	cuenta	NOUN	
+	las		X	
+d000.s044.t001	sintaxis	sintaxis	NOUN	bn:02561609n
+	de		X	
+	Maxima	maxima	NOUN	
+	y		X	
+	Maple	maple	NOUN	
+	,		X	
+	por		X	
+	lo		X	
+	que		X	
+	es	ser	VERB	
+d000.s044.t002	muy	muy	ADV	bn:00115300r;bn:00116789r
+d000.s044.t003	similar	similar	ADJ	bn:00096782a;bn:00105977a;bn:00110647a
+	a		X	
+	estas		X	
+	.		X	
+	+		X	
+	-		X	
+	*		X	
+	/		X	
+	:		X	
+d000.s044.t004	suma	suma	NOUN	bn:00001296n;wiki:suma;wiki:sumatorio
+	,		X	
+d000.s044.t005	resta	resta	NOUN	bn:00055233n;wiki:resta;wiki:signos_más_y_menos
+	,		X	
+d000.s044.t006	multiplicación	multiplicación	NOUN	bn:00056300n;wiki:multiplicación
+	y		X	
+d000.s044.t007	división	división	NOUN	bn:00027919n;wiki:división_(matemática)
+	.		X	
+	^		X	
+	,		X	
+	**	**	VERB	
+	:		X	
+d000.s044.t008	potencia	potencia	NOUN	bn:00032355n;bn:00032362n;wiki:potenciación
+	,		X	
+	puede	poder	VERB	
+d000.s044.t009	usar	usar	VERB	bn:00082705v;bn:00095474v
+	cualquiera		X	
+	de		X	
+	las		X	
+	dos		X	
+d000.s044.t010	formas	forma	NOUN	bn:00001965n
+	.		X	
+	-end-		X	
+d000.s045.t000	Asimismo	asimismo	ADV	bn:00114246r;bn:00116128r
+	,		X	
+	puede	poder	VERB	
+d000.s045.t001	usar	usar	VERB	bn:00082705v;bn:00095474v
+	los		X	
+d000.s045.t002	caracteres	carácter	NOUN	bn:00017752n;bn:09438926n;wiki:grafema
+	unicode	unicode	NOUN	
+	²		X	
+	.		X	
+	-end-		X	
+	Las		X	
+d000.s046.t000	potencias	potencia	NOUN	bn:00032355n;bn:00032362n;wiki:potenciación
+	son	ser	VERB	
+d000.s046.t001	también	también	ADV	bn:00114246r
+	una		X	
+d000.s046.t002	forma	forma	NOUN	bn:00001965n;bn:00016529n;bn:00033729n
+	de		X	
+d000.s046.t003	expresar	expresar	VERB	bn:00087895v
+d000.s046.t004	raíces	raíz	NOUN	bn:00068247n
+	.		X	
+	-gt		X	
+	:		X	
+d000.s046.t005	Permite	permitir	VERB	bn:00082536v
+d000.s046.t006	especificar	especificar	VERB	bn:00082858v;bn:00086464v;bn:00086468v
+	la		X	
+d000.s046.t007	variable	variable	NOUN	bn:00079581n;bn:00079583n;wiki:variable;wiki:variable_(programación)
+d000.s046.t008	limitada	limitar	VERB	bn:00083798v
+	en		X	
+	una		X	
+d000.s046.t009	función	función	NOUN	bn:00036821n;wiki:función_matemática
+	.		X	
+	(		X	
+	)		X	
+	:		X	
+	se		X	
+d000.s046.t010	usa	usar	VERB	bn:00082705v;bn:00095474v
+	para		X	
+d000.s046.t011	especificar	especificar	VERB	bn:00086464v;bn:00086468v
+	una		X	
+d000.s046.t012	prioridad	prioridad	NOUN	bn:00064072n
+	mayor	grande	ADJ	
+	.		X	
+	abc(parámetros)		X	
+	:		X	
+	Cuando		X	
+	el		X	
+d000.s046.t013	analizador	analizador	NOUN	bn:00060753n
+d000.s046.t014	sintáctico	sintáctico	ADJ	bn:00111596a
+d000.s046.t015	encuentra	encontrar	VERB	bn:00082811v;bn:00086708v;bn:00088204v
+	una		X	
+d000.s046.t016	función	función	NOUN	bn:00036821n;wiki:función_matemática
+	,		X	
+d000.s046.t017	comprueba	comprobar	VERB	bn:00084848v;bn:00086567v
+	si		X	
+	«		X	
+	abc	abc	NOUN	
+	»		X	
+	es	ser	VERB	
+	un		X	
+d000.s046.t018	operador	operador	NOUN	bn:00059141n;bn:03744320n;wiki:operador
+	.		X	
+	-end-		X	
+	Si		X	
+	lo		X	
+	es	ser	VERB	
+	,		X	
+	lo		X	
+d000.s047.t000	trata	tratar	VERB	bn:00087116v;bn:00092034v
+	como		X	
+	un		X	
+d000.s047.t001	operador	operador	NOUN	bn:00059141n;bn:03744320n;wiki:operador
+	si		X	
+	no	no	NOUN	
+	lo		X	
+	es	ser	VERB	
+	,		X	
+	lo		X	
+d000.s047.t002	trata	tratar	VERB	bn:00087116v;bn:00092034v
+	como		X	
+	una		X	
+d000.s047.t003	función	función	NOUN	bn:00036821n;wiki:función_matemática
+	de		X	
+d000.s047.t004	usuario	usuario	NOUN	bn:00079373n;wiki:usuario_(informática)
+	.		X	
+	:		X	
+	=		X	
+	:		X	
+	Se		X	
+d000.s047.t005	usa	usar	VERB	bn:00082705v;bn:00095474v
+	para		X	
+d000.s047.t006	definir	definir	VERB	bn:00086464v;bn:00086466v
+	el		X	
+d000.s047.t007	valor	valor	NOUN	bn:00079508n
+	de		X	
+	una		X	
+d000.s047.t008	variable	variable	NOUN	bn:00079581n;bn:00079583n;wiki:variable;wiki:variable_(programación)
+	.		X	
+	?		X	
+	:		X	
+d000.s047.t009	definición	definición	NOUN	bn:00025928n;wiki:definición
+	de		X	
+d000.s047.t010	condiciones	condición	NOUN	bn:00021645n
+	en		X	
+d000.s047.t011	funciones	función	NOUN	bn:00036821n;wiki:función_matemática
+d000.s047.t012	definidas	definir	VERB	bn:00086466v
+	a		X	
+d000.s047.t013	trozos	trozo	NOUN	bn:03132721n;wiki:función_definida_a_trozos
+	(		X	
+	«		X	
+	piecewise	piecewise	NOUN	
+	»		X	
+	)		X	
+	.		X	
+	-end-		X	
+d000.s048.t000	Permite	permitir	VERB	bn:00082536v
+d000.s048.t001	definir	definir	VERB	bn:00086464v;bn:00086466v
+d000.s048.t002	operaciones	operación	NOUN	bn:00053826n;bn:00059128n;wiki:operación_matemática
+d000.s048.t003	condicionales	condicional	ADJ	bn:00100214a
+	en		X	
+	kalgebra	kalgebra	NOUN	
+	.		X	
+	-end-		X	
+	Cuando		X	
+	introducimos	introducimos	VERB	
+	la		X	
+d000.s049.t000	condición	condición	NOUN	bn:00021645n
+	antes		X	
+	del		X	
+d000.s049.t001	símbolo	símbolo	NOUN	bn:00071529n;bn:00075652n;wiki:signo_lingüístico;wiki:símbolo
+	«		X	
+	?		X	
+	»		X	
+	,		X	
+	kalgebra	kalgebra	NOUN	
+d000.s049.t002	utiliza	utilizar	VERB	bn:00082705v
+	esta		X	
+d000.s049.t003	condición	condición	NOUN	bn:00021645n
+	solo	solo	ADV	
+	si		X	
+	es	ser	VERB	
+d000.s049.t004	verdadera	verdadero	ADJ	bn:00112146a
+	en cambio	en~cambio	ADV	
+	,		X	
+	si		X	
+d000.s049.t005	encuentra	encontrar	VERB	bn:00082811v;bn:00084231v;bn:00086708v;bn:00088204v
+	un		X	
+d000.s049.t006	símbolo	símbolo	NOUN	bn:00071529n;bn:00075652n;wiki:signo_lingüístico;wiki:símbolo
+	«		X	
+	?		X	
+	»		X	
+	sin		X	
+	ninguna		X	
+d000.s049.t007	condición	condición	NOUN	bn:00021645n
+	,		X	
+d000.s049.t008	toma	tomar	VERB	bn:00085649v
+	en		X	
+	cuenta	cuenta	NOUN	
+	el		X	
+d000.s049.t009	último	último	ADJ	bn:00100203a;bn:00102969a;bn:00105739a;bn:00105740a
+d000.s049.t010	caso	caso	NOUN	bn:00032099n
+	.		X	
+	{		X	
+	}		X	
+	:		X	
+	Puede	poder	VERB	
+d000.s049.t011	usarse	usar	VERB	bn:00082705v
+	para		X	
+d000.s049.t012	definir	definir	VERB	bn:00086466v
+	un		X	
+d000.s049.t013	contenedor	contenedor	NOUN	bn:03305154n
+	.		X	
+	-end-		X	
+	Es	ser	VERB	
+d000.s050.t000	muy	muy	ADV	bn:00115300r;bn:00116789r
+d000.s050.t001	útil	útil	ADJ	bn:00104094a;bn:00113455a;bn:00113456a
+	a		X	
+	la		X	
+d000.s050.t002	hora	hora	NOUN	bn:00077267n;bn:00077269n
+	de		X	
+d000.s050.t003	trabajar	trabajar	VERB	bn:00095823v
+	con		X	
+d000.s050.t004	funciones	función	NOUN	bn:00036821n;wiki:función_matemática
+d000.s050.t005	definidas	definir	VERB	bn:00086464v;bn:00086466v
+	a		X	
+d000.s050.t006	trozos	trozo	NOUN	bn:03132721n;wiki:función_definida_a_trozos
+	.		X	
+	-end-		X	
+d000.s051.t000	Ahora	ahora	ADV	bn:00114424r;bn:00116383r
+	puede	poder	VERB	
+d000.s051.t001	preguntarme	preguntar	VERB	bn:00082821v;bn:00092261v;bn:00092265v
+	por qué	por~qué	ADV	
+	debería	deber	VERB	
+	el		X	
+d000.s051.t002	usuario	usuario	NOUN	bn:00079373n;bn:01322530n;wiki:usuario_(informática)
+d000.s051.t003	preocuparse	preocupar	VERB	bn:00085522v
+	por		X	
+	MathML	mathml	NOUN	
+	.		X	
+	La		X	
+d000.s051.t004	respuesta	respuesta	NOUN	bn:00004451n
+	es	ser	VERB	
+d000.s051.t005	fácil	fácil	ADJ	bn:00101973a;bn:00102052a
+	.		X	
+	Con		X	
+	esto		X	
+	podremos	poder	VERB	
+d000.s051.t006	realizar	realizar	VERB	bn:00082225v;bn:00082311v;bn:00087107v;bn:00087108v
+d000.s051.t007	operaciones	operación	NOUN	bn:00053826n;wiki:operación_matemática
+	con		X	
+d000.s051.t008	funciones	función	NOUN	bn:00036821n;wiki:función_matemática
+	como		X	
+	cos()	cos	NOUN	
+	,		X	
+d000.s051.t009	sin()	sin	NOUN	bn:00071709n;wiki:seno_(trigonometría)
+	(		X	
+	o		X	
+	cualquier		X	
+	otra		X	
+d000.s051.t010	función	función	NOUN	bn:00019189n;wiki:función_trigonométrica
+	trigonométrica	trigonométrica	ADJ	
+	)		X	
+	,		X	
+d000.s051.t011	sum()	sum	NOUN	bn:00001296n;wiki:suma;wiki:sumatorio
+	o		X	
+d000.s051.t012	product()	product	NOUN	bn:00053827n;wiki:productorio
+	.		X	
+	-end-		X	
+	No	no	NOUN	
+d000.s052.t000	importa	importar	VERB	bn:00085860v;bn:00089815v
+	el		X	
+d000.s052.t001	tipo	tipo	NOUN	bn:03403506n
+	de		X	
+d000.s052.t002	función	función	NOUN	bn:00036821n;wiki:función_matemática
+	que		X	
+	sea	ser	VERB	
+	.		X	
+	-end-		X	
+	Podremos	poder	VERB	
+d000.s053.t000	usar	usar	VERB	bn:00082705v
+d000.s053.t001	plus()	plus	NOUN	bn:00001296n;wiki:suma;wiki:sumatorio
+	,		X	
+d000.s053.t002	times()	times	NOUN	bn:00053827n;wiki:productorio
+	y		X	
+	cualquier		X	
+d000.s053.t003	cosa	cosa	NOUN	bn:00076924n
+	a la que		X	
+	le		X	
+d000.s053.t004	corresponda	corresponder	VERB	bn:00082477v;bn:00085591v
+	un		X	
+d000.s053.t005	operador	operador	NOUN	bn:00059141n;bn:03744320n;wiki:operador
+	.		X	
+	La		X	
+d000.s053.t006	consola	consola	NOUN	bn:00020949n;wiki:línea_de_comandos
+	de		X	
+	kalgebra	kalgebra	NOUN	
+	es	ser	VERB	
+d000.s053.t007	tan	tan	ADV	bn:00114354r
+d000.s053.t008	útil	útil	ADJ	bn:00104094a;bn:00113455a;bn:00113456a
+	como		X	
+	una		X	
+d000.s053.t009	calculadora	calculadora	NOUN	bn:03466887n;wiki:calculadora_(windows)
+	.		X	
+	-end-		X	
+d000.s054.t000	Aquí	aquí	ADV	bn:00115639r;bn:00116504r
+d000.s054.t001	tiene	tener	VERB	bn:00088078v;bn:00089240v
+	una		X	
+d000.s054.t002	lista	lista	NOUN	bn:00051508n
+	de		X	
+	las		X	
+d000.s054.t003	variables	variable	NOUN	bn:00079581n;bn:00079583n;wiki:variable;wiki:variable_(programación)
+	declaradas	declarar	VERB	
+	.		X	
+	-end-		X	
+	Si		X	
+	pulsa	pulsar	VERB	
+	dos		X	
+d000.s055.t000	veces	vez	NOUN	bn:00019848n
+	sobre		X	
+	una		X	
+	de		X	
+	ellas		X	
+	,		X	
+	le		X	
+d000.s055.t001	aparecerá	aparecer	VERB	bn:00082691v
+	un		X	
+	diálogo	diálogo	NOUN	
+	con		X	
+	el		X	
+	que		X	
+	podrá	poder	VERB	
+d000.s055.t002	cambiar	cambiar	VERB	bn:00084772v
+	su		X	
+d000.s055.t003	valor	valor	NOUN	bn:00079508n
+	(		X	
+	es	ser	VERB	
+	una		X	
+d000.s055.t004	forma	forma	NOUN	bn:00001965n
+	de		X	
+d000.s055.t005	engañar	engañar	VERB	bn:00088310v
+	al		X	
+	registro	registro	NOUN	
+	)		X	
+	.		X	
+	-end-		X	
+	Cada vez que		X	
+d000.s056.t000	introduzca	introducir	VERB	bn:00087594v;bn:00089861v
+	una		X	
+d000.s056.t001	expresión	expresión	NOUN	bn:00032395n;bn:03834028n;wiki:expresión_(informática);wiki:fórmula_(expresión)
+	,		X	
+	el		X	
+d000.s056.t002	valor	valor	NOUN	bn:00079508n
+	de		X	
+	la		X	
+d000.s056.t003	variable	variable	NOUN	bn:00079581n;bn:00079583n;wiki:variable;wiki:variable_(programación)
+	«		X	
+	ans	ans	NOUN	
+	»		X	
+d000.s056.t004	cambiará	cambiar	VERB	bn:00082553v;bn:00084772v
+	para		X	
+d000.s056.t005	reproducir	reproducir	VERB	bn:00092850v
+	el		X	
+d000.s056.t006	último	último	ADJ	bn:00105739a;bn:00105740a
+d000.s056.t007	resultado	resultado	NOUN	bn:00034520n
+	.		X	
+	-end-		X	
+d000.s057.t000	Ctrl	ctrl	NOUN	bn:00020947n;wiki:comando_(tecla);wiki:control_(tecla)
+d000.s057.t001	N	n	NOUN	bn:00056688n;wiki:n
+	Nuevo	nuevo	NOUN	
+	-end-		X	
+	Refresca	refrescar	VERB	
+	el		X	
+	registro	registro	NOUN	
+	.		X	
+	-end-		X	
+d000.s059.t000	Ctrl	ctrl	NOUN	bn:00020947n;wiki:comando_(tecla);wiki:control_(tecla)
+d000.s059.t001	L	l	NOUN	bn:00049538n;wiki:l
+	Cargar	cargar	VERB	
+	un		X	
+	guión	guión	NOUN	
+	-end-		X	
+d000.s060.t000	Ejecuta	ejecutar	VERB	bn:00087107v;bn:00087823v
+	las		X	
+d000.s060.t001	instrucciones	instrucción	NOUN	bn:00020945n;wiki:comando_(informática)
+	en		X	
+	una		X	
+d000.s060.t002	archivo	archivo	NOUN	bn:00021475n;wiki:archivo_(informática)
+	de		X	
+d000.s060.t003	forma	forma	NOUN	bn:00001965n
+d000.s060.t004	secuencial	secuencial	ADJ	bn:00100306a
+	.		X	
+	-end-		X	
+	Es	ser	VERB	
+d000.s061.t000	útil	útil	ADJ	bn:00104094a;bn:00113455a;bn:00113456a
+	si		X	
+	lo		X	
+	que		X	
+d000.s061.t001	desea	desear	VERB	bn:00086682v;bn:00086684v
+	es	ser	VERB	
+d000.s061.t002	definir	definir	VERB	bn:00086466v
+	una		X	
+d000.s061.t003	biblioteca	biblioteca	NOUN	bn:00050969n;wiki:biblioteca_(informática)
+	o		X	
+d000.s061.t004	reanudar	reanudar	VERB	bn:00092914v;bn:00092915v
+	un		X	
+d000.s061.t005	trabajo	trabajo	NOUN	bn:00062309n;bn:00081568n
+d000.s061.t006	anterior	anterior	ADJ	bn:00097192a;bn:00108909a
+	.		X	
+	-end-		X	
+d000.s062.t000	Ctrl	ctrl	NOUN	bn:00020947n;wiki:comando_(tecla);wiki:control_(tecla)
+d000.s062.t001	G	g	NOUN	bn:00036962n;wiki:g
+d000.s062.t002	Guardar	guardar	VERB	bn:00090043v
+	el		X	
+	guión	guión	NOUN	
+	-end-		X	
+d000.s063.t000	Guarda	guardar	VERB	bn:00090043v
+	las		X	
+d000.s063.t001	intrucciones	instrucción	NOUN	bn:00020945n;wiki:comando_(informática)
+	que		X	
+	ha	haber	VERB	
+d000.s063.t002	introducido	introducir	VERB	bn:00087594v;bn:00089861v
+	desde		X	
+	que		X	
+d000.s063.t003	comenzó	comenzar	VERB	bn:00083341v;bn:00088761v
+	la		X	
+d000.s063.t004	sesión	sesión	NOUN	bn:03751534n
+	,		X	
+	con		X	
+	lo		X	
+	que		X	
+	podrá	poder	VERB	
+	reutilizarlas	reutilizarlas	VERB	
+	.		X	
+	-end-		X	
+d000.s064.t000	Genera	generar	VERB	bn:00084080v;bn:00086009v
+	un		X	
+d000.s064.t001	archivo	archivo	NOUN	bn:00028018n;wiki:documento_de_texto
+	de		X	
+d000.s064.t002	texto	texto	NOUN	bn:00076732n
+	que		X	
+	podrá	poder	VERB	
+d000.s064.t003	corregir	corregir	VERB	bn:00082357v;bn:00082575v;bn:00085831v
+d000.s064.t004	usando	usar	VERB	bn:00082705v
+	cualquier		X	
+d000.s064.t005	editor	editor	NOUN	bn:00076736n;wiki:editor_de_texto
+	de		X	
+d000.s064.t006	texto	texto	NOUN	bn:00076732n
+	,		X	
+d000.s064.t007	por ejemplo	por~ejemplo	ADV	bn:00115147r
+	Kate	kate	NOUN	
+	.		X	
+	-end-		X	
+d000.s065.t000	Ctrl	ctrl	NOUN	bn:00020947n;wiki:comando_(tecla);wiki:control_(tecla)
+d000.s065.t001	S	s	NOUN	bn:00068673n;wiki:s
+d000.s065.t002	Guardar	guardar	VERB	bn:00090043v
+	el		X	
+	registro	registro	NOUN	
+	-end-		X	
+d000.s066.t000	Guarda	guardar	VERB	bn:00090043v
+	el		X	
+	registro	registro	NOUN	
+	con		X	
+	todos		X	
+	los		X	
+d000.s066.t001	resultados	resultado	NOUN	bn:00034520n
+	en		X	
+	un		X	
+d000.s066.t002	archivo	archivo	NOUN	bn:00021475n;wiki:archivo_(informática)
+d000.s066.t003	HTML	html	NOUN	bn:00045087n;wiki:html
+	que		X	
+	podrá	poder	VERB	
+d000.s066.t004	imprimir	imprimir	VERB	bn:00089639v;bn:00092025v
+	o		X	
+d000.s066.t005	publicar	publicar	VERB	bn:00092023v
+	.		X	
+	-end-		X	
+d000.s067.t000	Ctrl	ctrl	NOUN	bn:00020947n;wiki:comando_(tecla);wiki:control_(tecla)
+d000.s067.t001	Q	q	NOUN	bn:00065472n;wiki:q
+d000.s067.t002	Salir	salir	NOUN	bn:03500215n
+	-end-		X	
+d000.s068.t000	Cierra	cerrar	VERB	bn:00085164v
+	el		X	
+d000.s068.t001	programa	programa	NOUN	bn:00021492n;wiki:programa_informático
+	.		X	
+	-end-		X	
+	Para		X	
+d000.s069.t000	añadir	añadir	VERB	bn:00082317v;bn:00082324v
+	un		X	
+d000.s069.t001	gráfica	gráfico	ADJ	bn:00103741a
+d000.s069.t002	2D	2d	NOUN	bn:00780722n;wiki:bidimensional
+	en		X	
+	kalgebra	kalgebra	NOUN	
+	,		X	
+	lo		X	
+	que		X	
+	tiene que	tener~que	VERB	
+	hacer	hacer	VERB	
+	es	ser	VERB	
+	ir	ir	VERB	
+	a		X	
+	la		X	
+d000.s069.t003	pestaña	pestaña	NOUN	bn:00120018n;wiki:navegación_por_pestañas
+d000.s069.t004	Gráfica	gráfico	ADJ	bn:00103741a
+d000.s069.t005	2D	2d	NOUN	bn:00780722n;wiki:bidimensional
+	y		X	
+d000.s069.t006	aquí	aquí	ADV	bn:00115639r;bn:00116504r
+	pulsar	pulsar	VERB	
+	la		X	
+d000.s069.t007	pestaña	pestaña	NOUN	bn:00120018n;wiki:navegación_por_pestañas
+d000.s069.t008	Añadir	añadir	NOUN	bn:00082317v;bn:03181108n
+	,		X	
+	que		X	
+	le		X	
+d000.s069.t009	permitirá	permitir	VERB	bn:00082536v
+d000.s069.t010	añadir	añadir	VERB	bn:00082317v;bn:00082324v
+	una		X	
+d000.s069.t011	nueva	nuevo	ADJ	bn:00107270a
+d000.s069.t012	función	función	NOUN	bn:00036821n;wiki:función_matemática
+	.		X	
+	-end-		X	
+	A		X	
+	continuación	continuación	ADV	
+	tendrá	tener	VERB	
+d000.s070.t000	dirigirse	dirigirse	VERB	bn:00086600v
+	al		X	
+d000.s070.t001	cuadro	cuadro	NOUN	bn:00017904n;wiki:diagrama
+	de		X	
+d000.s070.t002	texto	texto	NOUN	bn:00076732n
+	de		X	
+d000.s070.t003	entrada	entrada	NOUN	bn:00031062n;bn:04599439n;wiki:entrada
+	,		X	
+	donde	donde	ADV	
+	podrá	poder	VERB	
+d000.s070.t004	introducir	introducir	VERB	bn:00087594v;bn:00089861v
+	su		X	
+d000.s070.t005	función	función	NOUN	bn:00036821n;wiki:función_matemática
+	.		X	
+	-end-		X	
+	Si		X	
+d000.s071.t000	quiere	querer	VERB	bn:00086682v;bn:00091028v
+d000.s071.t001	usar	usar	VERB	bn:00082705v
+	una		X	
+d000.s071.t002	función	función	NOUN	bn:00036821n;wiki:función_matemática
+d000.s071.t003	f(x)	f(x)	NOUN	bn:00036821n;wiki:función_matemática
+d000.s071.t004	típica	típico	ADJ	bn:00102148a;bn:00112216a
+	,		X	
+	no	no	NOUN	
+	es	ser	VERB	
+d000.s071.t005	necesario	necesario	ADJ	bn:00107182a;bn:00107194a
+	que		X	
+	la		X	
+d000.s071.t006	especifique	especificar	VERB	bn:00086464v;bn:00086468v;bn:00091452v
+	.		X	
+	-end-		X	
+	Después de		X	
+	haber	haber	VERB	
+d000.s072.t000	introducido	introducir	VERB	bn:00087594v;bn:00089861v
+	la		X	
+d000.s072.t001	función	función	NOUN	bn:00036821n;wiki:función_matemática
+	,		X	
+	pulse	pulsar	VERB	
+	el		X	
+d000.s072.t002	botón	botón	NOUN	bn:03843242n;wiki:botón_(informática)
+d000.s072.t003	Aceptar	aceptar	VERB	bn:00082199v;bn:00082476v
+	para		X	
+d000.s072.t004	dibujar	dibujar	VERB	bn:00086525v;bn:00087238v
+	la		X	
+d000.s072.t005	gráfica	gráfica	NOUN	bn:00017904n;bn:00041412n;wiki:diagrama;wiki:gráfica_de_una_función
+	en		X	
+	la		X	
+d000.s072.t006	ventana	ventana	NOUN	bn:00081292n;wiki:ventana_(informática)
+d000.s072.t007	principal	principal	ADJ	bn:00098086a;bn:00099598a;bn:00106332a
+	.		X	
+	-end-		X	
+	Es	ser	VERB	
+d000.s073.t000	posible	posible	ADJ	bn:00108829a;bn:00108830a
+d000.s073.t001	dibujar	dibujar	VERB	bn:00086525v;bn:00087238v
+	varias		X	
+d000.s073.t002	gráficas	gráfica	NOUN	bn:00017904n;bn:00041412n;wiki:diagrama;wiki:gráfica_de_una_función
+	en		X	
+	la		X	
+d000.s073.t003	misma	mismo	ADJ	bn:00110075a
+d000.s073.t004	vista	vista	NOUN	bn:00079985n
+	.		X	
+	-end-		X	
+	Para		X	
+	esto		X	
+d000.s074.t000	use	usar	VERB	bn:00082705v
+d000.s074.t001	simplemente	simplemente	ADV	bn:00114626r
+	el		X	
+d000.s074.t002	botón	botón	NOUN	bn:03843242n;wiki:botón_(informática)
+d000.s074.t003	Añadir	añadir	NOUN	bn:00082317v;bn:03181108n
+	cuando		X	
+	se		X	
+d000.s074.t004	encuentre	encontrar	VERB	bn:00086708v;bn:00088204v
+	en		X	
+	el		X	
+d000.s074.t005	modo	modo	NOUN	bn:01622345n
+d000.s074.t006	Lista	lista	NOUN	bn:00051508n
+	.		X	
+	-end-		X	
+	Puede	poder	VERB	
+d000.s075.t000	ajustar	ajustar	VERB	bn:00082316v;bn:00082359v
+	el		X	
+d000.s075.t001	color	color	NOUN	bn:00020726n;wiki:color
+	de		X	
+	cada		X	
+d000.s075.t002	gráfica	gráfica	NOUN	bn:00017904n;bn:00041412n;wiki:diagrama;wiki:gráfica_de_una_función
+	.		X	
+	-end-		X	
+	La		X	
+d000.s076.t000	Fundación	fundación	NOUN	bn:00036064n;bn:00061947n;bn:00366263n;wiki:fundación_(derecho)
+	ha	haber	VERB	
+d000.s076.t001	intervenido	intervenir	VERB	bn:00089817v
+d000.s076.t002	recientemente	recientemente	ADV	bn:00116085r
+	en		X	
+	la		X	
+d000.s076.t003	organización	organización	NOUN	bn:00059482n
+	de		X	
+	una		X	
+d000.s076.t004	conferencia	conferencia	NOUN	bn:00021721n;bn:00021723n;bn:00022333n;wiki:conferencia
+	sobre		X	
+	este		X	
+d000.s076.t005	decisivo	decisivo	ADJ	bn:00100676a;bn:00101009a
+d000.s076.t006	reto	reto	NOUN	bn:00017557n
+	.		X	
+	-end-		X	
+d000.s077.t000	Asistieron	asistir	VERB	bn:00082907v
+d000.s077.t001	más	más	ADV	bn:00116285r
+	de		X	
+	100		X	
+d000.s077.t002	participantes	participante	NOUN	bn:00060798n
+	en		X	
+d000.s077.t003	representación	representación	NOUN	bn:00009652n;bn:00067192n
+	de		X	
+	los		X	
+d000.s077.t004	principales	principal	ADJ	bn:00098086a;bn:00105809a;bn:00106332a;bn:00106334a
+d000.s077.t005	grupos	grupo	NOUN	bn:00047082n;bn:08287525n;wiki:grupo_de_interés;wiki:grupo_de_presión
+	de		X	
+d000.s077.t006	interés	interés	NOUN	bn:00021556n
+	,		X	
+	los		X	
+	cuales		X	
+d000.s077.t007	discutieron	discutir	VERB	bn:00086342v;bn:00086942v
+d000.s077.t008	cuestiones	cuestión	NOUN	bn:00001734n;bn:00043267n;bn:00047688n;bn:00047690n
+	tales		X	
+	como		X	
+	el		X	
+d000.s077.t009	papel	papel	NOUN	bn:00036823n;bn:00068130n;wiki:rol_social
+	de		X	
+	los		X	
+d000.s077.t010	principales	principal	ADJ	bn:00098086a;bn:00105809a;bn:00106332a;bn:00106334a
+d000.s077.t011	agentes	agente	NOUN	bn:00001973n;bn:00001976n
+	,		X	
+	entre		X	
+	ellos		X	
+	,		X	
+	las		X	
+d000.s077.t012	autoridades	autoridad	NOUN	bn:00001961n;bn:00007293n;bn:00007299n;wiki:autoridad;wiki:gobierno;wiki:oficina;wiki:régimen_político
+d000.s077.t013	públicas	público	ADJ	bn:00109211a;bn:00109212a
+	,		X	
+	los		X	
+d000.s077.t014	interlocutores	interlocutor	NOUN	bn:01623772n
+d000.s077.t015	sociales	social	ADJ	bn:00110842a;bn:00110843a
+	y		X	
+	las		X	
+d000.s077.t016	organizaciones	organización	NOUN	bn:00170328n
+d000.s077.t017	comunitarias	comunitario	ADJ	bn:00100102a
+	y		X	
+	de		X	
+d000.s077.t018	voluntarios	voluntario	NOUN	bn:02438777n;wiki:voluntariado
+	,		X	
+d000.s077.t019	además	además	ADV	bn:00114134r;bn:00114246r;bn:00115484r
+	de		X	
+	los		X	
+d000.s077.t020	propios	propio	ADJ	bn:00096707a
+d000.s077.t021	usuarios	usuario	NOUN	bn:00079373n;bn:01322530n;wiki:usuario_(informática)
+	.		X	
+	-end-		X	
+	Se		X	
+d000.s078.t000	llegó	llegar	VERB	bn:00088789v
+	a		X	
+	la		X	
+d000.s078.t001	conclusión	conclusión	NOUN	bn:00021584n;bn:00021587n
+	de		X	
+	que		X	
+	es	ser	VERB	
+d000.s078.t002	necesario	necesario	ADJ	bn:00107194a
+d000.s078.t003	adoptar	adoptar	VERB	bn:00082379v
+	un		X	
+d000.s078.t004	enfoque	enfoque	NOUN	bn:00005141n;bn:00017153n
+d000.s078.t005	más	más	ADV	bn:00116284r
+d000.s078.t006	global	global	ADJ	bn:00100162a;bn:00108084a
+	que		X	
+d000.s078.t007	tenga en cuenta	tener en cuenta	VERB	bn:00083239v
+	que		X	
+	los		X	
+d000.s078.t008	usuarios	usuario	NOUN	bn:00079373n;bn:01322530n;wiki:usuario_(informática)
+	no	no	NOUN	
+	se		X	
+d000.s078.t009	sirven	servir	VERB	bn:00088630v
+	de		X	
+	esos		X	
+d000.s078.t010	servicios	servicio	NOUN	bn:00070651n;bn:00070653n;bn:00070677n;bn:08260930n;wiki:servicio_(economía)
+	de		X	
+d000.s078.t011	forma	forma	NOUN	bn:00033729n
+	aislada	aislar	VERB	
+	,		X	
+	sino		X	
+	como		X	
+d000.s078.t012	parte	parte	NOUN	bn:00027912n;bn:00070193n;wiki:segmento
+	de		X	
+	su		X	
+d000.s078.t013	vida	vida	NOUN	bn:02021819n;wiki:vida_cotidiana
+d000.s078.t014	cotidiana	cotidiano	ADJ	bn:00100875a
+	.		X	
+	-end-		X	
+	Se		X	
+d000.s079.t000	tomó	tomar	VERB	bn:00085649v
+d000.s079.t001	nota	nota	NOUN	bn:00058145n
+d000.s079.t002	también	también	ADV	bn:00114246r
+	de		X	
+	la		X	
+d000.s079.t003	diversidad	diversidad	NOUN	bn:00027862n
+	de		X	
+d000.s079.t004	funciones	función	NOUN	bn:00036823n
+	que		X	
+	desempeñan	desempeñar	VERB	
+	estos		X	
+d000.s079.t005	servicios	servicio	NOUN	bn:00070651n;bn:00070653n;bn:00070677n;bn:08260930n;wiki:servicio_(economía)
+	-end-		X	
+	La		X	
+d000.s080.t000	Fundación	fundación	NOUN	bn:00036064n;bn:00061947n;bn:00366263n;wiki:fundación_(derecho)
+d000.s080.t001	organizó	organizar	VERB	bn:00082779v;bn:00086753v
+	,		X	
+	junto con		X	
+	la		X	
+d000.s080.t002	Comisión	comisión	NOUN	bn:00021015n;bn:00021019n;wiki:comité
+d000.s080.t003	Europea	europeo	ADJ	bn:00102440a
+	,		X	
+	el		X	
+d000.s080.t004	Ministerio	ministerio	NOUN	bn:00055180n;bn:03743591n;wiki:ministerio
+d000.s080.t005	español	español	ADJ	bn:00110978a
+	de		X	
+d000.s080.t006	Asuntos	asunto	NOUN	bn:00072541n;bn:00072552n;wiki:política_social;wiki:trabajo_social
+d000.s080.t007	Sociales	social	ADJ	bn:00110842a;bn:00110843a
+	y		X	
+	la		X	
+d000.s080.t008	Comunidad	comunidad	NOUN	bn:03350497n;wiki:comunidad_autónoma
+d000.s080.t009	Autónoma	autónomo	ADJ	bn:00097829a
+	de		X	
+	Galicia	galicia	NOUN	
+	,		X	
+	una		X	
+d000.s080.t010	conferencia	conferencia	NOUN	bn:00021721n;bn:00021723n;bn:00022333n;wiki:conferencia
+d000.s080.t011	europea	europeo	ADJ	bn:00102440a
+	sobre		X	
+	el		X	
+d000.s080.t012	tema	tema	NOUN	bn:00043267n;bn:00074900n;wiki:tópico_literario
+	""""		X	
+d000.s080.t013	Exclusión	exclusión	NOUN	bn:00053403n;bn:08443482n;wiki:exclusión_social;wiki:marginación
+d000.s080.t014	social	social	ADJ	bn:00110842a;bn:00110843a
+	:		X	
+	Un		X	
+d000.s080.t015	gran	grande	ADJ	bn:00098342a
+d000.s080.t016	reto	reto	NOUN	bn:00017557n
+	para		X	
+	los		X	
+d000.s080.t017	servicios	servicio	NOUN	bn:00065098n;wiki:servicio_público
+d000.s080.t018	públicos	público	ADJ	bn:00109211a;bn:00109212a
+	de		X	
+d000.s080.t019	protección	protección	NOUN	bn:00072541n;bn:01777213n;wiki:política_social
+d000.s080.t020	social	social	ADJ	bn:00110842a;bn:00110843a
+	""""		X	
+	.		X	
+	-end-		X	
+	La		X	
+d000.s081.t000	Fundación	fundación	NOUN	bn:00036064n;bn:00061947n;bn:00366263n;wiki:fundación_(derecho)
+d000.s081.t001	publicó	publicar	VERB	bn:00084099v;bn:00092023v
+d000.s081.t002	recientemente	recientemente	ADV	bn:00116085r
+	en		X	
+	el		X	
+d000.s081.t003	marco	marco	NOUN	bn:00007786n
+	del		X	
+d000.s081.t004	proyecto	proyecto	NOUN	bn:00064665n
+	EPOC	epoc	NOUN	
+	un		X	
+d000.s081.t005	estudio	estudio	NOUN	bn:00030952n;bn:00067181n;bn:00074790n;wiki:informe
+d000.s081.t006	comparativo	comparativo	ADJ	bn:00100121a;bn:00100122a
+	en		X	
+	el		X	
+	que		X	
+	se		X	
+d000.s081.t007	evalúa	evaluar	VERB	bn:00082720v
+	hasta		X	
+	qué		X	
+d000.s081.t008	punto	punto	NOUN	bn:00006383n;bn:00025966n;bn:00063237n
+	la		X	
+d000.s081.t009	participación	participación	NOUN	bn:00030844n
+d000.s081.t010	directa	directo	ADJ	bn:00101412a;bn:00101413a
+	puede	poder	VERB	
+	humanizar	humanizar	VERB	
+	el		X	
+d000.s081.t011	trabajo	trabajo	NOUN	bn:00014138n;bn:00081568n
+	e		X	
+d000.s081.t012	incrementar	incrementar	VERB	bn:00082927v
+d000.s081.t013	al mismo tiempo	al~mismo~tiempo	ADV	bn:00114429r
+	la		X	
+d000.s081.t014	rentabilidad	rentabilidad	NOUN	bn:00037027n
+	.		X	
+	-end-		X	
+	El		X	
+d000.s082.t000	estudio	estudio	NOUN	bn:00030952n;bn:00067181n;bn:00074790n;wiki:informe
+	se		X	
+d000.s082.t001	basa	basar	VERB	bn:00083141v
+	en		X	
+	195		X	
+d000.s082.t002	entrevistas	entrevistar	VERB	bn:00047238n;wiki:entrevista_periodística
+d000.s082.t003	personales	personal	ADJ	bn:00108488a;bn:00108489a
+	con		X	
+d000.s082.t004	altos	alto	ADJ	bn:00102158a
+d000.s082.t005	responsables	responsable	NOUN	bn:00018319n
+	de		X	
+	los		X	
+d000.s082.t006	interlocutores	interlocutor	NOUN	bn:01623772n
+d000.s082.t007	sociales	social	ADJ	bn:00110842a;bn:00110843a
+	,		X	
+	en		X	
+	su		X	
+d000.s082.t008	calidad	calidad	NOUN	bn:00014731n
+	de		X	
+d000.s082.t009	representantes	representante	NOUN	bn:00026428n;bn:00047203n;bn:00067199n
+	de		X	
+d000.s082.t010	importantes	importante	ADJ	bn:00097799a;bn:00104680a
+d000.s082.t011	organizaciones	organización	NOUN	bn:00001423n;bn:00059480n;wiki:organización
+d000.s082.t012	nacionales	nacional	ADJ	bn:00107136a;bn:00107137a;bn:00107138a
+	de		X	
+	15		X	
+d000.s082.t013	países	país	NOUN	bn:00031903n
+d000.s082.t014	europeos	europeo	ADJ	bn:00102440a
+	.		X	
+	-end-		X	
+	La		X	
+d000.s083.t000	industria	industria	NOUN	bn:00046575n;bn:00046576n;wiki:industria
+	del		X	
+d000.s083.t001	metal	metal	NOUN	bn:00054550n;wiki:metal
+	y		X	
+	el		X	
+d000.s083.t002	sector	sector	NOUN	bn:00008415n
+	bancario	bancario	ADJ	
+	se		X	
+d000.s083.t003	incluyeron	incluir	VERB	bn:00085499v;bn:00089660v;bn:00089661v
+d000.s083.t004	también	también	ADV	bn:00114246r
+	en		X	
+d000.s083.t005	atención	atención	NOUN	bn:00007021n;bn:00007028n;bn:00016015n;bn:00021988n;bn:00072718n
+	a		X	
+	su		X	
+d000.s083.t006	importancia	importancia	NOUN	bn:00071554n;bn:00081661n
+	.		X	
+	-end-		X	
+	Los		X	
+d000.s084.t000	principales	principal	ADJ	bn:00098086a;bn:00105809a;bn:00106332a;bn:00106334a
+d000.s084.t001	oradores	orador	NOUN	bn:00059275n;bn:00073170n
+	en		X	
+	la		X	
+d000.s084.t002	conferencia	conferencia	NOUN	bn:00021721n;bn:00021723n;bn:00022333n;wiki:conferencia
+	sobre		X	
+d000.s084.t003	exclusión	exclusión	NOUN	bn:00053403n;bn:08443482n;wiki:exclusión_social;wiki:marginación
+	socialfueron	socialfueron	ADJ	
+	(		X	
+	de		X	
+d000.s084.t004	izquierda	izquierda	NOUN	bn:00050521n
+	a		X	
+d000.s084.t005	derecha	derecha	NOUN	bn:00067808n
+	)		X	
+	Cristina	cristina	NOUN	
+	Louro	louro	NOUN	
+	,		X	
+d000.s084.t006	Dirección	dirección	NOUN	bn:00011651n
+	General	general	ADJ	
+	de		X	
+d000.s084.t007	Empleo	empleo	NOUN	bn:00030626n
+	,		X	
+d000.s084.t008	Relaciones	relación	NOUN	bn:03792320n;bn:08481472n;wiki:relaciones_laborales
+	Laborales	laboral	ADJ	
+	y		X	
+d000.s084.t009	Asuntos	asunto	NOUN	bn:00072541n;bn:00072552n;wiki:política_social;wiki:trabajo_social
+d000.s084.t010	Sociales	social	ADJ	bn:00110842a;bn:00110843a
+	de		X	
+	la		X	
+d000.s084.t011	Comisión	comisión	NOUN	bn:00021015n;bn:00021019n;wiki:comité
+d000.s084.t012	Europea	europeo	ADJ	bn:00102440a
+	Fernando	fernando	NOUN	
+	Gomes	gomes	NOUN	
+	,		X	
+d000.s084.t013	Comité	comité	NOUN	bn:00011638n;bn:00021015n;bn:00021019n;wiki:comité
+	de		X	
+	las		X	
+d000.s084.t014	Regiones	región	NOUN	bn:00060767n
+	Barbara	barbara	NOUN	
+	Weiler	weiler	NOUN	
+	,		X	
+d000.s084.t015	diputada	diputado	NOUN	bn:01941871n;wiki:diputado_al_parlamento_europeo
+	al		X	
+d000.s084.t016	Parlamento	parlamento	NOUN	bn:00060708n;wiki:parlamento
+d000.s084.t017	Europeo	europeo	ADJ	bn:00102440a
+	José	josé	NOUN	
+	María	maría	NOUN	
+	Gil-Robles	gil-robles	NOUN	
+	Gil-Delgado	gil-delgado	NOUN	
+	,		X	
+d000.s084.t018	Vicepresidente	vicepresidente	NOUN	bn:00079435n;bn:00079921n;wiki:vicepresidente
+	,		X	
+d000.s084.t019	Parlamento	parlamento	NOUN	bn:00060708n;wiki:parlamento
+d000.s084.t020	Europeo	europeo	ADJ	bn:00102440a
+	,		X	
+	John	john	NOUN	
+	Carroll	carroll	NOUN	
+d000.s084.t021	Comité	comité	NOUN	bn:00011638n;bn:00021015n;bn:00021019n;wiki:comité
+d000.s084.t022	Económico	económico	ADJ	bn:00102001a;bn:00102002a
+	y		X	
+d000.s084.t023	Social	social	ADJ	bn:00110842a;bn:00110843a
+	-end-		X	
+	En		X	
+	cada		X	
+d000.s085.t000	informe	informe	NOUN	bn:00067181n;wiki:informe
+d000.s085.t001	nacional	nacional	ADJ	bn:00107136a;bn:00107137a;bn:00107138a
+	se		X	
+d000.s085.t002	incluyen	incluir	VERB	bn:00085499v;bn:00089660v;bn:00089661v
+	las		X	
+	25		X	
+	o		X	
+	30		X	
+d000.s085.t003	iniciativas	iniciativa	NOUN	bn:00034797n;bn:00064710n
+	que		X	
+d000.s085.t004	mejor	bueno	ADJ	bn:00098274a;bn:00098282a
+d000.s085.t005	reflejan	reflejar	VERB	bn:00092635v;bn:00092638v
+d000.s085.t006	prácticas	práctica	NOUN	bn:00061054n;bn:00063989n;wiki:praxis
+	y		X	
+d000.s085.t007	políticas	política	NOUN	bn:00063329n;bn:00063330n
+	de		X	
+d000.s085.t008	mejora	mejora	NOUN	bn:00001549n;bn:00030905n;bn:00046191n
+	de		X	
+	la		X	
+d000.s085.t009	contratación	contratación	NOUN	bn:00030626n;bn:00030933n;wiki:reclutamiento
+	,		X	
+	la		X	
+d000.s085.t010	formación	formación	NOUN	bn:00041853n;wiki:entrenamiento
+	y		X	
+	el		X	
+d000.s085.t011	desarrollo	desarrollo	NOUN	bn:00792637n
+d000.s085.t012	profesional	profesional	ADJ	bn:00109069a;bn:00109070a;bn:00113655a
+	de		X	
+	los		X	
+d000.s085.t013	trabajadores	trabajador	NOUN	bn:00030618n;bn:00081593n
+	mayores	grande	ADJ	
+	en		X	
+	el		X	
+d000.s085.t014	lugar	lugar	NOUN	bn:00081570n
+	de		X	
+d000.s085.t015	trabajo	trabajo	NOUN	bn:00014138n
+	y		X	
+	a nivel de		X	
+	la		X	
+d000.s085.t016	comunidad	comunidad	NOUN	bn:00021248n
+	.		X	
+	-end-		X	
+	Se		X	
+d000.s086.t000	seleccionaron	seleccionar	VERB	bn:00084931v
+	dos		X	
+	o		X	
+	tres		X	
+d000.s086.t001	iniciativas	iniciativa	NOUN	bn:00031009n;bn:00034797n;bn:00833323n;wiki:iniciativa_popular
+	por		X	
+	cada		X	
+d000.s086.t002	país	país	NOUN	bn:00011771n;bn:00023235n;wiki:estado;wiki:país
+	,		X	
+	para		X	
+	que		X	
+	fueran	ser	VERB	
+d000.s086.t003	objeto	objeto	NOUN	bn:00074900n;wiki:tópico_literario
+	de		X	
+	un		X	
+d000.s086.t004	estudio	estudio	NOUN	bn:02395950n;wiki:estudio_de_caso
+	de		X	
+d000.s086.t005	caso	caso	NOUN	bn:00016401n;bn:00016408n;bn:00032099n
+	detallado	detallar	VERB	
+	.		X	
+	-end-		X	
+	En		X	
+	estos		X	
+d000.s087.t000	estudios	estudio	NOUN	bn:02395950n;wiki:estudio_de_caso
+	de		X	
+d000.s087.t001	caso	caso	NOUN	bn:00016401n;bn:00016408n;bn:00032099n
+	se		X	
+	han	haber	VERB	
+d000.s087.t002	analizado	analizar	VERB	bn:00082596v;bn:00089885v
+	el		X	
+d000.s087.t003	contexto	contexto	NOUN	bn:00019219n;bn:08277717n;wiki:contexto
+	de		X	
+	esas		X	
+d000.s087.t004	iniciativas	iniciativa	NOUN	bn:00031009n;bn:00034797n;bn:00064710n;bn:00833323n;wiki:iniciativa_popular
+	y		X	
+	sus		X	
+d000.s087.t005	repercusiones	repercusión	NOUN	bn:00067162n
+	en		X	
+	las		X	
+d000.s087.t006	pautas	pauta	NOUN	bn:00022334n;bn:00042117n
+	de		X	
+d000.s087.t007	empleo	empleo	NOUN	bn:00030626n
+	y		X	
+	en		X	
+	las		X	
+d000.s087.t008	organizaciones	organización	NOUN	bn:00001423n;bn:00059480n;wiki:organización
+	,		X	
+	y		X	
+	se		X	
+	han	haber	VERB	
+d000.s087.t009	evaluado	evaluar	VERB	bn:00082720v
+	las		X	
+d000.s087.t010	ventajas	ventaja	NOUN	bn:00001559n;bn:00009905n
+	y		X	
+d000.s087.t011	problemas	problema	NOUN	bn:00064527n;bn:09482133n
+d000.s087.t012	derivados	derivar	VERB	bn:00086654v
+	de		X	
+	las		X	
+d000.s087.t013	mismas	mismo	ADJ	bn:00110075a
+	.		X	
+	-end-		X	
+	Se		X	
+	han	haber	VERB	
+d000.s088.t000	realizado	realizar	VERB	bn:00082225v;bn:00082311v;bn:00087107v;bn:00087108v
+d000.s088.t001	además	además	ADV	bn:00114134r;bn:00114246r;bn:00115484r
+d000.s088.t002	visitas	visita	NOUN	bn:00080111n
+	y		X	
+d000.s088.t003	entrevistas	entrevista	NOUN	bn:00047238n;wiki:entrevista_periodística
+	a		X	
+d000.s088.t004	miembros	miembro	NOUN	bn:00054276n
+	clave	clave	ADJ	
+	del		X	
+d000.s088.t005	personal	personal	NOUN	bn:00042833n;bn:00073801n;wiki:estado_mayor;wiki:mano_de_obra;wiki:recursos_humanos
+	.		X	
+	-end-		X	
+	Estos		X	
+d000.s089.t000	estudios	estudio	NOUN	bn:00030952n;bn:00067181n;bn:00074790n;wiki:informe
+d000.s089.t001	nacionales	nacional	ADJ	bn:00107136a;bn:00107137a;bn:00107138a
+d000.s089.t002	constituirán	constituir	VERB	bn:00083187v
+	la		X	
+	liase	liar	VERB	
+	de		X	
+	un		X	
+d000.s089.t003	informe	informe	NOUN	bn:00067181n;wiki:informe
+d000.s089.t004	europeo	europeo	ADJ	bn:00102440a
+	en		X	
+	el		X	
+	que		X	
+	se		X	
+d000.s089.t005	resumirán	resumir	VERB	bn:00082392v;bn:00086822v;bn:00092916v
+	las		X	
+d000.s089.t006	prácticas	práctico	ADJ	bn:00108880a
+	generales	general	ADJ	
+	.		X	
+	-end-		X	
+	El		X	
+d000.s090.t000	informe	informe	NOUN	bn:00067181n;wiki:informe
+	y		X	
+	un		X	
+d000.s090.t001	repertorio	repertorio	NOUN	bn:00067163n
+	de		X	
+d000.s090.t002	iniciativas	iniciativa	NOUN	bn:00034797n;bn:00064710n
+	se		X	
+d000.s090.t003	publicarán	publicar	VERB	bn:00084099v;bn:00092023v
+	en		X	
+	1996		X	
+	,		X	
+	y		X	
+d000.s090.t004	servirán	servir	VERB	bn:00088630v
+	de		X	
+	telón	telón	NOUN	
+	de		X	
+d000.s090.t005	fondo	fondo	NOUN	bn:00007785n
+	a		X	
+	una		X	
+d000.s090.t006	conferencia	conferencia	NOUN	bn:00021721n;bn:00021723n;bn:00022333n;wiki:conferencia
+	que		X	
+	se		X	
+d000.s090.t007	celebrará	celebrar	VERB	bn:00084715v
+	el		X	
+d000.s090.t008	próximo	próximo	ADJ	bn:00103172a
+d000.s090.t009	otoño	otoño	NOUN	bn:00007406n;wiki:otoño
+	.		X	
+	-end-		X	
+	La		X	
+d000.s091.t000	Fundación	fundación	NOUN	bn:00036064n;bn:00061947n;bn:00366263n;wiki:fundación_(derecho)
+	se		X	
+d000.s091.t001	propone	proponer	VERB	bn:00082486v
+d000.s091.t002	documentar	documentar	VERB	bn:00087137v;bn:00087138v
+	las		X	
+d000.s091.t003	características	característica	NOUN	bn:00017747n;bn:00017761n;bn:00017762n
+	de		X	
+	los		X	
+d000.s091.t004	obstáculos	obstáculo	NOUN	bn:00027042n;bn:00027043n
+d000.s091.t005	relacionados	relacionar	VERB	bn:00082868v
+	con		X	
+	la		X	
+d000.s091.t006	edad	edad	NOUN	bn:00001936n
+	en		X	
+d000.s091.t007	materia	meteria	NOUN	bn:00043267n
+	de		X	
+d000.s091.t008	contratación	contratación	NOUN	bn:00030626n;bn:00030933n;wiki:reclutamiento
+	y		X	
+d000.s091.t009	formación	formación	NOUN	bn:00041853n;wiki:entrenamiento
+	,		X	
+	y		X	
+d000.s091.t010	analizar	analizar	VERB	bn:00082596v;bn:00089885v
+	sus		X	
+d000.s091.t011	causas	causa	NOUN	bn:00016850n;bn:00080992n
+	.		X	
+	-end-		X	
+	Está	estar	VERB	
+d000.s092.t000	examinando	examinar	VERB	bn:00082596v
+d000.s092.t001	asimismo	asimismo	ADV	bn:00114246r;bn:00116128r
+	los		X	
+d000.s092.t002	puntos	punto	NOUN	bn:00063237n
+	de		X	
+d000.s092.t003	vista	vista	NOUN	bn:00079985n
+	de		X	
+	los		X	
+d000.s092.t004	interlocutores	interlocutor	NOUN	bn:01623772n
+d000.s092.t005	sociales	social	ADJ	bn:00110842a;bn:00110843a
+	,		X	
+d000.s092.t006	prestando	prestar	VERB	bn:00086761v;bn:00088817v
+d000.s092.t007	especial	especial	ADJ	bn:00102398a;bn:00110995a;bn:00110996a
+d000.s092.t008	atención	atención	NOUN	bn:00007021n;bn:00007028n
+	a		X	
+	las		X	
+d000.s092.t009	propuestas	propuesta	NOUN	bn:00064776n
+	para		X	
+d000.s092.t010	eliminar	eliminar	VERB	bn:00082148v;bn:00084456v;bn:00087115v;bn:00092783v;bn:00095653v
+	dichos		X	
+d000.s092.t011	obstáculos	obstáculo	NOUN	bn:00027042n;bn:00027043n
+	.		X	
+	-end-		X	
+	En		X	
+d000.s093.t000	tercer		X	bn:00062709n
+d000.s093.t001	lugar	lugar	NOUN	bn:00062700n;wiki:localización_geográfica
+	,		X	
+	el		X	
+d000.s093.t002	proyecto	proyecto	NOUN	bn:00064665n
+d000.s093.t003	documenta	documentar	VERB	bn:00087137v;bn:00087138v
+	y		X	
+d000.s093.t004	evalúa	evaluar	VERB	bn:00082720v
+	las		X	
+d000.s093.t005	iniciativas	iniciativa	NOUN	bn:00034797n;bn:00064710n
+	de		X	
+	los		X	
+d000.s093.t006	sectores	sector	NOUN	bn:02708132n;wiki:sector_público
+d000.s093.t007	público	público	ADJ	bn:00109211a;bn:00109212a
+	y		X	
+d000.s093.t008	privado	privado	ADJ	bn:00107509a;bn:00109026a
+	para		X	
+d000.s093.t009	combatir	combatir	VERB	bn:00083173v
+	estas		X	
+d000.s093.t010	limitaciones	limitación	NOUN	bn:00051252n
+	,		X	
+d000.s093.t011	especialmente	especialmente	ADV	bn:00115235r
+	en relación con		X	
+	los		X	
+d000.s093.t012	trabajadores	trabajador	NOUN	bn:00030618n;bn:00081593n
+	mayores	grande	ADJ	
+	.		X	
+	-end-		X	
+	El		X	
+d000.s094.t000	proyecto	proyecto	NOUN	bn:00049573n;bn:00064665n;wiki:proyecto
+	,		X	
+	que		X	
+d000.s094.t001	busca	buscar	VERB	bn:00090460v;bn:00093452v
+d000.s094.t002	alternativas	alternativa	NOUN	bn:00003132n
+	a		X	
+	la		X	
+d000.s094.t003	jubilación	jubilación	NOUN	bn:00061406n;bn:00067456n;bn:00067457n;wiki:jubilación;wiki:pensión
+	anticipada	anticipado	ADJ	
+	y		X	
+	al		X	
+d000.s094.t004	despido	despido	NOUN	bn:00027476n;bn:00050314n;wiki:despido_laboral
+	,		X	
+	se		X	
+d000.s094.t005	ocupa	ocupar	VERB	bn:00084317v
+	ante		X	
+	todo		X	
+	de		X	
+	la		X	
+	retención	retención	NOUN	
+	,		X	
+	la		X	
+	reintegración	reintegración	NOUN	
+	y		X	
+	la		X	
+	reconversión	reconversión	NOUN	
+d000.s094.t006	profesional	profesional	ADJ	bn:00109069a;bn:00109070a;bn:00113655a
+	de		X	
+	los		X	
+d000.s094.t007	trabajadores	trabajador	NOUN	bn:00030618n;bn:00064681n;bn:00081593n
+	mayores	grande	ADJ	
+	.		X	
+	-end-		X	
+d000.s095.t000	Estudia	estudiar	VERB	bn:00082596v
+d000.s095.t001	asimismo	asimismo	ADV	bn:00114246r;bn:00116128r
+	liasta	liasta	NOUN	
+	qué		X	
+d000.s095.t002	punto	punto	NOUN	bn:00006383n;bn:00025966n;bn:00063237n
+d000.s095.t003	influyen	influir	VERB	bn:00082304v
+	el		X	
+d000.s095.t004	sexo	sexo	NOUN	bn:00037634n;bn:00070773n;wiki:género_(ciencias_sociales);wiki:sexo
+	y		X	
+	la		X	
+d000.s095.t005	raza	raza	NOUN	bn:00065800n;wiki:raza_(clasificación_de_los_seres_humanos)
+	de		X	
+	los		X	
+d000.s095.t006	trabajadores	trabajador	NOUN	bn:00030618n;bn:00064681n;bn:00081593n
+	en		X	
+	la		X	
+d000.s095.t007	discriminación	discriminación	NOUN	bn:00027538n;wiki:discriminación
+	por		X	
+d000.s095.t008	razón	razón	NOUN	bn:00016851n
+	de		X	
+	la		X	
+d000.s095.t009	edad	edad	NOUN	bn:00001936n
+	.		X	
+	-end-		X	
+	El		X	
+d000.s096.t000	proyecto	proyecto	NOUN	bn:00064665n
+d000.s096.t001	tiene	tener	VERB	bn:00083239v
+	en		X	
+	cuenta	cuenta	NOUN	
+	,		X	
+	por		X	
+	otra		X	
+	paite	paite	NOUN	
+	,		X	
+	las		X	
+d000.s096.t002	iniciativas	iniciativa	NOUN	bn:00034797n;bn:00064710n
+	para		X	
+d000.s096.t003	luchar	luchar	VERB	bn:00086455v
+	contra		X	
+	esta		X	
+d000.s096.t004	clase	clase	NOUN	bn:00035907n;bn:00078798n
+	de		X	
+d000.s096.t005	discriminación	discriminación	NOUN	bn:00027538n;wiki:discriminación
+	en		X	
+	las		X	
+d000.s096.t006	zonas	zona	NOUN	bn:00023237n;wiki:medio_rural
+d000.s096.t007	rurales	rural	ADJ	bn:00109997a;bn:00109998a
+	y		X	
+	en		X	
+	las		X	
+d000.s096.t008	pequeñas	pequeño	ADJ	bn:03169699n;wiki:pequeña_y_mediana_empresa
+	y		X	
+d000.s096.t009	medianas	mediano	ADJ	bn:00097857a
+d000.s096.t010	empresas	empresa	NOUN	bn:00014136n;bn:00021286n;bn:00022811n;bn:00031008n;wiki:corporación;wiki:empresa
+	.		X	
+	-end-		X	
+	Siete		X	
+d000.s097.t000	Estados	estado	NOUN	bn:00208447n;wiki:estado_miembro_de_la_unión_europea
+d000.s097.t001	miembros	miembro	NOUN	bn:00054276n
+	se		X	
+d000.s097.t002	incluyen	incluir	VERB	bn:00085499v;bn:00089660v;bn:00089661v
+	en		X	
+	el		X	
+d000.s097.t003	proyecto	proyecto	NOUN	bn:00049573n;bn:00064665n;wiki:proyecto
+	:		X	
+	Alemania	alemania	NOUN	
+	,		X	
+	Bélgica	bélgica	NOUN	
+	,		X	
+	Francia	francia	NOUN	
+	,		X	
+	Grecia	grecia	NOUN	
+	,		X	
+	Italia	italia	NOUN	
+	,		X	
+	Países Bajos	países~bajos	NOUN	
+	y		X	
+	Reino Unido	reino~unido	NOUN	
+	.		X	
+	-end-		X	
+d000.s098.t000	Resumen	resumir	VERB	bn:00082392v;bn:00086822v;bn:00092916v;bn:00094585v
+	del		X	
+	EPAR	epar	NOUN	
+	para		X	
+	el		X	
+d000.s098.t001	público	público	NOUN	bn:00007097n;bn:00063584n
+d000.s098.t002	general	general	ADJ	bn:00103507a
+	En		X	
+	el		X	
+d000.s098.t003	presente	presente	ADJ	bn:00108977a
+d000.s098.t004	documento	documento	NOUN	bn:00028015n
+	se		X	
+d000.s098.t005	resume	resumir	VERB	bn:00082392v;bn:00086822v;bn:00092916v;bn:00094585v
+	el		X	
+d000.s098.t006	Informe	informe	NOUN	bn:00067181n;wiki:informe
+d000.s098.t007	Público	público	ADJ	bn:00109212a
+d000.s098.t008	Europeo	europeo	ADJ	bn:00102440a
+	de		X	
+d000.s098.t009	Evaluación	evaluación	NOUN	bn:00005120n;bn:00031972n
+	,		X	
+	y		X	
+	se		X	
+d000.s098.t010	explica	explicar	VERB	bn:00087869v;bn:00087870v
+	cómo	cómo	ADV	
+	la		X	
+d000.s098.t011	evaluación	evaluación	NOUN	bn:00005120n;bn:00031972n
+	del		X	
+d000.s098.t012	Comité	comité	NOUN	bn:00021015n;bn:00021019n;wiki:comité
+	de		X	
+d000.s098.t013	Medicamentos	medicamento	NOUN	bn:00031708n;bn:00054128n;bn:00061887n;wiki:medicamento;wiki:prescripción_(medicina)
+	de		X	
+d000.s098.t014	Uso	uso	NOUN	bn:00030627n;bn:00036822n
+d000.s098.t015	Veterinario	veterinario	NOUN	bn:00079883n;bn:00079888n;wiki:veterinaria
+	(		X	
+	CVMP	cvmp	NOUN	
+	)		X	
+	,		X	
+d000.s098.t016	efectuada	efectuar	VERB	bn:00087492v
+	a partir de		X	
+	los		X	
+d000.s098.t017	estudios	estudio	NOUN	bn:00067181n;bn:00074790n;wiki:informe
+d000.s098.t018	existentes	existente	ADJ	bn:00096400a;bn:00102542a;bn:00102548a
+	,		X	
+	ha	haber	VERB	
+d000.s098.t019	llevado	llevar	VERB	bn:00090245v
+	a		X	
+	las		X	
+d000.s098.t020	recomendaciones	recomendación	NOUN	bn:00066562n
+	sobre		X	
+	las		X	
+d000.s098.t021	condiciones	condición	NOUN	bn:00019220n;bn:00064921n
+	de		X	
+d000.s098.t022	uso	uso	NOUN	bn:00030627n;bn:00036822n;bn:00079370n
+	del		X	
+d000.s098.t023	medicamento	medicamento	NOUN	bn:00031708n;bn:00054128n;bn:00061887n;wiki:medicamento;wiki:prescripción_(medicina)
+	.		X	
+	-end-		X	
+	¿Qué	¿qué	ADV	
+	es	ser	VERB	
+	Cerenia	cerenia	NOUN	
+	?		X	
+	-end-		X	
+	Cerenia	cerenia	NOUN	
+d000.s100.t000	contiene	contener	VERB	bn:00085499v
+	el		X	
+d000.s100.t001	principio	principio	NOUN	bn:00377649n;wiki:fármaco
+d000.s100.t002	activo	activo	ADJ	bn:00096387a
+d000.s100.t003	maropitant	maropitant	NOUN	bn:00923812n
+	y		X	
+	se		X	
+d000.s100.t004	presenta	presentar	VERB	bn:00087013v;bn:00088078v
+	en		X	
+d000.s100.t005	forma	forma	NOUN	bn:00016529n;bn:00035907n
+	de		X	
+	comprimidos	comprimir	VERB	
+	o		X	
+	de		X	
+d000.s100.t006	solución	solución	NOUN	bn:00072760n;wiki:disolución
+	inyectables	inyectables	ADJ	
+	.		X	
+	-end-		X	
+	Los		X	
+	comprimidos	comprimir	VERB	
+	son	ser	VERB	
+	de		X	
+d000.s101.t000	color	color	NOUN	bn:00059250n;wiki:naranja_(color)
+d000.s101.t001	naranja	naranja	NOUN	bn:00059250n;wiki:naranja_(color)
+d000.s101.t002	claro	claro	ADJ	bn:00105938a
+	y		X	
+d000.s101.t003	tienen	tener	VERB	bn:00088078v;bn:00089240v
+	una		X	
+d000.s101.t004	ranura	ranura	NOUN	bn:00057631n;bn:00072190n
+	en		X	
+	ambas		X	
+d000.s101.t005	caras	cara	NOUN	bn:00032604n;bn:00071434n
+	,		X	
+	lo		X	
+	que		X	
+d000.s101.t006	permite	permitir	VERB	bn:00082536v
+d000.s101.t007	dividirlos	dividir	VERB	bn:00084611v;bn:00087101v;bn:00091453v
+	por		X	
+	la		X	
+d000.s101.t008	mitad	mitad	NOUN	bn:00042601n;wiki:un_medio
+	.		X	
+	-end-		X	
+	Cada		X	
+d000.s102.t000	comprimido	comprimido	NOUN	bn:00052222n;wiki:comprimido;wiki:píldora
+	va	ir	VERB	
+d000.s102.t001	marcado	marcar	VERB	bn:00090660v
+	con		X	
+	el		X	
+d000.s102.t002	logo	logo	NOUN	bn:00051872n;wiki:logotipo
+d000.s102.t003	Pfizer	pfizer	NOUN	bn:03463336n;wiki:pfizer
+	en		X	
+	una		X	
+d000.s102.t004	cara	cara	NOUN	bn:00032604n;bn:00071434n
+	y		X	
+	las		X	
+d000.s102.t005	letras	letra	NOUN	bn:00003057n;wiki:letra
+	MPT	mpt	NOUN	
+	y		X	
+	la		X	
+d000.s102.t006	cantidad	cantidad	NOUN	bn:00003602n
+	de		X	
+d000.s102.t007	maropitant	maropitant	NOUN	bn:00923812n
+	en		X	
+	la		X	
+	otra		X	
+	.		X	
+	-end-		X	
+	¿Para	¿para	VERB	
+	qué		X	
+	se		X	
+d000.s103.t000	utiliza	utilizar	VERB	bn:00082705v
+	Cerenia	cerenia	NOUN	
+	?		X	
+	-end-		X	
+	Cerenia	cerenia	NOUN	
+	es	ser	VERB	
+	un		X	
+d000.s104.t000	antiemético	antiemético	NOUN	bn:00004656n;wiki:antiemético
+	(		X	
+d000.s104.t001	ataja	atajar	VERB	bn:00082954v
+	los		X	
+d000.s104.t002	vómitos	vómito	NOUN	bn:00008567n;bn:00027565n;wiki:regurgitación;wiki:vómito
+	)		X	
+	.		X	
+	-end-		X	
+	Se		X	
+d000.s105.t000	utiliza	utilizar	VERB	bn:00082705v
+	en		X	
+d000.s105.t001	perros	perro	NOUN	bn:00015267n;wiki:canis_lupus_familiaris
+	para		X	
+	la		X	
+d000.s105.t002	prevención	prevención	NOUN	bn:00008467n;bn:00042049n
+	de		X	
+	los		X	
+d000.s105.t003	vómitos	vómito	NOUN	bn:00008567n;bn:00027565n;wiki:regurgitación;wiki:vómito
+	,		X	
+d000.s105.t004	por ejemplo	por~ejemplo	ADV	bn:00115147r
+	los		X	
+d000.s105.t005	causados	causar	VERB	bn:00084069v;bn:00084699v;bn:00084700v
+	por		X	
+	la		X	
+d000.s105.t006	quimioterapia	quimioterapia	NOUN	bn:00018141n;wiki:quimioterapia
+	(		X	
+d000.s105.t007	fármacos	fármaco	NOUN	bn:00028872n;bn:00054128n;wiki:droga;wiki:medicamento
+d000.s105.t008	utilizados	utilizar	VERB	bn:00082705v
+	para		X	
+	el		X	
+d000.s105.t009	tratamiento	tratamiento	NOUN	bn:01853831n
+	del		X	
+d000.s105.t010	cáncer	cáncer	NOUN	bn:00015180n;wiki:cáncer
+	,		X	
+	algunos		X	
+	de		X	
+	los		X	
+	cuales		X	
+d000.s105.t011	producen	producir	VERB	bn:00084069v
+d000.s105.t012	vómitos	vómito	NOUN	bn:00008567n;bn:00027565n;wiki:regurgitación;wiki:vómito
+	)		X	
+	.		X	
+	-end-		X	
+	Combinado	combinar	VERB	
+	con		X	
+	otras		X	
+d000.s106.t000	medidas	medida	NOUN	bn:00054018n
+d000.s106.t001	complementarias	complementario	ADJ	bn:00111488a
+	,		X	
+	como		X	
+	otros		X	
+d000.s106.t002	tratamientos	tratamiento	NOUN	bn:00047235n;bn:00076843n;wiki:tratamiento_(medicina)
+d000.s106.t003	veterinarios	veterinario	NOUN	bn:00079883n;bn:00079888n;wiki:veterinaria
+	o		X	
+	una		X	
+d000.s106.t004	dieta	dieta	NOUN	bn:00027011n;wiki:régimen_alimenticio
+d000.s106.t005	especial	especial	ADJ	bn:00102398a;bn:00108295a;bn:00108297a;bn:00110996a
+	,		X	
+	Cerenia	cerenia	NOUN	
+	se		X	
+d000.s106.t006	utiliza	utilizar	VERB	bn:00082705v
+d000.s106.t007	también	también	ADV	bn:00114246r
+	como		X	
+d000.s106.t008	tratamiento	tratamiento	NOUN	bn:00047235n;bn:00076843n;wiki:tratamiento_(medicina)
+	del		X	
+d000.s106.t009	vómito	vómito	NOUN	bn:00008567n;bn:00027565n;wiki:regurgitación;wiki:vómito
+	(		X	
+	como		X	
+d000.s106.t010	inyección	inyección	NOUN	bn:00046787n;wiki:inyección_(medicina)
+	o		X	
+	como		X	
+d000.s106.t011	inyección	inyección	NOUN	bn:00046787n;wiki:inyección_(medicina)
+d000.s106.t012	seguida	seguir	VERB	bn:00085342v;bn:00088424v
+	de		X	
+	comprimidos	comprimir	VERB	
+	)		X	
+	.		X	
+	-end-		X	
+	A		X	
+	estos		X	
+d000.s107.t000	efectos	efecto	NOUN	bn:00021961n;bn:00046065n
+	,		X	
+	Cerenia	cerenia	NOUN	
+	se		X	
+	puede	poder	VERB	
+d000.s107.t001	administrar	administrar	VERB	bn:00082365v
+	durante		X	
+	un		X	
+d000.s107.t002	período	período	NOUN	bn:00061605n
+	de		X	
+	hasta		X	
+	cinco		X	
+d000.s107.t003	días	día	NOUN	bn:00000086n;wiki:día
+	.		X	
+	-end-		X	
+	¿Cómo	¿cómo	NOUN	
+d000.s108.t000	actúa	actuar	VERB	bn:00082286v
+	Cerenia	cerenia	NOUN	
+	?		X	
+	-end-		X	
+	Cerenia	cerenia	NOUN	
+d000.s109.t000	bloquea	bloquear	VERB	bn:00083629v;bn:00083630v;bn:00083636v;bn:00083642v
+	los		X	
+d000.s109.t001	receptores	receptor	NOUN	bn:00066514n;wiki:receptor_celular
+	de		X	
+	neurocinina	neurocinina	NOUN	
+	1		X	
+	(		X	
+	NK1	nk1	NOUN	
+	)		X	
+	en		X	
+	el		X	
+d000.s109.t002	sistema	sistema	NOUN	bn:00017184n;wiki:sistema_nervioso_central
+d000.s109.t003	nervioso	nervioso	ADJ	bn:00107232a
+d000.s109.t004	central	central	ADJ	bn:00099258a;bn:00099441a
+	.		X	
+	-end-		X	
+	¿Qué	¿qué	VERB	
+d000.s110.t000	tipo	tipo	NOUN	bn:00035907n;bn:00078798n
+	de		X	
+d000.s110.t001	estudios	estudio	NOUN	bn:00030952n;bn:00067181n;bn:00074790n;wiki:informe
+	se		X	
+	han	haber	VERB	
+d000.s110.t002	realizado	realizar	VERB	bn:00082225v;bn:00082311v;bn:00087107v;bn:00087108v
+	sobre		X	
+	Cerenia	cerenia	NOUN	
+	?		X	
+	-end-		X	
+	Se		X	
+	han	haber	VERB	
+d000.s111.t000	realizado	realizar	VERB	bn:00082225v;bn:00082311v;bn:00084595v;bn:00087107v;bn:00087108v
+	una		X	
+d000.s111.t001	gran	grande	ADJ	bn:00008985n
+d000.s111.t002	cantidad	cantidad	NOUN	bn:00003602n;bn:00065552n
+	de		X	
+d000.s111.t003	estudios	estudio	NOUN	bn:00067181n;bn:00074790n;wiki:informe
+	con		X	
+	Cerenia	cerenia	NOUN	
+	en		X	
+d000.s111.t004	perros	perro	NOUN	bn:00015267n;wiki:canis_lupus_familiaris
+	de		X	
+d000.s111.t005	laboratorio	laboratorio	NOUN	bn:00049551n;wiki:laboratorio
+	y		X	
+	en		X	
+d000.s111.t006	perros	perro	NOUN	bn:00015267n;wiki:canis_lupus_familiaris
+	pacientes	paciente	ADJ	
+	de		X	
+	clínicas	clínico	ADJ	
+d000.s111.t007	veterinarias	veterinario	NOUN	bn:00079883n;bn:00079888n;wiki:veterinaria
+	de		X	
+	varios		X	
+d000.s111.t008	países	país	NOUN	bn:00031903n
+d000.s111.t009	europeos	europeo	ADJ	bn:00102440a
+	y		X	
+	de		X	
+	EE.UU.	ee.uu.	NOUN	
+	-end-		X	
+	¿Qué	¿qué	NOUN	
+d000.s112.t000	beneficios	beneficio	NOUN	bn:00009905n;bn:00037022n;bn:00041059n
+	ha	haber	VERB	
+d000.s112.t001	demostrado	demostrar	VERB	bn:00086567v;bn:00092109v
+	Cerenia	cerenia	NOUN	
+	durante		X	
+	dichos		X	
+d000.s112.t002	estudios	estudio	NOUN	bn:00067181n;bn:00074790n;wiki:informe
+	?		X	
+	-end-		X	
+	Los		X	
+d000.s113.t000	resultados	resultado	NOUN	bn:00021961n;bn:00034520n
+	de		X	
+	los		X	
+d000.s113.t001	estudios	estudio	NOUN	bn:00067181n;bn:00074790n;wiki:informe
+d000.s113.t002	demostraron	demostrar	VERB	bn:00086567v;bn:00086679v;bn:00092109v
+	que		X	
+	Cerenia	cerenia	NOUN	
+	fue	ser	VERB	
+d000.s113.t003	más	más	ADV	bn:00116284r
+d000.s113.t004	eficaz	eficaz	ADJ	bn:00102038a;bn:00102039a
+	que		X	
+	el		X	
+d000.s113.t005	placebo	placebo	NOUN	bn:00062717n;wiki:sustancia_placebo
+	:		X	
+	se		X	
+d000.s113.t006	observaron	observar	VERB	bn:00086708v
+	menos	menos	ADV	
+d000.s113.t007	vómitos	vómito	NOUN	bn:00008567n;bn:00027565n;wiki:regurgitación;wiki:vómito
+	en		X	
+	los		X	
+d000.s113.t008	perros	perro	NOUN	bn:00015267n;wiki:canis_lupus_familiaris
+	que		X	
+d000.s113.t009	recibieron	recibir	VERB	bn:00089246v
+	el		X	
+d000.s113.t010	medicamento	medicamento	NOUN	bn:00031708n;bn:00054128n;bn:00061887n;wiki:medicamento;wiki:prescripción_(medicina)
+	que		X	
+	en		X	
+	los		X	
+d000.s113.t011	perros	perro	NOUN	bn:00015267n;wiki:canis_lupus_familiaris
+	que		X	
+d000.s113.t012	recibieron	recibir	VERB	bn:00089246v
+d000.s113.t013	placebo	placebo	NOUN	bn:00062717n;wiki:sustancia_placebo
+	,		X	
+	bien		X	
+	como		X	
+d000.s113.t014	tratamiento	tratamiento	NOUN	bn:00047235n;bn:00076843n;wiki:tratamiento_(medicina)
+	,		X	
+	bien		X	
+	como		X	
+d000.s113.t015	prevención	prevención	NOUN	bn:00008467n;bn:00042049n;bn:00064298n;wiki:medicina_preventiva
+	del		X	
+d000.s113.t016	vómito	vómito	NOUN	bn:00008567n;bn:00027565n;wiki:regurgitación;wiki:vómito
+	.		X	
+	-end-		X	
+	El		X	
+d000.s114.t000	tratamiento	tratamiento	NOUN	bn:00047235n;bn:00076843n;wiki:tratamiento_(medicina)
+	de		X	
+	un		X	
+d000.s114.t001	perro	perro	NOUN	bn:00015267n;wiki:canis_lupus_familiaris
+	con		X	
+d000.s114.t002	vómitos	vómito	NOUN	bn:00008567n;bn:00027565n;wiki:regurgitación;wiki:vómito
+	debe	deber	VERB	
+	iniciarse	iniciarse	VERB	
+	en		X	
+d000.s114.t003	forma	forma	NOUN	bn:00016529n;bn:00035907n
+	inyectable	inyectable	ADJ	
+	puesto que		X	
+	los		X	
+d000.s114.t004	animales	animal	NOUN	bn:00004222n;wiki:animalia;wiki:fauna
+	con		X	
+d000.s114.t005	vómitos	vómito	NOUN	bn:00008567n;bn:00027565n;wiki:regurgitación;wiki:vómito
+	podrían	poder	VERB	
+	no	no	NOUN	
+d000.s114.t006	retener	retener	VERB	bn:00089399v;bn:00092928v
+	el		X	
+	comprimido	comprimir	VERB	
+	(		X	
+	podrían	poder	VERB	
+d000.s114.t007	vomitar	vomitar	VERB	bn:00083115v
+	el		X	
+	comprimido	comprimir	VERB	
+d000.s114.t008	intacto	intacto	ADJ	bn:00102278a
+	)		X	
+	.		X	
+	-end-		X	
+	Para		X	
+	la		X	
+d000.s115.t000	continuación	continuación	NOUN	bn:00022190n
+	del		X	
+d000.s115.t001	tratamiento	tratamiento	NOUN	bn:00047235n;bn:00076843n;wiki:tratamiento_(medicina)
+	,		X	
+	el		X	
+d000.s115.t002	propietario	propietario	NOUN	bn:00059954n
+	puede	poder	VERB	
+d000.s115.t003	administrar	administrar	VERB	bn:00082365v
+	el		X	
+d000.s115.t004	medicamento	medicamento	NOUN	bn:00031708n;bn:00054128n;bn:00061887n;wiki:medicamento;wiki:prescripción_(medicina)
+	al		X	
+d000.s115.t005	animal	animal	NOUN	bn:00004222n;wiki:animalia;wiki:fauna
+	en		X	
+d000.s115.t006	forma	forma	NOUN	bn:00016529n;bn:00035907n
+	de		X	
+	comprimidos	comprimir	VERB	
+	.		X	
+	-end-		X	
+	El		X	
+d000.s116.t000	tratamiento	tratamiento	NOUN	bn:00047235n;bn:00076843n;wiki:tratamiento_(medicina)
+	del		X	
+d000.s116.t001	vómito	vómito	NOUN	bn:00008567n;bn:00027565n;wiki:regurgitación;wiki:vómito
+	debe	deber	VERB	
+d000.s116.t002	realizarse	realizar	VERB	bn:00082225v;bn:00082311v;bn:00087107v;bn:00087108v
+d000.s116.t003	siempre	siempre	ADV	bn:00114250r;bn:00114251r
+	en		X	
+d000.s116.t004	asociación	asociación	NOUN	bn:00006544n;wiki:disociación
+	con		X	
+	otras		X	
+d000.s116.t005	medidas	medida	NOUN	bn:00054018n
+	de		X	
+d000.s116.t006	apoyo	apoyo	NOUN	bn:00075330n;bn:00075331n
+	u		X	
+	otros		X	
+d000.s116.t007	tratamientos	tratamiento	NOUN	bn:00047235n;bn:00076843n;wiki:tratamiento_(medicina)
+d000.s116.t008	veterinarios	veterinario	NOUN	bn:00079883n;bn:00079888n;wiki:veterinaria
+	para		X	
+d000.s116.t009	combatir	combatir	VERB	bn:00083173v
+d000.s116.t010	también	también	ADV	bn:00114246r
+	la		X	
+d000.s116.t011	causa	causa	NOUN	bn:00016850n;bn:00080992n
+d000.s116.t012	subyacente	subyacente	ADJ	bn:00103424a;bn:00104676a
+	del		X	
+d000.s116.t013	vómito	vómito	NOUN	bn:00008567n;bn:00027565n;wiki:regurgitación;wiki:vómito
+	.		X	
+	-end-		X	
+	¿Cuáles	¿cuáles	ADJ	
+	son	ser	VERB	
+	los		X	
+d000.s117.t000	efectos	efecto	NOUN	bn:00071445n;bn:00450782n;bn:00686074n;wiki:reacción_adversa_a_medicamento
+d000.s117.t001	secundarios	secundario	ADJ	bn:00110247a;bn:00110248a;bn:00110249a
+	de		X	
+	Cerenia	cerenia	NOUN	
+	?		X	
+	-end-		X	
+d000.s118.t000	En general	en~general	ADV	bn:00115495r
+	,		X	
+	Cerenia	cerenia	NOUN	
+	fue	ser	VERB	
+d000.s118.t001	bien	bien	ADV	bn:00115530r
+d000.s118.t002	tolerado	tolerar	VERB	bn:00082138v
+	cuando		X	
+	se		X	
+d000.s118.t003	administró	administrar	VERB	bn:00082365v
+d000.s118.t004	diariamente	diariamente	ADV	bn:00114917r
+	a		X	
+d000.s118.t005	dosis	dosis	NOUN	bn:00028320n;wiki:dosis
+	de		X	
+	hasta		X	
+	5		X	
+d000.s118.t006	veces	vez	NOUN	bn:00019848n;bn:00056300n;wiki:multiplicación
+	la		X	
+d000.s118.t007	dosis	dosis	NOUN	bn:00028320n;wiki:dosis
+d000.s118.t008	recomendada	recomendar	VERB	bn:00082418v;bn:00092520v
+	durante		X	
+	un		X	
+d000.s118.t009	período	período	NOUN	bn:00061605n
+	de		X	
+d000.s118.t010	tiempo	tiempo	NOUN	bn:00077267n;bn:00077268n
+d000.s118.t011	prolongado	prolongar	VERB	bn:00087274v;bn:00090070v
+	(		X	
+	hasta		X	
+	3		X	
+d000.s118.t012	veces	vez	NOUN	bn:00019848n;bn:00056300n;wiki:multiplicación
+	la		X	
+d000.s118.t013	duración	duración	NOUN	bn:00022191n;bn:00022192n;bn:00029170n
+d000.s118.t014	máxima	grande	ADJ	bn:00106517a
+d000.s118.t015	recomendada	recomendar	VERB	bn:00082418v
+	del		X	
+d000.s118.t016	tratamiento	tratamiento	NOUN	bn:00047235n;bn:00076843n;wiki:tratamiento_(medicina)
+	)		X	
+	.		X	
+	-end-		X	
+	¿Qué	¿qué	VERB	
+d000.s119.t000	precauciones	precaución	NOUN	bn:00042049n;bn:00064070n
+	debe	deber	VERB	
+d000.s119.t001	adoptar	adoptar	VERB	bn:00082379v
+	la		X	
+d000.s119.t002	persona	persona	NOUN	bn:00023661n;bn:00046516n;wiki:alma_en_pena;wiki:individuo;wiki:persona
+	que		X	
+d000.s119.t003	administre	administrar	VERB	bn:00082365v
+	el		X	
+d000.s119.t004	medicamento	medicamento	NOUN	bn:00031708n;bn:00054128n;bn:00061887n;wiki:medicamento;wiki:prescripción_(medicina)
+	o		X	
+d000.s119.t005	esté	estar	VERB	bn:00083183v
+	en		X	
+d000.s119.t006	contacto	contacto	NOUN	bn:00022113n;bn:00022114n;wiki:sistema_somatosensorial
+	con		X	
+	el		X	
+d000.s119.t007	animal	animal	NOUN	bn:00004222n;wiki:animalia;wiki:fauna
+	?		X	
+	-end-		X	
+	Cerenia	cerenia	NOUN	
+	no	no	NOUN	
+d000.s120.t000	presenta	presentar	VERB	bn:00087013v;bn:00088078v
+	ningún		X	
+d000.s120.t001	riesgo	riesgo	NOUN	bn:00030747n;wiki:peligro;wiki:riesgo
+d000.s120.t002	especial	especial	ADJ	bn:00102398a;bn:00108295a;bn:00110996a
+	para		X	
+	el		X	
+	ser	ser	ADJ
+d000.s120.t003	humano	humano	NOUN	bn:00046516n;wiki:individuo;wiki:persona
+	.		X	
+	-end-		X	

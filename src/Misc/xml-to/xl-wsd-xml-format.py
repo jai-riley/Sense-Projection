@@ -3,19 +3,60 @@ import csv
 import xml.etree.ElementTree as ET
 import re
 import pandas
-# pos_tags = {"X":"X", "R":"ADV","V":"VERB","N":"NOUN","J":"ADJ"}
-pos_tags = {"DET":"X", "NOUN":"NOUN", "VERB":"VERB","ADJ":"ADJ","ADV":"ADV", "SCONJ":"X", "PUNCT":"X", "PRON":"X", "CCONJ": "ADV", "ADP":"X", "NUM":"X", "NOUN,EZ":"NOUN","ADJ,EZ":"ADJ","VERB,EZ":"VERB","ADV,EZ":"ADV"}
+pos_tags = {"X":"X", "R":"ADV","V":"VERB","N":"NOUN","A":"ADJ"}
+# pos_tags = {
+#     "NN": "NOUN",
+#     "NR": "NOUN",
+#     "NT": "NOUN",
+#     "VV": "VERB",
+#     "VC": "VERB",
+#     "VE": "VERB",
+#     "VR": "VERB",
+#     "ETC": "VERB",
+#     "VA": "ADJ",  # Or "ADJ" depending on classification preference
+#     "JJ": "ADJ",
+#     "AD": "ADV",
+#     "DEV": "ADV",
+#     "DT": "X",
+#     "PU": "X",
+#     "PN": "X",
+#     "MSP": "X",
+#     "AS": "X",
+#     "DEC": "X",
+#     "P": "X",
+#     "CS": "X",
+#     "CD": "X",
+#     "M": "X",
+#     "CC": "X",
+#     "DEG": "X",
+#     "LC": "X",
+#     "SB": "X",
+#     "SP": "X",
+#     "EM": "X",
+#     "NOI": "X",
+#     "BA": "X",
+#     "OD": "X",
+#     "V":"VERB"
+# }
+
+import pandas
+
 def get_column(csv_file_path,target_column):
     with open(csv_file_path, 'r', newline='', encoding='utf-8') as csvfile:
         csvreader = csv.DictReader(csvfile,delimiter="\t")
         return [row[target_column] for row in csvreader]
 
 def get_num_doc(csv_file_path):
-        return int(get_column(csv_file_path,"Token ID")[-1][1:4])
+    # print(get_column(csv_file_path,"Token ID"))
+    return int(get_column(csv_file_path,"Token ID")[-1][1:4])
+    # return 4
 
 def get_num_sentences(csv_file_path, doc_num):
     column_values = get_column(csv_file_path,"Token ID")
     doc = [x for x in column_values if x[0:4] == doc_num]
+    # print(len(doc))
+    # print(column_values)
+    print(int(doc[-1][6:9]))
     return int(doc[-1][6:9])
 
 def add_tokens(sentence_id, input_file, object, root):
@@ -23,11 +64,15 @@ def add_tokens(sentence_id, input_file, object, root):
         csvreader = csv.DictReader(csvfile,delimiter="\t")
         token_num = 0
         for row in csvreader:
+            # print(row)
             if row["Token ID"][0:9] == sentence_id:
-                if str(row["BN Synset"]) == "":
+                # print(row["Token ID"])
+                if str(row["BN Synset"]) == "nan":
                     token = root.createElement("wf")
-                    if row["Lemma"] != "":
-                        token.setAttribute("lemma", row["Lemma"])
+                    # if row["Lemma"] != "":
+                    #     token.setAttribute("lemma", row["Lemma"].split("#")[0])
+                    # else:
+                    token.setAttribute("lemma", row["Token"])
                     pos = pos_tags[row["POS"]]
                     token.setAttribute("pos", pos)
                     x = root.createTextNode(row["Token"])
@@ -40,8 +85,15 @@ def add_tokens(sentence_id, input_file, object, root):
                     else:
                         token.setAttribute("id",f"{row['Token ID'][0:9]}.t0{token_num}")
                     token_num += 1
-                    token.setAttribute("lemma", row["Lemma"])
-                    pos = pos_tags[row["POS"]]
+                    # if row["Lemma"] != "":
+                    #     token.setAttribute("lemma", row["Lemma"].split("#")[0])
+                    # else:
+                    token.setAttribute("lemma", row["Token"])
+                    if row["POS"] in pos_tags.keys():
+                        pos = pos_tags[row["POS"]]
+                    else:
+                        pos = "X"
+
                     token.setAttribute("pos", pos)
                     x = root.createTextNode(row["Token"])
                     token.appendChild(x)
@@ -54,7 +106,7 @@ def GenerateXML(input_file,output_file,lang):
     xml.setAttribute('lang', lang)
     root.appendChild(xml)
     for x in range(1,get_num_doc(input_file)+1):
-        docId = "d001"
+        docId = f"d00{x}"
         #add more here if we want to be general
         document = root.createElement('text')
         document.setAttribute('id', docId)
@@ -72,7 +124,7 @@ def GenerateXML(input_file,output_file,lang):
             sentence.setAttribute('id',f"{docId}.{senId}")
             sentence.setAttribute('source', "semeval2015-en")
             document.appendChild(sentence)
-            add_tokens(f"d001.{senId}", input_file, sentence, root)
+            add_tokens(f"d00{x}.{senId}", input_file, sentence, root)
     xml_str = root.toprettyxml(indent="\t")
     with open(output_file, "w") as f:
         f.write(xml_str)
@@ -85,13 +137,13 @@ def fix_key_ids(input_key,output_key):
         writer = csv.writer(outfile, delimiter=' ')
         token_num = 0
         sent_num = 0
-        current_sent = "d001.s001"
-        current_token = "d001.s001.t001"
+        current_sent = "d000.s000"
+        current_token = "d000.s000.t000"
         for row in reader:
             # print(row[0])
-            print(row[0],row[1])
+            # print(row[0],row[1])
             # if current_token == "d001.s001.t001":
-            if current_token != row[0] and current_token != "d001.s001.t001":
+            if current_token != row[0] and current_token != "d000.s000.t000":
                 writer.writerow(d)
                 token_num += 1
             if row[0][0:9] != current_sent:
@@ -165,12 +217,12 @@ def decrement_sentence_ids(input_file, output_file):
     tree.write(output_file, encoding='utf-8', xml_declaration=True)
 
 
-lang = "FAR"
-langauge = "Farsi"
-input_xml = f"/Users/jairiley/Desktop/Research/Sense-Projection/data/{langauge}/gold-tokens-{langauge}-wSenses.tsv"
-output_xml = f"/Users/jairiley/Desktop/Research/Sense-Projection/data/{langauge}/xl-wsd-format-{langauge}.xml"
-input_key = f"/Users/jairiley/Desktop/Research/Sense-Projection/data/{langauge}/gold-key-{langauge}.txt"
-output_key = f"/Users/jairiley/Desktop/Research/Sense-Projection/data/{langauge}/xl-wsd-key-{langauge}.txt"
+lang = "ZH"
+langauge = "Chinese"
+input_xml = f"/Users/jairiley/Desktop/Research/Sense-Projection/data/{langauge}/second/Chinese-Gold6.tsv"
+output_xml = f"/Users/jairiley/Desktop/Research/Sense-Projection/data/{langauge}/second/xl-wsd-format-{langauge}.xml"
+input_key = f"/Users/jairiley/Desktop/Research/Sense-Projection/data/{langauge}/second/gold-key-{langauge}.txt"
+output_key = f"/Users/jairiley/Desktop/Research/Sense-Projection/data/{langauge}/second/xl-wsd-key-{langauge}3.txt"
 GenerateXML(input_xml, output_xml, lang)
 fix_key_ids(input_key,output_key)
 
