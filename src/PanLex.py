@@ -15,13 +15,10 @@ def read_tsv_column_to_list(file_path, column_name,other_column):
     try:
         with open(file_path, mode='r', newline='', encoding='utf-8') as file:
             reader = csv.DictReader(file, delimiter='\t')
-            # token = ""
             for row in reader:
                 if column_name in row:
-                    # print(str(row[column_name]) == "")
                     if str(row[column_name]) == "":
                         items.append(row[other_column])
-                        # print(token,)
                     else:
                         items.append(row[column_name])
 
@@ -38,8 +35,6 @@ def read_tsv_column_to_list(file_path, column_name,other_column):
 
 def run_panlex(source_word,target_word):
     uid_value = "eng-000"
-    # source_word = gold[x].lower()
-    print()
     results = []
     if source_word != "":
         try:
@@ -57,9 +52,6 @@ def run_panlex(source_word,target_word):
                 # print(response_json)
                 # Access the 'result' list
                 results = response_json['result']
-                # print(results)
-                # Print the results
-                # results[0]['id']
                 trans_expr_value = results[0]['id']
                 print(trans_expr_value)
 
