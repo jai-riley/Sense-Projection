@@ -1,0 +1,2842 @@
+Token ID	Token	POS	Lemma	BN Synset
+d001.s001.t001	En	X	En	
+d001.s001.t002	el	X	el	
+d001.s001.t003	presente	ADJ	presente	bn:00108977a
+d001.s001.t004	documento	NOUN	documento	bn:00028015n
+d001.s001.t005	se	X	se	
+d001.s001.t006	resume	VERB	resumir	bn:00094585v
+d001.s001.t007	el	X	el	
+d001.s001.t008	Informe	NOUN	informe	bn:00067181n
+d001.s001.t009	Público	ADJ	público	bn:00109211a
+d001.s001.t010	Europeo	ADJ	europeo	bn:00102440a
+d001.s001.t011	de	X	de	
+d001.s001.t012	Evaluación	NOUN	evaluación	bn:00031972n
+d001.s001.t013	(	X	(	
+d001.s001.t014	EPAR	NOUN	epar	bn:00010392n
+d001.s001.t015	)	X	)	
+d001.s001.t016	.	X	.	
+d001.s002.t001	En	X	En	
+d001.s002.t002	él	X	él	
+d001.s002.t003	se	X	se	
+d001.s002.t004	explica	VERB	explicar	bn:00087870v
+d001.s002.t005	cómo	ADV	cómo	bn:00114525r
+d001.s002.t006	el	X	el	
+d001.s002.t007	Comité	NOUN	comité	bn:00021015n
+d001.s002.t008	de	X	de	
+d001.s002.t009	Medicamentos	NOUN	medicamento	bn:00028872n
+d001.s002.t010	de	X	de	
+d001.s002.t011	Uso	NOUN	uso	bn:00030627n
+d001.s002.t012	Humano	ADJ	humano	bn:00104386a
+d001.s002.t013	(	X	(	
+d001.s002.t014	CHMP	NOUN	chmp	bn:00041942n
+d001.s002.t015	)	X	)	
+d001.s002.t016	ha	VERB	haber	bn:00083183v
+d001.s002.t017	evaluado	VERB	evaluar	bn:00082720v
+d001.s002.t018	los	X	los	
+d001.s002.t019	estudios	NOUN	estudio	bn:00074790n
+d001.s002.t020	realizados	VERB	realizar	bn:00091550v
+d001.s002.t021	con	X	con	
+d001.s002.t022	el	X	el	
+d001.s002.t023	medicamento	NOUN	medicamento	bn:00028872n
+d001.s002.t024	a fin de	X	a fin de	
+d001.s002.t025	emitir	VERB	emitir	bn:00086535v
+d001.s002.t026	unas	X	unas	
+d001.s002.t027	recomendaciones	NOUN	recomendación	bn:00066562n
+d001.s002.t028	sobre	X	sobre	
+d001.s002.t029	su	X	su	
+d001.s002.t030	uso	NOUN	uso	bn:00030627n
+d001.s002.t031	.	X	.	
+d001.s003.t001	Si	X	Si	
+d001.s003.t002	desea	VERB	desear	bn:00086682v
+d001.s003.t003	más	ADV	más	bn:00116284r
+d001.s003.t004	información	NOUN	información	bn:00046698n
+d001.s003.t005	sobre	X	sobre	
+d001.s003.t006	su	X	su	
+d001.s003.t007	enfermedad	NOUN	enfermedad	bn:00045952n
+d001.s003.t008	o	X	o	
+d001.s003.t009	el	X	el	
+d001.s003.t010	tratamiento	NOUN	tratamiento	bn:00047235n
+d001.s003.t011	de	X	de	
+d001.s003.t012	la	X	la	
+d001.s003.t013	misma	ADJ	mismo	bn:00110075a
+d001.s003.t014	,	X	,	
+d001.s003.t015	le	X	le	
+d001.s003.t016	aconsejamos	VERB	aconsejar	bn:00082418v
+d001.s003.t017	que	X	que	
+d001.s003.t018	lea	VERB	leer	bn:00092424v
+d001.s003.t019	el	X	el	
+d001.s003.t020	prospecto	NOUN	prospecto	bn:00023292n
+d001.s003.t021	(	X	(	
+d001.s003.t022	incluido	VERB	incluir	bn:00089660v
+d001.s003.t023	en	X	en	
+d001.s003.t024	el	X	el	
+d001.s003.t025	EPAR	NOUN	epar	bn:00028015n
+d001.s003.t026	)	X	)	
+d001.s003.t027	o	X	o	
+d001.s003.t028	pregunte	VERB	preguntar	bn:00082817v
+d001.s003.t029	a	X	a	
+d001.s003.t030	su	X	su	
+d001.s003.t031	médico	NOUN	médico	bn:00027976n
+d001.s003.t032	o	X	o	
+d001.s003.t033	su	X	su	
+d001.s003.t034	farmacéutico	NOUN	farmacéutico	bn:00004992n
+d001.s003.t035	.	X	.	
+d001.s004.t001	Si	X	Si	
+d001.s004.t002	desea	VERB	desear	bn:00086682v
+d001.s004.t003	más	ADV	más	bn:00116284r
+d001.s004.t004	información	NOUN	información	bn:00046698n
+d001.s004.t005	sobre	X	sobre	
+d001.s004.t006	el	X	el	
+d001.s004.t007	fundamento	NOUN	fundamento	bn:00036063n
+d001.s004.t008	en	X	en	
+d001.s004.t009	el	X	el	
+d001.s004.t010	que	X	que	
+d001.s004.t011	se	X	se	
+d001.s004.t012	han	VERB	haber	bn:00083184v
+d001.s004.t013	basado	VERB	basar	bn:00083141v
+d001.s004.t014	las	X	las	
+d001.s004.t015	recomendaciones	NOUN	recomendación	bn:00066562n
+d001.s004.t016	del	X	del	
+d001.s004.t017	CHMP	NOUN	chmp	bn:00041942n
+d001.s004.t018	,	X	,	
+d001.s004.t019	le	X	le	
+d001.s004.t020	aconsejamos	VERB	aconsejar	bn:00082418v
+d001.s004.t021	que	X	que	
+d001.s004.t022	lea	VERB	leer	bn:00092424v
+d001.s004.t023	el	X	el	
+d001.s004.t024	Debate	NOUN	debate	bn:00005601n
+d001.s004.t025	Científico	ADJ	científico	bn:00110175a
+d001.s004.t026	(	X	(	
+d001.s004.t027	también	ADV	también	bn:00114246r
+d001.s004.t028	incluido	VERB	incluir	bn:00089660v
+d001.s004.t029	en	X	en	
+d001.s004.t030	el	X	el	
+d001.s004.t031	EPAR	NOUN	epar	bn:00041942n
+d001.s004.t032	)	X	)	
+d001.s004.t033	.	X	.	
+d001.s005.t001	¿Qué	X	¿Qué	
+d001.s005.t002	es	VERB	ser	bn:00083182v
+d001.s005.t003	Alimta	NOUN	alimta	bn:00066070n
+d001.s005.t004	?	X	?	
+d001.s006.t001	Alimta	NOUN	alimta	bn:00035965n
+d001.s006.t002	es	VERB	ser	bn:00083182v
+d001.s006.t003	un	X	un	
+d001.s006.t004	polvo	NOUN	polvo	bn:00063926n
+d001.s006.t005	con	X	con	
+d001.s006.t006	el	X	el	
+d001.s006.t007	que	X	que	
+d001.s006.t008	se	X	se	
+d001.s006.t009	prepara	VERB	preparar	bn:00088250v
+d001.s006.t010	una	X	una	
+d001.s006.t011	solución	NOUN	solución	bn:00072760n
+d001.s006.t012	para	X	para	
+d001.s006.t013	perfusión	NOUN	perfusión	bn:00061571n
+d001.s006.t014	(	X	(	
+d001.s006.t015	goteo	NOUN	goteo	bn:00028710n
+d001.s006.t016	en	X	en	
+d001.s006.t017	vena	NOUN	vena	bn:00079681n
+d001.s006.t018	)	X	)	
+d001.s006.t019	.	X	.	
+d001.s007.t001	Contiene	VERB	contener	bn:00089660v
+d001.s007.t002	el	X	el	
+d001.s007.t003	principio	NOUN	principio	bn:00064429n
+d001.s007.t004	activo	ADJ	activo	bn:00096387a
+d001.s007.t005	pemetrexed	NOUN	pemetrexed	bn:00054535n
+d001.s007.t006	.	X	.	
+d001.s008.t001	¿Para	X	¿Para	
+d001.s008.t002	qué	X	qué	
+d001.s008.t003	se	X	se	
+d001.s008.t004	utiliza	VERB	utilizar	bn:00082705v
+d001.s008.t005	Alimta	NOUN	alimta	bn:00041942n
+d001.s008.t006	?	X	?	
+d001.s009.t001	Alimta	NOUN	alimta	bn:00041942n
+d001.s009.t002	está	VERB	estar	bn:00083181v
+d001.s009.t003	indicado	VERB	indicar	bn:00082756v
+d001.s009.t004	para	X	para	
+d001.s009.t005	el	X	el	
+d001.s009.t006	tratamiento	NOUN	tratamiento	bn:00047235n
+d001.s009.t007	de	X	de	
+d001.s009.t008	dos	X	dos	
+d001.s009.t009	tipos	NOUN	tipo	bn:00035907n
+d001.s009.t010	de	X	de	
+d001.s009.t011	cáncer	NOUN	cáncer	bn:00015180n
+d001.s009.t012	:	X	:	
+d001.s009.t013	mesotelioma	NOUN	mesotelioma	bn:00054512n
+d001.s009.t014	pleural	ADJ	pleural	bn:00108692a
+d001.s009.t015	(	X	(	
+d001.s009.t016	cáncer	NOUN	cáncer	bn:00015180n
+d001.s009.t017	del	X	del	
+d001.s009.t018	revestimiento	NOUN	revestimiento	bn:00059888n
+d001.s009.t019	de	X	de	
+d001.s009.t020	los	X	los	
+d001.s009.t021	pulmones	NOUN	pulmón	bn:00052341n
+d001.s009.t022	causado	VERB	causar	bn:00084069v
+d001.s009.t023	generalmente	ADV	generalmente	bn:00114778r
+d001.s009.t024	por	X	por	
+d001.s009.t025	la	X	la	
+d001.s009.t026	exposición	NOUN	exposición	bn:00032375n
+d001.s009.t027	al	X	al	
+d001.s009.t028	amianto	NOUN	amianto	bn:00006236n
+d001.s009.t029	)	X	)	
+d001.s009.t030	.	X	.	
+d001.s010.t001	Alimta	NOUN	alimta	bn:00041942n
+d001.s010.t002	se	X	se	
+d001.s010.t003	administra	VERB	administrar	bn:00082365v
+d001.s010.t004	en	X	en	
+d001.s010.t005	combinación	NOUN	combinación	bn:00020872n
+d001.s010.t006	con	X	con	
+d001.s010.t007	cisplatino	NOUN	cisplatino	bn:00028512n
+d001.s010.t008	(	X	(	
+d001.s010.t009	otro	X	otro	
+d001.s010.t010	medicamento	NOUN	medicamento	bn:00028872n
+d001.s010.t011	contra	X	contra	
+d001.s010.t012	el	X	el	
+d001.s010.t013	cáncer	NOUN	cáncer	bn:00015180n
+d001.s010.t014	)	X	)	
+d001.s010.t015	cuando	X	cuando	
+d001.s010.t016	el	X	el	
+d001.s010.t017	tumor	NOUN	tumor	bn:00057267n
+d001.s010.t018	«	X	«	
+d001.s010.t019	no	ADV	no	bn:00116360r
+d001.s010.t020	es	VERB	ser	bn:00083181v
+d001.s010.t021	resecable	ADJ	resecable	bn:00101262a
+d001.s010.t022	»	X	»	
+d001.s010.t023	(	X	(	
+d001.s010.t024	no	X	no	
+d001.s010.t025	puede	VERB	poder	bn:00084450v
+d001.s010.t026	extirparse	VERB	extirpar	bn:00087923v
+d001.s010.t027	sólo	ADV	sólo	bn:00114234r
+d001.s010.t028	mediante	X	mediante	
+d001.s010.t029	cirugía	NOUN	cirugía	bn:00059129n
+d001.s010.t030	)	X	)	
+d001.s010.t031	y	X	y	
+d001.s010.t032	es	VERB	ser	bn:00083181v
+d001.s010.t033	«	X	«	
+d001.s010.t034	maligno	ADJ	maligno	bn:00106363a
+d001.s010.t035	»	X	»	
+d001.s010.t036	(	X	(	
+d001.s010.t037	se	X	se	
+d001.s010.t038	ha	VERB	haber	bn:00083183v
+d001.s010.t039	extendido	VERB	extender	bn:00087535v
+d001.s010.t040	,	X	,	
+d001.s010.t041	o	X	o	
+d001.s010.t042	es	VERB	ser	bn:00083181v
+d001.s010.t043	probable	ADJ	probable	bn:00105982a
+d001.s010.t044	que	X	que	
+d001.s010.t045	se	X	se	
+d001.s010.t046	extienda	VERB	extender	bn:00087535v
+d001.s010.t047	fácilmente	ADV	fácilmente	bn:00115155r
+d001.s010.t048	,	X	,	
+d001.s010.t049	a	X	a	
+d001.s010.t050	otras	X	otras	
+d001.s010.t051	partes	NOUN	parte	bn:00060765n
+d001.s010.t052	del	X	del	
+d001.s010.t053	cuerpo	NOUN	cuerpo	bn:00011744n
+d001.s010.t054	)	X	)	
+d001.s010.t055	,	X	,	
+d001.s010.t056	en	X	en	
+d001.s010.t057	pacientes	NOUN	paciente	bn:00061017n
+d001.s010.t058	que	X	que	
+d001.s010.t059	no	ADV	no	bn:00116360r
+d001.s010.t060	han	VERB	haber	bn:00083184v
+d001.s010.t061	recibido	VERB	recibir	bn:00089246v
+d001.s010.t062	quimioterapia	NOUN	quimioterapia	bn:00018141n
+d001.s010.t063	(	X	(	
+d001.s010.t064	medicamentos	NOUN	medicamento	bn:00028872n
+d001.s010.t065	contra	X	contra	
+d001.s010.t066	el	X	el	
+d001.s010.t067	cáncer	NOUN	cáncer	bn:00015180n
+d001.s010.t068	)	X	)	
+d001.s010.t069	previamente	ADV	previamente	bn:00114297r
+d001.s010.t070	,	X	,	
+d001.s010.t071	cáncer	NOUN	cáncer	bn:00015180n
+d001.s010.t072	de	X	de	
+d001.s010.t073	pulmón	NOUN	pulmón	bn:00052341n
+d001.s010.t074	«	X	«	
+d001.s010.t075	no	NOUN	no	bn:00057809n
+d001.s010.t076	microcítico	NOUN	microcito	bn:00054742n
+d001.s010.t077	»	X	»	
+d001.s010.t078	avanzado	ADJ	avanzado	bn:00096534a
+d001.s010.t079	o	X	o	
+d001.s010.t080	metastásico	NOUN	metastásico	bn:00054585n
+d001.s010.t081	que	X	que	
+d001.s010.t082	no	ADV	no	bn:00116360r
+d001.s010.t083	afecte	VERB	afectar	bn:00082427v
+d001.s010.t084	a	X	a	
+d001.s010.t085	las	X	las	
+d001.s010.t086	células	NOUN	célula	bn:00017027n
+d001.s010.t087	«	X	«	
+d001.s010.t088	escamosas	ADJ	escamoso	bn:00110136a
+d001.s010.t089	»	X	»	
+d001.s010.t090	.	X	.	
+d001.s011.t001	Alimta	NOUN	alimta	bn:00041942n
+d001.s011.t002	se	X	se	
+d001.s011.t003	utiliza	VERB	utilizar	bn:00082705v
+d001.s011.t004	en	X	en	
+d001.s011.t005	combinación	NOUN	combinación	bn:00020872n
+d001.s011.t006	con	X	con	
+d001.s011.t007	cisplatino	NOUN	cisplatino	bn:00028512n
+d001.s011.t008	en	X	en	
+d001.s011.t009	pacientes	NOUN	paciente	bn:00061017n
+d001.s011.t010	que	X	que	
+d001.s011.t011	no	ADV	no	bn:00116360r
+d001.s011.t012	han	VERB	haber	bn:00083184v
+d001.s011.t013	sido	VERB	ser	bn:00083181v
+d001.s011.t014	tratados	VERB	tratar	bn:00084532v
+d001.s011.t015	previamente	ADV	previamente	bn:00114297r
+d001.s011.t016	y	X	y	
+d001.s011.t017	en	X	en	
+d001.s011.t018	monoterapia	NOUN	monoterapia	bn:00053297n
+d001.s011.t019	en	X	en	
+d001.s011.t020	pacientes	NOUN	paciente	bn:00061017n
+d001.s011.t021	que	X	que	
+d001.s011.t022	han	VERB	haber	bn:00083183v
+d001.s011.t023	sido	VERB	ser	bn:00083181v
+d001.s011.t024	tratado	VERB	tratar	bn:00084532v
+d001.s011.t025	previamente	ADV	previamente	bn:00114297r
+d001.s011.t026	con	X	con	
+d001.s011.t027	otros	X	otros	
+d001.s011.t028	tipos	NOUN	tipo	bn:00035907n
+d001.s011.t029	de	X	de	
+d001.s011.t030	quimioterapia	NOUN	quimioterapia	bn:00018141n
+d001.s011.t031	.	X	.	
+d001.s012.t001	Este	X	Este	
+d001.s012.t002	medicamento	NOUN	medicamento	bn:00028872n
+d001.s012.t003	sólo	ADV	sólo	bn:00114234r
+d001.s012.t004	podrá	VERB	poder	bn:00084450v
+d001.s012.t005	dispensarse	VERB	dispensar	bn:00082365v
+d001.s012.t006	con	X	con	
+d001.s012.t007	receta	NOUN	receta	bn:00031708n
+d001.s012.t008	médica	ADJ	médico	bn:00106555a
+d001.s012.t009	.	X	.	
+d001.s013.t001	¿Cómo	NOUN	¿cómo	bn:00070776n
+d001.s013.t002	se	X	se	
+d001.s013.t003	usa	VERB	usar	bn:00082705v
+d001.s013.t004	Alimta	NOUN	alimta	bn:00041942n
+d001.s013.t005	?	X	?	
+d001.s014.t001	Alimta	NOUN	alimta	bn:00041942n
+d001.s014.t002	sólo	ADV	sólo	bn:00114234r
+d001.s014.t003	debe	VERB	deber	bn:00091361v
+d001.s014.t004	administrarse	VERB	administrar	bn:00082365v
+d001.s014.t005	bajo	X	bajo	
+d001.s014.t006	la	X	la	
+d001.s014.t007	supervisión	NOUN	supervisión	bn:00059908n
+d001.s014.t008	de	X	de	
+d001.s014.t009	un	X	un	
+d001.s014.t010	médico	NOUN	médico	bn:00027976n
+d001.s014.t011	cualificado	VERB	cualificar	bn:00092243v
+d001.s014.t012	en	X	en	
+d001.s014.t013	el	X	el	
+d001.s014.t014	uso	NOUN	uso	bn:00030627n
+d001.s014.t015	de	X	de	
+d001.s014.t016	quimioterapia	NOUN	quimioterapia	bn:00018141n
+d001.s014.t017	contra	X	contra	
+d001.s014.t018	el	X	el	
+d001.s014.t019	cáncer	NOUN	cáncer	bn:00015180n
+d001.s014.t020	.	X	.	
+d001.s015.t001	La	X	La	
+d001.s015.t002	dosis	NOUN	dosis	bn:00028320n
+d001.s015.t003	recomendada	VERB	recomendar	bn:00082418v
+d001.s015.t004	de	X	de	
+d001.s015.t005	Alimta	NOUN	alimta	bn:00041942n
+d001.s015.t006	es	VERB	ser	bn:00083181v
+d001.s015.t007	de	X	de	
+d001.s015.t008	500	X	500	
+d001.s015.t009	mg	NOUN	mg	bn:00054701n
+d001.s015.t010	por	X	por	
+d001.s015.t011	metro	NOUN	metro	bn:00052501n
+d001.s015.t012	cuadrado	ADJ	cuadrado	bn:00111084a
+d001.s015.t013	de	X	de	
+d001.s015.t014	superficie	NOUN	superficie	bn:00075374n
+d001.s015.t015	corporal	ADJ	corporal	bn:00098648a
+d001.s015.t016	(	X	(	
+d001.s015.t017	calculada	VERB	calcular	bn:00084373v
+d001.s015.t018	a partir de	X	a partir de	
+d001.s015.t019	la	X	la	
+d001.s015.t020	estatura	NOUN	estatura	bn:00043545n
+d001.s015.t021	y	X	y	
+d001.s015.t022	el	X	el	
+d001.s015.t023	peso	NOUN	peso	bn:00080831n
+d001.s015.t024	del	X	del	
+d001.s015.t025	paciente	NOUN	paciente	bn:00061017n
+d001.s015.t026	)	X	)	
+d001.s015.t027	.	X	.	
+d001.s015.t028	Se	X	Se	
+d001.s015.t029	administra	VERB	administrar	bn:00082365v
+d001.s015.t030	una	X	una	
+d001.s015.t031	vez	NOUN	vez	bn:00019848n
+d001.s015.t032	cada	X	cada	
+d001.s015.t033	tres	X	tres	
+d001.s015.t034	semanas	NOUN	semana	bn:00043484n
+d001.s015.t035	por	X	por	
+d001.s015.t036	perfusión	NOUN	perfusión	bn:00061571n
+d001.s015.t037	intravenosa	ADJ	intravenoso	bn:00102230a
+d001.s015.t038	durante	X	durante	
+d001.s015.t039	10	X	10	
+d001.s015.t040	minutos	NOUN	minuto	bn:00055094n
+d001.s015.t041	.	X	.	
+d001.s016.t001	Con	X	Con	
+d001.s016.t002	el	X	el	
+d001.s016.t003	fin	NOUN	fin	bn:00030721n
+d001.s016.t004	de	X	de	
+d001.s016.t005	reducir	VERB	reducir	bn:00084079v
+d001.s016.t006	los	X	los	
+d001.s016.t007	efectos	NOUN	efecto	bn:00021961n
+d001.s016.t008	secundarios	ADJ	secundario	bn:00110248a
+d001.s016.t009	,	X	,	
+d001.s016.t010	los	X	los	
+d001.s016.t011	pacientes	NOUN	paciente	bn:00061017n
+d001.s016.t012	deben	VERB	deber	bn:00091360v
+d001.s016.t013	recibir	VERB	recibir	bn:00089246v
+d001.s016.t014	un	X	un	
+d001.s016.t015	corticosteroide	NOUN	corticosteroide	bn:00001507n
+d001.s016.t016	y	X	y	
+d001.s016.t017	ácido	NOUN	ácido	bn:00000902n
+d001.s016.t018	fólico	ADJ	fólico	bn:00105049a
+d001.s016.t019	(	X	(	
+d001.s016.t020	un	X	un	
+d001.s016.t021	tipo	NOUN	tipo	bn:00078798n
+d001.s016.t022	de	X	de	
+d001.s016.t023	vitamina	NOUN	vitamina	bn:00080147n
+d001.s016.t024	)	X	)	
+d001.s016.t025	,	X	,	
+d001.s016.t026	así como	X	así como	
+d001.s016.t027	inyecciones	NOUN	inyección	bn:00046787n
+d001.s016.t028	de	X	de	
+d001.s016.t029	vitamina	NOUN	vitamina	bn:00080147n
+d001.s016.t030	B12	X	B12	
+d001.s016.t031	durante	X	durante	
+d001.s016.t032	el	X	el	
+d001.s016.t033	tratamiento	NOUN	tratamiento	bn:00047235n
+d001.s016.t034	con	X	con	
+d001.s016.t035	Alimta	NOUN	alimta	bn:00041942n
+d001.s016.t036	.	X	.	
+d001.s017.t001	Cuando	X	Cuando	
+d001.s017.t002	Alimta	NOUN	alimta	bn:00041942n
+d001.s017.t003	se	X	se	
+d001.s017.t004	utiliza	VERB	utilizar	bn:00082705v
+d001.s017.t005	conjuntamente	ADV	conjuntamente	bn:00116044r
+d001.s017.t006	con	X	con	
+d001.s017.t007	cisplatino	NOUN	cisplatino	bn:00028512n
+d001.s017.t008	,	X	,	
+d001.s017.t009	hay que	VERB	haber~que	bn:00082822v
+d001.s017.t010	administrar	VERB	administrar	bn:00082365v
+d001.s017.t011	además	ADV	además	bn:00114246r
+d001.s017.t012	un	X	un	
+d001.s017.t013	medicamento	NOUN	medicamento	bn:00054128n
+d001.s017.t014	«	X	«	
+d001.s017.t015	antiemético	NOUN	antiemético	bn:00004656n
+d001.s017.t016	»	X	»	
+d001.s017.t017	(	X	(	
+d001.s017.t018	para	X	para	
+d001.s017.t019	evitar	VERB	evitar	bn:00082954v
+d001.s017.t020	los	X	los	
+d001.s017.t021	vómitos	NOUN	vómito	bn:00027565n
+d001.s017.t022	)	X	)	
+d001.s017.t023	y	X	y	
+d001.s017.t024	líquidos	NOUN	líquido	bn:00051473n
+d001.s017.t025	(	X	(	
+d001.s017.t026	para	X	para	
+d001.s017.t027	evitar	VERB	evitar	bn:00082954v
+d001.s017.t028	la	X	la	
+d001.s017.t029	deshidratación	NOUN	deshidratación	bn:00025983n
+d001.s017.t030	)	X	)	
+d001.s017.t031	antes	X	antes	
+d001.s017.t032	o	X	o	
+d001.s017.t033	después de	X	después de	
+d001.s017.t034	la	X	la	
+d001.s017.t035	dosis	NOUN	dosis	bn:00028320n
+d001.s017.t036	de	X	de	
+d001.s017.t037	cisplatino	NOUN	cisplatino	bn:00061363n
+d001.s017.t038	.	X	.	
+d001.s018.t001	Será	VERB	ser	bn:00083181v
+d001.s018.t002	necesario	ADJ	necesario	bn:00107182a
+d001.s018.t003	retrasar	VERB	retrasar	bn:00086459v
+d001.s018.t004	o	X	o	
+d001.s018.t005	suspender	VERB	suspender	bn:00088557v
+d001.s018.t006	el	X	el	
+d001.s018.t007	tratamiento	NOUN	tratamiento	bn:00047235n
+d001.s018.t008	,	X	,	
+d001.s018.t009	o	X	o	
+d001.s018.t010	reducir	VERB	reducir	bn:00084079v
+d001.s018.t011	la	X	la	
+d001.s018.t012	dosis	NOUN	dosis	bn:00028320n
+d001.s018.t013	,	X	,	
+d001.s018.t014	en	X	en	
+d001.s018.t015	pacientes	NOUN	paciente	bn:00061017n
+d001.s018.t016	que	X	que	
+d001.s018.t017	presenten	VERB	presentar	bn:00088078v
+d001.s018.t018	alteraciones	NOUN	alteración	bn:00003125n
+d001.s018.t019	en	X	en	
+d001.s018.t020	los	X	los	
+d001.s018.t021	recuentos	NOUN	recuento	bn:00023139n
+d001.s018.t022	sanguíneos	ADJ	sanguíneo	bn:00099064a
+d001.s018.t023	o	X	o	
+d001.s018.t024	determinados	ADJ	determinado	bn:00103595a
+d001.s018.t025	efectos	NOUN	efecto	bn:00021961n
+d001.s018.t026	secundarios	ADJ	secundario	bn:00110248a
+d001.s018.t027	.	X	.	
+d001.s019.t001	No	ADV	no	bn:00116360r
+d001.s019.t002	se	X	se	
+d001.s019.t003	recomienda	VERB	recomendar	bn:00082418v
+d001.s019.t004	administrar	VERB	administrar	bn:00082365v
+d001.s019.t005	Alimta	NOUN	alimta	bn:00041942n
+d001.s019.t006	a	X	a	
+d001.s019.t007	pacientes	NOUN	paciente	bn:00061017n
+d001.s019.t008	con	X	con	
+d001.s019.t009	problemas	NOUN	problema	bn:00048242n
+d001.s019.t010	renales	ADJ	renal	bn:00107226a
+d001.s019.t011	moderados	ADJ	moderado	bn:00106826a
+d001.s019.t012	o	X	o	
+d001.s019.t013	graves	ADJ	grave	bn:00100896a
+d001.s019.t014	.	X	.	
+d001.s020.t001	Si	X	Si	
+d001.s020.t002	desea	VERB	desear	bn:00086682v
+d001.s020.t003	más	ADV	más	bn:00116284r
+d001.s020.t004	información	NOUN	información	bn:00046698n
+d001.s020.t005	,	X	,	
+d001.s020.t006	consulte	VERB	consultar	bn:00085686v
+d001.s020.t007	el	X	el	
+d001.s020.t008	Resumen	NOUN	resumen	bn:00000489n
+d001.s020.t009	de	X	de	
+d001.s020.t010	las	X	las	
+d001.s020.t011	Características	NOUN	característica	bn:00017761n
+d001.s020.t012	del	X	del	
+d001.s020.t013	Producto	NOUN	producto	bn:00054416n
+d001.s020.t014	,	X	,	
+d001.s020.t015	que	X	que	
+d001.s020.t016	también	ADV	también	bn:00114246r
+d001.s020.t017	forma	VERB	formar	bn:00085670v
+d001.s020.t018	parte	NOUN	parte	bn:00021395n
+d001.s020.t019	del	X	del	
+d001.s020.t020	EPAR	NOUN	epar	bn:00028015n
+d001.s020.t021	.	X	.	
+d001.s021.t001	¿Cómo	ADV	cómo	bn:00115016r
+d001.s021.t002	actúa	VERB	actuar	bn:00082288v
+d001.s021.t003	Alimta	NOUN	alimta	bn:00035443n
+d001.s021.t004	?	X	?	
+d001.s022.t001	El	X	El	
+d001.s022.t002	principio	NOUN	principio	bn:00064429n
+d001.s022.t003	activo	ADJ	activo	bn:00096387a
+d001.s022.t004	de	X	de	
+d001.s022.t005	Alimta	NOUN	alimta	bn:00041942n
+d001.s022.t006	,	X	,	
+d001.s022.t007	el	X	el	
+d001.s022.t008	pemetrexed	NOUN	pemetrexed	bn:00027156n
+d001.s022.t009	,	X	,	
+d001.s022.t010	es	VERB	ser	bn:00083182v
+d001.s022.t011	un	X	un	
+d001.s022.t012	medicamento	NOUN	medicamento	bn:00028872n
+d001.s022.t013	citotóxico	NOUN	citotóxico	bn:00100866a
+d001.s022.t014	(	X	(	
+d001.s022.t015	un	X	un	
+d001.s022.t016	medicamento	NOUN	medicamento	bn:00028872n
+d001.s022.t017	que	X	que	
+d001.s022.t018	destruye	VERB	destruir	bn:00086698v
+d001.s022.t019	las	X	las	
+d001.s022.t020	células	NOUN	célula	bn:00017027n
+d001.s022.t021	que	X	que	
+d001.s022.t022	están	VERB	estar	bn:00083183v
+d001.s022.t023	en	X	en	
+d001.s022.t024	fase	NOUN	fase	bn:00025966n
+d001.s022.t025	de	X	de	
+d001.s022.t026	división	NOUN	división	bn:00027913n
+d001.s022.t027	,	X	,	
+d001.s022.t028	como	X	como	
+d001.s022.t029	las	X	las	
+d001.s022.t030	cancerosas	ADJ	canceroso	bn:00099180a
+d001.s022.t031	)	X	)	
+d001.s022.t032	que	X	que	
+d001.s022.t033	pertenece	VERB	pertenecer	bn:00083389v
+d001.s022.t034	al	X	al	
+d001.s022.t035	grupo	NOUN	grupo	bn:00041942n
+d001.s022.t036	de	X	de	
+d001.s022.t037	los	X	los	
+d001.s022.t038	«	X	«	
+d001.s022.t039	antimetabolitos	NOUN	antimetabolitos	bn:00004691n
+d001.s022.t040	»	X	»	
+d001.s022.t041	.	X	.	
+d001.s023.t001	En	X	En	
+d001.s023.t002	el	X	el	
+d001.s023.t003	organismo	NOUN	organismo	bn:00009677n
+d001.s023.t004	,	X	,	
+d001.s023.t005	el	X	el	
+d001.s023.t006	pemetrexed	NOUN	pemetrexed	bn:00004071n
+d001.s023.t007	se	X	se	
+d001.s023.t008	convierte	VERB	convertir	bn:00085761v
+d001.s023.t009	en	X	en	
+d001.s023.t010	una	X	una	
+d001.s023.t011	forma	NOUN	forma	bn:00035907n
+d001.s023.t012	activa	ADJ	activo	bn:00096387a
+d001.s023.t013	que	X	que	
+d001.s023.t014	bloquea	VERB	bloquear	bn:00083642v
+d001.s023.t015	la	X	la	
+d001.s023.t016	actividad	NOUN	actividad	bn:00001128n
+d001.s023.t017	de	X	de	
+d001.s023.t018	las	X	las	
+d001.s023.t019	enzimas	NOUN	enzima	bn:00031085n
+d001.s023.t020	que	X	que	
+d001.s023.t021	participan	VERB	participar	bn:00091451v
+d001.s023.t022	en	X	en	
+d001.s023.t023	la	X	la	
+d001.s023.t024	producción	NOUN	producción	bn:00064590n
+d001.s023.t025	de	X	de	
+d001.s023.t026	«	X	«	
+d001.s023.t027	nucleótidos	NOUN	nucleótido	bn:00008788n
+d001.s023.t028	»	X	»	
+d001.s023.t029	(	X	(	
+d001.s023.t030	elementos	NOUN	elemento	bn:00018105n
+d001.s023.t031	esenciales	ADJ	esencial	bn:00100675a
+d001.s023.t032	del	X	del	
+d001.s023.t033	ADN	NOUN	adn	bn:00026301n
+d001.s023.t034	y	X	y	
+d001.s023.t035	el	X	el	
+d001.s023.t036	ARN	NOUN	arn	bn:00067714n
+d001.s023.t037	,	X	,	
+d001.s023.t038	el	X	el	
+d001.s023.t039	material	NOUN	material	bn:00053801n
+d001.s023.t040	genético	ADJ	genético	bn:00103522a
+d001.s023.t041	de	X	de	
+d001.s023.t042	las	X	las	
+d001.s023.t043	células	NOUN	célula	bn:00017027n
+d001.s023.t044	)	X	)	
+d001.s023.t045	.	X	.	
+d001.s024.t001	¿Qué	ADJ	qué	bn:00110911a
+d001.s024.t002	tipo	NOUN	tipo	bn:00078798n
+d001.s024.t003	de	X	de	
+d001.s024.t004	estudios	NOUN	estudio	bn:00074790n
+d001.s024.t005	se	X	se	
+d001.s024.t006	han	VERB	haber	bn:00083184v
+d001.s024.t007	realizado	VERB	realizar	bn:00084595v
+d001.s024.t008	con	X	con	
+d001.s024.t009	Alimta	NOUN	alimta	bn:00041942n
+d001.s024.t010	?	X	?	
+d001.s025.t001	Por	X	Por	
+d001.s025.t002	lo	X	lo	
+d001.s025.t003	que	X	que	
+d001.s025.t004	se	X	se	
+d001.s025.t005	refiere	VERB	referir	bn:00083240v
+d001.s025.t006	al	X	al	
+d001.s025.t007	tratamiento	NOUN	tratamiento	bn:00047235n
+d001.s025.t008	del	X	del	
+d001.s025.t009	mesotelioma	NOUN	mesotelioma	bn:00054512n
+d001.s025.t010	pleural	ADJ	pleural	bn:00108692a
+d001.s025.t011	maligno	ADJ	maligno	bn:00106363a
+d001.s025.t012	,	X	,	
+d001.s025.t013	Alimta	NOUN	alimta	bn:00041942n
+d001.s025.t014	ha	VERB	haber	bn:00083183v
+d001.s025.t015	sido	VERB	ser	bn:00083181v
+d001.s025.t016	evaluado	VERB	evaluar	bn:00082720v
+d001.s025.t017	en	X	en	
+d001.s025.t018	un	X	un	
+d001.s025.t019	estudio	NOUN	estudio	bn:00074790n
+d001.s025.t020	principal	ADJ	principal	bn:00099598a
+d001.s025.t021	realizado	VERB	realizar	bn:00091550v
+d001.s025.t022	en	X	en	
+d001.s025.t023	456	X	456	
+d001.s025.t024	pacientes	NOUN	paciente	bn:00061017n
+d001.s025.t025	que	X	que	
+d001.s025.t026	no	ADV	no	bn:00116360r
+d001.s025.t027	habían	VERB	haber	bn:00083183v
+d001.s025.t028	recibido	VERB	recibir	bn:00089246v
+d001.s025.t029	quimioterapia	NOUN	quimioterapia	bn:00018141n
+d001.s025.t030	anteriormente	ADV	anteriormente	bn:00114297r
+d001.s025.t031	.	X	.	
+d001.s026.t001	Se	X	Se	
+d001.s026.t002	compararon	VERB	comparar	bn:00085450v
+d001.s026.t003	los	X	los	
+d001.s026.t004	efectos	NOUN	efecto	bn:00021961n
+d001.s026.t005	de	X	de	
+d001.s026.t006	Alimta	NOUN	alimta	bn:00041942n
+d001.s026.t007	en	X	en	
+d001.s026.t008	combinación	NOUN	combinación	bn:00020872n
+d001.s026.t009	con	X	con	
+d001.s026.t010	cisplatino	NOUN	cisplatino	bn:00028512n
+d001.s026.t011	con	X	con	
+d001.s026.t012	los	X	los	
+d001.s026.t013	efectos	NOUN	efecto	bn:00021961n
+d001.s026.t014	del	X	del	
+d001.s026.t015	cisplatino	NOUN	cisplatino	bn:00028512n
+d001.s026.t016	administrado	VERB	administrar	bn:00082365v
+d001.s026.t017	en	X	en	
+d001.s026.t018	solitario	ADJ	solitario	bn:00106120a
+d001.s026.t019	.	X	.	
+d001.s027.t001	En	X	En	
+d001.s027.t002	cuanto	X	cuanto	
+d001.s027.t003	al	X	al	
+d001.s027.t004	tratamiento	NOUN	tratamiento	bn:00047235n
+d001.s027.t005	del	X	del	
+d001.s027.t006	cáncer	NOUN	cáncer	bn:00015180n
+d001.s027.t007	de	X	de	
+d001.s027.t008	pulmón	NOUN	pulmón	bn:00052341n
+d001.s027.t009	no	NOUN	no	bn:00057809n
+d001.s027.t010	microcítico	NOUN	microcito	bn:00054742n
+d001.s027.t011	,	X	,	
+d001.s027.t012	se	X	se	
+d001.s027.t013	compararon	VERB	comparar	bn:00085450v
+d001.s027.t014	los	X	los	
+d001.s027.t015	efectos	NOUN	efecto	bn:00021961n
+d001.s027.t016	de	X	de	
+d001.s027.t017	Alimta	NOUN	alimta	bn:00041942n
+d001.s027.t018	con	X	con	
+d001.s027.t019	los	X	los	
+d001.s027.t020	del	X	del	
+d001.s027.t021	docetaxel	NOUN	docetaxel	bn:00045469n
+d001.s027.t022	(	X	(	
+d001.s027.t023	otro	X	otro	
+d001.s027.t024	medicamento	NOUN	medicamento	bn:00028872n
+d001.s027.t025	contra	X	contra	
+d001.s027.t026	el	X	el	
+d001.s027.t027	cáncer	NOUN	cáncer	bn:00015180n
+d001.s027.t028	)	X	)	
+d001.s027.t029	en	X	en	
+d001.s027.t030	un	X	un	
+d001.s027.t031	estudio	NOUN	estudio	bn:00074790n
+d001.s027.t032	realizado	VERB	realizar	bn:00091550v
+d001.s027.t033	en	X	en	
+d001.s027.t034	571	X	571	
+d001.s027.t035	pacientes	NOUN	paciente	bn:00061017n
+d001.s027.t036	con	X	con	
+d001.s027.t037	enfermedad	NOUN	enfermedad	bn:00027546n
+d001.s027.t038	localmente	ADV	localmente	bn:00116147r
+d001.s027.t039	avanzada	VERB	avanzar	bn:00088789v
+d001.s027.t040	o	X	o	
+d001.s027.t041	metastásica	NOUN	metastásico	bn:00054585n
+d001.s027.t042	que	X	que	
+d001.s027.t043	habían	VERB	haber	bn:00083183v
+d001.s027.t044	recibido	VERB	recibir	bn:00089246v
+d001.s027.t045	quimioterapia	NOUN	quimioterapia	bn:00018141n
+d001.s027.t046	previamente	ADV	previamente	bn:00114297r
+d001.s027.t047	.	X	.	
+d001.s028.t001	Alimta	NOUN	alimta	bn:00041942n
+d001.s028.t002	también	ADV	también	bn:00114246r
+d001.s028.t003	se	X	se	
+d001.s028.t004	comparó	VERB	comparar	bn:00085450v
+d001.s028.t005	con	X	con	
+d001.s028.t006	gemcitabina	NOUN	gemcitabina	bn:00006975n
+d001.s028.t007	(	X	(	
+d001.s028.t008	otro	X	otro	
+d001.s028.t009	medicamento	NOUN	medicamento	bn:00028872n
+d001.s028.t010	contra	X	contra	
+d001.s028.t011	el	X	el	
+d001.s028.t012	cáncer	NOUN	cáncer	bn:00015180n
+d001.s028.t013	)	X	)	
+d001.s028.t014	,	X	,	
+d001.s028.t015	ambos	X	ambos	
+d001.s028.t016	en	X	en	
+d001.s028.t017	combinación	NOUN	combinación	bn:00020872n
+d001.s028.t018	con	X	con	
+d001.s028.t019	cisplatino	NOUN	cisplatino	bn:00028512n
+d001.s028.t020	,	X	,	
+d001.s028.t021	en	X	en	
+d001.s028.t022	un	X	un	
+d001.s028.t023	estudio	NOUN	estudio	bn:00074790n
+d001.s028.t024	con	X	con	
+d001.s028.t025	1.725	X	1.725	
+d001.s028.t026	pacientes	NOUN	paciente	bn:00061017n
+d001.s028.t027	que	X	que	
+d001.s028.t028	no	NOUN	no	bn:00057809n
+d001.s028.t029	habían	VERB	haber	bn:00083183v
+d001.s028.t030	recibido	VERB	recibir	bn:00089246v
+d001.s028.t031	quimioterapia	NOUN	quimioterapia	bn:00018141n
+d001.s028.t032	contra	X	contra	
+d001.s028.t033	el	X	el	
+d001.s028.t034	cáncer	NOUN	cáncer	bn:00015180n
+d001.s028.t035	de	X	de	
+d001.s028.t036	pulmón	NOUN	pulmón	bn:00052341n
+d001.s028.t037	previamente	ADV	previamente	bn:00114297r
+d001.s028.t038	.	X	.	
+d001.s029.t001	En	X	En	
+d001.s029.t002	los	X	los	
+d001.s029.t003	tres	X	tres	
+d001.s029.t004	estudios	NOUN	estudio	bn:00074790n
+d001.s029.t005	,	X	,	
+d001.s029.t006	el	X	el	
+d001.s029.t007	criterio	NOUN	criterio	bn:00023853n
+d001.s029.t008	principal	ADJ	principal	bn:00099598a
+d001.s029.t009	de	X	de	
+d001.s029.t010	valoración	NOUN	valoración	bn:00031973n
+d001.s029.t011	de	X	de	
+d001.s029.t012	la	X	la	
+d001.s029.t013	eficacia	NOUN	eficacia	bn:00029888n
+d001.s029.t014	fue	VERB	ser	bn:00083182v
+d001.s029.t015	el	X	el	
+d001.s029.t016	tiempo	NOUN	tiempo	bn:00077267n
+d001.s029.t017	de	X	de	
+d001.s029.t018	supervivencia	NOUN	supervivencia	bn:00075436n
+d001.s029.t019	de	X	de	
+d001.s029.t020	los	X	los	
+d001.s029.t021	pacientes	NOUN	paciente	bn:00061017n
+d001.s029.t022	.	X	.	
+d001.s030.t001	¿Qué	NOUN	¿qué	bn:00070776n
+d001.s030.t002	beneficio	NOUN	beneficio	bn:00009905n
+d001.s030.t003	ha	VERB	haber	bn:00083183v
+d001.s030.t004	demostrado	VERB	demostrar	bn:00083245v
+d001.s030.t005	tener	VERB	tener	bn:00088078v
+d001.s030.t006	Alimta	NOUN	alimta	bn:00066070n
+d001.s030.t007	durante	X	durante	
+d001.s030.t008	los	X	los	
+d001.s030.t009	estudios	NOUN	estudio	bn:00074790n
+d001.s030.t010	?	X	?	
+d001.s031.t001	Alimta	NOUN	alimta	bn:00041942n
+d001.s031.t002	prolongó	VERB	prolongar	bn:00087274v
+d001.s031.t003	el	X	el	
+d001.s031.t004	tiempo	NOUN	tiempo	bn:00077267n
+d001.s031.t005	de	X	de	
+d001.s031.t006	supervivencia	NOUN	supervivencia	bn:00075436n
+d001.s031.t007	de	X	de	
+d001.s031.t008	los	X	los	
+d001.s031.t009	pacientes	NOUN	paciente	bn:00061017n
+d001.s031.t010	con	X	con	
+d001.s031.t011	mesotelioma	NOUN	mesotelioma	bn:00054512n
+d001.s031.t012	pleural	ADJ	pleural	bn:00108692a
+d001.s031.t013	maligno	ADJ	maligno	bn:00106363a
+d001.s031.t014	.	X	.	
+d001.s032.t001	Los	X	Los	
+d001.s032.t002	pacientes	NOUN	paciente	bn:00061017n
+d001.s032.t003	que	X	que	
+d001.s032.t004	recibieron	VERB	recibir	bn:00089246v
+d001.s032.t005	Alimta	NOUN	alimta	bn:00041942n
+d001.s032.t006	y	X	y	
+d001.s032.t007	cisplatino	NOUN	cisplatino	bn:00028512n
+d001.s032.t008	sobrevivieron	VERB	sobrevivir	bn:00087617v
+d001.s032.t009	una	X	una	
+d001.s032.t010	media	NOUN	media	bn:00054001n
+d001.s032.t011	de	X	de	
+d001.s032.t012	12,1	X	12,1	
+d001.s032.t013	meses	NOUN	mes	bn:00055794n
+d001.s032.t014	,	X	,	
+d001.s032.t015	mientras que	X	mientras que	
+d001.s032.t016	la	X	la	
+d001.s032.t017	supervivencia	NOUN	supervivencia	bn:00030811n
+d001.s032.t018	de	X	de	
+d001.s032.t019	los	X	los	
+d001.s032.t020	enfermos	NOUN	enfermo	bn:00027549n
+d001.s032.t021	tratados	VERB	tratar	bn:00084532v
+d001.s032.t022	sólo	ADV	sólo	bn:00114234r
+d001.s032.t023	con	X	con	
+d001.s032.t024	cisplatino	NOUN	cisplatino	bn:00028512n
+d001.s032.t025	fue	VERB	ser	bn:00083181v
+d001.s032.t026	de	X	de	
+d001.s032.t027	9,3	X	9,3	
+d001.s032.t028	meses	NOUN	mes	bn:00055794n
+d001.s032.t029	.	X	.	
+d001.s033.t001	En	X	En	
+d001.s033.t002	el	X	el	
+d001.s033.t003	tratamiento	NOUN	tratamiento	bn:00047235n
+d001.s033.t004	de	X	de	
+d001.s033.t005	pacientes	NOUN	paciente	bn:00061017n
+d001.s033.t006	con	X	con	
+d001.s033.t007	cáncer	NOUN	cáncer	bn:00015180n
+d001.s033.t008	de	X	de	
+d001.s033.t009	pulmón	NOUN	pulmón	bn:00052341n
+d001.s033.t010	no	NOUN	no	bn:00057809n
+d001.s033.t011	microcítico	NOUN	microcito	bn:00054742n
+d001.s033.t012	,	X	,	
+d001.s033.t013	Alimta	NOUN	alimta	bn:00041942n
+d001.s033.t014	fue	VERB	ser	bn:00083181v
+d001.s033.t015	tan	ADV	tan	bn:00114354r
+d001.s033.t016	efectivo	ADJ	efectivo	bn:00102040a
+d001.s033.t017	como	X	como	
+d001.s033.t018	los	X	los	
+d001.s033.t019	medicamentos	NOUN	medicamento	bn:00054128n
+d001.s033.t020	de	X	de	
+d001.s033.t021	comparación	NOUN	comparación	bn:00021304n
+d001.s033.t022	.	X	.	
+d001.s034.t001	En	X	En	
+d001.s034.t002	los	X	los	
+d001.s034.t003	pacientes	NOUN	paciente	bn:00061017n
+d001.s034.t004	que	X	que	
+d001.s034.t005	habían	VERB	haber	bn:00083183v
+d001.s034.t006	recibido	VERB	recibir	bn:00089246v
+d001.s034.t007	quimioterapia	NOUN	quimioterapia	bn:00018141n
+d001.s034.t008	previamente	ADV	previamente	bn:00114297r
+d001.s034.t009	,	X	,	
+d001.s034.t010	el	X	el	
+d001.s034.t011	tiempo	NOUN	tiempo	bn:00077267n
+d001.s034.t012	medio	ADJ	medio	bn:00097854a
+d001.s034.t013	de	X	de	
+d001.s034.t014	supervivencia	NOUN	supervivencia	bn:00075436n
+d001.s034.t015	fue	VERB	ser	bn:00083186v
+d001.s034.t016	de	X	de	
+d001.s034.t017	8,3	X	8,3	
+d001.s034.t018	meses	NOUN	mes	bn:00055794n
+d001.s034.t019	con	X	con	
+d001.s034.t020	Alimta	NOUN	alimta	bn:00041942n
+d001.s034.t021	frente a	X	frente a	
+d001.s034.t022	7,9	X	7,9	
+d001.s034.t023	meses	NOUN	mes	bn:00055794n
+d001.s034.t024	con	X	con	
+d001.s034.t025	docetaxel	NOUN	docetaxel	bn:00061430n
+d001.s034.t026	.	X	.	
+d001.s035.t001	En	X	En	
+d001.s035.t002	pacientes	NOUN	paciente	bn:00061017n
+d001.s035.t003	que	X	que	
+d001.s035.t004	no	NOUN	no	bn:00057809n
+d001.s035.t005	habían	VERB	haber	bn:00083183v
+d001.s035.t006	recibido	VERB	recibir	bn:00089246v
+d001.s035.t007	previamente	ADV	previamente	bn:00114297r
+d001.s035.t008	quimioterapia	NOUN	quimioterapia	bn:00018141n
+d001.s035.t009	,	X	,	
+d001.s035.t010	el	X	el	
+d001.s035.t011	tiempo	NOUN	tiempo	bn:00077267n
+d001.s035.t012	medio	ADJ	medio	bn:00097854a
+d001.s035.t013	de	X	de	
+d001.s035.t014	supervivencia	NOUN	supervivencia	bn:00075436n
+d001.s035.t015	fue	VERB	ser	bn:00083181v
+d001.s035.t016	de	X	de	
+d001.s035.t017	10,3	X	10,3	
+d001.s035.t018	meses	NOUN	mes	bn:00055794n
+d001.s035.t019	en	X	en	
+d001.s035.t020	ambos	X	ambos	
+d001.s035.t021	grupos	NOUN	grupo	bn:00041942n
+d001.s035.t022	.	X	.	
+d001.s036.t001	No obstante	ADV	no~obstante	bn:00114216r
+d001.s036.t002	,	X	,	
+d001.s036.t003	los	X	los	
+d001.s036.t004	pacientes	NOUN	paciente	bn:00061017n
+d001.s036.t005	de	X	de	
+d001.s036.t006	ambos	X	ambos	
+d001.s036.t007	estudios	NOUN	estudio	bn:00074790n
+d001.s036.t008	cuyo	X	cuyo	
+d001.s036.t009	cáncer	NOUN	cáncer	bn:00015180n
+d001.s036.t010	no	NOUN	no	bn:00057809n
+d001.s036.t011	afectaba	VERB	afectar	bn:00082427v
+d001.s036.t012	a	X	a	
+d001.s036.t013	las	X	las	
+d001.s036.t014	células	NOUN	célula	bn:00017027n
+d001.s036.t015	escamosas	ADJ	escamosas	bn:00073708n
+d001.s036.t016	presentaban	VERB	presentar	bn:00088078v
+d001.s036.t017	un	X	un	
+d001.s036.t018	mayor	ADJ	grande	bn:00103779a
+d001.s036.t019	tiempo	NOUN	tiempo	bn:00077267n
+d001.s036.t020	de	X	de	
+d001.s036.t021	supervivencia	NOUN	supervivencia	bn:00030811n
+d001.s036.t022	cuando	X	cuando	
+d001.s036.t023	recibían	VERB	recibir	bn:00086652v
+d001.s036.t024	Alimta	NOUN	alimta	bn:00041942n
+d001.s036.t025	que	X	que	
+d001.s036.t026	cuando	X	cuando	
+d001.s036.t027	recibían	VERB	recibir	bn:00089246v
+d001.s036.t028	el	X	el	
+d001.s036.t029	medicamento	NOUN	medicamento	bn:00028872n
+d001.s036.t030	de	X	de	
+d001.s036.t031	comparación	NOUN	comparación	bn:00021304n
+d001.s036.t032	.	X	.	
+d001.s037.t001	Por el contrario	ADV	por el contrario	bn:00114165r
+d001.s037.t002	,	X	,	
+d001.s037.t003	los	X	los	
+d001.s037.t004	pacientes	NOUN	paciente	bn:00061017n
+d001.s037.t005	cuyo	X	cuyo	
+d001.s037.t006	cáncer	NOUN	cáncer	bn:00015180n
+d001.s037.t007	estaba	VERB	estar	bn:00083181v
+d001.s037.t008	afectando	VERB	afectar	bn:00082427v
+d001.s037.t009	a	X	a	
+d001.s037.t010	las	X	las	
+d001.s037.t011	células	NOUN	célula	bn:00017027n
+d001.s037.t012	escamosas	ADJ	escamosas	bn:00073708n
+d001.s037.t013	presentaron	VERB	presentar	bn:00086557v
+d001.s037.t014	tiempos	NOUN	tiempo	bn:00077267n
+d001.s037.t015	de	X	de	
+d001.s037.t016	supervivencia	NOUN	supervivencia	bn:00030811n
+d001.s037.t017	más	ADV	más	bn:00116284r
+d001.s037.t018	breve	ADJ	breve	bn:00098854a
+d001.s037.t019	si	X	si	
+d001.s037.t020	se	X	se	
+d001.s037.t021	les	X	les	
+d001.s037.t022	trataba	VERB	tratar	bn:00084532v
+d001.s037.t023	con	X	con	
+d001.s037.t024	Alimta	NOUN	alimta	bn:00041942n
+d001.s037.t025	.	X	.	
+d001.s037.t026	kalgebra	NOUN	kalgebra	bn:00002676n
+d001.s037.t027	es	VERB	ser	bn:00083182v
+d001.s037.t028	una	X	una	
+d001.s037.t029	calculadora	NOUN	calculadora	bn:00014687n
+d001.s037.t030	matemática	ADJ	matemático	bn:00106488a
+d001.s037.t031	basada	VERB	basar	bn:00083141v
+d001.s037.t032	en	X	en	
+d001.s037.t033	el	X	el	
+d001.s037.t034	lenguaje	NOUN	lenguaje	bn:00049910n
+d001.s037.t035	de	X	de	
+d001.s037.t036	marcado	NOUN	marcado	bn:00012766n
+d001.s037.t037	MathML	NOUN	mathml	bn:00046516n
+d001.s037.t038	.	X	.	
+d001.s038.t001	Hoy	ADV	hoy	bn:00116382r
+d001.s038.t002	en	X	en	
+d001.s038.t003	día	NOUN	día	bn:00025417n
+d001.s038.t004	es	VERB	ser	bn:00083181v
+d001.s038.t005	capaz	ADJ	capaz	bn:00096151a
+d001.s038.t006	de	X	de	
+d001.s038.t007	realizar	VERB	realizar	bn:00084595v
+d001.s038.t008	operaciones	NOUN	operación	bn:00059128n
+d001.s038.t009	simples	ADJ	simple	bn:00110649a
+d001.s038.t010	(	X	(	
+d001.s038.t011	aritméticas	ADJ	aritmético	bn:00097495a
+d001.s038.t012	y	X	y	
+d001.s038.t013	lógicas	ADJ	lógico	bn:00105862a
+d001.s038.t014	)	X	)	
+d001.s038.t015	usando	VERB	usar	bn:00082705v
+d001.s038.t016	MathML	NOUN	mathml	bn:00046516n
+d001.s038.t017	y	X	y	
+d001.s038.t018	de	X	de	
+d001.s038.t019	representarlas	VERB	representar	bn:00092840v
+d001.s038.t020	en	X	en	
+d001.s038.t021	gráficas	NOUN	gráfica	bn:00041412n
+d001.s038.t022	de	X	de	
+d001.s038.t023	dos	X	dos	
+d001.s038.t024	y	X	y	
+d001.s038.t025	tres	X	tres	
+d001.s038.t026	dimensiones	NOUN	dimensión	bn:00027151n
+d001.s038.t027	.	X	.	
+d001.s039.t001	No	NOUN	no	bn:00057809n
+d001.s039.t002	es	VERB	ser	bn:00083181v
+d001.s039.t003	necesario	ADJ	necesario	bn:00107182a
+d001.s039.t004	conocer	VERB	conocer	bn:00090141v
+d001.s039.t005	MathML	NOUN	mathml	bn:00046516n
+d001.s039.t006	para	X	para	
+d001.s039.t007	usar	VERB	usar	bn:00082705v
+d001.s039.t008	kalgebra	NOUN	kalgebra	bn:00002676n
+d001.s039.t009	.	X	.	
+d001.s039.t010	kalgebra	NOUN	kalgebra	bn:00002676n
+d001.s039.t011	es	VERB	ser	bn:00083182v
+d001.s039.t012	una	X	una	
+d001.s039.t013	calculadora	NOUN	calculadora	bn:00014687n
+d001.s039.t014	gráfica	ADJ	gráfico	bn:00103741a
+d001.s039.t015	basada	VERB	basar	bn:00083141v
+d001.s039.t016	en	X	en	
+d001.s039.t017	MathML	NOUN	mathml	bn:00005103n
+d001.s039.t018	.	X	.	
+d001.s040.t001	Aunque	X	Aunque	
+d001.s040.t002	en	X	en	
+d001.s040.t003	un	X	un	
+d001.s040.t004	principio	NOUN	principio	bn:00009633n
+d001.s040.t005	estuvo	VERB	estar	bn:00083181v
+d001.s040.t006	orientado	VERB	orientar	bn:00091199v
+d001.s040.t007	a	X	a	
+d001.s040.t008	MathML	NOUN	mathml	bn:00046516n
+d001.s040.t009	,	X	,	
+d001.s040.t010	actualmente	ADV	actualmente	bn:00116382r
+d001.s040.t011	puede	VERB	poder	bn:00084450v
+d001.s040.t012	ser	VERB	ser	bn:00083181v
+d001.s040.t013	usado	VERB	usar	bn:00082705v
+d001.s040.t014	por	X	por	
+d001.s040.t015	cualquier	X	cualquier	
+d001.s040.t016	persona	NOUN	persona	bn:00046516n
+d001.s040.t017	,	X	,	
+d001.s040.t018	aunque	X	aunque	
+d001.s040.t019	posea	VERB	poseer	bn:00089240v
+d001.s040.t020	pocos	X	pocos	
+d001.s040.t021	conocimientos	NOUN	conocimiento	bn:00020452n
+d001.s040.t022	matemáticos	ADJ	matemático	bn:00106488a
+d001.s040.t023	.	X	.	
+d001.s041.t001	Aquí	ADV	aquí	bn:00115639r
+d001.s041.t002	se	X	se	
+d001.s041.t003	muestra	VERB	mostrar	bn:00086611v
+d001.s041.t004	una	X	una	
+d001.s041.t005	captura	NOUN	captura	bn:00015775n
+d001.s041.t006	de	X	de	
+d001.s041.t007	la	X	la	
+d001.s041.t008	ventana	NOUN	ventana	bn:00081285n
+d001.s041.t009	principal	ADJ	principal	bn:00099598a
+d001.s041.t010	de	X	de	
+d001.s041.t011	kalgebra	NOUN	kalgebra	bn:00002676n
+d001.s041.t012	.	X	.	
+d001.s041.t013	Ventana	NOUN	ventana	bn:00081286n
+d001.s041.t014	principal	ADJ	principal	bn:00099598a
+d001.s041.t015	de	X	de	
+d001.s041.t016	kalgebra	NOUN	kalgebra	bn:00002676n
+d001.s041.t017	La	X	La	
+d001.s041.t018	ventana	NOUN	ventana	bn:00081285n
+d001.s041.t019	principal	ADJ	principal	bn:00099598a
+d001.s041.t020	de	X	de	
+d001.s041.t021	kalgebra	NOUN	kalgebra	bn:00002676n
+d001.s041.t022	consta	VERB	constar	bn:00085498v
+d001.s041.t023	de	X	de	
+d001.s041.t024	cuatro	X	cuatro	
+d001.s041.t025	pestañas	NOUN	pestaña	bn:00035022n
+d001.s041.t026	:	X	:	
+d001.s041.t027	Consola	NOUN	consola	bn:00022002n
+d001.s041.t028	,	X	,	
+d001.s041.t029	Gráfica	NOUN	gráfica	bn:00041412n
+d001.s041.t030	2D	NOUN	2d	bn:00041942n
+d001.s041.t031	,	X	,	
+d001.s041.t032	Gráfica	NOUN	gráfica	bn:00041412n
+d001.s041.t033	3D	NOUN	3d	bn:00000101n
+d001.s041.t034	y	X	y	
+d001.s041.t035	Diccionario	NOUN	diccionario	bn:00026967n
+d001.s041.t036	.	X	.	
+d001.s042.t001	Bajo	X	Bajo	
+d001.s042.t002	estas	X	estas	
+d001.s042.t003	pestañas	NOUN	pestaña	bn:00035022n
+d001.s042.t004	encontrará	VERB	encontrar	bn:00084231v
+d001.s042.t005	un	X	un	
+d001.s042.t006	campo	NOUN	campo	bn:00034275n
+d001.s042.t007	de	X	de	
+d001.s042.t008	entrada	NOUN	entrada	bn:00031062n
+d001.s042.t009	donde	ADV	donde	bn:00115192r
+d001.s042.t010	podrá	VERB	poder	bn:00084450v
+d001.s042.t011	introducir	VERB	introducir	bn:00082273v
+d001.s042.t012	sus	X	sus	
+d001.s042.t013	funciones	NOUN	función	bn:00036821n
+d001.s042.t014	o	X	o	
+d001.s042.t015	realizar	VERB	realizar	bn:00082225v
+d001.s042.t016	sus	X	sus	
+d001.s042.t017	cálculos	NOUN	cálculo	bn:00014688n
+d001.s042.t018	.	X	.	
+d001.s043.t001	Para	X	Para	
+d001.s043.t002	entender	VERB	entender	bn:00095375v
+d001.s043.t003	cómo	ADV	cómo	bn:00114525r
+d001.s043.t004	funciona	VERB	funcionar	bn:00088629v
+d001.s043.t005	,	X	,	
+d001.s043.t006	conviene	VERB	convenir	bn:00082477v
+d001.s043.t007	comprender	VERB	comprender	bn:00095375v
+d001.s043.t008	que	X	que	
+d001.s043.t009	lo	X	lo	
+d001.s043.t010	que	X	que	
+d001.s043.t011	introducimos	VERB	introducir	bn:00087679v
+d001.s043.t012	está	VERB	estar	bn:00083181v
+d001.s043.t013	siendo	VERB	ser	bn:00083181v
+d001.s043.t014	convertido	VERB	convertir	bn:00085761v
+d001.s043.t015	a	X	a	
+d001.s043.t016	MathML	NOUN	mathml	bn:00005676n
+d001.s043.t017	,	X	,	
+d001.s043.t018	aunque	X	aunque	
+d001.s043.t019	no	NOUN	no	bn:00057809n
+d001.s043.t020	es	VERB	ser	bn:00083181v
+d001.s043.t021	necesario	ADJ	necesario	bn:00107182a
+d001.s043.t022	conocer	VERB	conocer	bn:00090141v
+d001.s043.t023	MathML	NOUN	mathml	bn:00046516n
+d001.s043.t024	.	X	.	
+d001.s044.t001	He	VERB	haber	bn:00083183v
+d001.s044.t002	basado	VERB	basar	bn:00083141v
+d001.s044.t003	la	X	la	
+d001.s044.t004	sintaxis	NOUN	sintaxis	bn:00062118n
+d001.s044.t005	en	X	en	
+d001.s044.t006	el	X	el	
+d001.s044.t007	sentido	NOUN	sentido	bn:00021164n
+d001.s044.t008	común	ADJ	común	bn:00100090a
+d001.s044.t009	,	X	,	
+d001.s044.t010	por	X	por	
+d001.s044.t011	lo	X	lo	
+d001.s044.t012	que	X	que	
+d001.s044.t013	debería	VERB	deber	bn:00091361v
+d001.s044.t014	ser	VERB	ser	bn:00083181v
+d001.s044.t015	asequible	ADJ	asequible	bn:00097717a
+d001.s044.t016	para	X	para	
+d001.s044.t017	todos	X	todos	
+d001.s044.t018	.	X	.	
+d001.s045.t001	He	VERB	haber	bn:00083183v
+d001.s045.t002	tenido	VERB	tener	bn:00087863v
+d001.s045.t003	también	ADV	también	bn:00114246r
+d001.s045.t004	en	X	en	
+d001.s045.t005	cuenta	NOUN	cuenta	bn:00000744n
+d001.s045.t006	las	X	las	
+d001.s045.t007	sintaxis	NOUN	sintaxis	bn:00062118n
+d001.s045.t008	de	X	de	
+d001.s045.t009	Maxima	NOUN	maxima	bn:00046516n
+d001.s045.t010	y	X	y	
+d001.s045.t011	Maple	NOUN	maple	bn:00046516n
+d001.s045.t012	,	X	,	
+d001.s045.t013	por	X	por	
+d001.s045.t014	lo	X	lo	
+d001.s045.t015	que	X	que	
+d001.s045.t016	es	VERB	ser	bn:00083181v
+d001.s045.t017	muy	ADV	muy	bn:00116772r
+d001.s045.t018	similar	ADJ	similar	bn:00110647a
+d001.s045.t019	a	X	a	
+d001.s045.t020	estas	X	estas	
+d001.s045.t021	.	X	.	
+d001.s045.t022	+	X	+	
+d001.s045.t023	-	X	-	
+d001.s045.t024	*	X	*	
+d001.s045.t025	/	X	/	
+d001.s045.t026	:	X	:	
+d001.s045.t027	suma	NOUN	suma	bn:00001296n
+d001.s045.t028	,	X	,	
+d001.s045.t029	resta	NOUN	resta	bn:00055233n
+d001.s045.t030	,	X	,	
+d001.s045.t031	multiplicación	NOUN	multiplicación	bn:00056300n
+d001.s045.t032	y	X	y	
+d001.s045.t033	división	NOUN	división	bn:00027919n
+d001.s045.t034	.	X	.	
+d001.s045.t035	^	X	^	
+d001.s045.t036	,	X	,	
+d001.s045.t037	**	VERB	**	bn:00082471v
+d001.s045.t038	:	X	:	
+d001.s045.t039	potencia	NOUN	potencia	bn:00063864n
+d001.s045.t040	,	X	,	
+d001.s045.t041	puede	VERB	poder	bn:00084450v
+d001.s045.t042	usar	VERB	usar	bn:00082705v
+d001.s045.t043	cualquiera	X	cualquiera	
+d001.s045.t044	de	X	de	
+d001.s045.t045	las	X	las	
+d001.s045.t046	dos	X	dos	
+d001.s045.t047	formas	NOUN	forma	bn:00035907n
+d001.s045.t048	.	X	.	
+d001.s046.t001	Asimismo	ADV	asimismo	bn:00114246r
+d001.s046.t002	,	X	,	
+d001.s046.t003	puede	VERB	poder	bn:00084450v
+d001.s046.t004	usar	VERB	usar	bn:00082705v
+d001.s046.t005	los	X	los	
+d001.s046.t006	caracteres	NOUN	carácter	bn:00003057n
+d001.s046.t007	unicode	NOUN	unicode	bn:00020114n
+d001.s046.t008	²	X	²	
+d001.s046.t009	.	X	.	
+d001.s047.t001	Las	X	Las	
+d001.s047.t002	potencias	NOUN	potencia	bn:00063864n
+d001.s047.t003	son	VERB	ser	bn:00083181v
+d001.s047.t004	también	ADV	también	bn:00114246r
+d001.s047.t005	una	X	una	
+d001.s047.t006	forma	NOUN	forma	bn:00035907n
+d001.s047.t007	de	X	de	
+d001.s047.t008	expresar	VERB	expresar	bn:00087895v
+d001.s047.t009	raíces	NOUN	raíz	bn:00068247n
+d001.s047.t010	.	X	.	
+d001.s047.t011	-gt	X	-gt	
+d001.s047.t012	:	X	:	
+d001.s047.t013	Permite	VERB	permitir	bn:00082536v
+d001.s047.t014	especificar	VERB	especificar	bn:00091006v
+d001.s047.t015	la	X	la	
+d001.s047.t016	variable	NOUN	variable	bn:00079581n
+d001.s047.t017	limitada	VERB	limitar	bn:00083834v
+d001.s047.t018	en	X	en	
+d001.s047.t019	una	X	una	
+d001.s047.t020	función	NOUN	función	bn:00036821n
+d001.s047.t021	.	X	.	
+d001.s047.t022	(	X	(	
+d001.s047.t023	)	X	)	
+d001.s047.t024	:	X	:	
+d001.s047.t025	se	X	se	
+d001.s047.t026	usa	VERB	usar	bn:00082705v
+d001.s047.t027	para	X	para	
+d001.s047.t028	especificar	VERB	especificar	bn:00091006v
+d001.s047.t029	una	X	una	
+d001.s047.t030	prioridad	NOUN	prioridad	bn:00064072n
+d001.s047.t031	mayor	ADJ	grande	bn:00103779a
+d001.s047.t032	.	X	.	
+d001.s047.t033	abc(parámetros)	X	abc(parámetros)	
+d001.s047.t034	:	X	:	
+d001.s047.t035	Cuando	X	Cuando	
+d001.s047.t036	el	X	el	
+d001.s047.t037	analizador	NOUN	analizador	bn:00003792n
+d001.s047.t038	sintáctico	ADJ	sintáctico	bn:00111596a
+d001.s047.t039	encuentra	VERB	encontrar	bn:00084231v
+d001.s047.t040	una	X	una	
+d001.s047.t041	función	NOUN	función	bn:00036821n
+d001.s047.t042	,	X	,	
+d001.s047.t043	comprueba	VERB	comprobar	bn:00084848v
+d001.s047.t044	si	X	si	
+d001.s047.t045	«	X	«	
+d001.s047.t046	abc	NOUN	abc	bn:00000242n
+d001.s047.t047	»	X	»	
+d001.s047.t048	es	VERB	ser	bn:00083182v
+d001.s047.t049	un	X	un	
+d001.s047.t050	operador	NOUN	operador	bn:00059141n
+d001.s047.t051	.	X	.	
+d001.s048.t001	Si	X	Si	
+d001.s048.t002	lo	X	lo	
+d001.s048.t003	es	VERB	ser	bn:00083181v
+d001.s048.t004	,	X	,	
+d001.s048.t005	lo	X	lo	
+d001.s048.t006	trata	VERB	tratar	bn:00087116v
+d001.s048.t007	como	X	como	
+d001.s048.t008	un	X	un	
+d001.s048.t009	operador	NOUN	operador	bn:00059141n
+d001.s048.t010	si	X	si	
+d001.s048.t011	no	NOUN	no	bn:00057809n
+d001.s048.t012	lo	X	lo	
+d001.s048.t013	es	VERB	ser	bn:00083182v
+d001.s048.t014	,	X	,	
+d001.s048.t015	lo	X	lo	
+d001.s048.t016	trata	VERB	tratar	bn:00087116v
+d001.s048.t017	como	X	como	
+d001.s048.t018	una	X	una	
+d001.s048.t019	función	NOUN	función	bn:00036821n
+d001.s048.t020	de	X	de	
+d001.s048.t021	usuario	NOUN	usuario	bn:00079373n
+d001.s048.t022	.	X	.	
+d001.s048.t023	:	X	:	
+d001.s048.t024	=	X	=	
+d001.s048.t025	:	X	:	
+d001.s048.t026	Se	X	Se	
+d001.s048.t027	usa	VERB	usar	bn:00082705v
+d001.s048.t028	para	X	para	
+d001.s048.t029	definir	VERB	definir	bn:00086466v
+d001.s048.t030	el	X	el	
+d001.s048.t031	valor	NOUN	valor	bn:00079508n
+d001.s048.t032	de	X	de	
+d001.s048.t033	una	X	una	
+d001.s048.t034	variable	NOUN	variable	bn:00079581n
+d001.s048.t035	.	X	.	
+d001.s048.t036	?	X	?	
+d001.s048.t037	:	X	:	
+d001.s048.t038	definición	NOUN	definición	bn:00025928n
+d001.s048.t039	de	X	de	
+d001.s048.t040	condiciones	NOUN	condición	bn:00021645n
+d001.s048.t041	en	X	en	
+d001.s048.t042	funciones	NOUN	función	bn:00036821n
+d001.s048.t043	definidas	VERB	definir	bn:00086466v
+d001.s048.t044	a	X	a	
+d001.s048.t045	trozos	NOUN	trozo	bn:00060633n
+d001.s048.t046	(	X	(	
+d001.s048.t047	«	X	«	
+d001.s048.t048	piecewise	NOUN	piecewise	bn:00040426n
+d001.s048.t049	»	X	»	
+d001.s048.t050	)	X	)	
+d001.s048.t051	.	X	.	
+d001.s049.t001	Permite	VERB	permitir	bn:00082537v
+d001.s049.t002	definir	VERB	definir	bn:00086467v
+d001.s049.t003	operaciones	NOUN	operación	bn:00053826n
+d001.s049.t004	condicionales	ADJ	condicional	bn:00100214a
+d001.s049.t005	en	X	en	
+d001.s049.t006	kalgebra	NOUN	kalgebra	bn:00002676n
+d001.s049.t007	.	X	.	
+d001.s050.t001	Cuando	X	Cuando	
+d001.s050.t002	introducimos	VERB	introducimos	bn:00087679v
+d001.s050.t003	la	X	la	
+d001.s050.t004	condición	NOUN	condición	bn:00021645n
+d001.s050.t005	antes	X	antes	
+d001.s050.t006	del	X	del	
+d001.s050.t007	símbolo	NOUN	símbolo	bn:00075652n
+d001.s050.t008	«	X	«	
+d001.s050.t009	?	X	?	
+d001.s050.t010	»	X	»	
+d001.s050.t011	,	X	,	
+d001.s050.t012	kalgebra	NOUN	kalgebra	bn:00002676n
+d001.s050.t013	utiliza	VERB	utilizar	bn:00082705v
+d001.s050.t014	esta	X	esta	
+d001.s050.t015	condición	NOUN	condición	bn:00021645n
+d001.s050.t016	solo	ADV	solo	bn:00114234r
+d001.s050.t017	si	X	si	
+d001.s050.t018	es	VERB	ser	bn:00083181v
+d001.s050.t019	verdadera	ADJ	verdadero	bn:00112146a
+d001.s050.t020	en cambio	ADV	en~cambio	bn:00115178r
+d001.s050.t021	,	X	,	
+d001.s050.t022	si	X	si	
+d001.s050.t023	encuentra	VERB	encontrar	bn:00084231v
+d001.s050.t024	un	X	un	
+d001.s050.t025	símbolo	NOUN	símbolo	bn:00075652n
+d001.s050.t026	«	X	«	
+d001.s050.t027	?	X	?	
+d001.s050.t028	»	X	»	
+d001.s050.t029	sin	X	sin	
+d001.s050.t030	ninguna	X	ninguna	
+d001.s050.t031	condición	NOUN	condición	bn:00021645n
+d001.s050.t032	,	X	,	
+d001.s050.t033	toma	VERB	tomar	bn:00094730v
+d001.s050.t034	en	X	en	
+d001.s050.t035	cuenta	NOUN	cuenta	bn:00000744n
+d001.s050.t036	el	X	el	
+d001.s050.t037	último	ADJ	último	bn:00105740a
+d001.s050.t038	caso	NOUN	caso	bn:00016401n
+d001.s050.t039	.	X	.	
+d001.s050.t040	{	X	{	
+d001.s050.t041	}	X	}	
+d001.s050.t042	:	X	:	
+d001.s050.t043	Puede	VERB	poder	bn:00084450v
+d001.s050.t044	usarse	VERB	usar	bn:00082705v
+d001.s050.t045	para	X	para	
+d001.s050.t046	definir	VERB	definir	bn:00086466v
+d001.s050.t047	un	X	un	
+d001.s050.t048	contenedor	NOUN	contenedor	bn:00022129n
+d001.s050.t049	.	X	.	
+d001.s051.t001	Es	VERB	ser	bn:00083181v
+d001.s051.t002	muy	ADV	muy	bn:00116772r
+d001.s051.t003	útil	ADJ	útil	bn:00113455a
+d001.s051.t004	a	X	a	
+d001.s051.t005	la	X	la	
+d001.s051.t006	hora	NOUN	hora	bn:00000561n
+d001.s051.t007	de	X	de	
+d001.s051.t008	trabajar	VERB	trabajar	bn:00095823v
+d001.s051.t009	con	X	con	
+d001.s051.t010	funciones	NOUN	función	bn:00036821n
+d001.s051.t011	definidas	VERB	definir	bn:00086466v
+d001.s051.t012	a	X	a	
+d001.s051.t013	trozos	NOUN	trozo	bn:00060633n
+d001.s051.t014	.	X	.	
+d001.s052.t001	Ahora	ADV	ahora	bn:00114905r
+d001.s052.t002	puede	VERB	poder	bn:00084450v
+d001.s052.t003	preguntarme	VERB	preguntar	bn:00082817v
+d001.s052.t004	por qué	ADV	por~qué	bn:00114291r
+d001.s052.t005	debería	VERB	deber	bn:00091361v
+d001.s052.t006	el	X	el	
+d001.s052.t007	usuario	NOUN	usuario	bn:00079373n
+d001.s052.t008	preocuparse	VERB	preocupar	bn:00084528v
+d001.s052.t009	por	X	por	
+d001.s052.t010	MathML	NOUN	mathml	bn:00070813n
+d001.s052.t011	.	X	.	
+d001.s052.t012	La	X	La	
+d001.s052.t013	respuesta	NOUN	respuesta	bn:00004451n
+d001.s052.t014	es	VERB	ser	bn:00083181v
+d001.s052.t015	fácil	ADJ	fácil	bn:00101973a
+d001.s052.t016	.	X	.	
+d001.s052.t017	Con	X	Con	
+d001.s052.t018	esto	X	esto	
+d001.s052.t019	podremos	VERB	poder	bn:00084450v
+d001.s052.t020	realizar	VERB	realizar	bn:00091550v
+d001.s052.t021	operaciones	NOUN	operación	bn:00059128n
+d001.s052.t022	con	X	con	
+d001.s052.t023	funciones	NOUN	función	bn:00036821n
+d001.s052.t024	como	X	como	
+d001.s052.t025	cos()	NOUN	cos	bn:00036154n
+d001.s052.t026	,	X	,	
+d001.s052.t027	sin()	NOUN	sin	bn:00071710n
+d001.s052.t028	(	X	(	
+d001.s052.t029	o	X	o	
+d001.s052.t030	cualquier	X	cualquier	
+d001.s052.t031	otra	X	otra	
+d001.s052.t032	función	NOUN	función	bn:00036821n
+d001.s052.t033	trigonométrica	ADJ	trigonométrica	bn:00106488a
+d001.s052.t034	)	X	)	
+d001.s052.t035	,	X	,	
+d001.s052.t036	sum()	NOUN	sum	bn:00032395n
+d001.s052.t037	o	X	o	
+d001.s052.t038	product()	NOUN	product	bn:00032395n
+d001.s052.t039	.	X	.	
+d001.s053.t001	No	NOUN	no	bn:00057809n
+d001.s053.t002	importa	VERB	importar	bn:00085860v
+d001.s053.t003	el	X	el	
+d001.s053.t004	tipo	NOUN	tipo	bn:00078798n
+d001.s053.t005	de	X	de	
+d001.s053.t006	función	NOUN	función	bn:00036821n
+d001.s053.t007	que	X	que	
+d001.s053.t008	sea	VERB	ser	bn:00083182v
+d001.s053.t009	.	X	.	
+d001.s054.t001	Podremos	VERB	poder	bn:00084451v
+d001.s054.t002	usar	VERB	usar	bn:00082705v
+d001.s054.t003	plus()	NOUN	plus	bn:00036574n
+d001.s054.t004	,	X	,	
+d001.s054.t005	times()	NOUN	times	bn:00032395n
+d001.s054.t006	y	X	y	
+d001.s054.t007	cualquier	X	cualquier	
+d001.s054.t008	cosa	NOUN	cosa	bn:00076924n
+d001.s054.t009	a la que	X	a la que	
+d001.s054.t010	le	X	le	
+d001.s054.t011	corresponda	VERB	corresponder	bn:00083240v
+d001.s054.t012	un	X	un	
+d001.s054.t013	operador	NOUN	operador	bn:00059141n
+d001.s054.t014	.	X	.	
+d001.s054.t015	La	X	La	
+d001.s054.t016	consola	NOUN	consola	bn:00022002n
+d001.s054.t017	de	X	de	
+d001.s054.t018	kalgebra	NOUN	kalgebra	bn:00002676n
+d001.s054.t019	es	VERB	ser	bn:00083181v
+d001.s054.t020	tan	ADV	tan	bn:00114354r
+d001.s054.t021	útil	ADJ	útil	bn:00113455a
+d001.s054.t022	como	X	como	
+d001.s054.t023	una	X	una	
+d001.s054.t024	calculadora	NOUN	calculadora	bn:00014687n
+d001.s054.t025	.	X	.	
+d001.s055.t001	Aquí	ADV	aquí	bn:00115640r
+d001.s055.t002	tiene	VERB	tener	bn:00089240v
+d001.s055.t003	una	X	una	
+d001.s055.t004	lista	NOUN	lista	bn:00051508n
+d001.s055.t005	de	X	de	
+d001.s055.t006	las	X	las	
+d001.s055.t007	variables	NOUN	variable	bn:00079581n
+d001.s055.t008	declaradas	VERB	declarar	bn:00093287v
+d001.s055.t009	.	X	.	
+d001.s056.t001	Si	X	Si	
+d001.s056.t002	pulsa	VERB	pulsar	bn:00091986v
+d001.s056.t003	dos	X	dos	
+d001.s056.t004	veces	NOUN	vez	bn:00019848n
+d001.s056.t005	sobre	X	sobre	
+d001.s056.t006	una	X	una	
+d001.s056.t007	de	X	de	
+d001.s056.t008	ellas	X	ellas	
+d001.s056.t009	,	X	,	
+d001.s056.t010	le	X	le	
+d001.s056.t011	aparecerá	VERB	aparecer	bn:00085360v
+d001.s056.t012	un	X	un	
+d001.s056.t013	diálogo	NOUN	diálogo	bn:00026834n
+d001.s056.t014	con	X	con	
+d001.s056.t015	el	X	el	
+d001.s056.t016	que	X	que	
+d001.s056.t017	podrá	VERB	poder	bn:00084450v
+d001.s056.t018	cambiar	VERB	cambiar	bn:00082553v
+d001.s056.t019	su	X	su	
+d001.s056.t020	valor	NOUN	valor	bn:00079508n
+d001.s056.t021	(	X	(	
+d001.s056.t022	es	VERB	ser	bn:00083182v
+d001.s056.t023	una	X	una	
+d001.s056.t024	forma	NOUN	forma	bn:00035907n
+d001.s056.t025	de	X	de	
+d001.s056.t026	engañar	VERB	engañar	bn:00084240v
+d001.s056.t027	al	X	al	
+d001.s056.t028	registro	NOUN	registro	bn:00066893n
+d001.s056.t029	)	X	)	
+d001.s056.t030	.	X	.	
+d001.s057.t001	Cada vez que	X	Cada vez que	
+d001.s057.t002	introduzca	VERB	introducir	bn:00087594v
+d001.s057.t003	una	X	una	
+d001.s057.t004	expresión	NOUN	expresión	bn:00032395n
+d001.s057.t005	,	X	,	
+d001.s057.t006	el	X	el	
+d001.s057.t007	valor	NOUN	valor	bn:00079508n
+d001.s057.t008	de	X	de	
+d001.s057.t009	la	X	la	
+d001.s057.t010	variable	NOUN	variable	bn:00079583n
+d001.s057.t011	«	X	«	
+d001.s057.t012	ans	NOUN	ans	bn:00004439n
+d001.s057.t013	»	X	»	
+d001.s057.t014	cambiará	VERB	cambiar	bn:00084769v
+d001.s057.t015	para	X	para	
+d001.s057.t016	reproducir	VERB	reproducir	bn:00092850v
+d001.s057.t017	el	X	el	
+d001.s057.t018	último	ADJ	último	bn:00105763a
+d001.s057.t019	resultado	NOUN	resultado	bn:00004452n
+d001.s057.t020	.	X	.	
+d001.s058.t001	Ctrl	NOUN	ctrl	bn:00051760n
+d001.s058.t002	N	NOUN	n	bn:00056688n
+d001.s058.t003	Nuevo	NOUN	nuevo	bn:00031048n
+d001.s059.t001	Refresca	VERB	refrescar	bn:00088572v
+d001.s059.t002	el	X	el	
+d001.s059.t003	registro	NOUN	registro	bn:00030959n
+d001.s059.t004	.	X	.	
+d001.s060.t001	Ctrl	NOUN	ctrl	bn:00018346n
+d001.s060.t002	L	NOUN	l	bn:00049538n
+d001.s060.t003	Cargar	VERB	cargar	bn:00084058v
+d001.s060.t004	un	X	un	
+d001.s060.t005	guión	NOUN	guión	bn:00012062n
+d001.s061.t001	Ejecuta	VERB	ejecutar	bn:00087823v
+d001.s061.t002	las	X	las	
+d001.s061.t003	instrucciones	NOUN	instrucción	bn:00020945n
+d001.s061.t004	en	X	en	
+d001.s061.t005	una	X	una	
+d001.s061.t006	archivo	NOUN	archivo	bn:00005449n
+d001.s061.t007	de	X	de	
+d001.s061.t008	forma	NOUN	forma	bn:00021751n
+d001.s061.t009	secuencial	ADJ	secuencial	bn:00100306a
+d001.s061.t010	.	X	.	
+d001.s062.t001	Es	VERB	ser	bn:00083181v
+d001.s062.t002	útil	ADJ	útil	bn:00113455a
+d001.s062.t003	si	X	si	
+d001.s062.t004	lo	X	lo	
+d001.s062.t005	que	X	que	
+d001.s062.t006	desea	VERB	desear	bn:00086682v
+d001.s062.t007	es	VERB	ser	bn:00083182v
+d001.s062.t008	definir	VERB	definir	bn:00086466v
+d001.s062.t009	una	X	una	
+d001.s062.t010	biblioteca	NOUN	biblioteca	bn:00050969n
+d001.s062.t011	o	X	o	
+d001.s062.t012	reanudar	VERB	reanudar	bn:00092413v
+d001.s062.t013	un	X	un	
+d001.s062.t014	trabajo	NOUN	trabajo	bn:00062309n
+d001.s062.t015	anterior	ADJ	anterior	bn:00097192a
+d001.s062.t016	.	X	.	
+d001.s063.t001	Ctrl	NOUN	ctrl	bn:00051760n
+d001.s063.t002	G	NOUN	g	bn:00036962n
+d001.s063.t003	Guardar	VERB	guardar	bn:00091983v
+d001.s063.t004	el	X	el	
+d001.s063.t005	guión	NOUN	guión	bn:00012062n
+d001.s064.t001	Guarda	VERB	guardar	bn:00089368v
+d001.s064.t002	las	X	las	
+d001.s064.t003	intrucciones	NOUN	instrucción	bn:00020945n
+d001.s064.t004	que	X	que	
+d001.s064.t005	ha	VERB	haber	bn:00083183v
+d001.s064.t006	introducido	VERB	introducir	bn:00087679v
+d001.s064.t007	desde	X	desde	
+d001.s064.t008	que	X	que	
+d001.s064.t009	comenzó	VERB	comenzar	bn:00085409v
+d001.s064.t010	la	X	la	
+d001.s064.t011	sesión	NOUN	sesión	bn:00070689n
+d001.s064.t012	,	X	,	
+d001.s064.t013	con	X	con	
+d001.s064.t014	lo	X	lo	
+d001.s064.t015	que	X	que	
+d001.s064.t016	podrá	VERB	poder	bn:00084450v
+d001.s064.t017	reutilizarlas	VERB	reutilizarlas	bn:00082705v
+d001.s064.t018	.	X	.	
+d001.s065.t001	Genera	VERB	generar	bn:00084080v
+d001.s065.t002	un	X	un	
+d001.s065.t003	archivo	NOUN	archivo	bn:00005449n
+d001.s065.t004	de	X	de	
+d001.s065.t005	texto	NOUN	texto	bn:00076732n
+d001.s065.t006	que	X	que	
+d001.s065.t007	podrá	VERB	poder	bn:00084450v
+d001.s065.t008	corregir	VERB	corregir	bn:00085831v
+d001.s065.t009	usando	VERB	usar	bn:00082705v
+d001.s065.t010	cualquier	X	cualquier	
+d001.s065.t011	editor	NOUN	editor	bn:00029774n
+d001.s065.t012	de	X	de	
+d001.s065.t013	texto	NOUN	texto	bn:00076732n
+d001.s065.t014	,	X	,	
+d001.s065.t015	por ejemplo	ADV	por~ejemplo	bn:00115147r
+d001.s065.t016	Kate	NOUN	kate	bn:00046516n
+d001.s065.t017	.	X	.	
+d001.s066.t001	Ctrl	NOUN	ctrl	bn:00050523n
+d001.s066.t002	S	NOUN	s	bn:00068673n
+d001.s066.t003	Guardar	VERB	guardar	bn:00091983v
+d001.s066.t004	el	X	el	
+d001.s066.t005	registro	NOUN	registro	bn:00066574n
+d001.s067.t001	Guarda	VERB	guardar	bn:00091983v
+d001.s067.t002	el	X	el	
+d001.s067.t003	registro	NOUN	registro	bn:00066574n
+d001.s067.t004	con	X	con	
+d001.s067.t005	todos	X	todos	
+d001.s067.t006	los	X	los	
+d001.s067.t007	resultados	NOUN	resultado	bn:00004452n
+d001.s067.t008	en	X	en	
+d001.s067.t009	un	X	un	
+d001.s067.t010	archivo	NOUN	archivo	bn:00005449n
+d001.s067.t011	HTML	NOUN	html	bn:00045087n
+d001.s067.t012	que	X	que	
+d001.s067.t013	podrá	VERB	poder	bn:00084450v
+d001.s067.t014	imprimir	VERB	imprimir	bn:00092023v
+d001.s067.t015	o	X	o	
+d001.s067.t016	publicar	VERB	publicar	bn:00092023v
+d001.s067.t017	.	X	.	
+d001.s068.t001	Ctrl	NOUN	ctrl	bn:00049005n
+d001.s068.t002	Q	NOUN	q	bn:00065472n
+d001.s068.t003	Salir	NOUN	salir	bn:00050353n
+d001.s069.t001	Cierra	VERB	cerrar	bn:00085187v
+d001.s069.t002	el	X	el	
+d001.s069.t003	programa	NOUN	programa	bn:00013235n
+d001.s069.t004	.	X	.	
+d001.s070.t001	Para	X	Para	
+d001.s070.t002	añadir	VERB	añadir	bn:00082317v
+d001.s070.t003	un	X	un	
+d001.s070.t004	gráfica	ADJ	gráfico	bn:00103741a
+d001.s070.t005	2D	NOUN	2d	bn:00035113n
+d001.s070.t006	en	X	en	
+d001.s070.t007	kalgebra	NOUN	kalgebra	bn:00002676n
+d001.s070.t008	,	X	,	
+d001.s070.t009	lo	X	lo	
+d001.s070.t010	que	X	que	
+d001.s070.t011	tiene que	VERB	tener~que	bn:00085261v
+d001.s070.t012	hacer	VERB	hacer	bn:00087106v
+d001.s070.t013	es	VERB	ser	bn:00083182v
+d001.s070.t014	ir	VERB	ir	bn:00088912v
+d001.s070.t015	a	X	a	
+d001.s070.t016	la	X	la	
+d001.s070.t017	pestaña	NOUN	pestaña	bn:00035022n
+d001.s070.t018	Gráfica	ADJ	gráfico	bn:00103741a
+d001.s070.t019	2D	NOUN	2d	bn:00035113n
+d001.s070.t020	y	X	y	
+d001.s070.t021	aquí	ADV	aquí	bn:00115640r
+d001.s070.t022	pulsar	VERB	pulsar	bn:00091986v
+d001.s070.t023	la	X	la	
+d001.s070.t024	pestaña	NOUN	pestaña	bn:00035022n
+d001.s070.t025	Añadir	NOUN	añadir	bn:00001274n
+d001.s070.t026	,	X	,	
+d001.s070.t027	que	X	que	
+d001.s070.t028	le	X	le	
+d001.s070.t029	permitirá	VERB	permitir	bn:00082536v
+d001.s070.t030	añadir	VERB	añadir	bn:00082317v
+d001.s070.t031	una	X	una	
+d001.s070.t032	nueva	ADJ	nuevo	bn:00107267a
+d001.s070.t033	función	NOUN	función	bn:00036821n
+d001.s070.t034	.	X	.	
+d001.s071.t001	A	X	A	
+d001.s071.t002	continuación	ADV	continuación	bn:00114525r
+d001.s071.t003	tendrá	VERB	tener	bn:00089240v
+d001.s071.t004	dirigirse	VERB	dirigirse	bn:00089259v
+d001.s071.t005	al	X	al	
+d001.s071.t006	cuadro	NOUN	cuadro	bn:00017904n
+d001.s071.t007	de	X	de	
+d001.s071.t008	texto	NOUN	texto	bn:00076732n
+d001.s071.t009	de	X	de	
+d001.s071.t010	entrada	NOUN	entrada	bn:00031062n
+d001.s071.t011	,	X	,	
+d001.s071.t012	donde	ADV	donde	bn:00115192r
+d001.s071.t013	podrá	VERB	poder	bn:00084450v
+d001.s071.t014	introducir	VERB	introducir	bn:00082273v
+d001.s071.t015	su	X	su	
+d001.s071.t016	función	NOUN	función	bn:00036822n
+d001.s071.t017	.	X	.	
+d001.s072.t001	Si	X	Si	
+d001.s072.t002	quiere	VERB	querer	bn:00086682v
+d001.s072.t003	usar	VERB	usar	bn:00082705v
+d001.s072.t004	una	X	una	
+d001.s072.t005	función	NOUN	función	bn:00036821n
+d001.s072.t006	f(x)	NOUN	f(x)	bn:00063213n
+d001.s072.t007	típica	ADJ	típico	bn:00112217a
+d001.s072.t008	,	X	,	
+d001.s072.t009	no	NOUN	no	bn:00057809n
+d001.s072.t010	es	VERB	ser	bn:00083181v
+d001.s072.t011	necesario	ADJ	necesario	bn:00107182a
+d001.s072.t012	que	X	que	
+d001.s072.t013	la	X	la	
+d001.s072.t014	especifique	VERB	especificar	bn:00091006v
+d001.s072.t015	.	X	.	
+d001.s073.t001	Después de	X	Después de	
+d001.s073.t002	haber	VERB	haber	bn:00083183v
+d001.s073.t003	introducido	VERB	introducir	bn:00087679v
+d001.s073.t004	la	X	la	
+d001.s073.t005	función	NOUN	función	bn:00036821n
+d001.s073.t006	,	X	,	
+d001.s073.t007	pulse	VERB	pulsar	bn:00091986v
+d001.s073.t008	el	X	el	
+d001.s073.t009	botón	NOUN	botón	bn:00014306n
+d001.s073.t010	Aceptar	VERB	aceptar	bn:00082199v
+d001.s073.t011	para	X	para	
+d001.s073.t012	dibujar	VERB	dibujar	bn:00086525v
+d001.s073.t013	la	X	la	
+d001.s073.t014	gráfica	NOUN	gráfica	bn:00041412n
+d001.s073.t015	en	X	en	
+d001.s073.t016	la	X	la	
+d001.s073.t017	ventana	NOUN	ventana	bn:00081285n
+d001.s073.t018	principal	ADJ	principal	bn:00099598a
+d001.s073.t019	.	X	.	
+d001.s074.t001	Es	VERB	ser	bn:00083181v
+d001.s074.t002	posible	ADJ	posible	bn:00108829a
+d001.s074.t003	dibujar	VERB	dibujar	bn:00086525v
+d001.s074.t004	varias	X	varias	
+d001.s074.t005	gráficas	NOUN	gráfica	bn:00041412n
+d001.s074.t006	en	X	en	
+d001.s074.t007	la	X	la	
+d001.s074.t008	misma	ADJ	mismo	bn:00110075a
+d001.s074.t009	vista	NOUN	vista	bn:00006384n
+d001.s074.t010	.	X	.	
+d001.s075.t001	Para	X	Para	
+d001.s075.t002	esto	X	esto	
+d001.s075.t003	use	VERB	usar	bn:00082705v
+d001.s075.t004	simplemente	ADV	simplemente	bn:00114626r
+d001.s075.t005	el	X	el	
+d001.s075.t006	botón	NOUN	botón	bn:00014306n
+d001.s075.t007	Añadir	NOUN	añadir	bn:00001274n
+d001.s075.t008	cuando	X	cuando	
+d001.s075.t009	se	X	se	
+d001.s075.t010	encuentre	VERB	encontrar	bn:00082811v
+d001.s075.t011	en	X	en	
+d001.s075.t012	el	X	el	
+d001.s075.t013	modo	NOUN	modo	bn:00033729n
+d001.s075.t014	Lista	NOUN	lista	bn:00051508n
+d001.s075.t015	.	X	.	
+d001.s076.t001	Puede	VERB	poder	bn:00084451v
+d001.s076.t002	ajustar	VERB	ajustar	bn:00082357v
+d001.s076.t003	el	X	el	
+d001.s076.t004	color	NOUN	color	bn:00020726n
+d001.s076.t005	de	X	de	
+d001.s076.t006	cada	X	cada	
+d001.s076.t007	gráfica	NOUN	gráfica	bn:00041412n
+d001.s076.t008	.	X	.	
+d001.s077.t001	La	X	La	
+d001.s077.t002	Fundación	NOUN	fundación	bn:00036064n
+d001.s077.t003	ha	VERB	haber	bn:00083184v
+d001.s077.t004	intervenido	VERB	intervenir	bn:00089817v
+d001.s077.t005	recientemente	ADV	recientemente	bn:00116085r
+d001.s077.t006	en	X	en	
+d001.s077.t007	la	X	la	
+d001.s077.t008	organización	NOUN	organización	bn:00068578n
+d001.s077.t009	de	X	de	
+d001.s077.t010	una	X	una	
+d001.s077.t011	conferencia	NOUN	conferencia	bn:00021721n
+d001.s077.t012	sobre	X	sobre	
+d001.s077.t013	este	X	este	
+d001.s077.t014	decisivo	ADJ	decisivo	bn:00101014a
+d001.s077.t015	reto	NOUN	reto	bn:00017557n
+d001.s077.t016	.	X	.	
+d001.s078.t001	Asistieron	VERB	asistir	bn:00082907v
+d001.s078.t002	más	ADV	más	bn:00116284r
+d001.s078.t003	de	X	de	
+d001.s078.t004	100	X	100	
+d001.s078.t005	participantes	NOUN	participante	bn:00060798n
+d001.s078.t006	en	X	en	
+d001.s078.t007	representación	NOUN	representación	bn:00067192n
+d001.s078.t008	de	X	de	
+d001.s078.t009	los	X	los	
+d001.s078.t010	principales	ADJ	principal	bn:00099598a
+d001.s078.t011	grupos	NOUN	grupo	bn:00041942n
+d001.s078.t012	de	X	de	
+d001.s078.t013	interés	NOUN	interés	bn:00047077n
+d001.s078.t014	,	X	,	
+d001.s078.t015	los	X	los	
+d001.s078.t016	cuales	X	cuales	
+d001.s078.t017	discutieron	VERB	discutir	bn:00086942v
+d001.s078.t018	cuestiones	NOUN	cuestión	bn:00043267n
+d001.s078.t019	tales	X	tales	
+d001.s078.t020	como	X	como	
+d001.s078.t021	el	X	el	
+d001.s078.t022	papel	NOUN	papel	bn:00036823n
+d001.s078.t023	de	X	de	
+d001.s078.t024	los	X	los	
+d001.s078.t025	principales	ADJ	principal	bn:00099598a
+d001.s078.t026	agentes	NOUN	agente	bn:00001972n
+d001.s078.t027	,	X	,	
+d001.s078.t028	entre	X	entre	
+d001.s078.t029	ellos	X	ellos	
+d001.s078.t030	,	X	,	
+d001.s078.t031	las	X	las	
+d001.s078.t032	autoridades	NOUN	autoridad	bn:00007299n
+d001.s078.t033	públicas	ADJ	público	bn:00109211a
+d001.s078.t034	,	X	,	
+d001.s078.t035	los	X	los	
+d001.s078.t036	interlocutores	NOUN	interlocutor	bn:00047116n
+d001.s078.t037	sociales	ADJ	social	bn:00110842a
+d001.s078.t038	y	X	y	
+d001.s078.t039	las	X	las	
+d001.s078.t040	organizaciones	NOUN	organización	bn:00059480n
+d001.s078.t041	comunitarias	ADJ	comunitario	bn:00100103a
+d001.s078.t042	y	X	y	
+d001.s078.t043	de	X	de	
+d001.s078.t044	voluntarios	NOUN	voluntario	bn:00079184n
+d001.s078.t045	,	X	,	
+d001.s078.t046	además	ADV	además	bn:00114246r
+d001.s078.t047	de	X	de	
+d001.s078.t048	los	X	los	
+d001.s078.t049	propios	ADJ	propio	bn:00108295a
+d001.s078.t050	usuarios	NOUN	usuario	bn:00079373n
+d001.s078.t051	.	X	.	
+d001.s079.t001	Se	X	Se	
+d001.s079.t002	llegó	VERB	llegar	bn:00085321v
+d001.s079.t003	a	X	a	
+d001.s079.t004	la	X	la	
+d001.s079.t005	conclusión	NOUN	conclusión	bn:00021584n
+d001.s079.t006	de	X	de	
+d001.s079.t007	que	X	que	
+d001.s079.t008	es	VERB	ser	bn:00083181v
+d001.s079.t009	necesario	ADJ	necesario	bn:00107194a
+d001.s079.t010	adoptar	VERB	adoptar	bn:00082379v
+d001.s079.t011	un	X	un	
+d001.s079.t012	enfoque	NOUN	enfoque	bn:00004118n
+d001.s079.t013	más	ADV	más	bn:00116284r
+d001.s079.t014	global	ADJ	global	bn:00096366a
+d001.s079.t015	que	X	que	
+d001.s079.t016	tenga en cuenta	VERB	tener en cuenta	bn:00082541v
+d001.s079.t017	que	X	que	
+d001.s079.t018	los	X	los	
+d001.s079.t019	usuarios	NOUN	usuario	bn:00079373n
+d001.s079.t020	no	NOUN	no	bn:00057809n
+d001.s079.t021	se	X	se	
+d001.s079.t022	sirven	VERB	servir	bn:00086357v
+d001.s079.t023	de	X	de	
+d001.s079.t024	esos	X	esos	
+d001.s079.t025	servicios	NOUN	servicio	bn:00070652n
+d001.s079.t026	de	X	de	
+d001.s079.t027	forma	NOUN	forma	bn:00021751n
+d001.s079.t028	aislada	VERB	aislar	bn:00089800v
+d001.s079.t029	,	X	,	
+d001.s079.t030	sino	X	sino	
+d001.s079.t031	como	X	como	
+d001.s079.t032	parte	NOUN	parte	bn:00021395n
+d001.s079.t033	de	X	de	
+d001.s079.t034	su	X	su	
+d001.s079.t035	vida	NOUN	vida	bn:00051045n
+d001.s079.t036	cotidiana	ADJ	cotidiano	bn:00102469a
+d001.s079.t037	.	X	.	
+d001.s080.t001	Se	X	Se	
+d001.s080.t002	tomó	VERB	tomar	bn:00094730v
+d001.s080.t003	nota	NOUN	nota	bn:00058145n
+d001.s080.t004	también	ADV	también	bn:00114246r
+d001.s080.t005	de	X	de	
+d001.s080.t006	la	X	la	
+d001.s080.t007	diversidad	NOUN	diversidad	bn:00027862n
+d001.s080.t008	de	X	de	
+d001.s080.t009	funciones	NOUN	función	bn:00036823n
+d001.s080.t010	que	X	que	
+d001.s080.t011	desempeñan	VERB	desempeñar	bn:00087832v
+d001.s080.t012	estos	X	estos	
+d001.s080.t013	servicios	NOUN	servicio	bn:00032645n
+d001.s081.t001	La	X	La	
+d001.s081.t002	Fundación	NOUN	fundación	bn:00036064n
+d001.s081.t003	organizó	VERB	organizar	bn:00088488v
+d001.s081.t004	,	X	,	
+d001.s081.t005	junto con	X	junto con	
+d001.s081.t006	la	X	la	
+d001.s081.t007	Comisión	NOUN	comisión	bn:00021015n
+d001.s081.t008	Europea	ADJ	europeo	bn:00102440a
+d001.s081.t009	,	X	,	
+d001.s081.t010	el	X	el	
+d001.s081.t011	Ministerio	NOUN	ministerio	bn:00055179n
+d001.s081.t012	español	ADJ	español	bn:00110978a
+d001.s081.t013	de	X	de	
+d001.s081.t014	Asuntos	NOUN	asunto	bn:00047690n
+d001.s081.t015	Sociales	ADJ	social	bn:00110842a
+d001.s081.t016	y	X	y	
+d001.s081.t017	la	X	la	
+d001.s081.t018	Comunidad	NOUN	comunidad	bn:00021248n
+d001.s081.t019	Autónoma	ADJ	autónomo	bn:00097829a
+d001.s081.t020	de	X	de	
+d001.s081.t021	Galicia	NOUN	galicia	bn:00037072n
+d001.s081.t022	,	X	,	
+d001.s081.t023	una	X	una	
+d001.s081.t024	conferencia	NOUN	conferencia	bn:00021721n
+d001.s081.t025	europea	ADJ	europeo	bn:00102440a
+d001.s081.t026	sobre	X	sobre	
+d001.s081.t027	el	X	el	
+d001.s081.t028	tema	NOUN	tema	bn:00074900n
+d001.s081.t029	""""	X	""""	
+d001.s081.t030	Exclusión	NOUN	exclusión	bn:00032152n
+d001.s081.t031	social	ADJ	social	bn:00110842a
+d001.s081.t032	:	X	:	
+d001.s081.t033	Un	X	Un	
+d001.s081.t034	gran	ADJ	grande	bn:00098342a
+d001.s081.t035	reto	NOUN	reto	bn:00017557n
+d001.s081.t036	para	X	para	
+d001.s081.t037	los	X	los	
+d001.s081.t038	servicios	NOUN	servicio	bn:00032645n
+d001.s081.t039	públicos	ADJ	público	bn:00109211a
+d001.s081.t040	de	X	de	
+d001.s081.t041	protección	NOUN	protección	bn:00064837n
+d001.s081.t042	social	ADJ	social	bn:00110842a
+d001.s081.t043	""""	X	""""	
+d001.s081.t044	.	X	.	
+d001.s082.t001	La	X	La	
+d001.s082.t002	Fundación	NOUN	fundación	bn:00036064n
+d001.s082.t003	publicó	VERB	publicar	bn:00092023v
+d001.s082.t004	recientemente	ADV	recientemente	bn:00116085r
+d001.s082.t005	en	X	en	
+d001.s082.t006	el	X	el	
+d001.s082.t007	marco	NOUN	marco	bn:00003268n
+d001.s082.t008	del	X	del	
+d001.s082.t009	proyecto	NOUN	proyecto	bn:00049573n
+d001.s082.t010	EPOC	NOUN	epoc	bn:00018907n
+d001.s082.t011	un	X	un	
+d001.s082.t012	estudio	NOUN	estudio	bn:00074790n
+d001.s082.t013	comparativo	ADJ	comparativo	bn:00100121a
+d001.s082.t014	en	X	en	
+d001.s082.t015	el	X	el	
+d001.s082.t016	que	X	que	
+d001.s082.t017	se	X	se	
+d001.s082.t018	evalúa	VERB	evaluar	bn:00082720v
+d001.s082.t019	hasta	X	hasta	
+d001.s082.t020	qué	X	qué	
+d001.s082.t021	punto	NOUN	punto	bn:00025966n
+d001.s082.t022	la	X	la	
+d001.s082.t023	participación	NOUN	participación	bn:00030844n
+d001.s082.t024	directa	ADJ	directo	bn:00101412a
+d001.s082.t025	puede	VERB	poder	bn:00084450v
+d001.s082.t026	humanizar	VERB	humanizar	bn:00089511v
+d001.s082.t027	el	X	el	
+d001.s082.t028	trabajo	NOUN	trabajo	bn:00081568n
+d001.s082.t029	e	X	e	
+d001.s082.t030	incrementar	VERB	incrementar	bn:00089667v
+d001.s082.t031	al mismo tiempo	ADV	al~mismo~tiempo	bn:00114402r
+d001.s082.t032	la	X	la	
+d001.s082.t033	rentabilidad	NOUN	rentabilidad	bn:00037027n
+d001.s082.t034	.	X	.	
+d001.s083.t001	El	X	El	
+d001.s083.t002	estudio	NOUN	estudio	bn:00074790n
+d001.s083.t003	se	X	se	
+d001.s083.t004	basa	VERB	basar	bn:00083141v
+d001.s083.t005	en	X	en	
+d001.s083.t006	195	X	195	
+d001.s083.t007	entrevistas	VERB	entrevistar	bn:00089852v
+d001.s083.t008	personales	ADJ	personal	bn:00108488a
+d001.s083.t009	con	X	con	
+d001.s083.t010	altos	ADJ	alto	bn:00111630a
+d001.s083.t011	responsables	NOUN	responsable	bn:00018319n
+d001.s083.t012	de	X	de	
+d001.s083.t013	los	X	los	
+d001.s083.t014	interlocutores	NOUN	interlocutor	bn:00022352n
+d001.s083.t015	sociales	ADJ	social	bn:00110842a
+d001.s083.t016	,	X	,	
+d001.s083.t017	en	X	en	
+d001.s083.t018	su	X	su	
+d001.s083.t019	calidad	NOUN	calidad	bn:00014731n
+d001.s083.t020	de	X	de	
+d001.s083.t021	representantes	NOUN	representante	bn:00047203n
+d001.s083.t022	de	X	de	
+d001.s083.t023	importantes	ADJ	importante	bn:00104680a
+d001.s083.t024	organizaciones	NOUN	organización	bn:00059480n
+d001.s083.t025	nacionales	ADJ	nacional	bn:00101680a
+d001.s083.t026	de	X	de	
+d001.s083.t027	15	X	15	
+d001.s083.t028	países	NOUN	país	bn:00023236n
+d001.s083.t029	europeos	ADJ	europeo	bn:00102440a
+d001.s083.t030	.	X	.	
+d001.s084.t001	La	X	La	
+d001.s084.t002	industria	NOUN	industria	bn:00046575n
+d001.s084.t003	del	X	del	
+d001.s084.t004	metal	NOUN	metal	bn:00002936n
+d001.s084.t005	y	X	y	
+d001.s084.t006	el	X	el	
+d001.s084.t007	sector	NOUN	sector	bn:00070206n
+d001.s084.t008	bancario	ADJ	bancario	bn:00008379n
+d001.s084.t009	se	X	se	
+d001.s084.t010	incluyeron	VERB	incluir	bn:00089661v
+d001.s084.t011	también	ADV	también	bn:00114246r
+d001.s084.t012	en	X	en	
+d001.s084.t013	atención	NOUN	atención	bn:00007026n
+d001.s084.t014	a	X	a	
+d001.s084.t015	su	X	su	
+d001.s084.t016	importancia	NOUN	importancia	bn:00046143n
+d001.s084.t017	.	X	.	
+d001.s085.t001	Los	X	Los	
+d001.s085.t002	principales	ADJ	principal	bn:00099598a
+d001.s085.t003	oradores	NOUN	orador	bn:00059275n
+d001.s085.t004	en	X	en	
+d001.s085.t005	la	X	la	
+d001.s085.t006	conferencia	NOUN	conferencia	bn:00021721n
+d001.s085.t007	sobre	X	sobre	
+d001.s085.t008	exclusión	NOUN	exclusión	bn:00032152n
+d001.s085.t009	socialfueron	ADJ	socialfueron	bn:00108798a
+d001.s085.t010	(	X	(	
+d001.s085.t011	de	X	de	
+d001.s085.t012	izquierda	NOUN	izquierda	bn:00050521n
+d001.s085.t013	a	X	a	
+d001.s085.t014	derecha	NOUN	derecha	bn:00067808n
+d001.s085.t015	)	X	)	
+d001.s085.t016	Cristina	NOUN	cristina	bn:00046516n
+d001.s085.t017	Louro	NOUN	louro	bn:00046516n
+d001.s085.t018	,	X	,	
+d001.s085.t019	Dirección	NOUN	dirección	bn:00053116n
+d001.s085.t020	General	ADJ	general	bn:00103507a
+d001.s085.t021	de	X	de	
+d001.s085.t022	Empleo	NOUN	empleo	bn:00030616n
+d001.s085.t023	,	X	,	
+d001.s085.t024	Relaciones	NOUN	relación	bn:00067001n
+d001.s085.t025	Laborales	ADJ	laboral	bn:00081600n
+d001.s085.t026	y	X	y	
+d001.s085.t027	Asuntos	NOUN	asunto	bn:00047690n
+d001.s085.t028	Sociales	ADJ	social	bn:00110842a
+d001.s085.t029	de	X	de	
+d001.s085.t030	la	X	la	
+d001.s085.t031	Comisión	NOUN	comisión	bn:00021015n
+d001.s085.t032	Europea	ADJ	europeo	bn:00102440a
+d001.s085.t033	Fernando	NOUN	fernando	bn:00034087n
+d001.s085.t034	Gomes	NOUN	gomes	bn:00046516n
+d001.s085.t035	,	X	,	
+d001.s085.t036	Comité	NOUN	comité	bn:00021015n
+d001.s085.t037	de	X	de	
+d001.s085.t038	las	X	las	
+d001.s085.t039	Regiones	NOUN	región	bn:00060767n
+d001.s085.t040	Barbara	NOUN	barbara	bn:00046516n
+d001.s085.t041	Weiler	NOUN	weiler	bn:00046516n
+d001.s085.t042	,	X	,	
+d001.s085.t043	diputada	NOUN	diputado	bn:00026427n
+d001.s085.t044	al	X	al	
+d001.s085.t045	Parlamento	NOUN	parlamento	bn:00060708n
+d001.s085.t046	Europeo	ADJ	europeo	bn:00102440a
+d001.s085.t047	José	NOUN	josé	bn:00068871n
+d001.s085.t048	María	NOUN	maría	bn:00011224n
+d001.s085.t049	Gil-Robles	NOUN	gil-robles	bn:00046516n
+d001.s085.t050	Gil-Delgado	NOUN	gil-delgado	bn:00046516n
+d001.s085.t051	,	X	,	
+d001.s085.t052	Vicepresidente	NOUN	vicepresidente	bn:00079435n
+d001.s085.t053	,	X	,	
+d001.s085.t054	Parlamento	NOUN	parlamento	bn:00060708n
+d001.s085.t055	Europeo	ADJ	europeo	bn:00102440a
+d001.s085.t056	,	X	,	
+d001.s085.t057	John	NOUN	john	bn:00048291n
+d001.s085.t058	Carroll	NOUN	carroll	bn:00016268n
+d001.s085.t059	Comité	NOUN	comité	bn:00021015n
+d001.s085.t060	Económico	ADJ	económico	bn:00102001a
+d001.s085.t061	y	X	y	
+d001.s085.t062	Social	ADJ	social	bn:00110842a
+d001.s086.t001	En	X	En	
+d001.s086.t002	cada	X	cada	
+d001.s086.t003	informe	NOUN	informe	bn:00067181n
+d001.s086.t004	nacional	ADJ	nacional	bn:00107137a
+d001.s086.t005	se	X	se	
+d001.s086.t006	incluyen	VERB	incluir	bn:00089660v
+d001.s086.t007	las	X	las	
+d001.s086.t008	25	X	25	
+d001.s086.t009	o	X	o	
+d001.s086.t010	30	X	30	
+d001.s086.t011	iniciativas	NOUN	iniciativa	bn:00031009n
+d001.s086.t012	que	X	que	
+d001.s086.t013	mejor	ADJ	bueno	bn:00103672a
+d001.s086.t014	reflejan	VERB	reflejar	bn:00092635v
+d001.s086.t015	prácticas	NOUN	práctica	bn:00061054n
+d001.s086.t016	y	X	y	
+d001.s086.t017	políticas	NOUN	política	bn:00063329n
+d001.s086.t018	de	X	de	
+d001.s086.t019	mejora	NOUN	mejora	bn:00001549n
+d001.s086.t020	de	X	de	
+d001.s086.t021	la	X	la	
+d001.s086.t022	contratación	NOUN	contratación	bn:00030626n
+d001.s086.t023	,	X	,	
+d001.s086.t024	la	X	la	
+d001.s086.t025	formación	NOUN	formación	bn:00041853n
+d001.s086.t026	y	X	y	
+d001.s086.t027	el	X	el	
+d001.s086.t028	desarrollo	NOUN	desarrollo	bn:00026696n
+d001.s086.t029	profesional	ADJ	profesional	bn:00109067a
+d001.s086.t030	de	X	de	
+d001.s086.t031	los	X	los	
+d001.s086.t032	trabajadores	NOUN	trabajador	bn:00030618n
+d001.s086.t033	mayores	ADJ	grande	bn:00098343a
+d001.s086.t034	en	X	en	
+d001.s086.t035	el	X	el	
+d001.s086.t036	lugar	NOUN	lugar	bn:00062699n
+d001.s086.t037	de	X	de	
+d001.s086.t038	trabajo	NOUN	trabajo	bn:00030625n
+d001.s086.t039	y	X	y	
+d001.s086.t040	a nivel de	X	a nivel de	
+d001.s086.t041	la	X	la	
+d001.s086.t042	comunidad	NOUN	comunidad	bn:00021248n
+d001.s086.t043	.	X	.	
+d001.s087.t001	Se	X	Se	
+d001.s087.t002	seleccionaron	VERB	seleccionar	bn:00084931v
+d001.s087.t003	dos	X	dos	
+d001.s087.t004	o	X	o	
+d001.s087.t005	tres	X	tres	
+d001.s087.t006	iniciativas	NOUN	iniciativa	bn:00031009n
+d001.s087.t007	por	X	por	
+d001.s087.t008	cada	X	cada	
+d001.s087.t009	país	NOUN	país	bn:00023236n
+d001.s087.t010	,	X	,	
+d001.s087.t011	para	X	para	
+d001.s087.t012	que	X	que	
+d001.s087.t013	fueran	VERB	ser	bn:00083181v
+d001.s087.t014	objeto	NOUN	objeto	bn:00074900n
+d001.s087.t015	de	X	de	
+d001.s087.t016	un	X	un	
+d001.s087.t017	estudio	NOUN	estudio	bn:00074790n
+d001.s087.t018	de	X	de	
+d001.s087.t019	caso	NOUN	caso	bn:00016401n
+d001.s087.t020	detallado	VERB	detallar	bn:00086706v
+d001.s087.t021	.	X	.	
+d001.s088.t001	En	X	En	
+d001.s088.t002	estos	X	estos	
+d001.s088.t003	estudios	NOUN	estudio	bn:00074790n
+d001.s088.t004	de	X	de	
+d001.s088.t005	caso	NOUN	caso	bn:00016402n
+d001.s088.t006	se	X	se	
+d001.s088.t007	han	VERB	haber	bn:00083184v
+d001.s088.t008	analizado	VERB	analizar	bn:00082596v
+d001.s088.t009	el	X	el	
+d001.s088.t010	contexto	NOUN	contexto	bn:00019219n
+d001.s088.t011	de	X	de	
+d001.s088.t012	esas	X	esas	
+d001.s088.t013	iniciativas	NOUN	iniciativa	bn:00031009n
+d001.s088.t014	y	X	y	
+d001.s088.t015	sus	X	sus	
+d001.s088.t016	repercusiones	NOUN	repercusión	bn:00067162n
+d001.s088.t017	en	X	en	
+d001.s088.t018	las	X	las	
+d001.s088.t019	pautas	NOUN	pauta	bn:00022334n
+d001.s088.t020	de	X	de	
+d001.s088.t021	empleo	NOUN	empleo	bn:00030616n
+d001.s088.t022	y	X	y	
+d001.s088.t023	en	X	en	
+d001.s088.t024	las	X	las	
+d001.s088.t025	organizaciones	NOUN	organización	bn:00059480n
+d001.s088.t026	,	X	,	
+d001.s088.t027	y	X	y	
+d001.s088.t028	se	X	se	
+d001.s088.t029	han	VERB	haber	bn:00083183v
+d001.s088.t030	evaluado	VERB	evaluar	bn:00082720v
+d001.s088.t031	las	X	las	
+d001.s088.t032	ventajas	NOUN	ventaja	bn:00001559n
+d001.s088.t033	y	X	y	
+d001.s088.t034	problemas	NOUN	problema	bn:00048242n
+d001.s088.t035	derivados	VERB	derivar	bn:00087671v
+d001.s088.t036	de	X	de	
+d001.s088.t037	las	X	las	
+d001.s088.t038	mismas	ADJ	mismo	bn:00110075a
+d001.s088.t039	.	X	.	
+d001.s089.t001	Se	X	Se	
+d001.s089.t002	han	VERB	haber	bn:00083183v
+d001.s089.t003	realizado	VERB	realizar	bn:00084595v
+d001.s089.t004	además	ADV	además	bn:00114246r
+d001.s089.t005	visitas	NOUN	visita	bn:00080117n
+d001.s089.t006	y	X	y	
+d001.s089.t007	entrevistas	NOUN	entrevista	bn:00047238n
+d001.s089.t008	a	X	a	
+d001.s089.t009	miembros	NOUN	miembro	bn:00034004n
+d001.s089.t010	clave	ADJ	clave	bn:00100676a
+d001.s089.t011	del	X	del	
+d001.s089.t012	personal	NOUN	personal	bn:00035770n
+d001.s089.t013	.	X	.	
+d001.s090.t001	Estos	X	Estos	
+d001.s090.t002	estudios	NOUN	estudio	bn:00074790n
+d001.s090.t003	nacionales	ADJ	nacional	bn:00107137a
+d001.s090.t004	constituirán	VERB	constituir	bn:00083187v
+d001.s090.t005	la	X	la	
+d001.s090.t006	liase	VERB	liar	bn:00084217v
+d001.s090.t007	de	X	de	
+d001.s090.t008	un	X	un	
+d001.s090.t009	informe	NOUN	informe	bn:00067181n
+d001.s090.t010	europeo	ADJ	europeo	bn:00102440a
+d001.s090.t011	en	X	en	
+d001.s090.t012	el	X	el	
+d001.s090.t013	que	X	que	
+d001.s090.t014	se	X	se	
+d001.s090.t015	resumirán	VERB	resumir	bn:00092916v
+d001.s090.t016	las	X	las	
+d001.s090.t017	prácticas	ADJ	práctico	bn:00108880a
+d001.s090.t018	generales	ADJ	general	bn:00103507a
+d001.s090.t019	.	X	.	
+d001.s091.t001	El	X	El	
+d001.s091.t002	informe	NOUN	informe	bn:00067181n
+d001.s091.t003	y	X	y	
+d001.s091.t004	un	X	un	
+d001.s091.t005	repertorio	NOUN	repertorio	bn:00067163n
+d001.s091.t006	de	X	de	
+d001.s091.t007	iniciativas	NOUN	iniciativa	bn:00031009n
+d001.s091.t008	se	X	se	
+d001.s091.t009	publicarán	VERB	publicar	bn:00092023v
+d001.s091.t010	en	X	en	
+d001.s091.t011	1996	X	1996	
+d001.s091.t012	,	X	,	
+d001.s091.t013	y	X	y	
+d001.s091.t014	servirán	VERB	servir	bn:00088630v
+d001.s091.t015	de	X	de	
+d001.s091.t016	telón	NOUN	telón	bn:00076794n
+d001.s091.t017	de	X	de	
+d001.s091.t018	fondo	NOUN	fondo	bn:00007785n
+d001.s091.t019	a	X	a	
+d001.s091.t020	una	X	una	
+d001.s091.t021	conferencia	NOUN	conferencia	bn:00021721n
+d001.s091.t022	que	X	que	
+d001.s091.t023	se	X	se	
+d001.s091.t024	celebrará	VERB	celebrar	bn:00084714v
+d001.s091.t025	el	X	el	
+d001.s091.t026	próximo	ADJ	próximo	bn:00097396a
+d001.s091.t027	otoño	NOUN	otoño	bn:00007406n
+d001.s091.t028	.	X	.	
+d001.s092.t001	La	X	La	
+d001.s092.t002	Fundación	NOUN	fundación	bn:00036064n
+d001.s092.t003	se	X	se	
+d001.s092.t004	propone	VERB	proponer	bn:00082486v
+d001.s092.t005	documentar	VERB	documentar	bn:00087137v
+d001.s092.t006	las	X	las	
+d001.s092.t007	características	NOUN	característica	bn:00017761n
+d001.s092.t008	de	X	de	
+d001.s092.t009	los	X	los	
+d001.s092.t010	obstáculos	NOUN	obstáculo	bn:00058511n
+d001.s092.t011	relacionados	VERB	relacionar	bn:00089842v
+d001.s092.t012	con	X	con	
+d001.s092.t013	la	X	la	
+d001.s092.t014	edad	NOUN	edad	bn:00001938n
+d001.s092.t015	en	X	en	
+d001.s092.t016	materia	NOUN	meteria	bn:00015051n
+d001.s092.t017	de	X	de	
+d001.s092.t018	contratación	NOUN	contratación	bn:00030626n
+d001.s092.t019	y	X	y	
+d001.s092.t020	formación	NOUN	formación	bn:00041853n
+d001.s092.t021	,	X	,	
+d001.s092.t022	y	X	y	
+d001.s092.t023	analizar	VERB	analizar	bn:00082596v
+d001.s092.t024	sus	X	sus	
+d001.s092.t025	causas	NOUN	causa	bn:00016850n
+d001.s092.t026	.	X	.	
+d001.s093.t001	Está	VERB	estar	bn:00083183v
+d001.s093.t002	examinando	VERB	examinar	bn:00082596v
+d001.s093.t003	asimismo	ADV	asimismo	bn:00114246r
+d001.s093.t004	los	X	los	
+d001.s093.t005	puntos	NOUN	punto	bn:00063214n
+d001.s093.t006	de	X	de	
+d001.s093.t007	vista	NOUN	vista	bn:00061746n
+d001.s093.t008	de	X	de	
+d001.s093.t009	los	X	los	
+d001.s093.t010	interlocutores	NOUN	interlocutor	bn:00022352n
+d001.s093.t011	sociales	ADJ	social	bn:00110842a
+d001.s093.t012	,	X	,	
+d001.s093.t013	prestando	VERB	prestar	bn:00086761v
+d001.s093.t014	especial	ADJ	especial	bn:00102398a
+d001.s093.t015	atención	NOUN	atención	bn:00007020n
+d001.s093.t016	a	X	a	
+d001.s093.t017	las	X	las	
+d001.s093.t018	propuestas	NOUN	propuesta	bn:00064776n
+d001.s093.t019	para	X	para	
+d001.s093.t020	eliminar	VERB	eliminar	bn:00092783v
+d001.s093.t021	dichos	X	dichos	
+d001.s093.t022	obstáculos	NOUN	obstáculo	bn:00058511n
+d001.s093.t023	.	X	.	
+d001.s094.t001	En	X	En	
+d001.s094.t002	tercer	X	tercer	
+d001.s094.t003	lugar	NOUN	lugar	bn:00062701n
+d001.s094.t004	,	X	,	
+d001.s094.t005	el	X	el	
+d001.s094.t006	proyecto	NOUN	proyecto	bn:00049573n
+d001.s094.t007	documenta	VERB	documentar	bn:00087137v
+d001.s094.t008	y	X	y	
+d001.s094.t009	evalúa	VERB	evaluar	bn:00082720v
+d001.s094.t010	las	X	las	
+d001.s094.t011	iniciativas	NOUN	iniciativa	bn:00031009n
+d001.s094.t012	de	X	de	
+d001.s094.t013	los	X	los	
+d001.s094.t014	sectores	NOUN	sector	bn:00070206n
+d001.s094.t015	público	ADJ	público	bn:00109211a
+d001.s094.t016	y	X	y	
+d001.s094.t017	privado	ADJ	privado	bn:00109026a
+d001.s094.t018	para	X	para	
+d001.s094.t019	combatir	VERB	combatir	bn:00083173v
+d001.s094.t020	estas	X	estas	
+d001.s094.t021	limitaciones	NOUN	limitación	bn:00051251n
+d001.s094.t022	,	X	,	
+d001.s094.t023	especialmente	ADV	especialmente	bn:00115235r
+d001.s094.t024	en relación con	X	en relación con	
+d001.s094.t025	los	X	los	
+d001.s094.t026	trabajadores	NOUN	trabajador	bn:00030618n
+d001.s094.t027	mayores	ADJ	grande	bn:00098343a
+d001.s094.t028	.	X	.	
+d001.s095.t001	El	X	El	
+d001.s095.t002	proyecto	NOUN	proyecto	bn:00049573n
+d001.s095.t003	,	X	,	
+d001.s095.t004	que	X	que	
+d001.s095.t005	busca	VERB	buscar	bn:00087881v
+d001.s095.t006	alternativas	NOUN	alternativa	bn:00003132n
+d001.s095.t007	a	X	a	
+d001.s095.t008	la	X	la	
+d001.s095.t009	jubilación	NOUN	jubilación	bn:00067456n
+d001.s095.t010	anticipada	ADJ	anticipado	bn:00097223a
+d001.s095.t011	y	X	y	
+d001.s095.t012	al	X	al	
+d001.s095.t013	despido	NOUN	despido	bn:00050314n
+d001.s095.t014	,	X	,	
+d001.s095.t015	se	X	se	
+d001.s095.t016	ocupa	VERB	ocupar	bn:00082739v
+d001.s095.t017	ante	X	ante	
+d001.s095.t018	todo	X	todo	
+d001.s095.t019	de	X	de	
+d001.s095.t020	la	X	la	
+d001.s095.t021	retención	NOUN	retención	bn:00044396n
+d001.s095.t022	,	X	,	
+d001.s095.t023	la	X	la	
+d001.s095.t024	reintegración	NOUN	reintegración	bn:00066966n
+d001.s095.t025	y	X	y	
+d001.s095.t026	la	X	la	
+d001.s095.t027	reconversión	NOUN	reconversión	bn:00067140n
+d001.s095.t028	profesional	ADJ	profesional	bn:00109071a
+d001.s095.t029	de	X	de	
+d001.s095.t030	los	X	los	
+d001.s095.t031	trabajadores	NOUN	trabajador	bn:00030618n
+d001.s095.t032	mayores	ADJ	grande	bn:00098343a
+d001.s095.t033	.	X	.	
+d001.s096.t001	Estudia	VERB	estudiar	bn:00082596v
+d001.s096.t002	asimismo	ADV	asimismo	bn:00114246r
+d001.s096.t003	liasta	NOUN	liasta	bn:00046516n
+d001.s096.t004	qué	X	qué	
+d001.s096.t005	punto	NOUN	punto	bn:00025966n
+d001.s096.t006	influyen	VERB	influir	bn:00082304v
+d001.s096.t007	el	X	el	
+d001.s096.t008	sexo	NOUN	sexo	bn:00070773n
+d001.s096.t009	y	X	y	
+d001.s096.t010	la	X	la	
+d001.s096.t011	raza	NOUN	raza	bn:00065800n
+d001.s096.t012	de	X	de	
+d001.s096.t013	los	X	los	
+d001.s096.t014	trabajadores	NOUN	trabajador	bn:00030618n
+d001.s096.t015	en	X	en	
+d001.s096.t016	la	X	la	
+d001.s096.t017	discriminación	NOUN	discriminación	bn:00027538n
+d001.s096.t018	por	X	por	
+d001.s096.t019	razón	NOUN	razón	bn:00016851n
+d001.s096.t020	de	X	de	
+d001.s096.t021	la	X	la	
+d001.s096.t022	edad	NOUN	edad	bn:00001938n
+d001.s096.t023	.	X	.	
+d001.s097.t001	El	X	El	
+d001.s097.t002	proyecto	NOUN	proyecto	bn:00049573n
+d001.s097.t003	tiene	VERB	tener	bn:00088078v
+d001.s097.t004	en	X	en	
+d001.s097.t005	cuenta	NOUN	cuenta	bn:00000744n
+d001.s097.t006	,	X	,	
+d001.s097.t007	por	X	por	
+d001.s097.t008	otra	X	otra	
+d001.s097.t009	paite	NOUN	paite	bn:00046516n
+d001.s097.t010	,	X	,	
+d001.s097.t011	las	X	las	
+d001.s097.t012	iniciativas	NOUN	iniciativa	bn:00031009n
+d001.s097.t013	para	X	para	
+d001.s097.t014	luchar	VERB	luchar	bn:00086455v
+d001.s097.t015	contra	X	contra	
+d001.s097.t016	esta	X	esta	
+d001.s097.t017	clase	NOUN	clase	bn:00035907n
+d001.s097.t018	de	X	de	
+d001.s097.t019	discriminación	NOUN	discriminación	bn:00027538n
+d001.s097.t020	en	X	en	
+d001.s097.t021	las	X	las	
+d001.s097.t022	zonas	NOUN	zona	bn:00027810n
+d001.s097.t023	rurales	ADJ	rural	bn:00109997a
+d001.s097.t024	y	X	y	
+d001.s097.t025	en	X	en	
+d001.s097.t026	las	X	las	
+d001.s097.t027	pequeñas	ADJ	pequeño	bn:00106058a
+d001.s097.t028	y	X	y	
+d001.s097.t029	medianas	ADJ	mediano	bn:00097857a
+d001.s097.t030	empresas	NOUN	empresa	bn:00014136n
+d001.s097.t031	.	X	.	
+d001.s098.t001	Siete	X	Siete	
+d001.s098.t002	Estados	NOUN	estado	bn:00064914n
+d001.s098.t003	miembros	NOUN	miembro	bn:00034004n
+d001.s098.t004	se	X	se	
+d001.s098.t005	incluyen	VERB	incluir	bn:00085499v
+d001.s098.t006	en	X	en	
+d001.s098.t007	el	X	el	
+d001.s098.t008	proyecto	NOUN	proyecto	bn:00049573n
+d001.s098.t009	:	X	:	
+d001.s098.t010	Alemania	NOUN	alemania	bn:00026684n
+d001.s098.t011	,	X	,	
+d001.s098.t012	Bélgica	NOUN	bélgica	bn:00009714n
+d001.s098.t013	,	X	,	
+d001.s098.t014	Francia	NOUN	francia	bn:00036202n
+d001.s098.t015	,	X	,	
+d001.s098.t016	Grecia	NOUN	grecia	bn:00030401n
+d001.s098.t017	,	X	,	
+d001.s098.t018	Italia	NOUN	italia	bn:00047705n
+d001.s098.t019	,	X	,	
+d001.s098.t020	Países Bajos	NOUN	países~bajos	bn:00041942n
+d001.s098.t021	y	X	y	
+d001.s098.t022	Reino Unido	NOUN	reino~unido	bn:00013173n
+d001.s098.t023	.	X	.	
+d001.s099.t001	Resumen	VERB	resumir	bn:00086822v
+d001.s099.t002	del	X	del	
+d001.s099.t003	EPAR	NOUN	epar	bn:00059436n
+d001.s099.t004	para	X	para	
+d001.s099.t005	el	X	el	
+d001.s099.t006	público	NOUN	público	bn:00063584n
+d001.s099.t007	general	ADJ	general	bn:00103507a
+d001.s099.t008	En	X	En	
+d001.s099.t009	el	X	el	
+d001.s099.t010	presente	ADJ	presente	bn:00108977a
+d001.s099.t011	documento	NOUN	documento	bn:00028015n
+d001.s099.t012	se	X	se	
+d001.s099.t013	resume	VERB	resumir	bn:00092916v
+d001.s099.t014	el	X	el	
+d001.s099.t015	Informe	NOUN	informe	bn:00067181n
+d001.s099.t016	Público	ADJ	público	bn:00109211a
+d001.s099.t017	Europeo	ADJ	europeo	bn:00102440a
+d001.s099.t018	de	X	de	
+d001.s099.t019	Evaluación	NOUN	evaluación	bn:00031972n
+d001.s099.t020	,	X	,	
+d001.s099.t021	y	X	y	
+d001.s099.t022	se	X	se	
+d001.s099.t023	explica	VERB	explicar	bn:00087869v
+d001.s099.t024	cómo	ADV	cómo	bn:00114234r
+d001.s099.t025	la	X	la	
+d001.s099.t026	evaluación	NOUN	evaluación	bn:00031973n
+d001.s099.t027	del	X	del	
+d001.s099.t028	Comité	NOUN	comité	bn:00021015n
+d001.s099.t029	de	X	de	
+d001.s099.t030	Medicamentos	NOUN	medicamento	bn:00028872n
+d001.s099.t031	de	X	de	
+d001.s099.t032	Uso	NOUN	uso	bn:00030627n
+d001.s099.t033	Veterinario	NOUN	veterinario	bn:00079883n
+d001.s099.t034	(	X	(	
+d001.s099.t035	CVMP	NOUN	cvmp	bn:00041942n
+d001.s099.t036	)	X	)	
+d001.s099.t037	,	X	,	
+d001.s099.t038	efectuada	VERB	efectuar	bn:00087491v
+d001.s099.t039	a partir de	X	a partir de	
+d001.s099.t040	los	X	los	
+d001.s099.t041	estudios	NOUN	estudio	bn:00074790n
+d001.s099.t042	existentes	ADJ	existente	bn:00102548a
+d001.s099.t043	,	X	,	
+d001.s099.t044	ha	VERB	haber	bn:00083183v
+d001.s099.t045	llevado	VERB	llevar	bn:00084554v
+d001.s099.t046	a	X	a	
+d001.s099.t047	las	X	las	
+d001.s099.t048	recomendaciones	NOUN	recomendación	bn:00066562n
+d001.s099.t049	sobre	X	sobre	
+d001.s099.t050	las	X	las	
+d001.s099.t051	condiciones	NOUN	condición	bn:00021644n
+d001.s099.t052	de	X	de	
+d001.s099.t053	uso	NOUN	uso	bn:00030627n
+d001.s099.t054	del	X	del	
+d001.s099.t055	medicamento	NOUN	medicamento	bn:00028872n
+d001.s099.t056	.	X	.	
+d001.s100.t001	¿Qué	ADV	¿qué	bn:00116290r
+d001.s100.t002	es	VERB	ser	bn:00083182v
+d001.s100.t003	Cerenia	NOUN	cerenia	bn:00046516n
+d001.s100.t004	?	X	?	
+d001.s101.t001	Cerenia	NOUN	cerenia	bn:00039064n
+d001.s101.t002	contiene	VERB	contener	bn:00085499v
+d001.s101.t003	el	X	el	
+d001.s101.t004	principio	NOUN	principio	bn:00064429n
+d001.s101.t005	activo	ADJ	activo	bn:00096387a
+d001.s101.t006	maropitant	NOUN	maropitant	bn:00006975n
+d001.s101.t007	y	X	y	
+d001.s101.t008	se	X	se	
+d001.s101.t009	presenta	VERB	presentar	bn:00088078v
+d001.s101.t010	en	X	en	
+d001.s101.t011	forma	NOUN	forma	bn:00021751n
+d001.s101.t012	de	X	de	
+d001.s101.t013	comprimidos	VERB	comprimir	bn:00085448v
+d001.s101.t014	o	X	o	
+d001.s101.t015	de	X	de	
+d001.s101.t016	solución	NOUN	solución	bn:00072760n
+d001.s101.t017	inyectables	ADJ	inyectables	bn:00046787n
+d001.s101.t018	.	X	.	
+d001.s102.t001	Los	X	Los	
+d001.s102.t002	comprimidos	VERB	comprimir	bn:00085448v
+d001.s102.t003	son	VERB	ser	bn:00083181v
+d001.s102.t004	de	X	de	
+d001.s102.t005	color	NOUN	color	bn:00020726n
+d001.s102.t006	naranja	NOUN	naranja	bn:00076037n
+d001.s102.t007	claro	ADJ	claro	bn:00105938a
+d001.s102.t008	y	X	y	
+d001.s102.t009	tienen	VERB	tener	bn:00088078v
+d001.s102.t010	una	X	una	
+d001.s102.t011	ranura	NOUN	ranura	bn:00072214n
+d001.s102.t012	en	X	en	
+d001.s102.t013	ambas	X	ambas	
+d001.s102.t014	caras	NOUN	cara	bn:00032604n
+d001.s102.t015	,	X	,	
+d001.s102.t016	lo	X	lo	
+d001.s102.t017	que	X	que	
+d001.s102.t018	permite	VERB	permitir	bn:00082536v
+d001.s102.t019	dividirlos	VERB	dividir	bn:00084611v
+d001.s102.t020	por	X	por	
+d001.s102.t021	la	X	la	
+d001.s102.t022	mitad	NOUN	mitad	bn:00042601n
+d001.s102.t023	.	X	.	
+d001.s103.t001	Cada	X	Cada	
+d001.s103.t002	comprimido	NOUN	comprimido	bn:00052222n
+d001.s103.t003	va	VERB	ir	bn:00088939v
+d001.s103.t004	marcado	VERB	marcar	bn:00090151v
+d001.s103.t005	con	X	con	
+d001.s103.t006	el	X	el	
+d001.s103.t007	logo	NOUN	logo	bn:00051872n
+d001.s103.t008	Pfizer	NOUN	pfizer	bn:00041942n
+d001.s103.t009	en	X	en	
+d001.s103.t010	una	X	una	
+d001.s103.t011	cara	NOUN	cara	bn:00032604n
+d001.s103.t012	y	X	y	
+d001.s103.t013	las	X	las	
+d001.s103.t014	letras	NOUN	letra	bn:00003057n
+d001.s103.t015	MPT	NOUN	mpt	bn:00061133n
+d001.s103.t016	y	X	y	
+d001.s103.t017	la	X	la	
+d001.s103.t018	cantidad	NOUN	cantidad	bn:00003603n
+d001.s103.t019	de	X	de	
+d001.s103.t020	maropitant	NOUN	maropitant	bn:00026482n
+d001.s103.t021	en	X	en	
+d001.s103.t022	la	X	la	
+d001.s103.t023	otra	X	otra	
+d001.s103.t024	.	X	.	
+d001.s104.t001	¿Para	VERB	¿para	bn:00083181v
+d001.s104.t002	qué	X	qué	
+d001.s104.t003	se	X	se	
+d001.s104.t004	utiliza	VERB	utilizar	bn:00082705v
+d001.s104.t005	Cerenia	NOUN	cerenia	bn:00046516n
+d001.s104.t006	?	X	?	
+d001.s105.t001	Cerenia	NOUN	cerenia	bn:00063156n
+d001.s105.t002	es	VERB	ser	bn:00083182v
+d001.s105.t003	un	X	un	
+d001.s105.t004	antiemético	NOUN	antiemético	bn:00004656n
+d001.s105.t005	(	X	(	
+d001.s105.t006	ataja	VERB	atajar	bn:00082954v
+d001.s105.t007	los	X	los	
+d001.s105.t008	vómitos	NOUN	vómito	bn:00008567n
+d001.s105.t009	)	X	)	
+d001.s105.t010	.	X	.	
+d001.s106.t001	Se	X	Se	
+d001.s106.t002	utiliza	VERB	utilizar	bn:00082705v
+d001.s106.t003	en	X	en	
+d001.s106.t004	perros	NOUN	perro	bn:00015267n
+d001.s106.t005	para	X	para	
+d001.s106.t006	la	X	la	
+d001.s106.t007	prevención	NOUN	prevención	bn:00008467n
+d001.s106.t008	de	X	de	
+d001.s106.t009	los	X	los	
+d001.s106.t010	vómitos	NOUN	vómito	bn:00027565n
+d001.s106.t011	,	X	,	
+d001.s106.t012	por ejemplo	ADV	por~ejemplo	bn:00115147r
+d001.s106.t013	los	X	los	
+d001.s106.t014	causados	VERB	causar	bn:00086008v
+d001.s106.t015	por	X	por	
+d001.s106.t016	la	X	la	
+d001.s106.t017	quimioterapia	NOUN	quimioterapia	bn:00018141n
+d001.s106.t018	(	X	(	
+d001.s106.t019	fármacos	NOUN	fármaco	bn:00028872n
+d001.s106.t020	utilizados	VERB	utilizar	bn:00082705v
+d001.s106.t021	para	X	para	
+d001.s106.t022	el	X	el	
+d001.s106.t023	tratamiento	NOUN	tratamiento	bn:00047235n
+d001.s106.t024	del	X	del	
+d001.s106.t025	cáncer	NOUN	cáncer	bn:00015180n
+d001.s106.t026	,	X	,	
+d001.s106.t027	algunos	X	algunos	
+d001.s106.t028	de	X	de	
+d001.s106.t029	los	X	los	
+d001.s106.t030	cuales	X	cuales	
+d001.s106.t031	producen	VERB	producir	bn:00084069v
+d001.s106.t032	vómitos	NOUN	vómito	bn:00027565n
+d001.s106.t033	)	X	)	
+d001.s106.t034	.	X	.	
+d001.s107.t001	Combinado	VERB	combinar	bn:00083595v
+d001.s107.t002	con	X	con	
+d001.s107.t003	otras	X	otras	
+d001.s107.t004	medidas	NOUN	medida	bn:00054018n
+d001.s107.t005	complementarias	ADJ	complementario	bn:00097844a
+d001.s107.t006	,	X	,	
+d001.s107.t007	como	X	como	
+d001.s107.t008	otros	X	otros	
+d001.s107.t009	tratamientos	NOUN	tratamiento	bn:00047235n
+d001.s107.t010	veterinarios	NOUN	veterinario	bn:00079883n
+d001.s107.t011	o	X	o	
+d001.s107.t012	una	X	una	
+d001.s107.t013	dieta	NOUN	dieta	bn:00027011n
+d001.s107.t014	especial	ADJ	especial	bn:00110995a
+d001.s107.t015	,	X	,	
+d001.s107.t016	Cerenia	NOUN	cerenia	bn:00041942n
+d001.s107.t017	se	X	se	
+d001.s107.t018	utiliza	VERB	utilizar	bn:00082705v
+d001.s107.t019	también	ADV	también	bn:00114246r
+d001.s107.t020	como	X	como	
+d001.s107.t021	tratamiento	NOUN	tratamiento	bn:00047235n
+d001.s107.t022	del	X	del	
+d001.s107.t023	vómito	NOUN	vómito	bn:00027565n
+d001.s107.t024	(	X	(	
+d001.s107.t025	como	X	como	
+d001.s107.t026	inyección	NOUN	inyección	bn:00046787n
+d001.s107.t027	o	X	o	
+d001.s107.t028	como	X	como	
+d001.s107.t029	inyección	NOUN	inyección	bn:00046787n
+d001.s107.t030	seguida	VERB	seguir	bn:00085342v
+d001.s107.t031	de	X	de	
+d001.s107.t032	comprimidos	VERB	comprimir	bn:00085448v
+d001.s107.t033	)	X	)	
+d001.s107.t034	.	X	.	
+d001.s108.t001	A	X	A	
+d001.s108.t002	estos	X	estos	
+d001.s108.t003	efectos	NOUN	efecto	bn:00021961n
+d001.s108.t004	,	X	,	
+d001.s108.t005	Cerenia	NOUN	cerenia	bn:00041942n
+d001.s108.t006	se	X	se	
+d001.s108.t007	puede	VERB	poder	bn:00084450v
+d001.s108.t008	administrar	VERB	administrar	bn:00082365v
+d001.s108.t009	durante	X	durante	
+d001.s108.t010	un	X	un	
+d001.s108.t011	período	NOUN	período	bn:00061605n
+d001.s108.t012	de	X	de	
+d001.s108.t013	hasta	X	hasta	
+d001.s108.t014	cinco	X	cinco	
+d001.s108.t015	días	NOUN	día	bn:00000086n
+d001.s108.t016	.	X	.	
+d001.s109.t001	¿Cómo	NOUN	¿cómo	bn:00004652n
+d001.s109.t002	actúa	VERB	actuar	bn:00082288v
+d001.s109.t003	Cerenia	NOUN	cerenia	bn:00046516n
+d001.s109.t004	?	X	?	
+d001.s110.t001	Cerenia	NOUN	cerenia	bn:00063156n
+d001.s110.t002	bloquea	VERB	bloquear	bn:00083642v
+d001.s110.t003	los	X	los	
+d001.s110.t004	receptores	NOUN	receptor	bn:00066514n
+d001.s110.t005	de	X	de	
+d001.s110.t006	neurocinina	NOUN	neurocinina	bn:00067714n
+d001.s110.t007	1	X	1	
+d001.s110.t008	(	X	(	
+d001.s110.t009	NK1	NOUN	nk1	bn:00067714n
+d001.s110.t010	)	X	)	
+d001.s110.t011	en	X	en	
+d001.s110.t012	el	X	el	
+d001.s110.t013	sistema	NOUN	sistema	bn:00075762n
+d001.s110.t014	nervioso	ADJ	nervioso	bn:00107232a
+d001.s110.t015	central	ADJ	central	bn:00099441a
+d001.s110.t016	.	X	.	
+d001.s111.t001	¿Qué	VERB	¿qué	bn:00084770v
+d001.s111.t002	tipo	NOUN	tipo	bn:00078798n
+d001.s111.t003	de	X	de	
+d001.s111.t004	estudios	NOUN	estudio	bn:00074790n
+d001.s111.t005	se	X	se	
+d001.s111.t006	han	VERB	haber	bn:00083184v
+d001.s111.t007	realizado	VERB	realizar	bn:00084595v
+d001.s111.t008	sobre	X	sobre	
+d001.s111.t009	Cerenia	NOUN	cerenia	bn:00046516n
+d001.s111.t010	?	X	?	
+d001.s112.t001	Se	X	Se	
+d001.s112.t002	han	VERB	haber	bn:00083184v
+d001.s112.t003	realizado	VERB	realizar	bn:00084595v
+d001.s112.t004	una	X	una	
+d001.s112.t005	gran	ADJ	grande	bn:00098342a
+d001.s112.t006	cantidad	NOUN	cantidad	bn:00003602n
+d001.s112.t007	de	X	de	
+d001.s112.t008	estudios	NOUN	estudio	bn:00074790n
+d001.s112.t009	con	X	con	
+d001.s112.t010	Cerenia	NOUN	cerenia	bn:00046516n
+d001.s112.t011	en	X	en	
+d001.s112.t012	perros	NOUN	perro	bn:00015267n
+d001.s112.t013	de	X	de	
+d001.s112.t014	laboratorio	NOUN	laboratorio	bn:00049551n
+d001.s112.t015	y	X	y	
+d001.s112.t016	en	X	en	
+d001.s112.t017	perros	NOUN	perro	bn:00015267n
+d001.s112.t018	pacientes	ADJ	paciente	bn:00108344a
+d001.s112.t019	de	X	de	
+d001.s112.t020	clínicas	ADJ	clínico	bn:00099838a
+d001.s112.t021	veterinarias	NOUN	veterinario	bn:00079883n
+d001.s112.t022	de	X	de	
+d001.s112.t023	varios	X	varios	
+d001.s112.t024	países	NOUN	país	bn:00023235n
+d001.s112.t025	europeos	ADJ	europeo	bn:00102440a
+d001.s112.t026	y	X	y	
+d001.s112.t027	de	X	de	
+d001.s112.t028	EE.UU.	NOUN	ee.uu.	bn:00003341n
+d001.s113.t001	¿Qué	NOUN	¿qué	bn:00070909n
+d001.s113.t002	beneficios	NOUN	beneficio	bn:00009905n
+d001.s113.t003	ha	VERB	haber	bn:00083183v
+d001.s113.t004	demostrado	VERB	demostrar	bn:00082913v
+d001.s113.t005	Cerenia	NOUN	cerenia	bn:00046516n
+d001.s113.t006	durante	X	durante	
+d001.s113.t007	dichos	X	dichos	
+d001.s113.t008	estudios	NOUN	estudio	bn:00074790n
+d001.s113.t009	?	X	?	
+d001.s114.t001	Los	X	Los	
+d001.s114.t002	resultados	NOUN	resultado	bn:00021961n
+d001.s114.t003	de	X	de	
+d001.s114.t004	los	X	los	
+d001.s114.t005	estudios	NOUN	estudio	bn:00074790n
+d001.s114.t006	demostraron	VERB	demostrar	bn:00092109v
+d001.s114.t007	que	X	que	
+d001.s114.t008	Cerenia	NOUN	cerenia	bn:00041942n
+d001.s114.t009	fue	VERB	ser	bn:00083181v
+d001.s114.t010	más	ADV	más	bn:00116284r
+d001.s114.t011	eficaz	ADJ	eficaz	bn:00102048a
+d001.s114.t012	que	X	que	
+d001.s114.t013	el	X	el	
+d001.s114.t014	placebo	NOUN	placebo	bn:00062717n
+d001.s114.t015	:	X	:	
+d001.s114.t016	se	X	se	
+d001.s114.t017	observaron	VERB	observar	bn:00086708v
+d001.s114.t018	menos	ADV	menos	bn:00116104r
+d001.s114.t019	vómitos	NOUN	vómito	bn:00027565n
+d001.s114.t020	en	X	en	
+d001.s114.t021	los	X	los	
+d001.s114.t022	perros	NOUN	perro	bn:00015267n
+d001.s114.t023	que	X	que	
+d001.s114.t024	recibieron	VERB	recibir	bn:00089246v
+d001.s114.t025	el	X	el	
+d001.s114.t026	medicamento	NOUN	medicamento	bn:00028872n
+d001.s114.t027	que	X	que	
+d001.s114.t028	en	X	en	
+d001.s114.t029	los	X	los	
+d001.s114.t030	perros	NOUN	perro	bn:00015267n
+d001.s114.t031	que	X	que	
+d001.s114.t032	recibieron	VERB	recibir	bn:00089246v
+d001.s114.t033	placebo	NOUN	placebo	bn:00062717n
+d001.s114.t034	,	X	,	
+d001.s114.t035	bien	X	bien	
+d001.s114.t036	como	X	como	
+d001.s114.t037	tratamiento	NOUN	tratamiento	bn:00047235n
+d001.s114.t038	,	X	,	
+d001.s114.t039	bien	X	bien	
+d001.s114.t040	como	X	como	
+d001.s114.t041	prevención	NOUN	prevención	bn:00008467n
+d001.s114.t042	del	X	del	
+d001.s114.t043	vómito	NOUN	vómito	bn:00027565n
+d001.s114.t044	.	X	.	
+d001.s115.t001	El	X	El	
+d001.s115.t002	tratamiento	NOUN	tratamiento	bn:00047235n
+d001.s115.t003	de	X	de	
+d001.s115.t004	un	X	un	
+d001.s115.t005	perro	NOUN	perro	bn:00015267n
+d001.s115.t006	con	X	con	
+d001.s115.t007	vómitos	NOUN	vómito	bn:00027565n
+d001.s115.t008	debe	VERB	deber	bn:00091360v
+d001.s115.t009	iniciarse	VERB	iniciarse	bn:00094301v
+d001.s115.t010	en	X	en	
+d001.s115.t011	forma	NOUN	forma	bn:00033729n
+d001.s115.t012	inyectable	ADJ	inyectable	bn:00105120a
+d001.s115.t013	puesto que	X	puesto que	
+d001.s115.t014	los	X	los	
+d001.s115.t015	animales	NOUN	animal	bn:00004222n
+d001.s115.t016	con	X	con	
+d001.s115.t017	vómitos	NOUN	vómito	bn:00027565n
+d001.s115.t018	podrían	VERB	poder	bn:00084450v
+d001.s115.t019	no	NOUN	no	bn:00057809n
+d001.s115.t020	retener	VERB	retener	bn:00092928v
+d001.s115.t021	el	X	el	
+d001.s115.t022	comprimido	VERB	comprimir	bn:00085448v
+d001.s115.t023	(	X	(	
+d001.s115.t024	podrían	VERB	poder	bn:00084450v
+d001.s115.t025	vomitar	VERB	vomitar	bn:00083115v
+d001.s115.t026	el	X	el	
+d001.s115.t027	comprimido	VERB	comprimir	bn:00085448v
+d001.s115.t028	intacto	ADJ	intacto	bn:00105230a
+d001.s115.t029	)	X	)	
+d001.s115.t030	.	X	.	
+d001.s116.t001	Para	X	Para	
+d001.s116.t002	la	X	la	
+d001.s116.t003	continuación	NOUN	continuación	bn:00022190n
+d001.s116.t004	del	X	del	
+d001.s116.t005	tratamiento	NOUN	tratamiento	bn:00047235n
+d001.s116.t006	,	X	,	
+d001.s116.t007	el	X	el	
+d001.s116.t008	propietario	NOUN	propietario	bn:00059954n
+d001.s116.t009	puede	VERB	poder	bn:00084450v
+d001.s116.t010	administrar	VERB	administrar	bn:00082365v
+d001.s116.t011	el	X	el	
+d001.s116.t012	medicamento	NOUN	medicamento	bn:00028872n
+d001.s116.t013	al	X	al	
+d001.s116.t014	animal	NOUN	animal	bn:00004222n
+d001.s116.t015	en	X	en	
+d001.s116.t016	forma	NOUN	forma	bn:00021751n
+d001.s116.t017	de	X	de	
+d001.s116.t018	comprimidos	VERB	comprimir	bn:00085448v
+d001.s116.t019	.	X	.	
+d001.s117.t001	El	X	El	
+d001.s117.t002	tratamiento	NOUN	tratamiento	bn:00047235n
+d001.s117.t003	del	X	del	
+d001.s117.t004	vómito	NOUN	vómito	bn:00027565n
+d001.s117.t005	debe	VERB	deber	bn:00091360v
+d001.s117.t006	realizarse	VERB	realizar	bn:00082225v
+d001.s117.t007	siempre	ADV	siempre	bn:00114250r
+d001.s117.t008	en	X	en	
+d001.s117.t009	asociación	NOUN	asociación	bn:00006544n
+d001.s117.t010	con	X	con	
+d001.s117.t011	otras	X	otras	
+d001.s117.t012	medidas	NOUN	medida	bn:00054018n
+d001.s117.t013	de	X	de	
+d001.s117.t014	apoyo	NOUN	apoyo	bn:00075333n
+d001.s117.t015	u	X	u	
+d001.s117.t016	otros	X	otros	
+d001.s117.t017	tratamientos	NOUN	tratamiento	bn:00047235n
+d001.s117.t018	veterinarios	NOUN	veterinario	bn:00079883n
+d001.s117.t019	para	X	para	
+d001.s117.t020	combatir	VERB	combatir	bn:00083173v
+d001.s117.t021	también	ADV	también	bn:00114246r
+d001.s117.t022	la	X	la	
+d001.s117.t023	causa	NOUN	causa	bn:00016850n
+d001.s117.t024	subyacente	ADJ	subyacente	bn:00104676a
+d001.s117.t025	del	X	del	
+d001.s117.t026	vómito	NOUN	vómito	bn:00027565n
+d001.s117.t027	.	X	.	
+d001.s118.t001	¿Cuáles	ADJ	¿cuáles	bn:00099557a
+d001.s118.t002	son	VERB	ser	bn:00083181v
+d001.s118.t003	los	X	los	
+d001.s118.t004	efectos	NOUN	efecto	bn:00021961n
+d001.s118.t005	secundarios	ADJ	secundario	bn:00110248a
+d001.s118.t006	de	X	de	
+d001.s118.t007	Cerenia	NOUN	cerenia	bn:00041942n
+d001.s118.t008	?	X	?	
+d001.s119.t001	En general	ADV	en~general	bn:00115495r
+d001.s119.t002	,	X	,	
+d001.s119.t003	Cerenia	NOUN	cerenia	bn:00041942n
+d001.s119.t004	fue	VERB	ser	bn:00083181v
+d001.s119.t005	bien	ADV	bien	bn:00114215r
+d001.s119.t006	tolerado	VERB	tolerar	bn:00094538v
+d001.s119.t007	cuando	X	cuando	
+d001.s119.t008	se	X	se	
+d001.s119.t009	administró	VERB	administrar	bn:00082365v
+d001.s119.t010	diariamente	ADV	diariamente	bn:00114917r
+d001.s119.t011	a	X	a	
+d001.s119.t012	dosis	NOUN	dosis	bn:00028320n
+d001.s119.t013	de	X	de	
+d001.s119.t014	hasta	X	hasta	
+d001.s119.t015	5	X	5	
+d001.s119.t016	veces	NOUN	vez	bn:00019848n
+d001.s119.t017	la	X	la	
+d001.s119.t018	dosis	NOUN	dosis	bn:00028320n
+d001.s119.t019	recomendada	VERB	recomendar	bn:00082418v
+d001.s119.t020	durante	X	durante	
+d001.s119.t021	un	X	un	
+d001.s119.t022	período	NOUN	período	bn:00061605n
+d001.s119.t023	de	X	de	
+d001.s119.t024	tiempo	NOUN	tiempo	bn:00077267n
+d001.s119.t025	prolongado	VERB	prolongar	bn:00090070v
+d001.s119.t026	(	X	(	
+d001.s119.t027	hasta	X	hasta	
+d001.s119.t028	3	X	3	
+d001.s119.t029	veces	NOUN	vez	bn:00019848n
+d001.s119.t030	la	X	la	
+d001.s119.t031	duración	NOUN	duración	bn:00022191n
+d001.s119.t032	máxima	ADJ	grande	bn:00098342a
+d001.s119.t033	recomendada	VERB	recomendar	bn:00085410v
+d001.s119.t034	del	X	del	
+d001.s119.t035	tratamiento	NOUN	tratamiento	bn:00047235n
+d001.s119.t036	)	X	)	
+d001.s119.t037	.	X	.	
+d001.s120.t001	¿Qué	VERB	¿qué	bn:00083181v
+d001.s120.t002	precauciones	NOUN	precaución	bn:00042049n
+d001.s120.t003	debe	VERB	deber	bn:00091361v
+d001.s120.t004	adoptar	VERB	adoptar	bn:00082379v
+d001.s120.t005	la	X	la	
+d001.s120.t006	persona	NOUN	persona	bn:00046516n
+d001.s120.t007	que	X	que	
+d001.s120.t008	administre	VERB	administrar	bn:00082365v
+d001.s120.t009	el	X	el	
+d001.s120.t010	medicamento	NOUN	medicamento	bn:00028872n
+d001.s120.t011	o	X	o	
+d001.s120.t012	esté	VERB	estar	bn:00083183v
+d001.s120.t013	en	X	en	
+d001.s120.t014	contacto	NOUN	contacto	bn:00022112n
+d001.s120.t015	con	X	con	
+d001.s120.t016	el	X	el	
+d001.s120.t017	animal	NOUN	animal	bn:00004222n
+d001.s120.t018	?	X	?	
