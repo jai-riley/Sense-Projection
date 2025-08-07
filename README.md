@@ -5,7 +5,7 @@ Hadi Sheikhi, Mahvash Siavashpour, Mohammad Tavakoli, Ning Shi, Grzegorz Kondrak
 
 COLING 2025
 
-This README will be updated shortly with instructions to run the pipeline. 
+This README will be updated shortly with instructions to run the pipeline. You can email jai.riley@ualberta.ca if you have any questions in the meantime. 
 
 Paper Link:
 https://aclanthology.org/2025.coling-main.419/
