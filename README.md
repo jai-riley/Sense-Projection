@@ -48,3 +48,7 @@ The pipeline consists of a set of steps:
 (3) Align the tokens in the target to the source. This is done through the align.ipynb file. This will create the base version of our method with all the sense transfered over from the aligned source tokens. 
 
 (4) Filter out improperly projected senses. 
+
+(5) Create key files from the file get_key.py in order to compare to the gold.
+
+(6) You can get a score for your two key files, gold versus the created, using the main.py function. 
