@@ -1118,15 +1118,14 @@ d002.s029.t018	যোগফল	যোগফল	N
 d002.s029.t019	বা	বা			
 d002.s029.t020	পণ্য	পণ্য			
 d002.s029.t021	()	()	X		
-d002.s029.t022			X		
-d002.s029.t023	এর	এর	X		
-d002.s029.t024	মত	মত	X		
-d002.s029.t025	ফাংশনের	ফাংশন	N	bn:00036821n	(mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associated with an element of another set (the range of the function)
-d002.s029.t026	সাথে	সাথে	N		
-d002.s029.t027	কাজ	কাজ	V	bn:00085744v	Handle and cause to function
-d002.s029.t028	করতে	করতে	V		
-d002.s029.t029	পারি	পারি	N		
-d002.s029.t030	।	।	X		
+d002.s029.t022	এর	এর	X		
+d002.s029.t023	মত	মত	X		
+d002.s029.t024	ফাংশনের	ফাংশন	N	bn:00036821n	(mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associated with an element of another set (the range of the function)
+d002.s029.t025	সাথে	সাথে	N		
+d002.s029.t026	কাজ	কাজ	V	bn:00085744v	Handle and cause to function
+d002.s029.t027	করতে	করতে	V		
+d002.s029.t028	পারি	পারি	N		
+d002.s029.t029	।	।	X		
 d002.s030.t001	এটা	এটা	X		
 d002.s030.t002	কি	কি	X		
 d002.s030.t003	ধরনের	ধরনের	N	bn:00035907n	A category of things distinguished by some common characteristic or quality
@@ -1201,19 +1200,17 @@ d002.s035.t009	করেন	করেন	V
 d002.s035.t010	,	,	X		
 d002.s035.t011	তখন	তখন			
 d002.s035.t012	``	``	X		
-d002.s035.t013					
-d002.s035.t014	এবং	এবং	X		
-d002.s035.t015	``	``	X		
-d002.s035.t016	পরিবর্তনশীল	পরিবর্তনশীল	N	bn:00079583n	A symbol (like x or y) that is used in mathematical or logical expressions to represent a variable quantity
-d002.s035.t017	মান	মান	N	bn:00079508n	A numerical quantity measured or assigned or computed
-d002.s035.t018					
-d002.s035.t019	সর্বশেষ	সর্বশেষ	A	bn:00105739a	Immediately past
-d002.s035.t020	ফলাফলে	ফলাফল	N		
-d002.s035.t021	পরিবর্তন	পরিবর্তন	V	bn:00082553v	Cause to change; make different; cause a transformation
-d002.s035.t022	করা	করা	N		
-d002.s035.t023	হবে	হবে	V		
-d002.s035.t024	।	।	X		
-d002.s035.t025	``	``	N	bn:00020947n	(computer science) the key on a computer keyboard that is used (in combination with some other key) to type control characters
+d002.s035.t013	এবং	এবং	X		
+d002.s035.t014	``	``	X		
+d002.s035.t015	পরিবর্তনশীল	পরিবর্তনশীল	N	bn:00079583n	A symbol (like x or y) that is used in mathematical or logical expressions to represent a variable quantity
+d002.s035.t016	মান	মান	N	bn:00079508n	A numerical quantity measured or assigned or computed
+d002.s035.t017	সর্বশেষ	সর্বশেষ	A	bn:00105739a	Immediately past
+d002.s035.t018	ফলাফলে	ফলাফল	N		
+d002.s035.t019	পরিবর্তন	পরিবর্তন	V	bn:00082553v	Cause to change; make different; cause a transformation
+d002.s035.t020	করা	করা	N		
+d002.s035.t021	হবে	হবে	V		
+d002.s035.t022	।	।	X		
+d002.s035.t023	``	``	N	bn:00020947n	(computer science) the key on a computer keyboard that is used (in combination with some other key) to type control characters
 d002.s036.t001	নতুন	নতুন	A	bn:00107267a	Not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered
 d002.s036.t002	উইন্ডোকে	উইন্ডো	N	bn:00081292n	(computer science) a rectangular part of a computer screen that contains a display d
 d002.s036.t003	কেন্দ্র	কেন্দ্র	N		
@@ -1391,11 +1388,10 @@ d002.s051.t012	করার	করার	N
 d002.s051.t013	জন্য	জন্য	X		
 d002.s051.t014	``	``	X		
 d002.s051.t015	ওকে	ওকে	A	bn:00096817a	Being satisfactory or in satisfactory condition
-d002.s051.t016					
-d002.s051.t017	বাটনে	বাটনে	N		
-d002.s051.t018	ক্লিক	ক্লিক	A		
-d002.s051.t019	করুন	করুন	X		
-d002.s051.t020	।	।	X		
+d002.s051.t016	বাটনে	বাটনে	N		
+d002.s051.t017	ক্লিক	ক্লিক	A		
+d002.s051.t018	করুন	করুন	X		
+d002.s051.t019	।	।	X		
 d002.s052.t001	আপনি	আপনি	X		
 d002.s052.t002	একই	একই	A	bn:00110075a	Same in identity
 d002.s052.t003	দৃষ্টিভঙ্গিতে	দৃষ্টিভঙ্গি	N		
