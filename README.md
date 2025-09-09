@@ -5,7 +5,6 @@ Hadi Sheikhi, Mahvash Siavashpour, Mohammad Tavakoli, Ning Shi, Grzegorz Kondrak
 
 COLING 2025
 
-This README will be updated shortly with instructions to run the pipeline. You can email jai.riley@ualberta.ca if you have any questions in the meantime. 
 
 Paper Link:
 https://aclanthology.org/2025.coling-main.419/
@@ -38,3 +37,8 @@ Paper Citation:
     url = "https://aclanthology.org/2025.coling-main.419/",
     pages = "6270--6284",
 }
+
+
+The pipeline consists of a set of steps:
+(1) Translate the source sentences into the target language. The file translations.ipynb shows how to do this using google translate. This script with require a .json file with a key to the google cloud API. 
+(2) Align the tokens in the target to the source. This is done through the align.ipynb file. 

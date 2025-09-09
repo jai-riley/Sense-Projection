@@ -224,7 +224,7 @@ d001.s010.t055	for		X
 d001.s010.t056	cancer	cancer	N	bn:00015180n
 d001.s010.t057	)		X	
 d001.s010.t058	before		X	
-d001.s010.t059	advanced	advanced	J	bn:00096528a
+d001.s010.t059	Ranced	Ranced	J	bn:00096528a
 d001.s010.t060	or		X	
 d001.s010.t061	metastatic	metastatic	J	bn:00106664a
 d001.s010.t062	non-small	non-small	J	bn:03421664n
@@ -619,7 +619,7 @@ d001.s027.t029	571		X
 d001.s027.t030	patients	patient	N	bn:00061017n
 d001.s027.t031	with		X	
 d001.s027.t032	locally	locally	R	bn:00116147r
-d001.s027.t033	advanced	advanced	J	bn:00096528a
+d001.s027.t033	Ranced	Ranced	J	bn:00096528a
 d001.s027.t034	or		X	
 d001.s027.t035	metastatic	metastatic	J	bn:00054585n
 d001.s027.t036	disease	disease	N	bn:00027546n
@@ -917,7 +917,7 @@ d002.s005.t016	mathematical	mathematical	J	bn:00106488a
 d002.s005.t017	knowledge	knowledge	N	bn:00020452n
 d002.s005.t018	.		X	
 d002.s006.t001	Here	here	R	bn:00115639r
-d002.s006.t002	's	be	V	
+d002.s006.t002	s	be	V	
 d002.s006.t003	a		X	
 d002.s006.t004	screenshot	screenshot	N	bn:01157212n
 d002.s006.t005	of		X	
@@ -1153,7 +1153,7 @@ d002.s020.t024	user	user	N	bn:00079373n
 d002.s020.t025	function	function	N	bn:00036821n
 d002.s020.t026	.		X	
 d002.s021.t001	:		X	
-d002.s021.t002	=		X	
+d002.s021.t002	#ERROR!		X	
 d002.s021.t003	:		X	
 d002.s021.t004	It		X	
 d002.s021.t005	is	be	V	
@@ -1199,7 +1199,7 @@ d002.s024.t014	only	only	R	bn:00116450r
 d002.s024.t015	if		X	
 d002.s024.t016	it		X	
 d002.s024.t017	is	be	V	
-d002.s024.t018	true	true	J	bn:00112146a
+d002.s024.t018	TRUE	TRUE	J	bn:00112146a
 d002.s024.t019	,		X	
 d002.s024.t020	if		X	
 d002.s024.t021	it		X	
@@ -1218,882 +1218,979 @@ d002.s024.t033	the		X
 d002.s024.t034	last	last	J	bn:00102969a
 d002.s024.t035	instance	instance	N	bn:00016401n
 d002.s024.t036	.		X	
-d002.s025.t001	Mainly	mainly	R	bn:00114714r
-d002.s025.t002	useful	useful	J	bn:00113455a
-d002.s025.t003	for		X	
-d002.s025.t004	working	work	V	bn:00095812v
-d002.s025.t005	with		X	
-d002.s025.t006	piecewise	piecewise	N	bn:03132721n
-d002.s025.t007	.		X	
-d002.s026.t001	That		X	
-d002.s026.t002	s	be	V	
-d002.s026.t003	easy	easy	J	bn:00101973a
-d002.s026.t004	.		X	
-d002.s026.t005	With		X	
-d002.s026.t006	this		X	
-d002.s026.t007	,		X	
-d002.s026.t008	we		X	
-d002.s026.t009	can		X	
-d002.s026.t010	operate	operate	V	bn:00085744v
-d002.s026.t011	with		X	
-d002.s026.t012	functions	function	N	bn:00036821n
-d002.s026.t013	like		X	
-d002.s026.t014	cos()	cos	N	bn:00022956n
-d002.s026.t015	,		X	
-d002.s026.t016	sin()	sin	N	bn:00071709n
-d002.s026.t017	,		X	
-d002.s026.t018	any		X	
-d002.s026.t019	other	other	J	bn:00108011a
-d002.s026.t020	trigonometric	trigonometric	J	bn:00112111a
-d002.s026.t021	functions	function	N	bn:00036821n
-d002.s026.t022	,		X	
-d002.s026.t023	sum()	sum	N	bn:00001296n
-d002.s026.t024	or		X	
-d002.s026.t025	product()	product	N	bn:00053827n
-d002.s026.t026	.		X	
-d002.s027.t001	It		X	
-d002.s027.t002	does	do	V	
-d002.s027.t003	not	not	R	bn:00116360r
-d002.s027.t004	matter	matter	V	bn:00085860v
-d002.s027.t005	what		X	
-d002.s027.t006	kind	kind	N	bn:00035907n
-d002.s027.t007	it		X	
-d002.s027.t008	is	be	V	
-d002.s027.t009	.		X	
-d002.s028.t001	We		X	
-d002.s028.t002	can		X	
-d002.s028.t003	use	use	V	bn:00082705v
-d002.s028.t004	plus()	plus	N	bn:00001296n
-d002.s028.t005	,		X	
-d002.s028.t006	times()	times	N	bn:00056300n
-d002.s028.t007	and		X	
-d002.s028.t008	everything	everything	N	
-d002.s028.t009	which		X	
-d002.s028.t010	has	have	V	bn:00088078v
-d002.s028.t011	its		X	
-d002.s028.t012	operator	operator	N	bn:00059141n
-d002.s028.t013	.		X	
-d002.s029.t001	kalgebra	kalgebra	N	bn:08534138n
-d002.s029.t002	's	be	V	
-d002.s029.t003	console	console	V	
-d002.s029.t004	is	be	V	
-d002.s029.t005	useful	useful	J	bn:00113455a
-d002.s029.t006	as		X	
-d002.s029.t007	a		X	
-d002.s029.t008	calculator	calculator	N	bn:00946167n
-d002.s029.t009	.		X	
-d002.s030.t001	There	there	R	bn:00114427r
-d002.s030.t002	you		X	
-d002.s030.t003	have	have	V	bn:00088078v
-d002.s030.t004	a		X	
-d002.s030.t005	list	list	N	bn:00051508n
-d002.s030.t006	of		X	
-d002.s030.t007	the		X	
-d002.s030.t008	declared	declare	V	
-d002.s030.t009	variables	variable	N	bn:00079583n
-d002.s030.t010	.		X	
-d002.s031.t001	By		X	
-d002.s031.t002	double	double	R	
-d002.s031.t003	clicking	click	V	
-d002.s031.t004	on		X	
-d002.s031.t005	them		X	
-d002.s031.t006	you		X	
-d002.s031.t007	will		X	
-d002.s031.t008	see	see	V	bn:00084662v
-d002.s031.t009	a		X	
-d002.s031.t010	dialog	dialog	N	
-d002.s031.t011	that		X	
-d002.s031.t012	lets	let	V	bn:00082536v
-d002.s031.t013	you		X	
-d002.s031.t014	change	change	V	bn:00082553v
-d002.s031.t015	their		X	
-d002.s031.t016	values	value	N	bn:00079508n
-d002.s031.t017	(		X	
-d002.s031.t018	just	just	R	bn:00114626r
-d002.s031.t019	a		X	
-d002.s031.t020	way	way	N	bn:00001965n
-d002.s031.t021	to		X	
-d002.s031.t022	trick	trick	V	bn:00088310v
-d002.s031.t023	the		X	
-d002.s031.t024	log	log	N	bn:00051831n
-d002.s031.t025	)		X	
-d002.s031.t026	.		X	
-d002.s032.t001	Every		X	
-d002.s032.t002	time	time	N	bn:00019848n
-d002.s032.t003	you		X	
-d002.s032.t004	enter	enter	V	bn:00087679v
-d002.s032.t005	an		X	
-d002.s032.t006	expression	expression	N	bn:00032395n
-d002.s032.t007	,		X	
-d002.s032.t008	the		X	
-d002.s032.t009	""""		X	
-d002.s032.t010	ans	ans	J	
-d002.s032.t011	""""		X	
-d002.s032.t012	variable	variable	N	bn:00079583n
-d002.s032.t013	value	value	N	bn:00079508n
-d002.s032.t014	will		X	
-d002.s032.t015	be	be	V	
-d002.s032.t016	changed	change	V	bn:00082553v
-d002.s032.t017	to		X	
-d002.s032.t018	the		X	
-d002.s032.t019	last	last	J	bn:00105739a
-d002.s032.t020	result	result	N	bn:00034520n
-d002.s032.t021	.		X	
-d002.s033.t001	Ctrl	ctrl	N	bn:00020947n
-d002.s033.t002	N	n	N	bn:00056688n
-d002.s033.t003	New	new	J	bn:00107267a
-d002.s033.t004	Window	window	N	bn:00081292n
-d002.s034.t001	Flushes	flush	V	
-d002.s034.t002	the		X	
-d002.s034.t003	log	log	N	bn:00051831n
-d002.s034.t004	.		X	
-d002.s035.t001	Ctrl	ctrl	N	bn:00020947n
-d002.s035.t002	L	l	N	bn:00049538n
-d002.s035.t003	Load	load	V	bn:00090416v
-d002.s035.t004	Script	script	N	
-d002.s036.t001	Executes	execute	V	bn:00082225v
-d002.s036.t002	the		X	
-d002.s036.t003	instructions	instruction	N	bn:00020945n
-d002.s036.t004	in		X	
-d002.s036.t005	a		X	
-d002.s036.t006	file	file	N	bn:00021475n
-d002.s036.t007	sequentially	sequentially	R	bn:00114819r
-d002.s036.t008	.		X	
-d002.s037.t001	Nice	nice	J	bn:00107292a
-d002.s037.t002	if		X	
-d002.s037.t003	you		X	
-d002.s037.t004	want	want	V	bn:00086682v
-d002.s037.t005	to		X	
-d002.s037.t006	define	define	V	bn:00086466v
-d002.s037.t007	some		X	
-d002.s037.t008	libraries	library	N	bn:00050969n
-d002.s037.t009	or		X	
-d002.s037.t010	resume	resume	V	bn:00092413v
-d002.s037.t011	some		X	
-d002.s037.t012	previous	previous	J	bn:00107791a
-d002.s037.t013	work	work	N	bn:00081568n
-d002.s037.t014	.		X	
+d002.s025.t001	{		X	
+d002.s025.t002	}		X	
+d002.s025.t003	:		X	
+d002.s025.t004	MathML	mathml	N	
+d002.s025.t005	container	container	N	bn:03305154n
+d002.s025.t006	.		X	
+d002.s026.t001	It		X	
+d002.s026.t002	can		X	
+d002.s026.t003	be	be	V	
+d002.s026.t004	used	use	V	bn:00082705v
+d002.s026.t005	to		X	
+d002.s026.t006	define	define	V	bn:00086466v
+d002.s026.t007	a		X	
+d002.s026.t008	container	container	N	bn:03305154n
+d002.s026.t009	.		X	
+d002.s027.t002	useful	useful	J	bn:00113455a
+d002.s027.t003	for		X	
+d002.s027.t004	working	work	V	bn:00095812v
+d002.s027.t005	with		X	
+d002.s027.t006	piecewise	piecewise	N	bn:03132721n
+d002.s027.t007	.		X	
+d002.s028.t001	Now	now	R	bn:00114424r
+d002.s028.t002	you		X	
+d002.s028.t003	could		X	
+d002.s028.t004	ask	ask	V	bn:00082821v
+d002.s028.t005	me	me	N	
+d002.s028.t006	,		X	
+d002.s028.t007	why		X	
+d002.s028.t008	should		X	
+d002.s028.t009	the		X	
+d002.s028.t010	user	user	N	bn:00079373n
+d002.s028.t011	mind	mind	N	
+d002.s028.t012	about		X	
+d002.s028.t013	MathML	mathml	N	
+d002.s028.t014	?		X	
+d002.s029.t001	That		X	
+d002.s029.t002	s	be	V	
+d002.s029.t003	easy	easy	J	bn:00101973a
+d002.s029.t004	.		X	
+d002.s029.t005	With		X	
+d002.s029.t006	this		X	
+d002.s029.t007	,		X	
+d002.s029.t008	we		X	
+d002.s029.t009	can		X	
+d002.s029.t010	operate	operate	V	bn:00085744v
+d002.s029.t011	with		X	
+d002.s029.t012	functions	function	N	bn:00036821n
+d002.s029.t013	like		X	
+d002.s029.t014	cos()	cos	N	bn:00022956n
+d002.s029.t015	,		X	
+d002.s029.t016	sin()	sin	N	bn:00071709n
+d002.s029.t017	,		X	
+d002.s029.t018	any		X	
+d002.s029.t019	other	other	J	bn:00108011a
+d002.s029.t020	trigonometric	trigonometric	J	bn:00112111a
+d002.s029.t021	functions	function	N	bn:00036821n
+d002.s029.t022	,		X	
+d002.s029.t023	sum()	sum	N	bn:00001296n
+d002.s029.t024	or		X	
+d002.s029.t025	product()	product	N	bn:00053827n
+d002.s029.t026	.		X	
+d002.s030.t001	It		X	
+d002.s030.t002	does	do	V	
+d002.s030.t003	not	not	R	bn:00116360r
+d002.s030.t004	matter	matter	V	bn:00085860v
+d002.s030.t005	what		X	
+d002.s030.t006	kind	kind	N	bn:00035907n
+d002.s030.t007	it		X	
+d002.s030.t008	is	be	V	
+d002.s030.t009	.		X	
+d002.s031.t001	We		X	
+d002.s031.t002	can		X	
+d002.s031.t003	use	use	V	bn:00082705v
+d002.s031.t004	plus()	plus	N	bn:00001296n
+d002.s031.t005	,		X	
+d002.s031.t006	times()	times	N	bn:00056300n
+d002.s031.t007	and		X	
+d002.s031.t008	everything	everything	N	
+d002.s031.t009	which		X	
+d002.s031.t010	has	have	V	bn:00088078v
+d002.s031.t011	its		X	
+d002.s031.t012	operator	operator	N	bn:00059141n
+d002.s031.t013	.		X	
+d002.s032.t001	kalgebra	kalgebra	N	bn:08534138n
+d002.s032.t002	s	be	V	
+d002.s032.t003	console	console	V	
+d002.s032.t004	is	be	V	
+d002.s032.t005	useful	useful	J	bn:00113455a
+d002.s032.t006	as		X	
+d002.s032.t007	a		X	
+d002.s032.t008	calculator	calculator	N	bn:00946167n
+d002.s032.t009	.		X	
+d002.s033.t001	There	there	R	bn:00114427r
+d002.s033.t002	you		X	
+d002.s033.t003	have	have	V	bn:00088078v
+d002.s033.t004	a		X	
+d002.s033.t005	list	list	N	bn:00051508n
+d002.s033.t006	of		X	
+d002.s033.t007	the		X	
+d002.s033.t008	declared	declare	V	
+d002.s033.t009	variables	variable	N	bn:00079583n
+d002.s033.t010	.		X	
+d002.s034.t001	By		X	
+d002.s034.t002	double	double	R	
+d002.s034.t003	clicking	click	V	
+d002.s034.t004	on		X	
+d002.s034.t005	them		X	
+d002.s034.t006	you		X	
+d002.s034.t007	will		X	
+d002.s034.t008	see	see	V	bn:00084662v
+d002.s034.t009	a		X	
+d002.s034.t010	dialog	dialog	N	
+d002.s034.t011	that		X	
+d002.s034.t012	lets	let	V	bn:00082536v
+d002.s034.t013	you		X	
+d002.s034.t014	change	change	V	bn:00082553v
+d002.s034.t015	their		X	
+d002.s034.t016	values	value	N	bn:00079508n
+d002.s034.t017	(		X	
+d002.s034.t018	just	just	R	bn:00114626r
+d002.s034.t019	a		X	
+d002.s034.t020	way	way	N	bn:00001965n
+d002.s034.t021	to		X	
+d002.s034.t022	trick	trick	V	bn:00088310v
+d002.s034.t023	the		X	
+d002.s034.t024	log	log	N	bn:00051831n
+d002.s034.t025	)		X	
+d002.s034.t026	.		X	
+d002.s035.t001	Every		X	
+d002.s035.t002	time	time	N	bn:00019848n
+d002.s035.t003	you		X	
+d002.s035.t004	enter	enter	V	bn:00087679v
+d002.s035.t005	an		X	
+d002.s035.t006	expression	expression	N	bn:00032395n
+d002.s035.t007	,		X	
+d002.s035.t008	the		X	
+d002.s035.t009	"		X	
+d002.s035.t010	ans	ans	J	
+d002.s035.t011	"		X	
+d002.s035.t012	variable	variable	N	bn:00079583n
+d002.s035.t013	value	value	N	bn:00079508n
+d002.s035.t014	will		X	
+d002.s035.t015	be	be	V	
+d002.s035.t016	changed	change	V	bn:00082553v
+d002.s035.t017	to		X	
+d002.s035.t018	the		X	
+d002.s035.t019	last	last	J	bn:00105739a
+d002.s035.t020	result	result	N	bn:00034520n
+d002.s035.t021	.		X	
+d002.s036.t001	Ctrl	ctrl	N	bn:00020947n
+d002.s036.t002	N	n	N	bn:00056688n
+d002.s036.t003	New	new	J	bn:00107267a
+d002.s036.t004	Window	window	N	bn:00081292n
+d002.s037.t001	Flushes	flush	V	
+d002.s037.t002	the		X	
+d002.s037.t003	log	log	N	bn:00051831n
+d002.s037.t004	.		X	
 d002.s038.t001	Ctrl	ctrl	N	bn:00020947n
-d002.s038.t002	G	g	N	bn:00036962n
-d002.s038.t003	Save	save	V	bn:00093281v
+d002.s038.t002	L	l	N	bn:00049538n
+d002.s038.t003	Load	load	V	bn:00090416v
 d002.s038.t004	Script	script	N	
-d002.s039.t001	Saves	save	V	bn:00093281v
+d002.s039.t001	Executes	execute	V	bn:00082225v
 d002.s039.t002	the		X	
 d002.s039.t003	instructions	instruction	N	bn:00020945n
-d002.s039.t004	you		X	
-d002.s039.t005	have	have	V	
-d002.s039.t006	typed	type	V	bn:00095295v
-d002.s039.t007	since		X	
-d002.s039.t008	the		X	
-d002.s039.t009	session	session	N	bn:03751534n
-d002.s039.t010	began	begin	V	bn:00083344v
-d002.s039.t011	to		X	
-d002.s039.t012	be	be	V	
-d002.s039.t013	able	able	J	bn:00096151a
-d002.s039.t014	to		X	
-d002.s039.t015	reuse	reuse	V	bn:00092558v
-d002.s039.t016	.		X	
-d002.s040.t001	Generates	generate	V	bn:00084080v
-d002.s040.t002	text	text	N	bn:00028018n
-d002.s040.t003	files	file	N	bn:00021475n
-d002.s040.t004	so		X	
-d002.s040.t005	it		X	
-d002.s040.t006	should		X	
-d002.s040.t007	be	be	V	
-d002.s040.t008	easy	easy	J	bn:00101973a
-d002.s040.t009	to		X	
-d002.s040.t010	fix	fix	V	bn:00084308v
-d002.s040.t011	using	use	V	bn:00082705v
-d002.s040.t012	any		X	
-d002.s040.t013	text	text	N	bn:00076736n
-d002.s040.t014	editor	editor	N	bn:00029775n
-d002.s040.t015	,		X	
-d002.s040.t016	like		X	
-d002.s040.t017	Kate	kate	N	bn:03628723n
-d002.s040.t018	.		X	
+d002.s039.t004	in		X	
+d002.s039.t005	a		X	
+d002.s039.t006	file	file	N	bn:00021475n
+d002.s039.t007	sequentially	sequentially	R	bn:00114819r
+d002.s039.t008	.		X	
+d002.s040.t001	Nice	nice	J	bn:00107292a
+d002.s040.t002	if		X	
+d002.s040.t003	you		X	
+d002.s040.t004	want	want	V	bn:00086682v
+d002.s040.t005	to		X	
+d002.s040.t006	define	define	V	bn:00086466v
+d002.s040.t007	some		X	
+d002.s040.t008	libraries	library	N	bn:00050969n
+d002.s040.t009	or		X	
+d002.s040.t010	resume	resume	V	bn:00092413v
+d002.s040.t011	some		X	
+d002.s040.t012	previous	previous	J	bn:00107791a
+d002.s040.t013	work	work	N	bn:00081568n
+d002.s040.t014	.		X	
 d002.s041.t001	Ctrl	ctrl	N	bn:00020947n
-d002.s041.t002	S	s	N	bn:00068673n
+d002.s041.t002	G	g	N	bn:00036962n
 d002.s041.t003	Save	save	V	bn:00093281v
-d002.s041.t004	Log	log	N	bn:00051831n
+d002.s041.t004	Script	script	N	
 d002.s042.t001	Saves	save	V	bn:00093281v
 d002.s042.t002	the		X	
-d002.s042.t003	log	log	N	bn:00051831n
-d002.s042.t004	with		X	
-d002.s042.t005	all		X	
-d002.s042.t006	results	result	N	bn:00034520n
-d002.s042.t007	into		X	
-d002.s042.t008	an		X	
-d002.s042.t009	HTML	html	N	bn:00045087n
-d002.s042.t010	file	file	V	
+d002.s042.t003	instructions	instruction	N	bn:00020945n
+d002.s042.t004	you		X	
+d002.s042.t005	have	have	V	
+d002.s042.t006	typed	type	V	bn:00095295v
+d002.s042.t007	since		X	
+d002.s042.t008	the		X	
+d002.s042.t009	session	session	N	bn:03751534n
+d002.s042.t010	began	begin	V	bn:00083344v
 d002.s042.t011	to		X	
 d002.s042.t012	be	be	V	
 d002.s042.t013	able	able	J	bn:00096151a
 d002.s042.t014	to		X	
-d002.s042.t015	print	print	V	bn:00089639v
-d002.s042.t016	or		X	
-d002.s042.t017	publish	publish	V	bn:00084099v
-d002.s042.t018	.		X	
-d002.s043.t001	Ctrl	ctrl	N	bn:00020947n
-d002.s043.t002	Q	q	N	bn:00065472n
-d002.s043.t003	Quit	quit	V	bn:00084710v
-d002.s044.t001	Shuts	shut	V	
-d002.s044.t002	the		X	
-d002.s044.t003	program	program	N	bn:00021492n
-d002.s044.t004	down	down	R	bn:00115114r
-d002.s044.t005	.		X	
-d002.s045.t001	To		X	
-d002.s045.t002	add	add	V	bn:00082317v
-d002.s045.t003	a		X	
-d002.s045.t004	new	new	J	bn:00107267a
-d002.s045.t005	2D	2d	N	
-d002.s045.t006	graph	graph	N	bn:00041412n
-d002.s045.t007	on		X	
-d002.s045.t008	kalgebra	kalgebra	N	bn:08534138n
-d002.s045.t009	,		X	
-d002.s045.t010	what		X	
-d002.s045.t011	you		X	
-d002.s045.t012	have	have	V	
-d002.s045.t013	to		X	
-d002.s045.t014	do	do	V	bn:00087107v
-d002.s045.t015	is	be	V	
-d002.s045.t016	to		X	
-d002.s045.t017	go	go	V	bn:00088912v
-d002.s045.t018	to		X	
-d002.s045.t019	the		X	
-d002.s045.t020	2D	2d	N	
-d002.s045.t021	Graph	graph	N	bn:00041412n
-d002.s045.t022	tab	tab	N	bn:00120018n
-d002.s045.t023	and		X	
-d002.s045.t024	click	click	N	
-d002.s045.t025	in		X	
-d002.s045.t026	the		X	
-d002.s045.t027	Add	add	V	bn:00082317v
-d002.s045.t028	tab	tab	N	bn:00120018n
-d002.s045.t029	to		X	
-d002.s045.t030	add	add	V	bn:00082317v
-d002.s045.t031	the		X	
-d002.s045.t032	new	new	J	bn:00107267a
-d002.s045.t033	function	function	N	bn:00036821n
-d002.s045.t034	.		X	
-d002.s046.t001	Then	then	R	bn:00114281r
-d002.s046.t002	your		X	
-d002.s046.t003	focus	focus	N	bn:00007023n
-d002.s046.t004	will		X	
-d002.s046.t005	go	go	V	bn:00088921v
-d002.s046.t006	to		X	
-d002.s046.t007	an		X	
-d002.s046.t008	input	input	N	bn:00046850n
-d002.s046.t009	text	text	N	bn:03113401n
-d002.s046.t010	box	box	N	bn:00012528n
-d002.s046.t011	where		X	
-d002.s046.t012	you		X	
-d002.s046.t013	can		X	
-d002.s046.t014	type	type	V	bn:00095295v
-d002.s046.t015	your		X	
-d002.s046.t016	function	function	N	bn:00036821n
-d002.s046.t017	.		X	
-d002.s047.t001	If		X	
-d002.s047.t002	you		X	
-d002.s047.t003	want	want	V	bn:00086682v
-d002.s047.t004	to		X	
-d002.s047.t005	use	use	V	bn:00082705v
-d002.s047.t006	a		X	
-d002.s047.t007	typical	typical	J	bn:00112217a
-d002.s047.t008	f(x)	f(x)	N	bn:00036821n
-d002.s047.t009	function	function	V	
-d002.s047.t010	it		X	
-d002.s047.t011	is	be	V	
-d002.s047.t012	not	not	R	bn:00116360r
-d002.s047.t013	necessary	necessary	J	bn:00107182a
-d002.s047.t014	to		X	
-d002.s047.t015	specify	specify	V	bn:00086468v
-d002.s047.t016	it		X	
-d002.s047.t017	.		X	
-d002.s048.t001	If		X	
-d002.s048.t002	you		X	
-d002.s048.t003	have	have	V	
-d002.s048.t004	entered	enter	V	bn:00087679v
-d002.s048.t005	the		X	
-d002.s048.t006	function	function	N	bn:00036821n
-d002.s048.t007	click	click	N	
-d002.s048.t008	on		X	
-d002.s048.t009	the		X	
-d002.s048.t010	OK	ok	J	bn:00096817a
-d002.s048.t011	button	button	N	bn:03843242n
-d002.s048.t012	to		X	
-d002.s048.t013	display	display	V	bn:00087013v
-d002.s048.t014	the		X	
-d002.s048.t015	graph	graph	N	bn:00041412n
-d002.s048.t016	in		X	
-d002.s048.t017	the		X	
-d002.s048.t018	main	main	J	bn:00099598a
-d002.s048.t019	window	window	N	bn:00081292n
-d002.s048.t020	.		X	
-d002.s049.t001	You		X	
-d002.s049.t002	can		X	
-d002.s049.t003	set	set	V	bn:00090224v
-d002.s049.t004	several	several	J	bn:00110469a
-d002.s049.t005	graphs	graph	N	bn:00041412n
-d002.s049.t006	on		X	
-d002.s049.t007	the		X	
-d002.s049.t008	same	same	J	bn:00110075a
-d002.s049.t009	view	view	N	bn:00079985n
-d002.s049.t010	.		X	
-d002.s050.t001	Just	just	R	bn:00114626r
-d002.s050.t002	use	use	V	bn:00082705v
-d002.s050.t003	the		X	
-d002.s050.t004	Add	add	V	bn:00082317v
-d002.s050.t005	button	button	N	bn:03843242n
-d002.s050.t006	when		X	
-d002.s050.t007	you		X	
-d002.s050.t008	are	be	V	
-d002.s050.t009	in		X	
-d002.s050.t010	List	list	N	bn:00051508n
-d002.s050.t011	mode	mode	N	bn:00055444n
-d002.s050.t012	.		X	
-d002.s051.t001	You		X	
-d002.s051.t002	can		X	
-d002.s051.t003	set	set	V	bn:00090224v
-d002.s051.t004	each		X	
-d002.s051.t005	graph	graph	N	bn:00041412n
-d002.s051.t006	its		X	
-d002.s051.t007	own	own	J	
-d002.s051.t008	color	color	N	bn:00020726n
-d002.s051.t009	.		X	
-d003.s001.t001	The		X	
-d003.s001.t002	Foundation	foundation	N	bn:00036064n
-d003.s001.t003	has	have	V	
-d003.s001.t004	recently	recently	R	bn:00116085r
-d003.s001.t005	been	be	V	
-d003.s001.t006	involved	involve	V	bn:00089893v
-d003.s001.t007	in		X	
-d003.s001.t008	organising	organise	V	bn:00091196v
-d003.s001.t009	a		X	
-d003.s001.t010	conference	conference	N	bn:00021721n
-d003.s001.t011	which		X	
-d003.s001.t012	dealt	deal	V	bn:00084527v
-d003.s001.t013	with		X	
-d003.s001.t014	this		X	
-d003.s001.t015	critical	critical	J	bn:00100676a
-d003.s001.t016	challenge	challenge	N	bn:00017557n
-d003.s001.t017	.		X	
-d003.s002.t001	Over		X	
-d003.s002.t002	100		X	
-d003.s002.t003	participants	participant	N	bn:00060798n
-d003.s002.t004	from		X	
-d003.s002.t005	the		X	
-d003.s002.t006	main	main	J	bn:00099598a
-d003.s002.t007	interest	interest	N	bn:00047082n
-d003.s002.t008	groups	group	N	bn:00072536n
-d003.s002.t009	attended	attend	V	bn:00082907v
-d003.s002.t010	and		X	
-d003.s002.t011	debated	debate	V	bn:00086341v
-d003.s002.t012	issues	issue	N	bn:00047688n
-d003.s002.t013	such	such	R	bn:00115147r
-d003.s002.t014	as	as	R	
-d003.s002.t015	the		X	
-d003.s002.t016	role	role	N	bn:00036823n
-d003.s002.t017	of		X	
-d003.s002.t018	key	key	J	bn:00099258a
-d003.s002.t019	actors	actor	N	bn:00001177n
-d003.s002.t020	including	include	V	bn:00089660v
-d003.s002.t021	public	public	J	bn:02575022n
-d003.s002.t022	authorities	authority	N	bn:00001961n
-d003.s002.t023	,		X	
-d003.s002.t024	social	social	J	bn:01623772n
-d003.s002.t025	partners	partner	N	
-d003.s002.t026	,		X	
-d003.s002.t027	voluntary	voluntary	J	bn:00113672a
-d003.s002.t028	and		X	
-d003.s002.t029	community	community	N	bn:03240655n
-d003.s002.t030	organisations	organisation	N	bn:00001423n
-d003.s002.t031	as	as	R	bn:00114246r
-d003.s002.t032	well	well	R	
-d003.s002.t033	as		X	
-d003.s002.t034	service	service	N	bn:00070651n
-d003.s002.t035	users	user	N	bn:00079373n
-d003.s002.t036	.		X	
-d003.s003.t001	Note	note	N	bn:00058145n
-d003.s003.t002	was	be	V	
-d003.s003.t003	also	also	R	bn:00114246r
-d003.s003.t004	taken	take	V	
-d003.s003.t005	of		X	
-d003.s003.t006	the		X	
-d003.s003.t007	variety	variety	N	bn:00027862n
-d003.s003.t008	of		X	
-d003.s003.t009	different	different	J	bn:00101350a
-d003.s003.t010	roles	role	N	bn:00036823n
-d003.s003.t011	played	play	V	bn:00091709v
-d003.s003.t012	by		X	
-d003.s003.t013	public	public	J	bn:00065083n
-d003.s003.t014	welfare	welfare	N	bn:00009905n
-d003.s004.t001	The		X	
-d003.s004.t002	Foundation	foundation	N	bn:00036064n
-d003.s004.t003	organised	organise	N	
-d003.s004.t004	,		X	
-d003.s004.t005	together	together	R	bn:00115794r
-d003.s004.t006	with		X	
-d003.s004.t007	the		X	
-d003.s004.t008	European	european	J	bn:03895618n
-d003.s004.t009	Commission	commission	N	bn:00021015n
-d003.s004.t010	,		X	
-d003.s004.t011	the		X	
-d003.s004.t012	Spanish	spanish	J	bn:00110978a
-d003.s004.t013	Ministry	ministry	N	bn:00055180n
-d003.s004.t014	of		X	
-d003.s004.t015	Social	social	J	bn:00110842a
-d003.s004.t016	Affairs	affairs	N	bn:00001739n
-d003.s004.t017	and		X	
-d003.s004.t018	the		X	
-d003.s004.t019	Galician	galician	J	
-d003.s004.t020	regional	regional	J	bn:00001430n
-d003.s004.t021	government	government	N	bn:00007299n
-d003.s004.t022	,		X	
-d003.s004.t023	a		X	
-d003.s004.t024	European	european	J	bn:00102440a
-d003.s004.t025	conference	conference	N	bn:00021721n
-d003.s004.t026	on		X	
-d003.s004.t027	social	social	J	bn:00053403n
-d003.s004.t028	exclusion	exclusion	N	bn:00032152n
-d003.s004.t029	:		X	
-d003.s004.t030	a		X	
-d003.s004.t031	major	major	J	bn:00106332a
-d003.s004.t032	challenge	challenge	N	bn:00017557n
-d003.s004.t033	for		X	
-d003.s004.t034	public	public	J	bn:00065083n
-d003.s004.t035	welfare	welfare	N	bn:00009905n
-d003.s004.t036	services	service	N	bn:00070651n
-d003.s004.t037	.		X	
-d003.s005.t001	The		X	
-d003.s005.t002	Foundation	foundation	N	bn:00036064n
-d003.s005.t003	recently	recently	R	bn:00116085r
-d003.s005.t004	published	publish	V	bn:00084099v
-d003.s005.t005	a		X	
-d003.s005.t006	comparative	comparative	J	bn:00100121a
-d003.s005.t007	study	study	N	bn:00067181n
-d003.s005.t008	as		X	
-d003.s005.t009	part	part	N	bn:00027912n
-d003.s005.t010	of		X	
-d003.s005.t011	the		X	
-d003.s005.t012	EPOC	epoc	N	
-d003.s005.t013	project	project	N	bn:00064665n
-d003.s005.t014	which		X	
-d003.s005.t015	assesses	assess	V	bn:00082720v
-d003.s005.t016	the		X	
-d003.s005.t017	extent	extent	N	bn:00032425n
-d003.s005.t018	to		X	
-d003.s005.t019	which		X	
-d003.s005.t020	direct	direct	J	bn:00101412a
-d003.s005.t021	participation	participation	N	bn:00030844n
-d003.s005.t022	can		X	
-d003.s005.t023	humanise	humanise	V	bn:00089511v
-d003.s005.t024	work	work	N	bn:00014138n
-d003.s005.t025	while		X	
-d003.s005.t026	increasing	increase	V	bn:00089667v
-d003.s005.t027	profitability	profitability	N	bn:00037027n
-d003.s005.t028	.		X	
+d002.s042.t015	reuse	reuse	V	bn:00092558v
+d002.s042.t016	.		X	
+d002.s043.t001	Generates	generate	V	bn:00084080v
+d002.s043.t002	text	text	N	bn:00028018n
+d002.s043.t003	files	file	N	bn:00021475n
+d002.s043.t004	so		X	
+d002.s043.t005	it		X	
+d002.s043.t006	should		X	
+d002.s043.t007	be	be	V	
+d002.s043.t008	easy	easy	J	bn:00101973a
+d002.s043.t009	to		X	
+d002.s043.t010	fix	fix	V	bn:00084308v
+d002.s043.t011	using	use	V	bn:00082705v
+d002.s043.t012	any		X	
+d002.s043.t013	text	text	N	bn:00076736n
+d002.s043.t014	editor	editor	N	bn:00029775n
+d002.s043.t015	,		X	
+d002.s043.t016	like		X	
+d002.s043.t017	Kate	kate	N	bn:03628723n
+d002.s043.t018	.		X	
+d002.s044.t001	Ctrl	ctrl	N	bn:00020947n
+d002.s044.t002	S	s	N	bn:00068673n
+d002.s044.t003	Save	save	V	bn:00093281v
+d002.s044.t004	Log	log	N	bn:00051831n
+d002.s045.t001	Saves	save	V	bn:00093281v
+d002.s045.t002	the		X	
+d002.s045.t003	log	log	N	bn:00051831n
+d002.s045.t004	with		X	
+d002.s045.t005	all		X	
+d002.s045.t006	results	result	N	bn:00034520n
+d002.s045.t007	into		X	
+d002.s045.t008	an		X	
+d002.s045.t009	HTML	html	N	bn:00045087n
+d002.s045.t010	file	file	V	
+d002.s045.t011	to		X	
+d002.s045.t012	be	be	V	
+d002.s045.t013	able	able	J	bn:00096151a
+d002.s045.t014	to		X	
+d002.s045.t015	print	print	V	bn:00089639v
+d002.s045.t016	or		X	
+d002.s045.t017	publish	publish	V	bn:00084099v
+d002.s045.t018	.		X	
+d002.s046.t001	Ctrl	ctrl	N	bn:00020947n
+d002.s046.t002	Q	q	N	bn:00065472n
+d002.s046.t003	Quit	quit	V	bn:00084710v
+d002.s047.t001	Shuts	shut	V	
+d002.s047.t002	the		X	
+d002.s047.t003	program	program	N	bn:00021492n
+d002.s047.t004	down	down	R	bn:00115114r
+d002.s047.t005	.		X	
+d002.s048.t001	To		X	
+d002.s048.t002	add	add	V	bn:00082317v
+d002.s048.t003	a		X	
+d002.s048.t004	new	new	J	bn:00107267a
+d002.s048.t005	2D	2d	N	
+d002.s048.t006	graph	graph	N	bn:00041412n
+d002.s048.t007	on		X	
+d002.s048.t008	kalgebra	kalgebra	N	bn:08534138n
+d002.s048.t009	,		X	
+d002.s048.t010	what		X	
+d002.s048.t011	you		X	
+d002.s048.t012	have	have	V	
+d002.s048.t013	to		X	
+d002.s048.t014	do	do	V	bn:00087107v
+d002.s048.t015	is	be	V	
+d002.s048.t016	to		X	
+d002.s048.t017	go	go	V	bn:00088912v
+d002.s048.t018	to		X	
+d002.s048.t019	the		X	
+d002.s048.t020	2D	2d	N	
+d002.s048.t021	Graph	graph	N	bn:00041412n
+d002.s048.t022	tab	tab	N	bn:00120018n
+d002.s048.t023	and		X	
+d002.s048.t024	click	click	N	
+d002.s048.t025	in		X	
+d002.s048.t026	the		X	
+d002.s048.t027	Add	add	V	bn:00082317v
+d002.s048.t028	tab	tab	N	bn:00120018n
+d002.s048.t029	to		X	
+d002.s048.t030	add	add	V	bn:00082317v
+d002.s048.t031	the		X	
+d002.s048.t032	new	new	J	bn:00107267a
+d002.s048.t033	function	function	N	bn:00036821n
+d002.s048.t034	.		X	
+d002.s049.t001	Then	then	R	bn:00114281r
+d002.s049.t002	your		X	
+d002.s049.t003	focus	focus	N	bn:00007023n
+d002.s049.t004	will		X	
+d002.s049.t005	go	go	V	bn:00088921v
+d002.s049.t006	to		X	
+d002.s049.t007	an		X	
+d002.s049.t008	input	input	N	bn:00046850n
+d002.s049.t009	text	text	N	bn:03113401n
+d002.s049.t010	box	box	N	bn:00012528n
+d002.s049.t011	where		X	
+d002.s049.t012	you		X	
+d002.s049.t013	can		X	
+d002.s049.t014	type	type	V	bn:00095295v
+d002.s049.t015	your		X	
+d002.s049.t016	function	function	N	bn:00036821n
+d002.s049.t017	.		X	
+d002.s050.t001	If		X	
+d002.s050.t002	you		X	
+d002.s050.t003	want	want	V	bn:00086682v
+d002.s050.t004	to		X	
+d002.s050.t005	use	use	V	bn:00082705v
+d002.s050.t006	a		X	
+d002.s050.t007	typical	typical	J	bn:00112217a
+d002.s050.t008	f(x)	f(x)	N	bn:00036821n
+d002.s050.t009	function	function	V	
+d002.s050.t010	it		X	
+d002.s050.t011	is	be	V	
+d002.s050.t012	not	not	R	bn:00116360r
+d002.s050.t013	necessary	necessary	J	bn:00107182a
+d002.s050.t014	to		X	
+d002.s050.t015	specify	specify	V	bn:00086468v
+d002.s050.t016	it		X	
+d002.s050.t017	.		X	
+d002.s051.t001	If		X	
+d002.s051.t002	you		X	
+d002.s051.t003	have	have	V	
+d002.s051.t004	entered	enter	V	bn:00087679v
+d002.s051.t005	the		X	
+d002.s051.t006	function	function	N	bn:00036821n
+d002.s051.t007	click	click	N	
+d002.s051.t008	on		X	
+d002.s051.t009	the		X	
+d002.s051.t010	OK	ok	J	bn:00096817a
+d002.s051.t011	button	button	N	bn:03843242n
+d002.s051.t012	to		X	
+d002.s051.t013	display	display	V	bn:00087013v
+d002.s051.t014	the		X	
+d002.s051.t015	graph	graph	N	bn:00041412n
+d002.s051.t016	in		X	
+d002.s051.t017	the		X	
+d002.s051.t018	main	main	J	bn:00099598a
+d002.s051.t019	window	window	N	bn:00081292n
+d002.s051.t020	.		X	
+d002.s052.t001	You		X	
+d002.s052.t002	can		X	
+d002.s052.t003	set	set	V	bn:00090224v
+d002.s052.t004	several	several	J	bn:00110469a
+d002.s052.t005	graphs	graph	N	bn:00041412n
+d002.s052.t006	on		X	
+d002.s052.t007	the		X	
+d002.s052.t008	same	same	J	bn:00110075a
+d002.s052.t009	view	view	N	bn:00079985n
+d002.s052.t010	.		X	
+d002.s053.t001	Just	just	R	bn:00114626r
+d002.s053.t002	use	use	V	bn:00082705v
+d002.s053.t003	the		X	
+d002.s053.t004	Add	add	V	bn:00082317v
+d002.s053.t005	button	button	N	bn:03843242n
+d002.s053.t006	when		X	
+d002.s053.t007	you		X	
+d002.s053.t008	are	be	V	
+d002.s053.t009	in		X	
+d002.s053.t010	List	list	N	bn:00051508n
+d002.s053.t011	mode	mode	N	bn:00055444n
+d002.s053.t012	.		X	
+d002.s054.t001	You		X	
+d002.s054.t002	can		X	
+d002.s054.t003	set	set	V	bn:00090224v
+d002.s054.t004	each		X	
+d002.s054.t005	graph	graph	N	bn:00041412n
+d002.s054.t006	its		X	
+d002.s054.t007	own	own	J	
+d002.s054.t008	color	color	N	bn:00020726n
+d002.s054.t009	.		X	
+d003.s002.t001	The		X	
+d003.s002.t002	Foundation	foundation	N	bn:00036064n
+d003.s002.t003	has	have	V	
+d003.s002.t004	recently	recently	R	bn:00116085r
+d003.s002.t005	been	be	V	
+d003.s002.t006	involved	involve	V	bn:00089893v
+d003.s002.t007	in		X	
+d003.s002.t008	organising	organise	V	bn:00091196v
+d003.s002.t009	a		X	
+d003.s002.t010	conference	conference	N	bn:00021721n
+d003.s002.t011	which		X	
+d003.s002.t012	dealt	deal	V	bn:00084527v
+d003.s002.t013	with		X	
+d003.s002.t014	this		X	
+d003.s002.t015	critical	critical	J	bn:00100676a
+d003.s002.t016	challenge	challenge	N	bn:00017557n
+d003.s002.t017	.		X	
+d003.s003.t001	Over		X	
+d003.s003.t002	100		X	
+d003.s003.t003	participants	participant	N	bn:00060798n
+d003.s003.t004	from		X	
+d003.s003.t005	the		X	
+d003.s003.t006	main	main	J	bn:00099598a
+d003.s003.t007	interest	interest	N	bn:00047082n
+d003.s003.t008	groups	group	N	bn:00072536n
+d003.s003.t009	attended	attend	V	bn:00082907v
+d003.s003.t010	and		X	
+d003.s003.t011	debated	debate	V	bn:00086341v
+d003.s003.t012	issues	issue	N	bn:00047688n
+d003.s003.t013	such	such	R	bn:00115147r
+d003.s003.t014	as	as	R	
+d003.s003.t015	the		X	
+d003.s003.t016	role	role	N	bn:00036823n
+d003.s003.t017	of		X	
+d003.s003.t018	key	key	J	bn:00099258a
+d003.s003.t019	actors	actor	N	bn:00001177n
+d003.s003.t020	including	include	V	bn:00089660v
+d003.s003.t021	public	public	J	bn:02575022n
+d003.s003.t022	authorities	authority	N	bn:00001961n
+d003.s003.t023	,		X	
+d003.s003.t024	social	social	J	bn:01623772n
+d003.s003.t025	partners	partner	N	
+d003.s003.t026	,		X	
+d003.s003.t027	voluntary	voluntary	J	bn:00113672a
+d003.s003.t028	and		X	
+d003.s003.t029	community	community	N	bn:03240655n
+d003.s003.t030	organisations	organisation	N	bn:00001423n
+d003.s003.t031	as	as	R	bn:00114246r
+d003.s003.t032	well	well	R	
+d003.s003.t033	as		X	
+d003.s003.t034	service	service	N	bn:00070651n
+d003.s003.t035	users	user	N	bn:00079373n
+d003.s003.t036	.		X	
+d003.s004.t001	There		X	
+d003.s004.t002	were	be	V	
+d003.s004.t003	relatively	relatively	R	bn:00114784r
+d003.s004.t004	few	few	J	bn:00102920a
+d003.s004.t005	cases	case	N	bn:00016401n
+d003.s004.t006	reported	report	V	bn:00092825v
+d003.s004.t007	of		X	
+d003.s004.t008	attempts	attempt	N	bn:00007011n
+d003.s004.t009	to		X	
+d003.s004.t010	involve	involve	V	bn:00089893v
+d003.s004.t011	users	user	N	bn:00079373n
+d003.s004.t012	in		X	
+d003.s004.t013	service	service	N	bn:00070651n
+d003.s004.t014	planning	planning	N	bn:00062794n
+d003.s004.t015	but		X	
+d003.s004.t016	their		X	
+d003.s004.t017	involvement	involvement	N	bn:00030844n
+d003.s004.t018	in		X	
+d003.s004.t019	service	service	N	bn:00070651n
+d003.s004.t020	provision	provision	N	bn:00064922n
+d003.s004.t021	was	be	V	
+d003.s004.t022	found	find	V	bn:00082811v
+d003.s004.t023	to		X	
+d003.s004.t024	be	be	V	
+d003.s004.t025	more	more	R	bn:00116284r
+d003.s004.t026	common	common	J	bn:00100093a
+d003.s004.t027	.		X	
+d003.s005.t001	Note	note	N	bn:00058145n
+d003.s005.t002	was	be	V	
+d003.s005.t003	also	also	R	bn:00114246r
+d003.s005.t004	taken	take	V	
+d003.s005.t005	of		X	
+d003.s005.t006	the		X	
+d003.s005.t007	variety	variety	N	bn:00027862n
+d003.s005.t008	of		X	
+d003.s005.t009	different	different	J	bn:00101350a
+d003.s005.t010	roles	role	N	bn:00036823n
+d003.s005.t011	played	play	V	bn:00091709v
+d003.s005.t012	by		X	
+d003.s005.t013	public	public	J	bn:00065083n
+d003.s005.t014	welfare	welfare	N	bn:00009905n
 d003.s006.t001	The		X	
-d003.s006.t002	study	study	N	bn:00074790n
-d003.s006.t003	is	be	V	
-d003.s006.t004	based	base	V	bn:00083141v
-d003.s006.t005	on		X	
-d003.s006.t006	195		X	
-d003.s006.t007	personal	personal	J	bn:00108489a
-d003.s006.t008	interviews	interview	N	bn:00047238n
-d003.s006.t009	with		X	
-d003.s006.t010	senior	senior	J	bn:00110401a
-d003.s006.t011	officials	official	N	bn:00036837n
-d003.s006.t012	of		X	
-d003.s006.t013	the		X	
-d003.s006.t014	social	social	J	bn:00110842a
-d003.s006.t015	partners	partner	N	
-d003.s006.t016	as		X	
-d003.s006.t017	representatives	representative	N	bn:00047203n
-d003.s006.t018	of		X	
-d003.s006.t019	national	national	J	bn:00107136a
-d003.s006.t020	level	level	N	bn:00041239n
-d003.s006.t021	peak	peak	N	
-d003.s006.t022	organisations	organisation	N	bn:00001423n
-d003.s006.t023	in		X	
-d003.s006.t024	fifteen	fifteen	J	bn:00095923a
-d003.s006.t025	European	european	J	bn:00102440a
-d003.s006.t026	countries	country	N	bn:00011771n
-d003.s006.t027	.		X	
-d003.s007.t001	As		X	
-d003.s007.t002	important	important	J	bn:00104680a
-d003.s007.t003	industrial	industrial	J	bn:00046576n
-d003.s007.t004	sectors	sector	N	bn:00070206n
-d003.s007.t005	,		X	
-d003.s007.t006	the		X	
-d003.s007.t007	metal	metal	N	bn:00054567n
-d003.s007.t008	industry	industry	N	bn:00046575n
-d003.s007.t009	and		X	
-d003.s007.t010	the		X	
-d003.s007.t011	banking	banking	N	bn:00008412n
-d003.s007.t012	sector	sector	N	bn:00070206n
-d003.s007.t013	were	be	V	
-d003.s007.t014	also	also	R	bn:00114246r
-d003.s007.t015	included	include	V	bn:00089660v
-d003.s007.t016	.		X	
-d003.s008.t001	Key	key	N	
-d003.s008.t002	speakers	speaker	N	bn:00073170n
-d003.s008.t003	at		X	
-d003.s008.t004	the		X	
-d003.s008.t005	social	social	J	bn:00053403n
-d003.s008.t006	exclusion	exclusion	N	bn:00032152n
-d003.s008.t007	conference	conference	N	bn:00021721n
-d003.s008.t008	were	be	V	
-d003.s008.t009	(		X	
-d003.s008.t010	left	left	N	bn:00050521n
-d003.s008.t011	to		X	
-d003.s008.t012	right	right	N	bn:00067808n
-d003.s008.t013	)		X	
-d003.s008.t014	Cristina	cristina	N	
-d003.s008.t015	Louro	louro	N	
-d003.s008.t016	,		X	
-d003.s008.t017	Employment	employment	N	bn:00030625n
-d003.s008.t018	,		X	
-d003.s008.t019	Industrial	industrial	J	bn:01869079n
-d003.s008.t020	Relations	relations	N	bn:00025569n
-d003.s008.t021	and		X	
-d003.s008.t022	Social	social	J	bn:00072552n
-d003.s008.t023	Affairs	affair	N	bn:00001738n
-d003.s008.t024	Directorate	directorate	N	bn:00011651n
-d003.s008.t025	,		X	
-d003.s008.t026	European	european	J	bn:03895618n
-d003.s008.t027	Commission	commission	N	bn:00021015n
-d003.s008.t028	Fernando	fernando	N	
-d003.s008.t029	Gomes	gomes	N	
-d003.s008.t030	,		X	
-d003.s008.t031	a		X	
-d003.s008.t032	high	high	J	bn:00102158a
-d003.s008.t033	degree	degree	N	
-d003.s008.t034	of		X	
-d003.s008.t035	Committee	committee	N	bn:00893206n
-d003.s008.t036	of		X	
-d003.s008.t037	the		X	
-d003.s008.t038	Regions	region	N	bn:03359468n
-d003.s008.t039	Barbara	barbara	N	bn:01019664n
-d003.s008.t040	Weiler	weiler	N	
-d003.s008.t041	,		X	
-d003.s008.t042	Member	member	N	bn:01941871n
-d003.s008.t043	of		X	
-d003.s008.t044	the		X	
-d003.s008.t045	European	european	J	bn:03855948n
-d003.s008.t046	Parliament	parliament	N	bn:00060708n
-d003.s008.t047	José	josé	N	bn:03742029n
-d003.s008.t048	Maria	Maria	N	
-d003.s008.t049	Gil-Robles	gil-robles	N	
-d003.s008.t050	,		X	
-d003.s008.t051	Vice-President	vice-president	N	bn:00079435n
-d003.s008.t052	,		X	
-d003.s008.t053	European	european	J	bn:03855948n
-d003.s008.t054	Parliament	parliament	N	bn:00060708n
-d003.s008.t055	and	and	N	
-d003.s008.t056	John	john	N	
-d003.s008.t057	Carroll	carroll	N	
-d003.s008.t058	,		X	
-d003.s008.t059	Economic	economic	J	bn:00893211n
-d003.s008.t060	and		X	
-d003.s008.t061	Social	social	J	bn:00110842a
-d003.s008.t062	Committee	committee	N	bn:00021015n
-d003.s008.t063	.		X	
-d003.s009.t001	Case	case	N	bn:00016433n
-d003.s009.t002	Studies	study	N	bn:00074790n
-d003.s009.t003	Each		X	
-d003.s009.t004	national	national	J	bn:00107136a
-d003.s009.t005	report	report	N	bn:00067181n
-d003.s009.t006	contains	contain	V	bn:00085499v
-d003.s009.t007	a		X	
-d003.s009.t008	portfolio	portfolio	N	bn:00063673n
-d003.s009.t009	of		X	
-d003.s009.t010	between		X	
-d003.s009.t011	25		X	
-d003.s009.t012	and		X	
-d003.s009.t013	30		X	
-d003.s009.t014	initiatives	initiative	N	bn:00034797n
-d003.s009.t015	which		X	
-d003.s009.t016	best	good	J	
-d003.s009.t017	present	present	V	bn:00090234v
-d003.s009.t018	policies	policy	N	bn:00063329n
-d003.s009.t019	and		X	
-d003.s009.t020	practices	practice	N	bn:00061054n
-d003.s009.t021	to		X	
-d003.s009.t022	improve	improve	V	bn:00082573v
-d003.s009.t023	the		X	
-d003.s009.t024	recruitment	recruitment	N	bn:00030933n
-d003.s009.t025	,		X	
-d003.s009.t026	training	training	N	bn:01253664n
-d003.s009.t027	and		X	
-d003.s009.t028	development	development	N	bn:00026695n
-d003.s009.t029	of		X	
-d003.s009.t030	ageing	age	V	bn:00082449v
-d003.s009.t031	workers	worker	N	bn:00081593n
-d003.s009.t032	in		X	
-d003.s009.t033	both		X	
-d003.s009.t034	the		X	
-d003.s009.t035	work	work	N	bn:00014138n
-d003.s009.t036	place	place	N	bn:00051760n
-d003.s009.t037	and		X	
-d003.s009.t038	the		X	
-d003.s009.t039	community	community	N	bn:00021248n
-d003.s009.t040	.		X	
-d003.s010.t001	For		X	
-d003.s010.t002	each		X	
-d003.s010.t003	country	country	N	bn:00011771n
-d003.s010.t004	,		X	
-d003.s010.t005	two		X	
-d003.s010.t006	or		X	
-d003.s010.t007	three		X	
-d003.s010.t008	initiatives	initiative	N	bn:00034797n
-d003.s010.t009	have	have	V	
-d003.s010.t010	been	be	V	
-d003.s010.t011	selected	select	V	bn:00084931v
-d003.s010.t012	for		X	
-d003.s010.t013	further	further	J	bn:00102794a
-d003.s010.t014	in		X	
-d003.s010.t015	depth	depth	N	bn:00026418n
-d003.s010.t016	case	case	N	bn:00016433n
-d003.s010.t017	study	study	N	bn:00074790n
-d003.s010.t018	.		X	
-d003.s011.t001	These		X	
-d003.s011.t002	case	case	N	bn:00016433n
-d003.s011.t003	studies	study	N	bn:00074790n
-d003.s011.t004	analysed	analyse	V	bn:00082596v
-d003.s011.t005	the		X	
-d003.s011.t006	background	background	N	bn:00007783n
-d003.s011.t007	of		X	
-d003.s011.t008	the		X	
-d003.s011.t009	initiatives	initiative	N	bn:00034797n
-d003.s011.t010	,		X	
-d003.s011.t011	their		X	
-d003.s011.t012	impact	impact	N	bn:00030709n
-d003.s011.t013	on		X	
-d003.s011.t014	employment	employment	N	bn:00030626n
-d003.s011.t015	patterns	pattern	N	bn:00061054n
-d003.s011.t016	and		X	
-d003.s011.t017	work	work	N	bn:00014138n
-d003.s011.t018	organisations	organisation	N	bn:00001423n
+d003.s006.t002	Foundation	foundation	N	bn:00036064n
+d003.s006.t003	organised	organise	N	
+d003.s006.t004	,		X	
+d003.s006.t005	together	together	R	bn:00115794r
+d003.s006.t006	with		X	
+d003.s006.t007	the		X	
+d003.s006.t008	European	european	J	bn:03895618n
+d003.s006.t009	Commission	commission	N	bn:00021015n
+d003.s006.t010	,		X	
+d003.s006.t011	the		X	
+d003.s006.t012	Spanish	spanish	J	bn:00110978a
+d003.s006.t013	Ministry	ministry	N	bn:00055180n
+d003.s006.t014	of		X	
+d003.s006.t015	Social	social	J	bn:00110842a
+d003.s006.t016	Affairs	affairs	N	bn:00001739n
+d003.s006.t017	and		X	
+d003.s006.t018	the		X	
+d003.s006.t019	Galician	galician	J	
+d003.s006.t020	regional	regional	J	bn:00001430n
+d003.s006.t021	government	government	N	bn:00007299n
+d003.s006.t022	,		X	
+d003.s006.t023	a		X	
+d003.s006.t024	European	european	J	bn:00102440a
+d003.s006.t025	conference	conference	N	bn:00021721n
+d003.s006.t026	on		X	
+d003.s006.t027	social	social	J	bn:00053403n
+d003.s006.t028	exclusion	exclusion	N	bn:00032152n
+d003.s006.t029	:		X	
+d003.s006.t030	a		X	
+d003.s006.t031	major	major	J	bn:00106332a
+d003.s006.t032	challenge	challenge	N	bn:00017557n
+d003.s006.t033	for		X	
+d003.s006.t034	public	public	J	bn:00065083n
+d003.s006.t035	welfare	welfare	N	bn:00009905n
+d003.s006.t036	services	service	N	bn:00070651n
+d003.s006.t037	.		X	
+d003.s007.t001	The		X	
+d003.s007.t002	Foundation	foundation	N	bn:00036064n
+d003.s007.t003	recently	recently	R	bn:00116085r
+d003.s007.t004	published	publish	V	bn:00084099v
+d003.s007.t005	a		X	
+d003.s007.t006	comparative	comparative	J	bn:00100121a
+d003.s007.t007	study	study	N	bn:00067181n
+d003.s007.t008	as		X	
+d003.s007.t009	part	part	N	bn:00027912n
+d003.s007.t010	of		X	
+d003.s007.t011	the		X	
+d003.s007.t012	EPOC	epoc	N	
+d003.s007.t013	project	project	N	bn:00064665n
+d003.s007.t014	which		X	
+d003.s007.t015	assesses	assess	V	bn:00082720v
+d003.s007.t016	the		X	
+d003.s007.t017	extent	extent	N	bn:00032425n
+d003.s007.t018	to		X	
+d003.s007.t019	which		X	
+d003.s007.t020	direct	direct	J	bn:00101412a
+d003.s007.t021	participation	participation	N	bn:00030844n
+d003.s007.t022	can		X	
+d003.s007.t023	humanise	humanise	V	bn:00089511v
+d003.s007.t024	work	work	N	bn:00014138n
+d003.s007.t025	while		X	
+d003.s007.t026	increasing	increase	V	bn:00089667v
+d003.s007.t027	profitability	profitability	N	bn:00037027n
+d003.s007.t028	.		X	
+d003.s008.t001	The		X	
+d003.s008.t002	study	study	N	bn:00074790n
+d003.s008.t003	is	be	V	
+d003.s008.t004	based	base	V	bn:00083141v
+d003.s008.t005	on		X	
+d003.s008.t006	195		X	
+d003.s008.t007	personal	personal	J	bn:00108489a
+d003.s008.t008	interviews	interview	N	bn:00047238n
+d003.s008.t009	with		X	
+d003.s008.t010	senior	senior	J	bn:00110401a
+d003.s008.t011	officials	official	N	bn:00036837n
+d003.s008.t012	of		X	
+d003.s008.t013	the		X	
+d003.s008.t014	social	social	J	bn:00110842a
+d003.s008.t015	partners	partner	N	
+d003.s008.t016	as		X	
+d003.s008.t017	representatives	representative	N	bn:00047203n
+d003.s008.t018	of		X	
+d003.s008.t019	national	national	J	bn:00107136a
+d003.s008.t020	level	level	N	bn:00041239n
+d003.s008.t021	peak	peak	N	
+d003.s008.t022	organisations	organisation	N	bn:00001423n
+d003.s008.t023	in		X	
+d003.s008.t024	fifteen	fifteen	J	bn:00095923a
+d003.s008.t025	European	european	J	bn:00102440a
+d003.s008.t026	countries	country	N	bn:00011771n
+d003.s008.t027	.		X	
+d003.s009.t001	As		X	
+d003.s009.t002	important	important	J	bn:00104680a
+d003.s009.t003	industrial	industrial	J	bn:00046576n
+d003.s009.t004	sectors	sector	N	bn:00070206n
+d003.s009.t005	,		X	
+d003.s009.t006	the		X	
+d003.s009.t007	metal	metal	N	bn:00054567n
+d003.s009.t008	industry	industry	N	bn:00046575n
+d003.s009.t009	and		X	
+d003.s009.t010	the		X	
+d003.s009.t011	banking	banking	N	bn:00008412n
+d003.s009.t012	sector	sector	N	bn:00070206n
+d003.s009.t013	were	be	V	
+d003.s009.t014	also	also	R	bn:00114246r
+d003.s009.t015	included	include	V	bn:00089660v
+d003.s009.t016	.		X	
+d003.s010.t001	Key	key	N	
+d003.s010.t002	speakers	speaker	N	bn:00073170n
+d003.s010.t003	at		X	
+d003.s010.t004	the		X	
+d003.s010.t005	social	social	J	bn:00053403n
+d003.s010.t006	exclusion	exclusion	N	bn:00032152n
+d003.s010.t007	conference	conference	N	bn:00021721n
+d003.s010.t008	were	be	V	
+d003.s010.t009	(		X	
+d003.s010.t010	left	left	N	bn:00050521n
+d003.s010.t011	to		X	
+d003.s010.t012	right	right	N	bn:00067808n
+d003.s010.t013	)		X	
+d003.s010.t014	Cristina	cristina	N	
+d003.s010.t015	Louro	louro	N	
+d003.s010.t016	,		X	
+d003.s010.t017	Employment	employment	N	bn:00030625n
+d003.s010.t018	,		X	
+d003.s010.t019	Industrial	industrial	J	bn:01869079n
+d003.s010.t020	Relations	relations	N	bn:00025569n
+d003.s010.t021	and		X	
+d003.s010.t022	Social	social	J	bn:00072552n
+d003.s010.t023	Affairs	affair	N	bn:00001738n
+d003.s010.t024	Directorate	directorate	N	bn:00011651n
+d003.s010.t025	,		X	
+d003.s010.t026	European	european	J	bn:03895618n
+d003.s010.t027	Commission	commission	N	bn:00021015n
+d003.s010.t028	Fernando	fernando	N	
+d003.s010.t029	Gomes	gomes	N	
+d003.s010.t030	,		X	
+d003.s010.t031	a		X	
+d003.s010.t032	high	high	J	bn:00102158a
+d003.s010.t033	degree	degree	N	
+d003.s010.t034	of		X	
+d003.s010.t035	Committee	committee	N	bn:00893206n
+d003.s010.t036	of		X	
+d003.s010.t037	the		X	
+d003.s010.t038	Regions	region	N	bn:03359468n
+d003.s010.t039	Barbara	barbara	N	bn:01019664n
+d003.s010.t040	Weiler	weiler	N	
+d003.s010.t041	,		X	
+d003.s010.t042	Member	member	N	bn:01941871n
+d003.s010.t043	of		X	
+d003.s010.t044	the		X	
+d003.s010.t045	European	european	J	bn:03855948n
+d003.s010.t046	Parliament	parliament	N	bn:00060708n
+d003.s010.t047	José	josé	N	bn:03742029n
+d003.s010.t048	Maria	Maria	N	
+d003.s010.t049	Gil-Robles	gil-robles	N	
+d003.s010.t050	,		X	
+d003.s010.t051	Vice-President	vice-president	N	bn:00079435n
+d003.s010.t052	,		X	
+d003.s010.t053	European	european	J	bn:03855948n
+d003.s010.t054	Parliament	parliament	N	bn:00060708n
+d003.s010.t055	and	and	N	
+d003.s010.t056	John	john	N	
+d003.s010.t057	Carroll	carroll	N	
+d003.s010.t058	,		X	
+d003.s010.t059	Economic	economic	J	bn:00893211n
+d003.s010.t060	and		X	
+d003.s010.t061	Social	social	J	bn:00110842a
+d003.s010.t062	Committee	committee	N	bn:00021015n
+d003.s010.t063	.		X	
+d003.s011.t001	Case	case	N	bn:00016433n
+d003.s011.t002	Studies	study	N	bn:00074790n
+d003.s011.t003	Each		X	
+d003.s011.t004	national	national	J	bn:00107136a
+d003.s011.t005	report	report	N	bn:00067181n
+d003.s011.t006	contains	contain	V	bn:00085499v
+d003.s011.t007	a		X	
+d003.s011.t008	portfolio	portfolio	N	bn:00063673n
+d003.s011.t009	of		X	
+d003.s011.t010	between		X	
+d003.s011.t011	25		X	
+d003.s011.t012	and		X	
+d003.s011.t013	30		X	
+d003.s011.t014	initiatives	initiative	N	bn:00034797n
+d003.s011.t015	which		X	
+d003.s011.t016	best	good	J	
+d003.s011.t017	present	present	V	bn:00090234v
+d003.s011.t018	policies	policy	N	bn:00063329n
 d003.s011.t019	and		X	
-d003.s011.t020	assessed	assess	V	bn:00082720v
-d003.s011.t021	the		X	
-d003.s011.t022	benefits	benefit	N	bn:00037022n
-d003.s011.t023	and		X	
-d003.s011.t024	problems	problem	N	bn:00048242n
-d003.s011.t025	of		X	
-d003.s011.t026	the		X	
-d003.s011.t027	initiative	initiative	N	bn:00034797n
-d003.s011.t028	.		X	
-d003.s012.t001	Visits	visit	N	bn:00080113n
-d003.s012.t002	and		X	
-d003.s012.t003	interviews	interview	N	bn:00047238n
-d003.s012.t004	with		X	
-d003.s012.t005	key	key	J	bn:00099258a
-d003.s012.t006	personnel	personnel	N	bn:00035770n
-d003.s012.t007	were	be	V	
-d003.s012.t008	also	also	R	bn:00114246r
-d003.s012.t009	undertaken	undertake	V	bn:00082906v
-d003.s012.t010	.		X	
+d003.s011.t020	practices	practice	N	bn:00061054n
+d003.s011.t021	to		X	
+d003.s011.t022	improve	improve	V	bn:00082573v
+d003.s011.t023	the		X	
+d003.s011.t024	recruitment	recruitment	N	bn:00030933n
+d003.s011.t025	,		X	
+d003.s011.t026	training	training	N	bn:01253664n
+d003.s011.t027	and		X	
+d003.s011.t028	development	development	N	bn:00026695n
+d003.s011.t029	of		X	
+d003.s011.t030	ageing	age	V	bn:00082449v
+d003.s011.t031	workers	worker	N	bn:00081593n
+d003.s011.t032	in		X	
+d003.s011.t033	both		X	
+d003.s011.t034	the		X	
+d003.s011.t035	work	work	N	bn:00014138n
+d003.s011.t036	place	place	N	bn:00051760n
+d003.s011.t037	and		X	
+d003.s011.t038	the		X	
+d003.s011.t039	community	community	N	bn:00021248n
+d003.s011.t040	.		X	
+d003.s012.t001	For		X	
+d003.s012.t002	each		X	
+d003.s012.t003	country	country	N	bn:00011771n
+d003.s012.t004	,		X	
+d003.s012.t005	two		X	
+d003.s012.t006	or		X	
+d003.s012.t007	three		X	
+d003.s012.t008	initiatives	initiative	N	bn:00034797n
+d003.s012.t009	have	have	V	
+d003.s012.t010	been	be	V	
+d003.s012.t011	selected	select	V	bn:00084931v
+d003.s012.t012	for		X	
+d003.s012.t013	further	further	J	bn:00102794a
+d003.s012.t014	in		X	
+d003.s012.t015	depth	depth	N	bn:00026418n
+d003.s012.t016	case	case	N	bn:00016433n
+d003.s012.t017	study	study	N	bn:00074790n
+d003.s012.t018	.		X	
 d003.s013.t001	These		X	
-d003.s013.t002	national	national	J	bn:00107136a
+d003.s013.t002	case	case	N	bn:00016433n
 d003.s013.t003	studies	study	N	bn:00074790n
-d003.s013.t004	will		X	
-d003.s013.t005	form	form	V	bn:00085670v
-d003.s013.t006	the		X	
-d003.s013.t007	basis	basis	N	bn:00008790n
-d003.s013.t008	of		X	
-d003.s013.t009	a		X	
-d003.s013.t010	European	european	J	bn:00102440a
-d003.s013.t011	report	report	N	bn:00067181n
-d003.s013.t012	which		X	
-d003.s013.t013	synthesises	synthesise	V	bn:00094713v
-d003.s013.t014	overall	overall	J	bn:00108083a
-d003.s013.t015	practices	practice	N	bn:00061054n
-d003.s013.t016	.		X	
-d003.s014.t001	The		X	
-d003.s014.t002	report	report	N	bn:00067181n
-d003.s014.t003	and		X	
-d003.s014.t004	a		X	
-d003.s014.t005	case	case	N	bn:00016435n
-d003.s014.t006	book	book	N	bn:00012059n
-d003.s014.t007	of		X	
-d003.s014.t008	initiatives	initiative	N	bn:00034797n
-d003.s014.t009	will		X	
-d003.s014.t010	be	be	V	
-d003.s014.t011	published	publish	V	bn:00084099v
-d003.s014.t012	in		X	
-d003.s014.t013	1996		X	
-d003.s014.t014	and		X	
-d003.s014.t015	provide	provide	V	bn:00084692v
-d003.s014.t016	the		X	
-d003.s014.t017	backdrop	backdrop	N	
-d003.s014.t018	for		X	
-d003.s014.t019	a		X	
-d003.s014.t020	conference	conference	N	bn:00021721n
-d003.s014.t021	to		X	
-d003.s014.t022	be	be	V	
-d003.s014.t023	staged	stage	V	bn:00082779v
-d003.s014.t024	in		X	
-d003.s014.t025	Autumn	autumn	N	bn:00007406n
-d003.s014.t026	,		X	
-d003.s014.t027	1996		X	
-d003.s014.t028	.		X	
-d003.s015.t001	The		X	
-d003.s015.t002	Foundation	foundation	N	bn:00036064n
-d003.s015.t003	aims	aim	V	bn:00082486v
-d003.s015.t004	to		X	
-d003.s015.t005	document	document	V	bn:00087137v
+d003.s013.t004	analysed	analyse	V	bn:00082596v
+d003.s013.t005	the		X	
+d003.s013.t006	background	background	N	bn:00007783n
+d003.s013.t007	of		X	
+d003.s013.t008	the		X	
+d003.s013.t009	initiatives	initiative	N	bn:00034797n
+d003.s013.t010	,		X	
+d003.s013.t011	their		X	
+d003.s013.t012	impact	impact	N	bn:00030709n
+d003.s013.t013	on		X	
+d003.s013.t014	employment	employment	N	bn:00030626n
+d003.s013.t015	patterns	pattern	N	bn:00061054n
+d003.s013.t016	and		X	
+d003.s013.t017	work	work	N	bn:00014138n
+d003.s013.t018	organisations	organisation	N	bn:00001423n
+d003.s013.t019	and		X	
+d003.s013.t020	assessed	assess	V	bn:00082720v
+d003.s013.t021	the		X	
+d003.s013.t022	benefits	benefit	N	bn:00037022n
+d003.s013.t023	and		X	
+d003.s013.t024	problems	problem	N	bn:00048242n
+d003.s013.t025	of		X	
+d003.s013.t026	the		X	
+d003.s013.t027	initiative	initiative	N	bn:00034797n
+d003.s013.t028	.		X	
+d003.s014.t001	Visits	visit	N	bn:00080113n
+d003.s014.t002	and		X	
+d003.s014.t003	interviews	interview	N	bn:00047238n
+d003.s014.t004	with		X	
+d003.s014.t005	key	key	J	bn:00099258a
+d003.s014.t006	personnel	personnel	N	bn:00035770n
+d003.s014.t007	were	be	V	
+d003.s014.t008	also	also	R	bn:00114246r
+d003.s014.t009	undertaken	undertake	V	bn:00082906v
+d003.s014.t010	.		X	
+d003.s015.t001	These		X	
+d003.s015.t002	national	national	J	bn:00107136a
+d003.s015.t003	studies	study	N	bn:00074790n
+d003.s015.t004	will		X	
+d003.s015.t005	form	form	V	bn:00085670v
 d003.s015.t006	the		X	
-d003.s015.t007	characteristics	characteristic	N	bn:00017761n
+d003.s015.t007	basis	basis	N	bn:00008790n
 d003.s015.t008	of		X	
-d003.s015.t009	age	age	N	bn:00001936n
-d003.s015.t010	barriers	barrier	N	bn:00008714n
-d003.s015.t011	in		X	
-d003.s015.t012	job	job	N	bn:00014138n
-d003.s015.t013	recruitment	recruitment	N	bn:00030933n
-d003.s015.t014	and		X	
-d003.s015.t015	training	training	N	bn:00041853n
-d003.s015.t016	and		X	
-d003.s015.t017	to		X	
-d003.s015.t018	analyse	analyse	V	bn:00082596v
-d003.s015.t019	their		X	
-d003.s015.t020	causes	cause	N	bn:00016850n
-d003.s015.t021	.		X	
+d003.s015.t009	a		X	
+d003.s015.t010	European	european	J	bn:00102440a
+d003.s015.t011	report	report	N	bn:00067181n
+d003.s015.t012	which		X	
+d003.s015.t013	synthesises	synthesise	V	bn:00094713v
+d003.s015.t014	overall	overall	J	bn:00108083a
+d003.s015.t015	practices	practice	N	bn:00061054n
+d003.s015.t016	.		X	
 d003.s016.t001	The		X	
-d003.s016.t002	perspectives	perspective	N	bn:00061746n
-d003.s016.t003	of		X	
-d003.s016.t004	the		X	
-d003.s016.t005	social	social	J	bn:01623772n
-d003.s016.t006	partners	partner	N	
-d003.s016.t007	is	be	V	
-d003.s016.t008	also	also	R	bn:00114246r
-d003.s016.t009	being	be	V	
-d003.s016.t010	examined	examine	V	bn:00082596v
-d003.s016.t011	,		X	
-d003.s016.t012	with		X	
-d003.s016.t013	particular	particular	J	bn:00102398a
-d003.s016.t014	attention	attention	N	bn:00007020n
-d003.s016.t015	paid	pay	V	bn:00086761v
-d003.s016.t016	to		X	
-d003.s016.t017	proposals	proposal	N	bn:00064776n
+d003.s016.t002	report	report	N	bn:00067181n
+d003.s016.t003	and		X	
+d003.s016.t004	a		X	
+d003.s016.t005	case	case	N	bn:00016435n
+d003.s016.t006	book	book	N	bn:00012059n
+d003.s016.t007	of		X	
+d003.s016.t008	initiatives	initiative	N	bn:00034797n
+d003.s016.t009	will		X	
+d003.s016.t010	be	be	V	
+d003.s016.t011	published	publish	V	bn:00084099v
+d003.s016.t012	in		X	
+d003.s016.t013	1996		X	
+d003.s016.t014	and		X	
+d003.s016.t015	provide	provide	V	bn:00084692v
+d003.s016.t016	the		X	
+d003.s016.t017	backdrop	backdrop	N	
 d003.s016.t018	for		X	
-d003.s016.t019	removing	remove	V	bn:00088783v
-d003.s016.t020	age	age	N	bn:00001936n
-d003.s016.t021	barriers	barrier	N	bn:00008714n
-d003.s016.t022	.		X	
-d003.s017.t001	Thirdly	thirdly	R	bn:00117283r
-d003.s017.t002	,		X	
-d003.s017.t003	the		X	
-d003.s017.t004	project	project	N	bn:00064665n
-d003.s017.t005	documents	document	N	
-d003.s017.t006	and		X	
-d003.s017.t007	assesses	assess	V	bn:00082720v
-d003.s017.t008	initiatives	initiative	N	bn:00034797n
-d003.s017.t009	,		X	
-d003.s017.t010	in		X	
-d003.s017.t011	both		X	
-d003.s017.t012	the		X	
-d003.s017.t013	public	public	J	bn:00109211a
+d003.s016.t019	a		X	
+d003.s016.t020	conference	conference	N	bn:00021721n
+d003.s016.t021	to		X	
+d003.s016.t022	be	be	V	
+d003.s016.t023	staged	stage	V	bn:00082779v
+d003.s016.t024	in		X	
+d003.s016.t025	Autumn	autumn	N	bn:00007406n
+d003.s016.t026	,		X	
+d003.s016.t027	1996		X	
+d003.s016.t028	.		X	
+d003.s017.t001	The		X	
+d003.s017.t002	Foundation	foundation	N	bn:00036064n
+d003.s017.t003	aims	aim	V	bn:00082486v
+d003.s017.t004	to		X	
+d003.s017.t005	document	document	V	bn:00087137v
+d003.s017.t006	the		X	
+d003.s017.t007	characteristics	characteristic	N	bn:00017761n
+d003.s017.t008	of		X	
+d003.s017.t009	age	age	N	bn:00001936n
+d003.s017.t010	barriers	barrier	N	bn:00008714n
+d003.s017.t011	in		X	
+d003.s017.t012	job	job	N	bn:00014138n
+d003.s017.t013	recruitment	recruitment	N	bn:00030933n
 d003.s017.t014	and		X	
-d003.s017.t015	private	private	J	bn:01861730n
-d003.s017.t016	sectors	sector	N	bn:00070206n
-d003.s017.t017	which		X	
-d003.s017.t018	combat	combat	N	
-d003.s017.t019	age	age	N	bn:00001936n
-d003.s017.t020	barriers	barrier	N	bn:00008714n
-d003.s017.t021	,		X	
-d003.s017.t022	especially	especially	R	bn:00115235r
-d003.s017.t023	for		X	
-d003.s017.t024	older	old	J	bn:00096644a
-d003.s017.t025	workers	worker	N	bn:00081593n
-d003.s017.t026	.		X	
-d003.s018.t001	Seeking	seek	V	bn:00090460v
-d003.s018.t002	alternatives	alternative	N	bn:00003132n
-d003.s018.t003	to		X	
-d003.s018.t004	early	early	J	bn:00101935a
-d003.s018.t005	retirement	retirement	N	bn:00067456n
-d003.s018.t006	and		X	
-d003.s018.t007	redundancy	redundancy	N	bn:00066743n
-d003.s018.t008	,		X	
-d003.s018.t009	the		X	
-d003.s018.t010	project	project	N	bn:00064665n
-d003.s018.t011	is	be	V	
-d003.s018.t012	primarily	primarily	R	bn:00114714r
-d003.s018.t013	concerned	concern	V	bn:00083240v
-d003.s018.t014	with		X	
-d003.s018.t015	the		X	
-d003.s018.t016	retention	retention	N	bn:00044396n
-d003.s018.t017	,		X	
-d003.s018.t018	reintegration	reintegrate	V	bn:00092717v
-d003.s018.t019	and		X	
-d003.s018.t020	retraining	retrain	V	bn:00092953v
-d003.s018.t021	of		X	
-d003.s018.t022	older	old	J	bn:00096644a
-d003.s018.t023	workers	worker	N	bn:00081593n
-d003.s018.t024	.		X	
-d003.s019.t001	The		X	
-d003.s019.t002	gender	gender	N	bn:00037634n
-d003.s019.t003	and		X	
-d003.s019.t004	ethnic	ethnic	J	bn:00031722n
-d003.s019.t005	backgrounds	background	N	bn:00007781n
-d003.s019.t006	of		X	
-d003.s019.t007	workers	worker	N	bn:00081593n
-d003.s019.t008	and		X	
-d003.s019.t009	how		X	
-d003.s019.t010	these		X	
-d003.s019.t011	relate	relate	V	bn:00082868v
-d003.s019.t012	to		X	
-d003.s019.t013	age	age	N	bn:00001957n
-d003.s019.t014	discrimination	discrimination	N	bn:00027538n
-d003.s019.t015	are	be	V	
-d003.s019.t016	examined	examine	V	bn:00082596v
-d003.s019.t017	.		X	
-d003.s020.t001	The		X	
-d003.s020.t002	project	project	N	bn:00064665n
-d003.s020.t003	also	also	R	bn:00114246r
-d003.s020.t004	considers	consider	V	bn:00085648v
-d003.s020.t005	initiatives	initiative	N	bn:00034797n
-d003.s020.t006	to		X	
-d003.s020.t007	combat	combat	V	
-d003.s020.t008	age	age	N	bn:00001957n
-d003.s020.t009	discrimination	discrimination	N	bn:00027538n
-d003.s020.t010	in		X	
-d003.s020.t011	rural	rural	J	bn:00023237n
-d003.s020.t012	areas	area	N	bn:00005513n
-d003.s020.t013	and		X	
-d003.s020.t014	in		X	
-d003.s020.t015	small	small	J	bn:03169699n
-d003.s020.t016	and		X	
-d003.s020.t017	medium	medium	J	
-d003.s020.t018	sized	sized	J	
-d003.s020.t019	enterprises	enterprise	N	bn:00021286n
-d003.s020.t020	.		X	
-d003.s021.t001	Seven		X	
-d003.s021.t002	member	member	N	bn:02197666n
-d003.s021.t003	states	state	N	bn:00011771n
-d003.s021.t004	are	be	V	
-d003.s021.t005	covered	cover	V	bn:00085497v
-d003.s021.t006	by		X	
-d003.s021.t007	the		X	
-d003.s021.t008	project	project	N	bn:00064665n
-d003.s021.t009	:		X	
-d003.s021.t010	Belgium	belgium	N	bn:00009714n
-d003.s021.t011	,		X	
-d003.s021.t012	France	france	N	bn:00036202n
-d003.s021.t013	,		X	
-d003.s021.t014	Germany	germany	N	bn:00026684n
-d003.s021.t015	,		X	
-d003.s021.t016	Greece	greece	N	bn:00030401n
-d003.s021.t017	,		X	
-d003.s021.t018	Italy	italy	N	bn:00047705n
-d003.s021.t019	,		X	
-d003.s021.t020	the		X	
-d003.s021.t021	Netherlands	netherlands	N	bn:00044423n
-d003.s021.t022	and		X	
-d003.s021.t023	the		X	
-d003.s021.t024	United	united	J	bn:00013173n
-d003.s021.t025	Kingdom	kingdom	N	bn:00049168n
-d003.s021.t026	.		X	
+d003.s017.t015	training	training	N	bn:00041853n
+d003.s017.t016	and		X	
+d003.s017.t017	to		X	
+d003.s017.t018	analyse	analyse	V	bn:00082596v
+d003.s017.t019	their		X	
+d003.s017.t020	causes	cause	N	bn:00016850n
+d003.s017.t021	.		X	
+d003.s018.t001	The		X	
+d003.s018.t002	perspectives	perspective	N	bn:00061746n
+d003.s018.t003	of		X	
+d003.s018.t004	the		X	
+d003.s018.t005	social	social	J	bn:01623772n
+d003.s018.t006	partners	partner	N	
+d003.s018.t007	is	be	V	
+d003.s018.t008	also	also	R	bn:00114246r
+d003.s018.t009	being	be	V	
+d003.s018.t010	examined	examine	V	bn:00082596v
+d003.s018.t011	,		X	
+d003.s018.t012	with		X	
+d003.s018.t013	particular	particular	J	bn:00102398a
+d003.s018.t014	attention	attention	N	bn:00007020n
+d003.s018.t015	paid	pay	V	bn:00086761v
+d003.s018.t016	to		X	
+d003.s018.t017	proposals	proposal	N	bn:00064776n
+d003.s018.t018	for		X	
+d003.s018.t019	removing	remove	V	bn:00088783v
+d003.s018.t020	age	age	N	bn:00001936n
+d003.s018.t021	barriers	barrier	N	bn:00008714n
+d003.s018.t022	.		X	
+d003.s019.t001	Thirdly	thirdly	R	bn:00117283r
+d003.s019.t002	,		X	
+d003.s019.t003	the		X	
+d003.s019.t004	project	project	N	bn:00064665n
+d003.s019.t005	documents	document	N	
+d003.s019.t006	and		X	
+d003.s019.t007	assesses	assess	V	bn:00082720v
+d003.s019.t008	initiatives	initiative	N	bn:00034797n
+d003.s019.t009	,		X	
+d003.s019.t010	in		X	
+d003.s019.t011	both		X	
+d003.s019.t012	the		X	
+d003.s019.t013	public	public	J	bn:00109211a
+d003.s019.t014	and		X	
+d003.s019.t015	private	private	J	bn:01861730n
+d003.s019.t016	sectors	sector	N	bn:00070206n
+d003.s019.t017	which		X	
+d003.s019.t018	combat	combat	N	
+d003.s019.t019	age	age	N	bn:00001936n
+d003.s019.t020	barriers	barrier	N	bn:00008714n
+d003.s019.t021	,		X	
+d003.s019.t022	especially	especially	R	bn:00115235r
+d003.s019.t023	for		X	
+d003.s019.t024	older	old	J	bn:00096644a
+d003.s019.t025	workers	worker	N	bn:00081593n
+d003.s019.t026	.		X	
+d003.s020.t001	Seeking	seek	V	bn:00090460v
+d003.s020.t002	alternatives	alternative	N	bn:00003132n
+d003.s020.t003	to		X	
+d003.s020.t004	early	early	J	bn:00101935a
+d003.s020.t005	retirement	retirement	N	bn:00067456n
+d003.s020.t006	and		X	
+d003.s020.t007	redundancy	redundancy	N	bn:00066743n
+d003.s020.t008	,		X	
+d003.s020.t009	the		X	
+d003.s020.t010	project	project	N	bn:00064665n
+d003.s020.t011	is	be	V	
+d003.s020.t012	primarily	primarily	R	bn:00114714r
+d003.s020.t013	concerned	concern	V	bn:00083240v
+d003.s020.t014	with		X	
+d003.s020.t015	the		X	
+d003.s020.t016	retention	retention	N	bn:00044396n
+d003.s020.t017	,		X	
+d003.s020.t018	reintegration	reintegrate	V	bn:00092717v
+d003.s020.t019	and		X	
+d003.s020.t020	retraining	retrain	V	bn:00092953v
+d003.s020.t021	of		X	
+d003.s020.t022	older	old	J	bn:00096644a
+d003.s020.t023	workers	worker	N	bn:00081593n
+d003.s020.t024	.		X	
+d003.s021.t001	The		X	
+d003.s021.t002	gender	gender	N	bn:00037634n
+d003.s021.t003	and		X	
+d003.s021.t004	ethnic	ethnic	J	bn:00031722n
+d003.s021.t005	backgrounds	background	N	bn:00007781n
+d003.s021.t006	of		X	
+d003.s021.t007	workers	worker	N	bn:00081593n
+d003.s021.t008	and		X	
+d003.s021.t009	how		X	
+d003.s021.t010	these		X	
+d003.s021.t011	relate	relate	V	bn:00082868v
+d003.s021.t012	to		X	
+d003.s021.t013	age	age	N	bn:00001957n
+d003.s021.t014	discrimination	discrimination	N	bn:00027538n
+d003.s021.t015	are	be	V	
+d003.s021.t016	examined	examine	V	bn:00082596v
+d003.s021.t017	.		X	
+d003.s022.t001	The		X	
+d003.s022.t002	project	project	N	bn:00064665n
+d003.s022.t003	also	also	R	bn:00114246r
+d003.s022.t004	considers	consider	V	bn:00085648v
+d003.s022.t005	initiatives	initiative	N	bn:00034797n
+d003.s022.t006	to		X	
+d003.s022.t007	combat	combat	V	
+d003.s022.t008	age	age	N	bn:00001957n
+d003.s022.t009	discrimination	discrimination	N	bn:00027538n
+d003.s022.t010	in		X	
+d003.s022.t011	rural	rural	J	bn:00023237n
+d003.s022.t012	areas	area	N	bn:00005513n
+d003.s022.t013	and		X	
+d003.s022.t014	in		X	
+d003.s022.t015	small	small	J	bn:03169699n
+d003.s022.t016	and		X	
+d003.s022.t017	medium	medium	J	
+d003.s022.t018	sized	sized	J	
+d003.s022.t019	enterprises	enterprise	N	bn:00021286n
+d003.s022.t020	.		X	
+d003.s023.t001	Seven		X	
+d003.s023.t002	member	member	N	bn:02197666n
+d003.s023.t003	states	state	N	bn:00011771n
+d003.s023.t004	are	be	V	
+d003.s023.t005	covered	cover	V	bn:00085497v
+d003.s023.t006	by		X	
+d003.s023.t007	the		X	
+d003.s023.t008	project	project	N	bn:00064665n
+d003.s023.t009	:		X	
+d003.s023.t010	Belgium	belgium	N	bn:00009714n
+d003.s023.t011	,		X	
+d003.s023.t012	France	france	N	bn:00036202n
+d003.s023.t013	,		X	
+d003.s023.t014	Germany	germany	N	bn:00026684n
+d003.s023.t015	,		X	
+d003.s023.t016	Greece	greece	N	bn:00030401n
+d003.s023.t017	,		X	
+d003.s023.t018	Italy	italy	N	bn:00047705n
+d003.s023.t019	,		X	
+d003.s023.t020	the		X	
+d003.s023.t021	Netherlands	netherlands	N	bn:00044423n
+d003.s023.t022	and		X	
+d003.s023.t023	the		X	
+d003.s023.t024	United	united	J	bn:00013173n
+d003.s023.t025	Kingdom	kingdom	N	bn:00049168n
+d003.s023.t026	.		X	
+d004.s001.t001	This		X	
+d004.s001.t002	document	document	N	bn:00028015n
+d004.s001.t003	is	be	V	
+d004.s001.t004	a		X	
+d004.s001.t005	summary	summary	N	bn:00075142n
+d004.s001.t006	of		X	
+d004.s001.t007	the		X	
+d004.s001.t008	European	european	J	bn:00102440a
+d004.s001.t009	Public	public	J	bn:00109211a
+d004.s001.t010	Assessment	assessment	N	bn:00005120n
+d004.s001.t011	Report	report	N	bn:00067181n
+d004.s001.t012	.		X	
+d004.s002.t001	It		X	
+d004.s002.t002	explains	explain	V	bn:00087869v
+d004.s002.t003	how		X	
+d004.s002.t004	the		X	
+d004.s002.t005	Committee	committee	N	bn:00021015n
+d004.s002.t006	for		X	
+d004.s002.t007	Medicinal	medicinal	J	bn:00106556a
+d004.s002.t008	Products	product	N	bn:00064584n
+d004.s002.t009	for		X	
+d004.s002.t010	Veterinary	veterinary	N	bn:00079883n
+d004.s002.t011	Use	use	N	bn:00030627n
+d004.s002.t012	(		X	
+d004.s002.t013	CVMP	cvmp	N	
+d004.s002.t014	)		X	
+d004.s002.t015	assessed	assess	V	bn:00082720v
+d004.s002.t016	the		X	
+d004.s002.t017	studies	study	N	bn:00074790n
+d004.s002.t018	performed	perform	V	bn:00087107v
+d004.s002.t019	,		X	
+d004.s002.t020	to		X	
+d004.s002.t021	reach	reach	V	bn:00088789v
+d004.s002.t022	their		X	
+d004.s002.t023	recommendations	recommendation	N	bn:00066562n
+d004.s002.t024	on		X	
+d004.s002.t025	how		X	
+d004.s002.t026	to		X	
+d004.s002.t027	use	use	V	bn:00082705v
+d004.s002.t028	the		X	
+d004.s002.t029	medicine	medicine	N	bn:00054128n
+d004.s002.t030	.		X	
 d004.s003.t001	What		X	
 d004.s003.t002	is	be	V	
 d004.s003.t003	Cerenia	cerenia	N	bn:00923812n
