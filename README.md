@@ -40,5 +40,11 @@ Paper Citation:
 
 
 The pipeline consists of a set of steps:
-(1) Translate the source sentences into the target language. The file translations.ipynb shows how to do this using google translate. This script with require a .json file with a key to the google cloud API. 
-(2) Align the tokens in the target to the source. This is done through the align.ipynb file. 
+
+(1) Translate the source sentences into the target language. The file translations.ipynb shows how to do this using google translate. This script with require a .json file with a key to the google cloud API. If you are trying to reproduce our work you can skip this step and just to step 3.
+
+(2) Tokenize the translated text. We have an of how we do this with SpaCy in the file tokenize.ipynb. You could additionally perform POS tagging during this step as well, or during alignment transfer over the POS tag of the source to the target token. NOTE: It is reccommended that you verify translations, tokenization, and pos tags in this step before moving on to step 3 as to save you time during the gold annotation stage. 
+
+(3) Align the tokens in the target to the source. This is done through the align.ipynb file. This will create the base version of our method with all the sense transfered over from the aligned source tokens. 
+
+(4) Filter out improperly projected senses. 
