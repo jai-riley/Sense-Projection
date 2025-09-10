@@ -1,0 +1,7 @@
+The dataset provided for Farsi, Bengali, and Chinese follow the format that each token, regardless of if it has been assigned a sense is given a token ID.
+
+The datasets provided for Spanish and Italian follow the format where only the tokens that are given a sense, are also given a token ID. 
+
+The English data is provided in both of these formats as to allow for both to be test. 
+The files in the English/Original directory match the format of the Bengali, Farsi, and Chinese data.
+The files in the English/second-sense directory match the format used for the Spanish and Italian data. 
